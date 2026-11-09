@@ -1,0 +1,29 @@
+{
+  "name": "Convertisseur Loona pixels (px) vers Em",
+  "short_name": "Convertisseur pixels (px) vers Em",
+  "description": "Convertissez les px en em avec une taille de police de base ajustable (16px par défaut) et un tableau de valeurs courantes.",
+  "id": "/loona-dev-tools/fr/px-to-em-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

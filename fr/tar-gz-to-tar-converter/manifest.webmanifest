@@ -1,0 +1,29 @@
+{
+  "name": "Convertisseur Loona TAR.GZ vers TAR",
+  "short_name": "Convertisseur TAR.GZ vers TAR",
+  "description": "Retirez la couche gzip d’une archive .tar.gz / .tgz pour obtenir le TAR simple, en ligne et localement — aucun outil d’extraction nécessaire.",
+  "id": "/loona-dev-tools/fr/tar-gz-to-tar-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

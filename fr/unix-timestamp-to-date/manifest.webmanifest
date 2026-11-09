@@ -1,0 +1,29 @@
+{
+  "name": "Convertisseur Loona d’horodatage Unix en date",
+  "short_name": "Horodatage Unix vers date",
+  "description": "Convertissez un horodatage Unix (secondes ou millisecondes) en une date lisible : UTC, votre heure locale, ISO 8601 et temps relatif.",
+  "id": "/loona-dev-tools/fr/unix-timestamp-to-date/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

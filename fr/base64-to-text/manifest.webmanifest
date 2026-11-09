@@ -1,0 +1,29 @@
+{
+  "name": "Décodeur Loona Base64 vers texte",
+  "short_name": "Décodeur Base64 vers texte",
+  "description": "Décodez Base64 en texte lisible en ligne. Gère les alphabets standard et sûr pour les URL, le texte UTF-8 dans toutes les langues. Gratuit et privé.",
+  "id": "/loona-dev-tools/fr/base64-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

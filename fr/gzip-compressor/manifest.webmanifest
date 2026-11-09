@@ -1,0 +1,29 @@
+{
+  "name": "Compresseur Loona GZIP en ligne gratuit",
+  "short_name": "Compresseur GZIP en ligne gratuit",
+  "description": "Compressez n’importe quel fichier unique en un .gz à l’aide du moteur gzip intégré de votre navigateur. Tailles avant/après instantanées, rien n’est téléversé - le fichier est compressé sur votre appareil. Fonctionne pour les journaux, les CSV, les fichiers TAR et bien plus.",
+  "id": "/loona-dev-tools/fr/gzip-compressor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

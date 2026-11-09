@@ -1,0 +1,29 @@
+{
+  "name": "Bibliothèque de convertisseurs et générateurs Loona",
+  "short_name": "Bibliothèque de convertisseurs et générateurs",
+  "description": "Index de tous les convertisseurs et générateurs de Loona Developer Tools : encodages, formats de données, hachages, couleurs, archives, générateurs de code et références.",
+  "id": "/loona-dev-tools/fr/converter-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

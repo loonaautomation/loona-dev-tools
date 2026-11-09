@@ -1,0 +1,29 @@
+{
+  "name": "Générateur de Robots.txt Loona en ligne gratuit",
+  "short_name": "Générateur de Robots.txt en ligne",
+  "description": "Générez un robots.txt valide en ligne et gratuitement - préréglages, règles d’autorisation et d’interdiction par agent, ligne de sitemap et contrôles de cohérence de syntaxe intégrés. Sans inscription, fonctionne dans votre navigateur.",
+  "id": "/loona-dev-tools/fr/robots-txt-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Décodeur de chiffrement Loona A1Z26 (Nombres vers lettres)",
+  "short_name": "Décodeur de chiffrement A1Z26 (Nombres",
+  "description": "Décodez les codes numériques A1Z26 en lettres : 1=A, 2=B ... 26=Z. Séparés par des traits d’union, des virgules ou des espaces.",
+  "id": "/loona-dev-tools/fr/a1z26-cipher-decoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

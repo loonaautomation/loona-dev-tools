@@ -1,0 +1,29 @@
+{
+  "name": "Convertisseur Loona décimal vers octal",
+  "short_name": "Convertisseur décimal vers octal",
+  "description": "Convertissez les nombres décimaux en octal en ligne — précision arbitraire (BigInt), nombres négatifs pris en charge.",
+  "id": "/loona-dev-tools/fr/decimal-to-octal-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

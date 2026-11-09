@@ -1,0 +1,29 @@
+{
+  "name": "Extracteur de données Loona CSV en ligne gratuit",
+  "short_name": "Extracteur de données CSV en ligne gratuit",
+  "description": "Extrayez les adresses e-mail, les numéros de téléphone et les URL de fichiers CSV en désordre ou de n’importe quel texte en ligne et gratuitement - des listes nettoyées et dédoublonnées que vous pouvez télécharger. Sans inscription, fonctionne dans votre navigateur.",
+  "id": "/loona-dev-tools/fr/csv-data-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Extracteur de fichiers RAR Loona en ligne gratuit",
+  "short_name": "Extracteur de fichiers RAR en ligne gratuit",
+  "description": "Ouvrez les fichiers RAR (RAR4 et RAR5) directement dans votre navigateur - voyez chaque fichier à l’intérieur, téléchargez des fichiers uniques ou tout en un ZIP. Rien n’est téléversé ; l’extraction se passe sur votre appareil.",
+  "id": "/loona-dev-tools/fr/rar-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

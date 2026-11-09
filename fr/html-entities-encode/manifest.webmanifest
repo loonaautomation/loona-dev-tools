@@ -1,0 +1,29 @@
+{
+  "name": "Encodeur d’entités HTML Loona",
+  "short_name": "Encodeur d’entités HTML",
+  "description": "Encodez les caractères spéciaux en entités HTML : nommées (&copy;), références numériques décimales ou hexadécimales. Échappe le balisage, les guillemets et le texte non ASCII.",
+  "id": "/loona-dev-tools/fr/html-entities-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

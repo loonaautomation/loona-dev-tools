@@ -1,0 +1,29 @@
+{
+  "name": "Extracteur de fichiers Loona GZ en ligne gratuit",
+  "short_name": "Extracteur de fichiers GZ en ligne gratuit",
+  "description": "Décompressez un seul fichier .gz directement dans votre navigateur et téléchargez le fichier d’origine - journaux, exports de données, vidages de bases de données. Rien n’est téléversé ; votre navigateur fait le travail nativement.",
+  "id": "/loona-dev-tools/fr/gz-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

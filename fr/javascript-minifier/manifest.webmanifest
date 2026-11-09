@@ -1,0 +1,29 @@
+{
+  "name": "Minifieur JavaScript Loona en ligne gratuit",
+  "short_name": "Minifieur JavaScript en ligne",
+  "description": "Minifiez le JavaScript en ligne et gratuitement avec un tokeniseur conservateur qui protège les chaînes, les littéraux de gabarits et les expressions régulières. Sans inscription, fonctionne à 100 % dans votre navigateur.",
+  "id": "/loona-dev-tools/fr/javascript-minifier/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

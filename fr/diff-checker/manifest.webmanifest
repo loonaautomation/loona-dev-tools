@@ -1,0 +1,29 @@
+{
+  "name": "Vérificateur de différences Loona en ligne gratuit",
+  "short_name": "Vérificateur de différences en ligne gratuit",
+  "description": "Comparez deux textes en ligne et gratuitement avec un diff ligne par ligne : lignes ajoutées en vert, lignes supprimées en rouge, plus un résumé des changements. Sans inscription, fonctionne à 100 % dans votre navigateur.",
+  "id": "/loona-dev-tools/fr/diff-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

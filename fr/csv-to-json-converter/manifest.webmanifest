@@ -1,0 +1,29 @@
+{
+  "name": "Convertisseur Loona CSV vers JSON en ligne gratuit",
+  "short_name": "Convertisseur CSV vers JSON en ligne",
+  "description": "Convertissez le CSV en un tableau JSON d’objets en ligne et gratuitement, avec un analyseur CSV correct qui gère les champs entre guillemets, les virgules à l’intérieur des guillemets et les guillemets échappés. Sans inscription, fonctionne à 100 % dans votre navigateur.",
+  "id": "/loona-dev-tools/fr/csv-to-json-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

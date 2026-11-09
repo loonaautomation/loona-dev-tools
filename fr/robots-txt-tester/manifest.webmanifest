@@ -1,0 +1,29 @@
+{
+  "name": "Testeur de Robots.txt Loona en ligne gratuit",
+  "short_name": "Testeur de Robots.txt en ligne gratuit",
+  "description": "Testez un robots.txt en ligne et gratuitement - collez le fichier, une URL et un user-agent, et obtenez un verdict autorisé ou bloqué avec la règle correspondante exacte affichée. Sans inscription, fonctionne dans votre navigateur.",
+  "id": "/loona-dev-tools/fr/robots-txt-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

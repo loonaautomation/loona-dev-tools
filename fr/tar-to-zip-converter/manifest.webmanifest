@@ -1,0 +1,29 @@
+{
+  "name": "Convertisseur Loona TAR vers ZIP en ligne gratuit",
+  "short_name": "Convertisseur TAR vers ZIP en ligne",
+  "description": "Convertissez une archive TAR (.tar) en un fichier ZIP directement dans votre navigateur. Les fichiers TAR proviennent des systèmes Linux et Unix ; le ZIP converti s’ouvre nativement sous Windows, macOS et sur les téléphones. Rien n’est téléversé.",
+  "id": "/loona-dev-tools/fr/tar-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

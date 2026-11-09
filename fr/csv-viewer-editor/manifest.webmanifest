@@ -1,0 +1,29 @@
+{
+  "name": "Visionneuse et éditeur Loona CSV en ligne gratuits",
+  "short_name": "Visionneuse et éditeur CSV en ligne",
+  "description": "Affichez et modifiez les fichiers CSV en ligne et gratuitement dans une grille de tableau modifiable - modifiez les cellules, triez les colonnes, ajoutez ou supprimez lignes et colonnes, puis téléchargez le CSV modifié. Sans inscription, fonctionne dans votre navigateur.",
+  "id": "/loona-dev-tools/fr/csv-viewer-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
