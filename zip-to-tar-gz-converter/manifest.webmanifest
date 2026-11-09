@@ -1,6 +1,6 @@
 {
   "name": "Loona ZIP to TAR.GZ Converter Online Free",
-  "short_name": "ZIP to TAR.GZ Converter Online F",
+  "short_name": "ZIP to TAR.GZ Converter",
   "description": "Convert a ZIP archive into a TAR.GZ tarball (.tar.gz) right in your browser - the format Linux servers, Docker and build tools expect. Folder structure preserved, nothing uploaded.",
   "id": "/loona-dev-tools/zip-to-tar-gz-converter/",
   "start_url": ".",

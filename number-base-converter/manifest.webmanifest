@@ -1,6 +1,6 @@
 {
   "name": "Loona Number Base Converter Online Free",
-  "short_name": "Number Base Converter Online Fre",
+  "short_name": "Number Base Converter Online",
   "description": "Convert numbers between binary, octal, decimal and hexadecimal online for free, with BigInt precision for values beyond 2^53 and per-digit validation. No sign-up, runs 100% in your browser.",
   "id": "/loona-dev-tools/number-base-converter/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Password Strength Checker Online Free",
-  "short_name": "Password Strength Checker Online",
+  "short_name": "Password Strength Checker",
   "description": "Check password strength online for free with a transparent entropy estimate, specific feedback and a crack-time estimate. The password never leaves your browser - nothing is sent or stored.",
   "id": "/loona-dev-tools/password-strength-checker/",
   "start_url": ".",

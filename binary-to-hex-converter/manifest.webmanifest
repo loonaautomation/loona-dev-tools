@@ -1,6 +1,6 @@
 {
   "name": "Loona Binary to Hexadecimal Converter",
-  "short_name": "Binary to Hexadecimal Converter",
+  "short_name": "Binary to Hexadecimal",
   "description": "Convert binary numbers to hexadecimal online — arbitrary precision (BigInt), negative numbers supported.",
   "id": "/loona-dev-tools/binary-to-hex-converter/",
   "start_url": ".",

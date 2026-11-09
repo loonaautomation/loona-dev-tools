@@ -1,6 +1,6 @@
 {
   "name": "Loona A1Z26 Cipher Encoder (Letters to Numbers)",
-  "short_name": "A1Z26 Cipher Encoder (Letters to",
+  "short_name": "A1Z26 Cipher Encoder (Letters",
   "description": "Encode text with the A1Z26 cipher: A=1, B=2 ... Z=26. The classic puzzle and escape-room code.",
   "id": "/loona-dev-tools/a1z26-cipher-encoder/",
   "start_url": ".",

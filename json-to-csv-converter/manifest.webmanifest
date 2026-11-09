@@ -1,6 +1,6 @@
 {
   "name": "Loona JSON to CSV Converter Online Free",
-  "short_name": "JSON to CSV Converter Online Fre",
+  "short_name": "JSON to CSV Converter Online",
   "description": "Convert a JSON array of objects to CSV online for free: union of keys as columns, correct quoting and escaping, nested values kept as JSON. No sign-up, runs 100% in your browser.",
   "id": "/loona-dev-tools/json-to-csv-converter/",
   "start_url": ".",

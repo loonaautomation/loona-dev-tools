@@ -1,6 +1,6 @@
 {
   "name": "Loona Cron Expression Generator Online Free",
-  "short_name": "Cron Expression Generator Online",
+  "short_name": "Cron Expression Generator",
   "description": "Build cron expressions from dropdowns and explain any 5-field cron expression in plain English, online for free. No sign-up, runs 100% in your browser.",
   "id": "/loona-dev-tools/cron-expression-generator/",
   "start_url": ".",

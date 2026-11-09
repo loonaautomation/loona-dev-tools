@@ -1,6 +1,6 @@
 {
   "name": "Loona Unicode Unescape Converter (Decode \\uXXXX)",
-  "short_name": "Unicode Unescape Converter (Deco",
+  "short_name": "Unicode Unescape Converter",
   "description": "Decode Unicode escape sequences (\\uXXXX, \\u{...}, \\xXX) back to real characters, plus \\n \\t and \\\\ escapes.",
   "id": "/loona-dev-tools/unicode-unescape/",
   "start_url": ".",

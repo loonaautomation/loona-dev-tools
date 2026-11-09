@@ -1,6 +1,6 @@
 {
   "name": "Loona YAML to JSON Converter Online Free",
-  "short_name": "YAML to JSON Converter Online Fr",
+  "short_name": "YAML to JSON Converter Online",
   "description": "Convert YAML to JSON and JSON to YAML online for free. Supports the everyday subset: nested maps, lists and scalars, with the limits stated honestly. No sign-up, runs 100% in your browser.",
   "id": "/loona-dev-tools/yaml-json-converter/",
   "start_url": ".",

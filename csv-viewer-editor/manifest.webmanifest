@@ -1,6 +1,6 @@
 {
   "name": "Loona CSV Viewer & Editor Online Free",
-  "short_name": "CSV Viewer & Editor Online Free",
+  "short_name": "CSV Viewer & Editor Online",
   "description": "View and edit CSV files online for free in an editable table grid - edit cells, sort columns, add or remove rows and columns, then download the edited CSV. No sign-up, runs in your browser.",
   "id": "/loona-dev-tools/csv-viewer-editor/",
   "start_url": ".",

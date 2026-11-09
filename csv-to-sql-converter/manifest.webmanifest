@@ -1,6 +1,6 @@
 {
   "name": "Loona CSV to SQL Converter Online Free",
-  "short_name": "CSV to SQL Converter Online Free",
+  "short_name": "CSV to SQL Converter Online",
   "description": "Convert CSV to SQL online for free - CREATE TABLE with inferred column types plus one INSERT per row, for MySQL, PostgreSQL or SQLite. No sign-up, runs 100% in your browser.",
   "id": "/loona-dev-tools/csv-to-sql-converter/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Caesar Cipher Encoder & Decoder",
-  "short_name": "Caesar Cipher Encoder & Decoder",
+  "short_name": "Caesar Cipher Encoder &",
   "description": "Caesar cipher with any shift (1–25) and a decode mode: the classic substitution cipher of Julius Caesar, online.",
   "id": "/loona-dev-tools/caesar-cipher/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Slug Generator (URL Slug Maker)",
-  "short_name": "Slug Generator (URL Slug Maker)",
+  "short_name": "Slug Generator (URL Slug",
   "description": "Generate clean URL slugs from titles: accents stripped, lowercase, spaces to hyphens (or underscores). Free slug maker.",
   "id": "/loona-dev-tools/slug-generator/",
   "start_url": ".",

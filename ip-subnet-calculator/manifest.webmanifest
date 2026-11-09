@@ -1,6 +1,6 @@
 {
   "name": "Loona IP Subnet Calculator Online Free",
-  "short_name": "IP Subnet Calculator Online Free",
+  "short_name": "IP Subnet Calculator Online",
   "description": "Calculate IPv4 subnets online for free - network, broadcast, netmask, wildcard, first and last host, usable host count and IP class from any CIDR address, plus a subnet splitting view.",
   "id": "/loona-dev-tools/ip-subnet-calculator/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
   "name": "Loona CSV Dedupe & Cleaner Online Free",
-  "short_name": "CSV Dedupe & Cleaner Online Free",
+  "short_name": "CSV Dedupe & Cleaner Online",
   "description": "Remove duplicate rows from CSV online for free - by whole row or by key columns - plus trim whitespace, drop empty rows and normalise line endings, with before/after counts. No sign-up.",
   "id": "/loona-dev-tools/csv-dedupe-cleaner/",
   "start_url": ".",

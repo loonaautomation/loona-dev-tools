@@ -1,6 +1,6 @@
 {
   "name": "Loona Markdown Table to CSV Converter",
-  "short_name": "Markdown Table to CSV Converter",
+  "short_name": "Markdown Table to CSV",
   "description": "Convert a Markdown table to CSV: header and rows extracted, alignment row removed, cells trimmed and quoted properly.",
   "id": "/loona-dev-tools/markdown-table-to-csv/",
   "start_url": ".",

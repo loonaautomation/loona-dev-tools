@@ -1,6 +1,6 @@
 {
   "name": "Loona XML Sitemap Generator Online Free",
-  "short_name": "XML Sitemap Generator Online Fre",
+  "short_name": "XML Sitemap Generator Online",
   "description": "Generate a valid XML sitemap online for free from a list of URLs, with default lastmod, changefreq and priority, correct URL and XML escaping. No sign-up, runs in your browser.",
   "id": "/loona-dev-tools/xml-sitemap-generator/",
   "start_url": ".",

@@ -1,6 +1,6 @@
 {
   "name": "Loona Unix Timestamp Converter Online Free",
-  "short_name": "Unix Timestamp Converter Online ",
+  "short_name": "Unix Timestamp Converter",
   "description": "Convert Unix timestamps (seconds or milliseconds) to human dates in UTC and your local time, and dates back to timestamps. Live current time. Free.",
   "id": "/loona-dev-tools/timestamp-converter/",
   "start_url": ".",

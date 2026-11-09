@@ -1,6 +1,6 @@
 {
   "name": "Loona Unix Timestamp to Date Converter",
-  "short_name": "Unix Timestamp to Date Converter",
+  "short_name": "Unix Timestamp to Date",
   "description": "Convert a Unix timestamp (seconds or milliseconds) to a human date: UTC, your local time, ISO 8601 and relative time.",
   "id": "/loona-dev-tools/unix-timestamp-to-date/",
   "start_url": ".",

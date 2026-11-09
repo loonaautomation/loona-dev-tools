@@ -1,6 +1,6 @@
 {
   "name": "Loona A1Z26 Cipher Decoder (Numbers to Letters)",
-  "short_name": "A1Z26 Cipher Decoder (Numbers to",
+  "short_name": "A1Z26 Cipher Decoder (Numbers",
   "description": "Decode A1Z26 number codes back to letters: 1=A, 2=B ... 26=Z. Hyphen, comma or space separated.",
   "id": "/loona-dev-tools/a1z26-cipher-decoder/",
   "start_url": ".",

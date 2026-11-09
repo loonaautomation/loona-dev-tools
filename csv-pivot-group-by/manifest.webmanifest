@@ -1,6 +1,6 @@
 {
   "name": "Loona CSV Pivot & Group-By Online Free",
-  "short_name": "CSV Pivot & Group-By Online Free",
+  "short_name": "CSV Pivot & Group-By Online",
   "description": "Pivot CSV data online for free - group rows by any column and calculate sum, count, average, minimum or maximum of a value column. No sign-up, runs 100% in your browser.",
   "id": "/loona-dev-tools/csv-pivot-group-by/",
   "start_url": ".",

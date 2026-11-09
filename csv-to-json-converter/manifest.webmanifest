@@ -1,6 +1,6 @@
 {
   "name": "Loona CSV to JSON Converter Online Free",
-  "short_name": "CSV to JSON Converter Online Fre",
+  "short_name": "CSV to JSON Converter Online",
   "description": "Convert CSV to a JSON array of objects online for free, with a proper CSV parser that handles quoted fields, commas inside quotes and escaped quotes. No sign-up, runs 100% in your browser.",
   "id": "/loona-dev-tools/csv-to-json-converter/",
   "start_url": ".",

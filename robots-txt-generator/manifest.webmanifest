@@ -1,6 +1,6 @@
 {
   "name": "Loona Robots.txt Generator Online Free",
-  "short_name": "Robots.txt Generator Online Free",
+  "short_name": "Robots.txt Generator Online",
   "description": "Generate a valid robots.txt online for free - presets, per-agent allow and disallow rules, sitemap line and built-in syntax sanity checks. No sign-up, runs in your browser.",
   "id": "/loona-dev-tools/robots-txt-generator/",
   "start_url": ".",

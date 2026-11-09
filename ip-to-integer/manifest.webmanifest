@@ -1,6 +1,6 @@
 {
   "name": "Loona IP Address to Integer Converter",
-  "short_name": "IP Address to Integer Converter",
+  "short_name": "IP Address to Integer",
   "description": "Convert an IPv4 address to its 32-bit integer form (192.168.0.1 → 3232235521), used in databases and range checks.",
   "id": "/loona-dev-tools/ip-to-integer/",
   "start_url": ".",

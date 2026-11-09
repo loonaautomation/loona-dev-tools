@@ -1,6 +1,6 @@
 {
   "name": "Loona Hexadecimal to Decimal Converter",
-  "short_name": "Hexadecimal to Decimal Converter",
+  "short_name": "Hexadecimal to Decimal",
   "description": "Convert hexadecimal numbers to decimal online — arbitrary precision (BigInt), negative numbers supported.",
   "id": "/loona-dev-tools/hex-to-decimal-converter/",
   "start_url": ".",

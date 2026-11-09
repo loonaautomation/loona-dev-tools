@@ -1,6 +1,6 @@
 {
-  "name": "Loona Office Document Metadata Viewer Online Free",
-  "short_name": "Office Document Metadata Viewer ",
+  "name": "Loona Office Document Metadata Viewer Online",
+  "short_name": "Office Document Metadata",
   "description": "View Office document metadata online for free - title, author, company, creation and modification dates, application and version for .docx, .xlsx and .pptx files. View-only, nothing uploaded.",
   "id": "/loona-dev-tools/office-metadata-viewer/",
   "start_url": ".",
