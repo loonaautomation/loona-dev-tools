@@ -1,0 +1,29 @@
+{
+  "name": "Loona Codificatore di entità HTML",
+  "short_name": "Codificatore di entità HTML",
+  "description": "Codifica caratteri speciali come entità HTML: riferimenti con nome (&copy;), decimali o esadecimali. Sottopone a escape markup, virgolette e testo non-ASCII.",
+  "id": "/loona-dev-tools/it/html-entities-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

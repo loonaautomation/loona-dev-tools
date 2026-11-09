@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calcolatore di checksum CRC32",
+  "short_name": "Calcolatore di checksum CRC32",
+  "description": "Calcola hash CRC32 di testo o file online: 32-bit, 8 caratteri esadecimali. Funziona localmente nel tuo browser con WebCrypto/pure JS — i file non vengono mai caricati.",
+  "id": "/loona-dev-tools/it/crc32-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Codificatore e decodificatore ROT13",
+  "short_name": "Codificatore e decodificatore ROT13",
+  "description": "ROT13 qualsiasi testo: ruota le lettere di 13 posizioni. Codifica e decodifica sono la stessa operazione. Classico per spoiler e puzzle.",
+  "id": "/loona-dev-tools/it/rot13-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

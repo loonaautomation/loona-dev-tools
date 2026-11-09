@@ -1,0 +1,29 @@
+{
+  "name": "Loona Deduplicazione e pulizia CSV online gratuito",
+  "short_name": "Deduplicazione e pulizia CSV online",
+  "description": "Rimuovi righe duplicate da CSV online gratuitamente - per riga intera o per colonne chiave - più rifila spazi, elimina righe vuote e normalizza le terminazioni di riga, con conteggi prima/dopo. Nessuna registrazione.",
+  "id": "/loona-dev-tools/it/csv-dedupe-cleaner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

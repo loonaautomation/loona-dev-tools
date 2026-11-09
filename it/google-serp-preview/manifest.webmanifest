@@ -1,0 +1,29 @@
+{
+  "name": "Loona Strumento di anteprima SERP di Google online gratuito",
+  "short_name": "Strumento di anteprima SERP di Google",
+  "description": "Anteprima di come il titolo della tua pagina e la meta descrizione appariranno nei risultati di ricerca Google online gratuitamente, con viste desktop e mobile e avvisi di troncamento per larghezza pixel. Nessuna registrazione.",
+  "id": "/loona-dev-tools/it/google-serp-preview/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

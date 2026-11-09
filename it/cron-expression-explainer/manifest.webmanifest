@@ -1,0 +1,29 @@
+{
+  "name": "Loona Spiegatore di espressioni Cron",
+  "short_name": "Spiegatore di espressioni Cron",
+  "description": "Spiega le espressioni cron in italiano semplice: incolla una pianificazione cron a 5 campi e leggi quando viene eseguita, campo per campo.",
+  "id": "/loona-dev-tools/it/cron-expression-explainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

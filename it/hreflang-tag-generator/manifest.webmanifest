@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generatore di tag Hreflang online gratuito",
+  "short_name": "Generatore di tag Hreflang online",
+  "description": "Genera tag hreflang online gratuitamente - incolla coppie lingua e URL, aggiungi un x-default e ottieni il set completo di link alternativi con controlli BCP 47 e URL assoluti. Nessuna registrazione.",
+  "id": "/loona-dev-tools/it/hreflang-tag-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

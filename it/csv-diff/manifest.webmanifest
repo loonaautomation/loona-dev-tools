@@ -1,0 +1,29 @@
+{
+  "name": "Loona Diff e confronto CSV online gratuito",
+  "short_name": "Diff e confronto CSV online gratuito",
+  "description": "Confronta due file CSV online gratuitamente - righe abbinate per una colonna chiave e classificate come aggiunte, rimosse, modificate (con le celle esatte) o invariate. Nessuna registrazione, funziona nel tuo browser.",
+  "id": "/loona-dev-tools/it/csv-diff/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

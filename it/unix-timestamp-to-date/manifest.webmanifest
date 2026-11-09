@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertitore da timestamp Unix a data",
+  "short_name": "Da timestamp Unix a data",
+  "description": "Converti un timestamp Unix (secondi o millisecondi) in una data leggibile: UTC, la tua ora locale, ISO 8601 e tempo relativo.",
+  "id": "/loona-dev-tools/it/unix-timestamp-to-date/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

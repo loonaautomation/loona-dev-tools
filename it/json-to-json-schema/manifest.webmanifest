@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generatore da JSON a JSON Schema",
+  "short_name": "Generatore da JSON a JSON Schema",
+  "description": "Genera uno schema JSON (bozza 2020-12) da un campione JSON: tipi dedotti, proprietà degli oggetti e chiavi obbligatorie incluse.",
+  "id": "/loona-dev-tools/it/json-to-json-schema/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

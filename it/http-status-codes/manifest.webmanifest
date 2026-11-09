@@ -1,0 +1,29 @@
+{
+  "name": "Loona Riferimento codici di stato HTTP",
+  "short_name": "Riferimento codici di stato HTTP",
+  "description": "Ogni codice di stato HTTP comune con il suo significato: 2xx successo, 3xx reindirizzamenti, 4xx errori client, 5xx errori server — spiegato semplicemente.",
+  "id": "/loona-dev-tools/it/http-status-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

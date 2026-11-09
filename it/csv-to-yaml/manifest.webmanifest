@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertitore da CSV a YAML",
+  "short_name": "Convertitore da CSV a YAML",
+  "description": "Converti tabelle CSV in YAML: la riga di intestazione diventa chiavi, ogni riga un elemento in un elenco YAML, numeri tipizzati.",
+  "id": "/loona-dev-tools/it/csv-to-yaml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

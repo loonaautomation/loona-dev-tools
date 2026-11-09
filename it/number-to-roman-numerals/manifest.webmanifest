@@ -1,0 +1,29 @@
+{
+  "name": "Loona Da numeri a numeri romani",
+  "short_name": "Da numeri a numeri romani",
+  "description": "Converti numeri (1–3999) in numeri romani in forma sottrattiva standard. Convertitore online gratuito.",
+  "id": "/loona-dev-tools/it/number-to-roman-numerals/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertitore da intero a indirizzo IP",
+  "short_name": "Da intero a indirizzo IP",
+  "description": "Converti un intero a 32-bit di nuovo in un indirizzo IPv4 puntato (3232235521 → 192.168.0.1).",
+  "id": "/loona-dev-tools/it/integer-to-ip/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

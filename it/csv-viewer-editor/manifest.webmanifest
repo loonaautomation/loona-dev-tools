@@ -1,0 +1,29 @@
+{
+  "name": "Loona Visualizzatore ed editor CSV online gratuito",
+  "short_name": "Visualizzatore ed editor CSV online",
+  "description": "Visualizza e modifica file CSV online gratuitamente in una griglia tabellare modificabile - modifica celle, ordina colonne, aggiungi o rimuovi righe e colonne, poi scarica il CSV modificato. Nessuna registrazione, funziona nel tuo browser.",
+  "id": "/loona-dev-tools/it/csv-viewer-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

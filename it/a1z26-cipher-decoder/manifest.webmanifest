@@ -1,0 +1,29 @@
+{
+  "name": "Loona Decodificatore di cifrario A1Z26 (da numeri a lettere)",
+  "short_name": "Decodificatore di cifrario A1Z26 (Numeri",
+  "description": "Decodifica i codici numerici A1Z26 di nuovo in lettere: 1=A, 2=B ... 26=Z. Separati da trattino, virgola o spazio.",
+  "id": "/loona-dev-tools/it/a1z26-cipher-decoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

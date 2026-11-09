@@ -1,0 +1,29 @@
+{
+  "name": "Loona Divisione e unione CSV online gratuito",
+  "short_name": "Divisione e unione CSV online gratuito",
+  "description": "Dividi un CSV in parti per conteggio righe o unisci più file CSV in uno, online gratuitamente - intestazioni gestite correttamente, analisi CSV corretta. Nessuna registrazione, funziona al 100% nel tuo browser.",
+  "id": "/loona-dev-tools/it/csv-split-merge/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

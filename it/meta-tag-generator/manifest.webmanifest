@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generatore di meta tag online gratuito",
+  "short_name": "Generatore di meta tag online gratuito",
+  "description": "Genera meta tag HTML online gratuitamente - titolo, descrizione, parole chiave, autore, robots e canonico - con un'anteprima SERP live in stile Google e conteggi caratteri. Nessuna registrazione.",
+  "id": "/loona-dev-tools/it/meta-tag-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

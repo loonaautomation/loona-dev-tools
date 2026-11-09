@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertitore di timestamp Unix online gratuito",
+  "short_name": "Convertitore di timestamp Unix",
+  "description": "Converti timestamp Unix (secondi o millisecondi) in date leggibili in UTC e nella tua ora locale, e date di nuovo in timestamp. Ora attuale live. Gratuito.",
+  "id": "/loona-dev-tools/it/timestamp-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

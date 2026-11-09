@@ -1,0 +1,29 @@
+{
+  "name": "Loona Codificatore e decodificatore URL online gratuito",
+  "short_name": "Codificatore e decodificatore URL online",
+  "description": "Codifica e decodifica URL e testo di query online gratuitamente, con modalità componente e URL completo e una ripartizione per carattere. Nessuna registrazione, nel tuo browser.",
+  "id": "/loona-dev-tools/it/url-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Parser di intestazioni Cookie",
+  "short_name": "Parser di intestazioni Cookie",
+  "description": "Analizza un'intestazione Cookie in un elenco leggibile: coppie nome = valore, valori percent-decoded mostrati, conteggio cookie.",
+  "id": "/loona-dev-tools/it/cookie-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
