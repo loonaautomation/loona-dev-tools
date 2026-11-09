@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON-zu-SQL-INSERT-Generator",
+  "short_name": "JSON-zu-SQL-INSERT-Generator",
+  "description": "Generieren Sie SQL-INSERT-Anweisungen aus einem JSON-Array von Objekten: Zeichenfolgen escaped, NULLs und Booleans verarbeitet, benutzerdefinierter Tabellenname.",
+  "id": "/loona-dev-tools/de/json-to-sql-insert/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

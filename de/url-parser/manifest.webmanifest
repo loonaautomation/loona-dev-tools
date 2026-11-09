@@ -1,0 +1,29 @@
+{
+  "name": "Loona URL-Parser online kostenlos",
+  "short_name": "URL-Parser online kostenlos",
+  "description": "Parsen Sie eine beliebige URL kostenlos online zu Protokoll, Host, Port, Pfad, Query-Parametern und Hash – bearbeiten Sie die Parameter und bauen Sie die URL neu. Keine Registrierung, läuft zu 100 % in Ihrem Browser.",
+  "id": "/loona-dev-tools/de/url-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML-Entitäts-Encoder & Decoder online kostenlos",
+  "short_name": "HTML-Entity-Encoder & Decoder",
+  "description": "Codieren Sie Text in HTML-Entities (benannt wie &amp;copy; oder nummeriert wie &amp;#169;) und decodieren Sie Entities zurück zu einfachem Text. Kostenlos, keine Registrierung, in Ihrem Browser.",
+  "id": "/loona-dev-tools/de/html-entity-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

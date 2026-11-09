@@ -1,0 +1,29 @@
+{
+  "name": "Loona RAR-Datei-Extraktor online kostenlos",
+  "short_name": "RAR-Datei-Extraktor online kostenlos",
+  "description": "Öffnen Sie RAR-Dateien (RAR4 und RAR5) direkt in Ihrem Browser – sehen Sie jede Datei darin, laden Sie einzelne Dateien oder alles als ZIP herunter. Nichts wird hochgeladen; die Extraktion geschieht auf Ihrem Gerät.",
+  "id": "/loona-dev-tools/de/rar-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

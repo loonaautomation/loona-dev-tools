@@ -1,0 +1,29 @@
+{
+  "name": "Loona Text-zu-Base32-Encoder",
+  "short_name": "Text-zu-Base32-Encoder",
+  "description": "Codieren Sie Text online zu Base32 (RFC 4648) — die Codierung ohne Groß-/Kleinschreibung, die in TOTP-Geheimnissen und DNS-sicheren Kennungen verwendet wird.",
+  "id": "/loona-dev-tools/de/text-to-base32/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

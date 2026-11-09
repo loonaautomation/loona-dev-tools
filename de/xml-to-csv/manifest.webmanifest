@@ -1,0 +1,29 @@
+{
+  "name": "Loona XML-zu-CSV-Konverter",
+  "short_name": "XML-zu-CSV-Konverter",
+  "description": "Konvertieren Sie XML zu CSV: Wiederholte Elemente werden zu Zeilen, ihre Kinder und Attribute werden zu Spalten. Kostenloser Online-Konverter.",
+  "id": "/loona-dev-tools/de/xml-to-csv/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

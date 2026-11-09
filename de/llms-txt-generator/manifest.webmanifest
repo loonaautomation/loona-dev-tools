@@ -1,0 +1,29 @@
+{
+  "name": "Loona llms.txt-Generator online kostenlos",
+  "short_name": "llms.txt-Generator online kostenlos",
+  "description": "Generieren Sie eine gültige llms.txt-Datei kostenlos online – Website-Name, Zusammenfassungs-Blockquote, Details und kuratierte Seitenlinks im llms.txt-Format, das für KI-Crawler vorgeschlagen wird. Keine Registrierung.",
+  "id": "/loona-dev-tools/de/llms-txt-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

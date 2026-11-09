@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dateityp-Detektor online kostenlos",
+  "short_name": "Dateityp-Detektor online kostenlos",
+  "description": "Erkennen Sie den echten Typ einer Datei kostenlos online an ihrer magischen Byte-Header-Signatur – PNG, PDF, ZIP, MP4, EXE und 30+ Formate – und erhalten Sie eine Warnung, wenn die Erweiterung nicht übereinstimmt. Nichts hochgeladen.",
+  "id": "/loona-dev-tools/de/file-type-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

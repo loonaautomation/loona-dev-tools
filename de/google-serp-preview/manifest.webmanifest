@@ -1,0 +1,29 @@
+{
+  "name": "Loona Google-SERP-Vorschau-Tool online kostenlos",
+  "short_name": "Google-SERP-Vorschau-Tool",
+  "description": "Sehen Sie sich kostenlos online in der Vorschau an, wie Ihr Seitentitel und Ihre Meta-Beschreibung in Google-Suchergebnissen aussehen werden, mit Desktop- und Mobilansichten und Warnungen zur Abschneidung nach Pixelbreite. Keine Registrierung.",
+  "id": "/loona-dev-tools/de/google-serp-preview/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

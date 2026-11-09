@@ -1,0 +1,29 @@
+{
+  "name": "Loona Text-zu-Base64-Encoder",
+  "short_name": "Text-zu-Base64-Encoder",
+  "description": "Codieren Sie Text online zu Base64, UTF-8-sicher für jede Sprache und Emoji, mit einem optionalen URL-sicheren Alphabet. Kostenlos, privat, in Ihrem Browser.",
+  "id": "/loona-dev-tools/de/text-to-base64/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Unzip-Datei-Extraktor online kostenlos",
+  "short_name": "Unzip-Datei-Extraktor online",
+  "description": "Öffnen Sie eine ZIP-Datei in Ihrem Browser, sehen Sie jede Datei darin mit ihrer Größe und extrahieren Sie einzelne Dateien oder alle. Nichts wird hochgeladen; die Extraktion geschieht auf Ihrem Gerät.",
+  "id": "/loona-dev-tools/de/unzip-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

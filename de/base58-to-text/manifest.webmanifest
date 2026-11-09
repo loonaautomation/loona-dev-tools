@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base58-zu-Text-Decoder",
+  "short_name": "Base58-zu-Text-Decoder",
+  "description": "Decodieren Sie Base58-Zeichenfolgen zurück zu Text (UTF-8). Validiert gegen das Bitcoin-Alphabet und meldet ungültige Zeichen.",
+  "id": "/loona-dev-tools/de/base58-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

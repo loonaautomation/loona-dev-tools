@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hexadezimal-zu-Oktal-Konverter",
+  "short_name": "Hexadezimal-zu-Oktal-Konverter",
+  "description": "Konvertieren Sie Hexadezimalzahlen online zu Oktal — beliebige Genauigkeit (BigInt), negative Zahlen unterstützt.",
+  "id": "/loona-dev-tools/de/hex-to-octal-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
