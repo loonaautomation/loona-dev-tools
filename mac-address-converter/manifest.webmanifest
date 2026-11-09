@@ -1,0 +1,29 @@
+{
+  "name": "Loona MAC Address Format Converter",
+  "short_name": "MAC Address Format Converter",
+  "description": "Convert MAC addresses between colon (AA:BB:CC:DD:EE:FF), dash, Cisco dot and plain formats; validates the 48-bit address.",
+  "id": "/loona-dev-tools/mac-address-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

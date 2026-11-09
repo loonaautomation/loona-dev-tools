@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base64 Encoder & Decoder Online Free",
+  "short_name": "Base64 Encoder & Decoder Online ",
+  "description": "Encode text or files to Base64 and decode Base64 back, UTF-8 safe for any language and emoji, with a URL-safe option. Free, no sign-up, in your browser.",
+  "id": "/loona-dev-tools/base64-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

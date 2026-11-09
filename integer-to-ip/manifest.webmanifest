@@ -1,0 +1,29 @@
+{
+  "name": "Loona Integer to IP Address Converter",
+  "short_name": "Integer to IP Address Converter",
+  "description": "Convert a 32-bit integer back to a dotted IPv4 address (3232235521 → 192.168.0.1).",
+  "id": "/loona-dev-tools/integer-to-ip/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

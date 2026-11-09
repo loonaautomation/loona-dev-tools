@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON-LD Schema Generator Online Free",
+  "short_name": "JSON-LD Schema Generator Online ",
+  "description": "Generate schema.org JSON-LD structured data online for free - Article, LocalBusiness, Product, Event, Recipe, Person, Organization and WebSite - as a ready script block. No sign-up.",
+  "id": "/loona-dev-tools/json-ld-schema-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

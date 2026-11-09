@@ -1,0 +1,29 @@
+{
+  "name": "Loona Keyword Density Checker Online Free",
+  "short_name": "Keyword Density Checker Online F",
+  "description": "Check keyword density online for free - top single words plus 2-word and 3-word phrases with counts and percentage density, stopword filtering included. No sign-up.",
+  "id": "/loona-dev-tools/keyword-density-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
