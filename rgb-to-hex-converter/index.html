@@ -19,7 +19,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png">
 <link rel="icon" href="../favicon.ico">
 <link rel="apple-touch-icon" href="../apple-touch-icon.png">
-<link rel="manifest" href="../site.webmanifest">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
@@ -111,6 +111,8 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "RGB to HEX Converter", "url": "https://loonaautomation.github.io/loona-dev-tools/rgb-to-hex-converter/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Any (web browser)", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "description": "Convert colours from RGB to HEX online, with a live swatch and all other formats (HEX, RGB, HSL, HSV, CMYK) shown too.", "publisher": {"@type": "Organization", "name": "Loona Automation"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Loona Automation", "item": "https://loonaautomation.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Loona Developer Tools", "item": "https://loonaautomation.github.io/loona-dev-tools/"}, {"@type": "ListItem", "position": 3, "name": "RGB to HEX Converter", "item": "https://loonaautomation.github.io/loona-dev-tools/rgb-to-hex-converter/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Is the RGB to HEX conversion exact?", "acceptedAnswer": {"@type": "Answer", "text": "The colour maths is exact; displayed values are rounded to integers/whole percents as tools universally show them. Returning through the inverse conversion can differ by one unit at most."}}, {"@type": "Question", "name": "Why do print (CMYK) colours look duller?", "acceptedAnswer": {"@type": "Answer", "text": "Ink on paper cannot reproduce the brightest screen colours (gamut). The CMYK values are the closest printable approximation, not the same colour."}}]}</script>
+<link rel="manifest" href="../manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
 </head>
 <body>
 <header class="site"><div class="header-in">
@@ -174,5 +176,6 @@ function fmtColor(c,f){if(f==="hex")return toHex(c);if(f==="rgb")return "rgb("+c
 function allFormats(c){return "HEX: "+toHex(c)+"\nRGB: "+fmtColor(c,"rgb")+"\nHSL: "+fmtColor(c,"hsl")+"\nHSV: "+fmtColor(c,"hsv")+"\nCMYK: "+fmtColor(c,"cmyk")}
 
 document.getElementById("bGo").addEventListener("click",function(){var st=document.getElementById("st");try{var c=parseColor(document.getElementById("cin").value);document.getElementById("cout").value=fmtColor(c,"hex");document.getElementById("call").value=allFormats(c);document.getElementById("sw").style.background=toHex(c);st.textContent="Done.";}catch(e){st.textContent="Error: "+e.message;}});</script>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>

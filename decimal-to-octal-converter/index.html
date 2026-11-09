@@ -19,7 +19,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png">
 <link rel="icon" href="../favicon.ico">
 <link rel="apple-touch-icon" href="../apple-touch-icon.png">
-<link rel="manifest" href="../site.webmanifest">
+
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
@@ -111,6 +111,8 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "WebApplication", "name": "Decimal to Octal Converter", "url": "https://loonaautomation.github.io/loona-dev-tools/decimal-to-octal-converter/", "applicationCategory": "DeveloperApplication", "operatingSystem": "Any (web browser)", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "description": "Convert decimal numbers to octal online \u2014 arbitrary precision (BigInt), negative numbers supported.", "publisher": {"@type": "Organization", "name": "Loona Automation"}}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Loona Automation", "item": "https://loonaautomation.github.io/"}, {"@type": "ListItem", "position": 2, "name": "Loona Developer Tools", "item": "https://loonaautomation.github.io/loona-dev-tools/"}, {"@type": "ListItem", "position": 3, "name": "Decimal to Octal Converter", "item": "https://loonaautomation.github.io/loona-dev-tools/decimal-to-octal-converter/"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How do I convert decimal to octal by hand?", "acceptedAnswer": {"@type": "Answer", "text": "Convert through place values: multiply each digit by its place value in the source base and add (that gives decimal), then repeatedly divide by the target base and read the remainders upward \u2014 or use this page and check the result both ways."}}, {"@type": "Question", "name": "Are negative numbers supported?", "acceptedAnswer": {"@type": "Answer", "text": "Yes \u2014 a leading minus sign is honoured in both directions."}}]}</script>
+<link rel="manifest" href="../manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
 </head>
 <body>
 <header class="site"><div class="header-in">
@@ -163,5 +165,6 @@ function parseInBase(t,base){t=t.trim().toUpperCase().replace(/^0X/,"").replace(
 function CONVERT(s){var n=parseInBase(s,FROM_BASE);var neg=n<0n;if(neg)n=-n;var out=n.toString(TO_BASE).toUpperCase();if(TO_BASE===2)out=out.replace(/(.{4})(?=.)/g,"$1 ");return (neg?"-":"")+out}
 
 document.getElementById("bGo").addEventListener("click",function(){var st=document.getElementById("st");try{var r=CONVERT(document.getElementById("inp").value);document.getElementById("out").value=r;st.textContent="Done — "+r.length+" characters.";st.style.color="var(--teal)";}catch(e){st.textContent="Error: "+e.message;st.style.color="#b91c1c";}});document.getElementById("bCopy").addEventListener("click",function(){var o=document.getElementById("out");o.select();document.execCommand("copy");document.getElementById("st").textContent="Copied to clipboard.";});</script>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
