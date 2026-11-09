@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertidor de entero a dirección IP",
+  "short_name": "Entero a dirección IP",
+  "description": "Convierte un entero de 32 bits de vuelta en una dirección IPv4 con puntos (3232235521 → 192.168.0.1).",
+  "id": "/loona-dev-tools/es/integer-to-ip/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

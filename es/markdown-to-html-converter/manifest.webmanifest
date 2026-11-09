@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertidor de Markdown a HTML en línea gratis",
+  "short_name": "Convertidor de Markdown a HTML",
+  "description": "Convierte Markdown a HTML en línea gratis: encabezados, negrita, cursiva, enlaces, imágenes, listas, citas en bloque, bloques de código y más, con una vista previa renderizada en vivo. Sin registro.",
+  "id": "/loona-dev-tools/es/markdown-to-html-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

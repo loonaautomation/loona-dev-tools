@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calculadora de suma de comprobación Adler-32",
+  "short_name": "Calculadora de suma de comprobación Adler-32",
+  "description": "Calcula hashes Adler-32 de texto o archivos en línea: 32 bits, 8 caracteres hexadecimales. Funciona localmente en tu navegador con WebCrypto/JS puro: los archivos nunca se suben.",
+  "id": "/loona-dev-tools/es/adler32-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

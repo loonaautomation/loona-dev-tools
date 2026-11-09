@@ -1,0 +1,29 @@
+{
+  "name": "Loona Detector de tipo de archivo en línea gratis",
+  "short_name": "Detector de tipo de archivo en línea gratis",
+  "description": "Detecta el tipo real de un archivo en línea gratis desde la firma de su encabezado de bytes mágicos (PNG, PDF, ZIP, MP4, EXE y más de 30 formatos) y recibe un aviso cuando la extensión no coincida. Sin subir nada.",
+  "id": "/loona-dev-tools/es/file-type-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

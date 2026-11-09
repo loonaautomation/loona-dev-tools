@@ -1,0 +1,29 @@
+{
+  "name": "Loona Creador de archivos ZIP en línea gratis",
+  "short_name": "Creador de archivos ZIP en línea gratis",
+  "description": "Crea un archivo ZIP desde varios archivos directamente en tu navegador: añade archivos, nombra el archivo y descarga un .zip. Nada se sube; todo permanece en tu dispositivo.",
+  "id": "/loona-dev-tools/es/zip-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

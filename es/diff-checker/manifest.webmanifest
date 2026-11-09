@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comparador de diferencias en línea gratis",
+  "short_name": "Comparador de diferencias en línea gratis",
+  "description": "Compara dos textos en línea gratis con una comparación línea por línea: líneas añadidas en verde, eliminadas en rojo, más un resumen de cambios. Sin registro, funciona 100% en tu navegador.",
+  "id": "/loona-dev-tools/es/diff-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

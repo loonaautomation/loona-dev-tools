@@ -1,0 +1,29 @@
+{
+  "name": "Loona Minificador de CSS en línea gratis",
+  "short_name": "Minificador de CSS en línea gratis",
+  "description": "Minifica CSS en línea gratis y ve exactamente cuánto más pequeño se vuelve, o embellece el CSS minificado de vuelta a código legible. Sin registro, funciona 100% en tu navegador.",
+  "id": "/loona-dev-tools/es/css-minifier/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

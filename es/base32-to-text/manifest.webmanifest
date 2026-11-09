@@ -1,0 +1,29 @@
+{
+  "name": "Loona Decodificador de Base32 a texto",
+  "short_name": "Decodificador de Base32 a texto",
+  "description": "Decodifica Base32 (RFC 4648) de vuelta a texto: sin distinguir mayúsculas, relleno opcional. Recupera cadenas codificadas estilo TOTP.",
+  "id": "/loona-dev-tools/es/base32-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generador de Open Graph y Twitter Cards",
+  "short_name": "Open Graph y Twitter Card",
+  "description": "Genera metaetiquetas Open Graph y Twitter Card en línea gratis, con una vista previa de tarjeta social en vivo: título, descripción, imagen, URL y nombre del sitio. Sin registro, funciona en tu navegador.",
+  "id": "/loona-dev-tools/es/open-graph-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

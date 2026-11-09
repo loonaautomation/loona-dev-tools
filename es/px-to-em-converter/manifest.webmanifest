@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertidor de píxeles (px) a em",
+  "short_name": "Convertidor de píxeles (px) a em",
+  "description": "Convierte px a em con un tamaño de fuente base ajustable (predeterminado 16px) y una tabla de valores comunes.",
+  "id": "/loona-dev-tools/es/px-to-em-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

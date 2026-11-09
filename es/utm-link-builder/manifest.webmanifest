@@ -1,0 +1,29 @@
+{
+  "name": "Loona Creador de enlaces UTM en línea gratis",
+  "short_name": "Creador de enlaces UTM en línea gratis",
+  "description": "Crea URL de campaña con etiquetas UTM en línea gratis: fuente, medio, campaña, término y contenido añadidos con la codificación correcta, parámetros de consulta existentes conservados, más un historial guardado.",
+  "id": "/loona-dev-tools/es/utm-link-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

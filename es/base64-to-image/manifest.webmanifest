@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertidor de Base64 a imagen",
+  "short_name": "Convertidor de Base64 a imagen",
+  "description": "Decodifica una cadena Base64 o una URI de datos de vuelta en una imagen visible y descargable. Tipo MIME detectado desde los bytes.",
+  "id": "/loona-dev-tools/es/base64-to-image/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

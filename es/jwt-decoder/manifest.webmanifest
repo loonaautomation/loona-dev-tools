@@ -1,0 +1,29 @@
+{
+  "name": "Loona Decodificador JWT en línea gratis",
+  "short_name": "Decodificador JWT en línea gratis",
+  "description": "Decodifica un JSON Web Token en línea gratis: lee el encabezado y el payload como JSON bonito y ve la caducidad en palabras sencillas. Firma NO verificada. En tu navegador.",
+  "id": "/loona-dev-tools/es/jwt-decoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Perfilador de CSV en línea gratis",
+  "short_name": "Perfilador de CSV en línea gratis",
+  "description": "Perfila un archivo CSV en línea gratis: suposiciones de tipo por columna, conteos de celdas vacías, conteos de valores únicos, mínimo/máximo numérico y valores principales, para que entiendas un archivo antes de usarlo. Sin registro.",
+  "id": "/loona-dev-tools/es/csv-profiler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

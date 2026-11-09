@@ -1,0 +1,29 @@
+{
+  "name": "Loona Probador de robots.txt en línea gratis",
+  "short_name": "Probador de robots.txt en línea gratis",
+  "description": "Prueba un robots.txt en línea gratis: pega el archivo, una URL y un user-agent, y obtén un veredicto de permitido o bloqueado con la regla coincidente exacta mostrada. Sin registro, funciona en tu navegador.",
+  "id": "/loona-dev-tools/es/robots-txt-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Validador de correo electrónico en línea gratis",
+  "short_name": "Validador de correo electrónico en línea gratis",
+  "description": "Valida direcciones de correo en línea gratis, una o en lote: comprobaciones completas de sintaxis contra las reglas de dirección más detección de errores típicos de dominio comunes como gmial.com. Sin registro.",
+  "id": "/loona-dev-tools/es/email-validator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

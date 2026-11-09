@@ -1,0 +1,29 @@
+{
+  "name": "Loona Herramienta de vista previa de SERP de Google en línea gratis",
+  "short_name": "Herramienta de vista previa de SERP de Google",
+  "description": "Previsualiza cómo se verán el título de tu página y tu meta descripción en los resultados de búsqueda de Google en línea gratis, con vistas de escritorio y móvil y avisos de truncamiento por ancho en píxeles. Sin registro.",
+  "id": "/loona-dev-tools/es/google-serp-preview/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

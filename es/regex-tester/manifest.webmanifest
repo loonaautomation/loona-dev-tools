@@ -1,0 +1,29 @@
+{
+  "name": "Loona Probador de expresiones regulares en línea gratis",
+  "short_name": "Probador de expresiones regulares en línea gratis",
+  "description": "Prueba expresiones regulares en línea gratis con resaltado de coincidencias en vivo, detalles de grupos de captura y un conteo de coincidencias. Sin registro, funciona 100% en tu navegador.",
+  "id": "/loona-dev-tools/es/regex-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

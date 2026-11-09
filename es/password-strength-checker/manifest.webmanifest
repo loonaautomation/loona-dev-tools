@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comprobador de fortaleza de contraseñas en línea gratis",
+  "short_name": "Comprobador de fortaleza de contraseñas",
+  "description": "Comprueba la fortaleza de contraseñas en línea gratis con una estimación de entropía transparente, comentarios específicos y una estimación del tiempo de descifrado. La contraseña nunca sale de tu navegador: nada se envía ni se almacena.",
+  "id": "/loona-dev-tools/es/password-strength-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

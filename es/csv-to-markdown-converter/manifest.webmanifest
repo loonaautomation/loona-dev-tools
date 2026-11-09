@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertidor de CSV a tabla Markdown en línea",
+  "short_name": "De CSV a tabla Markdown",
+  "description": "Convierte CSV en una tabla Markdown en línea gratis: columnas numéricas alineadas a la derecha automáticamente y caracteres de barra vertical escapados correctamente. Sin registro, funciona 100% en tu navegador.",
+  "id": "/loona-dev-tools/es/csv-to-markdown-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Visor de metadatos de documentos de Office en línea",
+  "short_name": "Metadatos de documentos de Office",
+  "description": "Ve los metadatos de documentos de Office en línea gratis: título, autor, empresa, fechas de creación y modificación, aplicación y versión para archivos .docx, .xlsx y .pptx. Solo vista, nada se sube.",
+  "id": "/loona-dev-tools/es/office-metadata-viewer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

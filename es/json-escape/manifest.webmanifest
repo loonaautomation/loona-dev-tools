@@ -1,0 +1,29 @@
+{
+  "name": "Loona Escape de cadenas JSON",
+  "short_name": "Escape de cadenas JSON",
+  "description": "Escapa una cadena para incrustarla dentro de JSON: las comillas, las barras invertidas, los saltos de línea y los caracteres de control se convierten en secuencias \\.",
+  "id": "/loona-dev-tools/es/json-escape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

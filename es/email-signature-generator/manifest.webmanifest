@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generador de firmas de correo HTML en línea gratis",
+  "short_name": "Firma de correo HTML",
+  "description": "Crea una firma de correo HTML profesional en línea gratis: nombre, título, empresa, teléfono, correo y sitio web en HTML de tabla seguro para correo que funciona en Gmail y Outlook. Sin registro.",
+  "id": "/loona-dev-tools/es/email-signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

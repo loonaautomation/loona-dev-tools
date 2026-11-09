@@ -1,0 +1,29 @@
+{
+  "name": "Loona Extractor de archivos comprimidos en línea gratis",
+  "short_name": "Extractor de archivos comprimidos en línea",
+  "description": "Un abridor de archivos universal: suelta cualquier archivo ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ o ISO y extrae su contenido directamente en tu navegador. El formato se detecta automáticamente; nada se sube.",
+  "id": "/loona-dev-tools/es/archive-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

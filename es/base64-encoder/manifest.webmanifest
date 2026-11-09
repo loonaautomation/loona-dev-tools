@@ -1,0 +1,29 @@
+{
+  "name": "Loona Codificador y decodificador Base64 en línea gratis",
+  "short_name": "Codificador y decodificador Base64",
+  "description": "Codifica texto o archivos a Base64 y decodifica Base64 de vuelta, seguro con UTF-8 para cualquier idioma y emoji, con una opción segura para URL. Gratis, sin registro, en tu navegador.",
+  "id": "/loona-dev-tools/es/base64-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertidor de bases numéricas en línea gratis",
+  "short_name": "Convertidor de bases numéricas en línea",
+  "description": "Convierte números entre binario, octal, decimal y hexadecimal en línea gratis, con precisión BigInt para valores más allá de 2^53 y validación por dígito. Sin registro, funciona 100% en tu navegador.",
+  "id": "/loona-dev-tools/es/number-base-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

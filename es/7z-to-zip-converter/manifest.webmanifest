@@ -1,0 +1,29 @@
+{
+  "name": "Loona Convertidor de 7Z a ZIP en línea gratis",
+  "short_name": "Convertidor de 7Z a ZIP en línea",
+  "description": "Convierte un archivo 7Z (.7z) en un archivo ZIP estándar directamente en tu navegador. Estructura de carpetas conservada, sin subir nada, y el ZIP resultante se abre de forma nativa en Windows, macOS, Android y iPhone, sin necesidad de 7-Zip.",
+  "id": "/loona-dev-tools/es/7z-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

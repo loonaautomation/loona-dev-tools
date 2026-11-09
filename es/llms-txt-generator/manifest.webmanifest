@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generador de llms.txt en línea gratis",
+  "short_name": "Generador de llms.txt en línea gratis",
+  "description": "Genera un archivo llms.txt válido en línea gratis: nombre del sitio, cita en bloque de resumen, detalles y enlaces de páginas seleccionadas en el formato llms.txt propuesto para los rastreadores de IA. Sin registro.",
+  "id": "/loona-dev-tools/es/llms-txt-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
