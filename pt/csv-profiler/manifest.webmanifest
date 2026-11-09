@@ -1,0 +1,29 @@
+{
+  "name": "Loona Analisador de Perfil CSV Online Grátis",
+  "short_name": "Analisador de Perfil CSV Online Grátis",
+  "description": "Analise o perfil de um ficheiro CSV online gratuitamente - estimativas de tipo por coluna, contagens de células vazias, contagens de valores únicos, mín/máx numéricos e valores principais, para compreender um ficheiro antes de o utilizar. Sem registo.",
+  "id": "/loona-dev-tools/pt/csv-profiler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

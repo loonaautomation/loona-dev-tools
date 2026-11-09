@@ -1,0 +1,29 @@
+{
+  "name": "Loona Conversor de TSV para CSV",
+  "short_name": "Conversor de TSV para CSV",
+  "description": "Converta TSV (valores separados por tabulação) para CSV: cole dados copiados do Excel ou Sheets e obtenha CSV corretamente citado.",
+  "id": "/loona-dev-tools/pt/tsv-to-csv/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

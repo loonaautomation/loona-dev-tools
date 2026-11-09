@@ -1,0 +1,29 @@
+{
+  "name": "Loona Remoção de Escape de Strings JSON",
+  "short_name": "Remoção de Escape de Strings JSON",
+  "description": "Remova o escape de um valor de string JSON de volta para texto simples: sequências \\n, \\t, \\&quot;, \\\\ e \\uXXXX tornam-se caracteres reais.",
+  "id": "/loona-dev-tools/pt/json-unescape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

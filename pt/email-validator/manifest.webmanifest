@@ -1,0 +1,29 @@
+{
+  "name": "Loona Validador de E-mail Online Grátis",
+  "short_name": "Validador de E-mail Online Grátis",
+  "description": "Valide endereços de email online gratuitamente, um ou em massa - verificações completas de sintaxe contra as regras de endereços mais deteção de erros tipográficos comuns de domínios como gmial.com. Sem registo.",
+  "id": "/loona-dev-tools/pt/email-validator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

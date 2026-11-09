@@ -1,0 +1,29 @@
+{
+  "name": "Loona Conversor de Formato de Endereços MAC",
+  "short_name": "Conversor de Formato de Endereços MAC",
+  "description": "Converta endereços MAC entre formatos de dois pontos (AA:BB:CC:DD:EE:FF), traço, ponto Cisco e simples; valida o endereço de 48-bit.",
+  "id": "/loona-dev-tools/pt/mac-address-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

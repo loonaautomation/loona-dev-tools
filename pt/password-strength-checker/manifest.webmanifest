@@ -1,0 +1,29 @@
+{
+  "name": "Loona Verificador de Força da Palavra-passe Online Grátis",
+  "short_name": "Verificador de Força de Palavras-passe",
+  "description": "Verifique a força da palavra-passe online grátis com uma estimativa de entropia transparente, feedback específico e uma estimativa de tempo de quebra. A palavra-passe nunca sai do seu navegador - nada é enviado nem guardado.",
+  "id": "/loona-dev-tools/pt/password-strength-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

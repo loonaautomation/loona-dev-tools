@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gerador de Hash Online Grátis",
+  "short_name": "Gerador de Hash Online Grátis",
+  "description": "Gere hashes SHA-1, SHA-256, SHA-384 e SHA-512 de qualquer texto online grátis, calculados localmente no seu navegador. Sem registo, nada carregado.",
+  "id": "/loona-dev-tools/pt/hash-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

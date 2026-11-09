@@ -1,0 +1,29 @@
+{
+  "name": "Loona Criador de Ficheiros TAR Online Grátis",
+  "short_name": "Criador de Ficheiros TAR Online Grátis",
+  "description": "Crie um arquivo TAR (.tar) a partir de vários ficheiros diretamente no seu navegador - um escritor ustar conforme à especificação, opção de pasta, timestamps reais. Nada é carregado; o tarball é construído no seu dispositivo e abre com qualquer ferramenta tar.",
+  "id": "/loona-dev-tools/pt/tar-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

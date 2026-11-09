@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calculadora de Sub-redes IP Online Grátis",
+  "short_name": "Calculadora de Sub-redes IP Online",
+  "description": "Calcule sub-redes IPv4 online grátis - rede, difusão, máscara de rede, wildcard, primeiro e último host, número de hosts utilizáveis e classe IP a partir de qualquer endereço CIDR, mais uma vista de divisão de sub-redes.",
+  "id": "/loona-dev-tools/pt/ip-subnet-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
