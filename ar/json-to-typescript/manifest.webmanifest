@@ -1,0 +1,29 @@
+{
+  "name": "Loona محوّل JSON إلى واجهة TypeScript",
+  "short_name": "JSON إلى واجهة TypeScript",
+  "description": "حوّل JSON إلى واجهات TypeScript عبر الإنترنت: الكائنات المتداخلة تصبح واجهات مسمّاة، ومصفوفات الكائنات تدمج مفاتيحها مع حقول اختيارية معلّمة.",
+  "id": "/loona-dev-tools/ar/json-to-typescript/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

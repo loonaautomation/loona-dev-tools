@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dev Tools",
+  "short_name": "أدوات المطوّرين",
+  "description": "أدوات مطوّر مجانية عبر الإنترنت - منسّق JSON، مشفّر Base64، منشئ UUID، منشئ التجزئة، فاكّ JWT، محوّل الطوابع الزمنية والمزيد. مجاني 100%، دون تسجيل، خاص.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-dev-tools/ar/"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona أداة معاينة نتائج بحث Google عبر الإنترنت مجاناً",
+  "short_name": "أداة معاينة نتائج بحث Google",
+  "description": "عاين كيف سيبدو عنوان صفحتك ووصف meta في نتائج بحث Google عبر الإنترنت مجاناً، مع عروض سطح المكتب والهاتف وتحذيرات قصّ عرض البكسل. دون تسجيل.",
+  "id": "/loona-dev-tools/ar/google-serp-preview/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

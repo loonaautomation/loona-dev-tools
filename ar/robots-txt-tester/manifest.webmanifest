@@ -1,0 +1,29 @@
+{
+  "name": "Loona مختبِر Robots.txt عبر الإنترنت مجاناً",
+  "short_name": "مختبِر Robots.txt عبر الإنترنت مجاناً",
+  "description": "اختبر robots.txt عبر الإنترنت مجاناً - الصق الملف ورابطاً ووكيل مستخدم، واحصل على حكم مسموح أو محظور مع عرض قاعدة المطابقة الدقيقة. دون تسجيل، يعمل في متصفحك.",
+  "id": "/loona-dev-tools/ar/robots-txt-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona محوّل JSON إلى INI",
+  "short_name": "محوّل JSON إلى INI",
+  "description": "حوّل كائنات JSON إلى صيغة INI: القياسات في المستوى الأعلى أولاً، الكائنات المتداخلة كـ [sections]. محوّل مجاني عبر الإنترنت.",
+  "id": "/loona-dev-tools/ar/json-to-ini/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

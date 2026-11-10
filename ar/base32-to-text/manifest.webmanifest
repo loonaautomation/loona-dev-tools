@@ -1,0 +1,29 @@
+{
+  "name": "Loona فاكّ تشفير Base32 إلى نص",
+  "short_name": "فاكّ تشفير Base32 إلى نص",
+  "description": "فكّ Base32 ‏(RFC 4648) عودة إلى نص — دون حساسية لحالة الأحرف، الحشو اختياري. استرد السلاسل المشفّرة بأسلوب TOTP.",
+  "id": "/loona-dev-tools/ar/base32-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

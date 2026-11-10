@@ -1,0 +1,29 @@
+{
+  "name": "Loona محوّل JSON إلى .env",
+  "short_name": "محوّل JSON إلى .env",
+  "description": "حوّل تهيئة JSON إلى صيغة .env: كائنات متداخلة مسطّحة بمسارات UNDERSCORE، وقيم مقتبسة عندما تحتوي مسافات أو #.",
+  "id": "/loona-dev-tools/ar/json-to-env/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

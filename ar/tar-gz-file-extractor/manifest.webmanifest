@@ -1,0 +1,29 @@
+{
+  "name": "Loona مستخرج ملفات TAR.GZ عبر الإنترنت مجاناً",
+  "short_name": "مستخرج ملفات TAR.GZ عبر الإنترنت",
+  "description": "افتح أرشيفات tar.gz في متصفحك مباشرة - كل من .tar.gz واسم .tgz القصير - اطّلع على كل ملف بداخلها ونزّل ملفات مفردة أو كل شيء كـ ZIP. لا يُرفع شيء.",
+  "id": "/loona-dev-tools/ar/tar-gz-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

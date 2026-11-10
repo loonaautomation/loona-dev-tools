@@ -1,0 +1,29 @@
+{
+  "name": "Loona محوّل TAR.GZ إلى TAR",
+  "short_name": "محوّل TAR.GZ إلى TAR",
+  "description": "جرّد طبقة gzip من أرشيف .tar.gz / .tgz للحصول على TAR العادي، عبر الإنترنت ومحلياً — لا حاجة إلى أدوات استخراج.",
+  "id": "/loona-dev-tools/ar/tar-gz-to-tar-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

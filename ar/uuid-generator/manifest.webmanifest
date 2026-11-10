@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ UUID عبر الإنترنت مجاناً",
+  "short_name": "منشئ UUID عبر الإنترنت مجاناً",
+  "description": "أنشئ معرّفات UUID عشوائية من الإصدار 4 عبر الإنترنت مجاناً - مفرد أو دفعة حتى 100، خيارات الأحرف الكبيرة ودون شرطات. عشوائي تشفيرياً، في متصفحك.",
+  "id": "/loona-dev-tools/ar/uuid-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

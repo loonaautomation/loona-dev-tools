@@ -1,0 +1,29 @@
+{
+  "name": "Loona مشفّر النص إلى Base64",
+  "short_name": "مشفّر النص إلى Base64",
+  "description": "رمّز النص إلى Base64 عبر الإنترنت، آمن لـ UTF-8 لأي لغة وإيموجي، مع أبجدية آمنة للـ URL اختيارية. مجاني، خاص، في متصفحك.",
+  "id": "/loona-dev-tools/ar/text-to-base64/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

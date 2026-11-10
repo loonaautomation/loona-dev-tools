@@ -1,0 +1,29 @@
+{
+  "name": "Loona ضاغط GZIP عبر الإنترنت مجاناً",
+  "short_name": "ضاغط GZIP عبر الإنترنت مجاناً",
+  "description": "اضغط أي ملف واحد إلى .gz باستخدام محرّك gzip المدمج في متصفحك. أحجام فورية قبل/بعد، لا يُرفع شيء - يُضغط الملف على جهازك. يعمل للسجلات وملفات CSV وملفات TAR والمزيد.",
+  "id": "/loona-dev-tools/ar/gzip-compressor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona مترجم النص إلى شيفرة Morse",
+  "short_name": "مترجم النص إلى شيفرة Morse",
+  "description": "ترجم النص إلى شيفرة Morse (أحرف، أرقام وعلامات ترقيم شائعة)، الكلمات مفصولة بـ /. مترجم Morse مجاني.",
+  "id": "/loona-dev-tools/ar/text-to-morse-code/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

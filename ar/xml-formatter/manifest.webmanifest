@@ -1,0 +1,29 @@
+{
+  "name": "Loona منسّق ومدقّق XML عبر الإنترنت مجاناً",
+  "short_name": "منسّق ومدقّق XML",
+  "description": "نسّق وجمّل وصغّر وتحقّق من XML عبر الإنترنت مجاناً - فحص سلامة تشكّل الوسوم المتوازنة مع رسائل خطأ واضحة، وطباعة جميلة بمسافات بادئة. دون تسجيل.",
+  "id": "/loona-dev-tools/ar/xml-formatter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

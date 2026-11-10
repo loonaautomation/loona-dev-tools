@@ -1,0 +1,29 @@
+{
+  "name": "Loona منشئ تجزئة MD5",
+  "short_name": "منشئ تجزئة MD5",
+  "description": "احسب تجزئات MD5 للنص أو الملفات عبر الإنترنت: 128 بت، 32 حرفاً سداسياً عشرياً. يعمل محلياً في متصفحك عبر WebCrypto/JS خالص — لا تُرفع الملفات أبداً.",
+  "id": "/loona-dev-tools/ar/md5-hash-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

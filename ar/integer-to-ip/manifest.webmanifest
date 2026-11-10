@@ -1,0 +1,29 @@
+{
+  "name": "Loona محوّل عدد صحيح إلى عنوان IP",
+  "short_name": "عدد صحيح إلى عنوان IP",
+  "description": "حوّل عدداً صحيحاً من 32 بت عودة إلى عنوان IPv4 منقّط (3232235521 ← 192.168.0.1).",
+  "id": "/loona-dev-tools/ar/integer-to-ip/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

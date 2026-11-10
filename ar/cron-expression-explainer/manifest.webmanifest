@@ -1,0 +1,29 @@
+{
+  "name": "Loona شارح تعبيرات Cron",
+  "short_name": "شارح تعبيرات Cron",
+  "description": "اشرح تعبيرات cron بلغة عربية بسيطة: الصق جدول cron من 5 حقول واقرأ متى يعمل، حقلاً بحقل.",
+  "id": "/loona-dev-tools/ar/cron-expression-explainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

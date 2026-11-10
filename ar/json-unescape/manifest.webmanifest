@@ -1,0 +1,29 @@
+{
+  "name": "Loona إلغاء تهريب سلاسل JSON",
+  "short_name": "إلغاء تهريب سلاسل JSON",
+  "description": "ألغِ تهريب قيمة سلسلة JSON عودة إلى نص عادي: تسلسلات \\n و\\t و\\&quot; و\\\\ و\\uXXXX تصبح أحرفاً حقيقية.",
+  "id": "/loona-dev-tools/ar/json-unescape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
