@@ -1,0 +1,29 @@
+{
+  "name": "Loona diff-checker online gratis",
+  "short_name": "Diff-checker online gratis",
+  "description": "Vergelijk twee teksten online gratis met een diff per regel: toegevoegde regels in groen, verwijderde regels in rood, plus een wijzigingssamenvatting. Geen registratie, draait 100% in je browser.",
+  "id": "/loona-dev-tools/nl/diff-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

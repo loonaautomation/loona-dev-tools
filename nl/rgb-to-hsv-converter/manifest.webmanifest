@@ -1,0 +1,29 @@
+{
+  "name": "Loona RGB naar HSV-converter",
+  "short_name": "RGB naar HSV-converter",
+  "description": "Converteer kleuren online van RGB naar HSV, met een live staal en alle andere formaten (HEX, RGB, HSL, HSV, CMYK) ook getoond.",
+  "id": "/loona-dev-tools/nl/rgb-to-hsv-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

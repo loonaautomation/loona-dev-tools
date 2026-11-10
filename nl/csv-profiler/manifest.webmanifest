@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV-profiler online gratis",
+  "short_name": "CSV-profiler online gratis",
+  "description": "Profileer een CSV-bestand online gratis - typegissingen per kolom, aantallen lege cellen, aantallen unieke waarden, numerieke min/max en topwaarden, zodat je een bestand begrijpt voordat je het gebruikt. Geen registratie.",
+  "id": "/loona-dev-tools/nl/csv-profiler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML-entiteitencoder",
+  "short_name": "HTML-entiteitencoder",
+  "description": "Codeer speciale tekens als HTML-entiteiten: benoemde (&copy;), decimale of hex numerieke referenties. Escape't markup, quotes en niet-ASCII-tekst.",
+  "id": "/loona-dev-tools/nl/html-entities-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

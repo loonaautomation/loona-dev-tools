@@ -1,0 +1,29 @@
+{
+  "name": "Loona XML naar JSON-converter",
+  "short_name": "XML naar JSON-converter",
+  "description": "Converteer XML online naar JSON: attributen als @keys, herhaalde elementen als arrays, tekst als waarden met getallen getypt.",
+  "id": "/loona-dev-tools/nl/xml-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV-diff & vergelijk online gratis",
+  "short_name": "CSV diff & vergelijken online gratis",
+  "description": "Vergelijk twee CSV-bestanden online gratis - rijen gematcht op een sleutelkolom en geclassificeerd als toegevoegd, verwijderd, gewijzigd (met de exacte cellen) of ongewijzigd. Geen registratie, draait in je browser.",
+  "id": "/loona-dev-tools/nl/csv-diff/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

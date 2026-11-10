@@ -1,0 +1,29 @@
+{
+  "name": "Loona Adler-32-checksumcalculator",
+  "short_name": "Adler-32-checksumcalculator",
+  "description": "Bereken Adler-32-hashes van tekst of bestanden online: 32-bit, 8 hex-tekens. Draait lokaal in je browser met WebCrypto/pure JS — bestanden worden nooit geüpload.",
+  "id": "/loona-dev-tools/nl/adler32-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

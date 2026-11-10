@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV transponeren online gratis",
+  "short_name": "CSV transponeren online gratis",
+  "description": "Transponeer CSV online gratis - wissel rijen en kolommen met een echte RFC 4180-parser die velden tussen quotes correct verwerkt. Geen registratie, draait 100% in je browser.",
+  "id": "/loona-dev-tools/nl/csv-transpose/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

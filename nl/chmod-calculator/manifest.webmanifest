@@ -1,0 +1,29 @@
+{
+  "name": "Loona chmod-calculator online gratis",
+  "short_name": "Chmod-calculator online gratis",
+  "description": "Bereken chmod-permissies online gratis: selectievakjes naar octaal (755) en symbolisch (rwxr-xr-x), en octaal terug naar permissies. Geen registratie, draait 100% in je browser.",
+  "id": "/loona-dev-tools/nl/chmod-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

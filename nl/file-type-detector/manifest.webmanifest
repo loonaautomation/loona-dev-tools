@@ -1,0 +1,29 @@
+{
+  "name": "Loona bestandstype-detector online gratis",
+  "short_name": "Bestandstype-detector online gratis",
+  "description": "Detecteer het echte type van een bestand online gratis uit zijn magic-byte-headersignatuur - PNG, PDF, ZIP, MP4, EXE en 30+ formaten - en krijg een waarschuwing als de extensie het oneens is. Niets geüpload.",
+  "id": "/loona-dev-tools/nl/file-type-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

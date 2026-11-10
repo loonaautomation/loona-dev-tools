@@ -1,0 +1,29 @@
+{
+  "name": "Loona hex naar tekst-converter",
+  "short_name": "Hex naar tekst-converter",
+  "description": "Converteer hexadecimaal terug naar tekst: plak hex-bytes (met spaties of doorlopend, met of zonder 0x) en lees de UTF-8-tekst.",
+  "id": "/loona-dev-tools/nl/hex-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

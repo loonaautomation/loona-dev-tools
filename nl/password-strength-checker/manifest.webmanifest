@@ -1,0 +1,29 @@
+{
+  "name": "Loona wachtwoordsterkte-checker online gratis",
+  "short_name": "Wachtwoordsterkte-checker",
+  "description": "Controleer wachtwoordsterkte online gratis met een transparante entropieschatting, specifieke feedback en een kraaktijdschatting. Het wachtwoord verlaat je browser nooit - er wordt niets verzonden of opgeslagen.",
+  "id": "/loona-dev-tools/nl/password-strength-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona TAR.GZ-bestandsextractor online gratis",
+  "short_name": "TAR.GZ-bestandsextractor online",
+  "description": "Open tar.gz-archieven direct in je browser - zowel .tar.gz als de korte .tgz-naam - zie elk bestand erin en download losse bestanden of alles als ZIP. Niets wordt geüpload.",
+  "id": "/loona-dev-tools/nl/tar-gz-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
