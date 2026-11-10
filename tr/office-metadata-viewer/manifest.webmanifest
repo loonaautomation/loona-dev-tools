@@ -1,0 +1,29 @@
+{
+  "name": "Loona Office Belgesi Meta Veri Görüntüleyici Çevrimiçi",
+  "short_name": "Office Belgesi Meta Verisi",
+  "description": "Office belgesi meta verisini çevrimiçi ücretsiz görüntüleyin - .docx, .xlsx ve .pptx dosyaları için başlık, yazar, şirket, oluşturma ve değişiklik tarihleri, uygulama ve sürüm. Yalnızca görüntüleme, hiçbir şey yüklenmez.",
+  "id": "/loona-dev-tools/tr/office-metadata-viewer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

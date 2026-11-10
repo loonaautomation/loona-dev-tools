@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON - JSON Schema Oluşturucu",
+  "short_name": "JSON - JSON Schema Oluşturucu",
+  "description": "Bir JSON örneğinden bir JSON Schema (draft 2020-12) oluşturun: türler çıkarılır, nesne özellikleri ve gerekli anahtarlar dahildir.",
+  "id": "/loona-dev-tools/tr/json-to-json-schema/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

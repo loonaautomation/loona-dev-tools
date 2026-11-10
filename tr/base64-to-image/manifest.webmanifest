@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base64 - Görsel Dönüştürücü",
+  "short_name": "Base64 - Görsel Dönüştürücü",
+  "description": "Bir Base64 dizesini veya data URI değerini, görüntülenebilir, indirilebilir bir görsele geri çözün. MIME türü baytlardan algılanır.",
+  "id": "/loona-dev-tools/tr/base64-to-image/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona CMYK - HSL Dönüştürücü",
+  "short_name": "CMYK - HSL Dönüştürücü",
+  "description": "Renkleri CMYK değerinden çevrimiçi HSL değerine dönüştürün, canlı bir renk örneği ve diğer tüm biçimler (HEX, RGB, HSL, HSV, CMYK) de gösterilerek.",
+  "id": "/loona-dev-tools/tr/cmyk-to-hsl-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

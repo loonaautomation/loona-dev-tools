@@ -1,0 +1,29 @@
+{
+  "name": "Loona URL Ayrıştırıcı Çevrimiçi Ücretsiz",
+  "short_name": "URL Ayrıştırıcı Çevrimiçi Ücretsiz",
+  "description": "Herhangi bir URL değerini çevrimiçi ücretsiz olarak protokol, ana makine, bağlantı noktası, yol, sorgu parametreleri ve hash değerine ayrıştırın - parametreleri düzenleyin ve URL değerini yeniden kurun. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
+  "id": "/loona-dev-tools/tr/url-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

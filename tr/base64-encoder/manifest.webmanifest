@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base64 Kodlayıcı ve Kod Çözücü Çevrimiçi Ücretsiz",
+  "short_name": "Base64 Kodlayıcı ve Kod Çözücü",
+  "description": "Metni veya dosyaları Base64 değerine kodlayın ve Base64 değerini geri çözün, her dil ve emoji için UTF-8 güvenli, bir URL güvenli seçeneğiyle. Ücretsiz, kayıt gerekmez, tarayıcınızda.",
+  "id": "/loona-dev-tools/tr/base64-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

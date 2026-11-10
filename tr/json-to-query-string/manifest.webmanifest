@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON - Query String Dönüştürücü",
+  "short_name": "JSON - Query String Dönüştürücü",
+  "description": "Bir JSON nesnesinden bir URL sorgu dizesi oluşturun: iç içe nesneler köşeli parantez gösterimini kullanır, diziler anahtarı yineler, her şey yüzde kodludur.",
+  "id": "/loona-dev-tools/tr/json-to-query-string/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

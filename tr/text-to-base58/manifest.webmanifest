@@ -1,0 +1,29 @@
+{
+  "name": "Loona Metin - Base58 Kodlayıcı",
+  "short_name": "Metin - Base58 Kodlayıcı",
+  "description": "Metni çevrimiçi Base58 (Bitcoin alfabesi) olarak kodlayın — 0, O, I veya l yok, Bitcoin adreslerinin ve IPFS hash değerlerinin kodlaması.",
+  "id": "/loona-dev-tools/tr/text-to-base58/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

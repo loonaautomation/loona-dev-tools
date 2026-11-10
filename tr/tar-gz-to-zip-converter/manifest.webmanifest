@@ -1,0 +1,29 @@
+{
+  "name": "Loona TAR.GZ - ZIP Dönüştürücü Çevrimiçi Ücretsiz",
+  "short_name": "TAR.GZ - ZIP Dönüştürücü",
+  "description": "Bir TAR.GZ (.tar.gz veya .tgz) arşivini doğrudan tarayıcınızda bir ZIP dosyasına dönüştürün. İki katman da - gzip ve tar - cihazınızda açılır ve dosyalar tek bir ZIP olarak yeniden paketlenir. Hiçbir şey yüklenmez.",
+  "id": "/loona-dev-tools/tr/tar-gz-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

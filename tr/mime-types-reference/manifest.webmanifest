@@ -1,0 +1,29 @@
+{
+  "name": "Loona MIME Türleri Başvurusu (İçerik Türleri:",
+  "short_name": "MIME Türleri Başvurusu (İçerik",
+  "description": "Dosya uzantısına göre yaygın MIME türleri: Content-Type değerleriyle belgeler, görseller, ses, video, arşivler, yazı tipleri ve web biçimleri.",
+  "id": "/loona-dev-tools/tr/mime-types-reference/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

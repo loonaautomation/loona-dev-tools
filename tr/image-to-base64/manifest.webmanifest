@@ -1,0 +1,29 @@
+{
+  "name": "Loona Görsel - Base64 Dönüştürücü",
+  "short_name": "Görsel - Base64 Dönüştürücü",
+  "description": "Bir görseli (PNG, JPG, GIF, WebP, SVG) çevrimiçi bir Base64 data URI değerine dönüştürün — dosya yerel olarak okunur, boyutlar ve boyut istatistikleriyle.",
+  "id": "/loona-dev-tools/tr/image-to-base64/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV Fark ve Karşılaştırma Çevrimiçi Ücretsiz",
+  "short_name": "CSV Fark ve Karşılaştırma Çevrimiçi Ücretsiz",
+  "description": "İki CSV dosyasını çevrimiçi ücretsiz karşılaştırın - satırlar bir anahtar sütunla eşleştirilir ve eklenmiş, kaldırılmış, değişmiş (tam hücrelerle) veya değişmemiş olarak sınıflandırılır. Kayıt gerekmez, tarayıcınızda çalışır.",
+  "id": "/loona-dev-tools/tr/csv-diff/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

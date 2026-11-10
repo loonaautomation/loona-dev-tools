@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base64 - Metin Kod Çözücü",
+  "short_name": "Base64 - Metin Kod Çözücü",
+  "description": "Base64 değerini çevrimiçi okunabilir metne geri çözün. Standart ve URL güvenli alfabeleri, her dilde UTF-8 metnini işler. Ücretsiz ve gizli.",
+  "id": "/loona-dev-tools/tr/base64-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

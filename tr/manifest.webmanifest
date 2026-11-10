@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dev Araçları",
+  "short_name": "Dev Araçları",
+  "description": "Ücretsiz çevrimiçi geliştirici araçları - JSON biçimlendirici, Base64 kodlayıcı, UUID oluşturucu, hash oluşturucu, JWT kod çözücü, zaman damgası dönüştürücü ve daha fazlası. %100 ücretsiz, kayıt gerekmez, gizli.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-dev-tools/tr/"
+}

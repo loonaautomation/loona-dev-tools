@@ -1,0 +1,650 @@
+[
+ {
+  "n": "Dönüştürücü ve Oluşturucu Kitaplığı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/converter-library/",
+  "s": "Loona Dev Tools",
+  "d": "126 yeni dönüştürücü ve oluşturucu: kodlamalar, veri biçimleri (JSON, YAML, XML, TOML, CSV), hash değerleri, renkler, arşivler, kod oluşturucular ve başvurular.",
+  "k": "converter generator library converter library 126 yeni donusturucu ve olusturucu kodlamalar veri bicimleri json yaml xml toml csv hash degerleri renkler arsivler kod olusturucular ve basvurular",
+  "p": 100,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON Biçimlendirici",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/json-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "JSON değerini doğrulayın, güzel yazdırın ve küçültün, herhangi bir hatanın tam konumuyla.",
+  "k": "json formatter json formatter json degerini dogrulayın guzel yazdırın ve kucultun herhangi bir hatanın tam konumuyla",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Base64 Kodlayıcı ve Kod Çözücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/base64-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Metni ve dosyaları Base64 değerine kodlayın veya geri çözün - UTF-8 güvenli, URL güvenli seçenek dahil.",
+  "k": "base64 encoder decoder base64 encoder metni ve dosyaları base64 degerine kodlayın veya geri cozun utf 8 guvenli url guvenli secenek dahil",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "URL Kodlayıcı ve Kod Çözücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/url-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Metni ve URL değerlerini güvenle yüzde kodlayın, karakter başına bir döküm tablosuyla.",
+  "k": "url encoder decoder url encoder metni ve url degerlerini guvenle yuzde kodlayın karakter basına bir dokum tablosuyla",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "UUID Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/uuid-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Rastgele sürüm 4 UUID değerleri oluşturun - tek seferde bir tane veya toplu 100 değerine kadar.",
+  "k": "uuid generator uuid generator rastgele surum 4 uuid degerleri olusturun tek seferde bir tane veya toplu 100 degerine kadar",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Hash Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/hash-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Herhangi bir metnin SHA-1, SHA-256, SHA-384 ve SHA-512 özetleri, tarayıcınızda hesaplanır.",
+  "k": "hash generator hash generator herhangi bir metnin sha 1 sha 256 sha 384 ve sha 512 ozetleri tarayıcınızda hesaplanır",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "JWT Kod Çözücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/jwt-decoder/",
+  "s": "Loona Dev Tools",
+  "d": "Bir JSON Web Token başlığını ve yükünü çözün ve sona ermesini düz sözcüklerle okuyun.",
+  "k": "jwt decoder jwt decoder bir json web token baslıgını ve yukunu cozun ve sona ermesini duz sozcuklerle okuyun",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Zaman Damgası Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/timestamp-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Unix zaman damgalarını insan tarihlerine ve geri dönüştürün - UTC, yerel saatiniz ve göreli saat.",
+  "k": "timestamp converter timestamp converter unix zaman damgalarını insan tarihlerine ve geri donusturun utc yerel saatiniz ve goreli saat",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML Varlık Kodlayıcı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/html-entity-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Metni HTML varlıklarına (adlandırılmış veya numaralı) kaçışlayın ve varlıkları metne geri çözün.",
+  "k": "html entity encoder html entity encoder metni html varlıklarına adlandırılmıs veya numaralı kacıslayın ve varlıkları metne geri cozun",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS Küçültücü ve Güzelleştirici",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/css-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Dosya boyutunu küçültmek için CSS değerini küçültün veya okunabilir, girintili koda geri güzelleştirin.",
+  "k": "css minifier beautifier css minifier dosya boyutunu kucultmek icin css degerini kucultun veya okunabilir girintili koda geri guzellestirin",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "JavaScript Küçültücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/javascript-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "JavaScript değerini tutucu şekilde küçültün - yorumlar ve ölü boşluk kaldırılır, dizeler ve regex sağlam tutulur.",
+  "k": "javascript minifier javascript minifier javascript degerini tutucu sekilde kucultun yorumlar ve olu bosluk kaldırılır dizeler ve regex saglam tutulur",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Regex Test Aracı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/regex-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Düzenli ifadeleri canlı test edin - eşleşmeler vurgulanır, yakalama grupları listelenir, sayı gösterilir.",
+  "k": "regex tester regex tester duzenli ifadeleri canlı test edin eslesmeler vurgulanır yakalama grupları listelenir sayı gosterilir",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Fark Denetleyicisi",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/diff-checker/",
+  "s": "Loona Dev Tools",
+  "d": "İki metni satır satır karşılaştırın - eklenen ve kaldırılan satırlar vurgulanır, bir değişim özetiyle.",
+  "k": "diff checker diff checker iki metni satır satır karsılastırın eklenen ve kaldırılan satırlar vurgulanır bir degisim ozetiyle",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON - CSV Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/json-to-csv-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Bir JSON nesne dizisini temiz bir CSV dosyasına çevirin - tüm anahtarların birleşimi, düzgün tırnaklama, bir tıklama.",
+  "k": "json to csv converter json to csv converter bir json nesne dizisini temiz bir csv dosyasına cevirin tum anahtarların birlesimi duzgun tırnaklama bir tıklama",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV - JSON Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/csv-to-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "CSV değerini nesnelerin bir JSON dizisine dönüştürün - tırnaklı virgülleri ve kaçışlı tırnakları işleyen gerçek bir ayrıştırıcı.",
+  "k": "csv to json converter csv to json converter csv degerini nesnelerin bir json dizisine donusturun tırnaklı virgulleri ve kacıslı tırnakları isleyen gercek bir ayrıstırıcı",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "YAML ⇄ JSON Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/yaml-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Yaygın YAML alt kümesini (eşlemeler, listeler, skalerler) JSON ve JSON değerini YAML biçimine dönüştürün - dürüstçe kapsandı.",
+  "k": "yaml json converter yaml json converter yaygın yaml alt kumesini eslemeler listeler skalerler json ve json degerini yaml bicimine donusturun durustce kapsandı",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "SQL Biçimlendirici",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/sql-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "SQL değerini büyük harf anahtar kelimelerle ve her büyük cümle kendi satırında biçimlendirin - tek tıklamada okunabilir sorgular.",
+  "k": "sql formatter sql formatter sql degerini buyuk harf anahtar kelimelerle ve her buyuk cumle kendi satırında bicimlendirin tek tıklamada okunabilir sorgular",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Sayı Tabanı Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/number-base-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Tam büyük tamsayı hassasiyetiyle ikili, sekizlik, ondalık ve hex arasında dönüştürün - 2^53 sınırı yok.",
+  "k": "number base converter number base converter tam buyuk tamsayı hassasiyetiyle ikili sekizlik ondalık ve hex arasında donusturun 2 53 sınırı yok",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Chmod Hesaplayıcı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/chmod-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "Sahip, grup ve diğerleri için oku/yaz/yürüt kutularını işaretleyin - sekizlik ve sembolik izni anında alın.",
+  "k": "chmod calculator chmod calculator sahip grup ve digerleri icin oku yaz yurut kutularını isaretleyin sekizlik ve sembolik izni anında alın",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Parola Gücü Denetleyicisi",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/password-strength-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Bir parola entropi tahminini bit cinsinden, onu neyin zayıflattığını ve hızlı bir çevrimdışı saldırının ne kadar süreceğini görün.",
+  "k": "password strength checker password strength checker bir parola entropi tahminini bit cinsinden onu neyin zayıflattıgını ve hızlı bir cevrimdısı saldırının ne kadar surecegini gorun",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Cron İfadesi Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/cron-expression-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Düz açılır menülerden 5 alanlı bir cron ifadesi oluşturun ve herhangi bir cron ifadesinin sade bir dille açıklamasını alın.",
+  "k": "cron expression generator cron expression generator duz acılır menulerden 5 alanlı bir cron ifadesi olusturun ve herhangi bir cron ifadesinin sade bir dille acıklamasını alın",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "URL Ayrıştırıcı ve Kurucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/url-parser/",
+  "s": "Loona Dev Tools",
+  "d": "Bir URL adresini protokol, host, port, yol, sorgu parametreleri ve hash olarak parçalayın - sonra parametreleri düzenleyin ve yeniden oluşturun.",
+  "k": "url parser builder url parser bir url adresini protokol host port yol sorgu parametreleri ve hash olarak parcalayın sonra parametreleri duzenleyin ve yeniden olusturun",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "ZIP Dosya Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/zip-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Birden çok dosyayı tek bir ZIP arşivinde toplayın - tarayıcınızda oluşturulur, hiçbir şey yüklenmez.",
+  "k": "zip file creator zip file creator birden cok dosyayı tek bir zip arsivinde toplayın tarayıcınızda olusturulur hicbir sey yuklenmez",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Unzip Dosya Çıkarıcı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/unzip-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Bir ZIP açın, içindeki her dosyayı boyutuyla görün ve bir dosyayı veya hepsini çıkarın.",
+  "k": "unzip file extractor unzip file extractor bir zip acın icindeki her dosyayı boyutuyla gorun ve bir dosyayı veya hepsini cıkarın",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "RAR Dosya Çıkarıcı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/rar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "RAR dosyalarını (RAR4 ve RAR5) tarayıcınızda açın - içindeki her dosyayı görün, bir dosyayı veya hepsini bir ZIP olarak indirin.",
+  "k": "rar file extractor rar file extractor rar dosyalarını rar4 ve rar5 tarayıcınızda acın icindeki her dosyayı gorun bir dosyayı veya hepsini bir zip olarak indirin",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "7Z Dosya Çıkarıcı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/7z-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "7z arşivlerini tarayıcınızda açın - içerikleri görüntüleyin ve tek dosyaları veya hepsini bir ZIP olarak çıkarın.",
+  "k": "7z file extractor 7z file extractor 7z arsivlerini tarayıcınızda acın icerikleri goruntuleyin ve tek dosyaları veya hepsini bir zip olarak cıkarın",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR Dosya Çıkarıcı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/tar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": ".tar, .tar.bz2 ve .tar.xz arşivlerini tarayıcınızda açın ve içindeki dosyaları çıkarın - hiçbir şey yüklenmez.",
+  "k": "tar file extractor tar file extractor tar tar bz2 ve tar xz arsivlerini tarayıcınızda acın ve icindeki dosyaları cıkarın hicbir sey yuklenmez",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR.GZ Dosya Çıkarıcı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/tar-gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": ".tar.gz ve .tgz arşivlerini tarayıcınızda açın - içindeki dosyalara göz atın ve gereksinim duyduğunuzu çıkarın.",
+  "k": "tar gz file extractor tar gz file extractor tar gz ve tgz arsivlerini tarayıcınızda acın icindeki dosyalara goz atın ve gereksinim duydugunuzu cıkarın",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "GZ Dosya Çıkarıcı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Tek bir .gz dosyasını tarayıcınızda açın ve özgünü indirin - günlükler, veri dışa aktarımları ve veritabanı dökümleri.",
+  "k": "gz file extractor gz file extractor tek bir gz dosyasını tarayıcınızda acın ve ozgunu indirin gunlukler veri dısa aktarımları ve veritabanı dokumleri",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "ISO Dosya Çıkarıcı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/iso-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "ISO disk görüntülerini tarayıcınızda açın, sanal diskte saklanan dosya sistemine göz atın ve dosyaları indirin.",
+  "k": "iso file extractor iso file extractor iso disk goruntulerini tarayıcınızda acın sanal diskte saklanan dosya sistemine goz atın ve dosyaları indirin",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Arşiv Dosyası Çıkarıcı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/archive-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "ZIP, RAR, 7Z, TAR, ISO ve daha fazlası için tek bir evrensel arşiv açıcı - biçim otomatik olarak algılanır.",
+  "k": "archive file extractor archive file extractor zip rar 7z tar iso ve daha fazlası icin tek bir evrensel arsiv acıcı bicim otomatik olarak algılanır",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "RAR - ZIP Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/rar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Bir RAR arşivini tarayıcınızda standart bir ZIP dosyasına dönüştürün - klasör yapısı korunur, hiçbir şey yüklenmez.",
+  "k": "rar to zip converter rar to zip converter bir rar arsivini tarayıcınızda standart bir zip dosyasına donusturun klasor yapısı korunur hicbir sey yuklenmez",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "7Z - ZIP Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/7z-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Bir 7Z arşivini her yerde açılan bir ZIP dosyasına dönüştürün - 7-Zip gerekmez, hiçbir şey yüklenmez.",
+  "k": "7z to zip converter 7z to zip converter bir 7z arsivini her yerde acılan bir zip dosyasına donusturun 7 zip gerekmez hicbir sey yuklenmez",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR - ZIP Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/tar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Linux veya Unix kaynaklı bir TAR arşivini, Windows, macOS ve telefonlarda yerel olarak açılan bir ZIP dosyasına dönüştürün.",
+  "k": "tar to zip converter tar to zip converter linux veya unix kaynaklı bir tar arsivini windows macos ve telefonlarda yerel olarak acılan bir zip dosyasına donusturun",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR.GZ - ZIP Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/tar-gz-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": ".tar.gz veya .tgz değerini tek bir ZIP dosyasına dönüştürün - hem gzip hem tar katmanları cihazınızda açılır.",
+  "k": "tar gz to zip converter tar gz to zip converter tar gz veya tgz degerini tek bir zip dosyasına donusturun hem gzip hem tar katmanları cihazınızda acılır",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "ZIP - TAR.GZ Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/zip-to-tar-gz-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Bir ZIP arşivini bir .tar.gz tarball dosyasına dönüştürün - Linux sunucularının, Docker ve derleme araçlarının beklediği biçim.",
+  "k": "zip to tar gz converter zip to tar gz converter bir zip arsivini bir tar gz tarball dosyasına donusturun linux sunucularının docker ve derleme araclarının bekledigi bicim",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR Dosya Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/tar-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Birden çok dosyadan tarayıcınızda spec değerine uygun bir .tar arşivi oluşturun - herhangi bir tar aracıyla açılır.",
+  "k": "tar file creator tar file creator birden cok dosyadan tarayıcınızda spec degerine uygun bir tar arsivi olusturun herhangi bir tar aracıyla acılır",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "GZIP Sıkıştırıcı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/gzip-compressor/",
+  "s": "Loona Dev Tools",
+  "d": "Herhangi bir tek dosyayı tarayıcınızın yerleşik gzip motoruyla bir .gz içine sıkıştırın - anlık öncesi/sonrası boyutlar.",
+  "k": "gzip compressor gzip compressor herhangi bir tek dosyayı tarayıcınızın yerlesik gzip motoruyla bir gz icine sıkıstırın anlık oncesi sonrası boyutlar",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV Görüntüleyici ve Düzenleyici",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/csv-viewer-editor/",
+  "s": "Loona Dev Tools",
+  "d": "CSV değerini düzenlenebilir bir tablo ızgarasına yükleyin - hücreleri düzenleyin, sütunları sıralayın, satırlar ve sütunlar ekleyin veya kaldırın, sonra indirin.",
+  "k": "csv viewer editor csv viewer editor csv degerini duzenlenebilir bir tablo ızgarasına yukleyin hucreleri duzenleyin sutunları sıralayın satırlar ve sutunlar ekleyin veya kaldırın sonra indirin",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV - SQL Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/csv-to-sql-converter/",
+  "s": "Loona Dev Tools",
+  "d": "CSV değerini, çıkarılan türlerle CREATE TABLE artı INSERT deyimlerine çevirin, MySQL, PostgreSQL veya SQLite için.",
+  "k": "csv to sql converter csv to sql converter csv degerini cıkarılan turlerle create table artı insert deyimlerine cevirin mysql postgresql veya sqlite icin",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV - XML Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/csv-to-xml-converter/",
+  "s": "Loona Dev Tools",
+  "d": "CSV satırlarını, yapılandırılabilir kök ve satır öğeleri ve düzgün kaçışla iyi biçimli XML değerine dönüştürün.",
+  "k": "csv to xml converter csv to xml converter csv satırlarını yapılandırılabilir kok ve satır ogeleri ve duzgun kacısla iyi bicimli xml degerine donusturun",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV - Markdown Tablo Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/csv-to-markdown-converter/",
+  "s": "Loona Dev Tools",
+  "d": "CSV değerini GitHub için hazır bir Markdown tablosuna dönüştürün - sayısal sütunlar sağa hizalı, borular kaçışlı.",
+  "k": "csv to markdown table converter csv to markdown converter csv degerini github icin hazır bir markdown tablosuna donusturun sayısal sutunlar saga hizalı borular kacıslı",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV Tekilleştirici ve Temizleyici",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/csv-dedupe-cleaner/",
+  "s": "Loona Dev Tools",
+  "d": "Yinelenen CSV satırlarını bütün satır veya anahtar sütunlarla kaldırın, boşluğu kırpın ve boş satırları bırakın, sayımlarla.",
+  "k": "csv dedupe cleaner csv dedupe cleaner yinelenen csv satırlarını butun satır veya anahtar sutunlarla kaldırın boslugu kırpın ve bos satırları bırakın sayımlarla",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV Bölme ve Birleştirme",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/csv-split-merge/",
+  "s": "Loona Dev Tools",
+  "d": "Bir CSV değerini, başlık yinelenerek satır sayısına göre parçalara bölün veya aynı başlığı paylaşan CSV dosyalarını birleştirin.",
+  "k": "csv split merge csv split merge bir csv degerini baslık yinelenerek satır sayısına gore parcalara bolun veya aynı baslıgı paylasan csv dosyalarını birlestirin",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Meta Etiketi Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/meta-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Hazır bir HTML meta bloğu oluşturun - başlık, açıklama, robots, canonical - canlı bir SERP önizlemesiyle.",
+  "k": "meta tag generator meta tag generator hazır bir html meta blogu olusturun baslık acıklama robots canonical canlı bir serp onizlemesiyle",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Open Graph ve Twitter Kartı Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/open-graph-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Canlı bir sosyal kart önizlemesiyle OG ve Twitter Card etiketleri oluşturun, böylece paylaşılan bağlantılar doğru görünür.",
+  "k": "open graph twitter card generator open graph generator canlı bir sosyal kart onizlemesiyle og ve twitter card etiketleri olusturun boylece paylasılan baglantılar dogru gorunur",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Robots.txt Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/robots-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Ön ayarlar ve aracı başına kurallarla, çıktıda akıl kontrolleriyle geçerli bir robots.txt oluşturun.",
+  "k": "robots txt generator robots txt generator on ayarlar ve aracı basına kurallarla cıktıda akıl kontrolleriyle gecerli bir robots txt olusturun",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "XML Site Haritası Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/xml-sitemap-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bir URL listesini, lastmod, changefreq ve priority varsayılanlarıyla geçerli bir sitemap.xml değerine çevirin.",
+  "k": "xml sitemap generator xml sitemap generator bir url listesini lastmod changefreq ve priority varsayılanlarıyla gecerli bir sitemap xml degerine cevirin",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "UTM Bağlantı Kurucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/utm-link-builder/",
+  "s": "Loona Dev Tools",
+  "d": "Kampanya URL değerlerini UTM parametreleriyle etiketleyin - doğru kodlama, var olan parametreler korunur, yerel geçmiş.",
+  "k": "utm link builder utm link builder kampanya url degerlerini utm parametreleriyle etiketleyin dogru kodlama var olan parametreler korunur yerel gecmis",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "IP Alt Ağ Hesaplayıcı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/ip-subnet-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "IPv4 CIDR değerinden ağ, yayın, ağ maskesi, wildcard, host aralığı ve sayısı, artı bir alt ağ bölme görünümü.",
+  "k": "ip subnet calculator ip subnet calculator ipv4 cidr degerinden ag yayın ag maskesi wildcard host aralıgı ve sayısı artı bir alt ag bolme gorunumu",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON-LD Şema Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/json-ld-schema-generator/",
+  "s": "Loona Dev Tools",
+  "d": "schema.org yapısal verisi oluşturun - Article, Product, LocalBusiness, Event, Recipe ve daha fazlası - geçerli JSON-LD olarak.",
+  "k": "json ld schema generator json ld schema generator schema org yapısal verisi olusturun article product localbusiness event recipe ve daha fazlası gecerli json ld olarak",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Google SERP Önizleme",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/google-serp-preview/",
+  "s": "Loona Dev Tools",
+  "d": "Başlığınızı ve açıklamanızı bir Google sonucu olarak önizleyin, piksel genişliği kısaltma uyarılarıyla, masaüstü ve mobil.",
+  "k": "google serp preview google serp preview baslıgınızı ve acıklamanızı bir google sonucu olarak onizleyin piksel genisligi kısaltma uyarılarıyla masaustu ve mobil",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "Anahtar Kelime Yoğunluğu Denetleyicisi",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/keyword-density-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Tek sözcükler artı yüzde yoğunluk ve stopword filtrelemeyle 2 sözcüklü ve 3 sözcüklü ifadeleri sayın.",
+  "k": "keyword density checker keyword density checker tek sozcukler artı yuzde yogunluk ve stopword filtrelemeyle 2 sozcuklu ve 3 sozcuklu ifadeleri sayın",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML Tablo Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/html-table-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Tabloları bir ızgarada görsel olarak oluşturun ve thead, th ve caption desteğiyle temiz anlamsal HTML alın.",
+  "k": "html table generator html table generator tabloları bir ızgarada gorsel olarak olusturun ve thead th ve caption destegiyle temiz anlamsal html alın",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML E-posta İmzası Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/email-signature-generator/",
+  "s": "Loona Dev Tools",
+  "d": "E-posta için güvenli tablo HTML değeri olarak, Gmail ve Outlook içinde çalışan profesyonel bir e-posta imzası oluşturun.",
+  "k": "html email signature generator email signature generator e posta icin guvenli tablo html degeri olarak gmail ve outlook icinde calısan profesyonel bir e posta imzası olusturun",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "E-posta Doğrulayıcı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/email-validator/",
+  "s": "Loona Dev Tools",
+  "d": "E-posta adreslerini sözdizimi hataları ve gmial.com gibi yaygın alan adı yazım hataları için, önerilerle toplu kontrol edin.",
+  "k": "email validator email validator e posta adreslerini sozdizimi hataları ve gmial com gibi yaygın alan adı yazım hataları icin onerilerle toplu kontrol edin",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS Clip-Path Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/css-clip-path-generator/",
+  "s": "Loona Dev Tools",
+  "d": "clip-path CSS değeri oluşturun - ayarlanabilir noktalarla çokgen ön ayarları, artı çember, elips ve inset şekilleri.",
+  "k": "css clip path generator css clip path generator clip path css degeri olusturun ayarlanabilir noktalarla cokgen on ayarları artı cember elips ve inset sekilleri",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS Kutu Gölgesi Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/css-box-shadow-generator/",
+  "s": "Loona Dev Tools",
+  "d": "İç gölge desteği, renk ve opaklık kontrolü ve canlı bir önizlemeyle katmanlı box-shadow CSS değeri oluşturun.",
+  "k": "css box shadow generator css box shadow generator ic golge destegi renk ve opaklık kontrolu ve canlı bir onizlemeyle katmanlı box shadow css degeri olusturun",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "XML Biçimlendirici ve Doğrulayıcı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/xml-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "XML değerini güzelleştirin, küçültün ve doğrulayın - net hata mesajlarıyla dengeli etiket iyi biçimlilik kontrolleri.",
+  "k": "xml formatter validator xml formatter xml degerini guzellestirin kucultun ve dogrulayın net hata mesajlarıyla dengeli etiket iyi bicimlilik kontrolleri",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "Markdown - HTML Dönüştürücü",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/markdown-to-html-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Günlük Markdown değerini canlı görüntülenen bir önizlemeyle temiz HTML değerine dönüştürün - başlıklar, listeler, kod ve daha fazlası.",
+  "k": "markdown to html converter markdown to html converter gunluk markdown degerini canlı goruntulenen bir onizlemeyle temiz html degerine donusturun baslıklar listeler kod ve daha fazlası",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV Transpoze",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/csv-transpose/",
+  "s": "Loona Dev Tools",
+  "d": "CSV satırlarını ve sütunlarını düzgün bir ayrıştırıcıyla değiştirin - iki kez transpoze etmek özgünü döndürür.",
+  "k": "csv transpose csv transpose csv satırlarını ve sutunlarını duzgun bir ayrıstırıcıyla degistirin iki kez transpoze etmek ozgunu dondurur",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV Birleştirme",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/csv-join/",
+  "s": "Loona Dev Tools",
+  "d": "İki CSV değerini bir anahtar sütunda birleştirin - iç veya sol birleştirme, yinelenen anahtarlar veritabanı yoluyla işlenir.",
+  "k": "csv join csv join iki csv degerini bir anahtar sutunda birlestirin ic veya sol birlestirme yinelenen anahtarlar veritabanı yoluyla islenir",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV Pivot / Gruplandırma",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/csv-pivot-group-by/",
+  "s": "Loona Dev Tools",
+  "d": "CSV satırlarını, bir değer sütununun toplamı, sayısı, ortalaması, mini veya maksı ile bir sütuna göre gruplayın.",
+  "k": "csv pivot group by csv pivot group by csv satırlarını bir deger sutununun toplamı sayısı ortalaması mini veya maksı ile bir sutuna gore gruplayın",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV Fark / Karşılaştırma",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/csv-diff/",
+  "s": "Loona Dev Tools",
+  "d": "İki CSV dosyasını anahtar sütuna göre karşılaştırın - tam hücrelerle eklenen, kaldırılan ve değişen satırlar.",
+  "k": "csv diff compare csv diff iki csv dosyasını anahtar sutuna gore karsılastırın tam hucrelerle eklenen kaldırılan ve degisen satırlar",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV Veri Çıkarıcı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/csv-data-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "E-postaları, telefon numaralarını ve URL değerlerini, dağınık CSV veya metinden temiz, tekilleştirilmiş listelere çekin.",
+  "k": "csv data extractor csv data extractor e postaları telefon numaralarını ve url degerlerini dagınık csv veya metinden temiz tekillestirilmis listelere cekin",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV Profilleyici",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/csv-profiler/",
+  "s": "Loona Dev Tools",
+  "d": "Sütun başına tür tahminleri, boş sayımlar, benzersiz sayımlar, sayısal min/maks ve üst değerler.",
+  "k": "csv profiler csv profiler sutun basına tur tahminleri bos sayımlar benzersiz sayımlar sayısal min maks ve ust degerler",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "Robots.txt Test Aracı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/robots-txt-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Bir URL değerini ve user-agent değerini robots.txt kurallarına karşı test edin - karar artı tam eşleşen kural.",
+  "k": "robots txt tester robots txt tester bir url degerini ve user agent degerini robots txt kurallarına karsı test edin karar artı tam eslesen kural",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "SEO Okunabilirlik Denetleyicisi",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/readability-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Web kopyası için altı okunabilirlik formülü artı cümle istatistikleri, SEO içerik işi için çerçevelenmiş.",
+  "k": "seo readability checker readability checker web kopyası icin altı okunabilirlik formulu artı cumle istatistikleri seo icerik isi icin cercevelenmis",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "llms.txt Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/llms-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Yapay zekâya yönelik llms.txt dosyasını oluşturun - özet blockquote artı spec biçiminde seçilmiş sayfa bağlantıları.",
+  "k": "llms txt generator llms txt generator yapay zekaya yonelik llms txt dosyasını olusturun ozet blockquote artı spec biciminde secilmis sayfa baglantıları",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "Hreflang Etiketi Oluşturucu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/hreflang-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "x-default ve BCP 47 / mutlak URL kontrolleriyle hreflang alternatif bağlantı kümeleri oluşturun.",
+  "k": "hreflang tag generator hreflang tag generator x default ve bcp 47 mutlak url kontrolleriyle hreflang alternatif baglantı kumeleri olusturun",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "Office Belgesi Meta Veri Görüntüleyici",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/office-metadata-viewer/",
+  "s": "Loona Dev Tools",
+  "d": "DOCX, XLSX ve PPTX özelliklerini okuyun - başlık, yazar, şirket, tarihler - yalnızca görüntüleme, cihazda.",
+  "k": "office document metadata viewer office metadata viewer docx xlsx ve pptx ozelliklerini okuyun baslık yazar sirket tarihler yalnızca goruntuleme cihazda",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "Dosya Türü Algılayıcı",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/tr/file-type-detector/",
+  "s": "Loona Dev Tools",
+  "d": "Bir dosyanın gerçek türünü onun sihirli baytlarından algılayın ve uzantı katılmadığında uyarın.",
+  "k": "file type detector file type detector bir dosyanın gercek turunu onun sihirli baytlarından algılayın ve uzantı katılmadıgında uyarın",
+  "p": 171,
+  "c": "Tool"
+ }
+]

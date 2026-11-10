@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dosya Türü Algılayıcı Çevrimiçi Ücretsiz",
+  "short_name": "Dosya Türü Algılayıcı Çevrimiçi Ücretsiz",
+  "description": "Bir dosyanın gerçek türünü onun sihirli bayt başlık imzasından çevrimiçi ücretsiz algılayın - PNG, PDF, ZIP, MP4, EXE ve 30+ biçim - ve uzantı katılmadığında bir uyarı alın. Hiçbir şey yüklenmez.",
+  "id": "/loona-dev-tools/tr/file-type-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Regex Test Aracı Çevrimiçi Ücretsiz",
+  "short_name": "Regex Test Aracı Çevrimiçi Ücretsiz",
+  "description": "Düzenli ifadeleri çevrimiçi ücretsiz test edin, canlı eşleşme vurgulama, yakalama grubu ayrıntıları ve bir eşleşme sayısıyla. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
+  "id": "/loona-dev-tools/tr/regex-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

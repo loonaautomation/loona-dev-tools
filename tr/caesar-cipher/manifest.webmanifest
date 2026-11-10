@@ -1,0 +1,29 @@
+{
+  "name": "Loona Caesar Şifresi Kodlayıcı ve Kod Çözücü",
+  "short_name": "Caesar Şifresi Kodlayıcı ve",
+  "description": "Herhangi bir kaydırmayla (1–25) Caesar şifresi ve bir kod çözme modu: Julius Caesar değerinin klasik yerine koyma şifresi, çevrimiçi.",
+  "id": "/loona-dev-tools/tr/caesar-cipher/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Unix Zaman Damgası - Tarih Dönüştürücü",
+  "short_name": "Unix Zaman Damgasından Tarihe",
+  "description": "Bir Unix zaman damgasını (saniye veya milisaniye) bir insan tarihine dönüştürün: UTC, yerel saatiniz, ISO 8601 ve göreli saat.",
+  "id": "/loona-dev-tools/tr/unix-timestamp-to-date/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

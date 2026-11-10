@@ -1,0 +1,29 @@
+{
+  "name": "Loona Unix Zaman Damgası Dönüştürücü Çevrimiçi Ücretsiz",
+  "short_name": "Unix Zaman Damgası Dönüştürücü",
+  "description": "Unix zaman damgalarını (saniye veya milisaniye) UTC ve yerel saatinizde insan tarihlerine ve tarihleri zaman damgalarına geri dönüştürün. Canlı güncel saat. Ücretsiz.",
+  "id": "/loona-dev-tools/tr/timestamp-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

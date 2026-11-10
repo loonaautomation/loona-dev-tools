@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rem - Piksel (px) Dönüştürücü",
+  "short_name": "Rem - Piksel (px) Dönüştürücü",
+  "description": "Ayarlanabilir bir temel yazı tipi boyutuyla (varsayılan 16px) ve yaygın değerler tablosuyla rem değerini px değerine dönüştürün.",
+  "id": "/loona-dev-tools/tr/rem-to-px-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona .env - JSON Dönüştürücü",
+  "short_name": ".env - JSON Dönüştürücü",
+  "description": "Bir .env dosyasını JSON değerine ayrıştırın: KEY=value satırları, export önekleri, yorumlar ve tırnaklı değerler işlenir.",
+  "id": "/loona-dev-tools/tr/env-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

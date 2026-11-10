@@ -1,0 +1,29 @@
+{
+  "name": "Loona Open Graph ve Twitter Kartı Oluşturucu",
+  "short_name": "Open Graph ve Twitter Kartı",
+  "description": "Open Graph ve Twitter Card meta etiketlerini çevrimiçi ücretsiz, canlı bir sosyal kart önizlemesiyle oluşturun - başlık, açıklama, görsel, URL ve site adı. Kayıt gerekmez, tarayıcınızda çalışır.",
+  "id": "/loona-dev-tools/tr/open-graph-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

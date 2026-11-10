@@ -1,0 +1,29 @@
+{
+  "name": "Loona MAC Adresi Biçim Dönüştürücü",
+  "short_name": "MAC Adresi Biçim Dönüştürücü",
+  "description": "MAC adreslerini iki nokta (AA:BB:CC:DD:EE:FF), tire, Cisco nokta ve düz biçimler arasında dönüştürün; 48 bit adresi doğrular.",
+  "id": "/loona-dev-tools/tr/mac-address-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

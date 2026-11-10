@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS Küçültücü Çevrimiçi Ücretsiz",
+  "short_name": "CSS Küçültücü Çevrimiçi Ücretsiz",
+  "description": "CSS değerini çevrimiçi ücretsiz küçültün ve ne kadar küçüldüğünü tam olarak görün veya küçültülmüş CSS değerini okunabilir koda geri güzelleştirin. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
+  "id": "/loona-dev-tools/tr/css-minifier/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

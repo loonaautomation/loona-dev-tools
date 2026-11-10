@@ -1,0 +1,29 @@
+{
+  "name": "Loona E-posta Doğrulayıcı Çevrimiçi Ücretsiz",
+  "short_name": "E-posta Doğrulayıcı Çevrimiçi Ücretsiz",
+  "description": "E-posta adreslerini çevrimiçi ücretsiz, bir veya toplu doğrulayın - gmial.com gibi yaygın alan yazım hatalarının algılanmasıyla, adres kurallarına karşı tam sözdizimi denetimleri. Kayıt gerekmez.",
+  "id": "/loona-dev-tools/tr/email-validator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
