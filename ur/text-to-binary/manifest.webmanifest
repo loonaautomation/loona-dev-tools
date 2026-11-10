@@ -1,0 +1,29 @@
+{
+  "name": "Loona متن سے بائنری کنورٹر",
+  "short_name": "متن سے بائنری کنورٹر",
+  "description": "متن کو بائنری میں بدلیں: ہر حرف اس کے UTF-8 بائٹس کے 8-bit بائنری گروپس کے طور پر۔ مفت آن لائن کنورٹر۔",
+  "id": "/loona-dev-tools/ur/text-to-binary/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

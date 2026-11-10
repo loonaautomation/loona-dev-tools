@@ -1,0 +1,29 @@
+{
+  "name": "Loona 7Z سے ZIP کنورٹر آن لائن مفت",
+  "short_name": "7Z سے ZIP کنورٹر آن لائن",
+  "description": "ایک 7Z آرکائیو (.7z) کو عین اپنے براؤزر میں ایک معیاری ZIP فائل میں بدلیں۔ فولڈر ساخت محفوظ، کچھ اپ لوڈ نہیں - اور نتیجہ ZIP Windows, macOS, Android اور iPhone پر مقامی طور پر کھلتا ہے، 7-Zip کی ضرورت نہیں۔",
+  "id": "/loona-dev-tools/ur/7z-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

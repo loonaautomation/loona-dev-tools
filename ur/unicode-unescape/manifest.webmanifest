@@ -1,0 +1,29 @@
+{
+  "name": "Loona Unicode Unescape کنورٹر (Decode \\uXXXX)",
+  "short_name": "Unicode Unescape کنورٹر",
+  "description": "Unicode escape ترتیبیں (\\uXXXX, \\u{...}, \\xXX) واپس اصل حروف میں ڈی کوڈ کریں، علاوہ \\n \\t اور \\\\ escapes۔",
+  "id": "/loona-dev-tools/ur/unicode-unescape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

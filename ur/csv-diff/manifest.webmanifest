@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV ڈِف اور موازنہ آن لائن مفت",
+  "short_name": "CSV ڈِف اور موازنہ آن لائن مفت",
+  "description": "دو CSV فائلوں کا آن لائن مفت موازنہ کریں - قطاریں ایک کلیدی کالم سے ملائی گئیں اور شامل، ہٹائی گئی، تبدیل شدہ (عین خانوں کے ساتھ) یا غیر تبدیل شدہ کے طور پر درجہ بند۔ کوئی سائن اپ نہیں، آپ کے براؤزر میں چلتا ہے۔",
+  "id": "/loona-dev-tools/ur/csv-diff/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona XML فارمیٹر اور ویلیڈیٹر آن لائن مفت",
+  "short_name": "XML فارمیٹر اور ویلیڈیٹر",
+  "description": "XML کو آن لائن مفت فارمیٹ، خوبصورت، منی فائی اور توثیق کریں - واضح غلطی پیغامات کے ساتھ متوازن-ٹیگ درستگی جانچ، indentation کے ساتھ خوبصورت پرنٹنگ۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-dev-tools/ur/xml-formatter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

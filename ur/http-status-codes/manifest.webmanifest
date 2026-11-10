@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTTP اسٹیٹس کوڈز حوالہ",
+  "short_name": "HTTP اسٹیٹس کوڈز حوالہ",
+  "description": "ہر عام HTTP status کوڈ اس کے معنی کے ساتھ: 2xx کامیابی، 3xx ری ڈائریکٹس، 4xx کلائنٹ غلطیاں، 5xx سرور غلطیاں — سادہ بیان کردہ۔",
+  "id": "/loona-dev-tools/ur/http-status-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

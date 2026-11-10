@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV سے SQL کنورٹر آن لائن مفت",
+  "short_name": "CSV سے SQL کنورٹر آن لائن",
+  "description": "CSV کو SQL میں آن لائن مفت بدلیں - اخذ شدہ کالم اقسام کے ساتھ CREATE TABLE علاوہ فی قطار ایک INSERT، MySQL, PostgreSQL یا SQLite کے لیے۔ کوئی سائن اپ نہیں، 100% آپ کے براؤزر میں چلتا ہے۔",
+  "id": "/loona-dev-tools/ur/csv-to-sql-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

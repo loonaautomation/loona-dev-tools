@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base32 سے متن ڈیکوڈر",
+  "short_name": "Base32 سے متن ڈیکوڈر",
+  "description": "Base32 (RFC 4648) کو واپس متن میں ڈی کوڈ کریں — کیس-غیر حساس، بھرائی اختیاری۔ TOTP طرز کی انکوڈ شدہ اسٹرنگز بازیافت کریں۔",
+  "id": "/loona-dev-tools/ur/base32-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

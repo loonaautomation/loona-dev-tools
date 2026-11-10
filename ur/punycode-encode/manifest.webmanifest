@@ -1,0 +1,29 @@
+{
+  "name": "Loona Punycode انکوڈر (IDN ڈومین کنورٹر)",
+  "short_name": "Punycode انکوڈر (IDN ڈومین",
+  "description": "بین الاقوامی ڈومین ناموں (IDN) کو punycode xn-- شکل میں بدلیں: bücher.example، xn--bcher-kva.example بن جاتا ہے۔ فی-لیبل انکوڈنگ۔",
+  "id": "/loona-dev-tools/ur/punycode-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

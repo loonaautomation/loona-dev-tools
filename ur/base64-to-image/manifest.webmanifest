@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base64 سے تصویر کنورٹر",
+  "short_name": "Base64 سے تصویر کنورٹر",
+  "description": "ایک Base64 اسٹرنگ یا data URI کو واپس قابل دید، قابل ڈاؤن لوڈ تصویر میں ڈی کوڈ کریں۔ MIME قسم بائٹس سے شناخت شدہ۔",
+  "id": "/loona-dev-tools/ur/base64-to-image/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

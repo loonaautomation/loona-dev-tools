@@ -1,0 +1,29 @@
+{
+  "name": "Loona ZIP سے TAR.GZ کنورٹر آن لائن مفت",
+  "short_name": "ZIP سے TAR.GZ کنورٹر",
+  "description": "ایک ZIP آرکائیو کو عین اپنے براؤزر میں ایک TAR.GZ tarball (.tar.gz) میں بدلیں - وہ فارمیٹ جس کی Linux سرورز، Docker اور build ٹولز توقع کرتے ہیں۔ فولڈر ساخت محفوظ، کچھ اپ لوڈ نہیں۔",
+  "id": "/loona-dev-tools/ur/zip-to-tar-gz-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

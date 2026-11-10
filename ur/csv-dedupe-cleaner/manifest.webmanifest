@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV ڈی ڈوپ اور کلینر آن لائن مفت",
+  "short_name": "CSV ڈی ڈوپ اور کلینر آن لائن",
+  "description": "ڈپلیکیٹ قطاریں CSV سے آن لائن مفت ہٹائیں - پوری قطار سے یا کلیدی کالموں سے - علاوہ اسپیس تراشنا، خالی قطاریں گرانا اور لائن اختتام معمول پر لانا، پہلے/بعد گنتیوں کے ساتھ۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-dev-tools/ur/csv-dedupe-cleaner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

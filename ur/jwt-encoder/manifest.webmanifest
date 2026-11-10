@@ -1,0 +1,29 @@
+{
+  "name": "Loona JWT انکوڈر (HS256 دستخط کنندہ)",
+  "short_name": "JWT انکوڈر (HS256 دستخط کنندہ)",
+  "description": "JSON Web Tokens بنائیں اور اپنے براؤزر میں HS256 سے دستخط کریں: پے لوڈ JSON علاوہ ایک راز، یا alg=none۔ WebCrypto دستخط۔",
+  "id": "/loona-dev-tools/ur/jwt-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

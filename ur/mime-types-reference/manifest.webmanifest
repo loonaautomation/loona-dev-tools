@@ -1,0 +1,29 @@
+{
+  "name": "Loona MIME اقسام حوالہ (مواد اقسام بلحاظ",
+  "short_name": "MIME اقسام حوالہ (مواد",
+  "description": "فائل توسیع کے لحاظ سے عام MIME اقسام: دستاویزات، تصاویر، آڈیو، ویڈیو، آرکائیوز، فونٹس اور ویب فارمیٹس ان کی Content-Type قدروں کے ساتھ۔",
+  "id": "/loona-dev-tools/ur/mime-types-reference/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

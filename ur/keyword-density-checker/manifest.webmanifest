@@ -1,0 +1,29 @@
+{
+  "name": "Loona کی ورڈ ڈینسٹی چیکر آن لائن مفت",
+  "short_name": "کی ورڈ ڈینسٹی چیکر",
+  "description": "کلیدی لفظ کثافت آن لائن مفت جانچیں - اہم واحد الفاظ علاوہ 2 لفظی اور 3 لفظی فقرے گنتیوں اور فیصد کثافت کے ساتھ، stopword فلٹرنگ شامل۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-dev-tools/ur/keyword-density-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

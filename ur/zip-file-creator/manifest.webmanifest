@@ -1,0 +1,29 @@
+{
+  "name": "Loona ZIP فائل کریئیٹر آن لائن مفت",
+  "short_name": "ZIP فائل کریئیٹر آن لائن مفت",
+  "description": "ایک ZIP فائل متعدد فائلوں سے عین اپنے براؤزر میں بنائیں - فائلیں شامل کریں، آرکائیو کا نام دیں اور ایک .zip ڈاؤن لوڈ کریں۔ کچھ اپ لوڈ نہیں ہوتا؛ سب کچھ آپ کے آلے پر رہتا ہے۔",
+  "id": "/loona-dev-tools/ur/zip-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

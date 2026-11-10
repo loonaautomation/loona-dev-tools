@@ -1,0 +1,29 @@
+{
+  "name": "Loona رومن اعداد سے اعداد",
+  "short_name": "رومن اعداد سے اعداد",
+  "description": "رومن اعداد کو اعداد (1–3999) میں بدلیں، subtractive نوٹیشن (IV, IX, XL, CM) کی سخت توثیق کے ساتھ۔",
+  "id": "/loona-dev-tools/ur/roman-numerals-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

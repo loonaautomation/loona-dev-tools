@@ -1,0 +1,29 @@
+{
+  "name": "Loona Query String سے JSON کنورٹر",
+  "short_name": "Query String سے JSON کنورٹر",
+  "description": "ایک URL query اسٹرنگ کو JSON میں parse کریں: بریکٹ اشارہ nested آبجیکٹس بن جاتا ہے، دہرائی گئی کنجیاں ارے بن جاتی ہیں، قدریں قسم یافتہ۔",
+  "id": "/loona-dev-tools/ur/query-string-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML ٹیبل جنریٹر آن لائن مفت",
+  "short_name": "HTML ٹیبل جنریٹر آن لائن",
+  "description": "HTML ٹیبلز آن لائن مفت بنائیں - قطاریں اور کالم مقرر کریں، گرڈ میں ٹائپ کریں، اور thead, th اور caption حمایت علاوہ لائیو پیش منظر کے ساتھ صاف ٹیبل HTML پائیں۔ کوئی سائن اپ نہیں۔",
+  "id": "/loona-dev-tools/ur/html-table-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Quoted-Printable ڈیکوڈر",
+  "short_name": "Quoted-Printable ڈیکوڈر",
+  "description": "quoted-printable (MIME) متن کو واپس پڑھنے کے قابل UTF-8 میں ڈی کوڈ کریں: =XX escapes اور نرم لائن وقفے RFC 2045 کے مطابق سنبھالے گئے۔",
+  "id": "/loona-dev-tools/ur/quoted-printable-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

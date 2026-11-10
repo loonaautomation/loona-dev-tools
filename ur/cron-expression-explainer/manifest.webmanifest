@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cron ایکسپریشن وضاحت کنندہ",
+  "short_name": "Cron ایکسپریشن وضاحت کنندہ",
+  "description": "Cron ایکسپریشنز کی سادہ انگریزی میں وضاحت کریں: ایک 5-فیلڈ Cron شیڈول پیسٹ کریں اور پڑھیں کہ یہ کب چلتا ہے، فیلڈ بہ فیلڈ۔",
+  "id": "/loona-dev-tools/ur/cron-expression-explainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
