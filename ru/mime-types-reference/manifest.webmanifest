@@ -1,0 +1,29 @@
+{
+  "name": "Loona Справочник типов MIME (типы содержимого по",
+  "short_name": "Справочник типов MIME (содержимое",
+  "description": "Обычные типы MIME по расширению файла: документы, изображения, аудио, видео, архивы, шрифты и веб-форматы с их значениями Content-Type.",
+  "id": "/loona-dev-tools/ru/mime-types-reference/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

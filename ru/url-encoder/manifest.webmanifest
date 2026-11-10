@@ -1,0 +1,29 @@
+{
+  "name": "Loona Кодировщик &amp; декодировщик URL онлайн бесплатно",
+  "short_name": "Кодировщик &amp; декодер URL онлайн",
+  "description": "Кодируйте и декодируйте URL и текст запросов онлайн бесплатно, с режимами компонента и полного URL и разбором по символам. Без регистрации, в вашем браузере.",
+  "id": "/loona-dev-tools/ru/url-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор хешей онлайн бесплатно",
+  "short_name": "Генератор хешей онлайн бесплатно",
+  "description": "Генерируйте хеши SHA-1, SHA-256, SHA-384 и SHA-512 любого текста онлайн бесплатно, вычисляемые локально в вашем браузере. Без регистрации, ничего не загружается.",
+  "id": "/loona-dev-tools/ru/hash-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

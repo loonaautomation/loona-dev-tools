@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер XML в CSV",
+  "short_name": "Конвертер XML в CSV",
+  "description": "Преобразуйте XML в CSV: повторяющиеся элементы становятся строками, их дочерние элементы и атрибуты становятся столбцами. Бесплатный онлайн-конвертер.",
+  "id": "/loona-dev-tools/ru/xml-to-csv/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

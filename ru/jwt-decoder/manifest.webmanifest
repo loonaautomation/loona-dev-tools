@@ -1,0 +1,29 @@
+{
+  "name": "Loona Декодировщик JWT онлайн бесплатно",
+  "short_name": "Декодировщик JWT онлайн бесплатно",
+  "description": "Декодируйте JSON Web Token онлайн бесплатно — прочитайте заголовок и полезную нагрузку в виде красиво отформатированного JSON и посмотрите срок действия простыми словами. Подпись НЕ проверяется. В вашем браузере.",
+  "id": "/loona-dev-tools/ru/jwt-decoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер JSON в строку запроса",
+  "short_name": "Конвертер JSON в строку запроса",
+  "description": "Создайте строку запроса URL из объекта JSON: вложенные объекты используют нотацию скобок, массивы повторяют ключ, всё кодируется в процентах.",
+  "id": "/loona-dev-tools/ru/json-to-query-string/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

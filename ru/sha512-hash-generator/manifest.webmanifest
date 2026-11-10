@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор хешей SHA-512",
+  "short_name": "Генератор хэшей SHA-512",
+  "description": "Вычисляйте хеши SHA-512 текста или файлов онлайн: 512-битные, 128 шестнадцатеричных символов. Работает локально в вашем браузере с WebCrypto/чистым JS — файлы никогда не загружаются.",
+  "id": "/loona-dev-tools/ru/sha512-hash-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

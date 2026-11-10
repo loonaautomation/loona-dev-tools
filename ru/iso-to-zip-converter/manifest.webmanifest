@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер ISO в ZIP",
+  "short_name": "Конвертер ISO в ZIP",
+  "description": "Преобразуйте образ диска ISO в ZIP с его файлами онлайн: libarchive читает содержимое ISO9660/Rock Ridge локально.",
+  "id": "/loona-dev-tools/ru/iso-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

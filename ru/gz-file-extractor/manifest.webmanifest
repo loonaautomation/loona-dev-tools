@@ -1,0 +1,29 @@
+{
+  "name": "Loona Распаковщик файлов GZ онлайн бесплатно",
+  "short_name": "Извлекатель файлов GZ онлайн бесплатно",
+  "description": "Распакуйте один файл .gz прямо в вашем браузере и скачайте исходный файл — журналы, экспорты данных, дампы баз данных. Ничего не загружается на сервер; ваш браузер делает работу нативно.",
+  "id": "/loona-dev-tools/ru/gz-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

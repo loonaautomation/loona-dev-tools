@@ -1,0 +1,29 @@
+{
+  "name": "Loona Инструмент предварительного просмотра SERP Google онлайн бесплатно",
+  "short_name": "Инструмент предпросмотра выдачи Google",
+  "description": "Предварительно посмотрите, как заголовок вашей страницы и мета-описание будут выглядеть в результатах поиска Google, онлайн бесплатно, с видами для компьютера и мобильного устройства и предупреждениями об обрезке по ширине в пикселях. Без регистрации.",
+  "id": "/loona-dev-tools/ru/google-serp-preview/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

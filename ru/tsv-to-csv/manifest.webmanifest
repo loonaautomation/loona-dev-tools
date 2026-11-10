@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер TSV в CSV",
+  "short_name": "Конвертер TSV в CSV",
+  "description": "Преобразуйте TSV (значения, разделённые табуляцией) в CSV: вставьте данные, скопированные из Excel или Sheets, и получите правильно заключённый в кавычки CSV.",
+  "id": "/loona-dev-tools/ru/tsv-to-csv/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

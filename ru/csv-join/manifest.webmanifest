@@ -1,0 +1,29 @@
+{
+  "name": "Loona Объединение CSV онлайн бесплатно",
+  "short_name": "Объединение CSV онлайн бесплатно",
+  "description": "Объединяйте два файла CSV онлайн бесплатно по общему ключевому столбцу — внутреннее или левое соединение, дублирующиеся ключи обрабатываются как в базах данных. Без регистрации, работает на 100% в вашем браузере.",
+  "id": "/loona-dev-tools/ru/csv-join/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

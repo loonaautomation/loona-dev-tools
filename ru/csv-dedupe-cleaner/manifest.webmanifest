@@ -1,0 +1,29 @@
+{
+  "name": "Loona Удаление дубликатов &amp; очистка CSV онлайн бесплатно",
+  "short_name": "Удаление дубликатов CSV &amp; очистка онлайн",
+  "description": "Удаляйте дублирующиеся строки из CSV онлайн бесплатно — по всей строке или по ключевым столбцам, — а также обрезайте пробелы, удаляйте пустые строки и нормализуйте окончания строк, с подсчётами до/после. Без регистрации.",
+  "id": "/loona-dev-tools/ru/csv-dedupe-cleaner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

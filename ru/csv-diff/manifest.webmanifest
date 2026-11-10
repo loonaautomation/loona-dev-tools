@@ -1,0 +1,29 @@
+{
+  "name": "Loona Различия CSV &amp; сравнение онлайн бесплатно",
+  "short_name": "Различия CSV &amp; сравнение онлайн бесплатно",
+  "description": "Сравнивайте два файла CSV онлайн бесплатно — строки сопоставляются по ключевому столбцу и классифицируются как добавленные, удалённые, изменённые (с точными ячейками) или неизменённые. Без регистрации, работает в вашем браузере.",
+  "id": "/loona-dev-tools/ru/csv-diff/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

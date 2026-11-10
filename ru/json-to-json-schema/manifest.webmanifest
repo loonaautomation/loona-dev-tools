@@ -1,0 +1,29 @@
+{
+  "name": "Loona Генератор схемы JSON из JSON",
+  "short_name": "Генератор схемы JSON из JSON",
+  "description": "Генерируйте JSON Schema (черновик 2020-12) из образца JSON: типы выведены, свойства объектов и обязательные ключи включены.",
+  "id": "/loona-dev-tools/ru/json-to-json-schema/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

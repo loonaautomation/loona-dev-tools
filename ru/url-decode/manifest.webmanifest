@@ -1,0 +1,29 @@
+{
+  "name": "Loona Декодирование URL (процентное декодирование)",
+  "short_name": "Декодирование URL (процентное декодирование)",
+  "description": "Декодируйте URL и строки запросов с процентной кодировкой обратно в читаемый текст, включая последовательности UTF-8 и + как пробел. Бесплатный онлайн-декодировщик.",
+  "id": "/loona-dev-tools/ru/url-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер Markdown в HTML онлайн бесплатно",
+  "short_name": "Конвертер Markdown в HTML",
+  "description": "Преобразуйте Markdown в HTML онлайн бесплатно — заголовки, жирный шрифт, курсив, ссылки, изображения, списки, блоки цитат, блоки кода и многое другое, с живым визуализированным предпросмотром. Без регистрации.",
+  "id": "/loona-dev-tools/ru/markdown-to-html-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

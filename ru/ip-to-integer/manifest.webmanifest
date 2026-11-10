@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер IP-адреса в целое число",
+  "short_name": "IP-адрес в целое число",
+  "description": "Преобразуйте IPv4-адрес в его 32-битную целочисленную форму (192.168.0.1 → 3232235521), используемую в базах данных и проверках диапазонов.",
+  "id": "/loona-dev-tools/ru/ip-to-integer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Создатель файлов TAR онлайн бесплатно",
+  "short_name": "Создатель файлов TAR онлайн бесплатно",
+  "description": "Создайте TAR-архив (.tar) из нескольких файлов прямо в вашем браузере — корректный по спецификации модуль записи ustar, опция папки, настоящие метки времени. Ничего не загружается на сервер; tar-архив создаётся на вашем устройстве и открывается любым инструментом tar.",
+  "id": "/loona-dev-tools/ru/tar-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Тестер регулярных выражений онлайн бесплатно",
+  "short_name": "Тестер регулярных выражений онлайн бесплатно",
+  "description": "Тестируйте регулярные выражения онлайн бесплатно с подсветкой совпадений в реальном времени, деталями групп захвата и количеством совпадений. Без регистрации, работает на 100% в вашем браузере.",
+  "id": "/loona-dev-tools/ru/regex-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

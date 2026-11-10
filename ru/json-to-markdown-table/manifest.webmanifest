@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер JSON в таблицу Markdown",
+  "short_name": "Из JSON в таблицу Markdown",
+  "description": "Преобразуйте массив JSON объектов в таблицу Markdown: столбцы из ключей, вертикальные черты экранированы, готово к вставке в README.",
+  "id": "/loona-dev-tools/ru/json-to-markdown-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

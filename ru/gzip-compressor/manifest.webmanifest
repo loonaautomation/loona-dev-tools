@@ -1,0 +1,29 @@
+{
+  "name": "Loona Компрессор GZIP онлайн бесплатно",
+  "short_name": "Компрессор GZIP онлайн бесплатно",
+  "description": "Сжимайте любой отдельный файл в .gz с помощью встроенного движка gzip вашего браузера. Мгновенные размеры до/после, ничего не загружается — файл сжимается на вашем устройстве. Работает для журналов, CSV, файлов TAR и многого другого.",
+  "id": "/loona-dev-tools/ru/gzip-compressor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

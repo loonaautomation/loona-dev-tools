@@ -1,0 +1,29 @@
+{
+  "name": "Loona Калькулятор контрольной суммы Adler-32",
+  "short_name": "Калькулятор контрольной суммы Adler-32",
+  "description": "Вычисляйте хеши Adler-32 текста или файлов онлайн: 32-битные, 8 шестнадцатеричных символов. Работает локально в вашем браузере с WebCrypto/чистым JS — файлы никогда не загружаются.",
+  "id": "/loona-dev-tools/ru/adler32-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

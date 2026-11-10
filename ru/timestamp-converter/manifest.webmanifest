@@ -1,0 +1,29 @@
+{
+  "name": "Loona Конвертер временных меток Unix онлайн бесплатно",
+  "short_name": "Конвертер меток времени Unix",
+  "description": "Преобразуйте метки времени Unix (секунды или миллисекунды) в человеческие даты в UTC и вашем местном времени, а даты обратно в метки времени. Текущее время в реальном времени. Бесплатно.",
+  "id": "/loona-dev-tools/ru/timestamp-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

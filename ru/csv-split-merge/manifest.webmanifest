@@ -1,0 +1,29 @@
+{
+  "name": "Loona Разделение CSV &amp; слияние онлайн бесплатно",
+  "short_name": "Разделение CSV &amp; слияние онлайн бесплатно",
+  "description": "Разделяйте CSV на части по количеству строк или объединяйте несколько файлов CSV в один, онлайн бесплатно — заголовки обрабатываются правильно, надлежащий разбор CSV. Без регистрации, работает на 100% в вашем браузере.",
+  "id": "/loona-dev-tools/ru/csv-split-merge/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

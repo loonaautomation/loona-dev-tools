@@ -1,0 +1,29 @@
+{
+  "name": "Loona Детектор типов файлов онлайн бесплатно",
+  "short_name": "Детектор типов файлов онлайн бесплатно",
+  "description": "Определите настоящий тип файла онлайн бесплатно по сигнатуре его заголовка из магических байтов — PNG, PDF, ZIP, MP4, EXE и более 30 форматов — и получите предупреждение, когда расширение не совпадает. Ничего не загружается.",
+  "id": "/loona-dev-tools/ru/file-type-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

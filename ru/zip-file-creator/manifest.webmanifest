@@ -1,0 +1,29 @@
+{
+  "name": "Loona Создатель файлов ZIP онлайн бесплатно",
+  "short_name": "Создатель файлов ZIP онлайн бесплатно",
+  "description": "Создайте ZIP-файл из нескольких файлов прямо в вашем браузере — добавьте файлы, назовите архив и скачайте один .zip. Ничего не загружается на сервер; всё остаётся на вашем устройстве.",
+  "id": "/loona-dev-tools/ru/zip-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
