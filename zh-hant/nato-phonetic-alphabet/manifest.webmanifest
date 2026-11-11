@@ -1,0 +1,29 @@
+{
+  "name": "Loona 北約音標字母翻譯器（文字",
+  "short_name": "北約音標字母",
+  "description": "用北約語音字母表拼讀文字：A = Alfa、B = Bravo……包括數字。用於航空、軍事和支援通話。",
+  "id": "/loona-dev-tools/zh-hant/nato-phonetic-alphabet/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 二進位制轉文字轉換器",
+  "short_name": "二進位制轉文字轉換器",
+  "description": "線上把二進位制（8 位一組，帶空格或連續）解碼回 UTF-8 文字。免費的二進位制翻譯器。",
+  "id": "/loona-dev-tools/zh-hant/binary-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

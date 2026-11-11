@@ -1,0 +1,29 @@
+{
+  "name": "Loona UTM 連結構建器 線上免費",
+  "short_name": "UTM 連結構建器 線上免費",
+  "description": "免費線上構建帶 UTM 標籤的活動 URL——source、medium、campaign、term 和 content 以正確的編碼新增，已有的查詢引數得以保留，外加儲存的歷史記錄。",
+  "id": "/loona-dev-tools/zh-hant/utm-link-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

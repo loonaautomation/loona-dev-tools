@@ -1,0 +1,29 @@
+{
+  "name": "Loona ZIP 轉 TAR 轉換器",
+  "short_name": "ZIP 轉 TAR 轉換器",
+  "description": "線上把 ZIP 歸檔轉換為未壓縮的 TAR：相同的檔案和資料夾，用符合標準的 TAR 寫入器重新打包。完全本地。",
+  "id": "/loona-dev-tools/zh-hant/zip-to-tar-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

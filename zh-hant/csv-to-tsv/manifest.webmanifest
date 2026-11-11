@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV 轉 TSV 轉換器",
+  "short_name": "CSV 轉 TSV 轉換器",
+  "description": "把 CSV 轉換為 TSV（製表符分隔值）：完整的引號欄位解析，製表符作分隔符。免費的線上轉換器。",
+  "id": "/loona-dev-tools/zh-hant/csv-to-tsv/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 文字轉 Base32 編碼器",
+  "short_name": "文字轉 Base32 編碼器",
+  "description": "線上把文字編碼為 Base32（RFC 4648）——用於 TOTP 金鑰和 DNS 安全識別符號的不區分大小寫編碼。",
+  "id": "/loona-dev-tools/zh-hant/text-to-base32/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

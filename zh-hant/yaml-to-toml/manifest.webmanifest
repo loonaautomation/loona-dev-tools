@@ -1,0 +1,29 @@
+{
+  "name": "Loona YAML 轉 TOML 轉換器",
+  "short_name": "YAML 轉 TOML 轉換器",
+  "description": "線上把 YAML 轉換成 TOML（透過共享資料模型）：表、標量和陣列對映到 TOML 的佈局規則。",
+  "id": "/loona-dev-tools/zh-hant/yaml-to-toml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

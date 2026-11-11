@@ -1,0 +1,29 @@
+{
+  "name": "Loona 關鍵詞密度檢查器 線上免費",
+  "short_name": "關鍵詞密度檢查器",
+  "description": "免費線上檢查關鍵詞密度——排名靠前的單個單詞，外加 2 詞和 3 詞短語，帶計數和百分比密度，包含停用詞過濾。無需註冊。",
+  "id": "/loona-dev-tools/zh-hant/keyword-density-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

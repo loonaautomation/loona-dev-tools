@@ -1,0 +1,29 @@
+{
+  "name": "Loona 密碼強度檢查器 線上免費",
+  "short_name": "密碼強度檢查器",
+  "description": "免費線上檢查密碼強度，帶透明的熵估計、具體的反饋和破解時間估計。密碼從不離開您的瀏覽器——不傳送也不儲存任何東西。",
+  "id": "/loona-dev-tools/zh-hant/password-strength-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

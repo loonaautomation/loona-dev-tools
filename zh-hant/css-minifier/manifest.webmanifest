@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS 壓縮工具 線上免費",
+  "short_name": "CSS 壓縮工具 線上免費",
+  "description": "免費線上壓縮 CSS 並準確檢視它變小了多少，或把壓縮後的 CSS 美化回可讀程式碼。無需註冊，100% 在您的瀏覽器中執行。",
+  "id": "/loona-dev-tools/zh-hant/css-minifier/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

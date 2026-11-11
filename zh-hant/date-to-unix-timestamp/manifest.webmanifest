@@ -1,0 +1,29 @@
+{
+  "name": "Loona 日期轉 Unix 時間戳轉換器",
+  "short_name": "日期轉 Unix 時間戳",
+  "description": "把日期和時間轉換成以秒和毫秒為單位的 Unix 時間戳，使用 UTC 或您的本地時區。",
+  "id": "/loona-dev-tools/zh-hant/date-to-unix-timestamp/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

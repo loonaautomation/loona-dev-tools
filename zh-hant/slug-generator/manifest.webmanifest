@@ -1,0 +1,29 @@
+{
+  "name": "Loona Slug 生成器（URL Slug 製作工具）",
+  "short_name": "Slug 生成器（URL Slug",
+  "description": "從標題生成乾淨的 URL slug：去掉重音、小寫、空格變成連字元（或下劃線）。免費的 slug 製作工具。",
+  "id": "/loona-dev-tools/zh-hant/slug-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

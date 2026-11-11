@@ -1,0 +1,29 @@
+{
+  "name": "Loona Robots.txt 生成器 線上免費",
+  "short_name": "Robots.txt 生成器 線上版",
+  "description": "免費線上生成有效的 robots.txt——預設、按代理劃分的允許和禁止規則、網站地圖行和內建的語法合理性檢查。無需註冊，在您的瀏覽器中執行。",
+  "id": "/loona-dev-tools/zh-hant/robots-txt-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

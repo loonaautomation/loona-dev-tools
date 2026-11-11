@@ -1,0 +1,29 @@
+{
+  "name": "Loona TSV 轉 CSV 轉換器",
+  "short_name": "TSV 轉 CSV 轉換器",
+  "description": "把 TSV（製表符分隔值）轉換成 CSV：貼上從 Excel 或 Sheets 複製的資料，得到正確加引號的 CSV。",
+  "id": "/loona-dev-tools/zh-hant/tsv-to-csv/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

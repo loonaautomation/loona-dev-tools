@@ -1,0 +1,29 @@
+{
+  "name": "Loona IP 地址轉整數轉換器",
+  "short_name": "IP 地址轉整數",
+  "description": "把 IPv4 地址轉換成其 32 位整數形式（192.168.0.1 → 3232235521），用於資料庫和範圍檢查。",
+  "id": "/loona-dev-tools/zh-hant/ip-to-integer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

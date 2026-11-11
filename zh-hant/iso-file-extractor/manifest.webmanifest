@@ -1,0 +1,29 @@
+{
+  "name": "Loona ISO 檔案解壓工具 線上免費",
+  "short_name": "ISO 檔案解壓工具 線上免費",
+  "description": "直接在您的瀏覽器中開啟 ISO 光碟映象——瀏覽儲存在虛擬光碟上的檔案系統，下載單個檔案或把全部內容下載為 ZIP。不上傳任何東西。",
+  "id": "/loona-dev-tools/zh-hant/iso-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

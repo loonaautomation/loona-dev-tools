@@ -1,0 +1,29 @@
+{
+  "name": "Loona ZIP 檔案解壓工具 線上免費",
+  "short_name": "解壓檔案提取工具 線上版",
+  "description": "在您的瀏覽器中開啟 ZIP 檔案，檢視內部每個檔案及其大小，解壓單個檔案或全部。 不上傳任何東西；解壓在您的裝置上進行。",
+  "id": "/loona-dev-tools/zh-hant/unzip-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona XML 格式化與驗證工具 線上免費",
+  "short_name": "XML 格式化與驗證工具",
+  "description": "免費線上格式化、美化、壓縮和驗證 XML——帶清晰錯誤訊息的標籤平衡良構性檢查、帶縮排的美觀列印。無需註冊。",
+  "id": "/loona-dev-tools/zh-hant/xml-formatter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

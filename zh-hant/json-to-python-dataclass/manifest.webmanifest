@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON 轉 Python 資料類轉換器",
+  "short_name": "JSON 轉 Python 資料類",
+  "description": "把 JSON 轉換成帶型別提示的 Python 資料類：巢狀物件成為巢狀資料類，陣列使用 List 型別。",
+  "id": "/loona-dev-tools/zh-hant/json-to-python-dataclass/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

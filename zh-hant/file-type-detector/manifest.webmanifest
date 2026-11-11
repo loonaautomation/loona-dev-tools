@@ -1,0 +1,29 @@
+{
+  "name": "Loona 檔案型別檢測器 線上免費",
+  "short_name": "檔案型別檢測器 線上免費",
+  "description": "免費線上從檔案的魔術位元組標頭簽名檢測其真實型別——PNG、PDF、ZIP、MP4、EXE 和 30+ 種格式——並在副檔名不一致時得到警告。不上傳任何東西。",
+  "id": "/loona-dev-tools/zh-hant/file-type-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

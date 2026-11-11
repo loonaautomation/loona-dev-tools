@@ -1,0 +1,29 @@
+{
+  "name": "Loona Office 文件後設資料檢視器 線上版",
+  "short_name": "Office 文件後設資料",
+  "description": "線上免費檢視 Office 文件後設資料——.docx、.xlsx 和 .pptx 檔案的標題、作者、公司、建立和修改日期、應用程式和版本。僅檢視，不上傳任何東西。",
+  "id": "/loona-dev-tools/zh-hant/office-metadata-viewer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

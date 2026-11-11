@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV 轉 SQL 轉換器 線上免費",
+  "short_name": "CSV 轉 SQL 轉換器 線上版",
+  "description": "免費線上把 CSV 轉換為 SQL——帶推斷列型別的 CREATE TABLE，外加每行一條 INSERT，適用於 MySQL、PostgreSQL 或 SQLite。無需註冊，100% 在您的瀏覽器中執行。",
+  "id": "/loona-dev-tools/zh-hant/csv-to-sql-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

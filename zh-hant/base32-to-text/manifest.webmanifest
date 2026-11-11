@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base32 轉文字解碼器",
+  "short_name": "Base32 轉文字解碼器",
+  "description": "把 Base32（RFC 4648）解碼迴文字——不區分大小寫，填充可選。恢復 TOTP 風格的編碼字串。",
+  "id": "/loona-dev-tools/zh-hant/base32-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona URL 解碼（百分號解碼）",
+  "short_name": "URL 解碼（百分比解碼）",
+  "description": "把百分號編碼的 URL 和查詢字串解碼回可讀文字，包括 UTF-8 序列和作為空格的 +。免費的線上解碼器。",
+  "id": "/loona-dev-tools/zh-hant/url-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

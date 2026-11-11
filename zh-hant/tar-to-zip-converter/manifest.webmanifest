@@ -1,0 +1,29 @@
+{
+  "name": "Loona TAR 轉 ZIP 轉換器 線上免費",
+  "short_name": "TAR 轉 ZIP 轉換器 線上版",
+  "description": "直接在您的瀏覽器中把 TAR 歸檔（.tar）轉換成 ZIP 檔案。TAR 檔案來自 Linux 和 Unix 系統；轉換後的 ZIP 能在 Windows、macOS 和手機上原生開啟。不上傳任何東西。",
+  "id": "/loona-dev-tools/zh-hant/tar-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV 轉 XML 轉換器 線上免費",
+  "short_name": "CSV 轉 XML 轉換器 線上版",
+  "description": "免費線上把 CSV 轉換為 XML，可配置根元素和行元素的名稱，並有正確的 XML 轉義。無需註冊，100% 在您的瀏覽器中執行。",
+  "id": "/loona-dev-tools/zh-hant/csv-to-xml-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

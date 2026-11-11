@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON 轉 Markdown 表格轉換器",
+  "short_name": "JSON 轉 Markdown 表格",
+  "description": "把由物件組成的 JSON 陣列轉換成 Markdown 表格：列來自鍵，豎線已轉義，隨時可以貼上到 README 中。",
+  "id": "/loona-dev-tools/zh-hant/json-to-markdown-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

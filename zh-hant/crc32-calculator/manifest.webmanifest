@@ -1,0 +1,29 @@
+{
+  "name": "Loona CRC32 校驗和計算器",
+  "short_name": "CRC32 校驗和計算器",
+  "description": "線上計算文字或檔案的 CRC32 雜湊：32 位，8 個十六進位制字元。使用 WebCrypto/純 JS 在您的瀏覽器中本地執行——檔案從不上傳。",
+  "id": "/loona-dev-tools/zh-hant/crc32-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

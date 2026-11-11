@@ -1,0 +1,29 @@
+{
+  "name": "Loona TAR 檔案解壓工具 線上免費",
+  "short_name": "TAR 檔案解壓工具 線上免費",
+  "description": "直接在您的瀏覽器中開啟 TAR 歸檔——普通的 .tar 以及 .tar.bz2 和 .tar.xz——檢視內部的每個檔案，下載單個檔案或把全部內容下載為 ZIP。不上傳任何東西。",
+  "id": "/loona-dev-tools/zh-hant/tar-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

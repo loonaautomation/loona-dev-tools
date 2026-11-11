@@ -1,0 +1,29 @@
+{
+  "name": "Loona Meta 標籤生成器 線上免費",
+  "short_name": "Meta 標籤生成器 線上免費",
+  "description": "免費線上生成 HTML meta 標籤——標題、描述、關鍵字、作者、robots 和 canonical——帶實時的 Google 風格 SERP 預覽和字元計數。無需註冊。",
+  "id": "/loona-dev-tools/zh-hant/meta-tag-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

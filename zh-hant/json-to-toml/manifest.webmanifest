@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON 轉 TOML 轉換器",
+  "short_name": "JSON 轉 TOML 轉換器",
+  "description": "線上把 JSON 轉換成 TOML：標量在前，巢狀物件寫為 [表]，物件陣列寫為 [[表]]。",
+  "id": "/loona-dev-tools/zh-hant/json-to-toml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

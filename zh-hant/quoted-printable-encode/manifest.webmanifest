@@ -1,0 +1,29 @@
+{
+  "name": "Loona Quoted-Printable 編碼器",
+  "short_name": "Quoted-Printable 編碼器",
+  "description": "線上把文字編碼為 quoted-printable（MIME）：UTF-8 位元組寫為 =XX 轉義，每 76 個字元處軟換行，遵循 RFC 2045。",
+  "id": "/loona-dev-tools/zh-hant/quoted-printable-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

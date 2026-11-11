@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base64 編碼器與解碼器 線上免費",
+  "short_name": "Base64 編碼器與解碼器",
+  "description": "把文字或檔案編碼為 Base64 並把 Base64 解碼回來，對任何語言和 emoji 都 UTF-8 安全，帶 URL 安全選項。免費，無需註冊，在您的瀏覽器中完成。",
+  "id": "/loona-dev-tools/zh-hant/base64-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

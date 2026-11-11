@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML 郵件簽名生成器 線上免費",
+  "short_name": "HTML 郵件簽名",
+  "description": "免費線上建立專業的 HTML 郵件簽名——姓名、職位、公司、電話、電子郵件和網站，採用對電子郵件安全的表格 HTML，在 Gmail 和 Outlook 中都能工作。無需註冊。",
+  "id": "/loona-dev-tools/zh-hant/email-signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

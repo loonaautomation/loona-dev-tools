@@ -1,0 +1,29 @@
+{
+  "name": "Loona cURL 轉 Fetch 轉換器",
+  "short_name": "cURL 轉 Fetch 轉換器",
+  "description": "把 cURL 命令轉換成 JavaScript fetch() 程式碼：處理標頭、方法、資料、基本身份驗證和 --json。",
+  "id": "/loona-dev-tools/zh-hant/curl-to-fetch/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

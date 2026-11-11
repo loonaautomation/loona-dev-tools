@@ -1,0 +1,29 @@
+{
+  "name": "Loona 轉換器與生成器庫",
+  "short_name": "轉換器與生成器庫",
+  "description": "全部 Loona Developer Tools 轉換器和生成器的索引：編碼、資料格式、雜湊、顏色、歸檔、程式碼生成器和參考資料。",
+  "id": "/loona-dev-tools/zh-hant/converter-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

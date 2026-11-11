@@ -1,0 +1,650 @@
+[
+ {
+  "n": "轉換器與生成器庫",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/converter-library/",
+  "s": "Loona Dev Tools",
+  "d": "126 個新的轉換器和生成器：編碼、資料格式（JSON、YAML、XML、TOML、CSV）、雜湊、顏色、歸檔、程式碼生成器和參考資料。",
+  "k": "轉換器與生成器庫 126 個新的轉換器和生成器 編碼 資料格式 json yaml xml toml csv 雜湊 顏色 歸檔 程式碼生成器和參考資料",
+  "p": 100,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON 格式化工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/json-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "驗證、美化列印並壓縮 JSON，並指出任何錯誤的確切位置。",
+  "k": "json 格式化工具 驗證 美化列印並壓縮 json 並指出任何錯誤的確切位置",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Base64 編碼器與解碼器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/base64-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "把文字和檔案編碼為 Base64，或解碼回來——UTF-8 安全，包含 URL 安全選項。",
+  "k": "base64 編碼器與解碼器 把文字和檔案編碼為 base64 或解碼回來 utf 8 安全 包含 url 安全選項",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "URL 編碼器與解碼器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/url-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "安全地對文字和 URL 進行百分比編碼，帶逐字元分解表。",
+  "k": "url 編碼器與解碼器 安全地對文字和 url 進行百分比編碼 帶逐字元分解表",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "UUID 生成器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/uuid-generator/",
+  "s": "Loona Dev Tools",
+  "d": "生成隨機的版本 4 UUID——一次一個或批次最多 100 個。",
+  "k": "uuid 生成器 生成隨機的版本 4 uuid 一次一個或批次最多 100 個",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "雜湊生成器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/hash-generator/",
+  "s": "Loona Dev Tools",
+  "d": "任何文字的 SHA-1、SHA-256、SHA-384 和 SHA-512 摘要，在您的瀏覽器中計算。",
+  "k": "雜湊生成器 任何文字的 sha 1 sha 256 sha 384 和 sha 512 摘要 在您的瀏覽器中計算",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "JWT 解碼器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/jwt-decoder/",
+  "s": "Loona Dev Tools",
+  "d": "解碼 JSON Web Token 的標頭和負載，並以通俗的文字讀取它的到期時間。",
+  "k": "jwt 解碼器 解碼 json web token 的標頭和負載 並以通俗的文字讀取它的到期時間",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "時間戳轉換器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/timestamp-converter/",
+  "s": "Loona Dev Tools",
+  "d": "把 Unix 時間戳轉換成人類可讀日期，再轉回來——UTC、您的本地時間和相對時間。",
+  "k": "時間戳轉換器 把 unix 時間戳轉換成人類可讀日期 再轉回來 utc 您的本地時間和相對時間",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML 實體編碼器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/html-entity-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "把文字轉義為 HTML 實體（命名或數字），並把實體解碼迴文字。",
+  "k": "html 實體編碼器 把文字轉義為 html 實體 命名或數字 並把實體解碼迴文字",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS 壓縮與美化工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/css-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "壓縮 CSS 以縮小檔案大小，或把它美化回可讀的、帶縮排的程式碼。",
+  "k": "css 壓縮與美化工具 壓縮 css 以縮小檔案大小 或把它美化回可讀的 帶縮排的程式碼",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "JavaScript 壓縮工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/javascript-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "保守地壓縮 JavaScript——移除註釋和無用空白，字串和正則保持完好。",
+  "k": "javascript 壓縮工具 保守地壓縮 javascript 移除註釋和無用空白 字串和正則保持完好",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "正規表示式測試器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/regex-tester/",
+  "s": "Loona Dev Tools",
+  "d": "實時測試正規表示式——匹配高亮顯示、捕獲組列出、計數顯示。",
+  "k": "正規表示式測試器 實時測試正規表示式 匹配高亮顯示 捕獲組列出 計數顯示",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "差異檢查器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/diff-checker/",
+  "s": "Loona Dev Tools",
+  "d": "逐行對比兩段文字——新增和刪除的行高亮顯示，帶更改摘要。",
+  "k": "差異檢查器 逐行對比兩段文字 新增和刪除的行高亮顯示 帶更改摘要",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON 轉 CSV 轉換器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/json-to-csv-converter/",
+  "s": "Loona Dev Tools",
+  "d": "把 JSON 物件陣列變成乾淨的 CSV 檔案——所有鍵的並集、適當的引用，一鍵完成。",
+  "k": "json 轉 csv 轉換器 把 json 物件陣列變成乾淨的 csv 檔案 所有鍵的並集 適當的引用 一鍵完成",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV 轉 JSON 轉換器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/csv-to-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "把 CSV 轉換成由物件組成的 JSON 陣列——一個真正的解析器，能處理引號內的逗號和轉義的引號。",
+  "k": "csv 轉 json 轉換器 把 csv 轉換成由物件組成的 json 陣列 一個真正的解析器 能處理引號內的逗號和轉義的引號",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "YAML ⇄ JSON 轉換器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/yaml-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "把常見的 YAML 子集（對映、列表、標量）轉換成 JSON，並把 JSON 轉回 YAML——範圍誠實界定。",
+  "k": "yaml json 轉換器 把常見的 yaml 子集 對映 列表 標量 轉換成 json 並把 json 轉回 yaml 範圍誠實界定",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "SQL 格式化工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/sql-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "用大寫的關鍵字格式化 SQL，每個主要子句各佔一行——一次點選得到可讀的查詢。",
+  "k": "sql 格式化工具 用大寫的關鍵字格式化 sql 每個主要子句各佔一行 一次點選得到可讀的查詢",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "進位制轉換器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/number-base-converter/",
+  "s": "Loona Dev Tools",
+  "d": "在二進位制、八進位制、十進位制和十六進位制之間轉換，帶完整的大整數精度——沒有 2^53 限制。",
+  "k": "進位制轉換器 在二進位制 八進位制 十進位制和十六進位制之間轉換 帶完整的大整數精度 沒有 2 53 限制",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Chmod 計算器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/chmod-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "勾選所有者、組和其他人的讀/寫/執行框——即時得到八進位制和符號許可權。",
+  "k": "chmod 計算器 勾選所有者 組和其他人的讀 寫 執行框 即時得到八進位制和符號許可權",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "密碼強度檢查器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/password-strength-checker/",
+  "s": "Loona Dev Tools",
+  "d": "檢視以位元為單位的密碼熵估計、削弱它的因素，以及快速離線攻擊需要多長時間。",
+  "k": "密碼強度檢查器 檢視以位元為單位的密碼熵估計 削弱它的因素 以及快速離線攻擊需要多長時間",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Cron 表示式生成器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/cron-expression-generator/",
+  "s": "Loona Dev Tools",
+  "d": "從簡單的下拉框構建一個 5 欄位的 cron 表示式，並讓任何 cron 表示式以通俗易懂的中文得到解釋。",
+  "k": "cron 表示式生成器 從簡單的下拉框構建一個 5 欄位的 cron 表示式 並讓任何 cron 表示式以通俗易懂的中文得到解釋",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "URL 解析器與構建器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/url-parser/",
+  "s": "Loona Dev Tools",
+  "d": "把一個 URL 拆解為協議、主機、埠、路徑、查詢引數和雜湊——然後編輯引數並重新構建它。",
+  "k": "url 解析器與構建器 把一個 url 拆解為協議 主機 埠 路徑 查詢引數和雜湊 然後編輯引數並重新構建它",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "ZIP 檔案建立工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/zip-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "把多個檔案捆綁成一個 ZIP 歸檔——在您的瀏覽器中構建，不上傳任何東西。",
+  "k": "zip 檔案建立工具 把多個檔案捆綁成一個 zip 歸檔 在您的瀏覽器中構建 不上傳任何東西",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "解壓檔案提取工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/unzip-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "開啟 ZIP，檢視內部每個檔案及其大小，解壓一個檔案或全部。",
+  "k": "解壓檔案提取工具 開啟 zip 檢視內部每個檔案及其大小 解壓一個檔案或全部",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "RAR 檔案解壓工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/rar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "在您的瀏覽器中開啟 RAR 檔案（RAR4 和 RAR5）——檢視內部的每個檔案，下載一個檔案或把全部內容下載為 ZIP。",
+  "k": "rar 檔案解壓工具 在您的瀏覽器中開啟 rar 檔案 rar4 和 rar5 檢視內部的每個檔案 下載一個檔案或把全部內容下載為 zip",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "7Z 檔案解壓工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/7z-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "在您的瀏覽器中開啟 7z 歸檔——檢視內容並解壓單個檔案或把全部內容解壓為 ZIP。",
+  "k": "7z 檔案解壓工具 在您的瀏覽器中開啟 7z 歸檔 檢視內容並解壓單個檔案或把全部內容解壓為 zip",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR 檔案解壓工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/tar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "在您的瀏覽器中開啟 .tar、.tar.bz2 和 .tar.xz 歸檔並解壓內部的檔案——不上傳任何東西。",
+  "k": "tar 檔案解壓工具 在您的瀏覽器中開啟 tar tar bz2 和 tar xz 歸檔並解壓內部的檔案 不上傳任何東西",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR.GZ 檔案解壓工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/tar-gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "在您的瀏覽器中開啟 .tar.gz 和 .tgz 歸檔——瀏覽內部的檔案並解壓您需要的內容。",
+  "k": "tar gz 檔案解壓工具 在您的瀏覽器中開啟 tar gz 和 tgz 歸檔 瀏覽內部的檔案並解壓您需要的內容",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "GZ 檔案解壓工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "在您的瀏覽器中解壓單個 .gz 檔案並下載原件——日誌、資料匯出和資料庫轉儲。",
+  "k": "gz 檔案解壓工具 在您的瀏覽器中解壓單個 gz 檔案並下載原件 日誌 資料匯出和資料庫轉儲",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "ISO 檔案解壓工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/iso-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "在您的瀏覽器中開啟 ISO 光碟映象，瀏覽儲存在虛擬光碟上的檔案系統並下載檔案。",
+  "k": "iso 檔案解壓工具 在您的瀏覽器中開啟 iso 光碟映象 瀏覽儲存在虛擬光碟上的檔案系統並下載檔案",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "歸檔檔案解壓工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/archive-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "一個通用的歸檔開啟工具，適用於 ZIP、RAR、7Z、TAR、ISO 等——格式自動檢測。",
+  "k": "歸檔檔案解壓工具 一個通用的歸檔開啟工具 適用於 zip rar 7z tar iso 等 格式自動檢測",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "RAR 轉 ZIP 轉換器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/rar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "在您的瀏覽器中把 RAR 歸檔轉換成標準 ZIP——資料夾結構得以保留，不上傳任何東西。",
+  "k": "rar 轉 zip 轉換器 在您的瀏覽器中把 rar 歸檔轉換成標準 zip 資料夾結構得以保留 不上傳任何東西",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "7Z 轉 ZIP 轉換器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/7z-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "把 7Z 歸檔轉換成在任何地方都能開啟的 ZIP——不需要 7-Zip，不上傳任何東西。",
+  "k": "7z 轉 zip 轉換器 把 7z 歸檔轉換成在任何地方都能開啟的 zip 不需要 7 zip 不上傳任何東西",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR 轉 ZIP 轉換器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/tar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "把來自 Linux 或 Unix 的 TAR 歸檔轉換成能在 Windows、macOS 和手機上原生開啟的 ZIP。",
+  "k": "tar 轉 zip 轉換器 把來自 linux 或 unix 的 tar 歸檔轉換成能在 windows macos 和手機上原生開啟的 zip",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR.GZ 轉 ZIP 轉換器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/tar-gz-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "把 .tar.gz 或 .tgz 轉換成一個 ZIP——gzip 和 tar 兩層都在您的裝置上解開。",
+  "k": "tar gz 轉 zip 轉換器 把 tar gz 或 tgz 轉換成一個 zip gzip 和 tar 兩層都在您的裝置上解開",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "ZIP 轉 TAR.GZ 轉換器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/zip-to-tar-gz-converter/",
+  "s": "Loona Dev Tools",
+  "d": "把 ZIP 歸檔轉換成 .tar.gz tarball——Linux 伺服器、Docker 和構建工具所期望的格式。",
+  "k": "zip 轉 tar gz 轉換器 把 zip 歸檔轉換成 tar gz tarball linux 伺服器 docker 和構建工具所期望的格式",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR 檔案建立工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/tar-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "在您的瀏覽器中從多個檔案建立符合規範的 .tar 歸檔——能用任何 tar 工具開啟。",
+  "k": "tar 檔案建立工具 在您的瀏覽器中從多個檔案建立符合規範的 tar 歸檔 能用任何 tar 工具開啟",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "GZIP 壓縮工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/gzip-compressor/",
+  "s": "Loona Dev Tools",
+  "d": "用您瀏覽器內建的 gzip 引擎把任何單個檔案壓縮成 .gz——即時顯示前後的大小。",
+  "k": "gzip 壓縮工具 用您瀏覽器內建的 gzip 引擎把任何單個檔案壓縮成 gz 即時顯示前後的大小",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV 檢視器與編輯器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/csv-viewer-editor/",
+  "s": "Loona Dev Tools",
+  "d": "把 CSV 載入到可編輯的表格網格中——編輯單元格、排序列、新增或刪除行和列，然後下載。",
+  "k": "csv 檢視器與編輯器 把 csv 載入到可編輯的表格網格中 編輯單元格 排序列 新增或刪除行和列 然後下載",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV 轉 SQL 轉換器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/csv-to-sql-converter/",
+  "s": "Loona Dev Tools",
+  "d": "把 CSV 變成 CREATE TABLE 加 INSERT 語句，帶推斷的型別，用於 MySQL、PostgreSQL 或 SQLite。",
+  "k": "csv 轉 sql 轉換器 把 csv 變成 create table 加 insert 語句 帶推斷的型別 用於 mysql postgresql 或 sqlite",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV 轉 XML 轉換器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/csv-to-xml-converter/",
+  "s": "Loona Dev Tools",
+  "d": "把 CSV 行轉換成良構的 XML，可配置根元素和行元素，並有正確的轉義。",
+  "k": "csv 轉 xml 轉換器 把 csv 行轉換成良構的 xml 可配置根元素和行元素 並有正確的轉義",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV 轉 Markdown 表格轉換器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/csv-to-markdown-converter/",
+  "s": "Loona Dev Tools",
+  "d": "把 CSV 轉換成可直接用於 GitHub 的 Markdown 表格——數字列右對齊，豎線已轉義。",
+  "k": "csv 轉 markdown 表格轉換器 把 csv 轉換成可直接用於 github 的 markdown 表格 數字列右對齊 豎線已轉義",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV 去重與清理工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/csv-dedupe-cleaner/",
+  "s": "Loona Dev Tools",
+  "d": "按整行或關鍵列刪除重複的 CSV 行、修剪空白並丟棄空行，帶計數。",
+  "k": "csv 去重與清理工具 按整行或關鍵列刪除重複的 csv 行 修剪空白並丟棄空行 帶計數",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV 拆分與合併工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/csv-split-merge/",
+  "s": "Loona Dev Tools",
+  "d": "按行數把 CSV 拆分成多個部分，標題重複出現，或合併共享標題的 CSV 檔案。",
+  "k": "csv 拆分與合併工具 按行數把 csv 拆分成多個部分 標題重複出現 或合併共享標題的 csv 檔案",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Meta 標籤生成器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/meta-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "生成一個現成的 HTML meta 程式碼塊——標題、描述、robots、canonical——帶實時 SERP 預覽。",
+  "k": "meta 標籤生成器 生成一個現成的 html meta 程式碼塊 標題 描述 robots canonical 帶實時 serp 預覽",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Open Graph 與 Twitter 卡片生成器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/open-graph-generator/",
+  "s": "Loona Dev Tools",
+  "d": "構建帶實時社交卡片預覽的 OG 和 Twitter Card 標籤，讓分享連結看起來恰到好處。",
+  "k": "open graph 與 twitter 卡片生成器 構建帶實時社交卡片預覽的 og 和 twitter card 標籤 讓分享連結看起來恰到好處",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Robots.txt 生成器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/robots-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "從預設和按代理劃分的規則構建有效的 robots.txt，並對輸出進行合理性檢查。",
+  "k": "robots txt 生成器 從預設和按代理劃分的規則構建有效的 robots txt 並對輸出進行合理性檢查",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "XML 站點地圖生成器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/xml-sitemap-generator/",
+  "s": "Loona Dev Tools",
+  "d": "把 URL 列表變成有效的 sitemap.xml，帶 lastmod、changefreq 和 priority 預設值。",
+  "k": "xml 站點地圖生成器 把 url 列表變成有效的 sitemap xml 帶 lastmod changefreq 和 priority 預設值",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "UTM 連結構建器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/utm-link-builder/",
+  "s": "Loona Dev Tools",
+  "d": "用 UTM 引數標記活動 URL——正確編碼、保留現有引數、本地歷史。",
+  "k": "utm 連結構建器 用 utm 引數標記活動 url 正確編碼 保留現有引數 本地歷史",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "IP 子網計算器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/ip-subnet-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "把 IPv4 CIDR 轉換為網路、廣播、網路掩碼、萬用字元、主機範圍和數量，外加子網劃分檢視。",
+  "k": "ip 子網計算器 把 ipv4 cidr 轉換為網路 廣播 網路掩碼 萬用字元 主機範圍和數量 外加子網劃分檢視",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON-LD Schema 生成器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/json-ld-schema-generator/",
+  "s": "Loona Dev Tools",
+  "d": "生成 schema.org 結構化資料——Article、Product、LocalBusiness、Event、Recipe 等——以有效的 JSON-LD 形式。",
+  "k": "json ld schema 生成器 生成 schema org 結構化資料 article product localbusiness event recipe 等 以有效的 json ld 形式",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Google SERP 預覽",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/google-serp-preview/",
+  "s": "Loona Dev Tools",
+  "d": "把您的標題和描述預覽為 Google 結果，帶畫素寬度截斷警告、桌面和移動檢視。",
+  "k": "google serp 預覽 把您的標題和描述預覽為 google 結果 帶畫素寬度截斷警告 桌面和移動檢視",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "關鍵詞密度檢查器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/keyword-density-checker/",
+  "s": "Loona Dev Tools",
+  "d": "統計單個單詞以及 2 詞和 3 詞短語，帶百分比密度和停用詞過濾。",
+  "k": "關鍵詞密度檢查器 統計單個單詞以及 2 詞和 3 詞短語 帶百分比密度和停用詞過濾",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML 表格生成器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/html-table-generator/",
+  "s": "Loona Dev Tools",
+  "d": "在網格中以視覺化方式構建表格，並獲得支援 thead、th 和 caption 的乾淨語義化 HTML。",
+  "k": "html 表格生成器 在網格中以視覺化方式構建表格 並獲得支援 thead th 和 caption 的乾淨語義化 html",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML 郵件簽名生成器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/email-signature-generator/",
+  "s": "Loona Dev Tools",
+  "d": "以對電子郵件安全的表格 HTML 建立專業的郵件簽名，在 Gmail 和 Outlook 中都能工作。",
+  "k": "html 郵件簽名生成器 以對電子郵件安全的表格 html 建立專業的郵件簽名 在 gmail 和 outlook 中都能工作",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "電子郵件驗證器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/email-validator/",
+  "s": "Loona Dev Tools",
+  "d": "批次檢查電子郵件地址的語法錯誤和像 gmial.com 這樣的常見域名拼寫錯誤，並給出建議。",
+  "k": "電子郵件驗證器 批次檢查電子郵件地址的語法錯誤和像 gmial com 這樣的常見域名拼寫錯誤 並給出建議",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS Clip-Path 生成器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/css-clip-path-generator/",
+  "s": "Loona Dev Tools",
+  "d": "生成 clip-path CSS——帶可調點的多邊形預設，外加圓形、橢圓和內嵌形狀。",
+  "k": "css clip path 生成器 生成 clip path css 帶可調點的多邊形預設 外加圓形 橢圓和內嵌形狀",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS 盒陰影生成器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/css-box-shadow-generator/",
+  "s": "Loona Dev Tools",
+  "d": "構建多層 box-shadow CSS，支援內陰影、顏色和不透明度控制，並帶實時預覽。",
+  "k": "css 盒陰影生成器 構建多層 box shadow css 支援內陰影 顏色和不透明度控制 並帶實時預覽",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "XML 格式化與驗證工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/xml-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "美化、壓縮和驗證 XML——帶清晰錯誤訊息的標籤平衡良構性檢查。",
+  "k": "xml 格式化與驗證工具 美化 壓縮和驗證 xml 帶清晰錯誤訊息的標籤平衡良構性檢查",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "Markdown 轉 HTML 轉換器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/markdown-to-html-converter/",
+  "s": "Loona Dev Tools",
+  "d": "把日常 Markdown 轉換成乾淨的 HTML，帶實時渲染預覽——標題、列表、程式碼等。",
+  "k": "markdown 轉 html 轉換器 把日常 markdown 轉換成乾淨的 html 帶實時渲染預覽 標題 列表 程式碼等",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV 轉置工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/csv-transpose/",
+  "s": "Loona Dev Tools",
+  "d": "用適當的解析器交換 CSV 行和列——轉置兩次返回原樣。",
+  "k": "csv 轉置工具 用適當的解析器交換 csv 行和列 轉置兩次返回原樣",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV 合併工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/csv-join/",
+  "s": "Loona Dev Tools",
+  "d": "在一個鍵列上合併兩個 CSV——內連線或左連線，重複鍵按資料庫的方式處理。",
+  "k": "csv 合併工具 在一個鍵列上合併兩個 csv 內連線或左連線 重複鍵按資料庫的方式處理",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV 透視 / 分組",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/csv-pivot-group-by/",
+  "s": "Loona Dev Tools",
+  "d": "按一列對 CSV 行分組，並對值列求和、計數、平均、最小或最大值。",
+  "k": "csv 透視 分組 按一列對 csv 行分組 並對值列求和 計數 平均 最小或最大值",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV 差異 / 對比",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/csv-diff/",
+  "s": "Loona Dev Tools",
+  "d": "按鍵列對比兩個 CSV——新增、刪除和更改的行，帶確切的單元格。",
+  "k": "csv 差異 對比 按鍵列對比兩個 csv 新增 刪除和更改的行 帶確切的單元格",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV 資料提取工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/csv-data-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "把電子郵件、電話號碼和 URL 從凌亂的 CSV 或文字中提取成乾淨的、去重的列表。",
+  "k": "csv 資料提取工具 把電子郵件 電話號碼和 url 從凌亂的 csv 或文字中提取成乾淨的 去重的列表",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV 資料剖析工具",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/csv-profiler/",
+  "s": "Loona Dev Tools",
+  "d": "每列的型別猜測、空值計數、唯一值計數、數值最小/最大值和熱門值。",
+  "k": "csv 資料剖析工具 每列的型別猜測 空值計數 唯一值計數 數值最小 最大值和熱門值",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "Robots.txt 測試器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/robots-txt-tester/",
+  "s": "Loona Dev Tools",
+  "d": "針對 robots.txt 規則測試 URL 和 user-agent——判定加上確切的匹配規則。",
+  "k": "robots txt 測試器 針對 robots txt 規則測試 url 和 user agent 判定加上確切的匹配規則",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "SEO 可讀性檢查器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/readability-checker/",
+  "s": "Loona Dev Tools",
+  "d": "網路文案的六個可讀性公式加上句子統計，專為 SEO 內容工作設計。",
+  "k": "seo 可讀性檢查器 網路文案的六個可讀性公式加上句子統計 專為 seo 內容工作設計",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "llms.txt 生成器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/llms-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "構建面向 AI 的 llms.txt 檔案——摘要引用塊加上按規範格式精選的頁面連結。",
+  "k": "llms txt 生成器 構建面向 ai 的 llms txt 檔案 摘要引用塊加上按規範格式精選的頁面連結",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "Hreflang 標籤生成器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/hreflang-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "構建帶 x-default 以及 BCP 47 / 絕對 URL 檢查的 hreflang 備用連結集。",
+  "k": "hreflang 標籤生成器 構建帶 x default 以及 bcp 47 絕對 url 檢查的 hreflang 備用連結集",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "Office 文件後設資料檢視器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/office-metadata-viewer/",
+  "s": "Loona Dev Tools",
+  "d": "讀取 DOCX、XLSX 和 PPTX 屬性——標題、作者、公司、日期——僅檢視，在裝置上。",
+  "k": "office 文件後設資料檢視器 讀取 docx xlsx 和 pptx 屬性 標題 作者 公司 日期 僅檢視 在裝置上",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "檔案型別檢測器",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/zh-hant/file-type-detector/",
+  "s": "Loona Dev Tools",
+  "d": "從檔案的魔術位元組檢測其真實型別，並在副檔名不一致時發出警告。",
+  "k": "檔案型別檢測器 從檔案的魔術位元組檢測其真實型別 並在副檔名不一致時發出警告",
+  "p": 171,
+  "c": "Tool"
+ }
+]

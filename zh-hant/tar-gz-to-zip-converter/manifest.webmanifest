@@ -1,0 +1,29 @@
+{
+  "name": "Loona TAR.GZ 轉 ZIP 轉換器 線上免費",
+  "short_name": "TAR.GZ 轉 ZIP 轉換器",
+  "description": "直接在您的瀏覽器中把 TAR.GZ（.tar.gz 或 .tgz）歸檔轉換成 ZIP 檔案。兩層——gzip 和 tar——都在您的裝置上解開，檔案被重新打包為一個 ZIP。不上傳任何東西。",
+  "id": "/loona-dev-tools/zh-hant/tar-gz-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

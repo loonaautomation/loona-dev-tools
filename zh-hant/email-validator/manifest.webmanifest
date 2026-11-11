@@ -1,0 +1,29 @@
+{
+  "name": "Loona 電子郵件驗證器 線上免費",
+  "short_name": "電子郵件驗證器 線上免費",
+  "description": "線上免費驗證電子郵件地址，單個或批次——根據地址規則進行完整的語法檢查，外加檢測 gmial.com 這類常見的域名拼寫錯誤。無需註冊。",
+  "id": "/loona-dev-tools/zh-hant/email-validator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

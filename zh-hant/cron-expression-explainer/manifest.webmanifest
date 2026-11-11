@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cron 表示式直譯器",
+  "short_name": "Cron 表示式直譯器",
+  "description": "以通俗易懂的中文解釋 cron 表示式：貼上一個 5 欄位的 cron 計劃，逐欄位閱讀它何時執行。",
+  "id": "/loona-dev-tools/zh-hant/cron-expression-explainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

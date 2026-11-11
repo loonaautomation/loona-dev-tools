@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cron 表示式生成器 線上免費",
+  "short_name": "Cron 表示式生成器",
+  "description": "從下拉框構建 cron 表示式，並以通俗易懂的中文解釋任何 5 欄位 cron 表示式，線上免費。無需註冊，100% 在您的瀏覽器中執行。",
+  "id": "/loona-dev-tools/zh-hant/cron-expression-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona .env 轉 JSON 轉換器",
+  "short_name": ".env 轉 JSON 轉換器",
+  "description": "把 .env 檔案解析為 JSON：處理 KEY=value 行、export 字首、註釋和帶引號的值。",
+  "id": "/loona-dev-tools/zh-hant/env-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

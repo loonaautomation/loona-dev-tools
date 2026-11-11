@@ -1,0 +1,29 @@
+{
+  "name": "Loona Unicode 取消轉義轉換器（解碼 \\uXXXX）",
+  "short_name": "Unicode 取消轉義轉換器",
+  "description": "把 Unicode 轉義序列（\\uXXXX、\\u{...}、\\xXX）解碼回真實字元，外加 \\n \\t 和 \\\\ 轉義。",
+  "id": "/loona-dev-tools/zh-hant/unicode-unescape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

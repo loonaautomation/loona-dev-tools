@@ -1,0 +1,29 @@
+{
+  "name": "Loona TOML 轉 JSON 轉換器",
+  "short_name": "TOML 轉 JSON 轉換器",
+  "description": "線上把 TOML 轉換成 JSON：表、陣列表、字串、數字、布林值、陣列和日期時間（寫為字串）。",
+  "id": "/loona-dev-tools/zh-hant/toml-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

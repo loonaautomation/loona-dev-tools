@@ -1,0 +1,29 @@
+{
+  "name": "Loona Quoted-Printable 解碼器",
+  "short_name": "Quoted-Printable 解碼器",
+  "description": "把 quoted-printable（MIME）文字解碼回可讀的 UTF-8：=XX 轉義和軟換行按 RFC 2045 處理。",
+  "id": "/loona-dev-tools/zh-hant/quoted-printable-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML 實體解碼器",
+  "short_name": "HTML 實體解碼器",
+  "description": "把 HTML 實體解碼回普通字元：命名、十進位制和十六進位制引用（&copy;、&#169;、&#xA9;）全部支援。",
+  "id": "/loona-dev-tools/zh-hant/html-entities-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

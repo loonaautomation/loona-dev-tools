@@ -1,0 +1,29 @@
+{
+  "name": "Loona YAML 轉 CSV 轉換器",
+  "short_name": "YAML 轉 CSV 轉換器",
+  "description": "把由物件組成的 YAML 列表轉換成 CSV 表格：鍵的並集作為列，巢狀值在其單元格中序列化為 JSON。",
+  "id": "/loona-dev-tools/zh-hant/yaml-to-csv/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

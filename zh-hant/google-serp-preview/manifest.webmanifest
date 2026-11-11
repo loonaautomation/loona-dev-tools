@@ -1,0 +1,29 @@
+{
+  "name": "Loona Google SERP 預覽工具 線上免費",
+  "short_name": "Google SERP 預覽工具",
+  "description": "線上免費預覽您的頁面標題和元描述在 Google 搜尋結果中的樣子，帶桌面和移動檢視以及畫素寬度截斷警告。無需註冊。",
+  "id": "/loona-dev-tools/zh-hant/google-serp-preview/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

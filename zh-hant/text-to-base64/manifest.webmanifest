@@ -1,0 +1,29 @@
+{
+  "name": "Loona 文字轉 Base64 編碼器",
+  "short_name": "文字轉 Base64 編碼器",
+  "description": "線上把文字編碼為 Base64，對任何語言和 emoji 都 UTF-8 安全，帶可選的 URL 安全字母表。免費、私密，在您的瀏覽器中完成。",
+  "id": "/loona-dev-tools/zh-hant/text-to-base64/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

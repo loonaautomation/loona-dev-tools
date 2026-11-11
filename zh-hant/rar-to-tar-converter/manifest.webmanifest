@@ -1,0 +1,29 @@
+{
+  "name": "Loona RAR 轉 TAR 轉換器",
+  "short_name": "RAR 轉 TAR 轉換器",
+  "description": "在您的瀏覽器中使用 libarchive 線上把 RAR 歸檔（RAR4 和 RAR5）轉換為 TAR。檔案保留在您的裝置上。",
+  "id": "/loona-dev-tools/zh-hant/rar-to-tar-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

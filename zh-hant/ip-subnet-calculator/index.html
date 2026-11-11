@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>IP 子網計算器 線上免費 - IPv4 CIDR、網路與廣播 | Loona Developer Tools</title>
+<meta name="description" content="免費線上計算 IPv4 子網——從任何 CIDR 地址得出網路、廣播、網路掩碼、萬用字元、第一個和最後一個主機、可用主機數和 IP 類別，外加子網劃分檢視。">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-dev-tools/zh-hant/ip-subnet-calculator/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-dev-tools/ip-subnet-calculator/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-dev-tools/es/ip-subnet-calculator/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-dev-tools/de/ip-subnet-calculator/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-dev-tools/fr/ip-subnet-calculator/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-dev-tools/pt/ip-subnet-calculator/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-dev-tools/it/ip-subnet-calculator/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-dev-tools/nl/ip-subnet-calculator/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-dev-tools/ar/ip-subnet-calculator/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-dev-tools/ur/ip-subnet-calculator/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-dev-tools/tr/ip-subnet-calculator/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-dev-tools/ru/ip-subnet-calculator/"><link rel="alternate" hreflang="zh" href="https://loonaautomation.github.io/loona-dev-tools/zh/ip-subnet-calculator/"><link rel="alternate" hreflang="zh-Hant" href="https://loonaautomation.github.io/loona-dev-tools/zh-hant/ip-subnet-calculator/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-dev-tools/ip-subnet-calculator/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Loona Developer Tools">
+<meta property="og:title" content="IP 子網計算器 線上免費 - IPv4 CIDR、網路與廣播 | Loona Developer Tools">
+<meta property="og:description" content="免費線上計算 IPv4 子網——從任何 CIDR 地址得出網路、廣播、網路掩碼、萬用字元、第一個和最後一個主機、可用主機數和 IP 類別，外加子網劃分檢視。">
+<meta property="og:url" content="https://loonaautomation.github.io/loona-dev-tools/zh-hant/ip-subnet-calculator/"><meta property="og:locale" content="zh_TW">
+<meta property="og:image" content="https://loonaautomation.github.io/loona-dev-tools/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="IP 子網計算器 線上免費 - IPv4 CIDR、網路與廣播 | Loona Developer Tools">
+<meta name="twitter:description" content="免費線上計算 IPv4 子網——從任何 CIDR 地址得出網路、廣播、網路掩碼、萬用字元、第一個和最後一個主機、可用主機數和 IP 類別，外加子網劃分檢視。">
+<meta name="twitter:image" content="https://loonaautomation.github.io/loona-dev-tools/og-image.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
+<link rel="icon" href="../../favicon.ico">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","z599jkwoy9");</script>
+<style>
+:root{--teal:#062e2a;--teal2:#0b3d37;--gold:#c9a227;--gold2:#e3c565;--ink:#12211e;--mut:#5a6d68;--bg:#f6f4ec;--card:#ffffff;--line:#e3ddc9;--radius:16px}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+a{color:#0a5c50;text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{position:sticky;top:0;z-index:50;background:var(--teal);box-shadow:0 2px 14px rgba(0,0,0,.25)}
+.header-in{max-width:1140px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:10px 16px}
+.brand{display:flex;align-items:center;gap:10px;color:#fff;font-weight:700;font-size:1.15rem}
+.brand img{width:40px;height:40px;border-radius:9px}
+.brand span{color:var(--gold2)}
+nav.main{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+nav.main a{color:#dcebe4;padding:7px 11px;border-radius:9px;font-size:.93rem}
+nav.main a:hover{background:var(--teal2);text-decoration:none;color:#fff}
+.wrap{max-width:1140px;margin:0 auto;padding:0 16px}
+.hero{background:linear-gradient(135deg,var(--teal) 0%,#0d4a41 60%,#10604f 100%);color:#fff;padding:52px 0 46px;text-align:center}
+.hero h1{font-size:2.35rem;line-height:1.2;margin-bottom:12px}
+.hero h1 .gold{color:var(--gold2)}
+.hero p{max-width:720px;margin:0 auto 8px;color:#d7e8df;font-size:1.06rem}
+.hero .badges{margin-top:18px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.badge{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);color:#fff;padding:5px 13px;border-radius:999px;font-size:.85rem}
+.crumbs{font-size:.86rem;color:var(--mut);padding:16px 0 4px}
+.crumbs a{color:var(--mut)}
+main.page{padding:8px 0 10px}
+h1.tool{font-size:2rem;line-height:1.25;color:var(--teal);margin:6px 0 8px}
+.inshort{background:#fff8e1;border-left:4px solid var(--gold);padding:12px 16px;border-radius:0 12px 12px 0;margin:12px 0 16px;font-size:1.0rem}
+.lede{color:#33473f;max-width:820px;margin-bottom:18px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:0 4px 18px rgba(6,46,42,.06);margin-bottom:22px}
+.btn{display:inline-block;background:var(--gold);color:#231a00;font-weight:700;border:none;padding:12px 26px;border-radius:11px;font-size:1rem;cursor:pointer;box-shadow:0 3px 10px rgba(201,162,39,.35)}
+.btn:hover{background:var(--gold2)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:#fff;border:1.5px solid var(--teal);color:var(--teal);box-shadow:none;padding:9px 18px;font-size:.93rem}
+.btn.small{padding:7px 13px;font-size:.86rem}
+.row{display:flex;gap:14px;flex-wrap:wrap;margin:14px 0}
+.field{flex:1;min-width:150px}
+.field label{display:block;font-weight:600;font-size:.9rem;margin-bottom:5px;color:var(--teal)}
+.field select,.field input[type=text],.field input[type=number],.field textarea{width:100%;padding:10px 12px;border:1.5px solid #cfc9ae;border-radius:10px;font-size:.97rem;background:#fff;font-family:inherit}
+.field textarea{min-height:150px;resize:vertical}
+textarea.big{min-height:220px;font-size:1rem;line-height:1.65}
+textarea.mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.92rem}
+input[type=range]{width:100%}
+.check{display:flex;align-items:center;gap:8px;font-size:.95rem;margin:6px 0;cursor:pointer}
+.check input{width:17px;height:17px;accent-color:#0b3d37}
+.status{margin-top:14px;font-size:.95rem;min-height:22px}
+.status.ok{color:#0a6b3c}.status.err{color:#b3261e}
+.privacy-note{background:#e9f5ef;border:1px solid #bfe0cd;color:#14532d;border-radius:12px;padding:12px 16px;font-size:.94rem;margin-bottom:22px}
+section.block{margin:30px 0}
+section.block h2{color:var(--teal);font-size:1.45rem;margin-bottom:12px}
+section.block h3{color:var(--teal);margin:14px 0 6px}
+section.block p,section.block li{color:#33473f}
+section.block ol,section.block ul{padding-left:22px}
+section.block li{margin-bottom:6px}
+.strip{display:flex;gap:8px;flex-wrap:wrap}
+.chip{background:#fff;border:1.5px solid var(--gold);color:var(--teal);font-weight:600;padding:8px 15px;border-radius:999px;font-size:.9rem}
+.chip:hover{background:#fff7dd;text-decoration:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;display:block;color:var(--ink);transition:.15s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(6,46,42,.12);text-decoration:none;border-color:var(--gold)}
+.card .ic{font-size:1.9rem;margin-bottom:8px}
+.card h3{color:var(--teal);font-size:1.12rem;margin-bottom:5px}
+.card p{color:var(--mut);font-size:.92rem}
+details.faq{background:#fff;border:1px solid var(--line);border-radius:12px;padding:13px 17px;margin-bottom:10px}
+details.faq summary{cursor:pointer;font-weight:600;color:var(--teal)}
+details.faq p{margin-top:8px;color:#33473f}
+.kv{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:12px}
+.kv div{background:#faf8ef;border:1px solid var(--line);border-radius:10px;padding:9px 12px;font-size:.92rem}
+.kv b{color:var(--teal);display:block;font-size:1.05rem}
+table.freq{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+table.freq th,table.freq td{padding:8px 12px;border-bottom:1px solid var(--line);text-align:left;font-size:.94rem}
+table.freq th{background:#faf8ef;color:var(--teal)}
+.diffout{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9rem;line-height:1.55;max-height:480px;overflow:auto}
+.diffout .add{background:#e2f4e5}
+.diffout .del{background:#fbe3e1}
+.fancyrow{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin-bottom:9px}
+.fancyrow .fv{flex:1;font-size:1.08rem;word-break:break-all}
+footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
+.footer-in{max-width:1140px;margin:0 auto;padding:30px 16px;display:flex;gap:26px;flex-wrap:wrap}
+.footer-in h4{color:var(--gold2);margin-bottom:9px;font-size:1rem}
+.footer-in a{color:#cfe0d6;display:block;margin-bottom:5px;font-size:.93rem}
+.footer-in .col{min-width:170px}
+.copyright{border-top:1px solid #12463e;text-align:center;padding:14px;font-size:.86rem;color:#9db8ab}
+@media(max-width:640px){.hero h1{font-size:1.7rem}h1.tool{font-size:1.55rem}.panel{padding:16px}nav.main a{padding:6px 8px;font-size:.86rem}}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"IP 子網計算器 - Loona Developer Tools","url":"https://loonaautomation.github.io/loona-dev-tools/zh-hant/ip-subnet-calculator/","description":"免費線上計算 IPv4 子網——從任何 CIDR 地址得出網路、廣播、網路掩碼、萬用字元、第一個和最後一個主機、可用主機數和 IP 類別，外加子網劃分檢視。","applicationCategory":"DeveloperApplication","operatingSystem":"Any","browserRequirements":"需要 JavaScript","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"首頁","item":"https://loonaautomation.github.io/loona-dev-tools/zh-hant/"},{"@type":"ListItem","position":2,"name":"開發者工具","item":"https://loonaautomation.github.io/loona-dev-tools/zh-hant/"},{"@type":"ListItem","position":3,"name":"IP 子網計算器","item":"https://loonaautomation.github.io/loona-dev-tools/zh-hant/ip-subnet-calculator/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"這個計算器免費嗎？","acceptedAnswer":{"@type":"Answer","text":"是的——完全免費，無需註冊。"}},{"@type":"Question","name":"為什麼可用主機比總數少 2 個？","acceptedAnswer":{"@type":"Answer","text":"第一個地址命名網路本身，最後一個是廣播地址；兩者都不能分配給普通子網上的主機。"}},{"@type":"Question","name":"/31 和 /32 呢？","acceptedAnswer":{"@type":"Answer","text":"/32 是單個地址（主機路由）。/31 有 2 個地址，在經典子網劃分中沒有空餘主機，不過 RFC 3021 允許在點對點鏈路上兩個都使用。"}},{"@type":"Question","name":"它支援 IPv6 嗎？","acceptedAnswer":{"@type":"Answer","text":"本計算器只支援 IPv4，誠實地界定範圍——IPv6 子網劃分遵循不同的約定（沒有廣播，/64 標準子網）。"}},{"@type":"Question","name":"有任何東西被上傳嗎？","acceptedAnswer":{"@type":"Answer","text":"不會。所有算術都在您的瀏覽器中執行。"}}]}</script>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
+</head>
+<body>
+<header class="site"><div class="header-in">
+<a class="brand" href="../"><img src="../../apple-touch-icon.png" alt="Loona Automation 標誌">Loona <span>開發者工具</span></a>
+<nav class="main">
+<a href="../">首頁</a>
+<a href="../json-formatter/">JSON 格式化工具</a>
+<a href="../uuid-generator/">UUID 生成器</a>
+<a href="../hash-generator/">雜湊生成器</a>
+<a href="../jwt-decoder/">JWT 解碼器</a>
+<a href="../about.html">關於</a>
+</nav></div></header>
+<div class="wrap">
+<div class="crumbs"><a href="../">首頁</a> &rsaquo; <a href="../#tools">開發者工具</a> &rsaquo; IP 子網計算器</div>
+<main class="page">
+<h1 class="tool">IP 子網計算器 - 從任何 CIDR 得到網路、廣播和主機</h1>
+<div class="inshort"><strong>簡而言之：</strong> IP 子網計算器採用 CIDR 形式的 IPv4 地址，返回網路地址和廣播地址、子網掩碼和萬用字元掩碼、第一個和最後一個可用主機、總主機數和可用主機數、IP 類別和私有範圍檢查——還有一個將網路拆分為更小子網的檢視。</div>
+<p class="lede">手動劃分子網是差一錯誤居住的地方。輸入像 192.168.1.10/24 這樣的地址，得到每個欄位，按位方式檢查。</p>
+<div class="panel"><div class="row"><div class="field"><label for="cidr">帶 CIDR 字首的 IPv4 地址</label><input type="text" id="cidr" value="192.168.1.10/24"></div><div class="field"><label for="newp">按字首拆分為子網</label><input type="number" id="newp" value="26" min="1" max="32"></div></div>
+<div class="row"><button class="btn" id="bCalc">計運算元網</button><button class="btn ghost" id="bSplit">顯示拆分檢視</button></div>
+<div id="res"></div><div id="splitRes" style="margin-top:14px;overflow:auto"></div><div class="status" id="st"></div></div>
+<div class="privacy-note"><strong>按設計保證隱私：</strong> 這個工具中的一切都 100% 在您的瀏覽器中使用 JavaScript 完成。您的輸入從不上傳到伺服器，從不儲存，我們也從不見過它——關閉標籤，一切都消失了。</div>
+<section class="block"><h2>如何使用 IP 子網計算器</h2><ol><li>輸入帶其字首的 IPv4 地址，例如 192.168.1.10/24。</li><li>點選“計運算元網”檢視全部欄位。</li><li>拆分方法：輸入更大的字首（例如 26），點選顯示拆分檢視。</li><li>每個生成的子網都連同其主機和廣播一起列出。</li></ol></section>
+<section class="block"><h2>它如何工作</h2><p>計算器把地址轉換為 32 位整數，並應用從字首推匯出的子網掩碼：網路 = 地址 與 掩碼，廣播 = 網路 或 萬用字元（反轉）掩碼。對於普通字首，可用主機是 2^(32-prefix) − 2，因為網路和廣播地址被保留；對於 /31 和 /32，可用計數在經典意義上顯示為 0（點對點 /31 鏈路是 RFC 3021 的例外，而 /32 是單個主機路由）。拆分檢視把網路劃分為請求字首的相等子網——一個 /24 在 /26 處拆分恰好得到 4 個每個 64 個地址的子網。私有範圍檢測涵蓋 10.0.0.0/8、172.16.0.0/12 和 192.168.0.0/16。</p><h3>例項</h3><p><span style="font-family:ui-monospace,monospace">192.168.1.10/24</span> → 網路 192.168.1.0，廣播 192.168.1.255，主機 192.168.1.1 到 192.168.1.254（254 個可用）。</p></section>
+<section class="block"><h2>常見問題</h2><details class="faq"><summary>這個計算器免費嗎？</summary><p>是的——完全免費，無需註冊。</p></details><details class="faq"><summary>為什麼可用主機比總數少 2 個？</summary><p>第一個地址命名網路本身，最後一個是廣播地址；兩者都不能分配給普通子網上的主機。</p></details><details class="faq"><summary>/31 和 /32 呢？</summary><p>/32 是單個地址（主機路由）。/31 有 2 個地址，在經典子網劃分中沒有空餘主機，不過 RFC 3021 允許在點對點鏈路上兩個都使用。</p></details><details class="faq"><summary>它支援 IPv6 嗎？</summary><p>本計算器只支援 IPv4，誠實地界定範圍——IPv6 子網劃分遵循不同的約定（沒有廣播，/64 標準子網）。</p></details><details class="faq"><summary>有任何東西被上傳嗎？</summary><p>不會。所有算術都在您的瀏覽器中執行。</p></details></section>
+<section class="block"><h2>相關開發者工具</h2><div class="grid"><a class="card" href="../url-parser/"><div class="ic">URL</div><h3>URL 解析器與構建器</h3><p>把一個 URL 拆解為協議、主機、埠、路徑、查詢引數和雜湊——然後編輯並重新構建它。</p></a><a class="card" href="../url-encoder/"><div class="ic">%20</div><h3>URL 編碼器與解碼器</h3><p>安全地對文字和 URL 進行百分比編碼，帶逐字元分解表。</p></a><a class="card" href="../meta-tag-generator/"><div class="ic">< ></div><h3>Meta 標籤生成器</h3><p>生成一個帶 SERP 風格預覽的可直接貼上 HTML meta 程式碼塊。</p></a></div></section>
+</main>
+</div>
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">把本工具嵌入您的網站 — 免費</h2>
+<p style="margin:0 0 12px;line-height:1.6">把本工具新增到您自己的網站或部落格——它完全免費，無需註冊，並且始終顯示最新版本。複製下面的程式碼，貼上到您希望工具出現的頁面位置。在嵌入下方保留那一行小小的 &ldquo;Powered by Loona Automation&rdquo; 署名，有助於讓本工具保持免費 &mdash; 但您可以自由地設定它的樣式或刪除它；無論哪種方式工具都能工作。</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-dev-tools/zh-hant/ip-subnet-calculator/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="Free IP Subnet Calculator by Loona"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;由 &lt;a href="https://loonaautomation.github.io/loona-dev-tools/zh-hant/ip-subnet-calculator/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; 免費 IP 子網計算器&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">複製嵌入程式碼</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='已複製！';setTimeout(function(){b.textContent='複製嵌入程式碼';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+<footer class="site"><div class="footer-in">
+<div class="col"><h4>Loona Developer Tools</h4>
+<a href="../">全部開發者工具</a>
+<a href="../about.html">關於我們</a>
+<a href="../contact.html">聯絡我們</a></div>
+<div class="col"><h4>熱門工具</h4><a href="../json-formatter/">JSON 格式化工具</a><a href="../base64-encoder/">Base64 編碼器</a><a href="../uuid-generator/">UUID 生成器</a><a href="../hash-generator/">雜湊生成器</a><a href="../jwt-decoder/">JWT 解碼器</a><a href="../timestamp-converter/">時間戳轉換器</a></div>
+<div class="col"><h4>更多工具</h4><a href="../url-encoder/">URL 編碼器</a><a href="../html-entity-encoder/">HTML 實體編碼器</a><a href="https://loonaautomation.github.io/loona-text-tools/">Loona Text Tools</a><a href="https://loonaautomation.github.io/loona-calculators/">Loona Calculators</a><a href="https://loonaautomation.github.io/">全部 Loona 工具</a></div>
+<div class="col"><h4>法律</h4>
+<a href="../privacy.html">隱私政策</a>
+<a href="../terms.html">使用條款</a>
+<a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
+</div><div class="copyright">&copy; 2026 Loona Automation - Loona Developer Tools。100% 在您的瀏覽器中執行的免費線上開發者工具。</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' 安裝應用';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('安裝此應用：點選分享按鈕，然後選擇 "新增到主螢幕"。');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body>
+</html>
+<script>
+
+const $=s=>document.querySelector(s);
+function setStatus(el,msg,ok){el.textContent=msg;el.className='狀態 '+(ok===true?'ok':ok===false?'err':'');}
+function copyText(t,btn){const done=()=>{if(btn){const o=btn.textContent;btn.textContent='已複製！';setTimeout(()=>btn.textContent=o,1600);}};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t).then(done,()=>fallbackCopy(t,done));}else fallbackCopy(t,done);}
+function fallbackCopy(t,done){const ta=document.createElement('textarea');ta.value=t;ta.style.position='fixed';ta.style.opacity='0';document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}ta.remove();done();}
+function downloadText(t,name,mime){const b=new Blob([t],{type:(mime||'text/plain')+';charset=utf-8'});const u=URL.createObjectURL(b);const a=document.createElement('a');a.href=u;a.download=name;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),4000);}
+function escH(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+
+/*CORE*/
+
+function ipToInt(ip){
+  var parts=String(ip).trim().split('.');
+  if(parts.length!==4) throw new Error('IPv4 地址需要 4 個八位組。');
+  var n=0;
+  parts.forEach(function(p){
+    if(!/^\d+$/.test(p)) throw new Error('無效的八位組： '+p);
+    var v=parseInt(p,10);
+    if(v<0||v>255) throw new Error('八位組超出範圍： '+p);
+    n=n*256+v;
+  });
+  return n>>>0;
+}
+function intToIp(n){
+  return [ (n>>>24)&255, (n>>>16)&255, (n>>>8)&255, n&255 ].join('.');
+}
+function ipClass(first){
+  if(first<128) return 'A';
+  if(first<192) return 'B';
+  if(first<224) return 'C';
+  if(first<240) return 'D （組播）';
+  return 'E （實驗性）';
+}
+function parseCIDR(input){
+  var s=String(input).trim();
+  var m=s.match(/^(.+)\/(\d{1,2})$/);
+  if(!m) throw new Error('以 CIDR 形式輸入一個地址，例如 192.168.1.10/24');
+  var prefix=parseInt(m[2],10);
+  if(prefix<0||prefix>32) throw new Error('字首必須在 0 到 32 之間。');
+  return { ip: ipToInt(m[1]), prefix: prefix };
+}
+function subnetInfo(input){
+  var p=parseCIDR(input);
+  var prefix=p.prefix;
+  var mask = prefix===0 ? 0 : (0xFFFFFFFF << (32-prefix))>>>0;
+  var wildcard = (~mask)>>>0;
+  var network = (p.ip & mask)>>>0;
+  var broadcast = (network | wildcard)>>>0;
+  var total = Math.pow(2, 32-prefix);
+  var usable = prefix>=31 ? 0 : total-2;
+  var first = prefix>=31 ? network : network+1;
+  var last = prefix>=31 ? broadcast : broadcast-1;
+  var firstOctet = (p.ip>>>24)&255;
+  var isPrivate = firstOctet===10 || (firstOctet===172 && ((p.ip>>>16)&255)>=16 && ((p.ip>>>16)&255)<=31) || (firstOctet===192 && ((p.ip>>>16)&255)===168);
+  return {
+    address: intToIp(p.ip), prefix: prefix,
+    netmask: intToIp(mask), wildcard: intToIp(wildcard),
+    network: intToIp(network), broadcast: intToIp(broadcast),
+    networkCIDR: intToIp(network)+'/'+prefix,
+    firstHost: intToIp(first>>>0), lastHost: intToIp(last>>>0),
+    totalHosts: total, usableHosts: usable,
+    ipClass: ipClass(firstOctet), isPrivate: isPrivate,
+    binaryMask: mask.toString(2).padStart(32,'0').replace(/(.{8})(?=.)/g,'$1.')
+  };
+}
+function splitSubnets(input, newPrefix){
+  var info=subnetInfo(input);
+  var base=parseCIDR(info.networkCIDR);
+  if(newPrefix<=base.prefix) throw new Error('新字首必須大於當前字首。');
+  if(newPrefix>32) throw new Error('新字首不能超過 32。');
+  var count=Math.pow(2, newPrefix-base.prefix);
+  if(count>256) throw new Error('該拆分使 '+count+' 個子網 - 最多顯示 256 個。');
+  var size=Math.pow(2, 32-newPrefix);
+  var out=[];
+  for(var i=0;i<count;i++){
+    var net=(base.ip + i*size)>>>0;
+    out.push(subnetInfo(intToIp(net)+'/'+newPrefix));
+  }
+  return out;
+}
+
+/*/CORE*/
+
+function kv(label,val){ return '<div><b>'+escH(val)+'</b>'+escH(label)+'</div>'; }
+$('#bCalc').addEventListener('click',function(){
+  try{
+    var i=subnetInfo($('#cidr').value);
+    $('#res').innerHTML='<div class="kv">'+kv('網路地址',i.network)+kv('廣播地址',i.broadcast)+kv('Netmask',i.netmask)+kv('萬用字元掩碼',i.wildcard)+kv('第一個主機',i.firstHost)+kv('最後一個主機',i.lastHost)+kv('地址總數',String(i.totalHosts))+kv('可用主機',String(i.usableHosts))+kv('IP 類別',i.ipClass)+kv('私有地址',i.isPrivate?'Yes':'No')+kv('網路 （CIDR）',i.networkCIDR)+kv('二進位制子網掩碼',i.binaryMask)+'</div>';
+    setStatus($('#st'),'計算物件： '+i.networkCIDR+'.',true);
+  }catch(e){ setStatus($('#st'),e.message,false); $('#res').innerHTML=''; }
+});
+$('#bSplit').addEventListener('click',function(){
+  try{
+    var subs=splitSubnets($('#cidr').value, parseInt($('#newp').value,10));
+    var h='<table class="freq"><tr><th>子網</th><th>第一個主機</th><th>最後一個主機</th><th>廣播</th><th>可用</th></tr>';
+    subs.forEach(function(s){ h+='<tr><td>'+escH(s.networkCIDR)+'</td><td>'+escH(s.firstHost)+'</td><td>'+escH(s.lastHost)+'</td><td>'+escH(s.broadcast)+'</td><td>'+s.usableHosts+'</td></tr>'; });
+    $('#splitRes').innerHTML=h+'</table>';
+    setStatus($('#st'),'拆分為 '+subs.length+' 個子網。',true);
+  }catch(e){ setStatus($('#st'),e.message,false); }
+});
+$('#bCalc').click();
+
+</script>

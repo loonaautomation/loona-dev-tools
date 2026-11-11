@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON 字串取消轉義",
+  "short_name": "JSON 字串取消轉義",
+  "description": "把 JSON 字串值取消轉義回純文字：\\n、\\t、\\&quot;、\\\\ 和 \\uXXXX 序列變成真實字元。",
+  "id": "/loona-dev-tools/zh-hant/json-unescape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

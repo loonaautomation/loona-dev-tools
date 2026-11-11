@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base64 轉文字解碼器",
+  "short_name": "Base64 轉文字解碼器",
+  "description": "線上把 Base64 解碼回可讀文字。處理標準和 URL 安全字母表、任何語言的 UTF-8 文字。免費且私密。",
+  "id": "/loona-dev-tools/zh-hant/base64-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

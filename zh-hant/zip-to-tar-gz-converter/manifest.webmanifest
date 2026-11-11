@@ -1,0 +1,29 @@
+{
+  "name": "Loona ZIP 轉 TAR.GZ 轉換器 線上免費",
+  "short_name": "ZIP 轉 TAR.GZ 轉換器",
+  "description": "直接在您的瀏覽器中把 ZIP 歸檔轉換成 TAR.GZ tarball（.tar.gz）——Linux 伺服器、Docker 和構建工具所期望的格式。資料夾結構得以保留，不上傳任何東西。",
+  "id": "/loona-dev-tools/zh-hant/zip-to-tar-gz-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
