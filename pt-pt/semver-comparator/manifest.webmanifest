@@ -1,0 +1,29 @@
+{
+  "name": "Loona Comparador de Versões Semânticas",
+  "short_name": "Comparador de Versões Semânticas",
+  "description": "Valide e compare versões semânticas (MAJOR.MINOR.PATCH): qual é mais recente, e que tipo de alteração as separa.",
+  "id": "/loona-dev-tools/pt-pt/semver-comparator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

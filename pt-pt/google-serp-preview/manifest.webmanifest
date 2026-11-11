@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ferramenta de Pré-visualização Google SERP Online Grátis",
+  "short_name": "Ferramenta de Pré-visualização Google SERP",
+  "description": "Pré-visualize como o título da sua página e a meta description ficarão nos resultados de pesquisa do Google online gratuitamente, com vistas de ambiente de trabalho e telemóvel e avisos de truncamento por largura em píxeis. Sem registo.",
+  "id": "/loona-dev-tools/pt-pt/google-serp-preview/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

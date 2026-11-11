@@ -1,0 +1,29 @@
+{
+  "name": "Loona Descodificador de Base58 para Texto",
+  "short_name": "Descodificador de Base58 para Texto",
+  "description": "Descodifique strings Base58 de volta para texto (UTF-8). Valida contra o alfabeto Bitcoin e reporta caracteres inválidos.",
+  "id": "/loona-dev-tools/pt-pt/base58-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Codificação de URL (Codificação Percentual)",
+  "short_name": "Codificação de URL (Codificação Percentual)",
+  "description": "Codifique texto ou um URL completo online em percentagem: os espaços tornam-se %20, os caracteres reservados têm escape segundo a RFC 3986. Modo componente ou URL completo.",
+  "id": "/loona-dev-tools/pt-pt/url-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

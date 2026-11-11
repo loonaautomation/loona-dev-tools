@@ -1,0 +1,29 @@
+{
+  "name": "Loona Detetor de Tipo de Ficheiro Online Grátis",
+  "short_name": "Detetor de Tipo de Ficheiro Online Grátis",
+  "description": "Detete o tipo real de um ficheiro online grátis a partir da sua assinatura de cabeçalho de bytes mágicos - PNG, PDF, ZIP, MP4, EXE e mais de 30 formatos - e receba um aviso quando a extensão discordar. Nada carregado.",
+  "id": "/loona-dev-tools/pt-pt/file-type-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

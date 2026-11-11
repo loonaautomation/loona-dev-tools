@@ -1,0 +1,29 @@
+{
+  "name": "Loona Extrator de Ficheiros de Arquivo Online Grátis",
+  "short_name": "Extrator de Ficheiros de Arquivo Online",
+  "description": "Um abridor de arquivos universal: largue qualquer ficheiro ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ ou ISO e extraia o seu conteúdo diretamente no seu navegador. O formato é detetado automaticamente; nada é carregado.",
+  "id": "/loona-dev-tools/pt-pt/archive-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

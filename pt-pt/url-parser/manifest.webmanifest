@@ -1,0 +1,29 @@
+{
+  "name": "Loona Analisador de URL Online Grátis",
+  "short_name": "Analisador de URL Online Grátis",
+  "description": "Analise qualquer URL online gratuitamente para protocolo, host, porta, caminho, parâmetros de consulta e hash - edite os parâmetros e reconstrua o URL. Sem registo, funciona 100% no seu navegador.",
+  "id": "/loona-dev-tools/pt-pt/url-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

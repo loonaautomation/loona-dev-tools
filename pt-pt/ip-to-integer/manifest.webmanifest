@@ -1,0 +1,29 @@
+{
+  "name": "Loona Conversor de Endereço IP para Inteiro",
+  "short_name": "Endereço IP para Inteiro",
+  "description": "Converta um endereço IPv4 para a sua forma inteira de 32-bit (192.168.0.1 → 3232235521), utilizada em bases de dados e verificações de intervalo.",
+  "id": "/loona-dev-tools/pt-pt/ip-to-integer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
