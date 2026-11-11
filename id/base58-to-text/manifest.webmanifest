@@ -1,0 +1,29 @@
+{
+  "name": "Loona Decoder Base58 ke Teks",
+  "short_name": "Decoder Base58 ke Teks",
+  "description": "Dekode string Base58 kembali ke teks (UTF-8). Memvalidasi terhadap alfabet Bitcoin dan melaporkan karakter tidak valid.",
+  "id": "/loona-dev-tools/id/base58-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

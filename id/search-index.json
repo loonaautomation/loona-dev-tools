@@ -1,0 +1,650 @@
+[
+ {
+  "n": "Pustaka Konverter & Generator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/converter-library/",
+  "s": "Loona Dev Tools",
+  "d": "126 konverter dan generator baru: encoding, format data (JSON, YAML, XML, TOML, CSV), hash, warna, arsip, generator kode, dan referensi.",
+  "k": "converter generator library converter library 126 konverter dan generator baru encoding format data json yaml xml toml csv hash warna arsip generator kode dan referensi",
+  "p": 100,
+  "c": "Tool"
+ },
+ {
+  "n": "Pemformat JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/json-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Validasi, cetak rapi, dan minifikasi JSON, dengan posisi tepat kesalahan apa pun.",
+  "k": "json formatter json formatter validasi cetak rapi dan minifikasi json dengan posisi tepat kesalahan apa pun",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Encoder & Decoder Base64",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/base64-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Encode teks dan file ke Base64, atau dekode kembali - aman UTF-8, opsi aman-URL disertakan.",
+  "k": "base64 encoder decoder base64 encoder encode teks dan file ke base64 atau dekode kembali aman utf 8 opsi aman url disertakan",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Encoder & Decoder URL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/url-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Encode persen teks dan URL dengan aman, dengan tabel rincian per karakter.",
+  "k": "url encoder decoder url encoder encode persen teks dan url dengan aman dengan tabel rincian per karakter",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator UUID",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/uuid-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Buat UUID versi 4 acak - satu per satu atau massal hingga 100.",
+  "k": "uuid generator uuid generator buat uuid versi 4 acak satu per satu atau massal hingga 100",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Hash",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/hash-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Digest SHA-1, SHA-256, SHA-384, dan SHA-512 dari teks apa pun, dihitung di browser Anda.",
+  "k": "hash generator hash generator digest sha 1 sha 256 sha 384 dan sha 512 dari teks apa pun dihitung di browser anda",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Decoder JWT",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/jwt-decoder/",
+  "s": "Loona Dev Tools",
+  "d": "Dekode header dan payload JSON Web Token dan baca kedaluwarsanya dengan kata-kata sederhana.",
+  "k": "jwt decoder jwt decoder dekode header dan payload json web token dan baca kedaluwarsanya dengan kata kata sederhana",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Konverter Timestamp",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/timestamp-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konversi timestamp Unix ke tanggal yang dapat dibaca manusia dan sebaliknya - UTC, waktu lokal Anda, dan waktu relatif.",
+  "k": "timestamp converter timestamp converter konversi timestamp unix ke tanggal yang dapat dibaca manusia dan sebaliknya utc waktu lokal anda dan waktu relatif",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Encoder Entitas HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/html-entity-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Escape teks menjadi entitas HTML (bernama atau bernomor) dan dekode entitas kembali ke teks.",
+  "k": "html entity encoder html entity encoder escape teks menjadi entitas html bernama atau bernomor dan dekode entitas kembali ke teks",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Minifier & Pemercantik CSS",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/css-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Minifikasi CSS untuk menyusutkan ukuran file, atau percantik kembali menjadi kode yang dapat dibaca dan terindentasi.",
+  "k": "css minifier beautifier css minifier minifikasi css untuk menyusutkan ukuran file atau percantik kembali menjadi kode yang dapat dibaca dan terindentasi",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Minifier JavaScript",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/javascript-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Minifikasi JavaScript secara konservatif - komentar dan whitespace mati dihapus, string dan regex tetap utuh.",
+  "k": "javascript minifier javascript minifier minifikasi javascript secara konservatif komentar dan whitespace mati dihapus string dan regex tetap utuh",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Penguji Regex",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/regex-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Uji regular expression secara langsung - kecocokan disorot, grup tangkapan tercantum, hitungan ditampilkan.",
+  "k": "regex tester regex tester uji regular expression secara langsung kecocokan disorot grup tangkapan tercantum hitungan ditampilkan",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Pemeriksa Diff",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/diff-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Bandingkan dua teks baris per baris - baris yang ditambahkan dan dihapus disorot, dengan ringkasan perubahan.",
+  "k": "diff checker diff checker bandingkan dua teks baris per baris baris yang ditambahkan dan dihapus disorot dengan ringkasan perubahan",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Konverter JSON ke CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/json-to-csv-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Ubah array JSON berisi objek menjadi file CSV yang bersih - gabungan semua kunci, pengutipan yang tepat, satu klik.",
+  "k": "json to csv converter json to csv converter ubah array json berisi objek menjadi file csv yang bersih gabungan semua kunci pengutipan yang tepat satu klik",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Konverter CSV ke JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/csv-to-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konversi CSV ke array objek JSON - parser sungguhan yang menangani koma dikutip dan tanda kutip yang di-escape.",
+  "k": "csv to json converter csv to json converter konversi csv ke array objek json parser sungguhan yang menangani koma dikutip dan tanda kutip yang di escape",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Konverter YAML ⇄ JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/yaml-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konversi subset YAML umum (map, daftar, skalar) ke JSON dan JSON kembali ke YAML - dicakup dengan jujur.",
+  "k": "yaml json converter yaml json converter konversi subset yaml umum map daftar skalar ke json dan json kembali ke yaml dicakup dengan jujur",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Pemformat SQL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/sql-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Format SQL dengan kata kunci huruf besar dan setiap klausa utama pada barisnya sendiri - kueri yang dapat dibaca dalam satu klik.",
+  "k": "sql formatter sql formatter format sql dengan kata kunci huruf besar dan setiap klausa utama pada barisnya sendiri kueri yang dapat dibaca dalam satu klik",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Konverter Basis Bilangan",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/number-base-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konversi antara biner, oktal, desimal, dan heks dengan presisi big-integer penuh - tanpa batas 2^53.",
+  "k": "number base converter number base converter konversi antara biner oktal desimal dan heks dengan presisi big integer penuh tanpa batas 2 53",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator Chmod",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/chmod-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "Centang kotak baca/tulis/eksekusi untuk pemilik, grup, dan lainnya - dapatkan izin oktal dan simbolik seketika.",
+  "k": "chmod calculator chmod calculator centang kotak baca tulis eksekusi untuk pemilik grup dan lainnya dapatkan izin oktal dan simbolik seketika",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Pemeriksa Kekuatan Kata Sandi",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/password-strength-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Lihat perkiraan entropi kata sandi dalam bit, apa yang melemahkannya, dan berapa lama serangan offline cepat akan berlangsung.",
+  "k": "password strength checker password strength checker lihat perkiraan entropi kata sandi dalam bit apa yang melemahkannya dan berapa lama serangan offline cepat akan berlangsung",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Ekspresi Cron",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/cron-expression-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bangun ekspresi cron 5-field dari dropdown sederhana, dan dapatkan ekspresi cron apa pun dijelaskan dalam bahasa Indonesia yang sederhana.",
+  "k": "cron expression generator cron expression generator bangun ekspresi cron 5 field dari dropdown sederhana dan dapatkan ekspresi cron apa pun dijelaskan dalam bahasa indonesia yang sederhana",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Parser & Pembuat URL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/url-parser/",
+  "s": "Loona Dev Tools",
+  "d": "Uraikan URL menjadi protokol, host, port, jalur, parameter kueri, dan hash - lalu edit parameternya dan bangun ulang.",
+  "k": "url parser builder url parser uraikan url menjadi protokol host port jalur parameter kueri dan hash lalu edit parameternya dan bangun ulang",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat File ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/zip-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Gabungkan beberapa file menjadi satu arsip ZIP - dibangun di browser Anda, tidak ada yang diunggah.",
+  "k": "zip file creator zip file creator gabungkan beberapa file menjadi satu arsip zip dibangun di browser anda tidak ada yang diunggah",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Ekstraktor File Unzip",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/unzip-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Buka ZIP, lihat setiap file di dalamnya beserta ukurannya, dan ekstrak satu file atau semuanya.",
+  "k": "unzip file extractor unzip file extractor buka zip lihat setiap file di dalamnya beserta ukurannya dan ekstrak satu file atau semuanya",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Ekstraktor File RAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/rar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Buka file RAR (RAR4 dan RAR5) di browser Anda - lihat setiap file di dalamnya, unduh satu file atau semuanya sebagai ZIP.",
+  "k": "rar file extractor rar file extractor buka file rar rar4 dan rar5 di browser anda lihat setiap file di dalamnya unduh satu file atau semuanya sebagai zip",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Ekstraktor File 7Z",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/7z-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Buka arsip 7z di browser Anda - lihat isinya dan ekstrak file tunggal atau semuanya sebagai ZIP.",
+  "k": "7z file extractor 7z file extractor buka arsip 7z di browser anda lihat isinya dan ekstrak file tunggal atau semuanya sebagai zip",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Ekstraktor File TAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/tar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Buka arsip .tar, .tar.bz2, dan .tar.xz di browser Anda dan ekstrak file di dalamnya - tidak ada yang diunggah.",
+  "k": "tar file extractor tar file extractor buka arsip tar tar bz2 dan tar xz di browser anda dan ekstrak file di dalamnya tidak ada yang diunggah",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Ekstraktor File TAR.GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/tar-gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Buka arsip .tar.gz dan .tgz di browser Anda - jelajahi file di dalamnya dan ekstrak yang Anda butuhkan.",
+  "k": "tar gz file extractor tar gz file extractor buka arsip tar gz dan tgz di browser anda jelajahi file di dalamnya dan ekstrak yang anda butuhkan",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Ekstraktor File GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Dekompresi satu file .gz di browser Anda dan unduh aslinya - log, ekspor data, dan dump database.",
+  "k": "gz file extractor gz file extractor dekompresi satu file gz di browser anda dan unduh aslinya log ekspor data dan dump database",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Ekstraktor File ISO",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/iso-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Buka image disk ISO di browser Anda, jelajahi sistem file yang tersimpan di disk virtual dan unduh file.",
+  "k": "iso file extractor iso file extractor buka image disk iso di browser anda jelajahi sistem file yang tersimpan di disk virtual dan unduh file",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Ekstraktor File Arsip",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/archive-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Satu pembuka arsip universal untuk ZIP, RAR, 7Z, TAR, ISO, dan lainnya - format terdeteksi otomatis.",
+  "k": "archive file extractor archive file extractor satu pembuka arsip universal untuk zip rar 7z tar iso dan lainnya format terdeteksi otomatis",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Konverter RAR ke ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/rar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konversi arsip RAR menjadi ZIP standar di browser Anda - struktur folder dipertahankan, tidak ada yang diunggah.",
+  "k": "rar to zip converter rar to zip converter konversi arsip rar menjadi zip standar di browser anda struktur folder dipertahankan tidak ada yang diunggah",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Konverter 7Z ke ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/7z-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konversi arsip 7Z menjadi ZIP yang terbuka di mana pun - tidak perlu 7-Zip, tidak ada yang diunggah.",
+  "k": "7z to zip converter 7z to zip converter konversi arsip 7z menjadi zip yang terbuka di mana pun tidak perlu 7 zip tidak ada yang diunggah",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Konverter TAR ke ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/tar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konversi arsip TAR dari Linux atau Unix menjadi ZIP yang terbuka secara bawaan di Windows, macOS, dan ponsel.",
+  "k": "tar to zip converter tar to zip converter konversi arsip tar dari linux atau unix menjadi zip yang terbuka secara bawaan di windows macos dan ponsel",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Konverter TAR.GZ ke ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/tar-gz-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konversi .tar.gz atau .tgz menjadi satu ZIP - kedua lapisan gzip dan tar dibuka di perangkat Anda.",
+  "k": "tar gz to zip converter tar gz to zip converter konversi tar gz atau tgz menjadi satu zip kedua lapisan gzip dan tar dibuka di perangkat anda",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Konverter ZIP ke TAR.GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/zip-to-tar-gz-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konversi arsip ZIP menjadi tarball .tar.gz - format yang diharapkan server Linux, Docker, dan alat build.",
+  "k": "zip to tar gz converter zip to tar gz converter konversi arsip zip menjadi tarball tar gz format yang diharapkan server linux docker dan alat build",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat File TAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/tar-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Buat arsip .tar yang benar menurut spesifikasi dari beberapa file di browser Anda - terbuka dengan alat tar mana pun.",
+  "k": "tar file creator tar file creator buat arsip tar yang benar menurut spesifikasi dari beberapa file di browser anda terbuka dengan alat tar mana pun",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Kompresor GZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/gzip-compressor/",
+  "s": "Loona Dev Tools",
+  "d": "Kompres file tunggal apa pun menjadi .gz dengan mesin gzip bawaan browser Anda - ukuran sebelum/sesudah seketika.",
+  "k": "gzip compressor gzip compressor kompres file tunggal apa pun menjadi gz dengan mesin gzip bawaan browser anda ukuran sebelum sesudah seketika",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Penampil & Editor CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/csv-viewer-editor/",
+  "s": "Loona Dev Tools",
+  "d": "Muat CSV ke grid tabel yang dapat diedit - edit sel, urutkan kolom, tambah atau hapus baris dan kolom, lalu unduh.",
+  "k": "csv viewer editor csv viewer editor muat csv ke grid tabel yang dapat diedit edit sel urutkan kolom tambah atau hapus baris dan kolom lalu unduh",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Konverter CSV ke SQL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/csv-to-sql-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Ubah CSV menjadi pernyataan CREATE TABLE plus INSERT dengan tipe yang disimpulkan, untuk MySQL, PostgreSQL, atau SQLite.",
+  "k": "csv to sql converter csv to sql converter ubah csv menjadi pernyataan create table plus insert dengan tipe yang disimpulkan untuk mysql postgresql atau sqlite",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Konverter CSV ke XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/csv-to-xml-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konversi baris CSV ke XML yang well-formed dengan elemen root dan baris yang dapat dikonfigurasi serta escape yang benar.",
+  "k": "csv to xml converter csv to xml converter konversi baris csv ke xml yang well formed dengan elemen root dan baris yang dapat dikonfigurasi serta escape yang benar",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Konverter CSV ke Tabel Markdown",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/csv-to-markdown-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konversi CSV ke tabel Markdown siap GitHub - kolom numerik diratakan kanan, pipe di-escape.",
+  "k": "csv to markdown table converter csv to markdown converter konversi csv ke tabel markdown siap github kolom numerik diratakan kanan pipe di escape",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Dedupe & Pembersih CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/csv-dedupe-cleaner/",
+  "s": "Loona Dev Tools",
+  "d": "Hapus baris CSV duplikat berdasarkan seluruh baris atau kolom kunci, pangkas whitespace dan buang baris kosong, dengan hitungan.",
+  "k": "csv dedupe cleaner csv dedupe cleaner hapus baris csv duplikat berdasarkan seluruh baris atau kolom kunci pangkas whitespace dan buang baris kosong dengan hitungan",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Pisah & Gabung CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/csv-split-merge/",
+  "s": "Loona Dev Tools",
+  "d": "Pisah CSV menjadi bagian berdasarkan jumlah baris dengan header diulang, atau gabungkan file CSV yang berbagi header.",
+  "k": "csv split merge csv split merge pisah csv menjadi bagian berdasarkan jumlah baris dengan header diulang atau gabungkan file csv yang berbagi header",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Meta Tag",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/meta-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Buat blok meta HTML siap pakai - judul, deskripsi, robots, kanonis - dengan pratinjau SERP langsung.",
+  "k": "meta tag generator meta tag generator buat blok meta html siap pakai judul deskripsi robots kanonis dengan pratinjau serp langsung",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Open Graph & Kartu Twitter",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/open-graph-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bangun tag OG dan Twitter Card dengan pratinjau kartu sosial langsung, agar tautan yang dibagikan terlihat benar.",
+  "k": "open graph twitter card generator open graph generator bangun tag og dan twitter card dengan pratinjau kartu sosial langsung agar tautan yang dibagikan terlihat benar",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Robots.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/robots-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bangun robots.txt yang valid dari preset dan aturan per agen, dengan pemeriksaan kewajaran pada output.",
+  "k": "robots txt generator robots txt generator bangun robots txt yang valid dari preset dan aturan per agen dengan pemeriksaan kewajaran pada output",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Sitemap XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/xml-sitemap-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Ubah daftar URL menjadi sitemap.xml yang valid dengan default lastmod, changefreq, dan priority.",
+  "k": "xml sitemap generator xml sitemap generator ubah daftar url menjadi sitemap xml yang valid dengan default lastmod changefreq dan priority",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Pembuat Tautan UTM",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/utm-link-builder/",
+  "s": "Loona Dev Tools",
+  "d": "Tandai URL kampanye dengan parameter UTM - encoding yang benar, parameter yang ada dipertahankan, riwayat lokal.",
+  "k": "utm link builder utm link builder tandai url kampanye dengan parameter utm encoding yang benar parameter yang ada dipertahankan riwayat lokal",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulator Subnet IP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/ip-subnet-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "CIDR IPv4 ke jaringan, broadcast, netmask, wildcard, rentang host, dan jumlah, ditambah tampilan pemisahan subnet.",
+  "k": "ip subnet calculator ip subnet calculator cidr ipv4 ke jaringan broadcast netmask wildcard rentang host dan jumlah ditambah tampilan pemisahan subnet",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Skema JSON-LD",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/json-ld-schema-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Buat data terstruktur schema.org - Article, Product, LocalBusiness, Event, Recipe, dan lainnya - sebagai JSON-LD yang valid.",
+  "k": "json ld schema generator json ld schema generator buat data terstruktur schema org article product localbusiness event recipe dan lainnya sebagai json ld yang valid",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Pratinjau SERP Google",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/google-serp-preview/",
+  "s": "Loona Dev Tools",
+  "d": "Pratinjau judul dan deskripsi Anda sebagai hasil Google, dengan peringatan pemotongan lebar piksel, desktop dan seluler.",
+  "k": "google serp preview google serp preview pratinjau judul dan deskripsi anda sebagai hasil google dengan peringatan pemotongan lebar piksel desktop dan seluler",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "Pemeriksa Kepadatan Kata Kunci",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/keyword-density-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Hitung kata tunggal ditambah frasa 2-kata dan 3-kata dengan kepadatan persentase dan penyaringan stopword.",
+  "k": "keyword density checker keyword density checker hitung kata tunggal ditambah frasa 2 kata dan 3 kata dengan kepadatan persentase dan penyaringan stopword",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Tabel HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/html-table-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bangun tabel secara visual dalam grid dan dapatkan HTML semantik yang bersih dengan dukungan thead, th, dan caption.",
+  "k": "html table generator html table generator bangun tabel secara visual dalam grid dan dapatkan html semantik yang bersih dengan dukungan thead th dan caption",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Tanda Tangan Email HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/email-signature-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Buat tanda tangan email profesional sebagai HTML tabel yang aman untuk email yang berfungsi di Gmail dan Outlook.",
+  "k": "html email signature generator email signature generator buat tanda tangan email profesional sebagai html tabel yang aman untuk email yang berfungsi di gmail dan outlook",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "Validator Email",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/email-validator/",
+  "s": "Loona Dev Tools",
+  "d": "Periksa alamat email secara massal untuk kesalahan sintaks dan kesalahan ketik domain umum seperti gmial.com, dengan saran.",
+  "k": "email validator email validator periksa alamat email secara massal untuk kesalahan sintaks dan kesalahan ketik domain umum seperti gmial com dengan saran",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Clip-Path CSS",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/css-clip-path-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Buat CSS clip-path - preset poligon dengan titik yang dapat disesuaikan, ditambah bentuk lingkaran, elips, dan inset.",
+  "k": "css clip path generator css clip path generator buat css clip path preset poligon dengan titik yang dapat disesuaikan ditambah bentuk lingkaran elips dan inset",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Box Shadow CSS",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/css-box-shadow-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bangun CSS box-shadow berlapis dengan dukungan inset, kontrol warna dan opasitas, dan pratinjau langsung.",
+  "k": "css box shadow generator css box shadow generator bangun css box shadow berlapis dengan dukungan inset kontrol warna dan opasitas dan pratinjau langsung",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "Pemformat & Validator XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/xml-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Percantik, minifikasi, dan validasi XML - pemeriksaan well-formedness tag seimbang dengan pesan kesalahan yang jelas.",
+  "k": "xml formatter validator xml formatter percantik minifikasi dan validasi xml pemeriksaan well formedness tag seimbang dengan pesan kesalahan yang jelas",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "Konverter Markdown ke HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/markdown-to-html-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konversi Markdown sehari-hari ke HTML yang bersih dengan pratinjau render langsung - heading, daftar, kode, dan lainnya.",
+  "k": "markdown to html converter markdown to html converter konversi markdown sehari hari ke html yang bersih dengan pratinjau render langsung heading daftar kode dan lainnya",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "Transpose CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/csv-transpose/",
+  "s": "Loona Dev Tools",
+  "d": "Tukar baris dan kolom CSV dengan parser yang tepat - mentranspos dua kali mengembalikan aslinya.",
+  "k": "csv transpose csv transpose tukar baris dan kolom csv dengan parser yang tepat mentranspos dua kali mengembalikan aslinya",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "Gabung CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/csv-join/",
+  "s": "Loona Dev Tools",
+  "d": "Gabungkan dua CSV pada kolom kunci - inner atau left join, kunci duplikat ditangani dengan cara database.",
+  "k": "csv join csv join gabungkan dua csv pada kolom kunci inner atau left join kunci duplikat ditangani dengan cara database",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "Pivot / Group-By CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/csv-pivot-group-by/",
+  "s": "Loona Dev Tools",
+  "d": "Kelompokkan baris CSV berdasarkan kolom dengan jumlah, hitung, rata-rata, min, atau maks dari kolom nilai.",
+  "k": "csv pivot group by csv pivot group by kelompokkan baris csv berdasarkan kolom dengan jumlah hitung rata rata min atau maks dari kolom nilai",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "Diff / Perbandingan CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/csv-diff/",
+  "s": "Loona Dev Tools",
+  "d": "Bandingkan dua CSV berdasarkan kolom kunci - baris yang ditambahkan, dihapus, dan diubah dengan sel yang tepat.",
+  "k": "csv diff compare csv diff bandingkan dua csv berdasarkan kolom kunci baris yang ditambahkan dihapus dan diubah dengan sel yang tepat",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "Ekstraktor Data CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/csv-data-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Tarik email, nomor telepon, dan URL dari CSV atau teks yang berantakan menjadi daftar bersih yang terdedup.",
+  "k": "csv data extractor csv data extractor tarik email nomor telepon dan url dari csv atau teks yang berantakan menjadi daftar bersih yang terdedup",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "Profiler CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/csv-profiler/",
+  "s": "Loona Dev Tools",
+  "d": "Tebakan tipe per kolom, jumlah kosong, jumlah unik, min/maks numerik, dan nilai teratas.",
+  "k": "csv profiler csv profiler tebakan tipe per kolom jumlah kosong jumlah unik min maks numerik dan nilai teratas",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "Penguji Robots.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/robots-txt-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Uji URL dan user-agent terhadap aturan robots.txt - putusan plus aturan pencocokan yang tepat.",
+  "k": "robots txt tester robots txt tester uji url dan user agent terhadap aturan robots txt putusan plus aturan pencocokan yang tepat",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "Pemeriksa Keterbacaan SEO",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/readability-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Enam formula keterbacaan plus statistik kalimat untuk salinan web, dibingkai untuk pekerjaan konten SEO.",
+  "k": "seo readability checker readability checker enam formula keterbacaan plus statistik kalimat untuk salinan web dibingkai untuk pekerjaan konten seo",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator llms.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/llms-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bangun file llms.txt yang menghadap AI - blockquote ringkasan ditambah tautan halaman pilihan dalam format spesifikasi.",
+  "k": "llms txt generator llms txt generator bangun file llms txt yang menghadap ai blockquote ringkasan ditambah tautan halaman pilihan dalam format spesifikasi",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Tag Hreflang",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/hreflang-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bangun set tautan alternatif hreflang dengan x-default dan pemeriksaan BCP 47 / URL absolut.",
+  "k": "hreflang tag generator hreflang tag generator bangun set tautan alternatif hreflang dengan x default dan pemeriksaan bcp 47 url absolut",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "Penampil Metadata Dokumen Office",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/office-metadata-viewer/",
+  "s": "Loona Dev Tools",
+  "d": "Baca properti DOCX, XLSX, dan PPTX - judul, penulis, perusahaan, tanggal - hanya lihat, di perangkat.",
+  "k": "office document metadata viewer office metadata viewer baca properti docx xlsx dan pptx judul penulis perusahaan tanggal hanya lihat di perangkat",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "Detektor Jenis File",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/id/file-type-detector/",
+  "s": "Loona Dev Tools",
+  "d": "Deteksi tipe sebenarnya file dari magic byte-nya dan peringatkan ketika ekstensinya tidak sepakat.",
+  "k": "file type detector file type detector deteksi tipe sebenarnya file dari magic byte nya dan peringatkan ketika ekstensinya tidak sepakat",
+  "p": 171,
+  "c": "Tool"
+ }
+]

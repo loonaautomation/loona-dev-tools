@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konverter RAR ke ZIP Online Gratis",
+  "short_name": "Konverter RAR ke ZIP Online",
+  "description": "Konversi arsip RAR (.rar) menjadi file ZIP standar langsung di browser Anda. Struktur folder dipertahankan, tidak ada yang diunggah, dan ZIP terbuka di mana pun - Windows, macOS, Android, dan iPhone semuanya membuka ZIP secara bawaan.",
+  "id": "/loona-dev-tools/id/rar-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

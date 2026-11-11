@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator INSERT SQL dari JSON",
+  "short_name": "Generator INSERT SQL dari JSON",
+  "description": "Buat pernyataan INSERT SQL dari array objek JSON: string di-escape, NULL dan boolean ditangani, nama tabel kustom.",
+  "id": "/loona-dev-tools/id/json-to-sql-insert/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

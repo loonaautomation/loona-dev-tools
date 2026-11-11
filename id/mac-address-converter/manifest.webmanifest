@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konverter Format Alamat MAC",
+  "short_name": "Konverter Format Alamat MAC",
+  "description": "Konversi alamat MAC antara format titik dua (AA:BB:CC:DD:EE:FF), tanda hubung, titik Cisco, dan polos; memvalidasi alamat 48-bit.",
+  "id": "/loona-dev-tools/id/mac-address-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

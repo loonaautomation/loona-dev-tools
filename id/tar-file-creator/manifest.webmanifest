@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pembuat File TAR Online Gratis",
+  "short_name": "Pembuat File TAR Online Gratis",
+  "description": "Buat arsip TAR (.tar) dari beberapa file langsung di browser Anda - penulis ustar yang benar menurut spesifikasi, opsi folder, timestamp nyata. Tidak ada yang diunggah; tarball dibangun di perangkat Anda dan terbuka dengan alat tar mana pun.",
+  "id": "/loona-dev-tools/id/tar-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

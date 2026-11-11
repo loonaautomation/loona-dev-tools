@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konverter YAML ke JSON",
+  "short_name": "Konverter YAML ke JSON",
+  "description": "Konversi YAML ke JSON online: pemetaan blok dan urutan, skalar dikutip dan polos, koleksi flow. Subset didokumentasikan dengan jujur.",
+  "id": "/loona-dev-tools/id/yaml-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

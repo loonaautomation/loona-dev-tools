@@ -1,0 +1,29 @@
+{
+  "name": "Loona Encoder Entitas HTML",
+  "short_name": "Encoder Entitas HTML",
+  "description": "Encode karakter khusus sebagai entitas HTML: referensi bernama (&copy;), desimal, atau heks numerik. Meng-escape markup, tanda kutip, dan teks non-ASCII.",
+  "id": "/loona-dev-tools/id/html-entities-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

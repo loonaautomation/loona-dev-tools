@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kalkulator Subnet IP Online Gratis",
+  "short_name": "Kalkulator Subnet IP Online",
+  "description": "Hitung subnet IPv4 online secara gratis - jaringan, broadcast, netmask, wildcard, host pertama dan terakhir, jumlah host yang dapat digunakan, dan kelas IP dari alamat CIDR apa pun, ditambah tampilan pemisahan subnet.",
+  "id": "/loona-dev-tools/id/ip-subnet-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

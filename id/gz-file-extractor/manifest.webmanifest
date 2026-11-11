@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ekstraktor File GZ Online Gratis",
+  "short_name": "Ekstraktor File GZ Online Gratis",
+  "description": "Dekompresi satu file .gz langsung di browser Anda dan unduh file aslinya - log, ekspor data, dump database. Tidak ada yang diunggah; browser Anda melakukan pekerjaan secara bawaan.",
+  "id": "/loona-dev-tools/id/gz-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

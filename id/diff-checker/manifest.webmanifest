@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pemeriksa Diff Online Gratis",
+  "short_name": "Pemeriksa Diff Online Gratis",
+  "description": "Bandingkan dua teks online secara gratis dengan diff baris per baris: baris yang ditambahkan hijau, baris yang dihapus merah, ditambah ringkasan perubahan. Tanpa pendaftaran, berjalan 100% di browser Anda.",
+  "id": "/loona-dev-tools/id/diff-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

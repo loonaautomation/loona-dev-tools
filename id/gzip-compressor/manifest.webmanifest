@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kompresor GZIP Online Gratis",
+  "short_name": "Kompresor GZIP Online Gratis",
+  "description": "Kompres file tunggal apa pun menjadi .gz menggunakan mesin gzip bawaan browser Anda. Ukuran sebelum/sesudah seketika, tidak ada yang diunggah - file dikompresi di perangkat Anda. Berfungsi untuk log, CSV, file TAR, dan lainnya.",
+  "id": "/loona-dev-tools/id/gzip-compressor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

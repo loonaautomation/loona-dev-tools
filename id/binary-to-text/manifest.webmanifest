@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konverter Biner ke Teks",
+  "short_name": "Konverter Biner ke Teks",
+  "description": "Dekode biner (grup 8 bit, berjarak atau berkesinambungan) kembali ke teks UTF-8 online. Penerjemah biner gratis.",
+  "id": "/loona-dev-tools/id/binary-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

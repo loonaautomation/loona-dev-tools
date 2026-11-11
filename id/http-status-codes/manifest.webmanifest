@@ -1,0 +1,29 @@
+{
+  "name": "Loona Referensi Kode Status HTTP",
+  "short_name": "Referensi Kode Status HTTP",
+  "description": "Setiap kode status HTTP umum beserta maknanya: 2xx keberhasilan, 3xx pengalihan, 4xx kesalahan klien, 5xx kesalahan server — dijelaskan dengan sederhana.",
+  "id": "/loona-dev-tools/id/http-status-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

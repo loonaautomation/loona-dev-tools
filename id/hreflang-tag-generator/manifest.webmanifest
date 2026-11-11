@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator Tag Hreflang Online Gratis",
+  "short_name": "Generator Tag Hreflang Online",
+  "description": "Buat tag hreflang online secara gratis - tempel pasangan bahasa dan URL, tambahkan x-default, dan dapatkan set tautan alternatif lengkap dengan pemeriksaan BCP 47 dan URL absolut. Tanpa pendaftaran.",
+  "id": "/loona-dev-tools/id/hreflang-tag-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

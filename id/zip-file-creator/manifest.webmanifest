@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pembuat File ZIP Online Gratis",
+  "short_name": "Pembuat File ZIP Online Gratis",
+  "description": "Buat file ZIP dari beberapa file langsung di browser Anda - tambahkan file, beri nama arsip, dan unduh satu .zip. Tidak ada yang diunggah; semuanya tetap berada di perangkat Anda.",
+  "id": "/loona-dev-tools/id/zip-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

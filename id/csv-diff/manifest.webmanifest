@@ -1,0 +1,29 @@
+{
+  "name": "Loona Diff & Perbandingan CSV Online Gratis",
+  "short_name": "Diff & Perbandingan CSV Online Gratis",
+  "description": "Bandingkan dua file CSV online secara gratis - baris dicocokkan dengan kolom kunci dan diklasifikasikan sebagai ditambahkan, dihapus, diubah (dengan sel yang tepat) atau tidak berubah. Tanpa pendaftaran, berjalan di browser Anda.",
+  "id": "/loona-dev-tools/id/csv-diff/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

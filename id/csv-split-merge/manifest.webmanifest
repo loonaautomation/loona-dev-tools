@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pisah & Gabung CSV Online Gratis",
+  "short_name": "Pisah & Gabung CSV Online Gratis",
+  "description": "Pisah CSV menjadi bagian berdasarkan jumlah baris atau gabungkan beberapa file CSV menjadi satu, online gratis - header ditangani dengan benar, parsing CSV yang tepat. Tanpa pendaftaran, berjalan 100% di browser Anda.",
+  "id": "/loona-dev-tools/id/csv-split-merge/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

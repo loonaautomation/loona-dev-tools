@@ -1,0 +1,29 @@
+{
+  "name": "Loona Validator Email Online Gratis",
+  "short_name": "Validator Email Online Gratis",
+  "description": "Validasi alamat email online gratis, satu atau massal - pemeriksaan sintaks penuh terhadap aturan alamat plus deteksi salah ketik domain umum seperti gmial.com. Tanpa pendaftaran.",
+  "id": "/loona-dev-tools/id/email-validator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

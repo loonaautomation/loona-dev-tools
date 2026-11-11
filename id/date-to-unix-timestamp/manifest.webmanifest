@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konverter Tanggal ke Timestamp Unix",
+  "short_name": "Tanggal ke Timestamp Unix",
+  "description": "Konversi tanggal dan waktu ke timestamp Unix-nya dalam detik dan milidetik, dalam UTC atau zona waktu lokal Anda.",
+  "id": "/loona-dev-tools/id/date-to-unix-timestamp/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

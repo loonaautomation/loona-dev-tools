@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator Hash SHA-1",
+  "short_name": "Generator Hash SHA-1",
+  "description": "Hitung hash SHA-1 dari teks atau file online: 160-bit, 40 karakter heks. Berjalan secara lokal di browser Anda dengan WebCrypto/JS murni — file tidak pernah diunggah.",
+  "id": "/loona-dev-tools/id/sha1-hash-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
