@@ -1,0 +1,29 @@
+{
+  "name": "Loona Archive फ़ाइल एक्सट्रैक्टर ऑनलाइन मुफ़्त",
+  "short_name": "Archive फ़ाइल एक्सट्रैक्टर ऑनलाइन",
+  "description": "एक universal archive opener: कोई भी ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ या ISO फ़ाइल डालें और उसकी contents ठीक अपने ब्राउज़र में extract करें। Format अपने आप पहचाना जाता है; कुछ अपलोड नहीं होता।",
+  "id": "/loona-dev-tools/hi/archive-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

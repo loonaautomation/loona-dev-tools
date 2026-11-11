@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML Entity एनकोडर और डिकोडर ऑनलाइन मुफ़्त",
+  "short_name": "HTML Entity एनकोडर और डिकोडर",
+  "description": "Text को HTML entities में encode करें (named जैसे &amp;copy; या numbered जैसे &amp;#169;) और entities को वापस plain text में decode करें। मुफ़्त, कोई साइन-अप नहीं, आपके ब्राउज़र में।",
+  "id": "/loona-dev-tools/hi/html-entity-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

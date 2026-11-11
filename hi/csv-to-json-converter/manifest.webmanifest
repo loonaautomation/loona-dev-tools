@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV से JSON कन्वर्टर ऑनलाइन मुफ़्त",
+  "short_name": "CSV से JSON कन्वर्टर ऑनलाइन",
+  "description": "CSV को objects के JSON array में ऑनलाइन मुफ़्त बदलें, एक proper CSV parser के साथ जो quoted fields, quotes के अंदर commas और escaped quotes संभालता है। कोई sign-up नहीं, 100% आपके ब्राउज़र में चलता है।",
+  "id": "/loona-dev-tools/hi/csv-to-json-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON से .env कन्वर्टर",
+  "short_name": "JSON से .env कन्वर्टर",
+  "description": "JSON config को .env format में बदलें: nested objects UNDERSCORE paths के साथ flattened, values तब quoted जब उनमें spaces या # हों।",
+  "id": "/loona-dev-tools/hi/json-to-env/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

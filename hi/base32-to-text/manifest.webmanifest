@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base32 से Text डिकोडर",
+  "short_name": "Base32 से Text डिकोडर",
+  "description": "Base32 (RFC 4648) को वापस text में decode करें — case-insensitive, padding वैकल्पिक। TOTP-style encoded strings recover करें।",
+  "id": "/loona-dev-tools/hi/base32-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

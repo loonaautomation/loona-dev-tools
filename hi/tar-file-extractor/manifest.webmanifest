@@ -1,0 +1,29 @@
+{
+  "name": "Loona TAR फ़ाइल एक्सट्रैक्टर ऑनलाइन मुफ़्त",
+  "short_name": "TAR फ़ाइल एक्सट्रैक्टर ऑनलाइन मुफ़्त",
+  "description": "TAR archives ठीक अपने ब्राउज़र में खोलें — सादा .tar साथ में .tar.bz2 और .tar.xz भी — अंदर की हर फ़ाइल देखें और single फ़ाइलें या सब कुछ ZIP के रूप में download करें। कुछ अपलोड नहीं होता।",
+  "id": "/loona-dev-tools/hi/tar-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

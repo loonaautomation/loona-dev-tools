@@ -1,0 +1,29 @@
+{
+  "name": "Loona URL पार्सर ऑनलाइन मुफ़्त",
+  "short_name": "URL पार्सर ऑनलाइन मुफ़्त",
+  "description": "किसी URL को protocol, host, port, path, query parameters और hash में ऑनलाइन मुफ़्त parse करें — parameters edit करें और URL दोबारा बनाएँ। कोई साइन-अप नहीं, 100% आपके ब्राउज़र में चलता है।",
+  "id": "/loona-dev-tools/hi/url-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona GZIP कंप्रेसर ऑनलाइन मुफ़्त",
+  "short_name": "GZIP कंप्रेसर ऑनलाइन मुफ़्त",
+  "description": "अपने ब्राउज़र के built-in gzip engine से किसी भी एक file को .gz में compress करें। तुरंत पहले/बाद के sizes, कुछ भी upload नहीं होता - file आपके device पर ही compress होती है। Logs, CSVs, TAR files और बहुत कुछ के लिए काम करता है।",
+  "id": "/loona-dev-tools/hi/gzip-compressor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

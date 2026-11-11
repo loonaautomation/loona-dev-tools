@@ -1,0 +1,29 @@
+{
+  "name": "Loona Date से Unix Timestamp कन्वर्टर",
+  "short_name": "Date से Unix Timestamp",
+  "description": "एक date और time को seconds और milliseconds में उसके Unix timestamp में बदलें, UTC या आपके local timezone में।",
+  "id": "/loona-dev-tools/hi/date-to-unix-timestamp/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

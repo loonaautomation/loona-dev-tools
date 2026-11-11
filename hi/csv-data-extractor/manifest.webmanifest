@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV डेटा एक्सट्रैक्टर ऑनलाइन मुफ़्त",
+  "short_name": "CSV डेटा एक्सट्रैक्टर ऑनलाइन मुफ़्त",
+  "description": "गड़बड़ CSV फ़ाइलों या किसी भी text से email addresses, phone numbers और URLs ऑनलाइन मुफ़्त extract करें — साफ़, de-duplicated lists जिन्हें आप download कर सकते हैं। कोई साइन-अप नहीं, आपके ब्राउज़र में चलता है।",
+  "id": "/loona-dev-tools/hi/csv-data-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

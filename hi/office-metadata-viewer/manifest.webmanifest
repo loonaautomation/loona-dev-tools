@@ -1,0 +1,29 @@
+{
+  "name": "Loona Office दस्तावेज़ मेटाडेटा व्यूअर ऑनलाइन",
+  "short_name": "Office दस्तावेज़ मेटाडेटा",
+  "description": "Office document metadata ऑनलाइन मुफ़्त देखें — .docx, .xlsx और .pptx फ़ाइलों के लिए title, author, company, creation और modification dates, application और version। View-only, कुछ upload नहीं हुआ।",
+  "id": "/loona-dev-tools/hi/office-metadata-viewer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

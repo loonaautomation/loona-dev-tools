@@ -1,0 +1,29 @@
+{
+  "name": "Loona Text से Base32 एनकोडर",
+  "short_name": "Text से Base32 एनकोडर",
+  "description": "Text को Base32 (RFC 4648) में ऑनलाइन encode करें — case-insensitive encoding जो TOTP secrets और DNS-safe identifiers में उपयोग होती है।",
+  "id": "/loona-dev-tools/hi/text-to-base32/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

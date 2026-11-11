@@ -1,0 +1,29 @@
+{
+  "name": "Loona MIME Types संदर्भ (Content Types by",
+  "short_name": "MIME Types संदर्भ (Content",
+  "description": "फ़ाइल extension के अनुसार आम MIME types: documents, images, audio, video, archives, fonts और web formats अपने Content-Type values के साथ।",
+  "id": "/loona-dev-tools/hi/mime-types-reference/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

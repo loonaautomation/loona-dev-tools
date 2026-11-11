@@ -1,0 +1,29 @@
+{
+  "name": "Loona संख्याओं से Roman Numerals",
+  "short_name": "संख्याओं से Roman Numerals",
+  "description": "संख्याओं (1–3999) को standard subtractive रूप में Roman numerals में बदलें। मुफ़्त ऑनलाइन converter।",
+  "id": "/loona-dev-tools/hi/number-to-roman-numerals/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON फ़ॉर्मेटर ऑनलाइन मुफ़्त",
+  "short_name": "JSON फ़ॉर्मेटर ऑनलाइन मुफ़्त",
+  "description": "JSON को ऑनलाइन मुफ़्त format, validate और minify करें, किसी भी error की ठीक line और column के साथ। कोई साइन-अप नहीं, 100% आपके ब्राउज़र में चलता है।",
+  "id": "/loona-dev-tools/hi/json-formatter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

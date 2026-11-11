@@ -1,0 +1,29 @@
+{
+  "name": "Loona ISO से ZIP कन्वर्टर",
+  "short_name": "ISO से ZIP कन्वर्टर",
+  "description": "एक ISO disc image को उसकी files के ZIP में ऑनलाइन बदलें: libarchive ISO9660/Rock Ridge contents को locally पढ़ता है।",
+  "id": "/loona-dev-tools/hi/iso-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

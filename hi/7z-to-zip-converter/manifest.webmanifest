@@ -1,0 +1,29 @@
+{
+  "name": "Loona 7Z से ZIP कन्वर्टर ऑनलाइन मुफ़्त",
+  "short_name": "7Z से ZIP कन्वर्टर ऑनलाइन",
+  "description": "एक 7Z archive (.7z) को ठीक अपने ब्राउज़र में standard ZIP file में बदलें। Folder structure बरकरार, कुछ भी upload नहीं - और बनी हुई ZIP Windows, macOS, Android और iPhone पर natively खुलती है, 7-Zip की ज़रूरत नहीं।",
+  "id": "/loona-dev-tools/hi/7z-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
