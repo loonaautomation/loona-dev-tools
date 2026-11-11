@@ -1,0 +1,29 @@
+{
+  "name": "Loona Verificador de Densidade de Palavras-chave Online Grátis",
+  "short_name": "Verificador de Densidade de Palavras-chave",
+  "description": "Verifique a densidade de palavras-chave online grátis - principais palavras isoladas mais frases de 2-word e 3-word com contagens e densidade percentual, filtragem de stopwords incluída. Sem registro.",
+  "id": "/loona-dev-tools/pt-br/keyword-density-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

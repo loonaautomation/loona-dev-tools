@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gerador de CSS Clip-Path Online Grátis",
+  "short_name": "Gerador de CSS Clip-Path",
+  "description": "Gere CSS clip-path online grátis - predefinições de polígono como estrela, hexágono e seta com pontos ajustáveis, mais formas de círculo, elipse e inset, com uma pré-visualização ao vivo. Sem registro.",
+  "id": "/loona-dev-tools/pt-br/css-clip-path-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

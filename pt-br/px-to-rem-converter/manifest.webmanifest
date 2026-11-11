@@ -1,0 +1,29 @@
+{
+  "name": "Loona Conversor de Píxeis (px) para Rem",
+  "short_name": "Conversor de Pixels (px) para Rem",
+  "description": "Converta px para rem com um tamanho base de tipo de letra ajustável (predefinição 16px) e uma tabela de valores comuns.",
+  "id": "/loona-dev-tools/pt-br/px-to-rem-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

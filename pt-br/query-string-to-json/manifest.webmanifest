@@ -1,0 +1,29 @@
+{
+  "name": "Loona Conversor de Query String para JSON",
+  "short_name": "Conversor de Query String para JSON",
+  "description": "Analise uma query string de URL para JSON: a notação de parênteses retos torna-se objetos aninhados, chaves repetidas tornam-se arrays, valores tipados.",
+  "id": "/loona-dev-tools/pt-br/query-string-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

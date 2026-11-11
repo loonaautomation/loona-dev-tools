@@ -1,0 +1,29 @@
+{
+  "name": "Loona Conversor de JSON para TOML",
+  "short_name": "Conversor de JSON para TOML",
+  "description": "Converta JSON para TOML online: escalares primeiro, objetos aninhados como [tables], arrays de objetos como [[tables]].",
+  "id": "/loona-dev-tools/pt-br/json-to-toml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

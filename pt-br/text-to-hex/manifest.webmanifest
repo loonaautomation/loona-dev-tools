@@ -1,0 +1,29 @@
+{
+  "name": "Loona Conversor de Texto para Hex",
+  "short_name": "Conversor de Texto para Hex",
+  "description": "Converta texto para hexadecimal (bytes UTF-8) online, com ou sem espaços entre bytes. Conversor grátis para programadores.",
+  "id": "/loona-dev-tools/pt-br/text-to-hex/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
