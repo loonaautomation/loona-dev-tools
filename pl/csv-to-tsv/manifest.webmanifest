@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konwerter CSV na TSV",
+  "short_name": "Konwerter CSV na TSV",
+  "description": "Konwertuj CSV na TSV (wartości rozdzielane tabulatorami): pełna analiza pól w cudzysłowie, tabulatory jako separatory. Bezpłatny konwerter online.",
+  "id": "/loona-dev-tools/pl/csv-to-tsv/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

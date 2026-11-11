@@ -1,0 +1,29 @@
+{
+  "name": "Loona Koder i dekoder Base64 online za darmo",
+  "short_name": "Koder i dekoder Base64",
+  "description": "Koduj tekst lub pliki do Base64 i dekoduj Base64 z powrotem, bezpieczne UTF-8 dla każdego języka i emoji, z opcją bezpieczną dla URL. Za darmo, bez rejestracji, w przeglądarce.",
+  "id": "/loona-dev-tools/pl/base64-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konwerter ciągu zapytania na JSON",
+  "short_name": "Konwerter ciągu zapytania na JSON",
+  "description": "Analizuj ciąg zapytania URL na JSON: notacja nawiasowa staje się obiektami zagnieżdżonymi, powtarzane klucze stają się tablicami, wartości typowane.",
+  "id": "/loona-dev-tools/pl/query-string-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

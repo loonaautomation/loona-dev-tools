@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dev Tools",
+  "short_name": "Narzędzia deweloperskie",
+  "description": "Bezpłatne narzędzia deweloperskie online - formater JSON, koder Base64, generator UUID, generator hashy, dekoder JWT, konwerter znaczników czasu i nie tylko. W 100% za darmo, bez rejestracji, prywatnie.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-dev-tools/pl/"
+}

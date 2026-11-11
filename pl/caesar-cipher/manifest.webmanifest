@@ -1,0 +1,29 @@
+{
+  "name": "Loona Koder i dekoder szyfru Cezara",
+  "short_name": "Koder szyfru Cezara i",
+  "description": "Szyfr Cezara z dowolnym przesunięciem (1–25) i trybem dekodowania: klasyczny szyfr podstawieniowy Juliusza Cezara, online.",
+  "id": "/loona-dev-tools/pl/caesar-cipher/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

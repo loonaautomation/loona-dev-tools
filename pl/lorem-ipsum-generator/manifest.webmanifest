@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator Lorem Ipsum",
+  "short_name": "Generator Lorem Ipsum",
+  "description": "Generuj tekst zastępczy Lorem Ipsum: wybierz akapity, zdania lub słowa, z klasyczną linią otwierającą opcjonalnie.",
+  "id": "/loona-dev-tools/pl/lorem-ipsum-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

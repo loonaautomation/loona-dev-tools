@@ -1,0 +1,29 @@
+{
+  "name": "Loona Walidator adresów e-mail online za darmo",
+  "short_name": "Walidator adresów e-mail online za darmo",
+  "description": "Waliduj adresy e-mail online za darmo, pojedynczo lub hurtowo - pełne kontrole składni względem reguł adresów plus wykrywanie popularnych literówek w domenach, takich jak gmial.com. Bez rejestracji.",
+  "id": "/loona-dev-tools/pl/email-validator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

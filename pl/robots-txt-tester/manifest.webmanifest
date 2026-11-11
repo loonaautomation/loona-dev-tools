@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tester robots.txt online za darmo",
+  "short_name": "Tester robots.txt online za darmo",
+  "description": "Testuj robots.txt online za darmo - wklej plik, URL oraz user-agent i otrzymaj werdykt dozwolone lub zablokowane wraz z pokazaną dokładną pasującą regułą. Bez rejestracji, działa w przeglądarce.",
+  "id": "/loona-dev-tools/pl/robots-txt-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

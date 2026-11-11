@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tester wyrażeń regularnych online za darmo",
+  "short_name": "Tester wyrażeń regularnych (Regex) online za darmo",
+  "description": "Testuj wyrażenia regularne online za darmo z podświetlaniem dopasowań na żywo, szczegółami grup przechwytujących oraz liczbą dopasowań. Bez rejestracji, działa w 100% w przeglądarce.",
+  "id": "/loona-dev-tools/pl/regex-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

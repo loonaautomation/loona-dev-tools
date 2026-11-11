@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator podpisu e-mail w HTML online za darmo",
+  "short_name": "Podpis e-mail w HTML",
+  "description": "Utwórz profesjonalny podpis e-mail w HTML online za darmo - imię i nazwisko, stanowisko, firma, telefon, e-mail i strona internetowa w bezpiecznym dla e-maili HTML tabel, który działa w Gmailu i Outlooku. Bez rejestracji.",
+  "id": "/loona-dev-tools/pl/email-signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

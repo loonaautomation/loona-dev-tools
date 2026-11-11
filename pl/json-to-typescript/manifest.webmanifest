@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konwerter JSON na interfejs TypeScript",
+  "short_name": "JSON na interfejs TypeScript",
+  "description": "Konwertuj JSON na interfejsy TypeScript online: obiekty zagnieżdżone stają się nazwanymi interfejsami, tablice obiektów łączą swoje klucze z polami opcjonalnymi oznaczonymi.",
+  "id": "/loona-dev-tools/pl/json-to-typescript/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

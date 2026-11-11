@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tabela referencyjna encji HTML",
+  "short_name": "Tabela referencyjna encji HTML",
+  "description": "Tabela niezbędnych encji HTML: nazwana encja, znak, kod dziesiętny oraz uwagi o użyciu dla encji, których programiści naprawdę używają.",
+  "id": "/loona-dev-tools/pl/html-entities-reference/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

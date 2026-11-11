@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konwerter YAML na TOML",
+  "short_name": "Konwerter YAML na TOML",
+  "description": "Konwertuj YAML na TOML online (przez wspólny model danych): tabele, skalary i tablice odwzorowane na reguły układu TOML.",
+  "id": "/loona-dev-tools/pl/yaml-to-toml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

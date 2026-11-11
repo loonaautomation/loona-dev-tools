@@ -1,0 +1,29 @@
+{
+  "name": "Loona Generator hashy MD5",
+  "short_name": "Generator hashy MD5",
+  "description": "Obliczaj hashe MD5 tekstu lub plików online: 128-bitowe, 32 znaki szesnastkowe. Działa lokalnie w przeglądarce z WebCrypto/czystym JS — pliki nigdy nie są przesyłane.",
+  "id": "/loona-dev-tools/pl/md5-hash-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

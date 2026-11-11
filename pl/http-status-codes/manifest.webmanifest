@@ -1,0 +1,29 @@
+{
+  "name": "Loona Materiały referencyjne kodów statusu HTTP",
+  "short_name": "Materiały referencyjne kodów statusu HTTP",
+  "description": "Każdy popularny kod statusu HTTP wraz z jego znaczeniem: 2xx sukces, 3xx przekierowania, 4xx błędy klienta, 5xx błędy serwera — objaśnione zwyczajnie.",
+  "id": "/loona-dev-tools/pl/http-status-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

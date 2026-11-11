@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konwerter YAML na JSON online za darmo",
+  "short_name": "Konwerter YAML na JSON online",
+  "description": "Konwertuj YAML na JSON i JSON na YAML online za darmo. Obsługuje codzienny podzbiór: zagnieżdżone mapy, listy i skalary, z limitami określonymi szczerze. Bez rejestracji, działa w 100% w przeglądarce.",
+  "id": "/loona-dev-tools/pl/yaml-json-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

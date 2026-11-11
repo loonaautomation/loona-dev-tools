@@ -1,0 +1,29 @@
+{
+  "name": "Loona Konwerter binarny na tekst",
+  "short_name": "Konwerter binarny na tekst",
+  "description": "Dekoduj binarny (grupy 8 bitów, rozdzielone spacjami lub ciągłe) z powrotem na tekst UTF-8 online. Bezpłatny translator binarny.",
+  "id": "/loona-dev-tools/pl/binary-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
