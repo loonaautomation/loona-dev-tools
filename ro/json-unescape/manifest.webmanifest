@@ -1,0 +1,29 @@
+{
+  "name": "Dezescape pentru șiruri JSON Loona",
+  "short_name": "Dezescape pentru șiruri JSON",
+  "description": "Dezescapează o valoare șir JSON înapoi în text simplu: secvențele \\n, \\t, \\&quot;, \\\\ și \\uXXXX devin caractere reale.",
+  "id": "/loona-dev-tools/ro/json-unescape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

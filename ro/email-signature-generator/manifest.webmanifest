@@ -1,0 +1,29 @@
+{
+  "name": "Generator de semnături de e-mail HTML Loona online gratuit",
+  "short_name": "Semnătură de e-mail HTML",
+  "description": "Creează o semnătură de e-mail HTML profesională online gratuit - nume, funcție, companie, telefon, e-mail și site web în HTML de tabel sigur pentru e-mail, care funcționează în Gmail și Outlook. Fără înregistrare.",
+  "id": "/loona-dev-tools/ro/email-signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

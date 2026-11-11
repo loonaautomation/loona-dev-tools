@@ -1,0 +1,29 @@
+{
+  "name": "Tester JSONPath Loona",
+  "short_name": "Tester JSONPath",
+  "description": "Pagina de rezervă pentru utilizatorii a căror limbă nu corespunde niciuneia dintre versiunile tale - adesea un selector de limbă sau pagina ta globală de pornire.",
+  "id": "/loona-dev-tools/ro/jsonpath-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

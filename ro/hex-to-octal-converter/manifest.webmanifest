@@ -1,0 +1,29 @@
+{
+  "name": "Convertizor hexazecimal în octal Loona",
+  "short_name": "Convertizor hexazecimal în octal",
+  "description": "Convertește numere hexazecimale în octal online — precizie arbitrară (BigInt), numere negative acceptate.",
+  "id": "/loona-dev-tools/ro/hex-to-octal-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

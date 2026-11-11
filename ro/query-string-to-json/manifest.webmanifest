@@ -1,0 +1,29 @@
+{
+  "name": "Convertizor șir de interogare în JSON Loona",
+  "short_name": "Convertizor șir de interogare în JSON",
+  "description": "Analizează un șir de interogare URL în JSON: notația cu paranteze pătrate devine obiecte imbricate, cheile repetate devin tablouri, valori tipizate.",
+  "id": "/loona-dev-tools/ro/query-string-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

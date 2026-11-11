@@ -1,0 +1,29 @@
+{
+  "name": "Explicator de expresii Cron Loona",
+  "short_name": "Explicator de expresii Cron",
+  "description": "Explică expresii cron în limbaj simplu: lipește un program cron cu 5 câmpuri și citește când rulează, câmp cu câmp.",
+  "id": "/loona-dev-tools/ro/cron-expression-explainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

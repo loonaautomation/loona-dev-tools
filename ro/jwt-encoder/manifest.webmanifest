@@ -1,0 +1,29 @@
+{
+  "name": "Codificator JWT Loona (semnatar HS256)",
+  "short_name": "Codificator JWT (semnatar HS256)",
+  "description": "Creează și semnează tokenuri JSON Web cu HS256 în browserul tău: payload JSON plus un secret sau alg=none. Semnare WebCrypto.",
+  "id": "/loona-dev-tools/ro/jwt-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

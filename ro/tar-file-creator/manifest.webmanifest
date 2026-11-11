@@ -1,0 +1,29 @@
+{
+  "name": "Creator de fișiere TAR Loona online gratuit",
+  "short_name": "Creator de fișiere TAR online gratuit",
+  "description": "Creează o arhivă TAR (.tar) din mai multe fișiere direct în browserul tău - un scriitor ustar conform specificației, opțiune de dosar, marcaje temporale reale. Nimic nu este încărcat; tarball-ul este construit pe dispozitivul tău și se deschide cu orice instrument tar.",
+  "id": "/loona-dev-tools/ro/tar-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

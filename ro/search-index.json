@@ -1,0 +1,650 @@
+[
+ {
+  "n": "Bibliotecă de convertizoare și generatoare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/converter-library/",
+  "s": "Loona Dev Tools",
+  "d": "126 de convertizoare și generatoare noi: codificări, formate de date (JSON, YAML, XML, TOML, CSV), hash-uri, culori, arhive, generatoare de cod și referințe.",
+  "k": "converter generator library converter library 126 de convertizoare si generatoare noi codificari formate de date json yaml xml toml csv hash uri culori arhive generatoare de cod si referinte",
+  "p": 100,
+  "c": "Tool"
+ },
+ {
+  "n": "Formator JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/json-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Validează, printează frumos și minifică JSON, cu poziția exactă a oricărei erori.",
+  "k": "json formatter json formatter valideaza printeaza frumos si minifica json cu pozitia exacta a oricarei erori",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Codificator și decodificator Base64",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/base64-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Codifică text și fișiere în Base64 sau decodifică-le înapoi - sigur pentru UTF-8, opțiune sigură pentru URL inclusă.",
+  "k": "base64 encoder decoder base64 encoder codifica text si fisiere in base64 sau decodifica le inapoi sigur pentru utf 8 optiune sigura pentru url inclusa",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Codificator și decodificator URL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/url-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Codifică procentual text și URL-uri în siguranță, cu un tabel de defalcare pe caracter.",
+  "k": "url encoder decoder url encoder codifica procentual text si url uri in siguranta cu un tabel de defalcare pe caracter",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de UUID-uri",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/uuid-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Generează UUID-uri aleatorii versiunea 4 - unul câte unul sau în bloc până la 100.",
+  "k": "uuid generator uuid generator genereaza uuid uri aleatorii versiunea 4 unul cate unul sau in bloc pana la 100",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de hash-uri",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/hash-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Rezumate SHA-1, SHA-256, SHA-384 și SHA-512 ale oricărui text, calculate în browserul tău.",
+  "k": "hash generator hash generator rezumate sha 1 sha 256 sha 384 si sha 512 ale oricarui text calculate in browserul tau",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Decodor JWT",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/jwt-decoder/",
+  "s": "Loona Dev Tools",
+  "d": "Decodifică antetul și payload-ul unui JSON Web Token și citește expirarea lui în cuvinte simple.",
+  "k": "jwt decoder jwt decoder decodifica antetul si payload ul unui json web token si citeste expirarea lui in cuvinte simple",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertizor de marcaje temporale",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/timestamp-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Convertește marcaje temporale Unix în date umane și invers - UTC, ora ta locală și timp relativ.",
+  "k": "timestamp converter timestamp converter converteste marcaje temporale unix in date umane si invers utc ora ta locala si timp relativ",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Codificator de entități HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/html-entity-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Escapează textul în entități HTML (numite sau numerotate) și decodifică entitățile înapoi în text.",
+  "k": "html entity encoder html entity encoder escapeaza textul in entitati html numite sau numerotate si decodifica entitatile inapoi in text",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Minificator și înfrumusețator CSS",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/css-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Minifică CSS pentru a micșora dimensiunea fișierului sau înfrumusețează-l înapoi în cod lizibil, indentat.",
+  "k": "css minifier beautifier css minifier minifica css pentru a micsora dimensiunea fisierului sau infrumuseteaza l inapoi in cod lizibil indentat",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Minificator JavaScript",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/javascript-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Minifică JavaScript în mod conservator - comentarii și spații albe moarte eliminate, șiruri și expresii regulate păstrate intacte.",
+  "k": "javascript minifier javascript minifier minifica javascript in mod conservator comentarii si spatii albe moarte eliminate siruri si expresii regulate pastrate intacte",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Tester de expresii regulate",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/regex-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Testează expresii regulate în direct - potriviri evidențiate, grupuri de captură listate, numărătoare afișată.",
+  "k": "regex tester regex tester testeaza expresii regulate in direct potriviri evidentiate grupuri de captura listate numaratoare afisata",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Verificator de diferențe",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/diff-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Compară două texte linie cu linie - linii adăugate și eliminate evidențiate, cu un rezumat al modificărilor.",
+  "k": "diff checker diff checker compara doua texte linie cu linie linii adaugate si eliminate evidentiate cu un rezumat al modificarilor",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertizor JSON în CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/json-to-csv-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Transformă un tablou JSON de obiecte într-un fișier CSV curat - uniunea tuturor cheilor, ghilimele adecvate, un clic.",
+  "k": "json to csv converter json to csv converter transforma un tablou json de obiecte intr un fisier csv curat uniunea tuturor cheilor ghilimele adecvate un clic",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertizor CSV în JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/csv-to-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Convertește CSV într-un tablou JSON de obiecte - un analizator real care gestionează virgule puse între ghilimele și ghilimele escapate.",
+  "k": "csv to json converter csv to json converter converteste csv intr un tablou json de obiecte un analizator real care gestioneaza virgule puse intre ghilimele si ghilimele escapate",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertizor YAML ⇄ JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/yaml-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Convertește subsetul YAML comun (mapări, liste, scalari) în JSON și JSON înapoi în YAML - cu domeniul declarat sincer.",
+  "k": "yaml json converter yaml json converter converteste subsetul yaml comun mapari liste scalari in json si json inapoi in yaml cu domeniul declarat sincer",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Formator SQL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/sql-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Formatează SQL cu cuvinte-cheie cu majuscule și fiecare clauză majoră pe linia ei - interogări lizibile dintr-un clic.",
+  "k": "sql formatter sql formatter formateaza sql cu cuvinte cheie cu majuscule si fiecare clauza majora pe linia ei interogari lizibile dintr un clic",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertizor de baze numerice",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/number-base-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Convertește între binar, octal, zecimal și hex cu precizie completă de întregi mari - fără limita 2^53.",
+  "k": "number base converter number base converter converteste intre binar octal zecimal si hex cu precizie completa de intregi mari fara limita 2 53",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Calculator Chmod",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/chmod-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "Bifează casetele citire/scriere/executare pentru proprietar, grup și alții - obține instantaneu permisiunea octală și simbolică.",
+  "k": "chmod calculator chmod calculator bifeaza casetele citire scriere executare pentru proprietar grup si altii obtine instantaneu permisiunea octala si simbolica",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Verificator de putere a parolei",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/password-strength-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Vezi o estimare a entropiei parolei în biți, ce o slăbește și cât ar dura un atac offline rapid.",
+  "k": "password strength checker password strength checker vezi o estimare a entropiei parolei in biti ce o slabeste si cat ar dura un atac offline rapid",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de expresii Cron",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/cron-expression-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Construiește o expresie cron cu 5 câmpuri din meniuri simple și primește orice expresie cron explicată în limbaj simplu.",
+  "k": "cron expression generator cron expression generator construieste o expresie cron cu 5 campuri din meniuri simple si primeste orice expresie cron explicata in limbaj simplu",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Analizator și constructor URL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/url-parser/",
+  "s": "Loona Dev Tools",
+  "d": "Descompune un URL în protocol, gazdă, port, cale, parametri de interogare și hash - apoi editează parametrii și reconstruiește-l.",
+  "k": "url parser builder url parser descompune un url in protocol gazda port cale parametri de interogare si hash apoi editeaza parametrii si reconstruieste l",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Creator de fișiere ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/zip-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Împachetează mai multe fișiere într-o singură arhivă ZIP - construită în browserul tău, nimic încărcat.",
+  "k": "zip file creator zip file creator impacheteaza mai multe fisiere intr o singura arhiva zip construita in browserul tau nimic incarcat",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Extractor de fișiere Unzip",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/unzip-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Deschide un ZIP, vezi fiecare fișier din interior cu dimensiunea lui și extrage un fișier sau toate.",
+  "k": "unzip file extractor unzip file extractor deschide un zip vezi fiecare fisier din interior cu dimensiunea lui si extrage un fisier sau toate",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Extractor de fișiere RAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/rar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Deschide fișiere RAR (RAR4 și RAR5) în browserul tău - vezi fiecare fișier din interior, descarcă un fișier sau totul ca ZIP.",
+  "k": "rar file extractor rar file extractor deschide fisiere rar rar4 si rar5 in browserul tau vezi fiecare fisier din interior descarca un fisier sau totul ca zip",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Extractor de fișiere 7Z",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/7z-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Deschide arhive 7z în browserul tău - vezi conținutul și extrage fișiere individuale sau totul ca ZIP.",
+  "k": "7z file extractor 7z file extractor deschide arhive 7z in browserul tau vezi continutul si extrage fisiere individuale sau totul ca zip",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Extractor de fișiere TAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/tar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Deschide arhive .tar, .tar.bz2 și .tar.xz în browserul tău și extrage fișierele din interior - nimic încărcat.",
+  "k": "tar file extractor tar file extractor deschide arhive tar tar bz2 si tar xz in browserul tau si extrage fisierele din interior nimic incarcat",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Extractor de fișiere TAR.GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/tar-gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Deschide arhive .tar.gz și .tgz în browserul tău - răsfoiește fișierele din interior și extrage ce ai nevoie.",
+  "k": "tar gz file extractor tar gz file extractor deschide arhive tar gz si tgz in browserul tau rasfoieste fisierele din interior si extrage ce ai nevoie",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Extractor de fișiere GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Decomprimă un singur fișier .gz în browserul tău și descarcă originalul - jurnale, exporturi de date și dump-uri de baze de date.",
+  "k": "gz file extractor gz file extractor decomprima un singur fisier gz in browserul tau si descarca originalul jurnale exporturi de date si dump uri de baze de date",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Extractor de fișiere ISO",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/iso-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Deschide imagini de disc ISO în browserul tău, răsfoiește sistemul de fișiere stocat pe discul virtual și descarcă fișiere.",
+  "k": "iso file extractor iso file extractor deschide imagini de disc iso in browserul tau rasfoieste sistemul de fisiere stocat pe discul virtual si descarca fisiere",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Extractor de fișiere arhivă",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/archive-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Un deschizător universal de arhive pentru ZIP, RAR, 7Z, TAR, ISO și altele - formatul este detectat automat.",
+  "k": "archive file extractor archive file extractor un deschizator universal de arhive pentru zip rar 7z tar iso si altele formatul este detectat automat",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertizor RAR în ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/rar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Convertește o arhivă RAR într-un ZIP standard în browserul tău - structura folderelor păstrată, nimic încărcat.",
+  "k": "rar to zip converter rar to zip converter converteste o arhiva rar intr un zip standard in browserul tau structura folderelor pastrata nimic incarcat",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertizor 7Z în ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/7z-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Convertește o arhivă 7Z într-un ZIP care se deschide oriunde - fără 7-Zip necesar, nimic încărcat.",
+  "k": "7z to zip converter 7z to zip converter converteste o arhiva 7z intr un zip care se deschide oriunde fara 7 zip necesar nimic incarcat",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertizor TAR în ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/tar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Convertește o arhivă TAR de pe Linux sau Unix într-un ZIP care se deschide nativ pe Windows, macOS și telefoane.",
+  "k": "tar to zip converter tar to zip converter converteste o arhiva tar de pe linux sau unix intr un zip care se deschide nativ pe windows macos si telefoane",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertizor TAR.GZ în ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/tar-gz-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Convertește .tar.gz sau .tgz într-un singur ZIP - ambele straturi, gzip și tar, sunt desfăcute pe dispozitivul tău.",
+  "k": "tar gz to zip converter tar gz to zip converter converteste tar gz sau tgz intr un singur zip ambele straturi gzip si tar sunt desfacute pe dispozitivul tau",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertizor ZIP în TAR.GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/zip-to-tar-gz-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Convertește o arhivă ZIP într-un tarball .tar.gz - formatul pe care îl așteaptă serverele Linux, Docker și instrumentele de build.",
+  "k": "zip to tar gz converter zip to tar gz converter converteste o arhiva zip intr un tarball tar gz formatul pe care il asteapta serverele linux docker si instrumentele de build",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Creator de fișiere TAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/tar-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Creează o arhivă .tar corectă conform specificației din mai multe fișiere în browserul tău - se deschide cu orice instrument tar.",
+  "k": "tar file creator tar file creator creeaza o arhiva tar corecta conform specificatiei din mai multe fisiere in browserul tau se deschide cu orice instrument tar",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Compresor GZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/gzip-compressor/",
+  "s": "Loona Dev Tools",
+  "d": "Comprimă orice fișier într-un .gz cu motorul gzip încorporat al browserului tău - dimensiuni înainte/după instantanee.",
+  "k": "gzip compressor gzip compressor comprima orice fisier intr un gz cu motorul gzip incorporat al browserului tau dimensiuni inainte dupa instantanee",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Vizualizator și editor CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/csv-viewer-editor/",
+  "s": "Loona Dev Tools",
+  "d": "Încarcă CSV într-o grilă de tabel editabilă - editează celule, sortează coloane, adaugă sau elimină rânduri și coloane, apoi descarcă.",
+  "k": "csv viewer editor csv viewer editor incarca csv intr o grila de tabel editabila editeaza celule sorteaza coloane adauga sau elimina randuri si coloane apoi descarca",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertizor CSV în SQL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/csv-to-sql-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Transformă CSV în instrucțiuni CREATE TABLE plus INSERT cu tipuri deduse, pentru MySQL, PostgreSQL sau SQLite.",
+  "k": "csv to sql converter csv to sql converter transforma csv in instructiuni create table plus insert cu tipuri deduse pentru mysql postgresql sau sqlite",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertizor CSV în XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/csv-to-xml-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Convertește rânduri CSV în XML bine format cu elemente rădăcină și rând configurabile și escapare adecvată.",
+  "k": "csv to xml converter csv to xml converter converteste randuri csv in xml bine format cu elemente radacina si rand configurabile si escapare adecvata",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertizor CSV în tabel Markdown",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/csv-to-markdown-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Convertește CSV într-un tabel Markdown gata pentru GitHub - coloane numerice aliniate la dreapta, pipe-uri escapate.",
+  "k": "csv to markdown table converter csv to markdown converter converteste csv intr un tabel markdown gata pentru github coloane numerice aliniate la dreapta pipe uri escapate",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Deduplicare și curățare CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/csv-dedupe-cleaner/",
+  "s": "Loona Dev Tools",
+  "d": "Elimină rândurile CSV duplicate după rândul întreg sau după coloanele cheie, taie spațiile albe și elimină rândurile goale, cu numărătoare.",
+  "k": "csv dedupe cleaner csv dedupe cleaner elimina randurile csv duplicate dupa randul intreg sau dupa coloanele cheie taie spatiile albe si elimina randurile goale cu numaratoare",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Împărțire și îmbinare CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/csv-split-merge/",
+  "s": "Loona Dev Tools",
+  "d": "Împarte un CSV în părți după numărul de rânduri cu antetul repetat sau îmbină fișiere CSV care au același antet.",
+  "k": "csv split merge csv split merge imparte un csv in parti dupa numarul de randuri cu antetul repetat sau imbina fisiere csv care au acelasi antet",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de meta etichete",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/meta-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Generează un bloc meta HTML gata - titlu, descriere, robots, canonic - cu previzualizare SERP în direct.",
+  "k": "meta tag generator meta tag generator genereaza un bloc meta html gata titlu descriere robots canonic cu previzualizare serp in direct",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Open Graph și card Twitter",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/open-graph-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Construiește etichete OG și card Twitter cu o previzualizare socială în direct, ca linkurile partajate să arate corect.",
+  "k": "open graph twitter card generator open graph generator construieste etichete og si card twitter cu o previzualizare sociala in direct ca linkurile partajate sa arate corect",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator Robots.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/robots-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Construiește un robots.txt valid din presetări și reguli per agent, cu verificări de sănătate asupra rezultatului.",
+  "k": "robots txt generator robots txt generator construieste un robots txt valid din presetari si reguli per agent cu verificari de sanatate asupra rezultatului",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de sitemap XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/xml-sitemap-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Transformă o listă de URL-uri într-un sitemap.xml valid cu valori implicite lastmod, changefreq și prioritate.",
+  "k": "xml sitemap generator xml sitemap generator transforma o lista de url uri intr un sitemap xml valid cu valori implicite lastmod changefreq si prioritate",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Constructor de linkuri UTM",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/utm-link-builder/",
+  "s": "Loona Dev Tools",
+  "d": "Etichetează URL-urile de campanie cu parametri UTM - codificare corectă, parametri existenți păstrați, istoric local.",
+  "k": "utm link builder utm link builder eticheteaza url urile de campanie cu parametri utm codificare corecta parametri existenti pastrati istoric local",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Calculator de subrețele IP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/ip-subnet-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "CIDR IPv4 în rețea, difuzare, mască de rețea, wildcard, interval de gazde și numărătoare, plus o vizualizare de împărțire a subrețelelor.",
+  "k": "ip subnet calculator ip subnet calculator cidr ipv4 in retea difuzare masca de retea wildcard interval de gazde si numaratoare plus o vizualizare de impartire a subretelelor",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de scheme JSON-LD",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/json-ld-schema-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Generează date structurate schema.org - Article, Product, LocalBusiness, Event, Recipe și altele - ca JSON-LD valid.",
+  "k": "json ld schema generator json ld schema generator genereaza date structurate schema org article product localbusiness event recipe si altele ca json ld valid",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Previzualizare SERP Google",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/google-serp-preview/",
+  "s": "Loona Dev Tools",
+  "d": "Previzualizează titlul și descrierea ta ca un rezultat Google, cu avertismente de trunchiere după lățimea în pixeli, desktop și mobil.",
+  "k": "google serp preview google serp preview previzualizeaza titlul si descrierea ta ca un rezultat google cu avertismente de trunchiere dupa latimea in pixeli desktop si mobil",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "Verificator de densitate a cuvintelor-cheie",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/keyword-density-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Numără cuvinte singure plus expresii de 2 cuvinte și 3 cuvinte cu densitate procentuală și filtrare a cuvintelor oprite.",
+  "k": "keyword density checker keyword density checker numara cuvinte singure plus expresii de 2 cuvinte si 3 cuvinte cu densitate procentuala si filtrare a cuvintelor oprite",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de tabele HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/html-table-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Construiește tabele vizual într-o grilă și obține HTML semantic curat cu suport pentru thead, th și caption.",
+  "k": "html table generator html table generator construieste tabele vizual intr o grila si obtine html semantic curat cu suport pentru thead th si caption",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de semnături de e-mail HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/email-signature-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Creează o semnătură de e-mail profesională ca HTML de tabel sigur pentru e-mail, care funcționeză în Gmail și Outlook.",
+  "k": "html email signature generator email signature generator creeaza o semnatura de e mail profesionala ca html de tabel sigur pentru e mail care functioneza in gmail si outlook",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "Validator de e-mail",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/email-validator/",
+  "s": "Loona Dev Tools",
+  "d": "Verifică în bloc adrese de e-mail pentru erori de sintaxă și greșeli comune de domeniu precum gmial.com, cu sugestii.",
+  "k": "email validator email validator verifica in bloc adrese de e mail pentru erori de sintaxa si greseli comune de domeniu precum gmial com cu sugestii",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator CSS Clip-Path",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/css-clip-path-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Generează CSS clip-path - presetări de poligon cu puncte reglabile, plus forme cerc, elipsă și inset.",
+  "k": "css clip path generator css clip path generator genereaza css clip path presetari de poligon cu puncte reglabile plus forme cerc elipsa si inset",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de umbre CSS Box Shadow",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/css-box-shadow-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Construiește CSS box-shadow stratificat cu suport inset, control al culorii și opacității și previzualizare în direct.",
+  "k": "css box shadow generator css box shadow generator construieste css box shadow stratificat cu suport inset control al culorii si opacitatii si previzualizare in direct",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "Formator și validator XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/xml-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Înfrumusețează, minifică și validează XML - verificări de bună formare cu etichete echilibrate și mesaje de eroare clare.",
+  "k": "xml formatter validator xml formatter infrumuseteaza minifica si valideaza xml verificari de buna formare cu etichete echilibrate si mesaje de eroare clare",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "Convertizor Markdown în HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/markdown-to-html-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Convertește Markdown-ul de zi cu zi în HTML curat cu previzualizare randată în direct - titluri, liste, cod și altele.",
+  "k": "markdown to html converter markdown to html converter converteste markdown ul de zi cu zi in html curat cu previzualizare randata in direct titluri liste cod si altele",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "Transpunere CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/csv-transpose/",
+  "s": "Loona Dev Tools",
+  "d": "Schimbă rândurile și coloanele CSV cu un analizator adecvat - transpunerea de două ori returnează originalul.",
+  "k": "csv transpose csv transpose schimba randurile si coloanele csv cu un analizator adecvat transpunerea de doua ori returneaza originalul",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "Unire CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/csv-join/",
+  "s": "Loona Dev Tools",
+  "d": "Îmbină două CSV-uri după o coloană cheie - unire interioară sau la stânga, chei duplicate gestionate ca în bazele de date.",
+  "k": "csv join csv join imbina doua csv uri dupa o coloana cheie unire interioara sau la stanga chei duplicate gestionate ca in bazele de date",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "Pivot CSV / Grupare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/csv-pivot-group-by/",
+  "s": "Loona Dev Tools",
+  "d": "Grupează rândurile CSV după o coloană cu suma, numărarea, media, minimul sau maximul unei coloane de valori.",
+  "k": "csv pivot group by csv pivot group by grupeaza randurile csv dupa o coloana cu suma numararea media minimul sau maximul unei coloane de valori",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "Diferențe CSV / Comparare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/csv-diff/",
+  "s": "Loona Dev Tools",
+  "d": "Compară două CSV-uri după coloana cheie - rânduri adăugate, eliminate și modificate, cu celulele exacte.",
+  "k": "csv diff compare csv diff compara doua csv uri dupa coloana cheie randuri adaugate eliminate si modificate cu celulele exacte",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "Extractor de date CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/csv-data-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Scoate e-mailuri, numere de telefon și URL-uri din CSV sau text dezordonat în liste curate, deduplicate.",
+  "k": "csv data extractor csv data extractor scoate e mailuri numere de telefon si url uri din csv sau text dezordonat in liste curate deduplicate",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "Profiler CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/csv-profiler/",
+  "s": "Loona Dev Tools",
+  "d": "Presupuneri de tip pe coloane, numărătoare de goale, numărătoare unice, min/max numeric și valori de top.",
+  "k": "csv profiler csv profiler presupuneri de tip pe coloane numaratoare de goale numaratoare unice min max numeric si valori de top",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "Tester Robots.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/robots-txt-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Testează un URL și un user-agent în raport cu regulile robots.txt - verdict plus regula exactă de potrivire.",
+  "k": "robots txt tester robots txt tester testeaza un url si un user agent in raport cu regulile robots txt verdict plus regula exacta de potrivire",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "Verificator de lizibilitate SEO",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/readability-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Șase formule de lizibilitate plus statistici de propoziții pentru textele web, încadrate pentru munca SEO.",
+  "k": "seo readability checker readability checker sase formule de lizibilitate plus statistici de propozitii pentru textele web incadrate pentru munca seo",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator llms.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/llms-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Construiește fișierul llms.txt orientat către AI - bloc de citat rezumat plus linkuri de pagini selectate în formatul specificației.",
+  "k": "llms txt generator llms txt generator construieste fisierul llms txt orientat catre ai bloc de citat rezumat plus linkuri de pagini selectate in formatul specificatiei",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "Generator de etichete hreflang",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/hreflang-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Construiește seturi de linkuri alternative hreflang cu x-default și verificări BCP 47 / URL absolut.",
+  "k": "hreflang tag generator hreflang tag generator construieste seturi de linkuri alternative hreflang cu x default si verificari bcp 47 url absolut",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "Vizualizator de metadate ale documentelor Office",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/office-metadata-viewer/",
+  "s": "Loona Dev Tools",
+  "d": "Citește proprietățile DOCX, XLSX și PPTX - titlu, autor, companie, date - doar vizualizare, pe dispozitiv.",
+  "k": "office document metadata viewer office metadata viewer citeste proprietatile docx xlsx si pptx titlu autor companie date doar vizualizare pe dispozitiv",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "Detector de tip de fișier",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ro/file-type-detector/",
+  "s": "Loona Dev Tools",
+  "d": "Detectează tipul real al unui fișier din octeții săi magici și avertizează când extensia nu este de acord.",
+  "k": "file type detector file type detector detecteaza tipul real al unui fisier din octetii sai magici si avertizeaza cand extensia nu este de acord",
+  "p": 171,
+  "c": "Tool"
+ }
+]

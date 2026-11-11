@@ -1,0 +1,29 @@
+{
+  "name": "Generator de scheme JSON-LD Loona online gratuit",
+  "short_name": "Generator de scheme JSON-LD",
+  "description": "Generează date structurate JSON-LD schema.org online gratuit - Article, LocalBusiness, Product, Event, Recipe, Person, Organization și WebSite - ca un bloc de script gata. Fără înregistrare.",
+  "id": "/loona-dev-tools/ro/json-ld-schema-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

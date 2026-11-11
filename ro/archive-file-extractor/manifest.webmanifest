@@ -1,0 +1,29 @@
+{
+  "name": "Extractor de fișiere arhivă Loona online gratuit",
+  "short_name": "Extractor de fișiere arhivă online",
+  "description": "Un deschizător universal de arhive: lasă orice fișier ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ sau ISO și extrage-i conținutul direct în browserul tău. Formatul este detectat automat; nimic nu este încărcat.",
+  "id": "/loona-dev-tools/ro/archive-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

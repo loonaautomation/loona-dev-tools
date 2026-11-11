@@ -1,0 +1,29 @@
+{
+  "name": "Codificator și decodificator Base64 Loona online gratuit",
+  "short_name": "Codificator și decodificator Base64",
+  "description": "Codifică text sau fișiere în Base64 și decodifică Base64 înapoi, sigur pentru UTF-8 pentru orice limbă și emoji, cu o opțiune sigură pentru URL. Gratuit, fără înregistrare, în browserul tău.",
+  "id": "/loona-dev-tools/ro/base64-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Creator de fișiere ZIP Loona online gratuit",
+  "short_name": "Creator de fișiere ZIP online gratuit",
+  "description": "Creează un fișier ZIP din mai multe fișiere chiar în browserul tău - adaugă fișiere, denumește arhiva și descarcă un singur .zip. Nimic nu este încărcat; totul rămâne pe dispozitivul tău.",
+  "id": "/loona-dev-tools/ro/zip-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

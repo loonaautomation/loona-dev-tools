@@ -1,0 +1,29 @@
+{
+  "name": "Pivot și grupare CSV Loona online gratuit",
+  "short_name": "Pivot CSV și grupare online",
+  "description": "Pivotează date CSV online gratuit - grupează rândurile după orice coloană și calculează suma, numărarea, media, minimul sau maximul unei coloane de valori. Fără înregistrare, rulează 100% în browserul tău.",
+  "id": "/loona-dev-tools/ro/csv-pivot-group-by/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

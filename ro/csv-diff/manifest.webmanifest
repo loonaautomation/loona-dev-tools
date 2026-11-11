@@ -1,0 +1,29 @@
+{
+  "name": "Diferențe și comparare CSV Loona online gratuit",
+  "short_name": "Diferențe și comparare CSV online gratuit",
+  "description": "Compară două fișiere CSV online gratuit - rânduri potrivite după o coloană cheie și clasificate ca adăugate, eliminate, modificate (cu celulele exacte) sau nemodificate. Fără înregistrare, rulează în browserul tău.",
+  "id": "/loona-dev-tools/ro/csv-diff/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

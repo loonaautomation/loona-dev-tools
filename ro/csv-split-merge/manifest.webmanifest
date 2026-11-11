@@ -1,0 +1,29 @@
+{
+  "name": "Împărțire și îmbinare CSV Loona online gratuit",
+  "short_name": "Împărțire și îmbinare CSV online gratuit",
+  "description": "Împarte un CSV în părți după numărul de rânduri sau îmbină mai multe fișiere CSV într-unul singur, online gratuit - anteturi gestionate corect, analiză CSV adecvată. Fără înregistrare, rulează 100% în browserul tău.",
+  "id": "/loona-dev-tools/ro/csv-split-merge/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

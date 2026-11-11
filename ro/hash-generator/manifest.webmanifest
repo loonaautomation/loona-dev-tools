@@ -1,0 +1,29 @@
+{
+  "name": "Generator de hash-uri Loona online gratuit",
+  "short_name": "Generator de hash-uri online gratuit",
+  "description": "Generează hash-uri SHA-1, SHA-256, SHA-384 și SHA-512 ale oricărui text online gratuit, calculate local în browserul tău. Fără înregistrare, nimic încărcat.",
+  "id": "/loona-dev-tools/ro/hash-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

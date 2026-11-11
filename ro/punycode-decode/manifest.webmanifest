@@ -1,0 +1,29 @@
+{
+  "name": "Decodor Punycode Loona (xn-- în domeniu Unicode)",
+  "short_name": "Decodor Punycode (xn-- în",
+  "description": "Decodifică domeniile punycode xn-- înapoi în forma lor Unicode — verifică ce spune cu adevărat un domeniu internaționalizat.",
+  "id": "/loona-dev-tools/ro/punycode-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

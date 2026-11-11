@@ -1,0 +1,29 @@
+{
+  "name": "Decodificare URL Loona (decodificare procentuală)",
+  "short_name": "Decodificare URL (decodificare procentuală)",
+  "description": "Decodifică URL-uri și șiruri de interogare codificate procentual înapoi în text lizibil, inclusiv secvențe UTF-8 și + ca spațiu. Decodor online gratuit.",
+  "id": "/loona-dev-tools/ro/url-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

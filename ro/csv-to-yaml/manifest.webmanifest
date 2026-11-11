@@ -1,0 +1,29 @@
+{
+  "name": "Convertizor CSV în YAML Loona",
+  "short_name": "Convertizor CSV în YAML",
+  "description": "Convertește tabele CSV în YAML: rândul antet devine chei, fiecare rând un element într-o listă YAML, numere tipizate.",
+  "id": "/loona-dev-tools/ro/csv-to-yaml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

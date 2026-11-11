@@ -1,0 +1,29 @@
+{
+  "name": "Generator de slug-uri Loona (creator de slug-uri URL)",
+  "short_name": "Generator de slug-uri (Slug URL",
+  "description": "Generează slug-uri URL curate din titluri: accente eliminate, litere mici, spații în cratime (sau underscore-uri). Creator de slug-uri gratuit.",
+  "id": "/loona-dev-tools/ro/slug-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

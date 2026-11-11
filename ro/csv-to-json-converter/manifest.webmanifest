@@ -1,0 +1,29 @@
+{
+  "name": "Convertizor CSV în JSON Loona online gratuit",
+  "short_name": "Convertizor CSV în JSON online",
+  "description": "Convertește CSV într-un tablou JSON de obiecte online gratuit, cu un analizator CSV adecvat care gestionează câmpuri puse între ghilimele, virgule în interiorul ghilimelelor și ghilimele escapate. Fără înregistrare, rulează 100% în browserul tău.",
+  "id": "/loona-dev-tools/ro/csv-to-json-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

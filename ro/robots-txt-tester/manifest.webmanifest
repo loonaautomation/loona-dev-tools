@@ -1,0 +1,29 @@
+{
+  "name": "Tester Robots.txt Loona online gratuit",
+  "short_name": "Tester Robots.txt online gratuit",
+  "description": "Testează un robots.txt online gratuit - lipește fișierul, un URL și un user-agent și obține un verdict permis sau blocat cu regula exactă de potrivire afișată. Fără înregistrare, rulează în browserul tău.",
+  "id": "/loona-dev-tools/ro/robots-txt-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

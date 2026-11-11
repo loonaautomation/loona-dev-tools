@@ -1,0 +1,29 @@
+{
+  "name": "Analizator de antet Cookie Loona",
+  "short_name": "Analizator de antet Cookie",
+  "description": "Analizează un antet Cookie într-o listă lizibilă: perechi nume = valoare, valori decodificate procentual afișate, numărătoare de cookie-uri.",
+  "id": "/loona-dev-tools/ro/cookie-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

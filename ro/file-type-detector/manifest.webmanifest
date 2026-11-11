@@ -1,0 +1,29 @@
+{
+  "name": "Detector de tip de fișier Loona online gratuit",
+  "short_name": "Detector de tip de fișier online gratuit",
+  "description": "Detectează tipul real al unui fișier online gratuit din semnătura antetului său cu octeți magici - PNG, PDF, ZIP, MP4, EXE și 30+ formate - și primește un avertisment când extensia nu este de acord. Nimic încărcat.",
+  "id": "/loona-dev-tools/ro/file-type-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

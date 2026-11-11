@@ -1,0 +1,29 @@
+{
+  "name": "Deduplicare și curățare CSV Loona online gratuit",
+  "short_name": "Deduplicare și curățare CSV online",
+  "description": "Elimină rândurile duplicate din CSV online gratuit - după rândul întreg sau după coloanele cheie - plus taie spațiile albe, elimină rândurile goale și normalizează sfârșiturile de linie, cu numărătoare înainte/după. Fără înregistrare.",
+  "id": "/loona-dev-tools/ro/csv-dedupe-cleaner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

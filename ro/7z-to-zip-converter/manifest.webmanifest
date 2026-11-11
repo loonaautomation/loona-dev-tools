@@ -1,0 +1,29 @@
+{
+  "name": "Convertizor 7Z în ZIP Loona online gratuit",
+  "short_name": "Convertizor 7Z în ZIP online",
+  "description": "Convertește o arhivă 7Z (.7z) într-un fișier ZIP standard direct în browserul tău. Structura dosarelor păstrată, nimic încărcat - iar ZIP-ul rezultat se deschide nativ pe Windows, macOS, Android și iPhone, fără să fie nevoie de 7-Zip.",
+  "id": "/loona-dev-tools/ro/7z-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

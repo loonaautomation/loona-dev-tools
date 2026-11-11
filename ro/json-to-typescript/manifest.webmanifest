@@ -1,0 +1,29 @@
+{
+  "name": "Convertizor JSON în interfață TypeScript Loona",
+  "short_name": "JSON în interfață TypeScript",
+  "description": "Convertește JSON în interfețe TypeScript online: obiectele imbricate devin interfețe numite, tablourile de obiecte își îmbină cheile cu câmpuri opționale marcate.",
+  "id": "/loona-dev-tools/ro/json-to-typescript/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
