@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base64 to Text Decoder",
+  "short_name": "Base64 to Text Decoder",
+  "description": "Decode Base64 back to readable text online. Handles standard and URL-safe alphabets, UTF-8 text in any language. Free and private.",
+  "id": "/loona-dev-tools/en-us/base64-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

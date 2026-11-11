@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML Table Generator - Build the Grid, Get Clean Table Code",
+  "short_name": "HTML Table Generator - Build the Grid, Get Clean Table Code",
+  "description": "Generate HTML tables online for free - set rows and columns, type into the grid, and get clean table HTML with thead, th and caption support plus a live preview. No sign-up.",
+  "id": "/loona-dev-tools/en-us/html-table-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

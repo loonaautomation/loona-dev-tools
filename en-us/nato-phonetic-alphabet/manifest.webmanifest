@@ -1,0 +1,29 @@
+{
+  "name": "Loona Text to NATO Phonetic Alphabet",
+  "short_name": "Text to NATO Phonetic Alphabet",
+  "description": "Spell text in the NATO phonetic alphabet: A = Alfa, B = Bravo... Includes digits. Used by aviation, military and support calls.",
+  "id": "/loona-dev-tools/en-us/nato-phonetic-alphabet/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona .env to JSON Converter",
+  "short_name": ".env to JSON Converter",
+  "description": "Parse a .env file into JSON: KEY=value lines, export prefixes, comments and quoted values handled.",
+  "id": "/loona-dev-tools/en-us/env-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

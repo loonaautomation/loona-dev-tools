@@ -1,0 +1,29 @@
+{
+  "name": "Loona URL Decoder (Percent Decoding)",
+  "short_name": "URL Decoder (Percent Decoding)",
+  "description": "Decode percent-encoded URLs and query strings back to readable text, including UTF-8 sequences and + as space. Free online decoder.",
+  "id": "/loona-dev-tools/en-us/url-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

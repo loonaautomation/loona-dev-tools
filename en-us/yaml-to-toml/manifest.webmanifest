@@ -1,0 +1,29 @@
+{
+  "name": "Loona YAML to TOML Converter",
+  "short_name": "YAML to TOML Converter",
+  "description": "Convert YAML to TOML online (via the shared data model): tables, scalars and arrays mapped to TOML layout rules.",
+  "id": "/loona-dev-tools/en-us/yaml-to-toml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Markdown to HTML Converter - Clean HTML From Your Markdown",
+  "short_name": "Markdown to HTML Converter - Clean HTML From Your Markdown",
+  "description": "Convert Markdown to HTML online for free - headings, bold, italic, links, images, lists, blockquotes, code blocks and more, with a live rendered preview. No sign-up.",
+  "id": "/loona-dev-tools/en-us/markdown-to-html-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

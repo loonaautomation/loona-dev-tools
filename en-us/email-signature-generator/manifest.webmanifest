@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML Email Signature Generator - Professional Sign-Offs That Survive Email Clients",
+  "short_name": "HTML Email Signature Generator - Professional Sign-Offs That Survive Email Clients",
+  "description": "Create a professional HTML email signature online for free - name, title, company, phone, email and website in email-safe table HTML that works in Gmail and Outlook. No sign-up.",
+  "id": "/loona-dev-tools/en-us/email-signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

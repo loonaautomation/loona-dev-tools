@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV to YAML Converter",
+  "short_name": "CSV to YAML Converter",
+  "description": "Convert CSV tables to YAML: header row becomes keys, each row an item in a YAML list, numbers typed.",
+  "id": "/loona-dev-tools/en-us/csv-to-yaml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
