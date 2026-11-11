@@ -1,0 +1,29 @@
+{
+  "name": "Loona Punycodeデコーダー（xn--からUnicodeドメインへ）",
+  "short_name": "Punycodeデコーダー（xn--から",
+  "description": "xn-- punycode ドメインを、そのUnicode形式にデコードして戻します — 国際化ドメインが本当は何と言っているかを確認します。",
+  "id": "/loona-dev-tools/ja/punycode-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

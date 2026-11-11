@@ -1,0 +1,29 @@
+{
+  "name": "Loona ピクセル（px）→Em変換ツール",
+  "short_name": "ピクセル（px）→Em変換ツール",
+  "description": "調整可能な基準フォントサイズ（デフォルト 16px）と一般的な値の表で、pxをemに変換します。",
+  "id": "/loona-dev-tools/ja/px-to-em-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

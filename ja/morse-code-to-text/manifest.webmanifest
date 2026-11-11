@@ -1,0 +1,29 @@
+{
+  "name": "Loona モールス符号→テキスト翻訳ツール",
+  "short_name": "モールス符号→テキスト翻訳ツール",
+  "description": "モールス符号をテキストにデコードして戻します：点とダッシュを貼り付け（文字はスペース区切り、単語の間には /）、メッセージを読みます。",
+  "id": "/loona-dev-tools/ja/morse-code-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

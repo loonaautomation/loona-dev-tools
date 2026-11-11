@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON→JSONスキーマ生成ツール",
+  "short_name": "JSON→JSONスキーマ生成ツール",
+  "description": "JSONサンプルからJSON Schema（ドラフト 2020-12）を生成します。型は推論され、オブジェクトのプロパティと必須キーが含まれます。",
+  "id": "/loona-dev-tools/ja/json-to-json-schema/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

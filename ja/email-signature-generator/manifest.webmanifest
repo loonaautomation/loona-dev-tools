@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTMLメール署名生成ツール 無料オンライン",
+  "short_name": "HTMLメール署名",
+  "description": "プロフェッショナルなHTMLメール署名を無料でオンライン作成 — 名前、役職、会社、電話、メール、ウェブサイトを、GmailとOutlookで動作するメール安全な表HTMLで。登録不要。",
+  "id": "/loona-dev-tools/ja/email-signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

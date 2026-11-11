@@ -1,0 +1,29 @@
+{
+  "name": "Loona メタタグ生成ツール 無料オンライン",
+  "short_name": "メタタグ生成ツール 無料オンライン",
+  "description": "HTMLメタタグを無料でオンライン生成できます。タイトル、説明、キーワード、作成者、robots、canonicalに、GoogleスタイルのSERPライブプレビューと文字数付きです。登録不要です。",
+  "id": "/loona-dev-tools/ja/meta-tag-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

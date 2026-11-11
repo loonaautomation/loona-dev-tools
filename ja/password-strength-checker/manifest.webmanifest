@@ -1,0 +1,29 @@
+{
+  "name": "Loona パスワード強度チェッカー 無料オンライン",
+  "short_name": "パスワード強度チェッカー",
+  "description": "パスワードの強度を無料でオンラインチェック。透明なエントロピー推定、具体的なフィードバック、解読時間の推定付き。パスワードがブラウザを離れることは決してありません — 何も送信も保存もされません。",
+  "id": "/loona-dev-tools/ja/password-strength-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

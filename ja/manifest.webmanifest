@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dev Tools",
+  "short_name": "開発ツール",
+  "description": "無料のオンライン開発者ツール。JSONフォーマッター、Base64エンコーダー、UUID生成ツール、ハッシュ生成ツール、JWTデコーダー、タイムスタンプ変換ツールなど。100%無料、登録不要、プライベートです。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-dev-tools/ja/"
+}

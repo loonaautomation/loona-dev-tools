@@ -1,0 +1,29 @@
+{
+  "name": "Loona 7Zファイル抽出ツール 無料オンライン",
+  "short_name": "7Zファイル抽出ツール 無料オンライン",
+  "description": "7zアーカイブをブラウザでそのまま開きます。内部のすべてのファイルを見て、個別のファイルまたはすべてをZIPとしてダウンロードしてください。何もアップロードされません。解凍はWebAssemblyエンジンであなたのデバイス上で行われます。",
+  "id": "/loona-dev-tools/ja/7z-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

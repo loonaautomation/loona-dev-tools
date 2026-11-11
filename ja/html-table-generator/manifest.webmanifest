@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML表生成ツール 無料オンライン",
+  "short_name": "HTML表生成ツール オンライン",
+  "description": "HTMLテーブルを無料でオンライン生成できます。行と列を設定し、グリッドに入力すると、thead、th、caption対応のきれいなテーブルHTMLとライブプレビューが得られます。登録不要です。",
+  "id": "/loona-dev-tools/ja/html-table-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

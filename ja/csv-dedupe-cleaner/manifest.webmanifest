@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV重複除去＆クリーナー 無料オンライン",
+  "short_name": "CSV重複削除＆クリーナー オンライン",
+  "description": "CSVから重複行を無料でオンライン除去します。行全体またはキー列で。さらに空白の整形、空行の除去、行末の正規化、前後の件数も。登録不要です。",
+  "id": "/loona-dev-tools/ja/csv-dedupe-cleaner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

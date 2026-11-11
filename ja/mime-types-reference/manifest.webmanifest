@@ -1,0 +1,29 @@
+{
+  "name": "Loona MIMEタイプリファレンス（Content Types by",
+  "short_name": "MIMEタイプリファレンス（Content",
+  "description": "ファイル拡張子ごとの一般的なMIMEタイプ：ドキュメント、画像、オーディオ、ビデオ、アーカイブ、フォント、ウェブ形式を、それぞれの Content-Type 値とともに。",
+  "id": "/loona-dev-tools/ja/mime-types-reference/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

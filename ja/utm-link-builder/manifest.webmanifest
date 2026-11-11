@@ -1,0 +1,29 @@
+{
+  "name": "Loona UTMリンクビルダー 無料オンライン",
+  "short_name": "UTMリンクビルダー 無料オンライン",
+  "description": "UTMタグ付きキャンペーンURLを無料でオンライン構築 — source、medium、campaign、term、content を正しいエンコーディングで追加し、既存のクエリパラメータは保持、保存された履歴付き。",
+  "id": "/loona-dev-tools/ja/utm-link-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

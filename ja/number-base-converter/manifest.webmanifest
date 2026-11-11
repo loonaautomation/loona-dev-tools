@@ -1,0 +1,29 @@
+{
+  "name": "Loona 進数変換ツール 無料オンライン",
+  "short_name": "進数変換ツール オンライン",
+  "description": "二進数、八進数、十進数、十六進数の間で数値を無料でオンライン変換。2^53 を超える値のための BigInt 精度と、桁ごとの検証付き。登録不要、ブラウザ内で100%動作します。",
+  "id": "/loona-dev-tools/ja/number-base-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

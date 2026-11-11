@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSVピボット＆グループ化 無料オンライン",
+  "short_name": "CSVピボット＆グループ化 オンライン",
+  "description": "CSVデータを無料でオンラインピボットします。任意の列で行をグループ化し、値列の合計、件数、平均、最小、最大を計算します。登録不要、ブラウザで100%動作します。",
+  "id": "/loona-dev-tools/ja/csv-pivot-group-by/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

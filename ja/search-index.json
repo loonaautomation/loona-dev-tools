@@ -1,0 +1,650 @@
+[
+ {
+  "n": "変換ツール＆生成ツールライブラリ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/converter-library/",
+  "s": "Loona Dev Tools",
+  "d": "126種類の新しい変換ツールと生成ツール：エンコーディング、データ形式（JSON、YAML、XML、TOML、CSV）、ハッシュ、カラー、アーカイブ、コード生成ツール、リファレンス。",
+  "k": "変換ツール＆生成ツールライブラリ converter & generator library 126種類の新しい変換ツールと生成ツール エンコーディング データ形式 json yaml xml toml csv ハッシュ カラー アーカイブ コード生成ツール リファレンス",
+  "p": 100,
+  "c": "Tool"
+ },
+ {
+  "n": "JSONフォーマッター",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/json-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "JSONを検証、整形、ミニファイします。エラーの正確な位置付きです。",
+  "k": "jsonフォーマッター json formatter jsonを検証 整形 ミニファイします エラーの正確な位置付きです",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Base64エンコーダー＆デコーダー",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/base64-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "テキストとファイルをBase64にエンコード、またはデコードして戻せます。UTF-8対応、URLセーフオプション付きです。",
+  "k": "base64エンコーダー＆デコーダー base64 encoder & decoder テキストとファイルをbase64にエンコード またはデコードして戻せます utf 8対応 urlセーフオプション付きです",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "URLエンコーダー＆デコーダー",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/url-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "文字ごとの内訳表付きで、テキストとURLを安全にパーセントエンコードします。",
+  "k": "urlエンコーダー＆デコーダー url encoder & decoder 文字ごとの内訳表付きで テキストとurlを安全にパーセントエンコードします",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "UUID生成ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/uuid-generator/",
+  "s": "Loona Dev Tools",
+  "d": "ランダムなバージョン4 UUIDを生成します。一つずつ、または最大100個まで一括で。",
+  "k": "uuid生成ツール uuid generator ランダムなバージョン4 uuidを生成します 一つずつ または最大100個まで一括で",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "ハッシュ生成ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/hash-generator/",
+  "s": "Loona Dev Tools",
+  "d": "あらゆるテキストのSHA-1、SHA-256、SHA-384、SHA-512ダイジェストを、ブラウザで計算します。",
+  "k": "ハッシュ生成ツール hash generator あらゆるテキストのsha 1 sha 256 sha 384 sha 512ダイジェストを ブラウザで計算します",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "JWTデコーダー",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/jwt-decoder/",
+  "s": "Loona Dev Tools",
+  "d": "JSON Web Token のヘッダーとペイロードをデコードし、その有効期限を分かりやすい言葉で読みます。",
+  "k": "jwtデコーダー jwt decoder json web token のヘッダーとペイロードをデコードし その有効期限を分かりやすい言葉で読みます",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "タイムスタンプ変換ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/timestamp-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Unixタイムスタンプを人間の日付に変換し、戻します — UTC、あなたのローカル時間、相対時間。",
+  "k": "タイムスタンプ変換ツール timestamp converter unixタイムスタンプを人間の日付に変換し 戻します utc あなたのローカル時間 相対時間",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "HTMLエンティティエンコーダー",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/html-entity-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "テキストをHTMLエンティティ（名前付きまたは番号付き）にエスケープし、エンティティをテキストにデコードして戻します。",
+  "k": "htmlエンティティエンコーダー html entity encoder テキストをhtmlエンティティ 名前付きまたは番号付き にエスケープし エンティティをテキストにデコードして戻します",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "CSSミニファイア＆整形ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/css-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "ファイルサイズを縮小するためにCSSをミニファイするか、読みやすくインデントされたコードに整形してください。",
+  "k": "cssミニファイア＆整形ツール css minifier & beautifier ファイルサイズを縮小するためにcssをミニファイするか 読みやすくインデントされたコードに整形してください",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "JavaScriptミニファイア",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/javascript-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "JavaScriptを保守的にミニファイ — コメントと無駄な空白を取り除き、文字列と正規表現は無傷に保ちます。",
+  "k": "javascriptミニファイア javascript minifier javascriptを保守的にミニファイ コメントと無駄な空白を取り除き 文字列と正規表現は無傷に保ちます",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "正規表現テスター",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/regex-tester/",
+  "s": "Loona Dev Tools",
+  "d": "正規表現をライブでテストします。マッチはハイライトされ、キャプチャグループは一覧表示され、件数が表示されます。",
+  "k": "正規表現テスター regex tester 正規表現をライブでテストします マッチはハイライトされ キャプチャグループは一覧表示され 件数が表示されます",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "差分チェッカー",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/diff-checker/",
+  "s": "Loona Dev Tools",
+  "d": "二つのテキストを行ごとに比較 — 追加と削除された行をハイライトし、変更の要約付き。",
+  "k": "差分チェッカー diff checker 二つのテキストを行ごとに比較 追加と削除された行をハイライトし 変更の要約付き",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON→CSV変換ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/json-to-csv-converter/",
+  "s": "Loona Dev Tools",
+  "d": "オブジェクトのJSON配列をきれいなCSVファイルに変換します。すべてのキーの和集合、適切な引用、ワンクリックです。",
+  "k": "json→csv変換ツール json to csv converter オブジェクトのjson配列をきれいなcsvファイルに変換します すべてのキーの和集合 適切な引用 ワンクリックです",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV→JSON変換ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/csv-to-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "CSVをオブジェクトのJSON配列に変換 — クォートされたカンマとエスケープされたクォートを処理する、本物のパーサー。",
+  "k": "csv→json変換ツール csv to json converter csvをオブジェクトのjson配列に変換 クォートされたカンマとエスケープされたクォートを処理する 本物のパーサー",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "YAML ⇄ JSON変換ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/yaml-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "一般的なYAMLサブセット（マップ、リスト、スカラー）をJSONに変換し、JSONをYAMLに戻します — 正直に範囲を定めて。",
+  "k": "yaml ⇄ json変換ツール yaml ⇄ json converter 一般的なyamlサブセット マップ リスト スカラー をjsonに変換し jsonをyamlに戻します 正直に範囲を定めて",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "SQLフォーマッター",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/sql-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "大文字のキーワードと主要な句ごとの行でSQLをフォーマットします。ワンクリックで読みやすいクエリに。",
+  "k": "sqlフォーマッター sql formatter 大文字のキーワードと主要な句ごとの行でsqlをフォーマットします ワンクリックで読みやすいクエリに",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "進数変換ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/number-base-converter/",
+  "s": "Loona Dev Tools",
+  "d": "二進数、八進数、十進数、hexの間で、完全な大きな整数の精度で変換します — 2^53 の制限なし。",
+  "k": "進数変換ツール number base converter 二進数 八進数 十進数 hexの間で 完全な大きな整数の精度で変換します 2 53 の制限なし",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Chmod計算機",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/chmod-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "所有者、グループ、その他について、読み取り／書き込み／実行のボックスにチェックを入れてください。八進数と記号の権限が即座に得られます。",
+  "k": "chmod計算機 chmod calculator 所有者 グループ その他について 読み取り 書き込み 実行のボックスにチェックを入れてください 八進数と記号の権限が即座に得られます",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "パスワード強度チェッカー",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/password-strength-checker/",
+  "s": "Loona Dev Tools",
+  "d": "パスワードのエントロピー推定をビットで見て、何がそれを弱めるか、高速なオフライン攻撃にどれだけ時間がかかるかを確認してください。",
+  "k": "パスワード強度チェッカー password strength checker パスワードのエントロピー推定をビットで見て 何がそれを弱めるか 高速なオフライン攻撃にどれだけ時間がかかるかを確認してください",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Cron式生成ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/cron-expression-generator/",
+  "s": "Loona Dev Tools",
+  "d": "通常のドロップダウンから5フィールドのcron式を構築し、あらゆるcron式を分かりやすい日本語で説明してもらえます。",
+  "k": "cron式生成ツール cron expression generator 通常のドロップダウンから5フィールドのcron式を構築し あらゆるcron式を分かりやすい日本語で説明してもらえます",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "URLパーサー＆ビルダー",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/url-parser/",
+  "s": "Loona Dev Tools",
+  "d": "URLをプロトコル、ホスト、ポート、パス、クエリパラメータ、ハッシュに分解します — それからパラメータを編集して再構築します。",
+  "k": "urlパーサー＆ビルダー url parser & builder urlをプロトコル ホスト ポート パス クエリパラメータ ハッシュに分解します それからパラメータを編集して再構築します",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "ZIPファイル作成ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/zip-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "複数のファイルを一つのZIPアーカイブにまとめます — ブラウザ内で構築され、何もアップロードされません。",
+  "k": "zipファイル作成ツール zip file creator 複数のファイルを一つのzipアーカイブにまとめます ブラウザ内で構築され 何もアップロードされません",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "ZIP解凍ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/unzip-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "ZIPを開き、内部のすべてのファイルをサイズとともに見て、一つのファイルまたはすべてを解凍してください。",
+  "k": "zip解凍ツール unzip file extractor zipを開き 内部のすべてのファイルをサイズとともに見て 一つのファイルまたはすべてを解凍してください",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "RARファイル抽出ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/rar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "RARファイル（RAR4とRAR5）をブラウザで開きます。内部のすべてのファイルを見て、一つのファイルまたはすべてをZIPとしてダウンロードしてください。",
+  "k": "rarファイル抽出ツール rar file extractor rarファイル rar4とrar5 をブラウザで開きます 内部のすべてのファイルを見て 一つのファイルまたはすべてをzipとしてダウンロードしてください",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "7Zファイル抽出ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/7z-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "7zアーカイブをブラウザで開きます。内容を表示し、個別のファイルまたはすべてをZIPとして解凍してください。",
+  "k": "7zファイル抽出ツール 7z file extractor 7zアーカイブをブラウザで開きます 内容を表示し 個別のファイルまたはすべてをzipとして解凍してください",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "TARファイル抽出ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/tar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": ".tar、.tar.bz2、.tar.xzアーカイブをブラウザで開き、内部のファイルを解凍してください。何もアップロードされません。",
+  "k": "tarファイル抽出ツール tar file extractor tar tar bz2 tar xzアーカイブをブラウザで開き 内部のファイルを解凍してください 何もアップロードされません",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR.GZファイル抽出ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/tar-gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": ".tar.gzと.tgzアーカイブをブラウザで開き、内部のファイルを閲覧し、必要なものを解凍してください。",
+  "k": "tar.gzファイル抽出ツール tar.gz file extractor tar gzと tgzアーカイブをブラウザで開き 内部のファイルを閲覧し 必要なものを解凍してください",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "GZファイル抽出ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "単一の .gz ファイルをブラウザ内で展開し、元のファイルをダウンロード — ログ、データエクスポート、データベースダンプ。",
+  "k": "gzファイル抽出ツール gz file extractor 単一の gz ファイルをブラウザ内で展開し 元のファイルをダウンロード ログ データエクスポート データベースダンプ",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "ISOファイル抽出ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/iso-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "ISOディスクイメージをブラウザで開き、仮想ディスクに保存されたファイルシステムを閲覧し、ファイルをダウンロードしてください。",
+  "k": "isoファイル抽出ツール iso file extractor isoディスクイメージをブラウザで開き 仮想ディスクに保存されたファイルシステムを閲覧し ファイルをダウンロードしてください",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "アーカイブファイル抽出ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/archive-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "ZIP、RAR、7Z、TAR、ISOなどのための一つの汎用アーカイブオープナーです。形式は自動的に検出されます。",
+  "k": "アーカイブファイル抽出ツール archive file extractor zip rar 7z tar isoなどのための一つの汎用アーカイブオープナーです 形式は自動的に検出されます",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "RAR→ZIP変換ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/rar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "RARアーカイブを、ブラウザ内で標準のZIPに変換 — フォルダ構造は保持され、何もアップロードされません。",
+  "k": "rar→zip変換ツール rar to zip converter rarアーカイブを ブラウザ内で標準のzipに変換 フォルダ構造は保持され 何もアップロードされません",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "7Z→ZIP変換ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/7z-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "7Zアーカイブを、どこでも開けるZIPに変換 — 7-Zip不要、何もアップロードされません。",
+  "k": "7z→zip変換ツール 7z to zip converter 7zアーカイブを どこでも開けるzipに変換 7 zip不要 何もアップロードされません",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR→ZIP変換ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/tar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "LinuxやUnixのTARアーカイブを、Windows、macOS、スマートフォンでネイティブに開けるZIPに変換します。",
+  "k": "tar→zip変換ツール tar to zip converter linuxやunixのtarアーカイブを windows macos スマートフォンでネイティブに開けるzipに変換します",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR.GZ→ZIP変換ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/tar-gz-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": ".tar.gz や .tgz を一つのZIPに変換 — gzipとtarの両方の層が、あなたのデバイス上でほどかれます。",
+  "k": "tar.gz→zip変換ツール tar.gz to zip converter tar gz や tgz を一つのzipに変換 gzipとtarの両方の層が あなたのデバイス上でほどかれます",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "ZIP→TAR.GZ変換ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/zip-to-tar-gz-converter/",
+  "s": "Loona Dev Tools",
+  "d": "ZIPアーカイブを .tar.gz tarball に変換 — Linuxサーバー、Docker、ビルドツールが想定する形式。",
+  "k": "zip→tar.gz変換ツール zip to tar.gz converter zipアーカイブを tar gz tarball に変換 linuxサーバー docker ビルドツールが想定する形式",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "TARファイル作成ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/tar-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "仕様に正しい .tar アーカイブを、複数のファイルからブラウザ内で作成 — どのtarツールでも開きます。",
+  "k": "tarファイル作成ツール tar file creator 仕様に正しい tar アーカイブを 複数のファイルからブラウザ内で作成 どのtarツールでも開きます",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "GZIPコンプレッサー",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/gzip-compressor/",
+  "s": "Loona Dev Tools",
+  "d": "ブラウザの標準gzipエンジンで、あらゆる単一ファイルを .gz に圧縮します — 変更前後のサイズを即座に表示。",
+  "k": "gzipコンプレッサー gzip compressor ブラウザの標準gzipエンジンで あらゆる単一ファイルを gz に圧縮します 変更前後のサイズを即座に表示",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "CSVビューア＆エディター",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/csv-viewer-editor/",
+  "s": "Loona Dev Tools",
+  "d": "CSVを編集可能な表グリッドに読み込みます。セルを編集し、列を並べ替え、行と列を追加または削除して、ダウンロードしてください。",
+  "k": "csvビューア＆エディター csv viewer & editor csvを編集可能な表グリッドに読み込みます セルを編集し 列を並べ替え 行と列を追加または削除して ダウンロードしてください",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV→SQL変換ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/csv-to-sql-converter/",
+  "s": "Loona Dev Tools",
+  "d": "CSVを、推論された型を持つCREATE TABLEとINSERTステートメントに変換します。MySQL、PostgreSQL、SQLite向けです。",
+  "k": "csv→sql変換ツール csv to sql converter csvを 推論された型を持つcreate tableとinsertステートメントに変換します mysql postgresql sqlite向けです",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV→XML変換ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/csv-to-xml-converter/",
+  "s": "Loona Dev Tools",
+  "d": "CSVの行を、設定可能なルート要素と行要素、そして適切なエスケープを備えた、整形式のXMLに変換します。",
+  "k": "csv→xml変換ツール csv to xml converter csvの行を 設定可能なルート要素と行要素 そして適切なエスケープを備えた 整形式のxmlに変換します",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV→Markdown表変換ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/csv-to-markdown-converter/",
+  "s": "Loona Dev Tools",
+  "d": "CSVをGitHub対応のMarkdown表に変換 — 数値の列は右揃え、パイプはエスケープされます。",
+  "k": "csv→markdown表変換ツール csv to markdown table converter csvをgithub対応のmarkdown表に変換 数値の列は右揃え パイプはエスケープされます",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV重複削除＆クリーナー",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/csv-dedupe-cleaner/",
+  "s": "Loona Dev Tools",
+  "d": "行全体またはキー列でCSVの重複行を除去し、空白を整え、空行を落とし、件数を表示します。",
+  "k": "csv重複削除＆クリーナー csv dedupe & cleaner 行全体またはキー列でcsvの重複行を除去し 空白を整え 空行を落とし 件数を表示します",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV分割＆結合",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/csv-split-merge/",
+  "s": "Loona Dev Tools",
+  "d": "ヘッダーを繰り返しながらCSVを行数で分割するか、ヘッダーを共有するCSVファイルを結合します。",
+  "k": "csv分割＆結合 csv split & merge ヘッダーを繰り返しながらcsvを行数で分割するか ヘッダーを共有するcsvファイルを結合します",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "メタタグ生成ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/meta-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "完成したHTMLメタブロック（タイトル、説明、robots、canonical）を、SERPライブプレビュー付きで生成します。",
+  "k": "メタタグ生成ツール meta tag generator 完成したhtmlメタブロック タイトル 説明 robots canonical を serpライブプレビュー付きで生成します",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Open Graph＆Twitterカード生成ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/open-graph-generator/",
+  "s": "Loona Dev Tools",
+  "d": "ライブのソーシャルカードプレビュー付きで OG と Twitter Card のタグを構築し、共有リンクが正しく見えるようにします。",
+  "k": "open graph＆twitterカード生成ツール open graph & twitter card generator ライブのソーシャルカードプレビュー付きで og と twitter card のタグを構築し 共有リンクが正しく見えるようにします",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Robots.txt生成ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/robots-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "プリセットとエージェントごとのルールから有効な robots.txt を構築し、出力にはサニティチェックが付きます。",
+  "k": "robots.txt生成ツール robots.txt generator プリセットとエージェントごとのルールから有効な robots txt を構築し 出力にはサニティチェックが付きます",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "XMLサイトマップ生成ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/xml-sitemap-generator/",
+  "s": "Loona Dev Tools",
+  "d": "URLのリストを、lastmod、changefreq、priorityのデフォルトを持つ有効なsitemap.xmlに変換します。",
+  "k": "xmlサイトマップ生成ツール xml sitemap generator urlのリストを lastmod changefreq priorityのデフォルトを持つ有効なsitemap xmlに変換します",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "UTMリンクビルダー",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/utm-link-builder/",
+  "s": "Loona Dev Tools",
+  "d": "キャンペーンURLにUTMパラメータでタグ付けします。正しいエンコーディング、既存のパラメータは保持、ローカル履歴。",
+  "k": "utmリンクビルダー utm link builder キャンペーンurlにutmパラメータでタグ付けします 正しいエンコーディング 既存のパラメータは保持 ローカル履歴",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "IPサブネット計算機",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/ip-subnet-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "IPv4 CIDRをネットワーク、ブロードキャスト、ネットマスク、ワイルドカード、ホスト範囲、件数に変換します。サブネット分割ビュー付きです。",
+  "k": "ipサブネット計算機 ip subnet calculator ipv4 cidrをネットワーク ブロードキャスト ネットマスク ワイルドカード ホスト範囲 件数に変換します サブネット分割ビュー付きです",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON-LDスキーマ生成ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/json-ld-schema-generator/",
+  "s": "Loona Dev Tools",
+  "d": "schema.org構造化データ（Article、Product、LocalBusiness、Event、Recipeなど）を、有効なJSON-LDとして生成します。",
+  "k": "json-ldスキーマ生成ツール json-ld schema generator schema org構造化データ article product localbusiness event recipeなど を 有効なjson ldとして生成します",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Google SERPプレビュー",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/google-serp-preview/",
+  "s": "Loona Dev Tools",
+  "d": "タイトルと説明をGoogleの結果としてプレビューできます。ピクセル幅の切り捨て警告付き、デスクトップとモバイル対応です。",
+  "k": "google serpプレビュー google serp preview タイトルと説明をgoogleの結果としてプレビューできます ピクセル幅の切り捨て警告付き デスクトップとモバイル対応です",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "キーワード密度チェッカー",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/keyword-density-checker/",
+  "s": "Loona Dev Tools",
+  "d": "単独の単語に加え、2語と3語のフレーズを、パーセント密度とストップワードフィルタリング付きで数えます。",
+  "k": "キーワード密度チェッカー keyword density checker 単独の単語に加え 2語と3語のフレーズを パーセント密度とストップワードフィルタリング付きで数えます",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML表生成ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/html-table-generator/",
+  "s": "Loona Dev Tools",
+  "d": "グリッドで表を視覚的に構築し、thead、th、caption 対応のきれいなセマンティックHTMLを得られます。",
+  "k": "html表生成ツール html table generator グリッドで表を視覚的に構築し thead th caption 対応のきれいなセマンティックhtmlを得られます",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "HTMLメール署名生成ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/email-signature-generator/",
+  "s": "Loona Dev Tools",
+  "d": "プロフェッショナルなメール署名を、GmailとOutlookで動作するメール安全な表HTMLとして作成します。",
+  "k": "htmlメール署名生成ツール html email signature generator プロフェッショナルなメール署名を gmailとoutlookで動作するメール安全な表htmlとして作成します",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "メールバリデーター",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/email-validator/",
+  "s": "Loona Dev Tools",
+  "d": "メールアドレスを一括でチェックし、構文エラーや gmial.com のような一般的なドメインのタイプミスを、提案付きで見つけます。",
+  "k": "メールバリデーター email validator メールアドレスを一括でチェックし 構文エラーや gmial com のような一般的なドメインのタイプミスを 提案付きで見つけます",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "CSSクリップパス生成ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/css-clip-path-generator/",
+  "s": "Loona Dev Tools",
+  "d": "clip-path CSSを生成します。調整可能なポイント付きポリゴンプリセットに加え、円、楕円、インセット形状があります。",
+  "k": "cssクリップパス生成ツール css clip-path generator clip path cssを生成します 調整可能なポイント付きポリゴンプリセットに加え 円 楕円 インセット形状があります",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "CSSボックスシャドウ生成ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/css-box-shadow-generator/",
+  "s": "Loona Dev Tools",
+  "d": "inset対応、色と不透明度のコントロール、ライブプレビューを備えた、レイヤー化された box-shadow CSSを構築します。",
+  "k": "cssボックスシャドウ生成ツール css box shadow generator inset対応 色と不透明度のコントロール ライブプレビューを備えた レイヤー化された box shadow cssを構築します",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "XMLフォーマッター＆バリデーター",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/xml-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "XMLを整形、ミニファイ、検証 — 明確なエラーメッセージを伴う、バランスの取れたタグの整形式チェック。",
+  "k": "xmlフォーマッター＆バリデーター xml formatter & validator xmlを整形 ミニファイ 検証 明確なエラーメッセージを伴う バランスの取れたタグの整形式チェック",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "Markdown→HTML変換ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/markdown-to-html-converter/",
+  "s": "Loona Dev Tools",
+  "d": "日常のMarkdownを、レンダリングされたライブプレビュー付きできれいなHTMLに変換 — 見出し、リスト、コードなど。",
+  "k": "markdown→html変換ツール markdown to html converter 日常のmarkdownを レンダリングされたライブプレビュー付きできれいなhtmlに変換 見出し リスト コードなど",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV行列入れ替え",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/csv-transpose/",
+  "s": "Loona Dev Tools",
+  "d": "適切なパーサーでCSVの行と列を入れ替えます。二回転置すると元に戻ります。",
+  "k": "csv行列入れ替え csv transpose 適切なパーサーでcsvの行と列を入れ替えます 二回転置すると元に戻ります",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV結合ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/csv-join/",
+  "s": "Loona Dev Tools",
+  "d": "キー列で二つのCSVを結合します。内部結合または左結合、重複キーはデータベース方式で処理します。",
+  "k": "csv結合ツール csv join キー列で二つのcsvを結合します 内部結合または左結合 重複キーはデータベース方式で処理します",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "CSVピボット／グループ化",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/csv-pivot-group-by/",
+  "s": "Loona Dev Tools",
+  "d": "値列の合計、件数、平均、最小、最大で、CSV行を列ごとにグループ化します。",
+  "k": "csvピボット／グループ化 csv pivot / group-by 値列の合計 件数 平均 最小 最大で csv行を列ごとにグループ化します",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV差分／比較",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/csv-diff/",
+  "s": "Loona Dev Tools",
+  "d": "キー列で二つのCSVを比較 — 追加、削除、変更された行を、正確なセルとともに。",
+  "k": "csv差分／比較 csv diff / compare キー列で二つのcsvを比較 追加 削除 変更された行を 正確なセルとともに",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "CSVデータ抽出ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/csv-data-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "乱れたCSVやテキストからメールアドレス、電話番号、URLを取り出し、きれいで重複除去されたリストにします。",
+  "k": "csvデータ抽出ツール csv data extractor 乱れたcsvやテキストからメールアドレス 電話番号 urlを取り出し きれいで重複除去されたリストにします",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "CSVプロファイラー",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/csv-profiler/",
+  "s": "Loona Dev Tools",
+  "d": "列ごとの型推測、空の件数、ユニーク件数、数値の最小／最大、上位値。",
+  "k": "csvプロファイラー csv profiler 列ごとの型推測 空の件数 ユニーク件数 数値の最小 最大 上位値",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "Robots.txtテスター",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/robots-txt-tester/",
+  "s": "Loona Dev Tools",
+  "d": "URLとユーザーエージェントをrobots.txtルールに対してテストします。判定と正確なマッチングルール。",
+  "k": "robots.txtテスター robots.txt tester urlとユーザーエージェントをrobots txtルールに対してテストします 判定と正確なマッチングルール",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "SEO読みやすさチェッカー",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/readability-checker/",
+  "s": "Loona Dev Tools",
+  "d": "ウェブコピーのための六つの読みやすさ公式と文の統計。SEOコンテンツ作業のために構成。",
+  "k": "seo読みやすさチェッカー seo readability checker ウェブコピーのための六つの読みやすさ公式と文の統計 seoコンテンツ作業のために構成",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "llms.txt生成ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/llms-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "AI向けの llms.txt ファイルを構築します — 要約の blockquote と、仕様形式で厳選されたページリンク。",
+  "k": "llms.txt生成ツール llms.txt generator ai向けの llms txt ファイルを構築します 要約の blockquote と 仕様形式で厳選されたページリンク",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "Hreflangタグ生成ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/hreflang-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "x-default と BCP 47／絶対URLチェックを備えた、hreflang代替リンクセットを構築します。",
+  "k": "hreflangタグ生成ツール hreflang tag generator x default と bcp 47 絶対urlチェックを備えた hreflang代替リンクセットを構築します",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "Officeドキュメントメタデータビューアー",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/office-metadata-viewer/",
+  "s": "Loona Dev Tools",
+  "d": "DOCX、XLSX、PPTXのプロパティ（タイトル、作成者、会社、日付）を読みます。表示のみ、デバイス上です。",
+  "k": "officeドキュメントメタデータビューアー office document metadata viewer docx xlsx pptxのプロパティ タイトル 作成者 会社 日付 を読みます 表示のみ デバイス上です",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "ファイルタイプ検出ツール",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/ja/file-type-detector/",
+  "s": "Loona Dev Tools",
+  "d": "ファイルの本当の種類を、そのマジックバイトから検出し、拡張子が一致しないときに警告します。",
+  "k": "ファイルタイプ検出ツール file type detector ファイルの本当の種類を そのマジックバイトから検出し 拡張子が一致しないときに警告します",
+  "p": 171,
+  "c": "Tool"
+ }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV差分＆比較 無料オンライン",
+  "short_name": "CSV差分＆比較 無料オンライン",
+  "description": "二つのCSVファイルを無料でオンライン比較 — 行はキー列でマッチされ、追加、削除、変更（正確なセル付き）、未変更に分類されます。登録不要、ブラウザ内で動作します。",
+  "id": "/loona-dev-tools/ja/csv-diff/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

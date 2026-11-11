@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base32→テキストデコーダー",
+  "short_name": "Base32→テキストデコーダー",
+  "description": "Base32（RFC 4648）をテキストにデコードして戻します — 大文字小文字を区別せず、パディングは任意。TOTPスタイルでエンコードされた文字列を復元します。",
+  "id": "/loona-dev-tools/ja/base32-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

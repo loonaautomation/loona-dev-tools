@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTMLエンティティエンコーダー＆デコーダー 無料オンライン",
+  "short_name": "HTMLエンティティエンコーダー＆デコーダー",
+  "description": "テキストをHTMLエンティティ（&amp;copy; のような名前付き、または &amp;#169; のような番号付き）にエンコードし、エンティティをプレーンテキストにデコードして戻せます。無料、登録不要、ブラウザで完結します。",
+  "id": "/loona-dev-tools/ja/html-entity-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

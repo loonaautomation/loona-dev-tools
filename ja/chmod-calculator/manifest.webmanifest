@@ -1,0 +1,29 @@
+{
+  "name": "Loona Chmod計算機 無料オンライン",
+  "short_name": "Chmod計算機 無料オンライン",
+  "description": "chmod権限を無料でオンライン計算：チェックボックスから八進数（755）と記号表記（rwxr-xr-x）へ、そして八進数から権限へ戻します。登録不要、ブラウザ内で100%動作します。",
+  "id": "/loona-dev-tools/ja/chmod-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

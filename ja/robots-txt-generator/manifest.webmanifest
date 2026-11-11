@@ -1,0 +1,29 @@
+{
+  "name": "Loona Robots.txt生成ツール 無料オンライン",
+  "short_name": "Robots.txt生成ツール オンライン",
+  "description": "有効なrobots.txtを無料でオンライン生成します。プリセット、エージェントごとの許可・拒否ルール、サイトマップ行、組み込みの構文チェック付きです。登録不要、ブラウザで動作します。",
+  "id": "/loona-dev-tools/ja/robots-txt-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

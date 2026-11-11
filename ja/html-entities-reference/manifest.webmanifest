@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTMLエンティティ参照表",
+  "short_name": "HTMLエンティティ参照表",
+  "description": "必須のHTMLエンティティ表：開発者が実際に使うエンティティの名前付きエンティティ、文字、十進コード、使用上の注意。",
+  "id": "/loona-dev-tools/ja/html-entities-reference/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

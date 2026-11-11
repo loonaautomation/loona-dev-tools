@@ -1,0 +1,29 @@
+{
+  "name": "Loona キーワード密度チェッカー 無料オンライン",
+  "short_name": "キーワード密度チェッカー",
+  "description": "キーワード密度を無料でオンラインチェック — 上位の単独単語に加え、2語と3語のフレーズを、件数とパーセント密度とともに表示し、ストップワードのフィルタリングも含みます。登録不要。",
+  "id": "/loona-dev-tools/ja/keyword-density-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

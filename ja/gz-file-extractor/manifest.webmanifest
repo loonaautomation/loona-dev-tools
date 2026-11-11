@@ -1,0 +1,29 @@
+{
+  "name": "Loona GZファイル抽出ツール 無料オンライン",
+  "short_name": "GZファイル抽出ツール 無料オンライン",
+  "description": "単一の .gz ファイルをブラウザの中でそのまま展開し、元のファイルをダウンロード — ログ、データエクスポート、データベースダンプ。何もアップロードされません。ブラウザがネイティブに作業を行います。",
+  "id": "/loona-dev-tools/ja/gz-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

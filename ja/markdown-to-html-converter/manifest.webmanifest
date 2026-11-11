@@ -1,0 +1,29 @@
+{
+  "name": "Loona Markdown→HTML変換ツール 無料オンライン",
+  "short_name": "Markdown→HTML変換ツール",
+  "description": "MarkdownをHTMLに無料でオンライン変換 — 見出し、太字、斜体、リンク、画像、リスト、引用、コードブロックなど、レンダリングされたライブプレビュー付き。登録不要。",
+  "id": "/loona-dev-tools/ja/markdown-to-html-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

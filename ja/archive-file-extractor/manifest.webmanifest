@@ -1,0 +1,29 @@
+{
+  "name": "Loona アーカイブファイル抽出ツール 無料オンライン",
+  "short_name": "アーカイブファイル抽出ツール オンライン",
+  "description": "一つの汎用アーカイブオープナー：ZIP、RAR、7Z、TAR、TAR.GZ、TAR.BZ2、TAR.XZ、ISOファイルのいずれかをドロップし、ブラウザでそのまま内容を解凍してください。形式は自動的に検出されます。何もアップロードされません。",
+  "id": "/loona-dev-tools/ja/archive-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

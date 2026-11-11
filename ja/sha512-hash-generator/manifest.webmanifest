@@ -1,0 +1,29 @@
+{
+  "name": "Loona SHA-512ハッシュ生成ツール",
+  "short_name": "SHA-512ハッシュ生成ツール",
+  "description": "テキストやファイルの SHA-512 ハッシュをオンラインで計算：512ビット、128文字の十六進数。ブラウザ内で WebCrypto／純粋なJS によりローカルに動作します — ファイルがアップロードされることは決してありません。",
+  "id": "/loona-dev-tools/ja/sha512-hash-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

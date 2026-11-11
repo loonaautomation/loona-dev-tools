@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hex→テキスト変換ツール",
+  "short_name": "Hex→テキスト変換ツール",
+  "description": "十六進数をテキストに戻します：hexバイトを貼り付け（スペース区切りでも連続でも、0x があってもなくても）、UTF-8テキストを読みます。",
+  "id": "/loona-dev-tools/ja/hex-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

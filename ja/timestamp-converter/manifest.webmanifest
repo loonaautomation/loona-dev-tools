@@ -1,0 +1,29 @@
+{
+  "name": "Loona Unixタイムスタンプ変換ツール 無料オンライン",
+  "short_name": "Unixタイムスタンプ変換ツール",
+  "description": "Unixタイムスタンプ（秒またはミリ秒）を、UTCとあなたのローカル時間における人間の日付に変換し、日付をタイムスタンプに戻します。ライブの現在時刻。無料。",
+  "id": "/loona-dev-tools/ja/timestamp-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

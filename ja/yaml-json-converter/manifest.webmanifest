@@ -1,0 +1,29 @@
+{
+  "name": "Loona YAML→JSON変換ツール 無料オンライン",
+  "short_name": "YAML→JSON変換ツール オンライン",
+  "description": "YAMLをJSONに、JSONをYAMLに無料でオンライン変換。日常のサブセットに対応：ネストしたマップ、リスト、スカラー、制限は正直に明記。登録不要、ブラウザ内で100%動作します。",
+  "id": "/loona-dev-tools/ja/yaml-json-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

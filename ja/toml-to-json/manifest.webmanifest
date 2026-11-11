@@ -1,0 +1,29 @@
+{
+  "name": "Loona TOML→JSON変換ツール",
+  "short_name": "TOML→JSON変換ツール",
+  "description": "TOMLをJSONにオンライン変換：テーブル、配列テーブル、文字列、数値、真偽値、配列、日時（文字列として）。",
+  "id": "/loona-dev-tools/ja/toml-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 7Z→ZIP変換ツール 無料オンライン",
+  "short_name": "7Z→ZIP変換ツール オンライン",
+  "description": "7Zアーカイブ（.7z）を、ブラウザの中でそのまま標準のZIPファイルに変換します。フォルダ構造は保持され、何もアップロードされません — そして結果のZIPは、Windows、macOS、Android、iPhoneでネイティブに開きます。7-Zipは不要です。",
+  "id": "/loona-dev-tools/ja/7z-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

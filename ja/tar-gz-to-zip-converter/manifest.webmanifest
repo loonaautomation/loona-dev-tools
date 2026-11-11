@@ -1,0 +1,29 @@
+{
+  "name": "Loona TAR.GZ→ZIP変換ツール 無料オンライン",
+  "short_name": "TAR.GZ→ZIP変換ツール",
+  "description": "TAR.GZ（.tar.gz または .tgz）アーカイブを、ブラウザの中でそのままZIPファイルに変換します。両方の層 — gzipとtar — があなたのデバイス上でほどかれ、ファイルは一つのZIPとして詰め直されます。何もアップロードされません。",
+  "id": "/loona-dev-tools/ja/tar-gz-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

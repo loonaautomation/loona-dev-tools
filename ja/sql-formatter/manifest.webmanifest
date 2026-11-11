@@ -1,0 +1,29 @@
+{
+  "name": "Loona SQLフォーマッター 無料オンライン",
+  "short_name": "SQLフォーマッター 無料オンライン",
+  "description": "SQLを無料でオンラインフォーマットします。キーワードは大文字、SELECT、FROM、WHERE、JOIN句はそれぞれ独立した行に、文字列は保持されます。登録不要、ブラウザで100%動作します。",
+  "id": "/loona-dev-tools/ja/sql-formatter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona TARファイル作成ツール 無料オンライン",
+  "short_name": "TARファイル作成ツール 無料オンライン",
+  "description": "複数のファイルからTARアーカイブ（.tar）を、ブラウザの中でそのまま作成 — 仕様に正しい ustar ライター、フォルダオプション、本物のタイムスタンプ。何もアップロードされません。tarballはあなたのデバイス上で構築され、どのtarツールでも開きます。",
+  "id": "/loona-dev-tools/ja/tar-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

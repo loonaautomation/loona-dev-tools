@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV→XML変換ツール 無料オンライン",
+  "short_name": "CSV→XML変換ツール オンライン",
+  "description": "CSVをXMLに無料でオンライン変換。設定可能なルート要素と行要素の名前、適切なXMLエスケープ付き。登録不要、ブラウザ内で100%動作します。",
+  "id": "/loona-dev-tools/ja/csv-to-xml-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

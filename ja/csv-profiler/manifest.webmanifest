@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSVプロファイラー 無料オンライン",
+  "short_name": "CSVプロファイラー 無料オンライン",
+  "description": "CSVファイルを無料でオンラインプロファイリングします。列ごとの型推測、空セルの件数、ユニーク値の件数、数値の最小／最大、上位値で、使う前にファイルを理解できます。登録不要です。",
+  "id": "/loona-dev-tools/ja/csv-profiler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
