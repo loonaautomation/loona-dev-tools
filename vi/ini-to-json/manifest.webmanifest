@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ chuyển đổi INI sang JSON của Loona",
+  "short_name": "Công cụ chuyển đổi INI sang JSON",
+  "description": "Chuyển đổi các tệp cấu hình INI sang JSON: các phần trở thành đối tượng, các giá trị được định kiểu (số, boolean) ở nơi không mơ hồ.",
+  "id": "/loona-dev-tools/vi/ini-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

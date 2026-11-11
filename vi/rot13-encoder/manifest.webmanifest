@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ mã hóa & giải mã ROT13 của Loona",
+  "short_name": "Công cụ mã hóa & giải mã ROT13",
+  "description": "ROT13 bất kỳ văn bản nào: xoay các chữ cái 13 vị trí. Mã hóa và giải mã là cùng một phép toán. Kinh điển cho nội dung tiết lộ và câu đố.",
+  "id": "/loona-dev-tools/vi/rot13-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

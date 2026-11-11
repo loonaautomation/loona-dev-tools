@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ định dạng & kiểm tra XML của Loona trực tuyến miễn phí",
+  "short_name": "Công cụ định dạng & kiểm tra XML",
+  "description": "Định dạng, làm đẹp, rút gọn và kiểm tra hợp lệ XML trực tuyến miễn phí - kiểm tra tính hợp lệ cấu trúc thẻ cân bằng với thông báo lỗi rõ ràng, in đẹp có thụt lề. Không đăng ký.",
+  "id": "/loona-dev-tools/vi/xml-formatter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

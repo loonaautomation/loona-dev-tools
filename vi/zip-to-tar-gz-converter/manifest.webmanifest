@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ chuyển đổi ZIP sang TAR.GZ của Loona trực tuyến miễn phí",
+  "short_name": "Công cụ chuyển đổi ZIP sang TAR.GZ",
+  "description": "Chuyển đổi một tệp lưu trữ ZIP thành một tarball TAR.GZ (.tar.gz) ngay trong trình duyệt của bạn - định dạng mà các máy chủ Linux, Docker và công cụ xây dựng mong đợi. Cấu trúc thư mục được giữ nguyên, không có gì được tải lên.",
+  "id": "/loona-dev-tools/vi/zip-to-tar-gz-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

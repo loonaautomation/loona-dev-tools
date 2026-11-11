@@ -1,0 +1,29 @@
+{
+  "name": "Trình tạo Robots.txt của Loona trực tuyến miễn phí",
+  "short_name": "Trình tạo Robots.txt trực tuyến",
+  "description": "Tạo một robots.txt hợp lệ trực tuyến miễn phí - mẫu sẵn, quy tắc allow và disallow theo agent, dòng sitemap và kiểm tra cú pháp tích hợp. Không đăng ký, chạy trong trình duyệt của bạn.",
+  "id": "/loona-dev-tools/vi/robots-txt-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

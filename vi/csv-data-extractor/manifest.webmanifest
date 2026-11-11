@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ trích xuất dữ liệu CSV trực tuyến miễn phí của Loona",
+  "short_name": "Công cụ trích xuất dữ liệu CSV trực tuyến miễn phí",
+  "description": "Trích xuất địa chỉ email, số điện thoại và URL từ các tệp CSV lộn xộn hoặc bất kỳ văn bản nào trực tuyến miễn phí - các danh sách đã làm sạch, đã chống trùng lặp mà bạn có thể tải xuống. Không đăng ký, chạy trong trình duyệt của bạn.",
+  "id": "/loona-dev-tools/vi/csv-data-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

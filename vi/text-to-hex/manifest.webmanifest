@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ chuyển đổi văn bản sang Hex của Loona",
+  "short_name": "Công cụ chuyển đổi văn bản sang Hex",
+  "description": "Chuyển đổi văn bản sang thập lục phân (byte UTF-8) trực tuyến, có hoặc không có dấu cách giữa các byte. Công cụ chuyển đổi cho nhà phát triển miễn phí.",
+  "id": "/loona-dev-tools/vi/text-to-hex/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Trình tạo hash của Loona trực tuyến miễn phí",
+  "short_name": "Trình tạo hash trực tuyến miễn phí",
+  "description": "Tạo hash SHA-1, SHA-256, SHA-384 và SHA-512 của bất kỳ văn bản nào trực tuyến miễn phí, được tính cục bộ trong trình duyệt của bạn. Không đăng ký, không có gì được tải lên.",
+  "id": "/loona-dev-tools/vi/hash-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "CSV Dedupe & Cleaner trực tuyến miễn phí của Loona",
+  "short_name": "Chống trùng lặp & làm sạch CSV trực tuyến",
+  "description": "Loại bỏ các hàng trùng lặp khỏi CSV trực tuyến miễn phí - theo toàn bộ hàng hoặc theo cột khóa - cộng cắt khoảng trắng, loại bỏ các hàng trống và chuẩn hóa kết thúc dòng, với số lượng trước/sau. Không đăng ký.",
+  "id": "/loona-dev-tools/vi/csv-dedupe-cleaner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

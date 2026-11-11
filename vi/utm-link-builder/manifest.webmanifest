@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ tạo liên kết UTM của Loona trực tuyến miễn phí",
+  "short_name": "Công cụ tạo liên kết UTM trực tuyến miễn phí",
+  "description": "Tạo URL chiến dịch được gắn thẻ UTM trực tuyến miễn phí - source, medium, campaign, term và content được thêm với mã hóa đúng, các tham số truy vấn hiện có được giữ nguyên, cộng một lịch sử đã lưu.",
+  "id": "/loona-dev-tools/vi/utm-link-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

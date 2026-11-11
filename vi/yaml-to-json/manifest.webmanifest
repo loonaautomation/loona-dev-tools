@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ chuyển đổi YAML sang JSON của Loona",
+  "short_name": "Công cụ chuyển đổi YAML sang JSON",
+  "description": "Chuyển đổi YAML sang JSON trực tuyến: ánh xạ khối và chuỗi, vô hướng được trích dẫn và thuần, tập hợp dạng dòng. Tập con được ghi chép trung thực.",
+  "id": "/loona-dev-tools/vi/yaml-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

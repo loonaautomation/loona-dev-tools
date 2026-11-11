@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ chuyển đổi JSON sang TypeScript Interface của Loona",
+  "short_name": "JSON sang TypeScript Interface",
+  "description": "Chuyển đổi JSON sang interface TypeScript trực tuyến: các đối tượng lồng nhau trở thành interface có tên, mảng các đối tượng gộp các khóa của chúng với các trường tùy chọn được đánh dấu.",
+  "id": "/loona-dev-tools/vi/json-to-typescript/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

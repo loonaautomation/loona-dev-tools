@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ phân tích Cookie Header của Loona",
+  "short_name": "Công cụ phân tích Cookie Header",
+  "description": "Phân tích một header Cookie thành một danh sách dễ đọc: các cặp name = value, giá trị đã giải mã phần trăm được hiển thị, số lượng cookie.",
+  "id": "/loona-dev-tools/vi/cookie-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

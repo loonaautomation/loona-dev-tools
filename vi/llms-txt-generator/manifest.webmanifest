@@ -1,0 +1,29 @@
+{
+  "name": "Trình tạo llms.txt trực tuyến miễn phí của Loona",
+  "short_name": "Trình tạo llms.txt trực tuyến miễn phí",
+  "description": "Tạo một tệp llms.txt hợp lệ trực tuyến miễn phí - tên trang, trích dẫn khối tóm tắt, chi tiết và các liên kết trang được chọn lọc theo định dạng llms.txt được đề xuất cho các trình thu thập AI. Không đăng ký.",
+  "id": "/loona-dev-tools/vi/llms-txt-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

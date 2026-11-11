@@ -1,0 +1,29 @@
+{
+  "name": "Trình tạo SQL INSERT từ JSON của Loona",
+  "short_name": "Trình tạo SQL INSERT từ JSON",
+  "description": "Tạo các câu lệnh SQL INSERT từ một mảng JSON các đối tượng: chuỗi được escape, NULL và boolean được xử lý, tên bảng tùy chỉnh.",
+  "id": "/loona-dev-tools/vi/json-to-sql-insert/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

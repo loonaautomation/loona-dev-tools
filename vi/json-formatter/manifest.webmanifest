@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ định dạng JSON của Loona trực tuyến miễn phí",
+  "short_name": "Công cụ định dạng JSON trực tuyến miễn phí",
+  "description": "Định dạng, kiểm tra hợp lệ và rút gọn JSON trực tuyến miễn phí, với dòng và cột chính xác của mọi lỗi. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
+  "id": "/loona-dev-tools/vi/json-formatter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

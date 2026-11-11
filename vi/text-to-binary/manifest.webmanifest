@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ chuyển đổi văn bản sang nhị phân của Loona",
+  "short_name": "Công cụ chuyển đổi văn bản sang nhị phân",
+  "description": "Chuyển đổi văn bản sang nhị phân: mỗi ký tự thành nhóm nhị phân 8 bit của các byte UTF-8 của nó. Công cụ chuyển đổi trực tuyến miễn phí.",
+  "id": "/loona-dev-tools/vi/text-to-binary/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

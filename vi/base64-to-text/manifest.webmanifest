@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ giải mã Base64 sang văn bản của Loona",
+  "short_name": "Công cụ giải mã Base64 sang văn bản",
+  "description": "Giải mã Base64 trở lại thành văn bản dễ đọc trực tuyến. Xử lý các bảng chữ cái chuẩn và an toàn cho URL, văn bản UTF-8 bằng bất kỳ ngôn ngữ nào. Miễn phí và riêng tư.",
+  "id": "/loona-dev-tools/vi/base64-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

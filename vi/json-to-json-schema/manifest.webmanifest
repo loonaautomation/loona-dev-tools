@@ -1,0 +1,29 @@
+{
+  "name": "Trình tạo JSON Schema từ JSON của Loona",
+  "short_name": "Trình tạo JSON Schema từ JSON",
+  "description": "Tạo một JSON Schema (bản nháp 2020-12) từ một mẫu JSON: các kiểu được suy luận, thuộc tính đối tượng và khóa bắt buộc được bao gồm.",
+  "id": "/loona-dev-tools/vi/json-to-json-schema/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

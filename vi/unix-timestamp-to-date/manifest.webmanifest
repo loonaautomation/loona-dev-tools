@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ chuyển đổi Unix Timestamp sang ngày của Loona",
+  "short_name": "Unix Timestamp sang ngày",
+  "description": "Chuyển đổi một Unix timestamp (giây hoặc mili giây) thành ngày người đọc được: UTC, giờ địa phương của bạn, ISO 8601 và thời gian tương đối.",
+  "id": "/loona-dev-tools/vi/unix-timestamp-to-date/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

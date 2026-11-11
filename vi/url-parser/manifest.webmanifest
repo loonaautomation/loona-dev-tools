@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ phân tích URL của Loona trực tuyến miễn phí",
+  "short_name": "Công cụ phân tích URL trực tuyến miễn phí",
+  "description": "Phân tích bất kỳ URL nào trực tuyến miễn phí thành giao thức, host, cổng, đường dẫn, tham số truy vấn và hash - chỉnh sửa các tham số và tạo lại URL. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
+  "id": "/loona-dev-tools/vi/url-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

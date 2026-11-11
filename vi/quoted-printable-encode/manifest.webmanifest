@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ mã hóa Quoted-Printable của Loona",
+  "short_name": "Công cụ mã hóa Quoted-Printable",
+  "description": "Mã hóa văn bản thành quoted-printable (MIME) trực tuyến: các byte UTF-8 thành escape =XX, ngắt dòng mềm ở 76 ký tự, theo RFC 2045.",
+  "id": "/loona-dev-tools/vi/quoted-printable-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

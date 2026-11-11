@@ -1,0 +1,29 @@
+{
+  "name": "Thư viện chuyển đổi & tạo của Loona",
+  "short_name": "Thư viện chuyển đổi & tạo",
+  "description": "Chỉ mục của mọi công cụ chuyển đổi và trình tạo của Loona Developer Tools: mã hóa, định dạng dữ liệu, hash, màu sắc, tệp lưu trữ, trình tạo mã và tham khảo.",
+  "id": "/loona-dev-tools/vi/converter-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

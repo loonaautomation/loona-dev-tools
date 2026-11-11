@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ chuyển đổi JSON sang CSV của Loona trực tuyến miễn phí",
+  "short_name": "Công cụ chuyển đổi JSON sang CSV trực tuyến",
+  "description": "Chuyển đổi một mảng JSON các đối tượng sang CSV trực tuyến miễn phí: hợp của các khóa thành cột, trích dẫn và escape đúng, các giá trị lồng nhau được giữ dưới dạng JSON. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
+  "id": "/loona-dev-tools/vi/json-to-csv-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

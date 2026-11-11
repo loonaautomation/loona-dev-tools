@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ xem trước Google SERP của Loona trực tuyến miễn phí",
+  "short_name": "Công cụ xem trước Google SERP",
+  "description": "Xem trước tiêu đề trang và mô tả meta của bạn sẽ trông như thế nào trong kết quả tìm kiếm Google trực tuyến miễn phí, với chế độ xem trên máy tính và di động và cảnh báo cắt ngắn theo chiều rộng pixel. Không đăng ký.",
+  "id": "/loona-dev-tools/vi/google-serp-preview/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

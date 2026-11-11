@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ phân tích CSV của Loona trực tuyến miễn phí",
+  "short_name": "Công cụ phân tích CSV trực tuyến miễn phí",
+  "description": "Phân tích hồ sơ một tệp CSV trực tuyến miễn phí - dự đoán kiểu theo cột, số lượng ô trống, số lượng giá trị duy nhất, min/max số và các giá trị hàng đầu, để bạn hiểu một tệp trước khi dùng nó. Không đăng ký.",
+  "id": "/loona-dev-tools/vi/csv-profiler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

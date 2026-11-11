@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ chuyển đổi địa chỉ IP sang số nguyên của Loona",
+  "short_name": "Địa chỉ IP sang số nguyên",
+  "description": "Chuyển đổi một địa chỉ IPv4 thành dạng số nguyên 32 bit của nó (192.168.0.1 → 3232235521), dùng trong cơ sở dữ liệu và kiểm tra dải.",
+  "id": "/loona-dev-tools/vi/ip-to-integer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

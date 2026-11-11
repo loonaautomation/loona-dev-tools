@@ -1,0 +1,29 @@
+{
+  "name": "Trình tạo chữ ký email HTML của Loona trực tuyến miễn phí",
+  "short_name": "Chữ ký email HTML",
+  "description": "Tạo một chữ ký email HTML chuyên nghiệp trực tuyến miễn phí - tên, chức danh, công ty, điện thoại, email và trang web trong HTML bảng an toàn cho email hoạt động trong Gmail và Outlook. Không đăng ký.",
+  "id": "/loona-dev-tools/vi/email-signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

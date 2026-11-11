@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ chuyển đổi Base64 sang hình ảnh của Loona",
+  "short_name": "Công cụ chuyển đổi Base64 sang hình ảnh",
+  "description": "Giải mã một chuỗi Base64 hoặc data URI trở lại thành một hình ảnh xem được, tải xuống được. Loại MIME được phát hiện từ các byte.",
+  "id": "/loona-dev-tools/vi/base64-to-image/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

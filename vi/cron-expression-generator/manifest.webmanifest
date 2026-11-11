@@ -1,0 +1,29 @@
+{
+  "name": "Trình tạo biểu thức Cron của Loona trực tuyến miễn phí",
+  "short_name": "Trình tạo biểu thức Cron",
+  "description": "Tạo biểu thức cron từ các menu thả xuống và giải thích bất kỳ biểu thức cron 5 trường nào bằng tiếng Anh dễ hiểu, trực tuyến miễn phí. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
+  "id": "/loona-dev-tools/vi/cron-expression-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

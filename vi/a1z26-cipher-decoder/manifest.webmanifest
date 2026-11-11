@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ giải mã mật mã A1Z26 của Loona (Số sang chữ cái)",
+  "short_name": "Công cụ giải mã mật mã A1Z26 (Số",
+  "description": "Giải mã mã số A1Z26 trở lại thành chữ cái: 1=A, 2=B ... 26=Z. Phân tách bằng dấu gạch nối, dấu phẩy hoặc dấu cách.",
+  "id": "/loona-dev-tools/vi/a1z26-cipher-decoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

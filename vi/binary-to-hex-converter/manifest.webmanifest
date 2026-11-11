@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ chuyển đổi nhị phân sang thập lục phân của Loona",
+  "short_name": "Nhị phân sang thập lục phân",
+  "description": "Chuyển đổi số nhị phân sang thập lục phân trực tuyến — độ chính xác tùy ý (BigInt), hỗ trợ số âm.",
+  "id": "/loona-dev-tools/vi/binary-to-hex-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

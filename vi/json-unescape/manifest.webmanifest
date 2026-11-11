@@ -1,0 +1,29 @@
+{
+  "name": "Bỏ escape chuỗi JSON Loona",
+  "short_name": "Bỏ escape chuỗi JSON",
+  "description": "Unescape một giá trị chuỗi JSON trở lại thành văn bản thuần: \\n, \\t, \\&quot;, \\\\ và \\uXXXX trở thành các ký tự thực.",
+  "id": "/loona-dev-tools/vi/json-unescape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

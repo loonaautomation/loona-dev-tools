@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ kiểm tra độ dễ đọc SEO của Loona trực tuyến miễn phí",
+  "short_name": "Công cụ kiểm tra độ dễ đọc SEO",
+  "description": "Kiểm tra tính dễ đọc của nội dung cho SEO trực tuyến miễn phí - điểm Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG và ARI cộng thống kê độ dài câu cho văn bản web. Không đăng ký.",
+  "id": "/loona-dev-tools/vi/readability-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Trình tạo slug của Loona (Công cụ tạo slug URL)",
+  "short_name": "Trình tạo slug (URL Slug",
+  "description": "Tạo URL slug sạch từ tiêu đề: dấu được loại bỏ, chữ thường, dấu cách thành dấu gạch nối (hoặc dấu gạch dưới). Trình tạo slug miễn phí.",
+  "id": "/loona-dev-tools/vi/slug-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

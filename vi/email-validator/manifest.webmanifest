@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ kiểm tra email của Loona trực tuyến miễn phí",
+  "short_name": "Công cụ kiểm tra email trực tuyến miễn phí",
+  "description": "Kiểm tra hợp lệ địa chỉ email trực tuyến miễn phí, đơn lẻ hoặc hàng loạt - kiểm tra cú pháp đầy đủ theo các quy tắc địa chỉ cộng phát hiện các lỗi chính tả tên miền phổ biến như gmial.com. Không đăng ký.",
+  "id": "/loona-dev-tools/vi/email-validator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

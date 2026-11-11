@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ chuyển đổi chuỗi truy vấn sang JSON của Loona",
+  "short_name": "Công cụ chuyển đổi chuỗi truy vấn sang JSON",
+  "description": "Phân tích một chuỗi truy vấn URL thành JSON: ký hiệu ngoặc trở thành đối tượng lồng nhau, khóa lặp lại trở thành mảng, giá trị được định kiểu.",
+  "id": "/loona-dev-tools/vi/query-string-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

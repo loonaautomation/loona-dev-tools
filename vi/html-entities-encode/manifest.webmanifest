@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ mã hóa thực thể HTML của Loona",
+  "short_name": "Công cụ mã hóa thực thể HTML",
+  "description": "Mã hóa các ký tự đặc biệt thành thực thể HTML: dạng tên (&copy;), tham chiếu số thập phân hoặc hex. Escape markup, dấu ngoặc kép và văn bản không phải ASCII.",
+  "id": "/loona-dev-tools/vi/html-entities-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

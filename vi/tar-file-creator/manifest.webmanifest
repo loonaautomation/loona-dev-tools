@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ tạo tệp TAR của Loona trực tuyến miễn phí",
+  "short_name": "Công cụ tạo tệp TAR trực tuyến miễn phí",
+  "description": "Tạo một tệp lưu trữ TAR (.tar) từ nhiều tệp ngay trong trình duyệt của bạn - một trình ghi ustar đúng đặc tả, tùy chọn thư mục, timestamp thật. Không có gì được tải lên; tarball được tạo trên thiết bị của bạn và mở bằng bất kỳ công cụ tar nào.",
+  "id": "/loona-dev-tools/vi/tar-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

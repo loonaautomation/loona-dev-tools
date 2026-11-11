@@ -1,0 +1,650 @@
+[
+ {
+  "n": "Thư viện chuyển đổi & tạo",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/converter-library/",
+  "s": "Loona Dev Tools",
+  "d": "126 công cụ chuyển đổi và trình tạo mới: mã hóa, định dạng dữ liệu (JSON, YAML, XML, TOML, CSV), hash, màu sắc, tệp lưu trữ, trình tạo mã và tham khảo.",
+  "k": "converter generator library converter library 126 cong cu chuyen oi va trinh tao moi ma hoa inh dang du lieu json yaml xml toml csv hash mau sac tep luu tru trinh tao ma va tham khao",
+  "p": 100,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ định dạng JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/json-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Kiểm tra hợp lệ, in đẹp và rút gọn JSON, kèm vị trí chính xác của mọi lỗi.",
+  "k": "json formatter json formatter kiem tra hop le in ep va rut gon json kem vi tri chinh xac cua moi loi",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ mã hóa & giải mã Base64",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/base64-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Mã hóa văn bản và tệp sang Base64, hoặc giải mã trở lại - an toàn với UTF-8, bao gồm tùy chọn an toàn cho URL.",
+  "k": "base64 encoder decoder base64 encoder ma hoa van ban va tep sang base64 hoac giai ma tro lai an toan voi utf 8 bao gom tuy chon an toan cho url",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ mã hóa & giải mã URL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/url-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Mã hóa phần trăm văn bản và URL một cách an toàn, kèm bảng phân tích theo từng ký tự.",
+  "k": "url encoder decoder url encoder ma hoa phan tram van ban va url mot cach an toan kem bang phan tich theo tung ky tu",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo UUID",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/uuid-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Tạo UUID phiên bản 4 ngẫu nhiên - từng cái một hoặc hàng loạt tối đa 100.",
+  "k": "uuid generator uuid generator tao uuid phien ban 4 ngau nhien tung cai mot hoac hang loat toi a 100",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo hash",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/hash-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bản tóm tắt SHA-1, SHA-256, SHA-384 và SHA-512 của bất kỳ văn bản nào, được tính trong trình duyệt của bạn.",
+  "k": "hash generator hash generator ban tom tat sha 1 sha 256 sha 384 va sha 512 cua bat ky van ban nao uoc tinh trong trinh duyet cua ban",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ giải mã JWT",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/jwt-decoder/",
+  "s": "Loona Dev Tools",
+  "d": "Giải mã header và payload của JSON Web Token và đọc thời hạn của nó bằng lời dễ hiểu.",
+  "k": "jwt decoder jwt decoder giai ma header va payload cua json web token va oc thoi han cua no bang loi de hieu",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ chuyển đổi Timestamp",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/timestamp-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Chuyển đổi các dấu thời gian Unix thành ngày tháng con người và ngược lại - UTC, giờ địa phương của bạn và thời gian tương đối.",
+  "k": "timestamp converter timestamp converter chuyen oi cac dau thoi gian unix thanh ngay thang con nguoi va nguoc lai utc gio ia phuong cua ban va thoi gian tuong oi",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ mã hóa thực thể HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/html-entity-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Escape văn bản thành thực thể HTML (dạng tên hoặc dạng số) và giải mã thực thể trở lại thành văn bản.",
+  "k": "html entity encoder html entity encoder escape van ban thanh thuc the html dang ten hoac dang so va giai ma thuc the tro lai thanh van ban",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ rút gọn & làm đẹp CSS",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/css-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Rút gọn CSS để thu nhỏ kích thước tệp, hoặc làm đẹp nó trở lại thành mã dễ đọc, có thụt lề.",
+  "k": "css minifier beautifier css minifier rut gon css e thu nho kich thuoc tep hoac lam ep no tro lai thanh ma de oc co thut le",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ rút gọn JavaScript",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/javascript-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Rút gọn JavaScript một cách thận trọng - loại bỏ bình luận và khoảng trắng thừa, giữ nguyên chuỗi và regex.",
+  "k": "javascript minifier javascript minifier rut gon javascript mot cach than trong loai bo binh luan va khoang trang thua giu nguyen chuoi va regex",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ kiểm tra Regex",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/regex-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Kiểm tra biểu thức chính quy trực tiếp - kết quả khớp được tô sáng, nhóm bắt được liệt kê, số lượng hiển thị.",
+  "k": "regex tester regex tester kiem tra bieu thuc chinh quy truc tiep ket qua khop uoc to sang nhom bat uoc liet ke so luong hien thi",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ kiểm tra khác biệt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/diff-checker/",
+  "s": "Loona Dev Tools",
+  "d": "So sánh hai văn bản theo từng dòng - các dòng đã thêm và đã loại bỏ được tô sáng, kèm một bản tóm tắt thay đổi.",
+  "k": "diff checker diff checker so sanh hai van ban theo tung dong cac dong a them va a loai bo uoc to sang kem mot ban tom tat thay oi",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ chuyển đổi JSON sang CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/json-to-csv-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Biến một mảng JSON các đối tượng thành một tệp CSV sạch - hợp của mọi khóa, trích dẫn đúng cách, một nhấp chuột.",
+  "k": "json to csv converter json to csv converter bien mot mang json cac oi tuong thanh mot tep csv sach hop cua moi khoa trich dan ung cach mot nhap chuot",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ chuyển đổi CSV sang JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/csv-to-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Chuyển đổi CSV sang một mảng JSON các đối tượng - một trình phân tích thực thụ xử lý dấu phẩy trong ngoặc kép và dấu ngoặc kép đã escape.",
+  "k": "csv to json converter csv to json converter chuyen oi csv sang mot mang json cac oi tuong mot trinh phan tich thuc thu xu ly dau phay trong ngoac kep va dau ngoac kep a escape",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ chuyển đổi YAML ⇄ JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/yaml-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Chuyển đổi tập con YAML phổ biến (map, danh sách, vô hướng) sang JSON và JSON trở lại YAML - phạm vi trung thực.",
+  "k": "yaml json converter yaml json converter chuyen oi tap con yaml pho bien map danh sach vo huong sang json va json tro lai yaml pham vi trung thuc",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ định dạng SQL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/sql-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Định dạng SQL với từ khóa viết hoa và mỗi mệnh đề chính trên một dòng riêng - truy vấn dễ đọc trong một nhấp chuột.",
+  "k": "sql formatter sql formatter inh dang sql voi tu khoa viet hoa va moi menh e chinh tren mot dong rieng truy van de oc trong mot nhap chuot",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ chuyển đổi cơ số",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/number-base-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Chuyển đổi giữa nhị phân, bát phân, thập phân và hex với độ chính xác số nguyên lớn đầy đủ - không giới hạn 2^53.",
+  "k": "number base converter number base converter chuyen oi giua nhi phan bat phan thap phan va hex voi o chinh xac so nguyen lon ay u khong gioi han 2 53",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ tính Chmod",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/chmod-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "Đánh dấu các ô đọc/ghi/thực thi cho chủ sở hữu, nhóm và người khác - nhận quyền bát phân và tượng trưng tức thì.",
+  "k": "chmod calculator chmod calculator anh dau cac o oc ghi thuc thi cho chu so huu nhom va nguoi khac nhan quyen bat phan va tuong trung tuc thi",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ kiểm tra độ mạnh mật khẩu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/password-strength-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Xem ước tính entropy mật khẩu theo bit, điều gì làm yếu nó, và một cuộc tấn công ngoại tuyến nhanh sẽ mất bao lâu.",
+  "k": "password strength checker password strength checker xem uoc tinh entropy mat khau theo bit ieu gi lam yeu no va mot cuoc tan cong ngoai tuyen nhanh se mat bao lau",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo biểu thức Cron",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/cron-expression-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Tạo một biểu thức cron 5 trường từ các danh sách thả xuống đơn giản, và được giải thích mọi biểu thức cron bằng tiếng Anh dễ hiểu.",
+  "k": "cron expression generator cron expression generator tao mot bieu thuc cron 5 truong tu cac danh sach tha xuong on gian va uoc giai thich moi bieu thuc cron bang tieng anh de hieu",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ phân tích & tạo URL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/url-parser/",
+  "s": "Loona Dev Tools",
+  "d": "Phân tích một URL thành giao thức, host, cổng, đường dẫn, tham số truy vấn và hash - rồi chỉnh sửa các tham số và tạo lại nó.",
+  "k": "url parser builder url parser phan tich mot url thanh giao thuc host cong uong dan tham so truy van va hash roi chinh sua cac tham so va tao lai no",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ tạo tệp ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/zip-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Đóng gói nhiều tệp thành một tệp lưu trữ ZIP duy nhất - được tạo trong trình duyệt của bạn, không tải lên gì cả.",
+  "k": "zip file creator zip file creator ong goi nhieu tep thanh mot tep luu tru zip duy nhat uoc tao trong trinh duyet cua ban khong tai len gi ca",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ giải nén tệp Unzip",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/unzip-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Mở một ZIP, xem mọi tệp bên trong kèm kích thước của nó, và trích xuất một tệp hoặc tất cả.",
+  "k": "unzip file extractor unzip file extractor mo mot zip xem moi tep ben trong kem kich thuoc cua no va trich xuat mot tep hoac tat ca",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ giải nén tệp RAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/rar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Mở các tệp RAR (RAR4 và RAR5) trong trình duyệt của bạn - xem mọi tệp bên trong, tải xuống một tệp hoặc mọi thứ dưới dạng ZIP.",
+  "k": "rar file extractor rar file extractor mo cac tep rar rar4 va rar5 trong trinh duyet cua ban xem moi tep ben trong tai xuong mot tep hoac moi thu duoi dang zip",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ giải nén tệp 7Z",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/7z-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Mở các tệp lưu trữ 7z trong trình duyệt của bạn - xem nội dung và trích xuất từng tệp hoặc mọi thứ dưới dạng ZIP.",
+  "k": "7z file extractor 7z file extractor mo cac tep luu tru 7z trong trinh duyet cua ban xem noi dung va trich xuat tung tep hoac moi thu duoi dang zip",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ giải nén tệp TAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/tar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Mở các tệp lưu trữ .tar, .tar.bz2 và .tar.xz trong trình duyệt của bạn và trích xuất các tệp bên trong - không có gì được tải lên.",
+  "k": "tar file extractor tar file extractor mo cac tep luu tru tar tar bz2 va tar xz trong trinh duyet cua ban va trich xuat cac tep ben trong khong co gi uoc tai len",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ giải nén tệp TAR.GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/tar-gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Mở các tệp lưu trữ .tar.gz và .tgz trong trình duyệt của bạn - duyệt các tệp bên trong và trích xuất những gì bạn cần.",
+  "k": "tar gz file extractor tar gz file extractor mo cac tep luu tru tar gz va tgz trong trinh duyet cua ban duyet cac tep ben trong va trich xuat nhung gi ban can",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ giải nén tệp GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Giải nén một tệp .gz trong trình duyệt của bạn và tải xuống bản gốc - nhật ký, bản xuất dữ liệu và kết xuất cơ sở dữ liệu.",
+  "k": "gz file extractor gz file extractor giai nen mot tep gz trong trinh duyet cua ban va tai xuong ban goc nhat ky ban xuat du lieu va ket xuat co so du lieu",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ giải nén tệp ISO",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/iso-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Mở ảnh đĩa ISO trong trình duyệt của bạn, duyệt hệ thống tệp được lưu trên đĩa ảo và tải xuống các tệp.",
+  "k": "iso file extractor iso file extractor mo anh ia iso trong trinh duyet cua ban duyet he thong tep uoc luu tren ia ao va tai xuong cac tep",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ giải nén tệp lưu trữ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/archive-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Một công cụ mở tệp lưu trữ phổ quát cho ZIP, RAR, 7Z, TAR, ISO và hơn nữa - định dạng được phát hiện tự động.",
+  "k": "archive file extractor archive file extractor mot cong cu mo tep luu tru pho quat cho zip rar 7z tar iso va hon nua inh dang uoc phat hien tu ong",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ chuyển đổi RAR sang ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/rar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Chuyển đổi một tệp lưu trữ RAR thành ZIP chuẩn trong trình duyệt của bạn - cấu trúc thư mục được giữ nguyên, không tải lên gì cả.",
+  "k": "rar to zip converter rar to zip converter chuyen oi mot tep luu tru rar thanh zip chuan trong trinh duyet cua ban cau truc thu muc uoc giu nguyen khong tai len gi ca",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ chuyển đổi 7Z sang ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/7z-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Chuyển đổi một tệp lưu trữ 7Z thành ZIP mở được ở mọi nơi - không cần 7-Zip, không tải lên gì cả.",
+  "k": "7z to zip converter 7z to zip converter chuyen oi mot tep luu tru 7z thanh zip mo uoc o moi noi khong can 7 zip khong tai len gi ca",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ chuyển đổi TAR sang ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/tar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Chuyển đổi một tệp lưu trữ TAR từ Linux hoặc Unix thành ZIP mở được nguyên bản trên Windows, macOS và điện thoại.",
+  "k": "tar to zip converter tar to zip converter chuyen oi mot tep luu tru tar tu linux hoac unix thanh zip mo uoc nguyen ban tren windows macos va ien thoai",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ chuyển đổi TAR.GZ sang ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/tar-gz-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Chuyển đổi .tar.gz hoặc .tgz thành một ZIP - cả lớp gzip và lớp tar đều được mở trên thiết bị của bạn.",
+  "k": "tar gz to zip converter tar gz to zip converter chuyen oi tar gz hoac tgz thanh mot zip ca lop gzip va lop tar eu uoc mo tren thiet bi cua ban",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ chuyển đổi ZIP sang TAR.GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/zip-to-tar-gz-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Chuyển đổi một tệp lưu trữ ZIP thành tarball .tar.gz - định dạng mà máy chủ Linux, Docker và công cụ build mong đợi.",
+  "k": "zip to tar gz converter zip to tar gz converter chuyen oi mot tep luu tru zip thanh tarball tar gz inh dang ma may chu linux docker va cong cu build mong oi",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ tạo tệp TAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/tar-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Tạo một tệp lưu trữ .tar đúng đặc tả từ nhiều tệp trong trình duyệt của bạn - mở được bằng mọi công cụ tar.",
+  "k": "tar file creator tar file creator tao mot tep luu tru tar ung ac ta tu nhieu tep trong trinh duyet cua ban mo uoc bang moi cong cu tar",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ nén GZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/gzip-compressor/",
+  "s": "Loona Dev Tools",
+  "d": "Nén bất kỳ tệp đơn lẻ nào thành .gz bằng công cụ gzip tích hợp của trình duyệt của bạn - kích thước trước/sau tức thì.",
+  "k": "gzip compressor gzip compressor nen bat ky tep on le nao thanh gz bang cong cu gzip tich hop cua trinh duyet cua ban kich thuoc truoc sau tuc thi",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình xem & chỉnh sửa CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/csv-viewer-editor/",
+  "s": "Loona Dev Tools",
+  "d": "Tải CSV vào lưới bảng có thể chỉnh sửa - sửa ô, sắp xếp cột, thêm hoặc xóa hàng và cột, rồi tải xuống.",
+  "k": "csv viewer editor csv viewer editor tai csv vao luoi bang co the chinh sua sua o sap xep cot them hoac xoa hang va cot roi tai xuong",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ chuyển đổi CSV sang SQL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/csv-to-sql-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Biến CSV thành CREATE TABLE cộng các câu lệnh INSERT với kiểu suy luận, cho MySQL, PostgreSQL hoặc SQLite.",
+  "k": "csv to sql converter csv to sql converter bien csv thanh create table cong cac cau lenh insert voi kieu suy luan cho mysql postgresql hoac sqlite",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ chuyển đổi CSV sang XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/csv-to-xml-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Chuyển đổi hàng CSV thành XML hợp lệ với phần tử gốc và phần tử hàng có thể cấu hình và escape đúng cách.",
+  "k": "csv to xml converter csv to xml converter chuyen oi hang csv thanh xml hop le voi phan tu goc va phan tu hang co the cau hinh va escape ung cach",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ chuyển đổi CSV sang bảng Markdown",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/csv-to-markdown-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Chuyển đổi CSV sang bảng Markdown sẵn sàng cho GitHub - cột số căn phải, dấu sổ dọc được escape.",
+  "k": "csv to markdown table converter csv to markdown converter chuyen oi csv sang bang markdown san sang cho github cot so can phai dau so doc uoc escape",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Chống trùng lặp & làm sạch CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/csv-dedupe-cleaner/",
+  "s": "Loona Dev Tools",
+  "d": "Xóa các hàng CSV trùng lặp theo toàn bộ hàng hoặc cột khóa, cắt khoảng trắng và loại bỏ hàng trống, kèm số lượng.",
+  "k": "csv dedupe cleaner csv dedupe cleaner xoa cac hang csv trung lap theo toan bo hang hoac cot khoa cat khoang trang va loai bo hang trong kem so luong",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Chia & hợp nhất CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/csv-split-merge/",
+  "s": "Loona Dev Tools",
+  "d": "Chia một CSV thành các phần theo số hàng với hàng tiêu đề được lặp lại, hoặc hợp nhất các tệp CSV có cùng hàng tiêu đề.",
+  "k": "csv split merge csv split merge chia mot csv thanh cac phan theo so hang voi hang tieu e uoc lap lai hoac hop nhat cac tep csv co cung hang tieu e",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo thẻ meta",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/meta-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Tạo một khối meta HTML sẵn sàng - tiêu đề, mô tả, robots, canonical - kèm xem trước SERP trực tiếp.",
+  "k": "meta tag generator meta tag generator tao mot khoi meta html san sang tieu e mo ta robots canonical kem xem truoc serp truc tiep",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo Open Graph & thẻ Twitter",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/open-graph-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Tạo thẻ OG và thẻ Twitter kèm xem trước thẻ xã hội trực tiếp, để liên kết chia sẻ trông đúng ý.",
+  "k": "open graph twitter card generator open graph generator tao the og va the twitter kem xem truoc the xa hoi truc tiep e lien ket chia se trong ung y",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo Robots.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/robots-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Tạo một robots.txt hợp lệ từ các cài sẵn và quy tắc theo agent, kèm kiểm tra tính hợp lý trên đầu ra.",
+  "k": "robots txt generator robots txt generator tao mot robots txt hop le tu cac cai san va quy tac theo agent kem kiem tra tinh hop ly tren au ra",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo XML Sitemap",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/xml-sitemap-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Biến một danh sách URL thành một sitemap.xml hợp lệ với các giá trị mặc định lastmod, changefreq và priority.",
+  "k": "xml sitemap generator xml sitemap generator bien mot danh sach url thanh mot sitemap xml hop le voi cac gia tri mac inh lastmod changefreq va priority",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ tạo liên kết UTM",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/utm-link-builder/",
+  "s": "Loona Dev Tools",
+  "d": "Gắn thẻ URL chiến dịch bằng tham số UTM - mã hóa đúng, tham số hiện có được giữ nguyên, lịch sử cục bộ.",
+  "k": "utm link builder utm link builder gan the url chien dich bang tham so utm ma hoa ung tham so hien co uoc giu nguyen lich su cuc bo",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ tính IP Subnet",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/ip-subnet-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "CIDR IPv4 sang mạng, broadcast, netmask, wildcard, dải host và số lượng, cộng một dạng xem chia subnet.",
+  "k": "ip subnet calculator ip subnet calculator cidr ipv4 sang mang broadcast netmask wildcard dai host va so luong cong mot dang xem chia subnet",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo Schema JSON-LD",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/json-ld-schema-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Tạo dữ liệu có cấu trúc schema.org - Article, Product, LocalBusiness, Event, Recipe và hơn nữa - dưới dạng JSON-LD hợp lệ.",
+  "k": "json ld schema generator json ld schema generator tao du lieu co cau truc schema org article product localbusiness event recipe va hon nua duoi dang json ld hop le",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Xem trước Google SERP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/google-serp-preview/",
+  "s": "Loona Dev Tools",
+  "d": "Xem trước tiêu đề và mô tả của bạn dưới dạng kết quả Google, với cảnh báo cắt ngắn theo chiều rộng pixel, trên máy tính và di động.",
+  "k": "google serp preview google serp preview xem truoc tieu e va mo ta cua ban duoi dang ket qua google voi canh bao cat ngan theo chieu rong pixel tren may tinh va di ong",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ kiểm tra mật độ từ khóa",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/keyword-density-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Đếm từ đơn cộng các cụm 2 từ và 3 từ với mật độ phần trăm và lọc từ dừng.",
+  "k": "keyword density checker keyword density checker em tu on cong cac cum 2 tu va 3 tu voi mat o phan tram va loc tu dung",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo bảng HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/html-table-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Tạo bảng trực quan trong lưới và nhận HTML ngữ nghĩa sạch với hỗ trợ thead, th và caption.",
+  "k": "html table generator html table generator tao bang truc quan trong luoi va nhan html ngu nghia sach voi ho tro thead th va caption",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo chữ ký email HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/email-signature-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Tạo một chữ ký email chuyên nghiệp dưới dạng HTML bảng an toàn cho email, hoạt động trong Gmail và Outlook.",
+  "k": "html email signature generator email signature generator tao mot chu ky email chuyen nghiep duoi dang html bang an toan cho email hoat ong trong gmail va outlook",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ kiểm tra email",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/email-validator/",
+  "s": "Loona Dev Tools",
+  "d": "Kiểm tra hàng loạt địa chỉ email về lỗi cú pháp và lỗi gõ tên miền phổ biến như gmial.com, kèm gợi ý.",
+  "k": "email validator email validator kiem tra hang loat ia chi email ve loi cu phap va loi go ten mien pho bien nhu gmial com kem goi y",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo CSS Clip-Path",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/css-clip-path-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Tạo CSS clip-path - cài sẵn đa giác với các điểm có thể điều chỉnh, cộng các hình tròn, elip và inset.",
+  "k": "css clip path generator css clip path generator tao css clip path cai san a giac voi cac iem co the ieu chinh cong cac hinh tron elip va inset",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo CSS Box Shadow",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/css-box-shadow-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Tạo CSS box-shadow nhiều lớp với hỗ trợ inset, điều khiển màu và độ mờ, và xem trước trực tiếp.",
+  "k": "css box shadow generator css box shadow generator tao css box shadow nhieu lop voi ho tro inset ieu khien mau va o mo va xem truoc truc tiep",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ định dạng & kiểm tra XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/xml-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Làm đẹp, rút gọn và kiểm tra XML - kiểm tra tính hợp lệ cân bằng thẻ với thông báo lỗi rõ ràng.",
+  "k": "xml formatter validator xml formatter lam ep rut gon va kiem tra xml kiem tra tinh hop le can bang the voi thong bao loi ro rang",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ chuyển đổi Markdown sang HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/markdown-to-html-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Chuyển đổi Markdown hằng ngày thành HTML sạch với xem trước trực tiếp đã hiển thị - tiêu đề, danh sách, mã và hơn nữa.",
+  "k": "markdown to html converter markdown to html converter chuyen oi markdown hang ngay thanh html sach voi xem truoc truc tiep a hien thi tieu e danh sach ma va hon nua",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "Chuyển vị CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/csv-transpose/",
+  "s": "Loona Dev Tools",
+  "d": "Hoán đổi hàng và cột CSV bằng một trình phân tích đúng chuẩn - chuyển vị hai lần trả về bản gốc.",
+  "k": "csv transpose csv transpose hoan oi hang va cot csv bang mot trinh phan tich ung chuan chuyen vi hai lan tra ve ban goc",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "Gộp CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/csv-join/",
+  "s": "Loona Dev Tools",
+  "d": "Hợp nhất hai CSV theo một cột khóa - inner hoặc left join, khóa trùng lặp được xử lý theo cách của cơ sở dữ liệu.",
+  "k": "csv join csv join hop nhat hai csv theo mot cot khoa inner hoac left join khoa trung lap uoc xu ly theo cach cua co so du lieu",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV Pivot / Nhóm theo",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/csv-pivot-group-by/",
+  "s": "Loona Dev Tools",
+  "d": "Nhóm các hàng CSV theo một cột với tổng, đếm, trung bình, min hoặc max của cột giá trị.",
+  "k": "csv pivot group by csv pivot group by nhom cac hang csv theo mot cot voi tong em trung binh min hoac max cua cot gia tri",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "So sánh / khác biệt CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/csv-diff/",
+  "s": "Loona Dev Tools",
+  "d": "So sánh hai CSV theo cột khóa - các hàng đã thêm, đã xóa và đã thay đổi kèm các ô chính xác.",
+  "k": "csv diff compare csv diff so sanh hai csv theo cot khoa cac hang a them a xoa va a thay oi kem cac o chinh xac",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ trích xuất dữ liệu CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/csv-data-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Lấy email, số điện thoại và URL ra khỏi CSV hoặc văn bản lộn xộn thành các danh sách sạch, đã chống trùng lặp.",
+  "k": "csv data extractor csv data extractor lay email so ien thoai va url ra khoi csv hoac van ban lon xon thanh cac danh sach sach a chong trung lap",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ phân tích CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/csv-profiler/",
+  "s": "Loona Dev Tools",
+  "d": "Đoán kiểu theo cột, số lượng trống, số lượng duy nhất, min/max số học và các giá trị hàng đầu.",
+  "k": "csv profiler csv profiler oan kieu theo cot so luong trong so luong duy nhat min max so hoc va cac gia tri hang au",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ kiểm tra Robots.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/robots-txt-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Kiểm tra một URL và user-agent theo quy tắc robots.txt - kết luận cộng quy tắc khớp chính xác.",
+  "k": "robots txt tester robots txt tester kiem tra mot url va user agent theo quy tac robots txt ket luan cong quy tac khop chinh xac",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ kiểm tra độ dễ đọc SEO",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/readability-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Sáu công thức dễ đọc cộng thống kê câu cho nội dung web, đóng khung cho công việc nội dung SEO.",
+  "k": "seo readability checker readability checker sau cong thuc de oc cong thong ke cau cho noi dung web ong khung cho cong viec noi dung seo",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo llms.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/llms-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Tạo tệp llms.txt hướng tới AI - blockquote tóm tắt cộng các liên kết trang được chọn lọc theo định dạng đặc tả.",
+  "k": "llms txt generator llms txt generator tao tep llms txt huong toi ai blockquote tom tat cong cac lien ket trang uoc chon loc theo inh dang ac ta",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình tạo thẻ Hreflang",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/hreflang-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Tạo bộ liên kết thay thế hreflang với x-default và kiểm tra BCP 47 / URL tuyệt đối.",
+  "k": "hreflang tag generator hreflang tag generator tao bo lien ket thay the hreflang voi x default va kiem tra bcp 47 url tuyet oi",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "Trình xem siêu dữ liệu tài liệu Office",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/office-metadata-viewer/",
+  "s": "Loona Dev Tools",
+  "d": "Đọc các thuộc tính DOCX, XLSX và PPTX - tiêu đề, tác giả, công ty, ngày tháng - chỉ xem, trên thiết bị.",
+  "k": "office document metadata viewer office metadata viewer oc cac thuoc tinh docx xlsx va pptx tieu e tac gia cong ty ngay thang chi xem tren thiet bi",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "Công cụ phát hiện loại tệp",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/vi/file-type-detector/",
+  "s": "Loona Dev Tools",
+  "d": "Phát hiện loại thật của tệp từ byte ma thuật của nó và cảnh báo khi phần mở rộng không khớp.",
+  "k": "file type detector file type detector phat hien loai that cua tep tu byte ma thuat cua no va canh bao khi phan mo rong khong khop",
+  "p": 171,
+  "c": "Tool"
+ }
+]

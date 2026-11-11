@@ -1,0 +1,29 @@
+{
+  "name": "Chia & hợp nhất CSV của Loona trực tuyến miễn phí",
+  "short_name": "Chia & hợp nhất CSV trực tuyến miễn phí",
+  "description": "Chia một CSV thành các phần theo số lượng hàng hoặc gộp nhiều tệp CSV thành một, trực tuyến miễn phí - header được xử lý đúng, phân tích CSV đúng cách. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
+  "id": "/loona-dev-tools/vi/csv-split-merge/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

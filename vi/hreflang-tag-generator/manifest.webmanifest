@@ -1,0 +1,29 @@
+{
+  "name": "Trình tạo thẻ Hreflang của Loona trực tuyến miễn phí",
+  "short_name": "Trình tạo thẻ Hreflang trực tuyến",
+  "description": "Tạo thẻ hreflang trực tuyến miễn phí - dán các cặp ngôn ngữ và URL, thêm một x-default, và nhận bộ liên kết thay thế đầy đủ với kiểm tra BCP 47 và URL tuyệt đối. Không đăng ký.",
+  "id": "/loona-dev-tools/vi/hreflang-tag-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

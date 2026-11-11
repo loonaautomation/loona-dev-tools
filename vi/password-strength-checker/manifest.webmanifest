@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ kiểm tra độ mạnh mật khẩu của Loona trực tuyến miễn phí",
+  "short_name": "Công cụ kiểm tra độ mạnh mật khẩu",
+  "description": "Kiểm tra độ mạnh mật khẩu trực tuyến miễn phí với ước tính entropy minh bạch, phản hồi cụ thể và ước tính thời gian bẻ khóa. Mật khẩu không bao giờ rời khỏi trình duyệt của bạn - không có gì được gửi hoặc lưu trữ.",
+  "id": "/loona-dev-tools/vi/password-strength-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

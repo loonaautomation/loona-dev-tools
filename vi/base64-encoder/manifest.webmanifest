@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ mã hóa & giải mã Base64 của Loona trực tuyến miễn phí",
+  "short_name": "Công cụ mã hóa & giải mã Base64",
+  "description": "Mã hóa văn bản hoặc tệp sang Base64 và giải mã Base64 trở lại, an toàn UTF-8 cho mọi ngôn ngữ và emoji, với một tùy chọn an toàn cho URL. Miễn phí, không đăng ký, trong trình duyệt của bạn.",
+  "id": "/loona-dev-tools/vi/base64-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

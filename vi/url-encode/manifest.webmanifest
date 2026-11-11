@@ -1,0 +1,29 @@
+{
+  "name": "Mã hóa URL của Loona (mã hóa phần trăm)",
+  "short_name": "Mã hóa URL (mã hóa phần trăm)",
+  "description": "Mã hóa phần trăm văn bản hoặc một URL đầy đủ trực tuyến: dấu cách trở thành %20, các ký tự dành riêng được escape theo RFC 3986. Chế độ thành phần hoặc toàn URL.",
+  "id": "/loona-dev-tools/vi/url-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

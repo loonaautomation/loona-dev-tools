@@ -1,0 +1,29 @@
+{
+  "name": "Trình tạo Open Graph & thẻ Twitter của Loona",
+  "short_name": "Open Graph & thẻ Twitter",
+  "description": "Tạo thẻ meta Open Graph và Twitter Card trực tuyến miễn phí, với bản xem trước thẻ mạng xã hội trực tiếp - tiêu đề, mô tả, hình ảnh, URL và tên trang. Không đăng ký, chạy trong trình duyệt của bạn.",
+  "id": "/loona-dev-tools/vi/open-graph-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

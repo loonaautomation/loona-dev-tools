@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ phân tích chuỗi User Agent của Loona",
+  "short_name": "Công cụ phân tích chuỗi User Agent",
+  "description": "Phân tích một chuỗi User-Agent của trình duyệt thành trình duyệt, công cụ, hệ điều hành và loại thiết bị bằng một trình phân tích dựa trên quy tắc minh bạch.",
+  "id": "/loona-dev-tools/vi/user-agent-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

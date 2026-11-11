@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ chuyển đổi ZIP sang TAR của Loona",
+  "short_name": "Công cụ chuyển đổi ZIP sang TAR",
+  "description": "Chuyển đổi tệp lưu trữ ZIP sang TAR không nén trực tuyến: cùng tệp và thư mục, được đóng gói lại bằng một trình ghi TAR tuân thủ tiêu chuẩn. Hoàn toàn cục bộ.",
+  "id": "/loona-dev-tools/vi/zip-to-tar-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

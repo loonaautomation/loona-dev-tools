@@ -1,0 +1,29 @@
+{
+  "name": "Công cụ chuyển đổi bảng Markdown sang CSV của Loona",
+  "short_name": "Bảng Markdown sang CSV",
+  "description": "Chuyển đổi một bảng Markdown sang CSV: tiêu đề và hàng được trích xuất, hàng căn lề bị loại bỏ, các ô được cắt và trích dẫn đúng cách.",
+  "id": "/loona-dev-tools/vi/markdown-table-to-csv/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

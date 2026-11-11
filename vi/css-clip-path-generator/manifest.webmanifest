@@ -1,0 +1,29 @@
+{
+  "name": "Trình tạo CSS Clip-Path của Loona trực tuyến miễn phí",
+  "short_name": "Trình tạo CSS Clip-Path",
+  "description": "Tạo CSS clip-path trực tuyến miễn phí - các mẫu đa giác như ngôi sao, lục giác và mũi tên với các điểm có thể điều chỉnh, cộng các hình circle, ellipse và inset, với bản xem trước trực tiếp. Không đăng ký.",
+  "id": "/loona-dev-tools/vi/css-clip-path-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
