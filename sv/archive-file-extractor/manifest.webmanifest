@@ -1,0 +1,29 @@
+{
+  "name": "Loona Arkivfilextraherare online gratis",
+  "short_name": "Arkivfilextraherare online",
+  "description": "En universell arkivöppnare: släpp vilken ZIP-, RAR-, 7Z-, TAR-, TAR.GZ-, TAR.BZ2-, TAR.XZ- eller ISO-fil som helst och extrahera dess innehåll direkt i din webbläsare. Formatet detekteras automatiskt; ingenting laddas upp.",
+  "id": "/loona-dev-tools/sv/archive-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

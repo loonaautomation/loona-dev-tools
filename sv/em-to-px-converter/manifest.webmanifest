@@ -1,0 +1,29 @@
+{
+  "name": "Loona Em till pixlar (px)-konverterare",
+  "short_name": "Em till pixlar (px)-konverterare",
+  "description": "Konvertera em till px med en justerbar basteckenstorlek (standard 16px) och en tabell med vanliga värden.",
+  "id": "/loona-dev-tools/sv/em-to-px-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

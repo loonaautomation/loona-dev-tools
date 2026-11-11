@@ -1,0 +1,29 @@
+{
+  "name": "Loona XML till YAML-konverterare",
+  "short_name": "XML till YAML-konverterare",
+  "description": "Konvertera XML till YAML: attribut som @keys, upprepade element som listor, värden typade. Riktig tolkare, inte regex.",
+  "id": "/loona-dev-tools/sv/xml-to-yaml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

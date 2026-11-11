@@ -1,0 +1,29 @@
+{
+  "name": "Loona Metataggenerator online gratis",
+  "short_name": "Metataggenerator online gratis",
+  "description": "Generera HTML-metataggar online gratis - titel, beskrivning, nyckelord, författare, robots och canonical - med en live SERP-förhandsgranskning i Google-stil och teckenantal. Ingen registrering.",
+  "id": "/loona-dev-tools/sv/meta-tag-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

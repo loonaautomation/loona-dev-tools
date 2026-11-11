@@ -1,0 +1,29 @@
+{
+  "name": "Loona ROT13-kodare och avkodare",
+  "short_name": "ROT13-kodare & avkodare",
+  "description": "ROT13 vilken text som helst: rotera bokstäver 13 steg. Kodning och avkodning är samma operation. Klassisk för spoilers och pussel.",
+  "id": "/loona-dev-tools/sv/rot13-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

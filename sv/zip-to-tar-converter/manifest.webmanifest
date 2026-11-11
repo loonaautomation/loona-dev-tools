@@ -1,0 +1,29 @@
+{
+  "name": "Loona ZIP till TAR-konverterare",
+  "short_name": "ZIP till TAR-konverterare",
+  "description": "Konvertera ZIP-arkiv till okomprimerad TAR online: samma filer och mappar, ompackade med en standardenlig TAR-skrivare. Helt lokalt.",
+  "id": "/loona-dev-tools/sv/zip-to-tar-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

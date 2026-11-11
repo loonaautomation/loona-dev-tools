@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV-dubblettborttagning och rensare online gratis",
+  "short_name": "CSV-dubblettborttagning och rensare online",
+  "description": "Ta bort dubblettrader från CSV online gratis - efter hel rad eller efter nyckelkolumner - plus trimma blanksteg, släpp tomma rader och normalisera radslut, med före/efter-antal. Ingen registrering.",
+  "id": "/loona-dev-tools/sv/csv-dedupe-cleaner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

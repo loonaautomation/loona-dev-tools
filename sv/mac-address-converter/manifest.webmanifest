@@ -1,0 +1,29 @@
+{
+  "name": "Loona MAC-adressformatkonverterare",
+  "short_name": "MAC-adressformatkonverterare",
+  "description": "Konvertera MAC-adresser mellan kolon- (AA:BB:CC:DD:EE:FF), streck-, Cisco-punkt- och rena format; validerar 48-bitarsadressen.",
+  "id": "/loona-dev-tools/sv/mac-address-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

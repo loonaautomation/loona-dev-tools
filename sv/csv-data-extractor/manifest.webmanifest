@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV-dataextraherare online gratis",
+  "short_name": "CSV-dataextraherare online gratis",
+  "description": "Extrahera e-postadresser, telefonnummer och URL:er från röriga CSV-filer eller vilken text som helst online gratis - rensade, dubblettrensade listor du kan ladda ner. Ingen registrering, körs i din webbläsare.",
+  "id": "/loona-dev-tools/sv/csv-data-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

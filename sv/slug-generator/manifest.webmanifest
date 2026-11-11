@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sluggenerator (URL-slugskapare)",
+  "short_name": "Slug-generator (URL-slug",
+  "description": "Generera rena URL-slugs från titlar: accenter borttagna, gemener, mellanslag till bindestreck (eller understreck). Gratis slugskapare.",
+  "id": "/loona-dev-tools/sv/slug-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

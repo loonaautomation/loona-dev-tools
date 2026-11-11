@@ -1,0 +1,29 @@
+{
+  "name": "Loona SHA-512-hashgenerator",
+  "short_name": "SHA-512 Hash-generator",
+  "description": "Beräkna SHA-512-hashar av text eller filer online: 512-bitars, 128 hextecken. Körs lokalt i din webbläsare med WebCrypto/ren JS — filer laddas aldrig upp.",
+  "id": "/loona-dev-tools/sv/sha512-hash-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

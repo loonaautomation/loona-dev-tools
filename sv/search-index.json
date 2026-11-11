@@ -1,0 +1,650 @@
+[
+ {
+  "n": "Bibliotek för konverterare och generatorer",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/converter-library/",
+  "s": "Loona Dev Tools",
+  "d": "126 nya konverterare och generatorer: kodningar, dataformat (JSON, YAML, XML, TOML, CSV), hashar, färger, arkiv, kodgeneratorer och referenser.",
+  "k": "converter generator library converter library 126 nya konverterare och generatorer kodningar dataformat json yaml xml toml csv hashar farger arkiv kodgeneratorer och referenser",
+  "p": 100,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON-formaterare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/json-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Validera, skriv ut vackert och minimera JSON, med den exakta positionen för varje fel.",
+  "k": "json formatter json formatter validera skriv ut vackert och minimera json med den exakta positionen for varje fel",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Base64-kodare och avkodare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/base64-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Koda text och filer till Base64, eller avkoda tillbaka - UTF-8-säkert, URL-säkert alternativ ingår.",
+  "k": "base64 encoder decoder base64 encoder koda text och filer till base64 eller avkoda tillbaka utf 8 sakert url sakert alternativ ingar",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "URL-kodare & avkodare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/url-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Procentkoda text och URL:er säkert, med en uppdelningstabell per tecken.",
+  "k": "url encoder decoder url encoder procentkoda text och url er sakert med en uppdelningstabell per tecken",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "UUID-generator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/uuid-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Generera slumpmässiga version 4-UUID:er - en i taget eller i bulk upp till 100.",
+  "k": "uuid generator uuid generator generera slumpmassiga version 4 uuid er en i taget eller i bulk upp till 100",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Hashgenerator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/hash-generator/",
+  "s": "Loona Dev Tools",
+  "d": "SHA-1-, SHA-256-, SHA-384- och SHA-512-digests av valfri text, beräknade i din webbläsare.",
+  "k": "hash generator hash generator sha 1 sha 256 sha 384 och sha 512 digests av valfri text beraknade i din webblasare",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "JWT-avkodare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/jwt-decoder/",
+  "s": "Loona Dev Tools",
+  "d": "Avkoda en JSON Web Tokens header och payload och läs dess utgång med vanliga ord.",
+  "k": "jwt decoder jwt decoder avkoda en json web tokens header och payload och las dess utgang med vanliga ord",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Tidsstämpelkonverterare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/timestamp-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konvertera Unix-tidsstämplar till mänskliga datum och tillbaka - UTC, din lokala tid och relativ tid.",
+  "k": "timestamp converter timestamp converter konvertera unix tidsstamplar till manskliga datum och tillbaka utc din lokala tid och relativ tid",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML-entitetskodare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/html-entity-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Escapa text till HTML-entiteter (namngivna eller numrerade) och avkoda entiteter tillbaka till text.",
+  "k": "html entity encoder html entity encoder escapa text till html entiteter namngivna eller numrerade och avkoda entiteter tillbaka till text",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS-minimerare och förskönare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/css-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Minimera CSS för att krympa filstorleken, eller försköna den tillbaka till läsbar, indenterad kod.",
+  "k": "css minifier beautifier css minifier minimera css for att krympa filstorleken eller forskona den tillbaka till lasbar indenterad kod",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "JavaScript-minimerare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/javascript-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Minimera JavaScript konservativt - kommentarer och dött blanksteg borttaget, strängar och regex intakta.",
+  "k": "javascript minifier javascript minifier minimera javascript konservativt kommentarer och dott blanksteg borttaget strangar och regex intakta",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Regex-testare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/regex-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Testa reguljära uttryck live - matchningar markerade, fångstgrupper listade, antal visat.",
+  "k": "regex tester regex tester testa reguljara uttryck live matchningar markerade fangstgrupper listade antal visat",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Diff-kontroll",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/diff-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Jämför två texter rad för rad - tillagda och borttagna rader markerade, med en ändringssammanfattning.",
+  "k": "diff checker diff checker jamfor tva texter rad for rad tillagda och borttagna rader markerade med en andringssammanfattning",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON till CSV-konverterare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/json-to-csv-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Gör en JSON-array av objekt till en ren CSV-fil - union av alla nycklar, ordentlig citering, ett klick.",
+  "k": "json to csv converter json to csv converter gor en json array av objekt till en ren csv fil union av alla nycklar ordentlig citering ett klick",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV till JSON-konverterare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/csv-to-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konvertera CSV till en JSON-array av objekt - en riktig tolkare som hanterar citerade kommatecken och escapade citattecken.",
+  "k": "csv to json converter csv to json converter konvertera csv till en json array av objekt en riktig tolkare som hanterar citerade kommatecken och escapade citattecken",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "YAML ⇄ JSON-konverterare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/yaml-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konvertera den vanliga YAML-delmängden (maps, listor, skalärer) till JSON och JSON tillbaka till YAML - ärligt avgränsad.",
+  "k": "yaml json converter yaml json converter konvertera den vanliga yaml delmangden maps listor skalarer till json och json tillbaka till yaml arligt avgransad",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "SQL-formaterare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/sql-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Formatera SQL med nyckelord i versaler och varje större sats på egen rad - läsbara frågor med ett klick.",
+  "k": "sql formatter sql formatter formatera sql med nyckelord i versaler och varje storre sats pa egen rad lasbara fragor med ett klick",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Talbaskonverterare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/number-base-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konvertera mellan binärt, oktalt, decimalt och hex med full precision för stora heltal - ingen 2^53-gräns.",
+  "k": "number base converter number base converter konvertera mellan binart oktalt decimalt och hex med full precision for stora heltal ingen 2 53 grans",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Chmod-kalkylator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/chmod-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "Kryssa i läs/skriv/kör-rutor för ägare, grupp och andra - få den oktala och symboliska behörigheten omedelbart.",
+  "k": "chmod calculator chmod calculator kryssa i las skriv kor rutor for agare grupp och andra fa den oktala och symboliska behorigheten omedelbart",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Lösenordsstyrkekontroll",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/password-strength-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Se en uppskattning av lösenordsentropi i bitar, vad som försvagar den, och hur lång tid en snabb offlineattack skulle ta.",
+  "k": "password strength checker password strength checker se en uppskattning av losenordsentropi i bitar vad som forsvagar den och hur lang tid en snabb offlineattack skulle ta",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Cron-uttrycksgenerator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/cron-expression-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bygg ett cron-uttryck med 5 fält från enkla rullgardinsmenyer, och få vilket cron-uttryck som helst förklarat på enkel svenska.",
+  "k": "cron expression generator cron expression generator bygg ett cron uttryck med 5 falt fran enkla rullgardinsmenyer och fa vilket cron uttryck som helst forklarat pa enkel svenska",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "URL-tolkare & byggare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/url-parser/",
+  "s": "Loona Dev Tools",
+  "d": "Dela upp en URL i protokoll, värd, port, sökväg, frågeparametrar och hash - redigera sedan parametrarna och bygg den igen.",
+  "k": "url parser builder url parser dela upp en url i protokoll vard port sokvag frageparametrar och hash redigera sedan parametrarna och bygg den igen",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "ZIP-filskapare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/zip-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Bunta flera filer till ett enda ZIP-arkiv - byggt i din webbläsare, inget uppladdat.",
+  "k": "zip file creator zip file creator bunta flera filer till ett enda zip arkiv byggt i din webblasare inget uppladdat",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Unzip-filextraherare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/unzip-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Öppna en ZIP, se varje fil inuti med dess storlek, och extrahera en fil eller alla.",
+  "k": "unzip file extractor unzip file extractor oppna en zip se varje fil inuti med dess storlek och extrahera en fil eller alla",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "RAR-filextraherare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/rar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Öppna RAR-filer (RAR4 och RAR5) i din webbläsare - se varje fil inuti, ladda ner en fil eller allt som en ZIP.",
+  "k": "rar file extractor rar file extractor oppna rar filer rar4 och rar5 i din webblasare se varje fil inuti ladda ner en fil eller allt som en zip",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "7Z-filextraherare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/7z-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Öppna 7z-arkiv i din webbläsare - visa innehållet och extrahera enstaka filer eller allt som en ZIP.",
+  "k": "7z file extractor 7z file extractor oppna 7z arkiv i din webblasare visa innehallet och extrahera enstaka filer eller allt som en zip",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR-filextraherare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/tar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Öppna .tar-, .tar.bz2- och .tar.xz-arkiv i din webbläsare och extrahera filerna inuti - ingenting uppladdat.",
+  "k": "tar file extractor tar file extractor oppna tar tar bz2 och tar xz arkiv i din webblasare och extrahera filerna inuti ingenting uppladdat",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR.GZ-filextraherare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/tar-gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Öppna .tar.gz- och .tgz-arkiv i din webbläsare - bläddra filerna inuti och extrahera vad du behöver.",
+  "k": "tar gz file extractor tar gz file extractor oppna tar gz och tgz arkiv i din webblasare bladdra filerna inuti och extrahera vad du behover",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "GZ-filextraherare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Dekomprimera en enskild .gz-fil i din webbläsare och ladda ner originalet - loggar, dataexporter och databasdumpar.",
+  "k": "gz file extractor gz file extractor dekomprimera en enskild gz fil i din webblasare och ladda ner originalet loggar dataexporter och databasdumpar",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "ISO-filextraherare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/iso-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Öppna ISO-skivavbildningar i din webbläsare, bläddra filsystemet lagrat på den virtuella skivan och ladda ner filer.",
+  "k": "iso file extractor iso file extractor oppna iso skivavbildningar i din webblasare bladdra filsystemet lagrat pa den virtuella skivan och ladda ner filer",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Arkivfilextraherare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/archive-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "En universell arkivöppnare för ZIP, RAR, 7Z, TAR, ISO och mer - formatet detekteras automatiskt.",
+  "k": "archive file extractor archive file extractor en universell arkivoppnare for zip rar 7z tar iso och mer formatet detekteras automatiskt",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "RAR till ZIP-konverterare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/rar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konvertera ett RAR-arkiv till en vanlig ZIP i din webbläsare - mappstruktur bevarad, inget uppladdat.",
+  "k": "rar to zip converter rar to zip converter konvertera ett rar arkiv till en vanlig zip i din webblasare mappstruktur bevarad inget uppladdat",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "7Z till ZIP-konverterare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/7z-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konvertera ett 7Z-arkiv till en ZIP som öppnas var som helst - ingen 7-Zip behövs, inget uppladdat.",
+  "k": "7z to zip converter 7z to zip converter konvertera ett 7z arkiv till en zip som oppnas var som helst ingen 7 zip behovs inget uppladdat",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR till ZIP-konverterare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/tar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konvertera ett TAR-arkiv från Linux eller Unix till en ZIP som öppnas inbyggt på Windows, macOS och telefoner.",
+  "k": "tar to zip converter tar to zip converter konvertera ett tar arkiv fran linux eller unix till en zip som oppnas inbyggt pa windows macos och telefoner",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR.GZ till ZIP-konverterare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/tar-gz-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konvertera .tar.gz eller .tgz till en ZIP - både gzip- och tar-lagren packas upp på din enhet.",
+  "k": "tar gz to zip converter tar gz to zip converter konvertera tar gz eller tgz till en zip bade gzip och tar lagren packas upp pa din enhet",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "ZIP till TAR.GZ-konverterare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/zip-to-tar-gz-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konvertera ett ZIP-arkiv till en .tar.gz-tarball - formatet Linux-servrar, Docker och byggverktyg förväntar sig.",
+  "k": "zip to tar gz converter zip to tar gz converter konvertera ett zip arkiv till en tar gz tarball formatet linux servrar docker och byggverktyg forvantar sig",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR-filskapare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/tar-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Skapa ett specifikationskorrekt .tar-arkiv från flera filer i din webbläsare - öppnas med vilket tar-verktyg som helst.",
+  "k": "tar file creator tar file creator skapa ett specifikationskorrekt tar arkiv fran flera filer i din webblasare oppnas med vilket tar verktyg som helst",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "GZIP-komprimerare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/gzip-compressor/",
+  "s": "Loona Dev Tools",
+  "d": "Komprimera vilken enskild fil som helst till en .gz med din webbläsares inbyggda gzip-motor - omedelbara storlekar före/efter.",
+  "k": "gzip compressor gzip compressor komprimera vilken enskild fil som helst till en gz med din webblasares inbyggda gzip motor omedelbara storlekar fore efter",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-visare och redigerare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/csv-viewer-editor/",
+  "s": "Loona Dev Tools",
+  "d": "Ladda CSV i ett redigerbart tabellrutnät - redigera celler, sortera kolumner, lägg till eller ta bort rader och kolumner, ladda sedan ner.",
+  "k": "csv viewer editor csv viewer editor ladda csv i ett redigerbart tabellrutnat redigera celler sortera kolumner lagg till eller ta bort rader och kolumner ladda sedan ner",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV till SQL-konverterare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/csv-to-sql-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Gör CSV till CREATE TABLE plus INSERT-satser med härledda typer, för MySQL, PostgreSQL eller SQLite.",
+  "k": "csv to sql converter csv to sql converter gor csv till create table plus insert satser med harledda typer for mysql postgresql eller sqlite",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV till XML-konverterare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/csv-to-xml-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konvertera CSV-rader till välformad XML med konfigurerbara rot- och radelement och korrekt escape.",
+  "k": "csv to xml converter csv to xml converter konvertera csv rader till valformad xml med konfigurerbara rot och radelement och korrekt escape",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV till Markdown-tabellkonverterare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/csv-to-markdown-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konvertera CSV till en GitHub-redo Markdown-tabell - numeriska kolumner högerjusterade, pipetecken escapade.",
+  "k": "csv to markdown table converter csv to markdown converter konvertera csv till en github redo markdown tabell numeriska kolumner hogerjusterade pipetecken escapade",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-dubblettborttagning och rensare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/csv-dedupe-cleaner/",
+  "s": "Loona Dev Tools",
+  "d": "Ta bort dubbletter av CSV-rader efter hel rad eller nyckelkolumner, trimma blanksteg och släpp tomma rader, med antal.",
+  "k": "csv dedupe cleaner csv dedupe cleaner ta bort dubbletter av csv rader efter hel rad eller nyckelkolumner trimma blanksteg och slapp tomma rader med antal",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-dela och slå ihop",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/csv-split-merge/",
+  "s": "Loona Dev Tools",
+  "d": "Dela en CSV i delar efter radantal med rubriken upprepad, eller slå samman CSV-filer som delar en rubrik.",
+  "k": "csv split merge csv split merge dela en csv i delar efter radantal med rubriken upprepad eller sla samman csv filer som delar en rubrik",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Metataggenerator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/meta-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Generera ett färdigt HTML-metablock - titel, beskrivning, robots, canonical - med en live SERP-förhandsgranskning.",
+  "k": "meta tag generator meta tag generator generera ett fardigt html metablock titel beskrivning robots canonical med en live serp forhandsgranskning",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Open Graph & Twitter Card-generator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/open-graph-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bygg OG- och Twitter Card-taggar med en liveförhandsgranskning av det sociala kortet, så att delade länkar ser rätt ut.",
+  "k": "open graph twitter card generator open graph generator bygg og och twitter card taggar med en liveforhandsgranskning av det sociala kortet sa att delade lankar ser ratt ut",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Robots.txt-generator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/robots-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bygg en giltig robots.txt från förinställningar och regler per agent, med rimlighetskontroller av utdata.",
+  "k": "robots txt generator robots txt generator bygg en giltig robots txt fran forinstallningar och regler per agent med rimlighetskontroller av utdata",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "XML Sitemap-generator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/xml-sitemap-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Gör en lista av URL:er till en giltig sitemap.xml med lastmod-, changefreq- och priority-standarder.",
+  "k": "xml sitemap generator xml sitemap generator gor en lista av url er till en giltig sitemap xml med lastmod changefreq och priority standarder",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "UTM-länkbyggare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/utm-link-builder/",
+  "s": "Loona Dev Tools",
+  "d": "Tagga kampanj-URL:er med UTM-parametrar - korrekt kodning, befintliga parametrar bevarade, lokal historik.",
+  "k": "utm link builder utm link builder tagga kampanj url er med utm parametrar korrekt kodning befintliga parametrar bevarade lokal historik",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "IP-subnätskalkylator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/ip-subnet-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "IPv4 CIDR till nätverk, broadcast, nätmask, wildcard, värdintervall och antal, plus en vy för subnätsdelning.",
+  "k": "ip subnet calculator ip subnet calculator ipv4 cidr till natverk broadcast natmask wildcard vardintervall och antal plus en vy for subnatsdelning",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON-LD-schemagenerator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/json-ld-schema-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Generera schema.org-strukturdata - Article, Product, LocalBusiness, Event, Recipe och mer - som giltig JSON-LD.",
+  "k": "json ld schema generator json ld schema generator generera schema org strukturdata article product localbusiness event recipe och mer som giltig json ld",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Google SERP-förhandsgranskning",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/google-serp-preview/",
+  "s": "Loona Dev Tools",
+  "d": "Förhandsgranska din titel och beskrivning som ett Google-resultat, med varningar för pixelbreddsavkortning, skrivbord och mobil.",
+  "k": "google serp preview google serp preview forhandsgranska din titel och beskrivning som ett google resultat med varningar for pixelbreddsavkortning skrivbord och mobil",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "Sökordstäthetskontroll",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/keyword-density-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Räkna enstaka ord plus fraser med 2 ord och 3 ord med procentuell täthet och stoppordsfiltrering.",
+  "k": "keyword density checker keyword density checker rakna enstaka ord plus fraser med 2 ord och 3 ord med procentuell tathet och stoppordsfiltrering",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML-tabellgenerator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/html-table-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bygg tabeller visuellt i ett rutnät och få ren semantisk HTML med stöd för thead, th och caption.",
+  "k": "html table generator html table generator bygg tabeller visuellt i ett rutnat och fa ren semantisk html med stod for thead th och caption",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML-e-postsignaturgenerator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/email-signature-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Skapa en professionell e-postsignatur som e-postsäker tabell-HTML som fungerar i Gmail och Outlook.",
+  "k": "html email signature generator email signature generator skapa en professionell e postsignatur som e postsaker tabell html som fungerar i gmail och outlook",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "E-postvaliderare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/email-validator/",
+  "s": "Loona Dev Tools",
+  "d": "Bulkkontrollera e-postadresser för syntaxfel och vanliga domänstavfel som gmial.com, med förslag.",
+  "k": "email validator email validator bulkkontrollera e postadresser for syntaxfel och vanliga domanstavfel som gmial com med forslag",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS Clip-Path-generator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/css-clip-path-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Generera clip-path-CSS - polygonförinställningar med justerbara punkter, plus cirkel-, ellips- och inset-former.",
+  "k": "css clip path generator css clip path generator generera clip path css polygonforinstallningar med justerbara punkter plus cirkel ellips och inset former",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS Box Shadow-generator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/css-box-shadow-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bygg box-shadow-CSS i lager med inset-stöd, färg- och opacitetskontroll och en liveförhandsgranskning.",
+  "k": "css box shadow generator css box shadow generator bygg box shadow css i lager med inset stod farg och opacitetskontroll och en liveforhandsgranskning",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "XML-formaterare & validerare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/xml-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Försköna, minimera och validera XML - kontroller av välformadhet med balanserade taggar och tydliga felmeddelanden.",
+  "k": "xml formatter validator xml formatter forskona minimera och validera xml kontroller av valformadhet med balanserade taggar och tydliga felmeddelanden",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "Markdown till HTML-konverterare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/markdown-to-html-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Konvertera vardaglig Markdown till ren HTML med en renderad liveförhandsgranskning - rubriker, listor, kod och mer.",
+  "k": "markdown to html converter markdown to html converter konvertera vardaglig markdown till ren html med en renderad liveforhandsgranskning rubriker listor kod och mer",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-transponering",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/csv-transpose/",
+  "s": "Loona Dev Tools",
+  "d": "Byt CSV-rader och -kolumner med en ordentlig tolkare - att transponera två gånger återger originalet.",
+  "k": "csv transpose csv transpose byt csv rader och kolumner med en ordentlig tolkare att transponera tva ganger aterger originalet",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-sammanfogning",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/csv-join/",
+  "s": "Loona Dev Tools",
+  "d": "Slå ihop två CSV:er på en nyckelkolumn - inner eller left join, dubblerade nycklar hanterade på databas sättet.",
+  "k": "csv join csv join sla ihop tva csv er pa en nyckelkolumn inner eller left join dubblerade nycklar hanterade pa databas sattet",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-pivot / gruppera efter",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/csv-pivot-group-by/",
+  "s": "Loona Dev Tools",
+  "d": "Gruppera CSV-rader efter en kolumn med summa, antal, genomsnitt, min eller max av en värdekolumn.",
+  "k": "csv pivot group by csv pivot group by gruppera csv rader efter en kolumn med summa antal genomsnitt min eller max av en vardekolumn",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-diff / jämförelse",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/csv-diff/",
+  "s": "Loona Dev Tools",
+  "d": "Jämför två CSV:er via nyckelkolumn - tillagda, borttagna och ändrade rader med de exakta cellerna.",
+  "k": "csv diff compare csv diff jamfor tva csv er via nyckelkolumn tillagda borttagna och andrade rader med de exakta cellerna",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-dataextraherare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/csv-data-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Dra ut e-postadresser, telefonnummer och URL:er ur rörig CSV eller text till rena, deduplicerade listor.",
+  "k": "csv data extractor csv data extractor dra ut e postadresser telefonnummer och url er ur rorig csv eller text till rena deduplicerade listor",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-profilerare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/csv-profiler/",
+  "s": "Loona Dev Tools",
+  "d": "Typgissningar per kolumn, tomma antal, unika antal, numeriskt min/max och toppvärden.",
+  "k": "csv profiler csv profiler typgissningar per kolumn tomma antal unika antal numeriskt min max och toppvarden",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "Robots.txt-testare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/robots-txt-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Testa en URL och user-agent mot robots.txt-regler - utslag plus den exakta matchande regeln.",
+  "k": "robots txt tester robots txt tester testa en url och user agent mot robots txt regler utslag plus den exakta matchande regeln",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "SEO-läsbarhetskontroll",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/readability-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Sex läsbarhetsformler plus meningsstatistik för webbtext, inramat för SEO-innehållsarbete.",
+  "k": "seo readability checker readability checker sex lasbarhetsformler plus meningsstatistik for webbtext inramat for seo innehallsarbete",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "llms.txt-generator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/llms-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bygg den AI-vända llms.txt-filen - sammanfattande blockcitat plus utvalda sidlänkar i specifikationsformat.",
+  "k": "llms txt generator llms txt generator bygg den ai vanda llms txt filen sammanfattande blockcitat plus utvalda sidlankar i specifikationsformat",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "Hreflang-taggenerator",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/hreflang-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bygg hreflang-alternativa länkuppsättningar med x-default och BCP 47- / absoluta URL-kontroller.",
+  "k": "hreflang tag generator hreflang tag generator bygg hreflang alternativa lankuppsattningar med x default och bcp 47 absoluta url kontroller",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "Office-dokumentmetadatavisare",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/office-metadata-viewer/",
+  "s": "Loona Dev Tools",
+  "d": "Läs DOCX-, XLSX- och PPTX-egenskaper - titel, författare, företag, datum - bara visning, på enheten.",
+  "k": "office document metadata viewer office metadata viewer las docx xlsx och pptx egenskaper titel forfattare foretag datum bara visning pa enheten",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "Filtypsdetektor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sv/file-type-detector/",
+  "s": "Loona Dev Tools",
+  "d": "Upptäck en fils verkliga typ från dess magiska bytes och varna när filändelsen inte stämmer.",
+  "k": "file type detector file type detector upptack en fils verkliga typ fran dess magiska bytes och varna nar filandelsen inte stammer",
+  "p": 171,
+  "c": "Tool"
+ }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "Loona URL-analys online gratis",
+  "short_name": "URL-tolkare Online Gratis",
+  "description": "Tolka vilken URL som helst online gratis till protokoll, värd, port, sökväg, frågeparametrar och hash - redigera parametrarna och bygg URL:en igen. Ingen registrering, körs 100% i din webbläsare.",
+  "id": "/loona-dev-tools/sv/url-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

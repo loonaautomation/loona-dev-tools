@@ -1,0 +1,29 @@
+{
+  "name": "Loona Open Graph- och Twitter Card-generator",
+  "short_name": "Open Graph & Twitter Card",
+  "description": "Generera Open Graph- och Twitter Card-metataggar online gratis, med en liveförhandsgranskning av det sociala kortet - titel, beskrivning, bild, URL och webbplatsnamn. Ingen registrering, körs i din webbläsare.",
+  "id": "/loona-dev-tools/sv/open-graph-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

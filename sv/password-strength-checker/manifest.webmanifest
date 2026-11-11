@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lösenordsstyrkekontroll online gratis",
+  "short_name": "Lösenordsstyrkekontroll",
+  "description": "Kontrollera lösenordsstyrka online gratis med en transparent entropiuppskattning, specifik återkoppling och en krackningstidsuppskattning. Lösenordet lämnar aldrig din webbläsare - ingenting skickas eller lagras.",
+  "id": "/loona-dev-tools/sv/password-strength-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON till TOML-konverterare",
+  "short_name": "JSON till TOML-konverterare",
+  "description": "Konvertera JSON till TOML online: skalärer först, nästlade objekt som [tables], arrayer av objekt som [[tables]].",
+  "id": "/loona-dev-tools/sv/json-to-toml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

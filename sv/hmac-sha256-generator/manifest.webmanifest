@@ -1,0 +1,29 @@
+{
+  "name": "Loona HMAC-SHA256-generator",
+  "short_name": "HMAC-SHA256-generator",
+  "description": "Generera HMAC-SHA256-signaturer online: ange en nyckel och ett meddelande, få hex-MAC:en. WebCrypto, helt lokalt.",
+  "id": "/loona-dev-tools/sv/hmac-sha256-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML-tabellgenerator online gratis",
+  "short_name": "HTML-tabellgenerator online",
+  "description": "Generera HTML-tabeller online gratis - sätt rader och kolumner, skriv i rutnätet och få ren tabell-HTML med stöd för thead, th och caption plus en liveförhandsgranskning. Ingen registrering.",
+  "id": "/loona-dev-tools/sv/html-table-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

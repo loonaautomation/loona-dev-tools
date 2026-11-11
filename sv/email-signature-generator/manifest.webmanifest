@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML-e-postsignaturgenerator online gratis",
+  "short_name": "HTML-e-postsignatur",
+  "description": "Skapa en professionell HTML-e-postsignatur online gratis - namn, titel, företag, telefon, e-post och webbplats i e-postsäker tabell-HTML som fungerar i Gmail och Outlook. Ingen registrering.",
+  "id": "/loona-dev-tools/sv/email-signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
