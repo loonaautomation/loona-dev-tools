@@ -1,0 +1,29 @@
+{
+  "name": "Loona আর্কাইভ ফাইল এক্সট্র্যাক্টর অনলাইন বিনামূল্যে",
+  "short_name": "আর্কাইভ ফাইল এক্সট্র্যাক্টর অনলাইন",
+  "description": "একটি সার্বজনীন আর্কাইভ খুলনেওয়ালা: যেকোনো ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ বা ISO ফাইল ফেলুন ও সরাসরি আপনার ব্রাউজারে এর বিষয়বস্তু এক্সট্র্যাক্ট করুন। ফরম্যাট স্বয়ংক্রিয়ভাবে শনাক্ত করা হয়; কিছুই আপলোড হয় না।",
+  "id": "/loona-dev-tools/bn/archive-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

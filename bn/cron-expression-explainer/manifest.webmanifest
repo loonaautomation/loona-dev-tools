@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cron এক্সপ্রেশন এক্সপ্লেইনার",
+  "short_name": "Cron এক্সপ্রেশন এক্সপ্লেইনার",
+  "description": "সরল ইংরেজিতে cron এক্সপ্রেশন ব্যাখ্যা করুন: একটি 5-ফিল্ড cron সময়সূচি পেস্ট করুন ও পড়ুন এটি কখন চলে, ফিল্ড অনুযায়ী।",
+  "id": "/loona-dev-tools/bn/cron-expression-explainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

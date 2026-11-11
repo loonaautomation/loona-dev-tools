@@ -1,0 +1,29 @@
+{
+  "name": "Loona Robots.txt টেস্টার অনলাইন বিনামূল্যে",
+  "short_name": "বিনামূল্যে অনলাইনে Robots.txt পরীক্ষক",
+  "description": "একটি robots.txt বিনামূল্যে অনলাইনে পরীক্ষা করুন - ফাইল, একটি URL ও একটি ব্যবহারকারী-এজেন্ট পেস্ট করুন, এবং ঠিক মিলের নিয়ম দেখানো একটি অনুমোদিত বা ব্লক করা রায় পান। কোনো সাইন-আপ নয়, আপনার ব্রাউজারে চলে।",
+  "id": "/loona-dev-tools/bn/robots-txt-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

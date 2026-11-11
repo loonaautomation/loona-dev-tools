@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hreflang ট্যাগ জেনারেটর অনলাইন বিনামূল্যে",
+  "short_name": "Hreflang ট্যাগ জেনারেটর অনলাইন",
+  "description": "বিনামূল্যে অনলাইনে hreflang ট্যাগ তৈরি করুন - ভাষা ও URL জোড়া পেস্ট করুন, একটি x-default যোগ করুন, এবং BCP 47 ও পরম-URL পরীক্ষাসহ পূর্ণ বিকল্প লিংক সেট পান। কোনো সাইন-আপ নয়।",
+  "id": "/loona-dev-tools/bn/hreflang-tag-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

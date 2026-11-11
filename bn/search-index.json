@@ -1,0 +1,650 @@
+[
+ {
+  "n": "কনভার্টার ও জেনারেটর লাইব্রেরি",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/converter-library/",
+  "s": "Loona Dev Tools",
+  "d": "126টি নতুন কনভার্টার ও জেনারেটর: এনকোডিং, ডেটা ফরম্যাট (JSON, YAML, XML, TOML, CSV), হ্যাশ, রঙ, আর্কাইভ, কোড জেনারেটর এবং রেফারেন্স।",
+  "k": "converter generator library converter library 126 json yaml xml toml csv",
+  "p": 100,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON ফরম্যাটার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/json-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "যেকোনো ত্রুটির হুবহু অবস্থানসহ JSON যাচাই করুন, সুন্দর-ছাপুন এবং মিনিফাই করুন।",
+  "k": "json formatter json formatter json",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Base64 এনকোডার ও ডিকোডার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/base64-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "টেক্সট ও ফাইল Base64-তে এনকোড করুন, বা এটি আবার ডিকোড করুন - UTF-8 নিরাপদ, URL-নিরাপদ বিকল্প অন্তর্ভুক্ত।",
+  "k": "base64 encoder decoder base64 encoder base64 utf 8 url",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "URL এনকোডার ও ডিকোডার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/url-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "একটি প্রতি-অক্ষর বিভাজন টেবিলসহ টেক্সট ও URL নিরাপদে শতাংশ-এনকোড করুন।",
+  "k": "url encoder decoder url encoder url",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "UUID জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/uuid-generator/",
+  "s": "Loona Dev Tools",
+  "d": "এলোমেলো সংস্করণ 4 UUID তৈরি করুন - একবারে একটি বা বাল্কে 100 পর্যন্ত।",
+  "k": "uuid generator uuid generator 4 uuid 100",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "হ্যাশ জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/hash-generator/",
+  "s": "Loona Dev Tools",
+  "d": "যেকোনো টেক্সটের SHA-1, SHA-256, SHA-384 ও SHA-512 ডাইজেস্ট, আপনার ব্রাউজারে হিসাব করা।",
+  "k": "hash generator hash generator sha 1 sha 256 sha 384 sha 512",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "JWT ডিকোডার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/jwt-decoder/",
+  "s": "Loona Dev Tools",
+  "d": "একটি JSON Web Token হেডার ও পেলোড ডিকোড করুন এবং এর মেয়াদ সরল ভাষায় পড়ুন।",
+  "k": "jwt decoder jwt decoder json web token",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "টাইমস্ট্যাম্প কনভার্টার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/timestamp-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Unix টাইমস্ট্যাম্প মানব তারিখে ও আবার ফিরিয়ে রূপান্তর করুন - UTC, আপনার স্থানীয় সময় ও আপেক্ষিক সময়।",
+  "k": "timestamp converter timestamp converter unix utc",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML এনটিটি এনকোডার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/html-entity-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "টেক্সট HTML এনটিটিতে (নামযুক্ত বা সংখ্যাযুক্ত) এস্কেপ করুন ও এনটিটি আবার টেক্সটে ডিকোড করুন।",
+  "k": "html entity encoder html entity encoder html",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS মিনিফায়ার ও বিউটিফায়ার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/css-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "ফাইলের আকার সঙ্কুচিত করতে CSS মিনিফাই করুন, বা এটি আবার পাঠযোগ্য, ইনডেন্ট করা কোডে সুন্দর করুন।",
+  "k": "css minifier beautifier css minifier css",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "JavaScript মিনিফায়ার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/javascript-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "রক্ষণশীলভাবে JavaScript মিনিফাই করুন - মন্তব্য ও মৃত হোয়াইটস্পেস সরানো, স্ট্রিং ও রেজেক্স অক্ষত রাখা।",
+  "k": "javascript minifier javascript minifier javascript",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "রেজেক্স পরীক্ষক",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/regex-tester/",
+  "s": "Loona Dev Tools",
+  "d": "নিয়মিত এক্সপ্রেশন লাইভ পরীক্ষা করুন - মিল হাইলাইট করা, ক্যাপচার গ্রুপ তালিকাভুক্ত, গণনা দেখানো।",
+  "k": "regex tester regex tester",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "ডিফ চেকার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/diff-checker/",
+  "s": "Loona Dev Tools",
+  "d": "লাইন অনুযায়ী দুটি টেক্সট তুলনা করুন - যোগ করা ও সরানো লাইন হাইলাইট করা, একটি পরিবর্তনের সারসংক্ষেপসহ।",
+  "k": "diff checker diff checker",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON থেকে CSV কনভার্টার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/json-to-csv-converter/",
+  "s": "Loona Dev Tools",
+  "d": "JSON অবজেক্টের একটি অ্যারেকে একটি পরিষ্কার CSV ফাইলে পরিণত করুন - সব কী-এর মিলন, সঠিক উদ্ধৃতি, এক ক্লিক।",
+  "k": "json to csv converter json to csv converter json csv",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV থেকে JSON কনভার্টার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/csv-to-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "CSV অবজেক্টের একটি JSON অ্যারেতে রূপান্তর করুন - একটি আসল পার্সার যা উদ্ধৃত কমা ও এস্কেপ করা উদ্ধৃতি পরিচালনা করে।",
+  "k": "csv to json converter csv to json converter csv json",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "YAML ⇄ JSON কনভার্টার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/yaml-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "সাধারণ YAML উপসেট (ম্যাপ, তালিকা, স্কেলার) JSON-এ এবং JSON আবার YAML-এ রূপান্তর করুন - সৎভাবে সীমাবদ্ধ।",
+  "k": "yaml json converter yaml json converter yaml json json yaml",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "SQL ফরম্যাটার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/sql-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "বড় হাতের কীওয়ার্ডসহ SQL ফরম্যাট করুন এবং প্রতিটি প্রধান ধারা নিজস্ব লাইনে - এক ক্লিকে পাঠযোগ্য কুয়েরি।",
+  "k": "sql formatter sql formatter sql",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "সংখ্যা ভিত্তি রূপান্তরকারী",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/number-base-converter/",
+  "s": "Loona Dev Tools",
+  "d": "পূর্ণ বড়-পূর্ণসংখ্যা নির্ভুলতাসহ বাইনারি, অক্টাল, দশমিক ও হেক্সের মধ্যে রূপান্তর করুন - কোনো 2^53 সীমা নয়।",
+  "k": "number base converter number base converter 2 53",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Chmod ক্যালকুলেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/chmod-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "মালিক, গ্রুপ এবং অন্যদের জন্য রিড/রাইট/এক্সিকিউট বাক্সগুলোতে টিক দিন - অক্টাল এবং প্রতীকী অনুমতি তাৎক্ষণিকভাবে পান।",
+  "k": "chmod calculator chmod calculator",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "পাসওয়ার্ড শক্তি পরীক্ষক",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/password-strength-checker/",
+  "s": "Loona Dev Tools",
+  "d": "বিটে একটি পাসওয়ার্ড এনট্রপি অনুমান দেখুন, কী এটিকে দুর্বল করে, এবং একটি দ্রুত অফলাইন আক্রমণ কতক্ষণ নেবে।",
+  "k": "password strength checker password strength checker",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Cron এক্সপ্রেশন জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/cron-expression-generator/",
+  "s": "Loona Dev Tools",
+  "d": "সাধারণ ড্রপডাউন থেকে একটি 5-ফিল্ড cron এক্সপ্রেশন তৈরি করুন, এবং যেকোনো cron এক্সপ্রেশন সরল ইংরেজিতে ব্যাখ্যা পান।",
+  "k": "cron expression generator cron expression generator 5 cron cron",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "URL পার্সার ও বিল্ডার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/url-parser/",
+  "s": "Loona Dev Tools",
+  "d": "একটি URL-কে প্রোটোকল, হোস্ট, পোর্ট, পথ, কুয়েরি প্যারামিটার ও হ্যাশে ভাগ করুন - তারপর প্যারামিটারগুলো সম্পাদনা করুন ও আবার তৈরি করুন।",
+  "k": "url parser builder url parser url",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "ZIP ফাইল নির্মাতা",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/zip-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "একাধিক ফাইলকে একটি একক ZIP আর্কাইভে গুছান - আপনার ব্রাউজারে তৈরি, কিছু আপলোড নয়।",
+  "k": "zip file creator zip file creator zip",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Unzip ফাইল এক্সট্র্যাক্টর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/unzip-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "একটি ZIP খুলুন, আকারসহ ভিতরের প্রতিটি ফাইল দেখুন, এবং একটি ফাইল বা সব এক্সট্র্যাক্ট করুন।",
+  "k": "unzip file extractor unzip file extractor zip",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "RAR ফাইল এক্সট্র্যাক্টর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/rar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "আপনার ব্রাউজারে RAR ফাইল (RAR4 ও RAR5) খুলুন - ভিতরের প্রতিটি ফাইল দেখুন, একটি ফাইল বা সব একটি ZIP হিসেবে ডাউনলোড করুন।",
+  "k": "rar file extractor rar file extractor rar rar4 rar5 zip",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "7Z ফাইল এক্সট্র্যাক্টর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/7z-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "আপনার ব্রাউজারে 7z আর্কাইভ খুলুন - বিষয়বস্তু দেখুন ও একক ফাইল বা সব একটি ZIP হিসেবে এক্সট্র্যাক্ট করুন।",
+  "k": "7z file extractor 7z file extractor 7z zip",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR ফাইল এক্সট্র্যাক্টর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/tar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "আপনার ব্রাউজারে .tar, .tar.bz2 ও .tar.xz আর্কাইভ খুলুন ও ভিতরের ফাইল এক্সট্র্যাক্ট করুন - কিছুই আপলোড হয় না।",
+  "k": "tar file extractor tar file extractor tar tar bz2 tar xz",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR.GZ ফাইল এক্সট্র্যাক্টর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/tar-gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "আপনার ব্রাউজারে .tar.gz ও .tgz আর্কাইভ খুলুন - ভিতরের ফাইল ব্রাউজ করুন ও যা দরকার এক্সট্র্যাক্ট করুন।",
+  "k": "tar gz file extractor tar gz file extractor tar gz tgz",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "GZ ফাইল এক্সট্র্যাক্টর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "আপনার ব্রাউজারে একটি একক .gz ফাইল ডিকম্প্রেস করুন এবং মূলটি ডাউনলোড করুন - লগ, ডেটা এক্সপোর্ট ও ডাটাবেস ডাম্প।",
+  "k": "gz file extractor gz file extractor gz",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "ISO ফাইল এক্সট্র্যাক্টর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/iso-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "আপনার ব্রাউজারে ISO ডিস্ক ছবি খুলুন, ভার্চুয়াল ডিস্কে সংরক্ষিত ফাইল সিস্টেম ব্রাউজ করুন ও ফাইল ডাউনলোড করুন।",
+  "k": "iso file extractor iso file extractor iso",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "আর্কাইভ ফাইল এক্সট্র্যাক্টর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/archive-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "ZIP, RAR, 7Z, TAR, ISO ও আরও অনেক কিছুর জন্য একটি সার্বজনীন আর্কাইভ খুলনেওয়ালা - ফরম্যাট স্বয়ংক্রিয়ভাবে শনাক্ত করা হয়।",
+  "k": "archive file extractor archive file extractor zip rar 7z tar iso",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "RAR থেকে ZIP রূপান্তরকারী",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/rar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "আপনার ব্রাউজারে একটি RAR আর্কাইভ একটি মানক ZIP-এ রূপান্তর করুন - ফোল্ডার কাঠামো সংরক্ষিত, কিছু আপলোড নয়।",
+  "k": "rar to zip converter rar to zip converter rar zip",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "7Z থেকে ZIP কনভার্টার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/7z-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "একটি 7Z আর্কাইভ একটি ZIP-এ রূপান্তর করুন যা যেকোনো জায়গায় খোলে - 7-Zip দরকার নেই, কিছু আপলোড নয়।",
+  "k": "7z to zip converter 7z to zip converter 7z zip 7 zip",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR থেকে ZIP রূপান্তরকারী",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/tar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Linux বা Unix থেকে একটি TAR আর্কাইভ একটি ZIP-এ রূপান্তর করুন যা Windows, macOS ও ফোনে নিজে নিজে খোলে।",
+  "k": "tar to zip converter tar to zip converter linux unix tar zip windows macos",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR.GZ থেকে ZIP রূপান্তরকারী",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/tar-gz-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": ".tar.gz বা .tgz একটি ZIP-এ রূপান্তর করুন - gzip ও tar উভয় স্তর আপনার ডিভাইসে খোলা হয়।",
+  "k": "tar gz to zip converter tar gz to zip converter tar gz tgz zip gzip tar",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "ZIP থেকে TAR.GZ কনভার্টার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/zip-to-tar-gz-converter/",
+  "s": "Loona Dev Tools",
+  "d": "একটি ZIP আর্কাইভ একটি .tar.gz tarball-এ রূপান্তর করুন - যে ফরম্যাট Linux সার্ভার, Docker ও বিল্ড টুল প্রত্যাশা করে।",
+  "k": "zip to tar gz converter zip to tar gz converter zip tar gz tarball linux docker",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR ফাইল নির্মাতা",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/tar-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "আপনার ব্রাউজারে একাধিক ফাইল থেকে একটি spec-সঠিক .tar আর্কাইভ তৈরি করুন - যেকোনো tar টুল দিয়ে খোলে।",
+  "k": "tar file creator tar file creator spec tar tar",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "GZIP কম্প্রেসর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/gzip-compressor/",
+  "s": "Loona Dev Tools",
+  "d": "আপনার ব্রাউজারের অন্তর্নির্মিত gzip ইঞ্জিন দিয়ে যেকোনো একক ফাইলকে একটি .gz-তে সংকুচিত করুন - তাৎক্ষণিক আগের/পরের আকার।",
+  "k": "gzip compressor gzip compressor gzip gz",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV ভিউয়ার ও এডিটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/csv-viewer-editor/",
+  "s": "Loona Dev Tools",
+  "d": "CSV একটি সম্পাদনাযোগ্য টেবিল গ্রিডে লোড করুন - সেল সম্পাদনা করুন, কলাম সাজান, সারি ও কলাম যোগ বা সরান, তারপর ডাউনলোড করুন।",
+  "k": "csv viewer editor csv viewer editor csv",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV থেকে SQL কনভার্টার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/csv-to-sql-converter/",
+  "s": "Loona Dev Tools",
+  "d": "MySQL, PostgreSQL বা SQLite-এর জন্য অনুমিত টাইপসহ CSV-কে CREATE TABLE এবং INSERT বিবৃতিতে পরিণত করুন।",
+  "k": "csv to sql converter csv to sql converter mysql postgresql sqlite csv create table insert",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV থেকে XML কনভার্টার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/csv-to-xml-converter/",
+  "s": "Loona Dev Tools",
+  "d": "কনফিগারযোগ্য রুট ও সারি উপাদান এবং সঠিক এস্কেপিংসহ CSV সারিকে সুগঠিত XML-এ রূপান্তর করুন।",
+  "k": "csv to xml converter csv to xml converter csv xml",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV থেকে Markdown টেবিল কনভার্টার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/csv-to-markdown-converter/",
+  "s": "Loona Dev Tools",
+  "d": "CSV একটি GitHub-প্রস্তুত Markdown টেবিলে রূপান্তর করুন - সংখ্যাসূচক কলাম ডান-সারিবদ্ধ, পাইপ এস্কেপ করা।",
+  "k": "csv to markdown table converter csv to markdown converter csv github markdown",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV ডিডুপ ও ক্লিনার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/csv-dedupe-cleaner/",
+  "s": "Loona Dev Tools",
+  "d": "সম্পূর্ণ সারি বা কী কলাম দ্বারা ডুপ্লিকেট CSV সারি সরান, হোয়াইটস্পেস ছাঁটুন ও খালি সারি ফেলুন, গণনাসহ।",
+  "k": "csv dedupe cleaner csv dedupe cleaner csv",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV স্প্লিট ও মার্জ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/csv-split-merge/",
+  "s": "Loona Dev Tools",
+  "d": "একটি CSV সারি গণনা দ্বারা অংশে ভাগ করুন হেডার পুনরাবৃত্তসহ, বা একটি হেডার ভাগ করে এমন CSV ফাইল মার্জ করুন।",
+  "k": "csv split merge csv split merge csv csv",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "মেটা ট্যাগ জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/meta-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "একটি লাইভ SERP প্রিভিউসহ একটি প্রস্তুত HTML মেটা ব্লক তৈরি করুন - শিরোনাম, বর্ণনা, robots, canonical।",
+  "k": "meta tag generator meta tag generator serp html robots canonical",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Open Graph ও Twitter Card জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/open-graph-generator/",
+  "s": "Loona Dev Tools",
+  "d": "একটি লাইভ সামাজিক কার্ড প্রিভিউসহ OG ও Twitter Card ট্যাগ তৈরি করুন, যাতে শেয়ার করা লিংক সঠিক দেখায়।",
+  "k": "open graph twitter card generator open graph generator og twitter card",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Robots.txt জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/robots-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "প্রিসেট ও প্রতি-এজেন্ট নিয়ম থেকে একটি বৈধ robots.txt তৈরি করুন, আউটপুটে সানিটি পরীক্ষাসহ।",
+  "k": "robots txt generator robots txt generator robots txt",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "XML সাইটম্যাপ জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/xml-sitemap-generator/",
+  "s": "Loona Dev Tools",
+  "d": "URL-এর একটি তালিকাকে lastmod, changefreq এবং priority ডিফল্টসহ একটি বৈধ sitemap.xml-এ পরিণত করুন।",
+  "k": "xml sitemap generator xml sitemap generator url lastmod changefreq priority sitemap xml",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "UTM লিংক বিল্ডার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/utm-link-builder/",
+  "s": "Loona Dev Tools",
+  "d": "UTM প্যারামিটার দিয়ে ক্যাম্পেইন URL ট্যাগ করুন - সঠিক এনকোডিং, বিদ্যমান প্যারামিটার সংরক্ষিত, স্থানীয় ইতিহাস।",
+  "k": "utm link builder utm link builder utm url",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "IP সাবনেট ক্যালকুলেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/ip-subnet-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "IPv4 CIDR থেকে নেটওয়ার্ক, সম্প্রচার, নেটমাস্ক, ওয়াইল্ডকার্ড, হোস্ট পরিসর ও গণনা, যোগ একটি সাবনেট বিভাজন ভিউ।",
+  "k": "ip subnet calculator ip subnet calculator ipv4 cidr",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON-LD স্কিমা জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/json-ld-schema-generator/",
+  "s": "Loona Dev Tools",
+  "d": "schema.org কাঠামোগত ডেটা তৈরি করুন - Article, Product, LocalBusiness, Event, Recipe ও আরও অনেক - বৈধ JSON-LD হিসেবে।",
+  "k": "json ld schema generator json ld schema generator schema org article product localbusiness event recipe json ld",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Google SERP প্রিভিউ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/google-serp-preview/",
+  "s": "Loona Dev Tools",
+  "d": "আপনার শিরোনাম ও বর্ণনা একটি Google ফলাফল হিসেবে প্রিভিউ করুন, পিক্সেল-প্রস্থ ছাঁটাই সতর্কতা, ডেস্কটপ ও মোবাইলসহ।",
+  "k": "google serp preview google serp preview google",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "কীওয়ার্ড ঘনত্ব পরীক্ষক",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/keyword-density-checker/",
+  "s": "Loona Dev Tools",
+  "d": "শতাংশ ঘনত্ব ও স্টপওয়ার্ড ফিল্টারিংসহ একক শব্দ যোগ 2-শব্দ ও 3-শব্দের বাক্যাংশ গণনা করুন।",
+  "k": "keyword density checker keyword density checker 2 3",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML টেবিল জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/html-table-generator/",
+  "s": "Loona Dev Tools",
+  "d": "একটি গ্রিডে দৃশ্যত টেবিল তৈরি করুন এবং thead, th ও caption সমর্থনসহ পরিষ্কার শব্দার্থিক HTML পান।",
+  "k": "html table generator html table generator thead th caption html",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML ইমেইল স্বাক্ষর জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/email-signature-generator/",
+  "s": "Loona Dev Tools",
+  "d": "ইমেইল-নিরাপদ টেবিল HTML হিসেবে একটি পেশাদার ইমেইল স্বাক্ষর তৈরি করুন যা Gmail ও Outlook-এ কাজ করে।",
+  "k": "html email signature generator email signature generator html gmail outlook",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "ইমেইল ভ্যালিডেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/email-validator/",
+  "s": "Loona Dev Tools",
+  "d": "gmial.com-এর মতো সিনট্যাক্স ত্রুটি ও সাধারণ ডোমেইন টাইপোর জন্য ইমেইল ঠিকানা বাল্ক-পরীক্ষা করুন, পরামর্শসহ।",
+  "k": "email validator email validator gmial com",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS ক্লিপ-পাথ জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/css-clip-path-generator/",
+  "s": "Loona Dev Tools",
+  "d": "clip-path CSS তৈরি করুন - সামঞ্জস্যযোগ্য বিন্দুসহ পলিগন প্রিসেট, যোগ বৃত্ত, উপবৃত্ত ও ইনসেট আকার।",
+  "k": "css clip path generator css clip path generator clip path css",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS বক্স শ্যাডো জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/css-box-shadow-generator/",
+  "s": "Loona Dev Tools",
+  "d": "ইনসেট সমর্থন, রঙ ও অস্বচ্ছতা নিয়ন্ত্রণ, এবং একটি লাইভ প্রিভিউসহ স্তরযুক্ত box-shadow CSS তৈরি করুন।",
+  "k": "css box shadow generator css box shadow generator box shadow css",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "XML ফরম্যাটার ও যাচাইকারী",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/xml-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Beautify, minify ও XML যাচাই করুন - স্পষ্ট ত্রুটি বার্তাসহ ভারসাম্যপূর্ণ-ট্যাগ সুগঠিততা পরীক্ষা।",
+  "k": "xml formatter validator xml formatter beautify minify xml",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "Markdown থেকে HTML কনভার্টার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/markdown-to-html-converter/",
+  "s": "Loona Dev Tools",
+  "d": "দৈনন্দিন Markdown পরিষ্কার HTML-এ রূপান্তর করুন একটি লাইভ রেন্ডার করা প্রিভিউসহ - শিরোনাম, তালিকা, কোড ও আরও অনেক কিছু।",
+  "k": "markdown to html converter markdown to html converter markdown html",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV ট্রান্সপোজ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/csv-transpose/",
+  "s": "Loona Dev Tools",
+  "d": "একটি সঠিক পার্সার দিয়ে CSV সারি ও কলাম অদলবদল করুন - দুইবার ট্রান্সপোজ করা মূল ফেরত দেয়।",
+  "k": "csv transpose csv transpose csv",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV জয়েন",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/csv-join/",
+  "s": "Loona Dev Tools",
+  "d": "একটি কী কলামে দুটি CSV মার্জ করুন - inner বা left join, ডুপ্লিকেট কী ডাটাবেসের উপায়ে পরিচালিত।",
+  "k": "csv join csv join csv inner left join",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV পিভট / গ্রুপ-বাই",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/csv-pivot-group-by/",
+  "s": "Loona Dev Tools",
+  "d": "একটি মান কলামের যোগফল, গণনা, গড়, সর্বনিম্ন বা সর্বাধিকসহ একটি কলাম দিয়ে CSV সারি গ্রুপ করুন।",
+  "k": "csv pivot group by csv pivot group by csv",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV ডিফ / তুলনা",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/csv-diff/",
+  "s": "Loona Dev Tools",
+  "d": "কী কলাম দিয়ে দুটি CSV তুলনা করুন - সঠিক সেলসহ যোগ করা, সরানো ও পরিবর্তিত সারি।",
+  "k": "csv diff compare csv diff csv",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV ডেটা এক্সট্র্যাক্টর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/csv-data-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "অগোছালো CSV বা টেক্সট থেকে ইমেইল, ফোন নম্বর ও URL পরিষ্কার, ডি-ডুপ্লিকেট করা তালিকায় বের করুন।",
+  "k": "csv data extractor csv data extractor csv url",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV প্রোফাইলার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/csv-profiler/",
+  "s": "Loona Dev Tools",
+  "d": "প্রতি-কলাম ধরন অনুমান, খালি গণনা, অনন্য গণনা, সংখ্যাসূচক সর্বনিম্ন/সর্বোচ্চ ও শীর্ষ মান।",
+  "k": "csv profiler csv profiler",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "Robots.txt পরীক্ষক",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/robots-txt-tester/",
+  "s": "Loona Dev Tools",
+  "d": "একটি URL ও ব্যবহারকারী-এজেন্ট robots.txt নিয়মের বিপরীতে পরীক্ষা করুন - রায় পাশাপাশি ঠিক মিলের নিয়ম।",
+  "k": "robots txt tester robots txt tester url robots txt",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "SEO পাঠযোগ্যতা পরীক্ষক",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/readability-checker/",
+  "s": "Loona Dev Tools",
+  "d": "ছয় পাঠযোগ্যতা সূত্র পাশাপাশি ওয়েব কপির জন্য বাক্য পরিসংখ্যান, SEO বিষয়বস্তু কাজের জন্য ফ্রেম করা।",
+  "k": "seo readability checker readability checker seo",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "llms.txt জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/llms-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "AI-মুখী llms.txt ফাইল তৈরি করুন - spec ফরম্যাটে সারসংক্ষেপ ব্লককোট যোগ বাছাই করা পেজের লিংক।",
+  "k": "llms txt generator llms txt generator ai llms txt spec",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "Hreflang ট্যাগ জেনারেটর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/hreflang-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "x-default ও BCP 47 / পরম-URL পরীক্ষাসহ hreflang বিকল্প লিংক সেট তৈরি করুন।",
+  "k": "hreflang tag generator hreflang tag generator x default bcp 47 url hreflang",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "Office ডকুমেন্ট মেটাডেটা ভিউয়ার",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/office-metadata-viewer/",
+  "s": "Loona Dev Tools",
+  "d": "DOCX, XLSX ও PPTX বৈশিষ্ট্য পড়ুন - শিরোনাম, লেখক, কোম্পানি, তারিখ - শুধু-দেখা, ডিভাইসে।",
+  "k": "office document metadata viewer office metadata viewer docx xlsx pptx",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "ফাইল টাইপ ডিটেক্টর",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bn/file-type-detector/",
+  "s": "Loona Dev Tools",
+  "d": "এর ম্যাজিক বাইট থেকে একটি ফাইলের আসল টাইপ শনাক্ত করুন এবং এক্সটেনশন অসম্মত হলে সতর্ক করুন।",
+  "k": "file type detector file type detector",
+  "p": 171,
+  "c": "Tool"
+ }
+]

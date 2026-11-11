@@ -1,0 +1,29 @@
+{
+  "name": "Loona XML সাইটম্যাপ জেনারেটর অনলাইন বিনামূল্যে",
+  "short_name": "XML সাইটম্যাপ জেনারেটর অনলাইন",
+  "description": "URL-এর একটি তালিকা থেকে বিনামূল্যে অনলাইনে একটি বৈধ XML সাইটম্যাপ তৈরি করুন, ডিফল্ট lastmod, changefreq ও অগ্রাধিকারসহ, সঠিক URL ও XML এস্কেপিং। কোনো সাইন-আপ নয়, আপনার ব্রাউজারে চলে।",
+  "id": "/loona-dev-tools/bn/xml-sitemap-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

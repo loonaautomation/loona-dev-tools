@@ -1,0 +1,29 @@
+{
+  "name": "Loona হ্যাশ জেনারেটর অনলাইন বিনামূল্যে",
+  "short_name": "হ্যাশ জেনারেটর অনলাইন বিনামূল্যে",
+  "description": "বিনামূল্যে অনলাইনে যেকোনো টেক্সটের SHA-1, SHA-256, SHA-384 ও SHA-512 হ্যাশ তৈরি করুন, আপনার ব্রাউজারে স্থানীয়ভাবে হিসাব করা। কোনো সাইন-আপ নয়, কিছু আপলোড নয়।",
+  "id": "/loona-dev-tools/bn/hash-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

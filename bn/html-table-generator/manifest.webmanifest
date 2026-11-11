@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML টেবিল জেনারেটর অনলাইন বিনামূল্যে",
+  "short_name": "HTML টেবিল জেনারেটর অনলাইন",
+  "description": "বিনামূল্যে অনলাইনে HTML টেবিল তৈরি করুন - সারি ও কলাম সেট করুন, গ্রিডে টাইপ করুন, এবং thead, th ও caption সমর্থন যোগ একটি লাইভ প্রিভিউসহ পরিষ্কার টেবিল HTML পান। কোনো সাইন-আপ নয়।",
+  "id": "/loona-dev-tools/bn/html-table-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

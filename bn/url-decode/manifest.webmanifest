@@ -1,0 +1,29 @@
+{
+  "name": "Loona URL ডিকোড (শতাংশ ডিকোডিং)",
+  "short_name": "URL ডিকোড (শতাংশ ডিকোডিং)",
+  "description": "শতাংশ-এনকোড করা URL ও কুয়েরি স্ট্রিং আবার পাঠযোগ্য টেক্সটে ডিকোড করুন, UTF-8 ধারাবাহিকতা ও + কে স্পেস হিসেবে সহ। বিনামূল্যে অনলাইন ডিকোডার।",
+  "id": "/loona-dev-tools/bn/url-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

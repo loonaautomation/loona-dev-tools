@@ -1,0 +1,29 @@
+{
+  "name": "Loona SHA-512 হ্যাশ জেনারেটর",
+  "short_name": "SHA-512 হ্যাশ জেনারেটর",
+  "description": "অনলাইনে টেক্সট বা ফাইলের SHA-512 হ্যাশ হিসাব করুন: 512-বিট, 128 হেক্স অক্ষর। WebCrypto/খাঁটি JS দিয়ে আপনার ব্রাউজারে স্থানীয়ভাবে চলে — ফাইল কখনও আপলোড হয় না।",
+  "id": "/loona-dev-tools/bn/sha512-hash-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona ইমেইল ভ্যালিডেটর অনলাইন বিনামূল্যে",
+  "short_name": "ইমেইল ভ্যালিডেটর অনলাইন বিনামূল্যে",
+  "description": "বিনামূল্যে অনলাইনে ইমেইল ঠিকানা যাচাই করুন, একটি বা বাল্কে - ঠিকানার নিয়মের বিরুদ্ধে সম্পূর্ণ সিনট্যাক্স পরীক্ষা এবং gmial.com-এর মতো সাধারণ ডোমেইন টাইপো শনাক্তকরণ। কোনো সাইন-আপ নয়।",
+  "id": "/loona-dev-tools/bn/email-validator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cookie হেডার পার্সার",
+  "short_name": "Cookie হেডার পার্সার",
+  "description": "একটি Cookie হেডার একটি পাঠযোগ্য তালিকায় পার্স করুন: নাম = মান জোড়া, শতাংশ-ডিকোড করা মান দেখানো, কুকি গণনা।",
+  "id": "/loona-dev-tools/bn/cookie-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

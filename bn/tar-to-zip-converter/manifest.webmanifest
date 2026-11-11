@@ -1,0 +1,29 @@
+{
+  "name": "Loona TAR থেকে ZIP কনভার্টার অনলাইন বিনামূল্যে",
+  "short_name": "অনলাইনে TAR থেকে ZIP রূপান্তরকারী",
+  "description": "আপনার ব্রাউজারেই একটি TAR আর্কাইভ (.tar) একটি ZIP ফাইলে রূপান্তর করুন। TAR ফাইল Linux ও Unix সিস্টেম থেকে আসে; রূপান্তরিত ZIP Windows, macOS ও ফোনে নিজে নিজে খোলে। কিছুই আপলোড হয় না।",
+  "id": "/loona-dev-tools/bn/tar-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

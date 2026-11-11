@@ -1,0 +1,29 @@
+{
+  "name": "Loona IP সাবনেট ক্যালকুলেটর অনলাইন বিনামূল্যে",
+  "short_name": "IP সাবনেট ক্যালকুলেটর অনলাইন",
+  "description": "বিনামূল্যে অনলাইনে IPv4 সাবনেট হিসাব করুন - যেকোনো CIDR ঠিকানা থেকে নেটওয়ার্ক, সম্প্রচার, নেটমাস্ক, ওয়াইল্ডকার্ড, প্রথম ও শেষ হোস্ট, ব্যবহারযোগ্য হোস্ট সংখ্যা ও IP শ্রেণি, যোগ একটি সাবনেট বিভাজন ভিউ।",
+  "id": "/loona-dev-tools/bn/ip-subnet-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Markdown থেকে HTML কনভার্টার অনলাইন বিনামূল্যে",
+  "short_name": "Markdown থেকে HTML কনভার্টার",
+  "description": "বিনামূল্যে অনলাইনে Markdown HTML-এ রূপান্তর করুন - শিরোনাম, বোল্ড, ইটালিক, লিংক, ছবি, তালিকা, ব্লককোট, কোড ব্লক ও আরও অনেক কিছু, একটি লাইভ রেন্ডার করা প্রিভিউসহ। কোনো সাইন-আপ নয়।",
+  "id": "/loona-dev-tools/bn/markdown-to-html-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

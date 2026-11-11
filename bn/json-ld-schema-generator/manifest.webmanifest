@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON-LD স্কিমা জেনারেটর অনলাইন বিনামূল্যে",
+  "short_name": "JSON-LD স্কিমা জেনারেটর",
+  "description": "বিনামূল্যে অনলাইনে schema.org JSON-LD কাঠামোগত ডেটা তৈরি করুন - Article, LocalBusiness, Product, Event, Recipe, Person, Organization ও WebSite - একটি প্রস্তুত স্ক্রিপ্ট ব্লক হিসেবে। কোনো সাইন-আপ নয়।",
+  "id": "/loona-dev-tools/bn/json-ld-schema-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona টেক্সট থেকে Base32 এনকোডার",
+  "short_name": "টেক্সট থেকে Base32 এনকোডার",
+  "description": "অনলাইনে টেক্সট Base32-তে (RFC 4648) এনকোড করুন — TOTP সিক্রেট ও DNS-নিরাপদ শনাক্তকারীতে ব্যবহৃত কেস-অসংবেদনশীল এনকোডিং।",
+  "id": "/loona-dev-tools/bn/text-to-base32/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

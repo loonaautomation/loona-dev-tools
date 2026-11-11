@@ -1,0 +1,29 @@
+{
+  "name": "Loona Unicode আনএস্কেপ কনভার্টার (ডিকোড \\uXXXX)",
+  "short_name": "Unicode আনএস্কেপ কনভার্টার",
+  "description": "Unicode এস্কেপ ধারাবাহিকতা (\\uXXXX, \\u{...}, \\xXX) আবার আসল অক্ষরে ডিকোড করুন, যোগ \\n \\t ও \\\\ এস্কেপ।",
+  "id": "/loona-dev-tools/bn/unicode-unescape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

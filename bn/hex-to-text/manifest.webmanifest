@@ -1,0 +1,29 @@
+{
+  "name": "Loona হেক্স থেকে টেক্সট কনভার্টার",
+  "short_name": "হেক্স থেকে টেক্সট কনভার্টার",
+  "description": "হেক্সাডেসিমাল আবার টেক্সটে রূপান্তর করুন: হেক্স বাইট পেস্ট করুন (ফাঁকযুক্ত বা অবিচ্ছিন্ন, 0x সহ বা ছাড়া) এবং UTF-8 টেক্সট পড়ুন।",
+  "id": "/loona-dev-tools/bn/hex-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

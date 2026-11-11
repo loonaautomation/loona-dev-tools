@@ -1,0 +1,29 @@
+{
+  "name": "Loona Open Graph ও Twitter কার্ড জেনারেটর",
+  "short_name": "Open Graph ও Twitter Card",
+  "description": "বিনামূল্যে অনলাইনে একটি লাইভ সামাজিক কার্ড প্রিভিউসহ Open Graph ও Twitter Card মেটা ট্যাগ তৈরি করুন - শিরোনাম, বর্ণনা, ছবি, URL ও সাইটের নাম। কোনো সাইন-আপ নয়, আপনার ব্রাউজারে চলে।",
+  "id": "/loona-dev-tools/bn/open-graph-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

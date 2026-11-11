@@ -1,0 +1,29 @@
+{
+  "name": "Loona RAR থেকে TAR কনভার্টার",
+  "short_name": "RAR থেকে TAR রূপান্তরকারী",
+  "description": "আপনার ব্রাউজারে libarchive দিয়ে RAR আর্কাইভ (RAR4 ও RAR5) অনলাইনে TAR-এ রূপান্তর করুন। ফাইল আপনার ডিভাইসে থাকে।",
+  "id": "/loona-dev-tools/bn/rar-to-tar-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

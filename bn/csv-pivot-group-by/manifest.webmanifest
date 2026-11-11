@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV পিভট ও গ্রুপ-বাই অনলাইন বিনামূল্যে",
+  "short_name": "CSV পিভট ও গ্রুপ-বাই অনলাইন",
+  "description": "CSV ডেটা বিনামূল্যে অনলাইনে পিভট করুন - যেকোনো কলাম দ্বারা সারি গ্রুপ করুন ও একটি মান কলামের যোগ, গণনা, গড়, সর্বনিম্ন বা সর্বোচ্চ হিসাব করুন। কোনো সাইন-আপ নয়, 100% আপনার ব্রাউজারে চলে।",
+  "id": "/loona-dev-tools/bn/csv-pivot-group-by/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

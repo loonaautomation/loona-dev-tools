@@ -1,0 +1,29 @@
+{
+  "name": "Loona কীওয়ার্ড ঘনত্ব পরীক্ষক অনলাইন বিনামূল্যে",
+  "short_name": "কীওয়ার্ড ঘনত্ব পরীক্ষক",
+  "description": "বিনামূল্যে অনলাইনে কীওয়ার্ড ঘনত্ব পরীক্ষা করুন - গণনা ও শতাংশ ঘনত্বসহ শীর্ষ একক শব্দ যোগ 2-শব্দ ও 3-শব্দের বাক্যাংশ, স্টপওয়ার্ড ফিল্টারিং অন্তর্ভুক্ত। কোনো সাইন-আপ নয়।",
+  "id": "/loona-dev-tools/bn/keyword-density-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV থেকে JSON কনভার্টার অনলাইন বিনামূল্যে",
+  "short_name": "CSV থেকে JSON কনভার্টার অনলাইন",
+  "description": "বিনামূল্যে অনলাইনে অবজেক্টের একটি JSON অ্যারেতে CSV রূপান্তর করুন, একটি সঠিক CSV পার্সারসহ যা উদ্ধৃত ফিল্ড, উদ্ধৃতির ভিতরের কমা ও এস্কেপ করা উদ্ধৃতি পরিচালনা করে। কোনো সাইন-আপ নয়, 100% আপনার ব্রাউজারে চলে।",
+  "id": "/loona-dev-tools/bn/csv-to-json-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Google SERP প্রিভিউ টুল অনলাইন বিনামূল্যে",
+  "short_name": "Google SERP প্রিভিউ টুল",
+  "description": "Google অনুসন্ধান ফলাফলে আপনার পেজ শিরোনাম ও মেটা বর্ণনা কেমন দেখাবে তা বিনামূল্যে অনলাইনে প্রিভিউ করুন, ডেস্কটপ ও মোবাইল ভিউ ও পিক্সেল-প্রস্থ ছাঁটাই সতর্কতাসহ। কোনো সাইন-আপ নয়।",
+  "id": "/loona-dev-tools/bn/google-serp-preview/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

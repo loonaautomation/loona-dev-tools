@@ -1,0 +1,29 @@
+{
+  "name": "Loona 7Z থেকে ZIP কনভার্টার অনলাইন বিনামূল্যে",
+  "short_name": "7Z থেকে ZIP কনভার্টার অনলাইন",
+  "description": "আপনার ব্রাউজারেই একটি 7Z আর্কাইভ (.7z) একটি মানক ZIP ফাইলে রূপান্তর করুন। ফোল্ডার কাঠামো সংরক্ষিত, কিছু আপলোড নয় - এবং ফলাফল ZIP Windows, macOS, Android ও iPhone-এ নিজে নিজে খোলে, 7-Zip দরকার নেই।",
+  "id": "/loona-dev-tools/bn/7z-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

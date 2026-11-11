@@ -1,0 +1,29 @@
+{
+  "name": "Loona XML থেকে JSON কনভার্টার",
+  "short_name": "XML থেকে JSON কনভার্টার",
+  "description": "অনলাইনে XML JSON-এ রূপান্তর করুন: অ্যাট্রিবিউট @keys হিসেবে, পুনরাবৃত্ত উপাদান অ্যারে হিসেবে, টেক্সট সংখ্যা টাইপ করা মান হিসেবে।",
+  "id": "/loona-dev-tools/bn/xml-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

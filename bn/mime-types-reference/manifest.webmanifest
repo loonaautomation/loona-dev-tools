@@ -1,0 +1,29 @@
+{
+  "name": "Loona MIME টাইপ রেফারেন্স (দ্বারা বিষয়বস্তুর টাইপ",
+  "short_name": "MIME টাইপ রেফারেন্স (বিষয়বস্তু",
+  "description": "ফাইল এক্সটেনশন অনুযায়ী সাধারণ MIME টাইপ: ডকুমেন্ট, ছবি, অডিও, ভিডিও, আর্কাইভ, ফন্ট ও ওয়েব ফরম্যাট তাদের Content-Type মানসহ।",
+  "id": "/loona-dev-tools/bn/mime-types-reference/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

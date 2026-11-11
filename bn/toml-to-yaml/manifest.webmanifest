@@ -1,0 +1,29 @@
+{
+  "name": "Loona TOML থেকে YAML কনভার্টার",
+  "short_name": "TOML থেকে YAML রূপান্তরকারী",
+  "description": "অনলাইনে TOML YAML-এ রূপান্তর করুন: টেবিল নেস্টেড ম্যাপিং হয়, অ্যারে টেবিল অবজেক্টের তালিকা হয়।",
+  "id": "/loona-dev-tools/bn/toml-to-yaml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona GZIP কম্প্রেসর অনলাইন বিনামূল্যে",
+  "short_name": "GZIP কম্প্রেসর অনলাইন বিনামূল্যে",
+  "description": "আপনার ব্রাউজারের অন্তর্নির্মিত gzip ইঞ্জিন ব্যবহার করে যেকোনো একক ফাইলকে একটি .gz-তে সংকুচিত করুন। তাৎক্ষণিক আগের/পরের আকার, কিছু আপলোড নয় - ফাইলটি আপনার ডিভাইসে সংকুচিত হয়। লগ, CSV, TAR ফাইল ও আরও অনেক কিছুর জন্য কাজ করে।",
+  "id": "/loona-dev-tools/bn/gzip-compressor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

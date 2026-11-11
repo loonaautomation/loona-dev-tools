@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON থেকে Query String কনভার্টার",
+  "short_name": "JSON থেকে Query String কনভার্টার",
+  "description": "একটি JSON অবজেক্ট থেকে একটি URL কুয়েরি স্ট্রিং তৈরি করুন: নেস্টেড অবজেক্ট ব্র্যাকেট চিহ্ন ব্যবহার করে, অ্যারে কী পুনরাবৃত্তি করে, সবকিছু শতাংশ-এনকোড করা।",
+  "id": "/loona-dev-tools/bn/json-to-query-string/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

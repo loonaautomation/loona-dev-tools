@@ -1,0 +1,29 @@
+{
+  "name": "Loona Punycode এনকোডার (IDN ডোমেইন কনভার্টার)",
+  "short_name": "Punycode এনকোডার (IDN ডোমেন",
+  "description": "আন্তর্জাতিকীকৃত ডোমেইন নাম (IDN) punycode xn-- রূপে রূপান্তর করুন: bücher.example হয় xn--bcher-kva.example। প্রতি-লেবেল এনকোডিং।",
+  "id": "/loona-dev-tools/bn/punycode-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

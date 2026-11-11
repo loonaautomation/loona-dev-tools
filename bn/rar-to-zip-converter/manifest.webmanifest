@@ -1,0 +1,29 @@
+{
+  "name": "Loona RAR থেকে ZIP কনভার্টার অনলাইন বিনামূল্যে",
+  "short_name": "অনলাইনে RAR থেকে ZIP রূপান্তরকারী",
+  "description": "আপনার ব্রাউজারেই একটি RAR আর্কাইভ (.rar) একটি মানক ZIP ফাইলে রূপান্তর করুন। ফোল্ডার কাঠামো সংরক্ষিত, কিছুই আপলোড হয় না, এবং ZIP যেকোনো জায়গায় খোলে - Windows, macOS, Android ও iPhone সবই নিজে নিজে ZIP খোলে।",
+  "id": "/loona-dev-tools/bn/rar-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

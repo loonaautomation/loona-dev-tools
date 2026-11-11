@@ -1,0 +1,29 @@
+{
+  "name": "Loona ZIP ফাইল নির্মাতা অনলাইন বিনামূল্যে",
+  "short_name": "ZIP ফাইল নির্মাতা অনলাইন বিনামূল্যে",
+  "description": "আপনার ব্রাউজারেই একাধিক ফাইল থেকে একটি ZIP ফাইল তৈরি করুন - ফাইল যোগ করুন, আর্কাইভের নাম দিন ও একটি .zip ডাউনলোড করুন। কিছুই আপলোড হয় না; সবকিছু আপনার ডিভাইসে থাকে।",
+  "id": "/loona-dev-tools/bn/zip-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

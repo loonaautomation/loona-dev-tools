@@ -1,0 +1,29 @@
+{
+  "name": "Loona উদ্ধৃত-মুদ্রণযোগ্য ডিকোডার",
+  "short_name": "উদ্ধৃত-মুদ্রণযোগ্য ডিকোডার",
+  "description": "উদ্ধৃত-মুদ্রণযোগ্য (MIME) টেক্সট আবার পাঠযোগ্য UTF-8-তে ডিকোড করুন: =XX এস্কেপ ও নরম লাইন বিরতি RFC 2045 অনুযায়ী পরিচালিত।",
+  "id": "/loona-dev-tools/bn/quoted-printable-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

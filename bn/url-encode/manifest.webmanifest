@@ -1,0 +1,29 @@
+{
+  "name": "Loona URL এনকোড (শতাংশ এনকোডিং)",
+  "short_name": "URL এনকোড (শতাংশ এনকোডিং)",
+  "description": "টেক্সট বা একটি সম্পূর্ণ URL অনলাইনে শতাংশ-এনকোড করুন: স্পেস %20 হয়, সংরক্ষিত অক্ষর RFC 3986 অনুযায়ী এস্কেপ করা হয়। কম্পোনেন্ট বা সম্পূর্ণ-URL মোড।",
+  "id": "/loona-dev-tools/bn/url-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

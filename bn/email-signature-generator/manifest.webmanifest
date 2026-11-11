@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML ইমেইল স্বাক্ষর জেনারেটর অনলাইন বিনামূল্যে",
+  "short_name": "HTML ইমেইল স্বাক্ষর",
+  "description": "বিনামূল্যে অনলাইনে একটি পেশাদার HTML ইমেইল স্বাক্ষর তৈরি করুন - নাম, শিরোনাম, কোম্পানি, ফোন, ইমেইল ও ওয়েবসাইট ইমেইল-নিরাপদ টেবিল HTML-এ যা Gmail ও Outlook-এ কাজ করে। কোনো সাইন-আপ নয়।",
+  "id": "/loona-dev-tools/bn/email-signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

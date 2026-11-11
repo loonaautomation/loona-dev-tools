@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ZIP থেকে TAR.GZ কনভার্টার অনলাইন বিনামূল্যে - আপনার ব্রাউজারে .zip-কে .tar.gz-এ রূপান্তর করুন | Loona Developer Tools</title>
+<meta name="description" content="আপনার ব্রাউজারেই একটি ZIP আর্কাইভ একটি TAR.GZ tarball (.tar.gz)-এ রূপান্তর করুন - যে ফরম্যাট Linux সার্ভার, Docker ও বিল্ড টুল প্রত্যাশা করে। ফোল্ডার কাঠামো সংরক্ষিত, কিছু আপলোড নয়।">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-dev-tools/bn/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-dev-tools/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-dev-tools/es/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-dev-tools/de/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-dev-tools/fr/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-dev-tools/pt/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-dev-tools/it/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-dev-tools/nl/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-dev-tools/ar/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-dev-tools/ur/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-dev-tools/tr/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-dev-tools/ru/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="bn" href="https://loonaautomation.github.io/loona-dev-tools/bn/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-dev-tools/zip-to-tar-gz-converter/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Loona Developer Tools">
+<meta property="og:title" content="ZIP থেকে TAR.GZ কনভার্টার অনলাইন বিনামূল্যে - আপনার ব্রাউজারে .zip-কে .tar.gz-এ রূপান্তর করুন | Loona Developer Tools">
+<meta property="og:description" content="আপনার ব্রাউজারেই একটি ZIP আর্কাইভ একটি TAR.GZ tarball (.tar.gz)-এ রূপান্তর করুন - যে ফরম্যাট Linux সার্ভার, Docker ও বিল্ড টুল প্রত্যাশা করে। ফোল্ডার কাঠামো সংরক্ষিত, কিছু আপলোড নয়।">
+<meta property="og:url" content="https://loonaautomation.github.io/loona-dev-tools/bn/zip-to-tar-gz-converter/"><meta property="og:locale" content="bn_BD">
+<meta property="og:image" content="https://loonaautomation.github.io/loona-dev-tools/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="ZIP থেকে TAR.GZ কনভার্টার অনলাইন বিনামূল্যে - আপনার ব্রাউজারে .zip-কে .tar.gz-এ রূপান্তর করুন | Loona Developer Tools">
+<meta name="twitter:description" content="আপনার ব্রাউজারেই একটি ZIP আর্কাইভ একটি TAR.GZ tarball (.tar.gz)-এ রূপান্তর করুন - যে ফরম্যাট Linux সার্ভার, Docker ও বিল্ড টুল প্রত্যাশা করে। ফোল্ডার কাঠামো সংরক্ষিত, কিছু আপলোড নয়।">
+<meta name="twitter:image" content="https://loonaautomation.github.io/loona-dev-tools/og-image.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
+<link rel="icon" href="../../favicon.ico">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","z599jkwoy9");</script>
+<script src="../../lib/jszip.min.js"></script>
+<style>
+:root{--teal:#062e2a;--teal2:#0b3d37;--gold:#c9a227;--gold2:#e3c565;--ink:#12211e;--mut:#5a6d68;--bg:#f6f4ec;--card:#ffffff;--line:#e3ddc9;--radius:16px}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+a{color:#0a5c50;text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{position:sticky;top:0;z-index:50;background:var(--teal);box-shadow:0 2px 14px rgba(0,0,0,.25)}
+.header-in{max-width:1140px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:10px 16px}
+.brand{display:flex;align-items:center;gap:10px;color:#fff;font-weight:700;font-size:1.15rem}
+.brand img{width:40px;height:40px;border-radius:9px}
+.brand span{color:var(--gold2)}
+nav.main{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+nav.main a{color:#dcebe4;padding:7px 11px;border-radius:9px;font-size:.93rem}
+nav.main a:hover{background:var(--teal2);text-decoration:none;color:#fff}
+.wrap{max-width:1140px;margin:0 auto;padding:0 16px}
+.hero{background:linear-gradient(135deg,var(--teal) 0%,#0d4a41 60%,#10604f 100%);color:#fff;padding:52px 0 46px;text-align:center}
+.hero h1{font-size:2.35rem;line-height:1.2;margin-bottom:12px}
+.hero h1 .gold{color:var(--gold2)}
+.hero p{max-width:720px;margin:0 auto 8px;color:#d7e8df;font-size:1.06rem}
+.hero .badges{margin-top:18px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.badge{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);color:#fff;padding:5px 13px;border-radius:999px;font-size:.85rem}
+.crumbs{font-size:.86rem;color:var(--mut);padding:16px 0 4px}
+.crumbs a{color:var(--mut)}
+main.page{padding:8px 0 10px}
+h1.tool{font-size:2rem;line-height:1.25;color:var(--teal);margin:6px 0 8px}
+.inshort{background:#fff8e1;border-left:4px solid var(--gold);padding:12px 16px;border-radius:0 12px 12px 0;margin:12px 0 16px;font-size:1.0rem}
+.lede{color:#33473f;max-width:820px;margin-bottom:18px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:0 4px 18px rgba(6,46,42,.06);margin-bottom:22px}
+.btn{display:inline-block;background:var(--gold);color:#231a00;font-weight:700;border:none;padding:12px 26px;border-radius:11px;font-size:1rem;cursor:pointer;box-shadow:0 3px 10px rgba(201,162,39,.35)}
+.btn:hover{background:var(--gold2)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:#fff;border:1.5px solid var(--teal);color:var(--teal);box-shadow:none;padding:9px 18px;font-size:.93rem}
+.btn.small{padding:7px 13px;font-size:.86rem}
+.row{display:flex;gap:14px;flex-wrap:wrap;margin:14px 0}
+.field{flex:1;min-width:150px}
+.field label{display:block;font-weight:600;font-size:.9rem;margin-bottom:5px;color:var(--teal)}
+.field select,.field input[type=text],.field input[type=number],.field textarea{width:100%;padding:10px 12px;border:1.5px solid #cfc9ae;border-radius:10px;font-size:.97rem;background:#fff;font-family:inherit}
+.field textarea{min-height:150px;resize:vertical}
+textarea.big{min-height:220px;font-size:1rem;line-height:1.65}
+textarea.mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.92rem}
+input[type=range]{width:100%}
+.check{display:flex;align-items:center;gap:8px;font-size:.95rem;margin:6px 0;cursor:pointer}
+.check input{width:17px;height:17px;accent-color:#0b3d37}
+.status{margin-top:14px;font-size:.95rem;min-height:22px}
+.status.ok{color:#0a6b3c}.status.err{color:#b3261e}
+.privacy-note{background:#e9f5ef;border:1px solid #bfe0cd;color:#14532d;border-radius:12px;padding:12px 16px;font-size:.94rem;margin-bottom:22px}
+section.block{margin:30px 0}
+section.block h2{color:var(--teal);font-size:1.45rem;margin-bottom:12px}
+section.block h3{color:var(--teal);margin:14px 0 6px}
+section.block p,section.block li{color:#33473f}
+section.block ol,section.block ul{padding-left:22px}
+section.block li{margin-bottom:6px}
+.strip{display:flex;gap:8px;flex-wrap:wrap}
+.chip{background:#fff;border:1.5px solid var(--gold);color:var(--teal);font-weight:600;padding:8px 15px;border-radius:999px;font-size:.9rem}
+.chip:hover{background:#fff7dd;text-decoration:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;display:block;color:var(--ink);transition:.15s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(6,46,42,.12);text-decoration:none;border-color:var(--gold)}
+.card .ic{font-size:1.9rem;margin-bottom:8px}
+.card h3{color:var(--teal);font-size:1.12rem;margin-bottom:5px}
+.card p{color:var(--mut);font-size:.92rem}
+details.faq{background:#fff;border:1px solid var(--line);border-radius:12px;padding:13px 17px;margin-bottom:10px}
+details.faq summary{cursor:pointer;font-weight:600;color:var(--teal)}
+details.faq p{margin-top:8px;color:#33473f}
+.kv{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:12px}
+.kv div{background:#faf8ef;border:1px solid var(--line);border-radius:10px;padding:9px 12px;font-size:.92rem}
+.kv b{color:var(--teal);display:block;font-size:1.05rem}
+table.freq{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+table.freq th,table.freq td{padding:8px 12px;border-bottom:1px solid var(--line);text-align:left;font-size:.94rem}
+table.freq th{background:#faf8ef;color:var(--teal)}
+.diffout{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9rem;line-height:1.55;max-height:480px;overflow:auto}
+.diffout .add{background:#e2f4e5}
+.diffout .del{background:#fbe3e1}
+.fancyrow{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin-bottom:9px}
+.fancyrow .fv{flex:1;font-size:1.08rem;word-break:break-all}
+footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
+.footer-in{max-width:1140px;margin:0 auto;padding:30px 16px;display:flex;gap:26px;flex-wrap:wrap}
+.footer-in h4{color:var(--gold2);margin-bottom:9px;font-size:1rem}
+.footer-in a{color:#cfe0d6;display:block;margin-bottom:5px;font-size:.93rem}
+.footer-in .col{min-width:170px}
+.copyright{border-top:1px solid #12463e;text-align:center;padding:14px;font-size:.86rem;color:#9db8ab}
+@media(max-width:640px){.hero h1{font-size:1.7rem}h1.tool{font-size:1.55rem}.panel{padding:16px}nav.main a{padding:6px 8px;font-size:.86rem}}
+.dropzone{border:2px dashed #cfc9ae;border-radius:12px;padding:28px 18px;text-align:center;background:#faf8ef;cursor:pointer;color:#33473f}
+.dropzone.over{border-color:var(--gold);background:#fff7dd}
+.dropzone strong{color:var(--teal)}
+.filewrap{max-height:340px;overflow:auto;margin-top:14px}
+.rmbtn{background:#fff;border:1.5px solid #b3261e;color:#b3261e;border-radius:8px;padding:4px 10px;font-size:.82rem;cursor:pointer}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"ZIP থেকে TAR.GZ কনভার্টার - Loona Developer Tools","url":"https://loonaautomation.github.io/loona-dev-tools/bn/zip-to-tar-gz-converter/","description":"আপনার ব্রাউজারেই একটি ZIP আর্কাইভ একটি TAR.GZ tarball (.tar.gz)-এ রূপান্তর করুন - যে ফরম্যাট Linux সার্ভার, Docker ও বিল্ড টুল প্রত্যাশা করে। ফোল্ডার কাঠামো সংরক্ষিত, কিছু আপলোড নয়।","applicationCategory":"DeveloperApplication","operatingSystem":"Any","browserRequirements":"JavaScript দরকার","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"হোম","item":"https://loonaautomation.github.io/loona-dev-tools/bn/"},{"@type":"ListItem","position":2,"name":"ডেভেলপার টুলসমূহ","item":"https://loonaautomation.github.io/loona-dev-tools/bn/"},{"@type":"ListItem","position":3,"name":"ZIP থেকে TAR.GZ কনভার্টার","item":"https://loonaautomation.github.io/loona-dev-tools/bn/zip-to-tar-gz-converter/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"এই ZIP থেকে TAR.GZ কনভার্টার কি বিনামূল্যে?","acceptedAnswer":{"@type":"Answer","text":"হ্যাঁ - বিনামূল্যে, কোনো সাইন-আপ নয়, কোনো সীমা নয় এবং কোনো ওয়াটারমার্ক নয়।"}},{"@type":"Question","name":"আমার ফাইলগুলো কি সার্ভারে আপলোড হয়?","acceptedAnswer":{"@type":"Answer","text":"না। JSZip ZIP পড়ে, TAR এই পেজের কোড দিয়ে লেখা হয়, এবং gzip আপনার ব্রাউজারের অন্তর্নির্মিত ইঞ্জিন দিয়ে করা হয়। সবকিছু আপনার ডিভাইসে থাকে।"}},{"@type":"Question","name":"GNU tar এবং Linux টুল কি আউটপুট গ্রহণ করবে?","acceptedAnswer":{"@type":"Answer","text":"হ্যাঁ। TAR রাইটার ustar স্পেসিফিকেশন অনুসরণ করে - সঠিক হেডার চেকসাম, অক্টাল আকারের ক্ষেত্র, দীর্ঘ পাথের জন্য ustar প্রিফিক্স বিভাজন এবং তার চেয়েও বেশি একটি পাথের জন্য GNU longname এন্ট্রি - এবং ফলাফল Python-এর tarfile মডিউল দিয়ে ফিরিয়ে পড়ে পরীক্ষা-যাচাই করা হয়েছিল।"}},{"@type":"Question","name":"ফাইলের টাইমস্ট্যাম্প ও অনুমতি কি সংরক্ষিত থাকে?","acceptedAnswer":{"@type":"Answer","text":"ZIP-এ সংরক্ষিত টাইমস্ট্যাম্পগুলো TAR হেডারে বহন করা হয়। অনুমতিগুলো মানক ডিফল্ট হিসেবে লেখা হয় (ফাইল 0644, ফোল্ডার 0755), কারণ ZIP নির্ভরযোগ্যভাবে Unix অনুমতি সংরক্ষণ করে না - আপনার যদি হুবহু মোড প্রয়োজন হয়, এক্সট্র্যাক্ট করার পরে chmod দিয়ে সেগুলো সেট করুন।"}},{"@type":"Question","name":"বদলে সাধারণ .tar-এ কেন রূপান্তর নয়?","acceptedAnswer":{"@type":"Answer","text":"একটি সাধারণ TAR অসংকুচিত, তাই এটি মোটামুটি সব ফাইল একসঙ্গে যোগ করার আকারের হবে। .tar.gz হলো যা Linux টুলিং প্রত্যাশা করে এবং ZIP-এর আকারের কাছাকাছি থাকে। আলগা ফাইলের একটি সাধারণ TAR-এর জন্য, TAR ফাইল নির্মাতা ব্যবহার করুন।"}}]}</script>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
+</head>
+<body>
+<header class="site"><div class="header-in">
+<a class="brand" href="../"><img src="../../apple-touch-icon.png" alt="Loona Automation লোগো">Loona <span>ডেভেলপার টুলসমূহ</span></a>
+<nav class="main">
+<a href="../">হোম</a>
+<a href="../json-formatter/">JSON ফরম্যাটার</a>
+<a href="../uuid-generator/">UUID জেনারেটর</a>
+<a href="../hash-generator/">হ্যাশ জেনারেটর</a>
+<a href="../jwt-decoder/">JWT ডিকোডার</a>
+<a href="../about.html">সম্পর্কে</a>
+</nav></div></header>
+<div class="wrap">
+<div class="crumbs"><a href="../">হোম</a> &rsaquo; <a href="../#tools">ডেভেলপার টুলসমূহ</a> &rsaquo; ZIP থেকে TAR.GZ কনভার্টার</div>
+<main class="page">
+<h1 class="tool">ZIP থেকে TAR.GZ কনভার্টার - একটি .zip-কে একটি .tar.gz টারবলে পরিণত করুন</h1>
+<div class="inshort"><strong>সংক্ষেপে:</strong> ZIP to TAR.GZ Converter একটি ZIP আর্কাইভকে একটি সঠিক ustar টারবল হিসেবে পুনরায় প্যাক করে এবং gzip দিয়ে সংকুচিত করে, আপনার নিজের ডিভাইসে - Linux জগত যে .tar.gz ফরম্যাটে চলে তা তৈরি করে।</div>
+<p class="lede">একটি Linux সার্ভারে স্থাপন, একটি Docker বিল্ডে দেওয়া, বা একটি tarball প্রত্যাশা করা টুলে ফাইল হস্তান্তর? ZIP সেই জগতে অদ্ভুত - .tar.gz হলো নিজস্ব ভাষা। এই কনভার্টার আপনার ব্রাউজারে আপনার ZIP পড়ে, একটি spec-সঠিক TAR আর্কাইভ লেখে ও gzip করে, কিছু আপলোড না করে।</p>
+<div class="panel">
+
+<div class="dropzone" id="dz"><strong>আপনার .zip ফাইল এখানে ফেলুন</strong> বা আপনার ডিভাইস থেকে এটি বেছে নিতে ক্লিক করুন<input type="file" id="fileInput" accept=".zip" hidden></div>
+<div class="status" id="fileLine"></div>
+<div class="row"><button class="btn" id="bGo" disabled>TAR.GZ-তে রূপান্তর করুন</button><button class="btn ghost" id="bDl" disabled>.tar.gz ফাইল ডাউনলোড করুন</button></div>
+<div class="kv" id="kv" style="display:none"><div>ভিতরে ফাইল<b id="kvCount">-</b></div><div>মূল আকার<b id="kvIn">-</b></div><div>নতুন আকার<b id="kvOut">-</b></div></div>
+<div class="status" id="st"></div>
+</div>
+<div class="privacy-note"><strong>নকশায় ব্যক্তিগত:</strong> এই টুলে সবকিছু JavaScript দিয়ে আপনার ব্রাউজারে 100% ঘটে। আপনার ইনপুট কখনও একটি সার্ভারে আপলোড হয় না, কখনও সংরক্ষিত হয় না এবং কখনও আমাদের দ্বারা দেখা হয় না - ট্যাব বন্ধ করুন এবং সবকিছু চলে গেছে। একটি সৎ সীমা: রূপান্তর আপনার ডিভাইসের মেমরিতে ঘটে, তাই খুব বড় আর্কাইভ (শত শত মেগাবাইট) একটি কম-মেমরি ফোনে ধীর হতে পারে বা ব্যর্থ হতে পারে।</div>
+<section class="block"><h2>ZIP থেকে TAR.GZ কনভার্টার কীভাবে ব্যবহার করবেন</h2><ol><li>উপরের বাক্সে আপনার .zip ফাইল ফেলুন, বা এতে ক্লিক করুন ও আপনার ডিভাইস থেকে ফাইল বেছে নিন।</li><li>TAR.GZ-তে রূপান্তর করুন-এ ক্লিক করুন। ZIP আপনার ডিভাইসে পড়া হয়, একই পথসহ একটি TAR আর্কাইভ লেখা হয়, এবং gzip এটি সংকুচিত করে।</li><li>সারসংক্ষেপ পরীক্ষা করুন: রূপান্তরিত ফাইলের সংখ্যা এবং নতুন tarball-এর আকার।</li><li>.tar.gz ফাইল সংরক্ষণ করতে ডাউনলোড-এ ক্লিক করুন - tar -xzf যেকোনো Linux বা macOS সিস্টেমে এটি খোলে।</li></ol></section>
+<section class="block"><h2>এটি কীভাবে কাজ করে</h2><p>এই পেজটি JSZip দিয়ে ZIP পড়ে, তারপর পেজে নির্মিত একটি স্পেক-সঠিক ustar রাইটার ব্যবহার করে বিষয়বস্তুকে একটি TAR আর্কাইভ হিসেবে লিখে: প্রতিটি ফাইল একটি 512-বাইট হেডার ব্লক পায় (নাম, আকার, মোড, চেকসাম, এবং দীর্ঘ পাথের জন্য একটি প্রিফিক্স ক্ষেত্র - তার জন্যও খুব দীর্ঘ পাথের জন্য GNU longname এন্ট্রিসহ), এর বিষয়বস্তু 512-বাইট সীমানায় প্যাড করা হয়, এবং আর্কাইভ বন্ধ করতে দুটি শূন্য ব্লক। সমাপ্ত TAR আপনার ব্রাউজারের অন্তর্নির্মিত gzip ইঞ্জিন (Compression Streams API) দিয়ে সংকুচিত হয়। পরীক্ষার সময় আউটপুটটি Python-এর tarfile মডিউল এবং GNU tar রীতির বিরুদ্ধে যাচাই করা হয়েছিল - এটি একটি আসল টারবল, নাম বদলানো ZIP নয়।</p><h3>কাজ করা উদাহরণ</h3><p>আপনার কাছে site-assets.zip (12 MB, 240 ফাইল) আছে একটি Linux VPS-এ আপলোড করার জন্য যার ডিপ্লয় স্ক্রিপ্ট tar -xzf চালায়। এখানে রূপান্তরিত করে, আপনি site-assets.tar.gz (11.6 MB) পান একই পাথে একই 240 ফাইল এবং তাদের ZIP টাইমস্ট্যাম্প রাখা সহ। সার্ভার এটি হুবহু সেভাবেই এক্সট্র্যাক্ট করে যেন টারবলটি Linux-এ তৈরি হয়েছিল।</p></section>
+<section class="block"><h2>প্রায়শই জিজ্ঞাসিত প্রশ্ন</h2><details class="faq"><summary>এই ZIP থেকে TAR.GZ কনভার্টার কি বিনামূল্যে?</summary><p>হ্যাঁ - বিনামূল্যে, কোনো সাইন-আপ নয়, কোনো সীমা নয় এবং কোনো ওয়াটারমার্ক নয়।</p></details><details class="faq"><summary>আমার ফাইলগুলো কি সার্ভারে আপলোড হয়?</summary><p>না। JSZip ZIP পড়ে, TAR এই পেজের কোড দিয়ে লেখা হয়, এবং gzip আপনার ব্রাউজারের অন্তর্নির্মিত ইঞ্জিন দিয়ে করা হয়। সবকিছু আপনার ডিভাইসে থাকে।</p></details><details class="faq"><summary>GNU tar এবং Linux টুল কি আউটপুট গ্রহণ করবে?</summary><p>হ্যাঁ। TAR রাইটার ustar স্পেসিফিকেশন অনুসরণ করে - সঠিক হেডার চেকসাম, অক্টাল আকারের ক্ষেত্র, দীর্ঘ পাথের জন্য ustar প্রিফিক্স বিভাজন এবং তার চেয়েও বেশি একটি পাথের জন্য GNU longname এন্ট্রি - এবং ফলাফল Python-এর tarfile মডিউল দিয়ে ফিরিয়ে পড়ে পরীক্ষা-যাচাই করা হয়েছিল।</p></details><details class="faq"><summary>ফাইলের টাইমস্ট্যাম্প ও অনুমতি কি সংরক্ষিত থাকে?</summary><p>ZIP-এ সংরক্ষিত টাইমস্ট্যাম্পগুলো TAR হেডারে বহন করা হয়। অনুমতিগুলো মানক ডিফল্ট হিসেবে লেখা হয় (ফাইল 0644, ফোল্ডার 0755), কারণ ZIP নির্ভরযোগ্যভাবে Unix অনুমতি সংরক্ষণ করে না - আপনার যদি হুবহু মোড প্রয়োজন হয়, এক্সট্র্যাক্ট করার পরে chmod দিয়ে সেগুলো সেট করুন।</p></details><details class="faq"><summary>বদলে সাধারণ .tar-এ কেন রূপান্তর নয়?</summary><p>একটি সাধারণ TAR অসংকুচিত, তাই এটি মোটামুটি সব ফাইল একসঙ্গে যোগ করার আকারের হবে। .tar.gz হলো যা Linux টুলিং প্রত্যাশা করে এবং ZIP-এর আকারের কাছাকাছি থাকে। আলগা ফাইলের একটি সাধারণ TAR-এর জন্য, TAR ফাইল নির্মাতা ব্যবহার করুন।</p></details></section>
+<section class="block"><h2>সম্পর্কিত ডেভেলপার টুল</h2><div class="grid"><a class="card" href="../tar-gz-to-zip-converter/"><div class="ic">GZ</div><h3>TAR.GZ থেকে ZIP রূপান্তরকারী</h3><p>একটি .tar.gz বা .tgz আর্কাইভ সরাসরি ZIP-এ রূপান্তর করুন - উভয় স্তর একবারে খোলা।</p></a><a class="card" href="../zip-file-creator/"><div class="ic">ZIP</div><h3>ZIP ফাইল নির্মাতা</h3><p>একাধিক ফাইল থেকে একটি ZIP তৈরি করুন - ফাইল যোগ করুন, আর্কাইভের নাম দিন ও একটি .zip ডাউনলোড করুন।</p></a><a class="card" href="../tar-file-creator/"><div class="ic">TAR</div><h3>TAR ফাইল নির্মাতা</h3><p>আপনার ব্রাউজারেই আপনার ফাইল থেকে একটি .tar আর্কাইভ তৈরি করুন।</p></a></div></section>
+</main>
+</div>
+
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">এই টুলটি আপনার ওয়েবসাইটে এমবেড করুন — বিনামূল্যে</h2>
+<p style="margin:0 0 12px;line-height:1.6">এই টুলটি আপনার নিজের ওয়েবসাইট বা ব্লগে যোগ করুন — এটি সম্পূর্ণ বিনামূল্যে, কোনো সাইন-আপ লাগে না, এবং সবসময় সর্বশেষ সংস্করণ দেখায়। নিচের কোডটি কপি করুন এবং আপনার পেজে যেখানে টুলটি দেখাতে চান সেখানে পেস্ট করুন। এমবেডের নিচে ছোট &ldquo;Powered by Loona Automation&rdquo; কৃতিত্ব লাইনটি রাখা এই টুলটিকে বিনামূল্যে রাখতে সাহায্য করে &mdash; কিন্তু আপনি এটি সাজাতে বা সরাতে স্বাধীন; টুলটি যেভাবেই হোক কাজ করে।</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-dev-tools/bn/zip-to-tar-gz-converter/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="Free ZIP to TAR.GZ Converter by Loona"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;পরিচালনায় &lt;a href="https://loonaautomation.github.io/loona-dev-tools/bn/zip-to-tar-gz-converter/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; বিনামূল্যে ZIP থেকে TAR.GZ কনভার্টার&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">এমবেড কোড কপি করুন</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='কপি করা হয়েছে!';setTimeout(function(){b.textContent='এম্বেড কোড কপি করুন';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+
+<footer class="site"><div class="footer-in">
+<div class="col"><h4>Loona Developer Tools</h4>
+<a href="../">সব ডেভেলপার টুল</a>
+<a href="../about.html">আমাদের সম্পর্কে</a>
+<a href="../contact.html">যোগাযোগ</a></div>
+<div class="col"><h4>জনপ্রিয় টুল</h4><a href="../json-formatter/">JSON ফরম্যাটার</a><a href="../base64-encoder/">Base64 এনকোডার</a><a href="../uuid-generator/">UUID জেনারেটর</a><a href="../hash-generator/">হ্যাশ জেনারেটর</a><a href="../jwt-decoder/">JWT ডিকোডার</a><a href="../timestamp-converter/">টাইমস্ট্যাম্প কনভার্টার</a></div>
+<div class="col"><h4>আরও টুল</h4><a href="../url-encoder/">URL এনকোডার</a><a href="../html-entity-encoder/">HTML এনটিটি এনকোডার</a><a href="https://loonaautomation.github.io/loona-text-tools/">Loona Text Tools</a><a href="https://loonaautomation.github.io/loona-calculators/">Loona ক্যালকুলেটর</a><a href="https://loonaautomation.github.io/">সব Loona টুল</a></div>
+<div class="col"><h4>আইনি</h4>
+<a href="../privacy.html">গোপনীয়তা নীতি</a>
+<a href="../terms.html">ব্যবহারের শর্তাবলি</a>
+<a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
+</div><div class="copyright">&copy; 2026 Loona Automation - Loona Developer Tools. বিনামূল্যে অনলাইন ডেভেলপার টুল যা 100% আপনার ব্রাউজারেই চলে।</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' অ্যাপ ইনস্টল করুন';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('এই অ্যাপটি ইনস্টল করুন: Share বোতামে ট্যাপ করুন, তারপর "Add to Home Screen" বেছে নিন।');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body>
+</html>
+
+<script>
+
+const $=s=>document.querySelector(s);
+function setStatus(el,msg,ok){el.textContent=msg;el.className='অবস্থা '+(ok===true?'ok':ok===false?'err':'');}
+function downloadBlob(blob,name){const u=URL.createObjectURL(blob);const a=document.createElement('a');a.href=u;a.download=name;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),4000);}
+function escH(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+
+/*CORE*/
+
+function fmtBytes(n){
+  if(n===0) return '0 B';
+  var units=['B','KB','MB','GB','TB'];
+  var i=Math.min(units.length-1, Math.floor(Math.log(n)/Math.log(1024)));
+  var v=n/Math.pow(1024,i);
+  return (i===0? v : Math.round(v*10)/10)+' '+units[i];
+}
+function stripExt(name, exts){
+  var lower=name.toLowerCase();
+  for(var i=0;i<exts.length;i++){ if(lower.endsWith(exts[i])) return name.slice(0, name.length-exts[i].length); }
+  var dot=name.lastIndexOf('.');
+  return dot>0? name.slice(0,dot): name;
+}
+
+
+function tarPutStr(h, off, len, str){
+  for(var i=0;i<str.length && i<len;i++) h[off+i]=str.charCodeAt(i)&0xff;
+}
+function tarPutOct(h, off, len, val){
+  var s=Math.floor(val).toString(8);
+  while(s.length<len-1) s='0'+s;
+  tarPutStr(h, off, len, s+'\0');
+}
+function tarSplitName(name){
+  var bytesOk=function(s){ return s.length<=100; };
+  if(name.length<=100) return {short:name, prefix:''};
+  // try a ustar prefix split: prefix <=155 chars, final part <=100 chars
+  for(var i=name.length-1;i>0;i--){
+    if(name.charAt(i)==='/'){
+      var pre=name.slice(0,i), rest=name.slice(i+1);
+      if(pre.length<=155 && rest.length<=100 && rest.length>0) return {short:rest, prefix:pre};
+    }
+  }
+  return null; // caller falls back to a GNU longname ('L') entry
+}
+function tarHeader(name, size, mtimeSec, typeflag){
+  var split=tarSplitName(name);
+  var h=new Uint8Array(512);
+  tarPutStr(h, 0, 100, typeflag==='L'? '../../zip-to-tar-gz-converter/@LongLink' : (split? split.short : name.slice(0,100)));
+  tarPutOct(h, 100, 8, typeflag==='5'? 0o755 : 0o644);
+  tarPutOct(h, 108, 8, 0);
+  tarPutOct(h, 116, 8, 0);
+  tarPutOct(h, 124, 12, size);
+  tarPutOct(h, 136, 12, mtimeSec);
+  for(var i=148;i<156;i++) h[i]=0x20;
+  h[156]=typeflag.charCodeAt(0);
+  tarPutStr(h, 257, 6, 'ustar');
+  tarPutStr(h, 263, 2, '00');
+  tarPutStr(h, 265, 32, 'loona');
+  tarPutStr(h, 297, 32, 'loona');
+  tarPutOct(h, 329, 8, 0);
+  tarPutOct(h, 337, 8, 0);
+  if(split && split.prefix) tarPutStr(h, 345, 155, split.prefix);
+  var sum=0; for(i=0;i<512;i++) sum+=h[i];
+  var cs=sum.toString(8); while(cs.length<6) cs='0'+cs;
+  tarPutStr(h, 148, 8, cs+'\0 ');
+  return h;
+}
+function tarPadLen(n){ var r=n%512; return r===0? 0 : 512-r; }
+function buildTar(entries){
+  // entries: [{name, data:Uint8Array, mtime:seconds}] - dirs end with '/'
+  var chunks=[], total=0;
+  function push(u8){ chunks.push(u8); total+=u8.length; }
+  var i, e, isDir, name, data, mtime;
+  for(i=0;i<entries.length;i++){
+    e=entries[i]; name=e.name; data=e.data||new Uint8Array(0);
+    isDir= name.endsWith('/') || e.dir===true;
+    if(isDir && !name.endsWith('/')) name+='/';
+    mtime= e.mtime||0;
+    if(tarSplitName(name)===null && !isDir){
+      // GNU longname entry carrying the real path, then a truncated header name
+      var nameBytes=new TextEncoder().encode(name);
+      push(tarHeader('', nameBytes.length, mtime, 'L'));
+      push(nameBytes); var p0=tarPadLen(nameBytes.length); if(p0) push(new Uint8Array(p0));
+      var trunc=name.slice(0,100);
+      var saved=name; name=trunc;
+      push(tarHeader(name, data.length, mtime, '0'));
+      name=saved;
+    } else {
+      push(tarHeader(name, isDir? 0 : data.length, mtime, isDir? '5':'0'));
+    }
+    if(!isDir && data.length){
+      push(data);
+      var p=tarPadLen(data.length); if(p) push(new Uint8Array(p));
+    }
+  }
+  push(new Uint8Array(1024)); // two zero blocks mark the end of the archive
+  var out=new Uint8Array(total), off=0;
+  for(i=0;i<chunks.length;i++){ out.set(chunks[i], off); off+=chunks[i].length; }
+  return out;
+}
+function tarEntriesFromFiles(list, parentDirs){
+  // list: [{path, data:Uint8Array, mtime}] -> entries with dir entries first
+  var dirs={}, entries=[], i, parts, acc;
+  for(i=0;i<list.length;i++){
+    parts=list[i].path.split('/');
+    acc='';
+    for(var j=0;j<parts.length-1;j++){ acc+=parts[j]+'/'; dirs[acc]=true; }
+  }
+  if(parentDirs){ for(var d in parentDirs) dirs[d]=true; }
+  Object.keys(dirs).sort().forEach(function(d){ entries.push({name:d, data:new Uint8Array(0), mtime:0, dir:true}); });
+  for(i=0;i<list.length;i++) entries.push({name:list[i].path, data:list[i].data, mtime:list[i].mtime||0});
+  return entries;
+}
+
+
+async function gzipCompressBytes(u8){
+  var cs=new CompressionStream('gzip');
+  var stream=new Blob([u8]).stream().pipeThrough(cs);
+  var buf=await new Response(stream).arrayBuffer();
+  return new Uint8Array(buf);
+}
+async function gzipDecompressBytes(u8){
+  var ds=new DecompressionStream('gzip');
+  var stream=new Blob([u8]).stream().pipeThrough(ds);
+  var buf=await new Response(stream).arrayBuffer();
+  return new Uint8Array(buf);
+}
+
+async function entriesFromZip(file){
+  var zip=await JSZip.loadAsync(file);
+  var list=[];
+  var names=Object.keys(zip.files);
+  for(var i=0;i<names.length;i++){
+    var entry=zip.files[names[i]];
+    if(entry.dir) continue;
+    var data=await entry.async('uint8array');
+    var mtime= entry.date? Math.floor(entry.date.getTime()/1000) : 0;
+    list.push({path:names[i].replace(/\\/g,'/'), data:data, mtime:mtime});
+  }
+  if(!list.length) throw new Error('এই ZIP-এর ভিতরে কোনো ফাইল পাওয়া যায়নি।');
+  return list;
+}
+/*/CORE*/
+var picked=null, outBlob=null, outFileName='';
+var dz=document.getElementById('dz'), input=document.getElementById('fileInput');
+function showFile(){
+  var fl=document.getElementById('fileLine');
+  document.getElementById('bGo').disabled=!picked;
+  fl.textContent= picked? picked.name+' - '+fmtBytes(picked.size) : '';
+  fl.className='status';
+}
+dz.addEventListener('click',function(){ input.click(); });
+input.addEventListener('change',function(){ if(this.files.length){ picked=this.files[0]; outBlob=null; document.getElementById('bDl').disabled=true; showFile(); } this.value=''; });
+['dragenter','dragover'].forEach(function(ev){ dz.addEventListener(ev,function(e){ e.preventDefault(); dz.classList.add('over'); }); });
+['dragleave','drop'].forEach(function(ev){ dz.addEventListener(ev,function(e){ e.preventDefault(); dz.classList.remove('over'); }); });
+dz.addEventListener('drop',function(e){ var dt=e.dataTransfer; if(dt&&dt.files&&dt.files.length){ picked=dt.files[0]; outBlob=null; document.getElementById('bDl').disabled=true; showFile(); } });
+document.getElementById('bGo').addEventListener('click', async function(){
+  var st=document.getElementById('st'), btn=this;
+  if(!picked){ setStatus(st,'প্রথমে একটি ZIP ফাইল বেছে নিন।',false); return; }
+  if(typeof JSZip==='undefined'){ setStatus(st,'ZIP লাইব্রেরি লোড হতে ব্যর্থ হয়েছে - আপনার সংযোগ পরীক্ষা করুন এবং পেজটি পুনরায় লোড করুন।',false); return; }
+  if(typeof CompressionStream==='undefined'){ setStatus(st,'আপনার ব্রাউজার gzip-এর জন্য প্রয়োজনীয় Compression Streams API সমর্থন করে না। Chrome, Edge, Firefox বা Safari-এর একটি বর্তমান সংস্করণ চেষ্টা করুন।',false); return; }
+  btn.disabled=true;
+  setStatus(st,'আপনার ZIP পড়া হচ্ছে...',null);
+  try{
+    var list=await entriesFromZip(picked);
+    setStatus(st,'TAR আর্কাইভ তৈরি হচ্ছে ('+list.length+' ফাইল)...',null);
+    var tarBytes=buildTar(tarEntriesFromFiles(list));
+    setStatus(st,'gzip দিয়ে সংকুচিত হচ্ছে...',null);
+    var gzBytes=await gzipCompressBytes(tarBytes);
+    outBlob=new Blob([gzBytes], {type:'application/gzip'});
+    outFileName=stripExt(picked.name, ['.zip'])+'.tar.gz';
+    document.getElementById('kv').style.display='grid';
+    document.getElementById('kvCount').textContent=list.length;
+    document.getElementById('kvIn').textContent=fmtBytes(picked.size);
+    document.getElementById('kvOut').textContent=fmtBytes(outBlob.size);
+    var bDl=document.getElementById('bDl'); bDl.disabled=false; bDl.textContent='ডাউনলোড '+outFileName;
+    setStatus(st,'সম্পন্ন - '+list.length+' ফাইল রূপান্তরিত। সংরক্ষণ করতে Download-এ ক্লিক করুন '+outFileName+'.',true);
+  }catch(e){
+    setStatus(st,'এই ZIP রূপান্তর করা যায়নি: '+(e&&e.message? e.message : e),false);
+  }
+  btn.disabled=false;
+});
+document.getElementById('bDl').addEventListener('click',function(){ if(outBlob) downloadBlob(outBlob, outFileName); });
+</script>

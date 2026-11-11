@@ -1,0 +1,29 @@
+{
+  "name": "Loona TSV থেকে CSV কনভার্টার",
+  "short_name": "TSV থেকে CSV রূপান্তরকারী",
+  "description": "TSV (ট্যাব-বিভক্ত মান) CSV-তে রূপান্তর করুন: Excel বা Sheets থেকে কপি করা ডেটা পেস্ট করুন এবং সঠিকভাবে উদ্ধৃত CSV পান।",
+  "id": "/loona-dev-tools/bn/tsv-to-csv/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

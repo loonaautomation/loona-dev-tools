@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV থেকে YAML কনভার্টার",
+  "short_name": "CSV থেকে YAML কনভার্টার",
+  "description": "CSV টেবিল YAML-এ রূপান্তর করুন: হেডার সারি কী হয়, প্রতিটি সারি একটি YAML তালিকায় একটি আইটেম, সংখ্যা টাইপ করা।",
+  "id": "/loona-dev-tools/bn/csv-to-yaml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

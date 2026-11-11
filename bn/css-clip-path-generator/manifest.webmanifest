@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS ক্লিপ-পাথ জেনারেটর অনলাইন বিনামূল্যে",
+  "short_name": "CSS ক্লিপ-পাথ জেনারেটর",
+  "description": "বিনামূল্যে অনলাইনে CSS clip-path তৈরি করুন - তারা, ষড়ভুজ ও তীরের মতো পলিগন প্রিসেট সামঞ্জস্যযোগ্য বিন্দুসহ, যোগ বৃত্ত, উপবৃত্ত ও ইনসেট আকার, একটি লাইভ প্রিভিউসহ। কোনো সাইন-আপ নয়।",
+  "id": "/loona-dev-tools/bn/css-clip-path-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

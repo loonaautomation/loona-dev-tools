@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML এনটিটি রেফারেন্স টেবিল",
+  "short_name": "HTML এনটিটি রেফারেন্স টেবিল",
+  "description": "প্রয়োজনীয় HTML এনটিটি টেবিল: নামযুক্ত এনটিটি, অক্ষর, দশমিক কোড ও ডেভেলপাররা আসলে ব্যবহার করা এনটিটির জন্য ব্যবহার নোট।",
+  "id": "/loona-dev-tools/bn/html-entities-reference/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

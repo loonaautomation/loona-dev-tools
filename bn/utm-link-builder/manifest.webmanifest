@@ -1,0 +1,29 @@
+{
+  "name": "Loona UTM লিংক বিল্ডার অনলাইন বিনামূল্যে",
+  "short_name": "UTM লিংক বিল্ডার অনলাইন বিনামূল্যে",
+  "description": "বিনামূল্যে অনলাইনে UTM-ট্যাগ করা প্রচারণা URL তৈরি করুন - সঠিক এনকোডিংসহ source, medium, campaign, term ও content যোগ করা, বিদ্যমান কুয়েরি প্যারামিটার সংরক্ষিত, যোগ একটি সংরক্ষিত ইতিহাস।",
+  "id": "/loona-dev-tools/bn/utm-link-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

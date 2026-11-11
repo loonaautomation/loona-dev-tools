@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS বক্স শ্যাডো জেনারেটর অনলাইন বিনামূল্যে",
+  "short_name": "CSS বক্স শ্যাডো জেনারেটর",
+  "description": "বিনামূল্যে অনলাইনে CSS box-shadow তৈরি করুন - একাধিক শ্যাডো লেয়ার, ইনসেট শ্যাডো, রঙ ও অস্বচ্ছতা নিয়ন্ত্রণ, একটি লাইভ প্রিভিউ ও প্রস্তুত CSS সহ। কোনো সাইন-আপ নয়, আপনার ব্রাউজারে চলে।",
+  "id": "/loona-dev-tools/bn/css-box-shadow-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

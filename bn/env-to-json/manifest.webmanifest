@@ -1,0 +1,29 @@
+{
+  "name": "Loona .env থেকে JSON কনভার্টার",
+  "short_name": ".env থেকে JSON কনভার্টার",
+  "description": "একটি .env ফাইল JSON-এ পার্স করুন: KEY=value লাইন, export প্রেফিক্স, মন্তব্য ও উদ্ধৃত মান পরিচালনা করে।",
+  "id": "/loona-dev-tools/bn/env-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

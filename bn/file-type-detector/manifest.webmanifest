@@ -1,0 +1,29 @@
+{
+  "name": "Loona ফাইল টাইপ ডিটেক্টর অনলাইন বিনামূল্যে",
+  "short_name": "ফাইল টাইপ ডিটেক্টর অনলাইন বিনামূল্যে",
+  "description": "বিনামূল্যে অনলাইনে এর ম্যাজিক-বাইট হেডার স্বাক্ষর থেকে একটি ফাইলের আসল টাইপ শনাক্ত করুন - PNG, PDF, ZIP, MP4, EXE ও 30+ ফরম্যাট - এবং এক্সটেনশন অসম্মত হলে একটি সতর্কতা পান। কিছুই আপলোড নয়।",
+  "id": "/loona-dev-tools/bn/file-type-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

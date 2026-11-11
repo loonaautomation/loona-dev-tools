@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base64 এনকোডার ও ডিকোডার অনলাইন বিনামূল্যে",
+  "short_name": "Base64 এনকোডার ও ডিকোডার",
+  "description": "টেক্সট বা ফাইল Base64-তে এনকোড করুন এবং Base64 আবার ডিকোড করুন, যেকোনো ভাষা ও ইমোজির জন্য UTF-8 নিরাপদ, একটি URL-নিরাপদ বিকল্পসহ। বিনামূল্যে, কোনো সাইন-আপ নয়, আপনার ব্রাউজারে।",
+  "id": "/loona-dev-tools/bn/base64-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base64 থেকে ছবি কনভার্টার",
+  "short_name": "Base64 থেকে ছবি কনভার্টার",
+  "description": "একটি Base64 স্ট্রিং বা data URI আবার একটি দেখাযোগ্য, ডাউনলোডযোগ্য ছবিতে ডিকোড করুন। বাইট থেকে MIME টাইপ শনাক্ত করা।",
+  "id": "/loona-dev-tools/bn/base64-to-image/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

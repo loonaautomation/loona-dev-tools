@@ -1,0 +1,29 @@
+{
+  "name": "Loona TAR ফাইল নির্মাতা অনলাইন বিনামূল্যে",
+  "short_name": "বিনামূল্যে অনলাইনে TAR ফাইল নির্মাতা",
+  "description": "আপনার ব্রাউজারেই একাধিক ফাইল থেকে একটি TAR আর্কাইভ (.tar) তৈরি করুন - একটি spec-সঠিক ustar লেখক, ফোল্ডার বিকল্প, আসল টাইমস্ট্যাম্প। কিছুই আপলোড হয় না; tarball আপনার ডিভাইসে তৈরি হয় এবং যেকোনো tar টুল দিয়ে খোলে।",
+  "id": "/loona-dev-tools/bn/tar-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

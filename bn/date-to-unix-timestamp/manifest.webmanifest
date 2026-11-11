@@ -1,0 +1,29 @@
+{
+  "name": "Loona তারিখ থেকে Unix টাইমস্ট্যাম্প কনভার্টার",
+  "short_name": "তারিখ থেকে Unix টাইমস্ট্যাম্প",
+  "description": "একটি তারিখ ও সময়কে সেকেন্ড ও মিলিসেকেন্ডে এর Unix টাইমস্ট্যাম্পে রূপান্তর করুন, UTC বা আপনার স্থানীয় সময় অঞ্চলে।",
+  "id": "/loona-dev-tools/bn/date-to-unix-timestamp/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

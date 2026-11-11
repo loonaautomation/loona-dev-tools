@@ -1,0 +1,29 @@
+{
+  "name": "Loona উদ্ধৃত-মুদ্রণযোগ্য এনকোডার",
+  "short_name": "উদ্ধৃত-মুদ্রণযোগ্য এনকোডার",
+  "description": "টেক্সট উদ্ধৃত-মুদ্রণযোগ্য (MIME) হিসেবে অনলাইনে এনকোড করুন: UTF-8 বাইট =XX এস্কেপ হিসেবে, 76 অক্ষরে নরম লাইন বিরতি, RFC 2045 অনুযায়ী।",
+  "id": "/loona-dev-tools/bn/quoted-printable-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

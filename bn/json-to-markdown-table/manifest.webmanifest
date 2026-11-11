@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON থেকে Markdown টেবিল কনভার্টার",
+  "short_name": "JSON থেকে Markdown টেবিল",
+  "description": "অবজেক্টের একটি JSON অ্যারে একটি Markdown টেবিলে রূপান্তর করুন: কী থেকে কলাম, পাইপ এস্কেপ করা, README-তে পেস্ট করতে প্রস্তুত।",
+  "id": "/loona-dev-tools/bn/json-to-markdown-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

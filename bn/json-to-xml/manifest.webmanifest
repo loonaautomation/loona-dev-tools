@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON থেকে XML কনভার্টার",
+  "short_name": "JSON থেকে XML কনভার্টার",
+  "description": "কাস্টমাইজযোগ্য রুট উপাদানসহ অনলাইনে JSON XML-এ রূপান্তর করুন: অ্যারে পুনরাবৃত্ত উপাদান হয়, @keys অ্যাট্রিবিউট হয়।",
+  "id": "/loona-dev-tools/bn/json-to-xml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

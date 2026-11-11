@@ -1,0 +1,29 @@
+{
+  "name": "Loona IP ঠিকানা থেকে পূর্ণসংখ্যা কনভার্টার",
+  "short_name": "IP ঠিকানা থেকে পূর্ণসংখ্যা",
+  "description": "একটি IPv4 ঠিকানা এর 32-বিট পূর্ণসংখ্যা রূপে রূপান্তর করুন (192.168.0.1 → 3232235521), ডাটাবেস ও পরিসর পরীক্ষায় ব্যবহৃত।",
+  "id": "/loona-dev-tools/bn/ip-to-integer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

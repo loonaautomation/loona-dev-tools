@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML এনটিটি এনকোডার",
+  "short_name": "HTML এনটিটি এনকোডার",
+  "description": "বিশেষ অক্ষর HTML এনটিটি হিসেবে এনকোড করুন: নামযুক্ত (&copy;), দশমিক বা হেক্স সংখ্যাসূচক রেফারেন্স। মার্কআপ, উদ্ধৃতি ও অ-ASCII টেক্সট এস্কেপ করে।",
+  "id": "/loona-dev-tools/bn/html-entities-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Punycode ডিকোডার (xn-- থেকে Unicode ডোমেইন)",
+  "short_name": "Punycode ডিকোডার (xn-- থেকে",
+  "description": "xn-- punycode ডোমেইন আবার তাদের Unicode রূপে ডিকোড করুন — একটি আন্তর্জাতিকীকৃত ডোমেইন আসলে কী বলে পরীক্ষা করুন।",
+  "id": "/loona-dev-tools/bn/punycode-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

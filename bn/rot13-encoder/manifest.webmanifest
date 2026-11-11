@@ -1,0 +1,29 @@
+{
+  "name": "Loona ROT13 এনকোডার ও ডিকোডার",
+  "short_name": "ROT13 এনকোডার ও ডিকোডার",
+  "description": "যেকোনো টেক্সট ROT13 করুন: অক্ষর 13 স্থান ঘোরান। এনকোডিং ও ডিকোডিং একই ক্রিয়া। স্পয়লার ও ধাঁধার জন্য ক্লাসিক।",
+  "id": "/loona-dev-tools/bn/rot13-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

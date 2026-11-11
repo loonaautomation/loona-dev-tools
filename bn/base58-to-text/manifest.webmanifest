@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base58 থেকে টেক্সট ডিকোডার",
+  "short_name": "Base58 থেকে টেক্সট ডিকোডার",
+  "description": "Base58 স্ট্রিং আবার টেক্সটে (UTF-8) ডিকোড করুন। Bitcoin বর্ণমালার বিরুদ্ধে যাচাই করে এবং অবৈধ অক্ষর জানায়।",
+  "id": "/loona-dev-tools/bn/base58-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

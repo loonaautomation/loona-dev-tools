@@ -1,0 +1,29 @@
+{
+  "name": "Loona Unicode এস্কেপ কনভার্টার (\\uXXXX)",
+  "short_name": "Unicode এস্কেপ কনভার্টার",
+  "description": "JSON, JavaScript, Java ও properties ফাইলের জন্য টেক্সট Unicode এস্কেপ সিকোয়েন্সে (\\uXXXX) এস্কেপ করুন। সারোগেট জোড়া দিয়ে ইমোজি পরিচালনা করে।",
+  "id": "/loona-dev-tools/bn/unicode-escape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

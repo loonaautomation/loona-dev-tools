@@ -1,0 +1,29 @@
+{
+  "name": "Loona Unix টাইমস্ট্যাম্প কনভার্টার অনলাইন বিনামূল্যে",
+  "short_name": "Unix টাইমস্ট্যাম্প কনভার্টার",
+  "description": "Unix টাইমস্ট্যাম্প (সেকেন্ড বা মিলিসেকেন্ড) UTC ও আপনার স্থানীয় সময়ে মানব তারিখে, এবং তারিখ আবার টাইমস্ট্যাম্পে রূপান্তর করুন। লাইভ বর্তমান সময়। বিনামূল্যে।",
+  "id": "/loona-dev-tools/bn/timestamp-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

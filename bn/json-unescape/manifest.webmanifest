@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON স্ট্রিং আনএস্কেপ",
+  "short_name": "JSON স্ট্রিং আনএস্কেপ",
+  "description": "একটি JSON স্ট্রিং মানকে সাধারণ টেক্সটে ফিরিয়ে আনএস্কেপ করুন: \\n, \\t, \\&quot;, \\\\ and \\uXXXX ক্রমগুলো আসল অক্ষরে পরিণত হয়।",
+  "id": "/loona-dev-tools/bn/json-unescape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

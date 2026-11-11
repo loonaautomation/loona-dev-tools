@@ -1,0 +1,29 @@
+{
+  "name": "Loona URL এনকোডার ও ডিকোডার অনলাইন বিনামূল্যে",
+  "short_name": "URL এনকোডার ও ডিকোডার অনলাইন",
+  "description": "বিনামূল্যে অনলাইনে URL ও কুয়েরি টেক্সট এনকোড ও ডিকোড করুন, component ও full-URL মোড এবং একটি প্রতি-অক্ষর বিভাজনসহ। কোনো সাইন-আপ নয়, আপনার ব্রাউজারে।",
+  "id": "/loona-dev-tools/bn/url-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona llms.txt জেনারেটর অনলাইন বিনামূল্যে",
+  "short_name": "llms.txt জেনারেটর অনলাইন বিনামূল্যে",
+  "description": "বিনামূল্যে অনলাইনে একটি বৈধ llms.txt ফাইল তৈরি করুন - AI ক্রলারের জন্য প্রস্তাবিত llms.txt ফরম্যাটে সাইটের নাম, সারসংক্ষেপ ব্লককোট, বিবরণ ও বাছাই করা পেজের লিংক। কোনো সাইন-আপ নয়।",
+  "id": "/loona-dev-tools/bn/llms-txt-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

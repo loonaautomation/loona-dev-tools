@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON মিনিফায়ার",
+  "short_name": "JSON মিনিফায়ার",
+  "description": "অনলাইনে JSON মিনিফাই করুন: সব তাৎপর্যহীন হোয়াইটস্পেস একটি একক সংক্ষিপ্ত লাইনে ছাঁটুন, যাচাই ত্রুটি সুনির্দিষ্টভাবে জানানো।",
+  "id": "/loona-dev-tools/bn/json-minifier/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

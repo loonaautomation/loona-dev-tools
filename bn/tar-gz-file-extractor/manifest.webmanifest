@@ -1,0 +1,29 @@
+{
+  "name": "Loona TAR.GZ ফাইল এক্সট্র্যাক্টর অনলাইন বিনামূল্যে",
+  "short_name": "অনলাইনে TAR.GZ ফাইল এক্সট্র্যাক্টর",
+  "description": "সরাসরি আপনার ব্রাউজারে tar.gz আর্কাইভ খুলুন - .tar.gz ও ছোট .tgz নাম দুটোই - ভিতরের প্রতিটি ফাইল দেখুন ও একক ফাইল বা সব একটি ZIP হিসেবে ডাউনলোড করুন। কিছুই আপলোড হয় না।",
+  "id": "/loona-dev-tools/bn/tar-gz-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

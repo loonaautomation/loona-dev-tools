@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSONPath টেস্টার",
+  "short_name": "JSONPath টেস্টার",
+  "description": "একটি JSON ডকুমেন্টের বিপরীতে JSONPath এক্সপ্রেশন পরীক্ষা করুন: বিন্দু সংকেত, সূচক, ওয়াইল্ডকার্ড ও পুনরাবৃত্ত অবতরণ ($..key) সমর্থিত।",
+  "id": "/loona-dev-tools/bn/jsonpath-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

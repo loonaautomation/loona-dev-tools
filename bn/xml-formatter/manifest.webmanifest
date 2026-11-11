@@ -1,0 +1,29 @@
+{
+  "name": "Loona XML ফরম্যাটার ও ভ্যালিডেটর অনলাইন বিনামূল্যে",
+  "short_name": "XML ফরম্যাটার ও যাচাইকারী",
+  "description": "বিনামূল্যে অনলাইনে XML ফরম্যাট, সুন্দর, মিনিফাই ও যাচাই করুন - স্পষ্ট ত্রুটি বার্তাসহ ভারসাম্যপূর্ণ-ট্যাগ সুগঠিততা পরীক্ষা, ইনডেন্টেশনসহ সুন্দর ছাপা। কোনো সাইন-আপ নয়।",
+  "id": "/loona-dev-tools/bn/xml-formatter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
