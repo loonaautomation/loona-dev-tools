@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kompresor GZIP Dalam Talian Percuma",
+  "short_name": "Kompresor GZIP Dalam Talian Percuma",
+  "description": "Kompres fail tunggal apa pun menjadi .gz menggunakan enjin gzip bawaan pelayar Anda. Saiz sebelum/selepas seketika, tidak ada yang dimuat naik - fail dimampatan di peranti Anda. Berfungsi untuk log, CSV, fail TAR, dan lain-lain.",
+  "id": "/loona-dev-tools/ms/gzip-compressor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

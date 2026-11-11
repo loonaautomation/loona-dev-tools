@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penjana Hash Dalam Talian Percuma",
+  "short_name": "Penjana Hash Dalam Talian Percuma",
+  "description": "Buat hash SHA-1, SHA-256, SHA-384, dan SHA-512 dari teks apa pun dalam talian secara percuma, dikira secara setempat di pelayar Anda. Tanpa pendaftaran, tidak ada yang dimuat naik.",
+  "id": "/loona-dev-tools/ms/hash-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

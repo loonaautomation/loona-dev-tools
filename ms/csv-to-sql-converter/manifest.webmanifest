@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar CSV ke SQL Dalam Talian Percuma",
+  "short_name": "Penukar CSV ke SQL Dalam Talian",
+  "description": "Penukaran CSV ke SQL dalam talian secara percuma - CREATE TABLE dengan tipe lajur yang disimpulkan ditambah satu INSERT per baris, untuk MySQL, PostgreSQL, atau SQLite. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
+  "id": "/loona-dev-tools/ms/csv-to-sql-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

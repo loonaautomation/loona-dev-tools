@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar Markdown ke HTML Dalam Talian Percuma",
+  "short_name": "Penukar Markdown ke HTML",
+  "description": "Penukaran Markdown ke HTML dalam talian secara percuma - heading, tebal, miring, pautan, imej, senarai, blockquote, blok kode, dan lain-lain, dengan pratonton render langsung. Tanpa pendaftaran.",
+  "id": "/loona-dev-tools/ms/markdown-to-html-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

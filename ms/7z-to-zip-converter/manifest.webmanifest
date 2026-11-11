@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar 7Z ke ZIP Dalam Talian Percuma",
+  "short_name": "Penukar 7Z ke ZIP Dalam Talian",
+  "description": "Penukaran arkib 7Z (.7z) menjadi fail ZIP standard langsung di pelayar Anda. Struktur folder dipertahankan, tidak ada yang dimuat naik - dan ZIP yang dihasilkan terbuka secara lalai di Windows, macOS, Android, dan iPhone, tidak perlu 7-Zip.",
+  "id": "/loona-dev-tools/ms/7z-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

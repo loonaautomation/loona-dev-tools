@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar CSV ke Jadual Markdown Dalam Talian",
+  "short_name": "CSV ke Jadual Markdown",
+  "description": "Penukaran CSV ke jadual Markdown dalam talian secara percuma - lajur numerik diratakan kanan secara automatik dan aksara pipe di-escape dengan benar. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
+  "id": "/loona-dev-tools/ms/csv-to-markdown-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

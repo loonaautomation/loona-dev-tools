@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar YAML ke XML",
+  "short_name": "Penukar YAML ke XML",
+  "description": "Penukaran YAML ke XML dalam talian: satu kunci tingkat atas menjadi elemen root, @key menjadi atribut.",
+  "id": "/loona-dev-tools/ms/yaml-to-xml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

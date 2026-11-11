@@ -1,0 +1,29 @@
+{
+  "name": "Loona Encode URL (Encode Peratus)",
+  "short_name": "Encode URL (Pengekodan Peratus)",
+  "description": "Encode peratus teks atau URL lengkap dalam talian: ruang menjadi %20, aksara yang dipesan di-escape per RFC 3986. Mod komponen atau URL lengkap.",
+  "id": "/loona-dev-tools/ms/url-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

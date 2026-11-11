@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pengekstrak Fail GZ Dalam Talian Percuma",
+  "short_name": "Pengekstrak Fail GZ Dalam Talian Percuma",
+  "description": "Nyahmampatan satu fail .gz langsung di pelayar Anda dan muat turun fail aslinya - log, eksport data, dump database. Tidak ada yang dimuat naik; pelayar Anda melakukan tugas secara lalai.",
+  "id": "/loona-dev-tools/ms/gz-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

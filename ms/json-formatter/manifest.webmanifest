@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pemformat JSON Dalam Talian Percuma",
+  "short_name": "Pemformat JSON Dalam Talian Percuma",
+  "description": "Format, pengesahan, dan minifikasi JSON dalam talian secara percuma, dengan baris dan lajur tepat dari ralat apa pun. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
+  "id": "/loona-dev-tools/ms/json-formatter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

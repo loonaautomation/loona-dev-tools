@@ -1,0 +1,29 @@
+{
+  "name": "Loona Minifier CSS Dalam Talian Percuma",
+  "short_name": "Minifier CSS Dalam Talian Percuma",
+  "description": "Minifikasi CSS dalam talian secara percuma dan lihat tepat seberapa lebih kecil ia menjadi, atau percantik CSS yang terminifikasi kembali menjadi kode yang dapat dibaca. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
+  "id": "/loona-dev-tools/ms/css-minifier/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar Imej ke Base64",
+  "short_name": "Penukar Imej ke Base64",
+  "description": "Penukaran imej (PNG, JPG, GIF, WebP, SVG) ke data URI Base64 dalam talian — fail dibaca secara setempat, dengan statistik dimensi dan saiz.",
+  "id": "/loona-dev-tools/ms/image-to-base64/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

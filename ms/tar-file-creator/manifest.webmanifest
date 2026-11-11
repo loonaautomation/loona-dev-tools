@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pembina Fail TAR Dalam Talian Percuma",
+  "short_name": "Pembina Fail TAR Dalam Talian Percuma",
+  "description": "Buat arkib TAR (.tar) dari beberapa fail langsung di pelayar Anda - penulis ustar yang benar menurut spesifikasi, pilihan folder, timestamp nyata. Tidak ada yang dimuat naik; tarball dibina di peranti Anda dan terbuka dengan alat tar mana pun.",
+  "id": "/loona-dev-tools/ms/tar-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

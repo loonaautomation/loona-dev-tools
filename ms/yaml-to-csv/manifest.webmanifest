@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar YAML ke CSV",
+  "short_name": "Penukar YAML ke CSV",
+  "description": "Penukaran senarai objek YAML ke jadual CSV: gabungan kunci sebagai lajur, nilai bersarang diserialkan sebagai JSON di selnya.",
+  "id": "/loona-dev-tools/ms/yaml-to-csv/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

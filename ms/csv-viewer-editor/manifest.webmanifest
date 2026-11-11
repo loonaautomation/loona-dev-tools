@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penampil & Penyunting CSV Dalam Talian Percuma",
+  "short_name": "Penampil & Penyunting CSV Dalam Talian",
+  "description": "Lihat dan edit fail CSV dalam talian percuma dalam grid jadual yang dapat diedit - edit sel, urutkan lajur, tambah atau padam baris dan lajur, lalu muat turun CSV yang diedit. Tanpa pendaftaran, berjalan di pelayar Anda.",
+  "id": "/loona-dev-tools/ms/csv-viewer-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar YAML ke JSON Dalam Talian Percuma",
+  "short_name": "Penukar YAML ke JSON Dalam Talian",
+  "description": "Penukaran YAML ke JSON dan JSON ke YAML dalam talian secara percuma. Menyokong subset sehari-hari: map bersarang, senarai, dan skalar, dengan batas yang dinyatakan dengan jujur. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
+  "id": "/loona-dev-tools/ms/yaml-json-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

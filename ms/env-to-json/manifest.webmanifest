@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar .env ke JSON",
+  "short_name": "Penukar .env ke JSON",
+  "description": "Parse fail .env menjadi JSON: baris KEY=value, awalan export, komentar, dan nilai yang dikutip ditangani.",
+  "id": "/loona-dev-tools/ms/env-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

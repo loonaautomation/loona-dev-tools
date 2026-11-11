@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penjana Sitemap XML Dalam Talian Percuma",
+  "short_name": "Penjana Sitemap XML Dalam Talian",
+  "description": "Buat sitemap XML yang valid dalam talian secara percuma dari senarai URL, dengan lastmod, changefreq, dan priority default, escape URL dan XML yang benar. Tanpa pendaftaran, berjalan di pelayar Anda.",
+  "id": "/loona-dev-tools/ms/xml-sitemap-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nyahkod URL (Nyahkod Peratus)",
+  "short_name": "Nyahkod URL (Nyahkod Peratus)",
+  "description": "Nyahkod URL dan query string yang di-encode peratus kembali ke teks yang dapat dibaca, termasuk urutan UTF-8 dan + sebagai ruang. Penyahkod dalam talian percuma.",
+  "id": "/loona-dev-tools/ms/url-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

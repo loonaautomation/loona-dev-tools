@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pengekstrak Fail Unzip Dalam Talian Percuma",
+  "short_name": "Pengekstrak Fail Unzip Dalam Talian",
+  "description": "Buka fail ZIP di pelayar Anda, lihat setiap fail di dalamnya beserta ukurannya, dan ekstrak fail tunggal atau semuanya. Tidak ada yang dimuat naik; ekstraksi terjadi di peranti Anda.",
+  "id": "/loona-dev-tools/ms/unzip-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

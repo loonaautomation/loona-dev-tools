@@ -1,0 +1,29 @@
+{
+  "name": "Loona Pengekod & Penyahkod ROT13",
+  "short_name": "Pengekod & Penyahkod ROT13",
+  "description": "ROT13 teks apa pun: putar huruf sejauh 13 tempat. Pengekodan dan nyahkod adalah operasi yang sama. Klasik untuk spoiler dan teka-teki.",
+  "id": "/loona-dev-tools/ms/rot13-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penjana Clip-Path CSS Dalam Talian Percuma",
+  "short_name": "Penjana Clip-Path CSS",
+  "description": "Buat CSS clip-path dalam talian secara percuma - preset poligon seperti bintang, segi enam, dan panah dengan titik yang dapat disesuaikan, ditambah bentuk lingkaran, elips, dan inset, dengan pratonton langsung. Tanpa pendaftaran.",
+  "id": "/loona-dev-tools/ms/css-clip-path-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

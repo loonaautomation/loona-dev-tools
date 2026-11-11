@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penerjemah Kode Morse ke Teks",
+  "short_name": "Penerjemah Kode Morse ke Teks",
+  "description": "Nyahkod kode Morse kembali ke teks: tampal titik dan garis (huruf dipisahkan ruang, / antar kata) dan baca pesannya.",
+  "id": "/loona-dev-tools/ms/morse-code-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

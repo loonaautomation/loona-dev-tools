@@ -1,0 +1,29 @@
+{
+  "name": "Loona Penukar JSON ke Query String",
+  "short_name": "Penukar JSON ke Query String",
+  "description": "Bangun query string URL dari objek JSON: objek bersarang menggunakan notasi kurung siku, array mengulang kunci, semuanya di-encode peratus.",
+  "id": "/loona-dev-tools/ms/json-to-query-string/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
