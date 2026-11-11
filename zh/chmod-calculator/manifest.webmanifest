@@ -1,0 +1,29 @@
+{
+  "name": "Loona Chmod 计算器 在线免费",
+  "short_name": "Chmod 计算器 在线免费",
+  "description": "免费在线计算 chmod 权限：复选框转八进制（755）和符号形式（rwxr-xr-x），以及八进制转回权限。无需注册，100% 在您的浏览器中运行。",
+  "id": "/loona-dev-tools/zh/chmod-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

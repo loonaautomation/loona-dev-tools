@@ -1,0 +1,29 @@
+{
+  "name": "Loona User Agent 字符串解析器",
+  "short_name": "User Agent 字符串解析器",
+  "description": "用一个透明的基于规则的解析器，把浏览器 User-Agent 字符串解析为浏览器、引擎、操作系统和设备类型。",
+  "id": "/loona-dev-tools/zh/user-agent-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

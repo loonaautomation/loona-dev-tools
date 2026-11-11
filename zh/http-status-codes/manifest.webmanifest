@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTTP 状态代码参考",
+  "short_name": "HTTP 状态代码参考",
+  "description": "每个常见 HTTP 状态代码及其含义：2xx 成功、3xx 重定向、4xx 客户端错误、5xx 服务器错误——通俗解释。",
+  "id": "/loona-dev-tools/zh/http-status-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON 字符串转义",
+  "short_name": "JSON 字符串转义",
+  "description": "转义一个要嵌入 JSON 内部的字符串：引号、反斜杠、换行和控制字符变成 \\ 序列。",
+  "id": "/loona-dev-tools/zh/json-escape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

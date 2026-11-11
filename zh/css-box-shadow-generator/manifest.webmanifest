@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS 盒阴影生成器 在线免费",
+  "short_name": "CSS 盒阴影生成器",
+  "description": "免费在线生成 CSS box-shadow——多个阴影层、内阴影、颜色和不透明度控制，带实时预览和现成的 CSS。无需注册，在您的浏览器中运行。",
+  "id": "/loona-dev-tools/zh/css-box-shadow-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

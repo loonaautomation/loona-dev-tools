@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON 转 XML 转换器",
+  "short_name": "JSON 转 XML 转换器",
+  "description": "在线把 JSON 转换成 XML，可自定义根元素：数组成为重复元素，@键成为属性。",
+  "id": "/loona-dev-tools/zh/json-to-xml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

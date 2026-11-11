@@ -1,0 +1,29 @@
+{
+  "name": "Loona URL 编码（百分号编码）",
+  "short_name": "URL 编码（百分比编码）",
+  "description": "在线对文本或完整 URL 进行百分比编码：空格变成 %20，保留字符按 RFC 3986 转义。组件模式或完整 URL 模式。",
+  "id": "/loona-dev-tools/zh/url-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

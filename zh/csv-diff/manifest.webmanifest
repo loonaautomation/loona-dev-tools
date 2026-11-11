@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV 差异对比 在线免费",
+  "short_name": "CSV 差异对比 在线免费",
+  "description": "免费在线对比两个 CSV 文件——行按键列匹配，并分类为新增、删除、更改（带确切的单元格）或未更改。无需注册，在您的浏览器中运行。",
+  "id": "/loona-dev-tools/zh/csv-diff/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON 转查询字符串转换器",
+  "short_name": "JSON 转查询字符串转换器",
+  "description": "从一个 JSON 对象构建 URL 查询字符串：嵌套对象使用括号记法，数组重复键，一切都经过百分号编码。",
+  "id": "/loona-dev-tools/zh/json-to-query-string/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

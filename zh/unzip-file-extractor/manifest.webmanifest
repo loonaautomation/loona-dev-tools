@@ -1,0 +1,29 @@
+{
+  "name": "Loona ZIP 文件解压工具 在线免费",
+  "short_name": "解压文件提取工具 在线版",
+  "description": "在您的浏览器中打开 ZIP 文件，查看内部每个文件及其大小，解压单个文件或全部。 不上传任何东西；解压在您的设备上进行。",
+  "id": "/loona-dev-tools/zh/unzip-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

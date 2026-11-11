@@ -1,0 +1,29 @@
+{
+  "name": "Loona 文本转十六进制转换器",
+  "short_name": "文本转十六进制转换器",
+  "description": "在线把文本转换成十六进制（UTF-8 字节），字节之间可带或不带空格。免费的开发者转换器。",
+  "id": "/loona-dev-tools/zh/text-to-hex/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV 去重与清理工具 在线免费",
+  "short_name": "CSV 去重与清理工具 在线版",
+  "description": "在线免费从 CSV 中删除重复行——按整行或按关键列——外加修剪空白、丢弃空行并规范化行尾，带前后计数。无需注册。",
+  "id": "/loona-dev-tools/zh/csv-dedupe-cleaner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

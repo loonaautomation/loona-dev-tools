@@ -1,0 +1,29 @@
+{
+  "name": "Loona SEO 可读性检查器 在线免费",
+  "short_name": "SEO 可读性检查器",
+  "description": "免费在线为 SEO 检查内容可读性——Flesch、Flesch-Kincaid、Gunning Fog、Coleman-Liau、SMOG 和 ARI 分数，外加网页文案的句子长度统计。无需注册。",
+  "id": "/loona-dev-tools/zh/readability-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

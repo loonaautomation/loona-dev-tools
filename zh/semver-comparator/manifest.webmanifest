@@ -1,0 +1,29 @@
+{
+  "name": "Loona 语义版本比较器",
+  "short_name": "语义化版本比较器",
+  "description": "验证并比较语义化版本（MAJOR.MINOR.PATCH）：哪个更新，以及什么样的变化将它们分隔。",
+  "id": "/loona-dev-tools/zh/semver-comparator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

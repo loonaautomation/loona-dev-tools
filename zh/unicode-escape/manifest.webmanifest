@@ -1,0 +1,29 @@
+{
+  "name": "Loona Unicode 转义转换器（\\uXXXX）",
+  "short_name": "Unicode 转义转换器",
+  "description": "把文本转义为 Unicode 转义序列（\\uXXXX），用于 JSON、JavaScript、Java 和 properties 文件。通过代理对处理 emoji。",
+  "id": "/loona-dev-tools/zh/unicode-escape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

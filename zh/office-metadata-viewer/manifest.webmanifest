@@ -1,0 +1,29 @@
+{
+  "name": "Loona Office 文档元数据查看器 在线版",
+  "short_name": "Office 文档元数据",
+  "description": "在线免费查看 Office 文档元数据——.docx、.xlsx 和 .pptx 文件的标题、作者、公司、创建和修改日期、应用程序和版本。仅查看，不上传任何东西。",
+  "id": "/loona-dev-tools/zh/office-metadata-viewer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

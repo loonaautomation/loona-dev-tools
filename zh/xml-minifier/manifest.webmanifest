@@ -1,0 +1,29 @@
+{
+  "name": "Loona XML 压缩工具",
+  "short_name": "XML 压缩工具",
+  "description": "在线压缩 XML：把注释和标签间空白去掉，形成一个紧凑的单行。",
+  "id": "/loona-dev-tools/zh/xml-minifier/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON 转 Python 数据类转换器",
+  "short_name": "JSON 转 Python 数据类",
+  "description": "把 JSON 转换成带类型提示的 Python 数据类：嵌套对象成为嵌套数据类，数组使用 List 类型。",
+  "id": "/loona-dev-tools/zh/json-to-python-dataclass/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

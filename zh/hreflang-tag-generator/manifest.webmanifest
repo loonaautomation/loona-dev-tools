@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hreflang 标签生成器 在线免费",
+  "short_name": "Hreflang 标签生成器 在线版",
+  "description": "免费在线生成 hreflang 标签——粘贴语言和 URL 对，添加 x-default，获得完整的备用链接集，带 BCP 47 和绝对 URL 检查。无需注册。",
+  "id": "/loona-dev-tools/zh/hreflang-tag-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

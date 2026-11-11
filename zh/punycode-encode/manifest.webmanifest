@@ -1,0 +1,29 @@
+{
+  "name": "Loona Punycode 编码器（IDN 域名转换器）",
+  "short_name": "Punycode 编码器（IDN 域名",
+  "description": "把国际化域名（IDN）转换成 punycode xn-- 形式：bücher.example 变成 xn--bcher-kva.example。按标签编码。",
+  "id": "/loona-dev-tools/zh/punycode-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

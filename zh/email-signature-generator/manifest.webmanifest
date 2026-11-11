@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML 邮件签名生成器 在线免费",
+  "short_name": "HTML 邮件签名",
+  "description": "免费在线创建专业的 HTML 邮件签名——姓名、职位、公司、电话、电子邮件和网站，采用对电子邮件安全的表格 HTML，在 Gmail 和 Outlook 中都能工作。无需注册。",
+  "id": "/loona-dev-tools/zh/email-signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 随机密码生成器",
+  "short_name": "随机密码生成器",
+  "description": "在您的浏览器中用 WebCrypto API 生成强随机密码：长度和字符集可调，显示熵。",
+  "id": "/loona-dev-tools/zh/random-password-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

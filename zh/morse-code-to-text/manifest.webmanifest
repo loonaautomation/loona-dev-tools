@@ -1,0 +1,29 @@
+{
+  "name": "Loona 摩尔斯电码转文本翻译器",
+  "short_name": "摩尔斯电码转文本翻译器",
+  "description": "把摩尔斯电码解码回文本：粘贴点和划（字母以空格分隔，单词之间用 /），读取消息。",
+  "id": "/loona-dev-tools/zh/morse-code-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

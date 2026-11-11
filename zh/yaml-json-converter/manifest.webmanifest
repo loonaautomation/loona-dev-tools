@@ -1,0 +1,29 @@
+{
+  "name": "Loona YAML 转 JSON 转换器 在线免费",
+  "short_name": "YAML 转 JSON 转换器 在线版",
+  "description": "免费在线把 YAML 转换成 JSON、把 JSON 转换成 YAML。支持日常子集：嵌套映射、列表和标量，限制诚实说明。无需注册，100% 在您的浏览器中运行。",
+  "id": "/loona-dev-tools/zh/yaml-json-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

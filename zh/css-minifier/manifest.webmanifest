@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS 压缩工具 在线免费",
+  "short_name": "CSS 压缩工具 在线免费",
+  "description": "免费在线压缩 CSS 并准确查看它变小了多少，或把压缩后的 CSS 美化回可读代码。无需注册，100% 在您的浏览器中运行。",
+  "id": "/loona-dev-tools/zh/css-minifier/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

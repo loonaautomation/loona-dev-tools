@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML 实体编码器与解码器 在线免费",
+  "short_name": "HTML 实体编码器与解码器",
+  "description": "把文本编码为 HTML 实体（像 &amp;copy; 这样的命名形式或像 &amp;#169; 这样的数字形式），并把实体解码回纯文本。免费，无需注册，在您的浏览器中完成。",
+  "id": "/loona-dev-tools/zh/html-entity-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

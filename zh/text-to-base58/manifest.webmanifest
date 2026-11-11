@@ -1,0 +1,29 @@
+{
+  "name": "Loona 文本转 Base58 编码器",
+  "short_name": "文本转 Base58 编码器",
+  "description": "在线把文本编码为 Base58（比特币字母表）——没有 0、O、I 或 l，是比特币地址和 IPFS 哈希的编码。",
+  "id": "/loona-dev-tools/zh/text-to-base58/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

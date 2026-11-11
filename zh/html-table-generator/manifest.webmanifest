@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML 表格生成器 在线免费",
+  "short_name": "HTML 表格生成器 在线版",
+  "description": "免费在线生成 HTML 表格——设置行和列，在网格中输入，得到支持 thead、th 和 caption 的干净表格 HTML，外加实时预览。无需注册。",
+  "id": "/loona-dev-tools/zh/html-table-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

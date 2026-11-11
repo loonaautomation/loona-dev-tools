@@ -1,0 +1,29 @@
+{
+  "name": "Loona 二进制转文本转换器",
+  "short_name": "二进制转文本转换器",
+  "description": "在线把二进制（8 位一组，带空格或连续）解码回 UTF-8 文本。免费的二进制翻译器。",
+  "id": "/loona-dev-tools/zh/binary-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

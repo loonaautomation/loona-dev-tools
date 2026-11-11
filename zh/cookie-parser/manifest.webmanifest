@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cookie 标头解析器",
+  "short_name": "Cookie 标头解析器",
+  "description": "把 Cookie 标头解析为可读列表：显示 name = value 键值对、百分比解码后的值和 cookie 数量。",
+  "id": "/loona-dev-tools/zh/cookie-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

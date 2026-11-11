@@ -1,0 +1,29 @@
+{
+  "name": "Loona 十六进制转文本转换器",
+  "short_name": "十六进制转文本转换器",
+  "description": "把十六进制转回文本：粘贴十六进制字节（带空格或连续、带或不带 0x），读取 UTF-8 文本。",
+  "id": "/loona-dev-tools/zh/hex-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

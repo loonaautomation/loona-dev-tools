@@ -1,0 +1,29 @@
+{
+  "name": "Loona Unix 时间戳转换器 在线免费",
+  "short_name": "Unix 时间戳转换器",
+  "description": "把 Unix 时间戳（秒或毫秒）转换成 UTC 和您本地时间的人类可读日期，并把日期转回时间戳。实时当前时间。免费。",
+  "id": "/loona-dev-tools/zh/timestamp-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

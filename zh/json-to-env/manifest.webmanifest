@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON 转 .env 转换器",
+  "short_name": "JSON 转 .env 转换器",
+  "description": "把 JSON 配置转换成 .env 格式：嵌套对象用下划线路径扁平化，值在包含空格或 # 时加引号。",
+  "id": "/loona-dev-tools/zh/json-to-env/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

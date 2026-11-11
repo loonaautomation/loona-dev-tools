@@ -1,0 +1,29 @@
+{
+  "name": "Loona 电子邮件验证器 在线免费",
+  "short_name": "电子邮件验证器 在线免费",
+  "description": "在线免费验证电子邮件地址，单个或批量——根据地址规则进行完整的语法检查，外加检测 gmial.com 这类常见的域名拼写错误。无需注册。",
+  "id": "/loona-dev-tools/zh/email-validator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

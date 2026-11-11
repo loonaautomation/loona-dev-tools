@@ -1,0 +1,29 @@
+{
+  "name": "Loona 文件类型检测器 在线免费",
+  "short_name": "文件类型检测器 在线免费",
+  "description": "免费在线从文件的魔术字节标头签名检测其真实类型——PNG、PDF、ZIP、MP4、EXE 和 30+ 种格式——并在扩展名不一致时得到警告。不上传任何东西。",
+  "id": "/loona-dev-tools/zh/file-type-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

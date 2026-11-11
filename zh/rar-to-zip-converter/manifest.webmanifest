@@ -1,0 +1,29 @@
+{
+  "name": "Loona RAR 转 ZIP 转换器 在线免费",
+  "short_name": "RAR 转 ZIP 转换器 在线版",
+  "description": "直接在您的浏览器中把 RAR 归档（.rar）转换成标准 ZIP 文件。文件夹结构得以保留，不上传任何东西，ZIP 在任何地方都能打开——Windows、macOS、Android 和 iPhone 都能原生打开 ZIP。",
+  "id": "/loona-dev-tools/zh/rar-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

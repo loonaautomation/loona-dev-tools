@@ -1,0 +1,29 @@
+{
+  "name": "Loona Google SERP 预览工具 在线免费",
+  "short_name": "Google SERP 预览工具",
+  "description": "在线免费预览您的页面标题和元描述在 Google 搜索结果中的样子，带桌面和移动视图以及像素宽度截断警告。无需注册。",
+  "id": "/loona-dev-tools/zh/google-serp-preview/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

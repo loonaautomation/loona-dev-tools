@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSONPath 测试器",
+  "short_name": "JSONPath 测试器",
+  "description": "针对 JSON 文档测试 JSONPath 表达式：支持点号记法、索引、通配符和递归下降（$..key）。",
+  "id": "/loona-dev-tools/zh/jsonpath-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

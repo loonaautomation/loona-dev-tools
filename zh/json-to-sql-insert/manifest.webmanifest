@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON 转 SQL INSERT 生成器",
+  "short_name": "JSON 转 SQL INSERT 生成器",
+  "description": "从由对象组成的 JSON 数组生成 SQL INSERT 语句：字符串已转义，NULL 和布尔值已处理，表名可自定义。",
+  "id": "/loona-dev-tools/zh/json-to-sql-insert/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

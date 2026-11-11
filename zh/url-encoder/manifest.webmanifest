@@ -1,0 +1,29 @@
+{
+  "name": "Loona URL 编码器与解码器 在线免费",
+  "short_name": "URL 编码器与解码器 在线版",
+  "description": "免费在线编码和解码 URL 及查询文本，带 Component 和 Full URL 模式以及逐字符明细。无需注册，在您的浏览器中完成。",
+  "id": "/loona-dev-tools/zh/url-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

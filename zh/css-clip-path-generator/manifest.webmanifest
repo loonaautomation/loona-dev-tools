@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS Clip-Path 生成器 在线免费",
+  "short_name": "CSS Clip-Path 生成器",
+  "description": "免费在线生成 CSS clip-path——像星形、六边形和箭头这样的多边形预设（点可调），外加圆形、椭圆和内嵌形状，带实时预览。无需注册。",
+  "id": "/loona-dev-tools/zh/css-clip-path-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

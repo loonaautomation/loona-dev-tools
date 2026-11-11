@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON 转 TypeScript 接口转换器",
+  "short_name": "JSON 转 TypeScript 接口",
+  "description": "在线把 JSON 转换成 TypeScript 接口：嵌套对象成为命名接口，对象数组合并它们的键并标记可选字段。",
+  "id": "/loona-dev-tools/zh/json-to-typescript/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

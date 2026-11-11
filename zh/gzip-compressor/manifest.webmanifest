@@ -1,0 +1,29 @@
+{
+  "name": "Loona GZIP 压缩工具 在线免费",
+  "short_name": "GZIP 压缩工具 在线免费",
+  "description": "使用您浏览器内置的 gzip 引擎把任何单个文件压缩成 .gz。即时显示前后的大小，不上传任何东西——文件在您的设备上压缩。适用于日志、CSV、TAR 文件等。",
+  "id": "/loona-dev-tools/zh/gzip-compressor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

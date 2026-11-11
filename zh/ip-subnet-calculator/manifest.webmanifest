@@ -1,0 +1,29 @@
+{
+  "name": "Loona IP 子网计算器 在线免费",
+  "short_name": "IP 子网计算器 在线版",
+  "description": "免费在线计算 IPv4 子网——从任何 CIDR 地址得出网络、广播、网络掩码、通配符、第一个和最后一个主机、可用主机数和 IP 类别，外加子网划分视图。",
+  "id": "/loona-dev-tools/zh/ip-subnet-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

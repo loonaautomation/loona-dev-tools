@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV 查看器与编辑器 在线免费",
+  "short_name": "CSV 查看器与编辑器 在线版",
+  "description": "在线免费在可编辑的表格网格中查看和编辑 CSV 文件——编辑单元格、排序列、添加或移除行和列，然后下载编辑后的 CSV。无需注册，在您的浏览器中运行。",
+  "id": "/loona-dev-tools/zh/csv-viewer-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

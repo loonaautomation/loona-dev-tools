@@ -1,0 +1,29 @@
+{
+  "name": "Loona JWT 解码器 在线免费",
+  "short_name": "JWT 解码器 在线免费",
+  "description": "免费在线解码 JSON Web Token——以美观的 JSON 读取标头和负载，并以通俗的文字查看到期时间。签名不会被验证。在您的浏览器中完成。",
+  "id": "/loona-dev-tools/zh/jwt-decoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

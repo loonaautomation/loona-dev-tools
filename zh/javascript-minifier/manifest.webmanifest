@@ -1,0 +1,29 @@
+{
+  "name": "Loona JavaScript 压缩工具 在线免费",
+  "short_name": "JavaScript 压缩工具 在线版",
+  "description": "免费在线压缩 JavaScript，使用一个保护字符串、模板字面量和正则表达式的保守分词器。无需注册，100% 在您的浏览器中运行。",
+  "id": "/loona-dev-tools/zh/javascript-minifier/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

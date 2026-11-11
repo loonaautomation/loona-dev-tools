@@ -1,0 +1,29 @@
+{
+  "name": "Loona 文本转摩尔斯电码翻译器",
+  "short_name": "文本转摩尔斯电码翻译器",
+  "description": "把文本翻译为摩尔斯电码（字母、数字和常用标点），词之间用 / 分隔。免费摩尔斯翻译器。",
+  "id": "/loona-dev-tools/zh/text-to-morse-code/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona ISO 文件解压工具 在线免费",
+  "short_name": "ISO 文件解压工具 在线免费",
+  "description": "直接在您的浏览器中打开 ISO 光盘镜像——浏览存储在虚拟光盘上的文件系统，下载单个文件或把全部内容下载为 ZIP。不上传任何东西。",
+  "id": "/loona-dev-tools/zh/iso-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

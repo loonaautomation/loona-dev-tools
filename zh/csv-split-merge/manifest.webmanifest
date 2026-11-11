@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV 拆分与合并工具 在线免费",
+  "short_name": "CSV 拆分与合并工具 在线免费",
+  "description": "在线免费按行数把 CSV 拆分成多个部分，或把多个 CSV 文件合并成一个——标题处理正确，适当的 CSV 解析。无需注册，100% 在您的浏览器中运行。",
+  "id": "/loona-dev-tools/zh/csv-split-merge/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
