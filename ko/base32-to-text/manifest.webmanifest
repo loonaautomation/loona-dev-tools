@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base32를 텍스트로 디코딩",
+  "short_name": "Base32를 텍스트로 디코딩",
+  "description": "Base32(RFC 4648)를 다시 텍스트로 디코딩해요 — 대소문자 구분 없음, 패딩 선택 사항. TOTP 스타일로 인코딩된 문자열을 복구하세요.",
+  "id": "/loona-dev-tools/ko/base32-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

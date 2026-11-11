@@ -1,0 +1,29 @@
+{
+  "name": "Loona 비밀번호 강도 검사기 온라인 무료",
+  "short_name": "비밀번호 강도 검사기",
+  "description": "비밀번호 강도를 투명한 엔트로피 추정, 구체적인 피드백, 해독 시간 추정과 함께 온라인에서 무료로 검사해요. 비밀번호는 브라우저를 절대 떠나지 않아요 - 전송되거나 저장되는 것은 없어요.",
+  "id": "/loona-dev-tools/ko/password-strength-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

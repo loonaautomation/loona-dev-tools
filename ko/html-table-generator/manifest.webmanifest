@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML 표 생성기 온라인 무료",
+  "short_name": "HTML 표 생성기 온라인",
+  "description": "HTML 표를 온라인에서 무료로 생성해요 - 행과 열을 설정하고, 격자에 입력하고, thead, th, caption 지원과 실시간 미리보기가 있는 깔끔한 표 HTML을 얻으세요. 회원가입 없어요.",
+  "id": "/loona-dev-tools/ko/html-table-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 십육진수를 텍스트로 변환",
+  "short_name": "십육진수를 텍스트로 변환",
+  "description": "십육진수를 다시 텍스트로 변환해요: 십육진수 바이트(공백 있거나 연속, 0x 있거나 없이)를 붙여넣고 UTF-8 텍스트를 읽으세요.",
+  "id": "/loona-dev-tools/ko/hex-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

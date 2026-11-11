@@ -1,0 +1,29 @@
+{
+  "name": "Loona Punycode 디코더 (xn--를 Unicode 도메인으로)",
+  "short_name": "Punycode 디코더 (xn--를",
+  "description": "xn-- punycode 도메인을 다시 Unicode 형태로 디코딩해요 — 국제화 도메인이 실제로 무엇을 말하는지 확인하세요.",
+  "id": "/loona-dev-tools/ko/punycode-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona SHA-1 해시 생성기",
+  "short_name": "SHA-1 해시 생성기",
+  "description": "텍스트나 파일의 SHA-1 해시를 온라인으로 계산해요: 160-bit, 십육진수 40자. WebCrypto/순수 JS로 브라우저에서 로컬로 실행돼요 — 파일은 절대 업로드되지 않아요.",
+  "id": "/loona-dev-tools/ko/sha1-hash-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

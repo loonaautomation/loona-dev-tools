@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON을 Python 데이터클래스로 변환",
+  "short_name": "JSON을 Python 데이터클래스로",
+  "description": "JSON을 타입 힌트가 있는 Python 데이터클래스로 변환해요: 중첩 객체는 중첩 데이터클래스가 되고, 배열에는 List 타입이 붙어요.",
+  "id": "/loona-dev-tools/ko/json-to-python-dataclass/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

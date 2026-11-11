@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSS 박스 섀도우 생성기 온라인 무료",
+  "short_name": "CSS 박스 섀도우 생성기",
+  "description": "CSS box-shadow를 온라인에서 무료로 생성해요 - 여러 그림자 레이어, inset 그림자, 색상과 불투명도 제어를, 실시간 미리보기와 준비된 CSS와 함께요. 회원가입 없음, 브라우저에서 실행돼요.",
+  "id": "/loona-dev-tools/ko/css-box-shadow-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

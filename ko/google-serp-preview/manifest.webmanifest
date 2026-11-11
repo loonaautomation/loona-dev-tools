@@ -1,0 +1,29 @@
+{
+  "name": "Loona Google SERP 미리보기 도구 온라인 무료",
+  "short_name": "Google SERP 미리보기 도구",
+  "description": "페이지 제목과 메타 설명이 Google 검색 결과에서 어떻게 보일지 온라인에서 무료로 미리 보세요. 데스크톱과 모바일 보기, 픽셀 너비 잘림 경고와 함께예요. 회원가입 없음이에요.",
+  "id": "/loona-dev-tools/ko/google-serp-preview/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

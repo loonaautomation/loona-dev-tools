@@ -1,0 +1,29 @@
+{
+  "name": "Loona YAML을 JSON으로 변환",
+  "short_name": "YAML을 JSON으로 변환",
+  "description": "YAML을 JSON으로 온라인 변환해요: 블록 매핑과 시퀀스, 따옴표 있는 스칼라와 일반 스칼라, 흐름 컬렉션. 부분 집합은 솔직히 문서화돼 있어요.",
+  "id": "/loona-dev-tools/ko/yaml-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

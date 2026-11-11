@@ -1,0 +1,29 @@
+{
+  "name": "Loona YAML을 JSON으로 변환 온라인 무료",
+  "short_name": "YAML을 JSON으로 변환 온라인",
+  "description": "YAML을 JSON으로, JSON을 YAML로 온라인에서 무료로 변환해요. 일상적인 부분 집합을 지원해요: 중첩 맵, 목록, 스칼라를, 한계는 솔직히 적어둬요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
+  "id": "/loona-dev-tools/ko/yaml-json-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona YAML을 TOML로 변환",
+  "short_name": "YAML을 TOML로 변환",
+  "description": "YAML을 TOML로 온라인 변환해요(공유 데이터 모델을 통해): 표, 스칼라, 배열이 TOML 레이아웃 규칙에 매핑돼요.",
+  "id": "/loona-dev-tools/ko/yaml-to-toml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

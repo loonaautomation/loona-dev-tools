@@ -1,0 +1,29 @@
+{
+  "name": "Loona 이미지를 Base64로 변환",
+  "short_name": "이미지를 Base64로 변환",
+  "description": "이미지(PNG, JPG, GIF, WebP, SVG)를 Base64 데이터 URI로 온라인 변환해요 — 파일은 로컬에서 읽히고, 크기와 크기 통계가 함께예요.",
+  "id": "/loona-dev-tools/ko/image-to-base64/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base64를 이미지로 변환",
+  "short_name": "Base64를 이미지로 변환",
+  "description": "Base64 문자열이나 데이터 URI를 다시 볼 수 있고 다운로드 가능한 이미지로 디코딩해요. MIME 타입은 바이트에서 감지돼요.",
+  "id": "/loona-dev-tools/ko/base64-to-image/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON을 Markdown 표로 변환",
+  "short_name": "JSON을 Markdown 표로",
+  "description": "객체의 JSON 배열을 Markdown 표로 변환해요: 키에서 열을 만들고, 파이프는 이스케이프되고, README에 붙여넣을 준비가 돼요.",
+  "id": "/loona-dev-tools/ko/json-to-markdown-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

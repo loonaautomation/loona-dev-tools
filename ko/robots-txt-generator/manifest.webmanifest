@@ -1,0 +1,29 @@
+{
+  "name": "Loona Robots.txt 생성기 온라인 무료",
+  "short_name": "Robots.txt 생성기 온라인",
+  "description": "유효한 robots.txt를 온라인에서 무료로 생성해요 - 프리셋, 에이전트별 허용 및 차단 규칙, 사이트맵 줄, 내장 구문 건전성 검사예요. 회원가입 없음, 브라우저에서 실행돼요.",
+  "id": "/loona-dev-tools/ko/robots-txt-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

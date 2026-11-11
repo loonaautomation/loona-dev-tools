@@ -1,0 +1,29 @@
+{
+  "name": "Loona Diff 검사기 온라인 무료",
+  "short_name": "Diff 검사기 온라인 무료",
+  "description": "두 텍스트를 줄 단위 비교로 온라인에서 무료로 비교해요: 추가된 줄은 초록색, 제거된 줄은 빨간색, 그리고 변경 요약까지요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
+  "id": "/loona-dev-tools/ko/diff-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

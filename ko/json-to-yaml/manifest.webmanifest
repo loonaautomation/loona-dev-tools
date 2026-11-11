@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON을 YAML로 변환",
+  "short_name": "JSON을 YAML로 변환",
+  "description": "JSON을 YAML로 온라인 변환해요: 깔끔한 들여쓰기, 배열과 중첩 객체, 문자열은 YAML이 필요할 때만 따옴표로 감싸요.",
+  "id": "/loona-dev-tools/ko/json-to-yaml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

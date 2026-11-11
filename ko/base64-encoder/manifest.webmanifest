@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base64 인코더 & 디코더 온라인 무료",
+  "short_name": "Base64 인코더 & 디코더",
+  "description": "텍스트나 파일을 Base64로 인코딩하고 Base64를 다시 디코딩해요. 모든 언어와 이모지에 UTF-8 안전하고, URL 안전 옵션이 있어요. 무료, 회원가입 없음, 브라우저에서요.",
+  "id": "/loona-dev-tools/ko/base64-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

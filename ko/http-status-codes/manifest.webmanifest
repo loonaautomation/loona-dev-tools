@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTTP 상태 코드 참조",
+  "short_name": "HTTP 상태 코드 참조",
+  "description": "모든 일반적인 HTTP 상태 코드와 그 의미: 2xx 성공, 3xx 리디렉션, 4xx 클라이언트 오류, 5xx 서버 오류 — 쉽게 설명해요.",
+  "id": "/loona-dev-tools/ko/http-status-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

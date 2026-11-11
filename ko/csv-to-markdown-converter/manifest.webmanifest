@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV를 Markdown 표로 변환 온라인",
+  "short_name": "CSV를 Markdown 표로",
+  "description": "CSV를 Markdown 표로 온라인에서 무료로 변환해요 - 숫자 열이 자동으로 오른쪽 정렬되고 파이프 문자가 올바르게 이스케이프돼요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
+  "id": "/loona-dev-tools/ko/csv-to-markdown-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cron 표현식 생성기 온라인 무료",
+  "short_name": "Cron 표현식 생성기",
+  "description": "드롭다운으로 cron 표현식을 만들고 5개 필드의 어떤 cron 표현식이든 쉬운 영어로 설명해요, 온라인에서 무료로요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
+  "id": "/loona-dev-tools/ko/cron-expression-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

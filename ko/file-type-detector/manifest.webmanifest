@@ -1,0 +1,29 @@
+{
+  "name": "Loona 파일 형식 감지기 온라인 무료",
+  "short_name": "파일 형식 감지기 온라인 무료",
+  "description": "파일의 실제 타입을 매직 바이트 헤더 서명에서 온라인으로 무료로 감지해요 - PNG, PDF, ZIP, MP4, EXE와 30개 이상의 형식 - 그리고 확장자가 다르면 경고를 받아요. 업로드되는 것은 없어요.",
+  "id": "/loona-dev-tools/ko/file-type-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

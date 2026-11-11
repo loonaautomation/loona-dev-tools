@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON을 .env로 변환",
+  "short_name": "JSON을 .env로 변환",
+  "description": "JSON 구성을 .env 형식으로 변환해요: 중첩 객체는 UNDERSCORE 경로로 평평해지고, 값은 공백이나 #를 포함할 때 따옴표로 감싸요.",
+  "id": "/loona-dev-tools/ko/json-to-env/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

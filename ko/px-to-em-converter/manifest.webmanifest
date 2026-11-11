@@ -1,0 +1,29 @@
+{
+  "name": "Loona 픽셀(px)을 Em으로 변환",
+  "short_name": "픽셀(px)을 Em으로 변환",
+  "description": "조정 가능한 기본 글꼴 크기(기본값 16px)와 일반적인 값의 표로 px를 em으로 변환해요.",
+  "id": "/loona-dev-tools/ko/px-to-em-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Office 문서 메타데이터 뷰어 온라인",
+  "short_name": "Office 문서 메타데이터",
+  "description": "Office 문서 메타데이터를 온라인에서 무료로 보세요 - .docx, .xlsx, .pptx 파일의 제목, 작성자, 회사, 생성 및 수정 날짜, 애플리케이션과 버전이에요. 보기 전용, 업로드 없음이에요.",
+  "id": "/loona-dev-tools/ko/office-metadata-viewer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

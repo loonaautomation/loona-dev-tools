@@ -1,0 +1,29 @@
+{
+  "name": "Loona XML을 YAML로 변환",
+  "short_name": "XML을 YAML로 변환",
+  "description": "XML을 YAML로 변환해요: 속성은 @keys로, 반복 요소는 목록으로, 값에 타입이 부여돼요. 정규식이 아닌 진짜 파서예요.",
+  "id": "/loona-dev-tools/ko/xml-to-yaml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

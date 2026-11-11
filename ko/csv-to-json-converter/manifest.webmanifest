@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV를 JSON으로 변환 온라인 무료",
+  "short_name": "CSV를 JSON으로 변환 온라인",
+  "description": "CSV를 객체의 JSON 배열로 온라인에서 무료로 변환해요. 따옴표 필드, 따옴표 안 쉼표, 이스케이프된 따옴표를 처리하는 올바른 CSV 파서와 함께요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
+  "id": "/loona-dev-tools/ko/csv-to-json-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

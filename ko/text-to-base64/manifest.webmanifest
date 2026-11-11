@@ -1,0 +1,29 @@
+{
+  "name": "Loona 텍스트를 Base64로 인코딩",
+  "short_name": "텍스트를 Base64로 인코더",
+  "description": "텍스트를 Base64로 온라인에서 인코딩해요. 모든 언어와 이모지에 UTF-8 안전하고, 선택적인 URL 안전 알파벳과 함께요. 무료, 비공개, 브라우저에서요.",
+  "id": "/loona-dev-tools/ko/text-to-base64/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

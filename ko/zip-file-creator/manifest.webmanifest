@@ -1,0 +1,29 @@
+{
+  "name": "Loona ZIP 파일 생성기 온라인 무료",
+  "short_name": "ZIP 파일 생성기 온라인 무료",
+  "description": "브라우저에서 바로 여러 파일로 ZIP 파일을 만드세요 - 파일을 추가하고, 아카이브 이름을 짓고, 하나의 .zip을 다운로드하세요. 업로드되는 것은 없어요; 모든 것이 기기에 남아요.",
+  "id": "/loona-dev-tools/ko/zip-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

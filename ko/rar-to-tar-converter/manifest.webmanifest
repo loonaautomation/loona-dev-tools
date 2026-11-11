@@ -1,0 +1,29 @@
+{
+  "name": "Loona RAR를 TAR로 변환",
+  "short_name": "RAR를 TAR로 변환",
+  "description": "RAR 아카이브(RAR4와 RAR5)를 브라우저의 libarchive로 TAR로 온라인 변환해요. 파일은 기기에 그대로 남아요.",
+  "id": "/loona-dev-tools/ko/rar-to-tar-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

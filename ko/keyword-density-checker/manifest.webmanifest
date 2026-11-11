@@ -1,0 +1,29 @@
+{
+  "name": "Loona 키워드 밀도 검사기 온라인 무료",
+  "short_name": "키워드 밀도 검사기",
+  "description": "키워드 밀도를 온라인에서 무료로 검사해요 - 상위 단일 단어와 2단어 및 3단어 구를 개수와 백분율 밀도와 함께, 불용어 필터링 포함. 회원가입 없어요.",
+  "id": "/loona-dev-tools/ko/keyword-density-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

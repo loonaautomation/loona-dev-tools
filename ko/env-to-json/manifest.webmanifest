@@ -1,0 +1,29 @@
+{
+  "name": "Loona .env를 JSON으로 변환",
+  "short_name": ".env를 JSON으로 변환",
+  "description": ".env 파일을 JSON으로 파싱해요: KEY=value 줄, export 접두사, 주석, 따옴표 값이 처리돼요.",
+  "id": "/loona-dev-tools/ko/env-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

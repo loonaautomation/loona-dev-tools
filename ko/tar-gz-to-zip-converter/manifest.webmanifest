@@ -1,0 +1,29 @@
+{
+  "name": "Loona TAR.GZ를 ZIP으로 변환 온라인 무료",
+  "short_name": "TAR.GZ를 ZIP으로 변환",
+  "description": "TAR.GZ(.tar.gz나 .tgz) 아카이브를 브라우저에서 바로 ZIP 파일로 변환해요. 두 층 - gzip과 tar - 이 기기에서 풀리고 파일이 하나의 ZIP으로 다시 묶여요. 업로드되는 것은 없어요.",
+  "id": "/loona-dev-tools/ko/tar-gz-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

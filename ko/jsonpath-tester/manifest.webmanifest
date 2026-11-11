@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSONPath 테스터",
+  "short_name": "JSONPath 테스터",
+  "description": "JSON 문서에 대해 JSONPath 식을 테스트하세요: 점 표기법, 인덱스, 와일드카드, 재귀 하강($..key)이 지원돼요.",
+  "id": "/loona-dev-tools/ko/jsonpath-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

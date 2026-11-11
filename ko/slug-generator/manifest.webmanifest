@@ -1,0 +1,29 @@
+{
+  "name": "Loona 슬러그 생성기 (URL 슬러그 메이커)",
+  "short_name": "슬러그 생성기 (URL 슬러그",
+  "description": "제목에서 깔끔한 URL 슬러그를 생성해요: 악센트 제거, 소문자, 공백을 하이픈(또는 밑줄)으로요. 무료 슬러그 메이커예요.",
+  "id": "/loona-dev-tools/ko/slug-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

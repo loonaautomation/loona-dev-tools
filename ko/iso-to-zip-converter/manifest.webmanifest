@@ -1,0 +1,29 @@
+{
+  "name": "Loona ISO를 ZIP으로 변환",
+  "short_name": "ISO를 ZIP으로 변환",
+  "description": "ISO 디스크 이미지를 그 파일들의 ZIP으로 온라인 변환해요: libarchive가 ISO9660/Rock Ridge 내용을 로컬에서 읽어요.",
+  "id": "/loona-dev-tools/ko/iso-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

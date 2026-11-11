@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base58을 텍스트로 디코딩",
+  "short_name": "Base58을 텍스트로 디코딩",
+  "description": "Base58 문자열을 다시 텍스트(UTF-8)로 디코딩해요. Bitcoin 알파벳으로 검증하고 잘못된 문자를 보고해요.",
+  "id": "/loona-dev-tools/ko/base58-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

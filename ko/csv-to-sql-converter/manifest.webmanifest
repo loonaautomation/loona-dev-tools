@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV를 SQL로 변환 온라인 무료",
+  "short_name": "CSV를 SQL로 변환 온라인",
+  "description": "CSV를 SQL로 온라인에서 무료로 변환해요 - 추론된 열 타입의 CREATE TABLE과 행마다 하나의 INSERT를, MySQL, PostgreSQL 또는 SQLite용으로요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
+  "id": "/loona-dev-tools/ko/csv-to-sql-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Chmod 계산기 온라인 무료",
+  "short_name": "Chmod 계산기 온라인 무료",
+  "description": "chmod 권한을 온라인에서 무료로 계산해요: 체크박스에서 팔진수(755)와 기호(rwxr-xr-x)로, 팔진수에서 다시 권한으로요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
+  "id": "/loona-dev-tools/ko/chmod-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

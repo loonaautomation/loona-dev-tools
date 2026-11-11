@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON 문자열 이스케이프 해제",
+  "short_name": "JSON 문자열 이스케이프 해제",
+  "description": "JSON 문자열 값을 일반 텍스트로 이스케이프 해제하세요: \\n, \\t, \\&quot;, \\\\, \\uXXXX 시퀀스가 실제 문자가 돼요.",
+  "id": "/loona-dev-tools/ko/json-unescape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

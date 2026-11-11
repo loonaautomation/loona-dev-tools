@@ -1,0 +1,29 @@
+{
+  "name": "Loona 무작위 비밀번호 생성기",
+  "short_name": "무작위 비밀번호 생성기",
+  "description": "WebCrypto API로 브라우저에서 강력한 무작위 비밀번호를 생성해요: 길이와 문자 집합 조정 가능, 엔트로피 표시돼요.",
+  "id": "/loona-dev-tools/ko/random-password-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV 중복 제거 & 정리 온라인 무료",
+  "short_name": "CSV 중복 제거 & 정리 온라인",
+  "description": "CSV에서 중복 행을 온라인에서 무료로 제거하세요 - 전체 행이나 키 열로 - 에 더해 공백 다듬기, 빈 행 버리기, 줄 끝 정규화를, 전/후 개수와 함께예요. 회원가입 없음이에요.",
+  "id": "/loona-dev-tools/ko/csv-dedupe-cleaner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

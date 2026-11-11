@@ -1,0 +1,29 @@
+{
+  "name": "Loona A1Z26 암호 디코더 (숫자를 문자로)",
+  "short_name": "A1Z26 암호 디코더 (숫자",
+  "description": "A1Z26 숫자 코드를 다시 문자로 디코딩해요: 1=A, 2=B ... 26=Z. 하이픈, 쉼표 또는 공백으로 구분돼요.",
+  "id": "/loona-dev-tools/ko/a1z26-cipher-decoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

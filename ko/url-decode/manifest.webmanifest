@@ -1,0 +1,29 @@
+{
+  "name": "Loona URL 디코딩 (퍼센트 디코딩)",
+  "short_name": "URL 디코딩 (퍼센트 디코딩)",
+  "description": "퍼센트 인코딩된 URL과 쿼리 문자열을 다시 읽을 수 있는 텍스트로 디코딩해요, UTF-8 시퀀스와 공백으로서의 + 포함. 무료 온라인 디코더예요.",
+  "id": "/loona-dev-tools/ko/url-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

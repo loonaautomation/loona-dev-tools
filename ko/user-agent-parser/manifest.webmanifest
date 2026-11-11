@@ -1,0 +1,29 @@
+{
+  "name": "Loona 사용자 에이전트 문자열 파서",
+  "short_name": "사용자 에이전트 문자열 파서",
+  "description": "브라우저 User-Agent 문자열을 투명한 규칙 기반 파서로 브라우저, 엔진, OS, 기기 타입으로 파싱해요.",
+  "id": "/loona-dev-tools/ko/user-agent-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

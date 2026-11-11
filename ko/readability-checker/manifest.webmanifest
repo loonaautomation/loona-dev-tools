@@ -1,0 +1,29 @@
+{
+  "name": "Loona SEO 가독성 검사기 온라인 무료",
+  "short_name": "SEO 가독성 검사기",
+  "description": "콘텐츠 가독성을 SEO를 위해 온라인에서 무료로 검사해요 - Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG, ARI 점수와 웹 카피용 문장 길이 통계예요. 회원가입 없어요.",
+  "id": "/loona-dev-tools/ko/readability-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

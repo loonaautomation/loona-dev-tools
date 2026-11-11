@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV를 YAML로 변환",
+  "short_name": "CSV를 YAML로 변환",
+  "description": "CSV 표를 YAML로 변환해요: 헤더 행이 키가 되고, 각 행은 YAML 목록의 항목이 되며, 숫자에 타입이 부여돼요.",
+  "id": "/loona-dev-tools/ko/csv-to-yaml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

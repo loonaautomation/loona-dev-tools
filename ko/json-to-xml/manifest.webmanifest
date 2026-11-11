@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON을 XML로 변환",
+  "short_name": "JSON을 XML로 변환",
+  "description": "사용자 지정 가능한 루트 요소로 JSON을 XML로 온라인 변환해요: 배열은 반복 요소가 되고, @keys는 속성이 돼요.",
+  "id": "/loona-dev-tools/ko/json-to-xml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

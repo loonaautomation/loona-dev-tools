@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV 프로파일러 온라인 무료",
+  "short_name": "CSV 프로파일러 온라인 무료",
+  "description": "CSV 파일을 온라인에서 무료로 프로파일링하세요 - 열별 타입 추측, 빈 셀 개수, 고유 값 개수, 숫자 최소/최대와 상위 값으로, 파일을 사용하기 전에 이해하게 돼요. 회원가입 없음이에요.",
+  "id": "/loona-dev-tools/ko/csv-profiler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

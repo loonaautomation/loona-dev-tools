@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cron 표현식 설명기",
+  "short_name": "Cron 표현식 설명기",
+  "description": "cron 표현식을 쉬운 영어로 설명해요: 5개 필드의 cron 일정을 붙여넣고 언제 실행되는지 필드별로 읽으세요.",
+  "id": "/loona-dev-tools/ko/cron-expression-explainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

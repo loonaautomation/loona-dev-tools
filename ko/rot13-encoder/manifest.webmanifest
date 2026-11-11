@@ -1,0 +1,29 @@
+{
+  "name": "Loona ROT13 인코더 & 디코더",
+  "short_name": "ROT13 인코더 & 디코더",
+  "description": "모든 텍스트를 ROT13하세요: 문자를 13자리 회전하세요. 인코딩과 디코딩은 같은 연산이에요. 스포일러와 퍼즐의 고전이에요.",
+  "id": "/loona-dev-tools/ko/rot13-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

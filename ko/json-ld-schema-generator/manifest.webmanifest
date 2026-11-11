@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON-LD 스키마 생성기 온라인 무료",
+  "short_name": "JSON-LD 스키마 생성기",
+  "description": "schema.org JSON-LD 구조화 데이터를 온라인에서 무료로 생성해요 - Article, LocalBusiness, Product, Event, Recipe, Person, Organization, WebSite - 준비된 스크립트 블록으로요. 회원가입 없어요.",
+  "id": "/loona-dev-tools/ko/json-ld-schema-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

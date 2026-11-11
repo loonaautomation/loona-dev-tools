@@ -1,0 +1,29 @@
+{
+  "name": "Loona 진법 변환기 온라인 무료",
+  "short_name": "진법 변환기 온라인",
+  "description": "이진수, 팔진수, 십진수, 십육진수 사이에서 숫자를 온라인으로 무료로 변환해요. 2^53을 넘는 값에 대한 BigInt 정밀도와 자릿수별 검증과 함께요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
+  "id": "/loona-dev-tools/ko/number-base-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

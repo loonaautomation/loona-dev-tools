@@ -1,0 +1,29 @@
+{
+  "name": "Loona UUID 생성기 온라인 무료",
+  "short_name": "UUID 생성기 온라인 무료",
+  "description": "무작위 버전 4 UUID를 온라인에서 무료로 생성해요 - 단일 또는 최대 100개까지 대량, 대문자와 하이픈 없음 옵션이에요. 암호학적으로 무작위, 브라우저에서요.",
+  "id": "/loona-dev-tools/ko/uuid-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

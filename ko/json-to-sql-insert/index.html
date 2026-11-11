@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JSON을 SQL INSERT로 생성 | Loona Developer Tools</title>
+<meta name="description" content="객체의 JSON 배열에서 SQL INSERT 문을 생성해요: 문자열 이스케이프, NULL과 불리언 처리, 사용자 지정 표 이름이에요.">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-dev-tools/ko/json-to-sql-insert/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-dev-tools/json-to-sql-insert/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-dev-tools/es/json-to-sql-insert/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-dev-tools/de/json-to-sql-insert/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-dev-tools/fr/json-to-sql-insert/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-dev-tools/pt/json-to-sql-insert/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-dev-tools/it/json-to-sql-insert/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-dev-tools/nl/json-to-sql-insert/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-dev-tools/ar/json-to-sql-insert/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-dev-tools/ur/json-to-sql-insert/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-dev-tools/tr/json-to-sql-insert/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-dev-tools/ru/json-to-sql-insert/"><link rel="alternate" hreflang="ko" href="https://loonaautomation.github.io/loona-dev-tools/ko/json-to-sql-insert/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-dev-tools/json-to-sql-insert/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Loona Developer Tools">
+<meta property="og:title" content="JSON을 SQL INSERT로 생성 | Loona Developer Tools">
+<meta property="og:description" content="객체의 JSON 배열에서 SQL INSERT 문을 생성해요: 문자열 이스케이프, NULL과 불리언 처리, 사용자 지정 표 이름이에요.">
+<meta property="og:url" content="https://loonaautomation.github.io/loona-dev-tools/ko/json-to-sql-insert/"><meta property="og:locale" content="ko_KR">
+<meta property="og:image" content="https://loonaautomation.github.io/loona-dev-tools/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="JSON을 SQL INSERT로 생성 | Loona Developer Tools">
+<meta name="twitter:description" content="객체의 JSON 배열에서 SQL INSERT 문을 생성해요: 문자열 이스케이프, NULL과 불리언 처리, 사용자 지정 표 이름이에요.">
+<meta name="twitter:image" content="https://loonaautomation.github.io/loona-dev-tools/og-image.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
+<link rel="icon" href="../../favicon.ico">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","z599jkwoy9");</script>
+<style>
+:root{--teal:#062e2a;--teal2:#0b3d37;--gold:#c9a227;--gold2:#e3c565;--ink:#12211e;--mut:#5a6d68;--bg:#f6f4ec;--card:#ffffff;--line:#e3ddc9;--radius:16px}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+a{color:#0a5c50;text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{position:sticky;top:0;z-index:50;background:var(--teal);box-shadow:0 2px 14px rgba(0,0,0,.25)}
+.header-in{max-width:1140px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:10px 16px}
+.brand{display:flex;align-items:center;gap:10px;color:#fff;font-weight:700;font-size:1.15rem}
+.brand img{width:40px;height:40px;border-radius:9px}
+.brand span{color:var(--gold2)}
+nav.main{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+nav.main a{color:#dcebe4;padding:7px 11px;border-radius:9px;font-size:.93rem}
+nav.main a:hover{background:var(--teal2);text-decoration:none;color:#fff}
+.wrap{max-width:1140px;margin:0 auto;padding:0 16px}
+.hero{background:linear-gradient(135deg,var(--teal) 0%,#0d4a41 60%,#10604f 100%);color:#fff;padding:52px 0 46px;text-align:center}
+.hero h1{font-size:2.35rem;line-height:1.2;margin-bottom:12px}
+.hero h1 .gold{color:var(--gold2)}
+.hero p{max-width:720px;margin:0 auto 8px;color:#d7e8df;font-size:1.06rem}
+.hero .badges{margin-top:18px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.badge{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);color:#fff;padding:5px 13px;border-radius:999px;font-size:.85rem}
+.crumbs{font-size:.86rem;color:var(--mut);padding:16px 0 4px}
+.crumbs a{color:var(--mut)}
+main.page{padding:8px 0 10px}
+h1.tool{font-size:2rem;line-height:1.25;color:var(--teal);margin:6px 0 8px}
+.inshort{background:#fff8e1;border-left:4px solid var(--gold);padding:12px 16px;border-radius:0 12px 12px 0;margin:12px 0 16px;font-size:1.0rem}
+.lede{color:#33473f;max-width:820px;margin-bottom:18px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:0 4px 18px rgba(6,46,42,.06);margin-bottom:22px}
+.btn{display:inline-block;background:var(--gold);color:#231a00;font-weight:700;border:none;padding:12px 26px;border-radius:11px;font-size:1rem;cursor:pointer;box-shadow:0 3px 10px rgba(201,162,39,.35)}
+.btn:hover{background:var(--gold2)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:#fff;border:1.5px solid var(--teal);color:var(--teal);box-shadow:none;padding:9px 18px;font-size:.93rem}
+.btn.small{padding:7px 13px;font-size:.86rem}
+.row{display:flex;gap:14px;flex-wrap:wrap;margin:14px 0}
+.field{flex:1;min-width:150px}
+.field label{display:block;font-weight:600;font-size:.9rem;margin-bottom:5px;color:var(--teal)}
+.field select,.field input[type=text],.field input[type=number],.field textarea{width:100%;padding:10px 12px;border:1.5px solid #cfc9ae;border-radius:10px;font-size:.97rem;background:#fff;font-family:inherit}
+.field textarea{min-height:150px;resize:vertical}
+textarea.big{min-height:220px;font-size:1rem;line-height:1.65}
+textarea.mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.92rem}
+input[type=range]{width:100%}
+.check{display:flex;align-items:center;gap:8px;font-size:.95rem;margin:6px 0;cursor:pointer}
+.check input{width:17px;height:17px;accent-color:#0b3d37}
+.status{margin-top:14px;font-size:.95rem;min-height:22px}
+.status.ok{color:#0a6b3c}.status.err{color:#b3261e}
+.privacy-note{background:#e9f5ef;border:1px solid #bfe0cd;color:#14532d;border-radius:12px;padding:12px 16px;font-size:.94rem;margin-bottom:22px}
+section.block{margin:30px 0}
+section.block h2{color:var(--teal);font-size:1.45rem;margin-bottom:12px}
+section.block h3{color:var(--teal);margin:14px 0 6px}
+section.block p,section.block li{color:#33473f}
+section.block ol,section.block ul{padding-left:22px}
+section.block li{margin-bottom:6px}
+.strip{display:flex;gap:8px;flex-wrap:wrap}
+.chip{background:#fff;border:1.5px solid var(--gold);color:var(--teal);font-weight:600;padding:8px 15px;border-radius:999px;font-size:.9rem}
+.chip:hover{background:#fff7dd;text-decoration:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;display:block;color:var(--ink);transition:.15s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(6,46,42,.12);text-decoration:none;border-color:var(--gold)}
+.card .ic{font-size:1.9rem;margin-bottom:8px}
+.card h3{color:var(--teal);font-size:1.12rem;margin-bottom:5px}
+.card p{color:var(--mut);font-size:.92rem}
+details.faq{background:#fff;border:1px solid var(--line);border-radius:12px;padding:13px 17px;margin-bottom:10px}
+details.faq summary{cursor:pointer;font-weight:600;color:var(--teal)}
+details.faq p{margin-top:8px;color:#33473f}
+.kv{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:12px}
+.kv div{background:#faf8ef;border:1px solid var(--line);border-radius:10px;padding:9px 12px;font-size:.92rem}
+.kv b{color:var(--teal);display:block;font-size:1.05rem}
+table.freq{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+table.freq th,table.freq td{padding:8px 12px;border-bottom:1px solid var(--line);text-align:left;font-size:.94rem}
+table.freq th{background:#faf8ef;color:var(--teal)}
+.diffout{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9rem;line-height:1.55;max-height:480px;overflow:auto}
+.diffout .add{background:#e2f4e5}
+.diffout .del{background:#fbe3e1}
+.fancyrow{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin-bottom:9px}
+.fancyrow .fv{flex:1;font-size:1.08rem;word-break:break-all}
+footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
+.footer-in{max-width:1140px;margin:0 auto;padding:30px 16px;display:flex;gap:26px;flex-wrap:wrap}
+.footer-in h4{color:var(--gold2);margin-bottom:9px;font-size:1rem}
+.footer-in a{color:#cfe0d6;display:block;margin-bottom:5px;font-size:.93rem}
+.footer-in .col{min-width:170px}
+.copyright{border-top:1px solid #12463e;text-align:center;padding:14px;font-size:.86rem;color:#9db8ab}
+@media(max-width:640px){.hero h1{font-size:1.7rem}h1.tool{font-size:1.55rem}.panel{padding:16px}nav.main a{padding:6px 8px;font-size:.86rem}}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"JSON을 SQL INSERT로 생성","url":"https://loonaautomation.github.io/loona-dev-tools/ko/json-to-sql-insert/","applicationCategory":"DeveloperApplication","operatingSystem":"Any (web browser)","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"description":"객체의 JSON 배열에서 SQL INSERT 문을 생성해요: 문자열 이스케이프, NULL과 불리언 처리, 사용자 지정 표 이름이에요.","publisher":{"@type":"Organization","name":"Loona Automation"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Loona Automation","item":"https://loonaautomation.github.io/"},{"@type":"ListItem","position":2,"name":"Loona Developer Tools","item":"https://loonaautomation.github.io/loona-dev-tools/ko/"},{"@type":"ListItem","position":3,"name":"JSON을 SQL INSERT로 생성","item":"https://loonaautomation.github.io/loona-dev-tools/ko/json-to-sql-insert/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"출력은 어떤 SQL 방언인가요?","acceptedAnswer":{"@type":"Answer","text":"이 INSERT 형태에 대해 PostgreSQL, MySQL, SQLite, SQL Server에서 실행되는 표준 SQL이에요. TRUE/FALSE 키워드는 오래된 MySQL 설정에서 1/0이 필요할 수 있어요."}},{"@type":"Question","name":"객체에 다른 키가 있으면 어떻게 되나요?","acceptedAnswer":{"@type":"Answer","text":"열은 첫 번째 객체에서 와요; 이후 행의 추가 키는 무시되고 없는 키는 NULL이 돼요 — 데이터가 불규칙하면 출력을 확인하세요."}}]}</script>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
+</head>
+<body>
+<header class="site"><div class="header-in">
+<a class="brand" href="../"><img src="../../apple-touch-icon.png" alt="Loona Automation 로고">Loona <span>개발자 도구</span></a>
+<nav class="main">
+<a href="../">홈</a>
+<a href="../json-formatter/">JSON 포맷터</a>
+<a href="../uuid-generator/">UUID 생성기</a>
+<a href="../hash-generator/">해시 생성기</a>
+<a href="../jwt-decoder/">JWT 디코더</a>
+<a href="../about.html">소개</a>
+</nav></div></header>
+<div class="wrap"><div class="crumbs"><a href="../">홈</a> &rsaquo; 코드 생성기</div><main class="page">
+<h1 class="tool">JSON을 SQL INSERT로 생성</h1>
+<div class="inshort"><strong>요약하면:</strong> 객체의 JSON 배열을 붙여넣고 실행할 준비가 된 다중 행 INSERT 문을 얻으세요 — 문자열은 작은따옴표로 이스케이프되고, 숫자는 순수하며, 불리언과 NULL이 처리돼요.</div>
+<div class="privacy-note">🔒 <strong>설계상 비공개:</strong> 모든 것이 이 기기의 브라우저에서 실행돼요. 입력은 서버에 절대 업로드되지 않아요.</div>
+<div class="panel"><div class="field"><label for="inp">입력</label><textarea id="inp" class="big mono" spellcheck="false" placeholder="여기에 붙여넣거나 입력하세요...">[{&quot;id&quot;: 1, &quot;name&quot;: &quot;Ali&quot;}, {&quot;id&quot;: 2, &quot;name&quot;: &quot;Sara&quot;}]</textarea></div><div class="row"><div class="field"><label for="optTable">표 이름</label><input type="text" id="optTable" value="my_table"></div></div><div class="row"><button class="btn" id="bGo" type="button">INSERT 문 생성</button><button class="btn ghost" id="bCopy" type="button">결과 복사</button></div><div class="field"><label for="out">결과</label><textarea id="out" class="big mono" spellcheck="false" readonly placeholder="결과가 여기에 나타나요..."></textarea></div><div class="status" id="st"></div></div>
+<section class="block"><h2>예시</h2><p><strong>입력:</strong></p><pre class="mono" style="white-space:pre-wrap">[{&quot;id&quot;: 1, &quot;name&quot;: &quot;Ali&quot;}, {&quot;id&quot;: 2, &quot;name&quot;: &quot;Sara&quot;}]</pre><p><strong>출력:</strong></p><pre class="mono" style="white-space:pre-wrap">INSERT INTO my_table (id, name)
+VALUES
+(1, &#x27;Ali&#x27;),
+(2, &#x27;Sara&#x27;);</pre></section>
+<section class="block"><h2>이 변환기에 대해</h2><p>JSON 픽스처에서 데이터베이스를 시딩하는 것은 위험한 세부 사항 하나가 있는 일상적인 일이에요: 이스케이프예요. 이 생성기는 첫 객체에서 열을 가져와, 하나의 다중 행 INSERT를 내보내고(모든 주요 데이터베이스가 받아들이는 빠른 형태), 작은따옴표를 두 배로 해 이스케이프하며(SQL 표준 방식 — O'Brien은 'O''Brien'이 돼요), null을 NULL로, 불리언을 TRUE/FALSE로, 중첩 객체/배열을 JSON 텍스트로 써요. 이후 행에 없는 열은 NULL이 돼요. 두 가지 책임은 여전히 여러분의 것이에요: 표 이름은 주어진 대로 삽입돼요(신뢰할 수 없는 표 이름을 맹목적으로 실행할 생성된 SQL에 절대 붙여넣지 마세요), 그리고 프로덕션 데이터를 위한 생성된 SQL은 실행할 자격이 있기 전에 읽을 자격이 있어요.</p></section>
+<section class="block"><h2>자주 묻는 질문</h2><details class="faq"><summary>출력은 어떤 SQL 방언인가요?</summary><p>이 INSERT 형태에 대해 PostgreSQL, MySQL, SQLite, SQL Server에서 실행되는 표준 SQL이에요. TRUE/FALSE 키워드는 오래된 MySQL 설정에서 1/0이 필요할 수 있어요.</p></details><details class="faq"><summary>객체에 다른 키가 있으면 어떻게 되나요?</summary><p>열은 첫 번째 객체에서 와요; 이후 행의 추가 키는 무시되고 없는 키는 NULL이 돼요 — 데이터가 불규칙하면 출력을 확인하세요.</p></details></section>
+<section class="block"><h2>관련 개발자 도구</h2><div class="grid"><a class="card" href="../sql-formatter/"><div class="ic">SQL</div><h3>SQL 포맷터</h3><p>가독성을 위해 SQL 쿼리를 포맷하세요.</p></a><a class="card" href="../json-formatter/"><div class="ic">{ }</div><h3>JSON 포맷터</h3><p>모든 오류의 정확한 위치와 함께 JSON을 검증하고, 예쁘게 인쇄하고, 축소하세요.</p></a><a class="card" href="../csv-to-json-converter/"><div class="ic">CSV</div><h3>CSV를 JSON으로 변환</h3><p>CSV 표를 객체의 JSON 배열로 변환해요.</p></a></div></section>
+</main></div>
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">이 도구를 웹사이트에 삽입하세요 — 무료</h2>
+<p style="margin:0 0 12px;line-height:1.6">이 도구를 여러분의 웹사이트나 블로그에 추가하세요 — 완전히 무료이고, 회원가입이 필요 없으며, 항상 최신 버전을 보여줘요. 아래 코드를 복사해 도구가 나타나길 원하는 페이지 위치에 붙여넣으세요. 삽입 아래의 작은 &ldquo;Powered by Loona Automation&rdquo; 크레딧 줄을 유지하면 이 도구를 무료로 유지하는 데 도움이 돼요 &mdash; 하지만 자유롭게 스타일을 바꾸거나 제거해도 돼요; 어느 쪽이든 도구는 작동해요.</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-dev-tools/ko/json-to-sql-insert/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="Free JSON to SQL INSERT Generator by Loona"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;제공 &lt;a href="https://loonaautomation.github.io/loona-dev-tools/ko/json-to-sql-insert/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; 무료 JSON을 SQL INSERT로 생성&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">삽입 코드 복사</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='복사됐어요!';setTimeout(function(){b.textContent='삽입 코드 복사';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+
+<footer class="site"><div class="footer-in">
+<div class="col"><h4>Loona Developer Tools</h4>
+<a href="../">모든 개발자 도구</a>
+<a href="../about.html">소개</a>
+<a href="../contact.html">문의</a></div>
+<div class="col"><h4>인기 도구</h4><a href="../json-formatter/">JSON 포맷터</a><a href="../base64-encoder/">Base64 인코더</a><a href="../uuid-generator/">UUID 생성기</a><a href="../hash-generator/">해시 생성기</a><a href="../jwt-decoder/">JWT 디코더</a><a href="../timestamp-converter/">타임스탬프 변환기</a></div>
+<div class="col"><h4>더 많은 도구</h4><a href="../url-encoder/">URL 인코더</a><a href="../html-entity-encoder/">HTML 엔터티 인코더</a><a href="https://loonaautomation.github.io/loona-text-tools/">Loona Text Tools</a><a href="https://loonaautomation.github.io/loona-calculators/">Loona Calculators</a><a href="https://loonaautomation.github.io/">모든 Loona 도구</a></div>
+<div class="col"><h4>법률</h4>
+<a href="../privacy.html">개인정보 처리방침</a>
+<a href="../terms.html">이용 약관</a>
+<a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
+</div><div class="copyright">&copy; 2026 Loona Automation - Loona Developer Tools. 브라우저에서 100% 실행되는 무료 온라인 개발자 도구예요.</div></footer>
+<script>
+function sqlVal(v){if(v===null||v===undefined)return "NULL";if(typeof v==="number")return String(v);if(typeof v==="boolean")return v?"TRUE":"FALSE";if(typeof v==="object")return "'"+JSON.stringify(v).replace(/'/g,"''")+"'";return "'"+String(v).replace(/'/g,"''")+"'"}
+function CONVERT(s){var v=JSON.parse(s);var rows=Array.isArray(v)?v:[v];if(!rows.length||typeof rows[0]!=="object")throw new Error("객체의 JSON 배열(또는 단일 객체)이 예상됐어요");var table=(document.getElementById("optTable")||{}).value||"my_table";var cols=Object.keys(rows[0]);var vals=rows.map(function(r){return "("+cols.map(function(c){return sqlVal(r[c])}).join(", ")+")"});return "INSERT INTO "+table+" ("+cols.join(", ")+")\nVALUES\n"+vals.join(",\n")+";"}
+
+document.getElementById("bGo").addEventListener("click",function(){var st=document.getElementById("st");try{var r=CONVERT(document.getElementById("inp").value);document.getElementById("out").value=r;st.textContent="완료 — "+r.length+" 문자.";st.style.color="var(--teal)";}catch(e){st.textContent="오류: "+e.message;st.style.color="#b91c1c";}});document.getElementById("bCopy").addEventListener("click",function(){var o=document.getElementById("out");o.select();document.execCommand("copy");document.getElementById("st").textContent="클립보드에 복사됐어요.";});</script>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' 앱 설치';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('이 앱을 설치하세요: 공유 버튼을 누른 뒤 "홈 화면에 추가"를 선택하세요.');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body>
+</html>

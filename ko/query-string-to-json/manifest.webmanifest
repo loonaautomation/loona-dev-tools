@@ -1,0 +1,29 @@
+{
+  "name": "Loona 쿼리 문자열을 JSON으로 변환",
+  "short_name": "쿼리 문자열을 JSON으로 변환",
+  "description": "URL 쿼리 문자열을 JSON으로 파싱해요: 대괄호 표기는 중첩 객체가 되고, 반복 키는 배열이 되며, 값에 타입이 부여돼요.",
+  "id": "/loona-dev-tools/ko/query-string-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

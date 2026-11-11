@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML 이메일 서명 생성기 온라인 무료",
+  "short_name": "HTML 이메일 서명",
+  "description": "전문적인 HTML 이메일 서명을 온라인에서 무료로 만드세요 - 이름, 직함, 회사, 전화, 이메일, 웹사이트를 Gmail과 Outlook에서 작동하는 이메일에 안전한 표 HTML로요. 회원가입 없어요.",
+  "id": "/loona-dev-tools/ko/email-signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

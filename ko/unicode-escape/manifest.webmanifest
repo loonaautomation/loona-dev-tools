@@ -1,0 +1,29 @@
+{
+  "name": "Loona Unicode 이스케이프 변환기 (\\uXXXX)",
+  "short_name": "유니코드 이스케이프 변환기",
+  "description": "텍스트를 JSON, JavaScript, Java, properties 파일용 Unicode 이스케이프 시퀀스(\\uXXXX)로 이스케이프해요. 서로게이트 쌍으로 이모지를 처리해요.",
+  "id": "/loona-dev-tools/ko/unicode-escape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

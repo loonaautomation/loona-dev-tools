@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV 분할 & 병합 온라인 무료",
+  "short_name": "CSV 분할 & 병합 온라인 무료",
+  "description": "CSV를 행 개수로 부분으로 분할하거나 여러 CSV 파일을 하나로 병합하세요, 온라인에서 무료로 - 헤더가 올바르게 처리되고, 적절한 CSV 파싱이에요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
+  "id": "/loona-dev-tools/ko/csv-split-merge/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

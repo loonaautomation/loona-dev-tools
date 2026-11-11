@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV 뷰어 & 편집기 온라인 무료",
+  "short_name": "CSV 뷰어 & 편집기 온라인",
+  "description": "편집 가능한 표 격자에서 CSV 파일을 온라인에서 무료로 보고 편집하세요 - 셀을 편집하고, 열을 정렬하고, 행과 열을 추가하거나 제거한 뒤, 편집된 CSV를 다운로드하세요. 회원가입 없음, 브라우저에서 실행돼요.",
+  "id": "/loona-dev-tools/ko/csv-viewer-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

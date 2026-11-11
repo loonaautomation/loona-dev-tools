@@ -1,0 +1,29 @@
+{
+  "name": "Loona UTM 링크 빌더 온라인 무료",
+  "short_name": "UTM 링크 빌더 온라인 무료",
+  "description": "UTM 태그가 붙은 캠페인 URL을 온라인에서 무료로 만드세요 - source, medium, campaign, term, content가 올바른 인코딩으로 추가되고, 기존 쿼리 매개변수는 보존되며, 저장된 기록도 있어요.",
+  "id": "/loona-dev-tools/ko/utm-link-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

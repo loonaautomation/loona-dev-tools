@@ -1,0 +1,29 @@
+{
+  "name": "Loona URL 파서 온라인 무료",
+  "short_name": "URL 파서 온라인 무료",
+  "description": "모든 URL을 온라인에서 무료로 프로토콜, 호스트, 포트, 경로, 쿼리 매개변수, 해시로 파싱해요 - 매개변수를 편집하고 URL을 다시 만드세요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
+  "id": "/loona-dev-tools/ko/url-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

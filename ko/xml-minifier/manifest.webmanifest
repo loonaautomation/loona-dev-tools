@@ -1,0 +1,29 @@
+{
+  "name": "Loona XML 축소기",
+  "short_name": "XML 축소기",
+  "description": "XML을 온라인에서 축소해요: 주석과 태그 사이의 공백을 제거해 하나의 간결한 줄로 만들어요.",
+  "id": "/loona-dev-tools/ko/xml-minifier/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

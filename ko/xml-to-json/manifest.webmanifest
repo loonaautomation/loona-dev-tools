@@ -1,0 +1,29 @@
+{
+  "name": "Loona XML을 JSON으로 변환",
+  "short_name": "XML을 JSON으로 변환",
+  "description": "XML을 JSON으로 온라인 변환해요: 속성은 @keys로, 반복 요소는 배열로, 텍스트는 타입이 부여된 숫자와 함께 값으로요.",
+  "id": "/loona-dev-tools/ko/xml-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

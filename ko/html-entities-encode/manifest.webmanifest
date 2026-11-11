@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML 엔터티 인코더",
+  "short_name": "HTML 엔터티 인코더",
+  "description": "특수 문자를 HTML 엔터티로 인코딩해요: 이름(&copy;), 십진수 또는 십육진수 숫자 참조예요. 마크업, 따옴표, 비 ASCII 텍스트를 이스케이프해요.",
+  "id": "/loona-dev-tools/ko/html-entities-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

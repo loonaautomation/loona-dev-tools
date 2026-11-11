@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON 문자열 이스케이프",
+  "short_name": "JSON 문자열 이스케이프",
+  "description": "JSON 안에 삽입하기 위해 문자열을 이스케이프해요: 따옴표, 백슬래시, 줄바꿈, 제어 문자가 \\ 시퀀스가 돼요.",
+  "id": "/loona-dev-tools/ko/json-escape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

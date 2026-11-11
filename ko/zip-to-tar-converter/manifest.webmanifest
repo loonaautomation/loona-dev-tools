@@ -1,0 +1,29 @@
+{
+  "name": "Loona ZIP을 TAR로 변환",
+  "short_name": "ZIP을 TAR로 변환",
+  "description": "ZIP 아카이브를 압축되지 않은 TAR로 온라인 변환해요: 같은 파일과 폴더를, 표준을 준수하는 TAR 작성기로 다시 묶어요. 완전히 로컬이에요.",
+  "id": "/loona-dev-tools/ko/zip-to-tar-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

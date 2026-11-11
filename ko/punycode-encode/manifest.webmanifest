@@ -1,0 +1,29 @@
+{
+  "name": "Loona Punycode 인코더 (IDN 도메인 변환기)",
+  "short_name": "Punycode 인코더 (IDN 도메인",
+  "description": "국제화 도메인 이름(IDN)을 punycode xn-- 형태로 변환해요: bücher.example은 xn--bcher-kva.example이 돼요. 레이블별 인코딩이에요.",
+  "id": "/loona-dev-tools/ko/punycode-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

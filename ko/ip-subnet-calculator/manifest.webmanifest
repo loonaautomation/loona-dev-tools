@@ -1,0 +1,29 @@
+{
+  "name": "Loona IP 서브넷 계산기 온라인 무료",
+  "short_name": "IP 서브넷 계산기 온라인",
+  "description": "IPv4 서브넷을 온라인에서 무료로 계산해요 - 모든 CIDR 주소에서 네트워크, 브로드캐스트, 넷마스크, 와일드카드, 첫 번째와 마지막 호스트, 사용 가능한 호스트 수, IP 클래스를, 그리고 서브넷 분할 보기까지요.",
+  "id": "/loona-dev-tools/ko/ip-subnet-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

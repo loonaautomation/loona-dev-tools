@@ -1,0 +1,29 @@
+{
+  "name": "Loona SQL 포맷터 온라인 무료",
+  "short_name": "SQL 포맷터 온라인 무료",
+  "description": "SQL을 온라인에서 무료로 포맷해요: 키워드 대문자화, SELECT, FROM, WHERE, JOIN 절이 각자 줄에, 문자열 보존. 회원가입 없음, 브라우저에서 100% 실행돼요.",
+  "id": "/loona-dev-tools/ko/sql-formatter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

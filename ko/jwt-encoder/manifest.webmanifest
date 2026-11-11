@@ -1,0 +1,29 @@
+{
+  "name": "Loona JWT 인코더 (HS256 서명기)",
+  "short_name": "JWT 인코더 (HS256 서명기)",
+  "description": "브라우저에서 HS256으로 JSON Web Token을 만들고 서명하세요: payload JSON과 비밀, 또는 alg=none이에요. WebCrypto 서명이에요.",
+  "id": "/loona-dev-tools/ko/jwt-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

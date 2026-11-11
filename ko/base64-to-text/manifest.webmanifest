@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base64를 텍스트로 디코딩",
+  "short_name": "Base64를 텍스트로 디코딩",
+  "description": "Base64를 다시 읽을 수 있는 텍스트로 온라인에서 디코딩해요. 표준 및 URL 안전 알파벳, 모든 언어의 UTF-8 텍스트를 처리해요. 무료이고 비공개예요.",
+  "id": "/loona-dev-tools/ko/base64-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

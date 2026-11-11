@@ -1,0 +1,29 @@
+{
+  "name": "Loona RAR를 ZIP으로 변환 온라인 무료",
+  "short_name": "RAR를 ZIP으로 변환 온라인",
+  "description": "RAR 아카이브(.rar)를 브라우저에서 바로 표준 ZIP 파일로 변환해요. 폴더 구조가 보존되고 업로드되는 것은 없으며, ZIP은 어디서든 열려요 - Windows, macOS, Android, iPhone 모두 ZIP을 기본으로 열어요.",
+  "id": "/loona-dev-tools/ko/rar-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

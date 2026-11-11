@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON을 TOML로 변환",
+  "short_name": "JSON을 TOML로 변환",
+  "description": "JSON을 TOML로 온라인 변환해요: 스칼라가 먼저, 중첩 객체는 [tables]로, 객체 배열은 [[tables]]로요.",
+  "id": "/loona-dev-tools/ko/json-to-toml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
