@@ -1,0 +1,29 @@
+{
+  "name": "Loona เครื่องคำนวณ IP Subnet ออนไลน์ฟรี",
+  "short_name": "เครื่องคำนวณ IP Subnet ออนไลน์",
+  "description": "คำนวณซับเน็ต IPv4 ออนไลน์ฟรี - เครือข่าย บรอดแคสต์ เน็ตมาสก์ ไวลด์การ์ด โฮสต์แรกและโฮสต์สุดท้าย จำนวนโฮสต์ที่ใช้งานได้ และคลาส IP จากที่อยู่ CIDR ใด ๆ พร้อมมุมมองการแยกซับเน็ต",
+  "id": "/loona-dev-tools/th/ip-subnet-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

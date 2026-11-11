@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลง Base64 เป็นรูปภาพ",
+  "short_name": "ตัวแปลง Base64 เป็นรูปภาพ",
+  "description": "ถอดรหัสสตริง Base64 หรือ data URI กลับเป็นรูปภาพที่ดูและดาวน์โหลดได้ ประเภท MIME ตรวจจับจากไบต์",
+  "id": "/loona-dev-tools/th/base64-to-image/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

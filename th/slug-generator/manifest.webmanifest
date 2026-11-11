@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวสร้าง Slug (ตัวทำ Slug ของ URL)",
+  "short_name": "ตัวสร้าง Slug (Slug ของ URL",
+  "description": "สร้าง slug ของ URL ที่สะอาดจากชื่อเรื่อง: เครื่องหมายกำกับถูกตัดออก ตัวพิมพ์เล็ก ช่องว่างเป็นยัติภังค์ (หรือขีดล่าง) ตัวสร้าง slug ฟรี",
+  "id": "/loona-dev-tools/th/slug-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

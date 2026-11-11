@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวดูเมทาดาทาเอกสาร Office ออนไลน์",
+  "short_name": "เมทาดาทาเอกสาร Office",
+  "description": "ดูเมทาดาทาเอกสาร Office ออนไลน์ฟรี - ชื่อเรื่อง ผู้แต่ง บริษัท วันที่สร้างและแก้ไข แอปพลิเคชัน และเวอร์ชันสำหรับไฟล์ .docx, .xlsx และ .pptx ดูอย่างเดียว ไม่มีการอัปโหลด",
+  "id": "/loona-dev-tools/th/office-metadata-viewer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

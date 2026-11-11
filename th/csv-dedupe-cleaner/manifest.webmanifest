@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวลบซ้ำและล้างข้อมูล CSV ออนไลน์ฟรี",
+  "short_name": "ตัวลบซ้ำและล้างข้อมูล CSV ออนไลน์",
+  "description": "ลบแถวที่ซ้ำออกจาก CSV ออนไลน์ฟรี - ตามทั้งแถวหรือตามคอลัมน์คีย์ - พร้อมตัดช่องว่าง ทิ้งแถวว่าง และปรับการขึ้นบรรทัดใหม่ให้เป็นมาตรฐาน พร้อมจำนวนก่อน/หลัง ไม่ต้องสมัครสมาชิก",
+  "id": "/loona-dev-tools/th/csv-dedupe-cleaner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

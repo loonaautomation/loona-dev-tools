@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแยกไฟล์ RAR ออนไลน์ฟรี",
+  "short_name": "ตัวแยกไฟล์ RAR ออนไลน์ฟรี",
+  "description": "เปิดไฟล์ RAR (RAR4 และ RAR5) ในเบราว์เซอร์ของคุณเลย - ดูทุกไฟล์ภายใน ดาวน์โหลดไฟล์เดียวหรือทุกอย่างเป็น ZIP ไม่มีการอัปโหลด; การแยกไฟล์เกิดขึ้นบนอุปกรณ์ของคุณ",
+  "id": "/loona-dev-tools/th/rar-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

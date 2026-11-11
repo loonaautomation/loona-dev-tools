@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวจัดรูปแบบและตรวจสอบ XML ออนไลน์ฟรี",
+  "short_name": "ตัวจัดรูปแบบและตรวจสอบ XML",
+  "description": "จัดรูปแบบ ทำให้สวยงาม ย่อขนาด และตรวจสอบ XML ออนไลน์ฟรี - การตรวจสอบความสมบูรณ์ของแท็กที่สมดุลพร้อมข้อความแสดงข้อผิดพลาดที่ชัดเจน การพิมพ์ให้สวยงามพร้อมการเยื้อง ไม่ต้องสมัครสมาชิก",
+  "id": "/loona-dev-tools/th/xml-formatter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

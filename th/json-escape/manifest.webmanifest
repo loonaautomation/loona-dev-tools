@@ -1,0 +1,29 @@
+{
+  "name": "Loona การ Escape สตริง JSON",
+  "short_name": "การ Escape สตริง JSON",
+  "description": "Escape สตริงสำหรับฝังภายใน JSON: เครื่องหมายคำพูด แบ็กสแลช ขึ้นบรรทัดใหม่ และตัวอักษรควบคุมกลายเป็นลำดับ \\",
+  "id": "/loona-dev-tools/th/json-escape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

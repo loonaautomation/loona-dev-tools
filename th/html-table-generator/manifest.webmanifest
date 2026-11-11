@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวสร้างตาราง HTML ออนไลน์ฟรี",
+  "short_name": "ตัวสร้างตาราง HTML ออนไลน์",
+  "description": "สร้างตาราง HTML ออนไลน์ฟรี - ตั้งค่าแถวและคอลัมน์ พิมพ์ลงในกริด แล้วรับ HTML ตารางที่สะอาดพร้อมการรองรับ thead, th และ caption บวกตัวอย่างแบบสด ไม่ต้องสมัครสมาชิก",
+  "id": "/loona-dev-tools/th/html-table-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

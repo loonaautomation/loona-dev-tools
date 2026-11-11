@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตารางข้อมูลอ้างอิง HTML Entities",
+  "short_name": "ตารางข้อมูลอ้างอิง HTML Entities",
+  "description": "ตาราง entity HTML ที่จำเป็น: entity แบบมีชื่อ ตัวอักษร รหัสทศนิยม และบันทึกการใช้งานสำหรับ entity ที่นักพัฒนาใช้จริง",
+  "id": "/loona-dev-tools/th/html-entities-reference/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

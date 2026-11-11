@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลงรูปภาพเป็น Base64",
+  "short_name": "ตัวแปลงรูปภาพเป็น Base64",
+  "description": "แปลงรูปภาพ (PNG, JPG, GIF, WebP, SVG) เป็น Base64 data URI ออนไลน์ — ไฟล์อ่านภายในเครื่อง พร้อมสถิติขนาดและมิติ",
+  "id": "/loona-dev-tools/th/image-to-base64/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

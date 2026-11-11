@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลง JSON เป็น TypeScript Interface",
+  "short_name": "JSON เป็น TypeScript Interface",
+  "description": "แปลง JSON เป็นอินเทอร์เฟซ TypeScript ออนไลน์: ออบเจ็กต์ที่ซ้อนกันกลายเป็นอินเทอร์เฟซที่มีชื่อ อาร์เรย์ของออบเจ็กต์รวมคีย์ของพวกมันเข้าด้วยกันโดยฟิลด์ที่เป็นทางเลือกถูกทำเครื่องหมายไว้",
+  "id": "/loona-dev-tools/th/json-to-typescript/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวย่อขนาด JSON",
+  "short_name": "ตัวย่อขนาด JSON",
+  "description": "ย่อขนาด JSON ออนไลน์: ตัดช่องว่างที่ไม่สำคัญทั้งหมดให้เป็นบรรทัดกะทัดรัดบรรทัดเดียว พร้อมข้อผิดพลาดการตรวจสอบที่รายงานอย่างแม่นยำ",
+  "id": "/loona-dev-tools/th/json-minifier/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

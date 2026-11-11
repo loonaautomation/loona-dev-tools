@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวตรวจสอบความหนาแน่นของคีย์เวิร์ดออนไลน์ฟรี",
+  "short_name": "ตัวตรวจสอบความหนาแน่นของคีย์เวิร์ด",
+  "description": "ตรวจสอบความหนาแน่นของคีย์เวิร์ดออนไลน์ฟรี - คำเดี่ยวอันดับต้น ๆ บวกวลี 2 คำและ 3 คำ พร้อมจำนวนและความหนาแน่นเป็นเปอร์เซ็นต์ รวมการกรองคำหยุดไว้ด้วย ไม่ต้องสมัครสมาชิก",
+  "id": "/loona-dev-tools/th/keyword-density-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

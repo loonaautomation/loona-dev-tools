@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลง JSON เป็น Python Dataclass",
+  "short_name": "JSON เป็น Python Dataclass",
+  "description": "แปลง JSON เป็น dataclass ของ Python พร้อมคำใบ้ประเภท: ออบเจ็กต์ที่ซ้อนกันกลายเป็น dataclass ที่ซ้อนกัน ประเภท List สำหรับอาร์เรย์",
+  "id": "/loona-dev-tools/th/json-to-python-dataclass/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

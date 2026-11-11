@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัววิเคราะห์โปรไฟล์ CSV ออนไลน์ฟรี",
+  "short_name": "ตัววิเคราะห์โปรไฟล์ CSV ออนไลน์ฟรี",
+  "description": "วิเคราะห์โปรไฟล์ไฟล์ CSV ออนไลน์ฟรี - การคาดเดาประเภทตามคอลัมน์ จำนวนเซลล์ว่าง จำนวนค่าที่ไม่ซ้ำ ค่าต่ำสุด/สูงสุดเชิงตัวเลขและค่าสูงสุด เพื่อให้คุณเข้าใจไฟล์ก่อนใช้งาน ไม่ต้องสมัครสมาชิก",
+  "id": "/loona-dev-tools/th/csv-profiler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

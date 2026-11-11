@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวบีบอัด GZIP ออนไลน์ฟรี",
+  "short_name": "ตัวบีบอัด GZIP ออนไลน์ฟรี",
+  "description": "บีบอัดไฟล์เดียวใด ๆ เป็น .gz โดยใช้กลไก gzip ในตัวของเบราว์เซอร์ของคุณ ขนาดก่อน/หลังทันที ไม่มีการอัปโหลด - ไฟล์ถูกบีบอัดบนอุปกรณ์ของคุณ ใช้งานได้กับล็อก, CSV, ไฟล์ TAR และอื่น ๆ",
+  "id": "/loona-dev-tools/th/gzip-compressor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

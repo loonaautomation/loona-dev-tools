@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวรวม CSV ออนไลน์ฟรี",
+  "short_name": "ตัวรวม CSV ออนไลน์ฟรี",
+  "description": "รวมไฟล์ CSV สองไฟล์ออนไลน์ฟรีด้วยคอลัมน์คีย์ร่วม - inner join หรือ left join คีย์ที่ซ้ำถูกจัดการในแบบฐานข้อมูล ไม่ต้องสมัครสมาชิก ทำงาน 100% ในเบราว์เซอร์ของคุณ",
+  "id": "/loona-dev-tools/th/csv-join/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

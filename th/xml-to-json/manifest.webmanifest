@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลง XML เป็น JSON",
+  "short_name": "ตัวแปลง XML เป็น JSON",
+  "description": "แปลง XML เป็น JSON ออนไลน์: แอตทริบิวต์เป็น @keys องค์ประกอบที่ซ้ำกันเป็นอาร์เรย์ ข้อความเป็นค่าที่ตัวเลขมีประเภทข้อมูล",
+  "id": "/loona-dev-tools/th/xml-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

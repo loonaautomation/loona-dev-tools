@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวอธิบายนิพจน์ Cron",
+  "short_name": "ตัวอธิบายนิพจน์ Cron",
+  "description": "อธิบายนิพจน์ cron เป็นภาษาไทยที่เข้าใจง่าย: วางกำหนดการ cron แบบ 5 ฟิลด์แล้วอ่านว่ามันทำงานเมื่อใด ทีละฟิลด์",
+  "id": "/loona-dev-tools/th/cron-expression-explainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

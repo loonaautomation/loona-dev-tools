@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลง TAR.GZ เป็น ZIP ออนไลน์ฟรี",
+  "short_name": "ตัวแปลง TAR.GZ เป็น ZIP",
+  "description": "แปลงไฟล์บีบอัด TAR.GZ (.tar.gz หรือ .tgz) เป็นไฟล์ ZIP ในเบราว์เซอร์ของคุณเลย ทั้งสองชั้น - gzip และ tar - ถูกแกะบนอุปกรณ์ของคุณ และไฟล์ถูกบรรจุใหม่เป็น ZIP เดียว ไม่มีการอัปโหลด",
+  "id": "/loona-dev-tools/th/tar-gz-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

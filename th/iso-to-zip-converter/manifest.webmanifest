@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลง ISO เป็น ZIP",
+  "short_name": "ตัวแปลง ISO เป็น ZIP",
+  "description": "แปลงอิมเมจดิสก์ ISO เป็น ZIP ของไฟล์ภายในออนไลน์: libarchive อ่านเนื้อหา ISO9660/Rock Ridge ภายในเครื่อง",
+  "id": "/loona-dev-tools/th/iso-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

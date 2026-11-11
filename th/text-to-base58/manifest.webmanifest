@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวเข้ารหัสข้อความเป็น Base58",
+  "short_name": "ตัวเข้ารหัสข้อความเป็น Base58",
+  "description": "เข้ารหัสข้อความเป็น Base58 (ชุดตัวอักษร Bitcoin) ออนไลน์ — ไม่มี 0, O, I หรือ l การเข้ารหัสของที่อยู่ Bitcoin และแฮช IPFS",
+  "id": "/loona-dev-tools/th/text-to-base58/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

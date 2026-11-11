@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลง INI เป็น JSON",
+  "short_name": "ตัวแปลง INI เป็น JSON",
+  "description": "แปลงไฟล์กำหนดค่า INI เป็น JSON: ส่วนต่าง ๆ กลายเป็นออบเจ็กต์ ค่ามีประเภทข้อมูล (ตัวเลข บูลีน) ในจุดที่ไม่กำกวม",
+  "id": "/loona-dev-tools/th/ini-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

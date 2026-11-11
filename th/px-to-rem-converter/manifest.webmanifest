@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลง Pixels (px) เป็น Rem",
+  "short_name": "ตัวแปลงพิกเซล (px) เป็น Rem",
+  "description": "แปลง px เป็น rem ด้วยขนาดฟอนต์ฐานที่ปรับได้ (ค่าเริ่มต้น 16px) และตารางค่าทั่วไป",
+  "id": "/loona-dev-tools/th/px-to-rem-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

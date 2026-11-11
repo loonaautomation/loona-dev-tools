@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวถอดรหัสรหัส A1Z26 (ตัวเลขเป็นตัวอักษร)",
+  "short_name": "ตัวถอดรหัสรหัส A1Z26 (ตัวเลข",
+  "description": "ถอดรหัสรหัสตัวเลข A1Z26 กลับเป็นตัวอักษร: 1=A, 2=B ... 26=Z คั่นด้วยยัติภังค์ จุลภาค หรือช่องว่าง",
+  "id": "/loona-dev-tools/th/a1z26-cipher-decoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลง YAML เป็น JSON",
+  "short_name": "ตัวแปลง YAML เป็น JSON",
+  "description": "แปลง YAML เป็น JSON ออนไลน์: แมปแบบบล็อกและลำดับ ค่าสเกลาร์ในเครื่องหมายคำพูดและแบบธรรมดา คอลเลกชันแบบโฟลว์ ชุดย่อยที่บันทึกไว้อย่างซื่อตรง",
+  "id": "/loona-dev-tools/th/yaml-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวแปลง 7Z เป็น ZIP ออนไลน์ฟรี",
+  "short_name": "ตัวแปลง 7Z เป็น ZIP ออนไลน์",
+  "description": "แปลงไฟล์บีบอัด 7Z (.7z) เป็นไฟล์ ZIP มาตรฐานในเบราว์เซอร์ของคุณเลย โครงสร้างโฟลเดอร์ถูกรักษาไว้ ไม่มีการอัปโหลด - และ ZIP ที่ได้เปิดโดยตรงได้บน Windows, macOS, Android และ iPhone ไม่ต้องใช้ 7-Zip",
+  "id": "/loona-dev-tools/th/7z-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

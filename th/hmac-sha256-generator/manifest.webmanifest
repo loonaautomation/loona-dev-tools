@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตัวสร้าง HMAC-SHA256",
+  "short_name": "ตัวสร้าง HMAC-SHA256",
+  "description": "สร้างลายเซ็น HMAC-SHA256 ออนไลน์: ป้อนคีย์และข้อความ รับ MAC แบบเลขฐานสิบหก WebCrypto ภายในเครื่องทั้งหมด",
+  "id": "/loona-dev-tools/th/hmac-sha256-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

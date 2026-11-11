@@ -1,0 +1,650 @@
+[
+ {
+  "n": "คลังตัวแปลงและตัวสร้าง",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/converter-library/",
+  "s": "Loona Dev Tools",
+  "d": "ตัวแปลงและตัวสร้างใหม่ 126 รายการ: การเข้ารหัส รูปแบบข้อมูล (JSON, YAML, XML, TOML, CSV) แฮช สี ไฟล์บีบอัด ตัวสร้างโค้ด และข้อมูลอ้างอิง",
+  "k": "คลังตัวแปลงและตัวสร้าง ตัวแปลงและตัวสร้างใหม่ 126 รายการ การเข้ารหัส รูปแบบข้อมูล json yaml xml toml csv แฮช สี ไฟล์บีบอัด ตัวสร้างโค้ด และข้อมูลอ้างอิง",
+  "p": 100,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวจัดรูปแบบ JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/json-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "ตรวจสอบความถูกต้อง พิมพ์อย่างสวยงาม และย่อขนาด JSON พร้อมตำแหน่งที่แม่นยำของข้อผิดพลาดใด ๆ",
+  "k": "ตัวจัดรูปแบบ json ตรวจสอบความถูกต้อง พิมพ์อย่างสวยงาม และย่อขนาด json พร้อมตำแหน่งที่แม่นยำของข้อผิดพลาดใด ๆ",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวเข้ารหัสและถอดรหัส Base64",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/base64-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "เข้ารหัสข้อความและไฟล์เป็น Base64 หรือถอดรหัสกลับ - ปลอดภัยกับ UTF-8 รวมตัวเลือกแบบปลอดภัยสำหรับ URL",
+  "k": "ตัวเข้ารหัสและถอดรหัส base64 เข้ารหัสข้อความและไฟล์เป็น base64 หรือถอดรหัสกลับ ปลอดภัยกับ utf 8 รวมตัวเลือกแบบปลอดภัยสำหรับ url",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวเข้ารหัสและถอดรหัส URL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/url-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "เข้ารหัสเปอร์เซ็นต์ข้อความและ URL อย่างปลอดภัย พร้อมตารางรายละเอียดแยกตามตัวอักษร",
+  "k": "ตัวเข้ารหัสและถอดรหัส url เข้ารหัสเปอร์เซ็นต์ข้อความและ url อย่างปลอดภัย พร้อมตารางรายละเอียดแยกตามตัวอักษร",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้าง UUID",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/uuid-generator/",
+  "s": "Loona Dev Tools",
+  "d": "สร้าง UUID เวอร์ชัน 4 แบบสุ่ม - ทีละตัวหรือจำนวนมากสูงสุด 100 ตัว",
+  "k": "ตัวสร้าง uuid สร้าง uuid เวอร์ชัน 4 แบบสุ่ม ทีละตัวหรือจำนวนมากสูงสุด 100 ตัว",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้างแฮช",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/hash-generator/",
+  "s": "Loona Dev Tools",
+  "d": "ค่าแฮช SHA-1, SHA-256, SHA-384 และ SHA-512 ของข้อความใด ๆ คำนวณในเบราว์เซอร์ของคุณ",
+  "k": "ตัวสร้างแฮช ค่าแฮช sha 1 sha 256 sha 384 และ sha 512 ของข้อความใด ๆ คำนวณในเบราว์เซอร์ของคุณ",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวถอดรหัส JWT",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/jwt-decoder/",
+  "s": "Loona Dev Tools",
+  "d": "ถอดรหัสส่วนหัวและ payload ของ JSON Web Token แล้วอ่านวันหมดอายุของมันเป็นคำธรรมดา",
+  "k": "ตัวถอดรหัส jwt ถอดรหัสส่วนหัวและ payload ของ json web token แล้วอ่านวันหมดอายุของมันเป็นคำธรรมดา",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลงการประทับเวลา",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/timestamp-converter/",
+  "s": "Loona Dev Tools",
+  "d": "แปลง Unix timestamp เป็นวันที่มนุษย์อ่านได้และกลับกัน - UTC เวลาท้องถิ่นของคุณ และเวลาสัมพัทธ์",
+  "k": "ตัวแปลงการประทับเวลา แปลง unix timestamp เป็นวันที่มนุษย์อ่านได้และกลับกัน utc เวลาท้องถิ่นของคุณ และเวลาสัมพัทธ์",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวเข้ารหัส HTML Entity",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/html-entity-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Escape ข้อความเป็น HTML entity (แบบมีชื่อหรือแบบตัวเลข) และถอดรหัส entity กลับเป็นข้อความ",
+  "k": "ตัวเข้ารหัส html entity escape ข้อความเป็น html entity แบบมีชื่อหรือแบบตัวเลข และถอดรหัส entity กลับเป็นข้อความ",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวย่อขนาดและจัดรูปแบบ CSS",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/css-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "ย่อขนาด CSS เพื่อลดขนาดไฟล์ หรือจัดรูปแบบมันกลับเป็นโค้ดที่อ่านง่ายและเยื้องเรียบร้อย",
+  "k": "ตัวย่อขนาดและจัดรูปแบบ css ย่อขนาด css เพื่อลดขนาดไฟล์ หรือจัดรูปแบบมันกลับเป็นโค้ดที่อ่านง่ายและเยื้องเรียบร้อย",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวย่อขนาด JavaScript",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/javascript-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "ย่อขนาด JavaScript อย่างระมัดระวัง - คอมเมนต์และช่องว่างที่ไร้ประโยชน์ถูกลบออก สตริงและ regex ยังคงสมบูรณ์",
+  "k": "ตัวย่อขนาด javascript ย่อขนาด javascript อย่างระมัดระวัง คอมเมนต์และช่องว่างที่ไร้ประโยชน์ถูกลบออก สตริงและ regex ยังคงสมบูรณ์",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวทดสอบ Regex",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/regex-tester/",
+  "s": "Loona Dev Tools",
+  "d": "ทดสอบ Regular Expression แบบสด - การจับคู่ถูกไฮไลต์ กลุ่มที่จับแสดงรายการ จำนวนแสดงไว้",
+  "k": "ตัวทดสอบ regex ทดสอบ regular expression แบบสด การจับคู่ถูกไฮไลต์ กลุ่มที่จับแสดงรายการ จำนวนแสดงไว้",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวตรวจสอบความแตกต่าง",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/diff-checker/",
+  "s": "Loona Dev Tools",
+  "d": "เปรียบเทียบข้อความสองชุดทีละบรรทัด - บรรทัดที่เพิ่มและลบถูกไฮไลต์ พร้อมบทสรุปการเปลี่ยนแปลง",
+  "k": "ตัวตรวจสอบความแตกต่าง เปรียบเทียบข้อความสองชุดทีละบรรทัด บรรทัดที่เพิ่มและลบถูกไฮไลต์ พร้อมบทสรุปการเปลี่ยนแปลง",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลง JSON เป็น CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/json-to-csv-converter/",
+  "s": "Loona Dev Tools",
+  "d": "เปลี่ยนอาร์เรย์ JSON ของออบเจ็กต์เป็นไฟล์ CSV ที่สะอาด - การรวมกันของทุกคีย์ การใส่เครื่องหมายคำพูดที่เหมาะสม คลิกเดียว",
+  "k": "ตัวแปลง json เป็น csv เปลี่ยนอาร์เรย์ json ของออบเจ็กต์เป็นไฟล์ csv ที่สะอาด การรวมกันของทุกคีย์ การใส่เครื่องหมายคำพูดที่เหมาะสม คลิกเดียว",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลง CSV เป็น JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/csv-to-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "แปลง CSV เป็นอาร์เรย์ JSON ของออบเจ็กต์ - ตัวแยกวิเคราะห์จริงที่จัดการจุลภาคในเครื่องหมายคำพูดและเครื่องหมายคำพูดที่ escape",
+  "k": "ตัวแปลง csv เป็น json แปลง csv เป็นอาร์เรย์ json ของออบเจ็กต์ ตัวแยกวิเคราะห์จริงที่จัดการจุลภาคในเครื่องหมายคำพูดและเครื่องหมายคำพูดที่ escape",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลง YAML ⇄ JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/yaml-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "แปลงชุดย่อยทั่วไปของ YAML (แมป รายการ ค่าสเกลาร์) เป็น JSON และ JSON กลับเป็น YAML - ขอบเขตที่ระบุอย่างซื่อตรง",
+  "k": "ตัวแปลง yaml json แปลงชุดย่อยทั่วไปของ yaml แมป รายการ ค่าสเกลาร์ เป็น json และ json กลับเป็น yaml ขอบเขตที่ระบุอย่างซื่อตรง",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวจัดรูปแบบ SQL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/sql-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "จัดรูปแบบ SQL ด้วยคีย์เวิร์ดตัวพิมพ์ใหญ่และแต่ละประโยคหลักอยู่บนบรรทัดของตัวเอง - คิวรีที่อ่านง่ายในคลิกเดียว",
+  "k": "ตัวจัดรูปแบบ sql จัดรูปแบบ sql ด้วยคีย์เวิร์ดตัวพิมพ์ใหญ่และแต่ละประโยคหลักอยู่บนบรรทัดของตัวเอง คิวรีที่อ่านง่ายในคลิกเดียว",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลงเลขฐาน",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/number-base-converter/",
+  "s": "Loona Dev Tools",
+  "d": "แปลงระหว่างเลขฐานสอง เลขฐานแปด เลขฐานสิบ และเลขฐานสิบหก ด้วยความแม่นยำจำนวนเต็มเต็มรูปแบบ - ไม่มีขีดจำกัด 2^53",
+  "k": "ตัวแปลงเลขฐาน แปลงระหว่างเลขฐานสอง เลขฐานแปด เลขฐานสิบ และเลขฐานสิบหก ด้วยความแม่นยำจำนวนเต็มเต็มรูปแบบ ไม่มีขีดจำกัด 2 53",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "เครื่องคำนวณ Chmod",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/chmod-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "ติ๊กช่องอ่าน/เขียน/เรียกใช้สำหรับเจ้าของ กลุ่ม และอื่น ๆ - รับสิทธิ์เลขฐานแปดและแบบสัญลักษณ์ทันที",
+  "k": "เครื่องคำนวณ chmod ติ๊กช่องอ่าน เขียน เรียกใช้สำหรับเจ้าของ กลุ่ม และอื่น ๆ รับสิทธิ์เลขฐานแปดและแบบสัญลักษณ์ทันที",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวตรวจสอบความแข็งแกร่งของรหัสผ่าน",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/password-strength-checker/",
+  "s": "Loona Dev Tools",
+  "d": "ดูการประมาณเอนโทรปีของรหัสผ่านในหน่วยบิต อะไรทำให้มันอ่อนแอลง และการโจมตีแบบออฟไลน์อย่างรวดเร็วจะใช้เวลานานเท่าใด",
+  "k": "ตัวตรวจสอบความแข็งแกร่งของรหัสผ่าน ดูการประมาณเอนโทรปีของรหัสผ่านในหน่วยบิต อะไรทำให้มันอ่อนแอลง และการโจมตีแบบออฟไลน์อย่างรวดเร็วจะใช้เวลานานเท่าใด",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้างนิพจน์ Cron",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/cron-expression-generator/",
+  "s": "Loona Dev Tools",
+  "d": "สร้างนิพจน์ cron แบบ 5 ฟิลด์จากเมนูดรอปดาวน์ธรรมดา และรับคำอธิบายนิพจน์ cron ใด ๆ เป็นภาษาไทยที่เข้าใจง่าย",
+  "k": "ตัวสร้างนิพจน์ cron สร้างนิพจน์ cron แบบ 5 ฟิลด์จากเมนูดรอปดาวน์ธรรมดา และรับคำอธิบายนิพจน์ cron ใด ๆ เป็นภาษาไทยที่เข้าใจง่าย",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแยกวิเคราะห์และสร้าง URL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/url-parser/",
+  "s": "Loona Dev Tools",
+  "d": "แยก URL ออกเป็นโปรโตคอล โฮสต์ พอร์ต เส้นทาง พารามิเตอร์คิวรี และแฮช - จากนั้นแก้ไขพารามิเตอร์และสร้างมันใหม่",
+  "k": "ตัวแยกวิเคราะห์และสร้าง url แยก url ออกเป็นโปรโตคอล โฮสต์ พอร์ต เส้นทาง พารามิเตอร์คิวรี และแฮช จากนั้นแก้ไขพารามิเตอร์และสร้างมันใหม่",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้างไฟล์ ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/zip-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "รวมหลายไฟล์เป็นไฟล์บีบอัด ZIP เดียว - สร้างในเบราว์เซอร์ของคุณ ไม่มีการอัปโหลดใด ๆ",
+  "k": "ตัวสร้างไฟล์ zip รวมหลายไฟล์เป็นไฟล์บีบอัด zip เดียว สร้างในเบราว์เซอร์ของคุณ ไม่มีการอัปโหลดใด ๆ",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแยกไฟล์แบบเปิด zip",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/unzip-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "เปิด ZIP ดูทุกไฟล์ภายในพร้อมขนาดของมัน และแยกไฟล์เดียวหรือทั้งหมด",
+  "k": "ตัวแยกไฟล์แบบเปิด zip เปิด zip ดูทุกไฟล์ภายในพร้อมขนาดของมัน และแยกไฟล์เดียวหรือทั้งหมด",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแยกไฟล์ RAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/rar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "เปิดไฟล์ RAR (RAR4 และ RAR5) ในเบราว์เซอร์ของคุณ - ดูทุกไฟล์ภายใน ดาวน์โหลดไฟล์เดียวหรือทุกอย่างเป็น ZIP",
+  "k": "ตัวแยกไฟล์ rar เปิดไฟล์ rar rar4 และ rar5 ในเบราว์เซอร์ของคุณ ดูทุกไฟล์ภายใน ดาวน์โหลดไฟล์เดียวหรือทุกอย่างเป็น zip",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแยกไฟล์ 7Z",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/7z-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "เปิดไฟล์บีบอัด 7z ในเบราว์เซอร์ของคุณ - ดูเนื้อหาและแยกไฟล์เดียวหรือทุกอย่างเป็น ZIP",
+  "k": "ตัวแยกไฟล์ 7z เปิดไฟล์บีบอัด 7z ในเบราว์เซอร์ของคุณ ดูเนื้อหาและแยกไฟล์เดียวหรือทุกอย่างเป็น zip",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแยกไฟล์ TAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/tar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "เปิดไฟล์บีบอัด .tar, .tar.bz2 และ .tar.xz ในเบราว์เซอร์ของคุณและแยกไฟล์ภายใน - ไม่มีการอัปโหลด",
+  "k": "ตัวแยกไฟล์ tar เปิดไฟล์บีบอัด tar tar bz2 และ tar xz ในเบราว์เซอร์ของคุณและแยกไฟล์ภายใน ไม่มีการอัปโหลด",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแยกไฟล์ TAR.GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/tar-gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "เปิดไฟล์บีบอัด .tar.gz และ .tgz ในเบราว์เซอร์ของคุณ - เรียกดูไฟล์ภายในและแยกสิ่งที่คุณต้องการ",
+  "k": "ตัวแยกไฟล์ tar gz เปิดไฟล์บีบอัด tar gz และ tgz ในเบราว์เซอร์ของคุณ เรียกดูไฟล์ภายในและแยกสิ่งที่คุณต้องการ",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแยกไฟล์ GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "คลายการบีบอัดไฟล์ .gz เดียวในเบราว์เซอร์ของคุณและดาวน์โหลดไฟล์ต้นฉบับ - ล็อก การส่งออกข้อมูล และดัมป์ฐานข้อมูล",
+  "k": "ตัวแยกไฟล์ gz คลายการบีบอัดไฟล์ gz เดียวในเบราว์เซอร์ของคุณและดาวน์โหลดไฟล์ต้นฉบับ ล็อก การส่งออกข้อมูล และดัมป์ฐานข้อมูล",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแยกไฟล์ ISO",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/iso-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "เปิดอิมเมจดิสก์ ISO ในเบราว์เซอร์ของคุณ เรียกดูระบบไฟล์ที่เก็บบนแผ่นดิสก์เสมือน และดาวน์โหลดไฟล์",
+  "k": "ตัวแยกไฟล์ iso เปิดอิมเมจดิสก์ iso ในเบราว์เซอร์ของคุณ เรียกดูระบบไฟล์ที่เก็บบนแผ่นดิสก์เสมือน และดาวน์โหลดไฟล์",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแยกไฟล์บีบอัด",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/archive-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "ตัวเปิดไฟล์บีบอัดสากลหนึ่งเดียวสำหรับ ZIP, RAR, 7Z, TAR, ISO และอื่น ๆ - รูปแบบถูกตรวจจับโดยอัตโนมัติ",
+  "k": "ตัวแยกไฟล์บีบอัด ตัวเปิดไฟล์บีบอัดสากลหนึ่งเดียวสำหรับ zip rar 7z tar iso และอื่น ๆ รูปแบบถูกตรวจจับโดยอัตโนมัติ",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลง RAR เป็น ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/rar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "แปลงไฟล์บีบอัด RAR เป็น ZIP ในเบราว์เซอร์ของคุณ - โครงสร้างโฟลเดอร์ถูกรักษาไว้ ไม่มีการอัปโหลด",
+  "k": "ตัวแปลง rar เป็น zip แปลงไฟล์บีบอัด rar เป็น zip ในเบราว์เซอร์ของคุณ โครงสร้างโฟลเดอร์ถูกรักษาไว้ ไม่มีการอัปโหลด",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลง 7Z เป็น ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/7z-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "แปลงไฟล์บีบอัด 7Z เป็น ZIP ที่เปิดได้ทุกที่ - ไม่ต้องใช้ 7-Zip ไม่มีการอัปโหลด",
+  "k": "ตัวแปลง 7z เป็น zip แปลงไฟล์บีบอัด 7z เป็น zip ที่เปิดได้ทุกที่ ไม่ต้องใช้ 7 zip ไม่มีการอัปโหลด",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลง TAR เป็น ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/tar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "แปลงไฟล์บีบอัด TAR จาก Linux หรือ Unix เป็น ZIP ที่เปิดโดยตรงได้บน Windows, macOS และโทรศัพท์",
+  "k": "ตัวแปลง tar เป็น zip แปลงไฟล์บีบอัด tar จาก linux หรือ unix เป็น zip ที่เปิดโดยตรงได้บน windows macos และโทรศัพท์",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลง TAR.GZ เป็น ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/tar-gz-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "แปลง .tar.gz หรือ .tgz เป็น ZIP เดียว - ทั้งชั้น gzip และ tar จะถูกแกะบนอุปกรณ์ของคุณ",
+  "k": "ตัวแปลง tar gz เป็น zip แปลง tar gz หรือ tgz เป็น zip เดียว ทั้งชั้น gzip และ tar จะถูกแกะบนอุปกรณ์ของคุณ",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลง ZIP เป็น TAR.GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/zip-to-tar-gz-converter/",
+  "s": "Loona Dev Tools",
+  "d": "แปลงไฟล์บีบอัด ZIP เป็น tarball .tar.gz - รูปแบบที่เซิร์ฟเวอร์ Linux, Docker และเครื่องมือ build คาดหวัง",
+  "k": "ตัวแปลง zip เป็น tar gz แปลงไฟล์บีบอัด zip เป็น tarball tar gz รูปแบบที่เซิร์ฟเวอร์ linux docker และเครื่องมือ build คาดหวัง",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้างไฟล์ TAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/tar-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "สร้างไฟล์บีบอัด .tar ที่ถูกต้องตามข้อกำหนดจากหลายไฟล์ในเบราว์เซอร์ของคุณ - เปิดด้วยเครื่องมือ tar ใดก็ได้",
+  "k": "ตัวสร้างไฟล์ tar สร้างไฟล์บีบอัด tar ที่ถูกต้องตามข้อกำหนดจากหลายไฟล์ในเบราว์เซอร์ของคุณ เปิดด้วยเครื่องมือ tar ใดก็ได้",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวบีบอัด GZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/gzip-compressor/",
+  "s": "Loona Dev Tools",
+  "d": "บีบอัดไฟล์เดียวใด ๆ เป็น .gz ด้วยกลไก gzip ในตัวของเบราว์เซอร์ของคุณ - ขนาดก่อน/หลังทันที",
+  "k": "ตัวบีบอัด gzip บีบอัดไฟล์เดียวใด ๆ เป็น gz ด้วยกลไก gzip ในตัวของเบราว์เซอร์ของคุณ ขนาดก่อน หลังทันที",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวดูและแก้ไข CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/csv-viewer-editor/",
+  "s": "Loona Dev Tools",
+  "d": "โหลด CSV เข้าสู่กริดตารางที่แก้ไขได้ - แก้ไขเซลล์ จัดเรียงคอลัมน์ เพิ่มหรือลบแถวและคอลัมน์ จากนั้นดาวน์โหลด",
+  "k": "ตัวดูและแก้ไข csv โหลด csv เข้าสู่กริดตารางที่แก้ไขได้ แก้ไขเซลล์ จัดเรียงคอลัมน์ เพิ่มหรือลบแถวและคอลัมน์ จากนั้นดาวน์โหลด",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลง CSV เป็น SQL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/csv-to-sql-converter/",
+  "s": "Loona Dev Tools",
+  "d": "เปลี่ยน CSV เป็น CREATE TABLE บวกคำสั่ง INSERT พร้อมประเภทที่อนุมาน สำหรับ MySQL, PostgreSQL หรือ SQLite",
+  "k": "ตัวแปลง csv เป็น sql เปลี่ยน csv เป็น create table บวกคำสั่ง insert พร้อมประเภทที่อนุมาน สำหรับ mysql postgresql หรือ sqlite",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลง CSV เป็น XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/csv-to-xml-converter/",
+  "s": "Loona Dev Tools",
+  "d": "แปลงแถว CSV เป็น XML ที่รูปแบบถูกต้อง พร้อมองค์ประกอบรูตและแถวที่กำหนดค่าได้ และการ escape ที่เหมาะสม",
+  "k": "ตัวแปลง csv เป็น xml แปลงแถว csv เป็น xml ที่รูปแบบถูกต้อง พร้อมองค์ประกอบรูตและแถวที่กำหนดค่าได้ และการ escape ที่เหมาะสม",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลง CSV เป็นตาราง Markdown",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/csv-to-markdown-converter/",
+  "s": "Loona Dev Tools",
+  "d": "แปลง CSV เป็นตาราง Markdown ที่พร้อมสำหรับ GitHub - คอลัมน์ตัวเลขจัดชิดขวา ไปป์ถูก escape",
+  "k": "ตัวแปลง csv เป็นตาราง markdown แปลง csv เป็นตาราง markdown ที่พร้อมสำหรับ github คอลัมน์ตัวเลขจัดชิดขวา ไปป์ถูก escape",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวลบซ้ำและล้างข้อมูล CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/csv-dedupe-cleaner/",
+  "s": "Loona Dev Tools",
+  "d": "ลบแถว CSV ที่ซ้ำตามทั้งแถวหรือคอลัมน์คีย์ ตัดช่องว่าง และทิ้งแถวว่าง พร้อมจำนวน",
+  "k": "ตัวลบซ้ำและล้างข้อมูล csv ลบแถว csv ที่ซ้ำตามทั้งแถวหรือคอลัมน์คีย์ ตัดช่องว่าง และทิ้งแถวว่าง พร้อมจำนวน",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแยกและรวม CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/csv-split-merge/",
+  "s": "Loona Dev Tools",
+  "d": "แยก CSV เป็นส่วน ๆ ตามจำนวนแถวโดยส่วนหัวซ้ำ หรือรวมไฟล์ CSV ที่มีส่วนหัวร่วมกัน",
+  "k": "ตัวแยกและรวม csv แยก csv เป็นส่วน ๆ ตามจำนวนแถวโดยส่วนหัวซ้ำ หรือรวมไฟล์ csv ที่มีส่วนหัวร่วมกัน",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้างเมตาแท็ก",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/meta-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "สร้างบล็อกเมตา HTML ที่พร้อมใช้ - ชื่อเรื่อง คำอธิบาย robots canonical - พร้อมตัวอย่าง SERP แบบสด",
+  "k": "ตัวสร้างเมตาแท็ก สร้างบล็อกเมตา html ที่พร้อมใช้ ชื่อเรื่อง คำอธิบาย robots canonical พร้อมตัวอย่าง serp แบบสด",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้าง Open Graph และ Twitter Card",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/open-graph-generator/",
+  "s": "Loona Dev Tools",
+  "d": "สร้างแท็ก OG และ Twitter Card พร้อมตัวอย่างการ์ดโซเชียลแบบสด เพื่อให้ลิงก์ที่แชร์ดูถูกต้อง",
+  "k": "ตัวสร้าง open graph และ twitter card สร้างแท็ก og และ twitter card พร้อมตัวอย่างการ์ดโซเชียลแบบสด เพื่อให้ลิงก์ที่แชร์ดูถูกต้อง",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้าง Robots.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/robots-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "สร้าง robots.txt ที่ถูกต้องจากค่าที่ตั้งไว้ล่วงหน้าและกฎรายตัวแทน พร้อมการตรวจสอบความสมเหตุสมผลของผลลัพธ์",
+  "k": "ตัวสร้าง robots txt สร้าง robots txt ที่ถูกต้องจากค่าที่ตั้งไว้ล่วงหน้าและกฎรายตัวแทน พร้อมการตรวจสอบความสมเหตุสมผลของผลลัพธ์",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้างแผนผังเว็บไซต์ XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/xml-sitemap-generator/",
+  "s": "Loona Dev Tools",
+  "d": "เปลี่ยนรายการ URL เป็น sitemap.xml ที่ถูกต้องพร้อมค่าเริ่มต้น lastmod, changefreq และ priority",
+  "k": "ตัวสร้างแผนผังเว็บไซต์ xml เปลี่ยนรายการ url เป็น sitemap xml ที่ถูกต้องพร้อมค่าเริ่มต้น lastmod changefreq และ priority",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้างลิงก์ UTM",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/utm-link-builder/",
+  "s": "Loona Dev Tools",
+  "d": "แท็ก URL แคมเปญด้วยพารามิเตอร์ UTM - การเข้ารหัสที่ถูกต้อง พารามิเตอร์ที่มีอยู่ถูกเก็บไว้ ประวัติภายในเครื่อง",
+  "k": "ตัวสร้างลิงก์ utm แท็ก url แคมเปญด้วยพารามิเตอร์ utm การเข้ารหัสที่ถูกต้อง พารามิเตอร์ที่มีอยู่ถูกเก็บไว้ ประวัติภายในเครื่อง",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "เครื่องคำนวณ IP Subnet",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/ip-subnet-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "IPv4 CIDR เป็นเครือข่าย บรอดแคสต์ เน็ตมาสก์ ไวลด์การ์ด ช่วงโฮสต์ และจำนวน บวกมุมมองการแยกซับเน็ต",
+  "k": "เครื่องคำนวณ ip subnet ipv4 cidr เป็นเครือข่าย บรอดแคสต์ เน็ตมาสก์ ไวลด์การ์ด ช่วงโฮสต์ และจำนวน บวกมุมมองการแยกซับเน็ต",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้างสคีมา JSON-LD",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/json-ld-schema-generator/",
+  "s": "Loona Dev Tools",
+  "d": "สร้างข้อมูลที่มีโครงสร้างของ schema.org - Article, Product, LocalBusiness, Event, Recipe และอื่น ๆ - เป็น JSON-LD ที่ถูกต้อง",
+  "k": "ตัวสร้างสคีมา json ld สร้างข้อมูลที่มีโครงสร้างของ schema org article product localbusiness event recipe และอื่น ๆ เป็น json ld ที่ถูกต้อง",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแสดงตัวอย่าง SERP ของ Google",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/google-serp-preview/",
+  "s": "Loona Dev Tools",
+  "d": "ดูตัวอย่างชื่อเรื่องและคำอธิบายของคุณในฐานะผลลัพธ์ของ Google พร้อมคำเตือนการตัดตามความกว้างพิกเซล เดสก์ท็อปและมือถือ",
+  "k": "ตัวแสดงตัวอย่าง serp ของ google ดูตัวอย่างชื่อเรื่องและคำอธิบายของคุณในฐานะผลลัพธ์ของ google พร้อมคำเตือนการตัดตามความกว้างพิกเซล เดสก์ท็อปและมือถือ",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวตรวจสอบความหนาแน่นของคีย์เวิร์ด",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/keyword-density-checker/",
+  "s": "Loona Dev Tools",
+  "d": "นับคำเดี่ยวบวกวลี 2 คำและ 3 คำ พร้อมความหนาแน่นเป็นเปอร์เซ็นต์และการกรองคำหยุด",
+  "k": "ตัวตรวจสอบความหนาแน่นของคีย์เวิร์ด นับคำเดี่ยวบวกวลี 2 คำและ 3 คำ พร้อมความหนาแน่นเป็นเปอร์เซ็นต์และการกรองคำหยุด",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้างตาราง HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/html-table-generator/",
+  "s": "Loona Dev Tools",
+  "d": "สร้างตารางแบบเห็นภาพในกริดและรับ HTML เชิงความหมายที่สะอาดพร้อมการรองรับ thead, th และ caption",
+  "k": "ตัวสร้างตาราง html สร้างตารางแบบเห็นภาพในกริดและรับ html เชิงความหมายที่สะอาดพร้อมการรองรับ thead th และ caption",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้างลายเซ็นอีเมล HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/email-signature-generator/",
+  "s": "Loona Dev Tools",
+  "d": "สร้างลายเซ็นอีเมลระดับมืออาชีพเป็น HTML ตารางที่ปลอดภัยสำหรับอีเมลซึ่งทำงานได้ใน Gmail และ Outlook",
+  "k": "ตัวสร้างลายเซ็นอีเมล html สร้างลายเซ็นอีเมลระดับมืออาชีพเป็น html ตารางที่ปลอดภัยสำหรับอีเมลซึ่งทำงานได้ใน gmail และ outlook",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวตรวจสอบอีเมล",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/email-validator/",
+  "s": "Loona Dev Tools",
+  "d": "ตรวจสอบที่อยู่อีเมลจำนวนมากเพื่อหาข้อผิดพลาดทางไวยากรณ์และตัวพิมพ์ผิดในโดเมนที่พบบ่อยอย่าง gmial.com พร้อมคำแนะนำ",
+  "k": "ตัวตรวจสอบอีเมล ตรวจสอบที่อยู่อีเมลจำนวนมากเพื่อหาข้อผิดพลาดทางไวยากรณ์และตัวพิมพ์ผิดในโดเมนที่พบบ่อยอย่าง gmial com พร้อมคำแนะนำ",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้าง CSS Clip-Path",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/css-clip-path-generator/",
+  "s": "Loona Dev Tools",
+  "d": "สร้าง CSS clip-path - ค่าที่ตั้งไว้ล่วงหน้าแบบรูปหลายเหลี่ยมพร้อมจุดที่ปรับได้ บวกกับรูปทรงวงกลม วงรี และ inset",
+  "k": "ตัวสร้าง css clip path สร้าง css clip path ค่าที่ตั้งไว้ล่วงหน้าแบบรูปหลายเหลี่ยมพร้อมจุดที่ปรับได้ บวกกับรูปทรงวงกลม วงรี และ inset",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้าง CSS Box Shadow",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/css-box-shadow-generator/",
+  "s": "Loona Dev Tools",
+  "d": "สร้าง CSS box-shadow แบบหลายชั้นพร้อมการรองรับ inset การควบคุมสีและความทึบแสง และตัวอย่างแบบสด",
+  "k": "ตัวสร้าง css box shadow สร้าง css box shadow แบบหลายชั้นพร้อมการรองรับ inset การควบคุมสีและความทึบแสง และตัวอย่างแบบสด",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวจัดรูปแบบและตรวจสอบ XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/xml-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "จัดรูปแบบให้สวยงาม ย่อขนาด และตรวจสอบ XML - การตรวจสอบความสมบูรณ์ของแท็กที่สมดุลพร้อมข้อความแสดงข้อผิดพลาดที่ชัดเจน",
+  "k": "ตัวจัดรูปแบบและตรวจสอบ xml จัดรูปแบบให้สวยงาม ย่อขนาด และตรวจสอบ xml การตรวจสอบความสมบูรณ์ของแท็กที่สมดุลพร้อมข้อความแสดงข้อผิดพลาดที่ชัดเจน",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวแปลง Markdown เป็น HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/markdown-to-html-converter/",
+  "s": "Loona Dev Tools",
+  "d": "แปลง Markdown ประจำวันเป็น HTML ที่สะอาดพร้อมตัวอย่างที่เรนเดอร์แบบสด - หัวเรื่อง รายการ โค้ด และอื่น ๆ",
+  "k": "ตัวแปลง markdown เป็น html แปลง markdown ประจำวันเป็น html ที่สะอาดพร้อมตัวอย่างที่เรนเดอร์แบบสด หัวเรื่อง รายการ โค้ด และอื่น ๆ",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสลับแถวคอลัมน์ CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/csv-transpose/",
+  "s": "Loona Dev Tools",
+  "d": "สลับแถวและคอลัมน์ CSV ด้วยตัวแยกวิเคราะห์ที่เหมาะสม - การสลับสองครั้งจะคืนค่าต้นฉบับ",
+  "k": "ตัวสลับแถวคอลัมน์ csv สลับแถวและคอลัมน์ csv ด้วยตัวแยกวิเคราะห์ที่เหมาะสม การสลับสองครั้งจะคืนค่าต้นฉบับ",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวรวม CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/csv-join/",
+  "s": "Loona Dev Tools",
+  "d": "รวม CSV สองไฟล์ด้วยคอลัมน์คีย์ - inner หรือ left join คีย์ที่ซ้ำถูกจัดการในแบบฐานข้อมูล",
+  "k": "ตัวรวม csv รวม csv สองไฟล์ด้วยคอลัมน์คีย์ inner หรือ left join คีย์ที่ซ้ำถูกจัดการในแบบฐานข้อมูล",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสรุปและจัดกลุ่ม CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/csv-pivot-group-by/",
+  "s": "Loona Dev Tools",
+  "d": "จัดกลุ่มแถว CSV ตามคอลัมน์ ด้วยผลรวม จำนวน ค่าเฉลี่ย ค่าต่ำสุด หรือค่าสูงสุดของคอลัมน์ค่า",
+  "k": "ตัวสรุปและจัดกลุ่ม csv จัดกลุ่มแถว csv ตามคอลัมน์ ด้วยผลรวม จำนวน ค่าเฉลี่ย ค่าต่ำสุด หรือค่าสูงสุดของคอลัมน์ค่า",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวเปรียบเทียบ CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/csv-diff/",
+  "s": "Loona Dev Tools",
+  "d": "เปรียบเทียบ CSV สองไฟล์ด้วยคอลัมน์คีย์ - แถวที่เพิ่ม ลบ และเปลี่ยนแปลงพร้อมเซลล์ที่แม่นยำ",
+  "k": "ตัวเปรียบเทียบ csv เปรียบเทียบ csv สองไฟล์ด้วยคอลัมน์คีย์ แถวที่เพิ่ม ลบ และเปลี่ยนแปลงพร้อมเซลล์ที่แม่นยำ",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวดึงข้อมูล CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/csv-data-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "ดึงอีเมล หมายเลขโทรศัพท์ และ URL ออกจาก CSV หรือข้อความที่ยุ่งเหยิงให้เป็นรายการที่สะอาดและตัดรายการซ้ำออก",
+  "k": "ตัวดึงข้อมูล csv ดึงอีเมล หมายเลขโทรศัพท์ และ url ออกจาก csv หรือข้อความที่ยุ่งเหยิงให้เป็นรายการที่สะอาดและตัดรายการซ้ำออก",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัววิเคราะห์โปรไฟล์ CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/csv-profiler/",
+  "s": "Loona Dev Tools",
+  "d": "การคาดเดาประเภทตามคอลัมน์ จำนวนที่ว่าง จำนวนที่ไม่ซ้ำ ค่าต่ำสุด/สูงสุดเชิงตัวเลข และค่าสูงสุด",
+  "k": "ตัววิเคราะห์โปรไฟล์ csv การคาดเดาประเภทตามคอลัมน์ จำนวนที่ว่าง จำนวนที่ไม่ซ้ำ ค่าต่ำสุด สูงสุดเชิงตัวเลข และค่าสูงสุด",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวทดสอบ Robots.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/robots-txt-tester/",
+  "s": "Loona Dev Tools",
+  "d": "ทดสอบ URL และ user-agent กับกฎ robots.txt - คำตัดสินบวกกฎที่ตรงกันอย่างแม่นยำ",
+  "k": "ตัวทดสอบ robots txt ทดสอบ url และ user agent กับกฎ robots txt คำตัดสินบวกกฎที่ตรงกันอย่างแม่นยำ",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวตรวจสอบความอ่านง่ายสำหรับ SEO",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/readability-checker/",
+  "s": "Loona Dev Tools",
+  "d": "สูตรความอ่านง่ายหกสูตรบวกสถิติประโยคสำหรับข้อความเว็บ กรอบสำหรับงานเนื้อหา SEO",
+  "k": "ตัวตรวจสอบความอ่านง่ายสำหรับ seo สูตรความอ่านง่ายหกสูตรบวกสถิติประโยคสำหรับข้อความเว็บ กรอบสำหรับงานเนื้อหา seo",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้าง llms.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/llms-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "สร้างไฟล์ llms.txt สำหรับ AI - blockquote บทสรุปพร้อมลิงก์หน้าที่คัดสรรในรูปแบบตามข้อกำหนด",
+  "k": "ตัวสร้าง llms txt สร้างไฟล์ llms txt สำหรับ ai blockquote บทสรุปพร้อมลิงก์หน้าที่คัดสรรในรูปแบบตามข้อกำหนด",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวสร้างแท็ก Hreflang",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/hreflang-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "สร้างชุดลิงก์สำรอง hreflang พร้อม x-default และการตรวจสอบ BCP 47 / URL แบบสัมบูรณ์",
+  "k": "ตัวสร้างแท็ก hreflang สร้างชุดลิงก์สำรอง hreflang พร้อม x default และการตรวจสอบ bcp 47 url แบบสัมบูรณ์",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวดูเมทาดาทาเอกสาร Office",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/office-metadata-viewer/",
+  "s": "Loona Dev Tools",
+  "d": "อ่านคุณสมบัติ DOCX, XLSX และ PPTX - ชื่อเรื่อง ผู้แต่ง บริษัท วันที่ - ดูอย่างเดียว บนอุปกรณ์",
+  "k": "ตัวดูเมทาดาทาเอกสาร office อ่านคุณสมบัติ docx xlsx และ pptx ชื่อเรื่อง ผู้แต่ง บริษัท วันที่ ดูอย่างเดียว บนอุปกรณ์",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "ตัวตรวจชนิดไฟล์",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/th/file-type-detector/",
+  "s": "Loona Dev Tools",
+  "d": "ตรวจจับชนิดจริงของไฟล์จากไบต์มหัศจรรย์ของมันและเตือนเมื่อนามสกุลไม่ตรงกัน",
+  "k": "ตัวตรวจชนิดไฟล์ ตรวจจับชนิดจริงของไฟล์จากไบต์มหัศจรรย์ของมันและเตือนเมื่อนามสกุลไม่ตรงกัน",
+  "p": 171,
+  "c": "Tool"
+ }
+]
