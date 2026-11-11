@@ -1,0 +1,29 @@
+{
+  "name": "Převodník Loona TOML na YAML",
+  "short_name": "Převodník TOML na YAML",
+  "description": "Převádějte TOML na YAML online: tabulky se stanou vnořenými mapováními, tabulky polí se stanou seznamy objektů.",
+  "id": "/loona-dev-tools/cs/toml-to-yaml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

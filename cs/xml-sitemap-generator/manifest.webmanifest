@@ -1,0 +1,29 @@
+{
+  "name": "Generátor sitemap Loona XML online zdarma",
+  "short_name": "Generátor sitemapy XML online",
+  "description": "Generujte platnou sitemap XML online zdarma ze seznamu URL, s výchozím lastmod, changefreq a prioritou, správným escapováním URL a XML. Bez registrace, běží ve vašem prohlížeči.",
+  "id": "/loona-dev-tools/cs/xml-sitemap-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

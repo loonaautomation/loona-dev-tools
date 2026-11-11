@@ -1,0 +1,29 @@
+{
+  "name": "Generátor podpisu e-mailu Loona HTML online zdarma",
+  "short_name": "Podpis e-mailu HTML",
+  "description": "Vytvořte profesionální HTML podpis e-mailu online zdarma - jméno, pozice, společnost, telefon, e-mail a web v tabulkovém HTML bezpečném pro e-maily, které funguje v Gmailu a Outlooku. Bez registrace.",
+  "id": "/loona-dev-tools/cs/email-signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

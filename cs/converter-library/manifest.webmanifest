@@ -1,0 +1,29 @@
+{
+  "name": "Knihovna převodníků a generátorů Loona",
+  "short_name": "Knihovna převodníků a generátorů",
+  "description": "Index všech převodníků a generátorů Loona Developer Tools: kódování, datové formáty, hashe, barvy, archivy, generátory kódu a reference.",
+  "id": "/loona-dev-tools/cs/converter-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

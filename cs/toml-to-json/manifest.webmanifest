@@ -1,0 +1,29 @@
+{
+  "name": "Převodník Loona TOML na JSON",
+  "short_name": "Převodník TOML na JSON",
+  "description": "Převádějte TOML na JSON online: tabulky, tabulky polí, řetězce, čísla, booleany, pole a data s časem (jako řetězce).",
+  "id": "/loona-dev-tools/cs/toml-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

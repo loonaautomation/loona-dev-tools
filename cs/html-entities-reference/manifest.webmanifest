@@ -1,0 +1,29 @@
+{
+  "name": "Referenční tabulka entit Loona HTML",
+  "short_name": "Referenční tabulka entit HTML",
+  "description": "Základní tabulka entit HTML: pojmenovaná entita, znak, desítkový kód a poznámky k použití pro entity, které vývojáři skutečně používají.",
+  "id": "/loona-dev-tools/cs/html-entities-reference/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

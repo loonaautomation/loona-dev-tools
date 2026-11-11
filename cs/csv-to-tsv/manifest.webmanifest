@@ -1,0 +1,29 @@
+{
+  "name": "Převodník Loona CSV na TSV",
+  "short_name": "Převodník CSV na TSV",
+  "description": "Převádějte CSV na TSV (hodnoty oddělené tabulátory): úplná analýza polí v uvozovkách, tabulátory jako oddělovače. Bezplatný online převodník.",
+  "id": "/loona-dev-tools/cs/csv-to-tsv/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

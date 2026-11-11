@@ -1,0 +1,29 @@
+{
+  "name": "Analyzátor záhlaví Cookie Loona",
+  "short_name": "Analyzátor záhlaví Cookie",
+  "description": "Analyzujte záhlaví Cookie na čitelný seznam: páry název = hodnota, zobrazené procentně dekódované hodnoty, počet cookies.",
+  "id": "/loona-dev-tools/cs/cookie-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

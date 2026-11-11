@@ -1,0 +1,29 @@
+{
+  "name": "Odescapování řetězců Loona JSON",
+  "short_name": "Odescapování řetězců JSON",
+  "description": "Převeďte escapovanou hodnotu řetězce JSON zpět na prostý text: sekvence \\n, \\t, \\&quot;, \\\\ a \\uXXXX se stanou skutečnými znaky.",
+  "id": "/loona-dev-tools/cs/json-unescape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

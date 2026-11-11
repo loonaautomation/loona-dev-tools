@@ -1,0 +1,29 @@
+{
+  "name": "Tvůrce odkazů Loona UTM online zdarma",
+  "short_name": "Tvůrce odkazů UTM online zdarma",
+  "description": "Vytvářejte online zdarma URL kampaní označené UTM - zdroj, médium, kampaň, termín a obsah přidány se správným kódováním, existující parametry dotazu zachovány, plus uložená historie.",
+  "id": "/loona-dev-tools/cs/utm-link-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

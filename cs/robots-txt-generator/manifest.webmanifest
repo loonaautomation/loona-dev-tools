@@ -1,0 +1,29 @@
+{
+  "name": "Generátor Loona Robots.txt online zdarma",
+  "short_name": "Generátor Robots.txt online",
+  "description": "Generujte platný robots.txt online zdarma - předvolby, pravidla povolit a zakázat pro jednotlivé agenty, řádek sitemap a vestavěné kontroly rozumnosti syntaxe. Bez registrace, běží ve vašem prohlížeči.",
+  "id": "/loona-dev-tools/cs/robots-txt-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

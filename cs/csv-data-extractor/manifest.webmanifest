@@ -1,0 +1,29 @@
+{
+  "name": "Extraktor dat Loona CSV online zdarma",
+  "short_name": "Extraktor dat CSV online zdarma",
+  "description": "Extrahujte e-mailové adresy, telefonní čísla a URL z nepořádných souborů CSV nebo jakéhokoli textu online zdarma - vyčištěné seznamy bez duplicit, které můžete stáhnout. Bez registrace, běží ve vašem prohlížeči.",
+  "id": "/loona-dev-tools/cs/csv-data-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

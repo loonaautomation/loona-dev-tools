@@ -1,0 +1,29 @@
+{
+  "name": "Kódování Loona URL (Procentní kódování)",
+  "short_name": "Kódování URL (procentní kódování)",
+  "description": "Procentně kódujte text nebo úplnou URL online: mezery se stanou %20, vyhrazené znaky se escapují podle RFC 3986. Režim komponenty nebo úplné URL.",
+  "id": "/loona-dev-tools/cs/url-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Dekodér Loona Base32 na text",
+  "short_name": "Dekodér Base32 na text",
+  "description": "Dekódujte Base32 (RFC 4648) zpět na text — bez ohledu na velikost písmen, doplnění volitelné. Obnovte řetězce kódované ve stylu TOTP.",
+  "id": "/loona-dev-tools/cs/base32-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

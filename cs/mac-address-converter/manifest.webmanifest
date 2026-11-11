@@ -1,0 +1,29 @@
+{
+  "name": "Převodník formátů adres Loona MAC",
+  "short_name": "Převodník formátů adres MAC",
+  "description": "Převádějte adresy MAC mezi formáty s dvojtečkami (AA:BB:CC:DD:EE:FF), pomlčkami, tečkami Cisco a prostým formátem; ověřuje 48bitovou adresu.",
+  "id": "/loona-dev-tools/cs/mac-address-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

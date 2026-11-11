@@ -1,0 +1,29 @@
+{
+  "name": "Extraktor souborů Loona ISO online zdarma",
+  "short_name": "Extraktor souborů ISO online zdarma",
+  "description": "Otevírejte obrazy disků ISO přímo ve svém prohlížeči - procházejte souborový systém uložený na virtuálním disku a stahujte jednotlivé soubory nebo vše jako ZIP. Nic se nenahrává.",
+  "id": "/loona-dev-tools/cs/iso-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

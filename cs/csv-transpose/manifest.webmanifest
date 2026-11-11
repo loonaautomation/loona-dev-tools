@@ -1,0 +1,29 @@
+{
+  "name": "Transpozice Loona CSV online zdarma",
+  "short_name": "Transpozice CSV online zdarma",
+  "description": "Transponujte CSV online zdarma - prohoďte řádky a sloupce správným analyzátorem RFC 4180, který pole v uvozovkách zpracuje korektně. Bez registrace, běží 100% ve vašem prohlížeči.",
+  "id": "/loona-dev-tools/cs/csv-transpose/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

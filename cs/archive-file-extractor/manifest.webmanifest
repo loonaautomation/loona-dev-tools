@@ -1,0 +1,29 @@
+{
+  "name": "Loona Extraktor archivních souborů online zdarma",
+  "short_name": "Extraktor archivních souborů online",
+  "description": "Jeden univerzální otvírač archivů: vložte jakýkoli soubor ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ nebo ISO a extrahujte jeho obsah přímo ve svém prohlížeči. Formát se rozpozná automaticky; nic se nenahrává.",
+  "id": "/loona-dev-tools/cs/archive-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

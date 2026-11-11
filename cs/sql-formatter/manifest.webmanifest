@@ -1,0 +1,29 @@
+{
+  "name": "Formátovač Loona SQL online zdarma",
+  "short_name": "Formátovač SQL online zdarma",
+  "description": "Formátujte SQL online zdarma: klíčová slova velkými písmeny, klauzule SELECT, FROM, WHERE a JOIN na vlastních řádcích, řetězce zachovány. Bez registrace, běží 100% ve vašem prohlížeči.",
+  "id": "/loona-dev-tools/cs/sql-formatter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

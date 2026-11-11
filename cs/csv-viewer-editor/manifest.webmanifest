@@ -1,0 +1,29 @@
+{
+  "name": "Prohlížeč a editor Loona CSV online zdarma",
+  "short_name": "Prohlížeč a editor CSV online",
+  "description": "Prohlížejte a upravujte soubory CSV online zdarma v editovatelné mřížce tabulky - upravujte buňky, řaďte sloupce, přidávejte nebo odebírejte řádky a sloupce a poté upravené CSV stáhněte. Bez registrace, běží ve vašem prohlížeči.",
+  "id": "/loona-dev-tools/cs/csv-viewer-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

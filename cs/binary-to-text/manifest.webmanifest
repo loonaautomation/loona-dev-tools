@@ -1,0 +1,29 @@
+{
+  "name": "Převodník Loona binární na text",
+  "short_name": "Převodník binární na text",
+  "description": "Dekódujte binární soustavu (skupiny 8 bitů, s mezerami nebo souvislé) zpět na text UTF-8 online. Bezplatný binární překladač.",
+  "id": "/loona-dev-tools/cs/binary-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

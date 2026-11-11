@@ -1,0 +1,29 @@
+{
+  "name": "Překladač Loona Morseovy abecedy na text",
+  "short_name": "Překladač Morseovy abecedy na text",
+  "description": "Dekódujte Morseovu abecedu zpět na text: vložte tečky a čárky (písmena oddělená mezerami, / mezi slovy) a přečtěte si zprávu.",
+  "id": "/loona-dev-tools/cs/morse-code-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

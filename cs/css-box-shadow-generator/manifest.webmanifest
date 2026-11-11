@@ -1,0 +1,29 @@
+{
+  "name": "Generátor Loona stínu rámečku CSS online zdarma",
+  "short_name": "Generátor stínu rámečku CSS",
+  "description": "Generujte CSS box-shadow online zdarma - více vrstev stínů, vložené stíny, ovládání barvy a krytí, s živým náhledem a hotovým CSS. Bez registrace, běží ve vašem prohlížeči.",
+  "id": "/loona-dev-tools/cs/css-box-shadow-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

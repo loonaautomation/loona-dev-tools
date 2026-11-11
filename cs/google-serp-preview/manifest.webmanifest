@@ -1,0 +1,29 @@
+{
+  "name": "Nástroj Loona Náhled Google SERP online zdarma",
+  "short_name": "Nástroj Náhled Google SERP",
+  "description": "Nahlížejte, jak budou titulek vaší stránky a meta popis vypadat ve výsledcích vyhledávání Google, online zdarma, se zobrazením pro stolní počítače a mobil a varováními o ořezání podle šířky v pixelech. Bez registrace.",
+  "id": "/loona-dev-tools/cs/google-serp-preview/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Tvůrce souborů Loona ZIP online zdarma",
+  "short_name": "Tvůrce souborů ZIP online zdarma",
+  "description": "Vytvořte soubor ZIP z více souborů přímo ve vašem prohlížeči - přidejte soubory, pojmenujte archiv a stáhněte jeden .zip. Nic se nenahrává; vše zůstává na vašem zařízení.",
+  "id": "/loona-dev-tools/cs/zip-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

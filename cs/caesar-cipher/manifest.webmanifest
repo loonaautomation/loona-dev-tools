@@ -1,0 +1,29 @@
+{
+  "name": "Kodér a dekodér Caesarovy šifry Loona",
+  "short_name": "Kodér Caesarovy šifry a",
+  "description": "Caesarova šifra s libovolným posunem (1–25) a režimem dekódování: klasická substituční šifra Julia Caesara, online.",
+  "id": "/loona-dev-tools/cs/caesar-cipher/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

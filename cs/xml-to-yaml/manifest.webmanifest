@@ -1,0 +1,29 @@
+{
+  "name": "Převodník Loona XML na YAML",
+  "short_name": "Převodník XML na YAML",
+  "description": "Převádějte XML na YAML: atributy jako @klíče, opakované prvky jako seznamy, hodnoty typovány. Skutečný analyzátor, ne regex.",
+  "id": "/loona-dev-tools/cs/xml-to-yaml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
