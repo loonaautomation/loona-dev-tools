@@ -1,0 +1,29 @@
+{
+  "name": "Loona llms.txt-generator online gratis",
+  "short_name": "llms.txt-generator online gratis",
+  "description": "Generér en gyldig llms.txt-fil online gratis – webstedsnavn, resumé-blokcitat, detaljer og kuraterede sidelinks i llms.txt-formatet foreslået til AI-crawlere. Ingen tilmelding.",
+  "id": "/loona-dev-tools/da/llms-txt-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

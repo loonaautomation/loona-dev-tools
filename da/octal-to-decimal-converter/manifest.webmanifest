@@ -1,0 +1,29 @@
+{
+  "name": "Loona oktal til decimal-konverter",
+  "short_name": "Oktal til decimal-konverter",
+  "description": "Konvertér oktale tal til decimal online — vilkårlig præcision (BigInt), negative tal understøttet.",
+  "id": "/loona-dev-tools/da/octal-to-decimal-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona A1Z26-chifferdekoder (tal til bogstaver)",
+  "short_name": "A1Z26-chifferdekoder (Tal",
+  "description": "Afkod A1Z26-talkoder tilbage til bogstaver: 1=A, 2=B ... 26=Z. Adskilt af bindestreg, komma eller mellemrum.",
+  "id": "/loona-dev-tools/da/a1z26-cipher-decoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

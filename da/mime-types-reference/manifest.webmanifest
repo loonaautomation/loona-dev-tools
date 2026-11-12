@@ -1,0 +1,29 @@
+{
+  "name": "Loona MIME-typereference (indholdstyper efter",
+  "short_name": "MIME-typereference (indhold",
+  "description": "Almindelige MIME-typer efter filendelse: dokumenter, billeder, lyd, video, arkiver, skrifttyper og webformater med deres Content-Type-værdier.",
+  "id": "/loona-dev-tools/da/mime-types-reference/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

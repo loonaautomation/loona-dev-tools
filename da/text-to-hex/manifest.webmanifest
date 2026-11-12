@@ -1,0 +1,29 @@
+{
+  "name": "Loona tekst til Hex-konverter",
+  "short_name": "Tekst til Hex-konverter",
+  "description": "Konvertér tekst til hexadecimal (UTF-8-bytes) online, med eller uden mellemrum mellem bytes. Gratis udviklerkonverter.",
+  "id": "/loona-dev-tools/da/text-to-hex/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

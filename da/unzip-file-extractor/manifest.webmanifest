@@ -1,0 +1,29 @@
+{
+  "name": "Loona Unzip-filudpakker online gratis",
+  "short_name": "Unzip-filudpakker online",
+  "description": "Åbn en ZIP-fil i din browser, se hver fil inde i med dens størrelse, og udtræk enkelte filer eller alle sammen. Intet uploades; udtrækning sker på din enhed.",
+  "id": "/loona-dev-tools/da/unzip-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

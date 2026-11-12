@@ -1,0 +1,29 @@
+{
+  "name": "Loona søgeordstæthedskontrol online gratis",
+  "short_name": "Søgeordstæthedskontrol",
+  "description": "Tjek søgeordstæthed online gratis – top enkeltord plus fraser på 2 og 3 ord med optællinger og procentvis tæthed, stopordsfiltrering inkluderet. Ingen tilmelding.",
+  "id": "/loona-dev-tools/da/keyword-density-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

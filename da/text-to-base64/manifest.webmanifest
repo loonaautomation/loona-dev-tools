@@ -1,0 +1,29 @@
+{
+  "name": "Loona tekst til Base64-koder",
+  "short_name": "Tekst til Base64-koder",
+  "description": "Kod tekst til Base64 online, UTF-8-sikkert for ethvert sprog og emoji, med et valgfrit URL-sikkert alfabet. Gratis, privat, i din browser.",
+  "id": "/loona-dev-tools/da/text-to-base64/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

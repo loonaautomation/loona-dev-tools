@@ -1,0 +1,29 @@
+{
+  "name": "Loona TAR-filopretter online gratis",
+  "short_name": "TAR-filopretter online gratis",
+  "description": "Opret et TAR-arkiv (.tar) ud fra flere filer direkte i din browser – en spec-korrekt ustar-skriver, mappeindstilling, ægte tidsstempler. Intet uploades; tarballen bygges på din enhed og åbnes med ethvert tar-værktøj.",
+  "id": "/loona-dev-tools/da/tar-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

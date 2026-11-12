@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV-pivot og Group-By online gratis",
+  "short_name": "CSV-pivot og gruppering online",
+  "description": "Pivotér CSV-data online gratis - gruppér rækker efter enhver kolonne, og beregn sum, antal, gennemsnit, minimum eller maksimum af en værdikolonne. Ingen tilmelding, kører 100 % i din browser.",
+  "id": "/loona-dev-tools/da/csv-pivot-group-by/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

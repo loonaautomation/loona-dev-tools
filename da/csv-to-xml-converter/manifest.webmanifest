@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV til XML-konverter online gratis",
+  "short_name": "CSV til XML-konverter online",
+  "description": "Konvertér CSV til XML online gratis med konfigurerbare navne til rod- og rækkeelementer og korrekt XML-escaping. Ingen tilmelding, kører 100% i din browser.",
+  "id": "/loona-dev-tools/da/csv-to-xml-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
