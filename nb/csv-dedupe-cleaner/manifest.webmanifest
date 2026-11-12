@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV-deduplisering og -renser på nett gratis",
+  "short_name": "CSV-deduplisering og -rensing på nett",
+  "description": "Fjern dupliserte rader fra CSV på nett gratis - etter hel rad eller etter nøkkelkolonner - pluss trim mellomrom, slipp tomme rader og normaliser linjeavslutninger, med før/etter-tellinger. Ingen registrering.",
+  "id": "/loona-dev-tools/nb/csv-dedupe-cleaner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML-entitetskoder og -dekoder på nett gratis",
+  "short_name": "HTML-entitetskoder og -dekoder",
+  "description": "Kod tekst til HTML-entiteter (navngitte som &amp;copy; eller nummererte som &amp;#169;) og dekod entiteter tilbake til vanlig tekst. Gratis, ingen registrering, i nettleseren din.",
+  "id": "/loona-dev-tools/nb/html-entity-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON til INI-konverterer",
+  "short_name": "JSON til INI-konverterer",
+  "description": "Konverter JSON-objekter til INI-format: skalarer på toppnivå først, nøstede objekter som [sections]. Gratis nettbasert konverterer.",
+  "id": "/loona-dev-tools/nb/json-to-ini/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

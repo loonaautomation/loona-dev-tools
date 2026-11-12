@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV til JSON-konverterer på nett gratis",
+  "short_name": "CSV til JSON-konverterer på nett",
+  "description": "Konverter CSV til en JSON-matrise av objekter på nett gratis, med en ordentlig CSV-parser som håndterer felt med anførselstegn, kommaer inne i anførselstegn og escapede anførselstegn. Ingen registrering, kjører 100 % i nettleseren din.",
+  "id": "/loona-dev-tools/nb/csv-to-json-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

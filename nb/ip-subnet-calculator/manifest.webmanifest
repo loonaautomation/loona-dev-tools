@@ -1,0 +1,29 @@
+{
+  "name": "Loona IP-subnettkalkulator på nett gratis",
+  "short_name": "IP-subnettkalkulator på nett",
+  "description": "Beregn IPv4-subnett på nett gratis - nettverk, kringkasting, nettmaske, wildcard, første og siste vert, antall brukbare verter og IP-klasse fra enhver CIDR-adresse, pluss en visning for subnettdeling.",
+  "id": "/loona-dev-tools/nb/ip-subnet-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

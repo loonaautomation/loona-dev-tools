@@ -1,0 +1,29 @@
+{
+  "name": "Loona Office-dokumentmetadataviser på nett",
+  "short_name": "Office-dokumentmetadata",
+  "description": "Se Office-dokumentmetadata på nett gratis - tittel, forfatter, selskap, opprettelses- og endringsdatoer, applikasjon og versjon for .docx-, .xlsx- og .pptx-filer. Kun visning, ingenting lastet opp.",
+  "id": "/loona-dev-tools/nb/office-metadata-viewer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

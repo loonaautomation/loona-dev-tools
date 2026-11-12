@@ -1,0 +1,29 @@
+{
+  "name": "Loona JWT-koder (HS256-signerer)",
+  "short_name": "JWT-koder (HS256-signerer)",
+  "description": "Opprett og signer JSON Web Tokens med HS256 i nettleseren din: nyttelast-JSON pluss en hemmelighet, eller alg=none. WebCrypto-signering.",
+  "id": "/loona-dev-tools/nb/jwt-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

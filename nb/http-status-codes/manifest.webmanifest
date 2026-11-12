@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTTP-statuskodereferanse",
+  "short_name": "HTTP-statuskodereferanse",
+  "description": "Hver vanlig HTTP-statuskode med betydningen sin: 2xx suksess, 3xx omdirigeringer, 4xx klientfeil, 5xx serverfeil — forklart enkelt.",
+  "id": "/loona-dev-tools/nb/http-status-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

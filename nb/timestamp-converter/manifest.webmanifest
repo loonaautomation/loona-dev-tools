@@ -1,0 +1,29 @@
+{
+  "name": "Loona Unix-tidsstempelkonverterer på nett gratis",
+  "short_name": "Unix-tidsstempelkonverterer",
+  "description": "Konverter Unix-tidsstempler (sekunder eller millisekunder) til menneskelige datoer i UTC og din lokale tid, og datoer tilbake til tidsstempler. Levende nåtid. Gratis.",
+  "id": "/loona-dev-tools/nb/timestamp-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

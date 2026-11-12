@@ -1,0 +1,29 @@
+{
+  "name": "Loona binær til tekst-konverterer",
+  "short_name": "Binær til tekst-konverterer",
+  "description": "Dekod binær (grupper på 8 bits, med mellomrom eller sammenhengende) tilbake til UTF-8-tekst på nett. Gratis binæroversetter.",
+  "id": "/loona-dev-tools/nb/binary-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

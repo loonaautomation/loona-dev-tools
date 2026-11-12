@@ -1,0 +1,29 @@
+{
+  "name": "Loona hreflang-taggenerator på nett gratis",
+  "short_name": "Hreflang-taggenerator på nett",
+  "description": "Generer hreflang-tagger på nett gratis - lim inn språk- og URL-par, legg til en x-default, og få hele det alternative lenkesettet med BCP 47- og absolutt-URL-sjekker. Ingen registrering.",
+  "id": "/loona-dev-tools/nb/hreflang-tag-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona XML til JSON-konverterer",
+  "short_name": "XML til JSON-konverterer",
+  "description": "Konverter XML til JSON på nett: attributter som @keys, gjentatte elementer som matriser, tekst som verdier med tall typet.",
+  "id": "/loona-dev-tools/nb/xml-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

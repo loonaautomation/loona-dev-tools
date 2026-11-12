@@ -1,0 +1,29 @@
+{
+  "name": "Loona UTM-lenkebygger på nett gratis",
+  "short_name": "UTM-lenkebygger på nett gratis",
+  "description": "Bygg UTM-taggede kampanje-URL-er på nett gratis - source, medium, campaign, term og content lagt til med riktig koding, eksisterende spørringsparametere bevart, pluss en lagret historikk.",
+  "id": "/loona-dev-tools/nb/utm-link-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

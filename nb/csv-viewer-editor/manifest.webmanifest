@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV-viser og -redigerer på nett gratis",
+  "short_name": "CSV-viser og -redigerer på nett",
+  "description": "Se og rediger CSV-filer på nett gratis i et redigerbart tabellrutenett - rediger celler, sorter kolonner, legg til eller fjern rader og kolonner, og last ned den redigerte CSV-en. Ingen registrering, kjører i nettleseren din.",
+  "id": "/loona-dev-tools/nb/csv-viewer-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

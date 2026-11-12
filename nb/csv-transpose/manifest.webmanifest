@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV-transponering på nett gratis",
+  "short_name": "CSV-transponer på nett gratis",
+  "description": "Transponer CSV på nett gratis - bytt rader og kolonner med en ordentlig RFC 4180-parser som håndterer anførede felt korrekt. Ingen registrering, kjører 100 % i nettleseren din.",
+  "id": "/loona-dev-tools/nb/csv-transpose/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

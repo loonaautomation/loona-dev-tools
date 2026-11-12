@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML-entitetskoder",
+  "short_name": "HTML-entitetskoder",
+  "description": "Kod spesialtegn som HTML-entiteter: navngitte (&copy;), desimale eller heks numeriske referanser. Escaper markup, anførselstegn og ikke-ASCII-tekst.",
+  "id": "/loona-dev-tools/nb/html-entities-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

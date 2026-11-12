@@ -1,0 +1,29 @@
+{
+  "name": "Loona GZ-filutpakker på nett gratis",
+  "short_name": "GZ-filutpakker på nett gratis",
+  "description": "Dekomprimer én enkelt .gz-fil rett i nettleseren din og last ned originalfilen - logger, dataeksporter, databasedumper. Ingenting lastes opp; nettleseren din gjør jobben innebygd.",
+  "id": "/loona-dev-tools/nb/gz-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona TAR.GZ til TAR-konverterer",
+  "short_name": "TAR.GZ til TAR-konverterer",
+  "description": "Fjern gzip-laget fra et .tar.gz- / .tgz-arkiv for å få den rene TAR-en, på nett og lokalt — ingen utpakkingsverktøy nødvendig.",
+  "id": "/loona-dev-tools/nb/tar-gz-to-tar-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

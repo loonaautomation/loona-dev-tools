@@ -1,0 +1,29 @@
+{
+  "name": "Loona vitenskapelig notasjon-konverterer",
+  "short_name": "Vitenskapelig notasjon-konverterer",
+  "description": "Konverter tall til og fra vitenskapelig notasjon: 3200000 ⇄ 3.2 × 10^6, E-notasjon støttes begge veier.",
+  "id": "/loona-dev-tools/nb/scientific-notation-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

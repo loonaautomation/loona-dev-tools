@@ -1,0 +1,29 @@
+{
+  "name": "Loona 7Z til TAR-konverterer",
+  "short_name": "7Z til TAR-konverterer",
+  "description": "Konverter 7Z-arkiver til TAR på nett: libarchive (WebAssembly) leser 7Z-en, en ustar-skriver pakker den på nytt. Privat og lokalt.",
+  "id": "/loona-dev-tools/nb/7z-to-tar-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
