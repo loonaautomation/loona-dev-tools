@@ -1,0 +1,29 @@
+{
+  "name": "Loona 7Z-ből ZIP-be átalakító online ingyen",
+  "short_name": "7Z–ZIP átalakító online",
+  "description": "Alakítson egy 7Z archívumot (.7z) szabványos ZIP fájllá közvetlenül a böngészőjében. A mappaszerkezet megőrizve, semmi sem töltődik fel - és a kapott ZIP gyárilag nyílik Windowson, macOS-en, Androidon és iPhone-on, 7-Zip nélkül.",
+  "id": "/loona-dev-tools/hu/7z-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

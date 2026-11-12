@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV különbség és összehasonlítás online ingyen",
+  "short_name": "CSV különbség és összehasonlítás online ingyen",
+  "description": "Hasonlítson össze két CSV fájlt online ingyen - a sorok egy kulcsoszlop alapján párosítva, és hozzáadott, eltávolított, megváltozott (a pontos cellákkal) vagy változatlan kategóriába sorolva. Regisztráció nélkül, a böngészőjében fut.",
+  "id": "/loona-dev-tools/hu/csv-diff/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

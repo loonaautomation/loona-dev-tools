@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV összekapcsoló online ingyen",
+  "short_name": "CSV összekapcsoló online ingyen",
+  "description": "Kapcsoljon össze két CSV fájlt online ingyen egy közös kulcsoszlop alapján - belső illesztés vagy bal illesztés, a duplikált kulcsok az adatbázisok módján kezelve. Regisztráció nélkül, 100%-ban a böngészőjében fut.",
+  "id": "/loona-dev-tools/hu/csv-join/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

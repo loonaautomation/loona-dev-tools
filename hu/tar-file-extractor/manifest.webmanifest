@@ -1,0 +1,29 @@
+{
+  "name": "Loona TAR fájlkibontó online ingyen",
+  "short_name": "TAR fájlkibontó online ingyen",
+  "description": "Nyisson meg TAR archívumokat közvetlenül a böngészőjében - sima .tar, valamint .tar.bz2 és .tar.xz - nézze meg minden fájlt belül, és töltsön le egyetlen fájlt vagy mindent ZIP-ként. Semmi nem töltődik fel.",
+  "id": "/loona-dev-tools/hu/tar-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

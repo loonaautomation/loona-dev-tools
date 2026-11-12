@@ -1,0 +1,29 @@
+{
+  "name": "Loona Adler-32 ellenőrzőösszeg-kalkulátor",
+  "short_name": "Adler-32 ellenőrzőösszeg-kalkulátor",
+  "description": "Számítson Adler-32 hasheket szövegből vagy fájlokból online: 32 bites, 8 hexadecimális karakter. Helyben fut a böngészőjében WebCrypto/tiszta JS segítségével — a fájlok soha nem töltődnek fel.",
+  "id": "/loona-dev-tools/hu/adler32-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

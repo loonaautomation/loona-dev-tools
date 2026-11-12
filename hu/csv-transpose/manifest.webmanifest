@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV transzponáló online ingyen",
+  "short_name": "CSV transzponáló online ingyen",
+  "description": "CSV transzponálása online ingyen - cserélje fel a sorokat és oszlopokat egy megfelelő RFC 4180 elemzővel, amely helyesen kezeli az idézett mezőket. Nincs regisztráció, 100%-ban a böngészőjében fut.",
+  "id": "/loona-dev-tools/hu/csv-transpose/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

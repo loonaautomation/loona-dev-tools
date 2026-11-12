@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV profilozó online ingyen",
+  "short_name": "CSV profilozó online ingyen",
+  "description": "Profilozzon egy CSV fájlt online ingyen - oszloponkénti típusbecslések, üres cellák száma, egyedi értékek száma, numerikus min/max és legfőbb értékek, hogy megértse a fájlt, mielőtt használná. Nincs regisztráció.",
+  "id": "/loona-dev-tools/hu/csv-profiler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

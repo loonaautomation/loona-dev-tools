@@ -1,0 +1,29 @@
+{
+  "name": "Loona szövegből binárissá átalakító",
+  "short_name": "Szövegből binárissá átalakító",
+  "description": "Alakítson szöveget binárissá: minden karakter az UTF-8 bájtjainak 8 bites bináris csoportjaiként. Ingyenes online átalakító.",
+  "id": "/loona-dev-tools/hu/text-to-binary/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

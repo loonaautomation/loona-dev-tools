@@ -1,0 +1,29 @@
+{
+  "name": "Loona Unzip fájlkibontó online ingyen",
+  "short_name": "Unzip fájlkibontó online",
+  "description": "Nyisson meg egy ZIP fájlt a böngészőjében, nézze meg minden fájlt belül a méretével, és bontson ki egyetlen fájlt vagy mindet. Semmi nem töltődik fel; a kibontás az eszközén történik.",
+  "id": "/loona-dev-tools/hu/unzip-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

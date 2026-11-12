@@ -1,0 +1,29 @@
+{
+  "name": "Loona fájltípus-felismerő online ingyen",
+  "short_name": "Fájltípus-érzékelő online ingyen",
+  "description": "Ismerje fel egy fájl valódi típusát online ingyen a varázsbájt fejléc aláírásából - PNG, PDF, ZIP, MP4, EXE és 30+ formátum -, és kapjon figyelmeztetést, amikor a kiterjesztés nem egyezik. Semmi sem töltődik fel.",
+  "id": "/loona-dev-tools/hu/file-type-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

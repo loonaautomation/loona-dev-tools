@@ -1,0 +1,29 @@
+{
+  "name": "Loona képből Base64-be átalakító",
+  "short_name": "Képből Base64 átalakító",
+  "description": "Alakítson egy képet (PNG, JPG, GIF, WebP, SVG) Base64 data URI-vá online — a fájl helyben olvasódik, méretekkel és méretstatisztikákkal.",
+  "id": "/loona-dev-tools/hu/image-to-base64/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

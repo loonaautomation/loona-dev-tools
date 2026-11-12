@@ -1,0 +1,29 @@
+{
+  "name": "Loona URL elemző online ingyen",
+  "short_name": "URL elemző online ingyen",
+  "description": "Bármilyen URL elemzése online ingyen protokollá, állomássá, porttá, útvonallá, lekérdezési paraméterekké és hash-sé - szerkessze a paramétereket, és építse újra az URL-t. Nincs regisztráció, 100%-ban a böngészőjében fut.",
+  "id": "/loona-dev-tools/hu/url-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

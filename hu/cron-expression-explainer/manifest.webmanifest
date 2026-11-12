@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cron kifejezés magyarázó",
+  "short_name": "Cron kifejezés magyarázó",
+  "description": "Magyarázzon el cron kifejezéseket közérthető nyelven: illesszen be egy 5 mezős cron ütemezést, és olvassa el, mikor fut, mezőről mezőre.",
+  "id": "/loona-dev-tools/hu/cron-expression-explainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

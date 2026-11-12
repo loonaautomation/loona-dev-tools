@@ -1,0 +1,29 @@
+{
+  "name": "Loona Morse-kódból szöveggé fordító",
+  "short_name": "Morse-kódból szöveggé fordító",
+  "description": "Dekódolja a Morse kódot vissza szöveggé: illesszen be pontokat és vonásokat (a betűk szóközzel elválasztva, / a szavak között), és olvassa el az üzenetet.",
+  "id": "/loona-dev-tools/hu/morse-code-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

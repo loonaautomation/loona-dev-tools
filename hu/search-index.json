@@ -1,0 +1,650 @@
+[
+ {
+  "n": "Átalakító és generátor könyvtár",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/converter-library/",
+  "s": "Loona Dev Tools",
+  "d": "126 új átalakító és generátor: kódolások, adatformátumok (JSON, YAML, XML, TOML, CSV), hashek, színek, archívumok, kódgenerátorok és referenciák.",
+  "k": "converter generator library converter library 126 uj atalakito es generator kodolasok adatformatumok json yaml xml toml csv hashek szinek archivumok kodgeneratorok es referenciak",
+  "p": 100,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON formázó",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/json-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "JSON validálása, szép nyomtatása és tömörítése, bármilyen hiba pontos pozíciójával.",
+  "k": "json formatter json formatter json validalasa szep nyomtatasa es tomoritese barmilyen hiba pontos poziciojaval",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Base64 kódoló és dekódoló",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/base64-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Kódoljon szöveget és fájlokat Base64-re, vagy dekódolja vissza - UTF-8 biztonságos, URL-biztonságos opcióval együtt.",
+  "k": "base64 encoder decoder base64 encoder kodoljon szoveget es fajlokat base64 re vagy dekodolja vissza utf 8 biztonsagos url biztonsagos opcioval egyutt",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "URL kódoló és dekódoló",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/url-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Százalékosan kódoljon szöveget és URL-eket biztonságosan, karakterenkénti lebontási táblázattal.",
+  "k": "url encoder decoder url encoder szazalekosan kodoljon szoveget es url eket biztonsagosan karakterenkenti lebontasi tablazattal",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "UUID generátor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/uuid-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Generáljon véletlen 4-es verziójú UUID-ket - egyenként vagy tömegesen akár 100 darabig.",
+  "k": "uuid generator uuid generator generaljon veletlen 4 es verzioju uuid ket egyenkent vagy tomegesen akar 100 darabig",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Hash generátor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/hash-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Bármilyen szöveg SHA-1, SHA-256, SHA-384 és SHA-512 kivonatai, a böngészőjében számítva.",
+  "k": "hash generator hash generator barmilyen szoveg sha 1 sha 256 sha 384 es sha 512 kivonatai a bongeszojeben szamitva",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "JWT dekódoló",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/jwt-decoder/",
+  "s": "Loona Dev Tools",
+  "d": "Dekódoljon egy JSON Web Token fejlécet és hasznos terhet, és olvassa el a lejáratát közérthető szavakkal.",
+  "k": "jwt decoder jwt decoder dekodoljon egy json web token fejlecet es hasznos terhet es olvassa el a lejaratat kozertheto szavakkal",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Időbélyeg-átalakító",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/timestamp-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Alakítson Unix időbélyegeket emberi dátumokká és vissza - UTC, az Ön helyi ideje és relatív idő.",
+  "k": "timestamp converter timestamp converter alakitson unix idobelyegeket emberi datumokka es vissza utc az on helyi ideje es relativ ido",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML entitás kódoló",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/html-entity-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Escape-eljen szöveget HTML entitásokba (nevesített vagy számozott), és dekódolja az entitásokat vissza szöveggé.",
+  "k": "html entity encoder html entity encoder escape eljen szoveget html entitasokba nevesitett vagy szamozott es dekodolja az entitasokat vissza szovegge",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS tömörítő és szépítő",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/css-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Tömörítse a CSS-t a fájlméret csökkentéséhez, vagy szépítse vissza olvasható, behúzott kóddá.",
+  "k": "css minifier beautifier css minifier tomoritse a css t a fajlmeret csokkentesehez vagy szepitse vissza olvashato behuzott kodda",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "JavaScript tömörítő",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/javascript-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Tömörítsen JavaScriptet konzervatívan - a megjegyzések és a holt térközök eltávolítva, a karakterláncok és regexek épségben tartva.",
+  "k": "javascript minifier javascript minifier tomoritsen javascriptet konzervativan a megjegyzesek es a holt terkozok eltavolitva a karakterlancok es regexek epsegben tartva",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Regex tesztelő",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/regex-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Reguláris kifejezések tesztelése élőben - találatok kiemelve, rögzítési csoportok felsorolva, szám megjelenítve.",
+  "k": "regex tester regex tester regularis kifejezesek tesztelese eloben talalatok kiemelve rogzitesi csoportok felsorolva szam megjelenitve",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Különbség-ellenőrző",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/diff-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Hasonlítson össze két szöveget soronként - a hozzáadott és eltávolított sorok kiemelve, változás-összefoglalóval.",
+  "k": "diff checker diff checker hasonlitson ossze ket szoveget soronkent a hozzaadott es eltavolitott sorok kiemelve valtozas osszefoglaloval",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON-ból CSV-be átalakító",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/json-to-csv-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Egy JSON objektumtömb átalakítása tiszta CSV fájllá - az összes kulcs uniója, megfelelő idézés, egyetlen kattintás.",
+  "k": "json to csv converter json to csv converter egy json objektumtomb atalakitasa tiszta csv fajlla az osszes kulcs unioja megfelelo idezes egyetlen kattintas",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV–JSON átalakító",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/csv-to-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Alakítson CSV-t objektumok JSON tömbjévé - egy valódi elemző, amely kezeli az idézett vesszőket és az escape-elt idézőjeleket.",
+  "k": "csv to json converter csv to json converter alakitson csv t objektumok json tombjeve egy valodi elemzo amely kezeli az idezett vesszoket es az escape elt idezojeleket",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "YAML ⇄ JSON átalakító",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/yaml-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Alakítsa át a gyakori YAML részhalmazt (leképezések, listák, skalárok) JSON-ná és a JSON-t vissza YAML-lá - őszintén körülhatárolva.",
+  "k": "yaml json converter yaml json converter alakitsa at a gyakori yaml reszhalmazt lekepezesek listak skalarok json na es a json t vissza yaml la oszinten korulhatarolva",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "SQL formázó",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/sql-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Formázzon SQL-t nagybetűs kulcsszavakkal és minden fő záradékkal a saját során - olvasható lekérdezések egyetlen kattintással.",
+  "k": "sql formatter sql formatter formazzon sql t nagybetus kulcsszavakkal es minden fo zaradekkal a sajat soran olvashato lekerdezesek egyetlen kattintassal",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Számrendszer-átalakító",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/number-base-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Alakítson bináris, oktális, decimális és hex között teljes nagy egész pontossággal - 2^53 korlát nélkül.",
+  "k": "number base converter number base converter alakitson binaris oktalis decimalis es hex kozott teljes nagy egesz pontossaggal 2 53 korlat nelkul",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Chmod kalkulátor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/chmod-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "Jelölje be az olvasási/írási/végrehajtási négyzeteket a tulajdonos, a csoport és a mások számára - azonnal megkapja az oktális és szimbolikus engedélyt.",
+  "k": "chmod calculator chmod calculator jelolje be az olvasasi irasi vegrehajtasi negyzeteket a tulajdonos a csoport es a masok szamara azonnal megkapja az oktalis es szimbolikus engedelyt",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Jelszóerősség-ellenőrző",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/password-strength-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Tekintsen meg egy jelszóentrópia becslést bitekben, hogy mi gyengíti azt, és mennyi időbe telne egy gyors offline támadásnak.",
+  "k": "password strength checker password strength checker tekintsen meg egy jelszoentropia becslest bitekben hogy mi gyengiti azt es mennyi idobe telne egy gyors offline tamadasnak",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Cron kifejezés generátor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/cron-expression-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Építsen 5 mezős cron kifejezést sima legördülő menükből, és kapjon meg bármilyen cron kifejezést közérthetően elmagyarázva.",
+  "k": "cron expression generator cron expression generator epitsen 5 mezos cron kifejezest sima legordulo menukbol es kapjon meg barmilyen cron kifejezest kozerthetoen elmagyarazva",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "URL elemző és építő",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/url-parser/",
+  "s": "Loona Dev Tools",
+  "d": "Bontson fel egy URL-t protokollra, hostra, portra, útvonalra, lekérdezési paraméterekre és hash-re - majd szerkessze a paramétereket és építse újra.",
+  "k": "url parser builder url parser bontson fel egy url t protokollra hostra portra utvonalra lekerdezesi parameterekre es hash re majd szerkessze a parametereket es epitse ujra",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "ZIP fájlkészítő",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/zip-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Kötegeljen több fájlt egyetlen ZIP archívumba - a böngészőjében építve, semmi sem töltődik fel.",
+  "k": "zip file creator zip file creator kotegeljen tobb fajlt egyetlen zip archivumba a bongeszojeben epitve semmi sem toltodik fel",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Unzip fájlkibontó",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/unzip-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Nyisson meg egy ZIP-et, nézze meg minden fájlt belül a méretével, és bontson ki egy fájlt vagy mindet.",
+  "k": "unzip file extractor unzip file extractor nyisson meg egy zip et nezze meg minden fajlt belul a meretevel es bontson ki egy fajlt vagy mindet",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "RAR fájlkibontó",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/rar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Nyisson meg RAR fájlokat (RAR4 és RAR5) a böngészőjében - nézze meg minden fájlt belül, töltsön le egy fájlt vagy mindent ZIP-ként.",
+  "k": "rar file extractor rar file extractor nyisson meg rar fajlokat rar4 es rar5 a bongeszojeben nezze meg minden fajlt belul toltson le egy fajlt vagy mindent zip kent",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "7Z fájlkibontó",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/7z-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Nyisson meg 7z archívumokat a böngészőjében - tekintse meg a tartalmat, és bontson ki egyetlen fájlt vagy mindent ZIP-ként.",
+  "k": "7z file extractor 7z file extractor nyisson meg 7z archivumokat a bongeszojeben tekintse meg a tartalmat es bontson ki egyetlen fajlt vagy mindent zip kent",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR fájlkibontó",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/tar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Nyisson meg .tar, .tar.bz2 és .tar.xz archívumokat a böngészőjében, és bontsa ki a bennük lévő fájlokat - semmi nem töltődik fel.",
+  "k": "tar file extractor tar file extractor nyisson meg tar tar bz2 es tar xz archivumokat a bongeszojeben es bontsa ki a bennuk levo fajlokat semmi nem toltodik fel",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR.GZ fájlkibontó",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/tar-gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Nyisson meg .tar.gz és .tgz archívumokat a böngészőjében - böngéssze a bennük lévő fájlokat, és bontsa ki, amire szüksége van.",
+  "k": "tar gz file extractor tar gz file extractor nyisson meg tar gz es tgz archivumokat a bongeszojeben bongessze a bennuk levo fajlokat es bontsa ki amire szuksege van",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "GZ fájlkibontó",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Bontson ki egyetlen .gz fájlt a böngészőjében, és töltse le az eredetit - naplók, adatexportok és adatbázis-mentések.",
+  "k": "gz file extractor gz file extractor bontson ki egyetlen gz fajlt a bongeszojeben es toltse le az eredetit naplok adatexportok es adatbazis mentesek",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "ISO fájlkibontó",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/iso-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Nyisson meg ISO lemezképeket a böngészőjében, böngéssze a virtuális lemezen tárolt fájlrendszert, és töltsön le fájlokat.",
+  "k": "iso file extractor iso file extractor nyisson meg iso lemezkepeket a bongeszojeben bongessze a virtualis lemezen tarolt fajlrendszert es toltson le fajlokat",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Archív fájl kibontó",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/archive-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Egy egyetemes archívumnyitó ZIP, RAR, 7Z, TAR, ISO és további formátumokhoz - a formátum automatikusan észlelődik.",
+  "k": "archive file extractor archive file extractor egy egyetemes archivumnyito zip rar 7z tar iso es tovabbi formatumokhoz a formatum automatikusan eszlelodik",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "RAR-ból ZIP-be átalakító",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/rar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Alakítson egy RAR archívumot szabványos ZIP-pé a böngészőjében - a mappaszerkezet megőrizve, semmi sem töltődik fel.",
+  "k": "rar to zip converter rar to zip converter alakitson egy rar archivumot szabvanyos zip pe a bongeszojeben a mappaszerkezet megorizve semmi sem toltodik fel",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "7Z–ZIP átalakító",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/7z-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Alakítson egy 7Z archívumot ZIP-pé, amely bárhol nyílik - 7-Zip nélkül, semmi sem töltődik fel.",
+  "k": "7z to zip converter 7z to zip converter alakitson egy 7z archivumot zip pe amely barhol nyilik 7 zip nelkul semmi sem toltodik fel",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR-ból ZIP-be átalakító",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/tar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Alakítson egy Linuxból vagy Unixból származó TAR archívumot ZIP-pé, amely gyárilag nyílik Windowson, macOS-en és telefonokon.",
+  "k": "tar to zip converter tar to zip converter alakitson egy linuxbol vagy unixbol szarmazo tar archivumot zip pe amely gyarilag nyilik windowson macos en es telefonokon",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR.GZ-ből ZIP-be átalakító",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/tar-gz-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Alakítson .tar.gz vagy .tgz fájlt egyetlen ZIP-pé - a gzip és a tar rétegek egyaránt kibontódnak az eszközén.",
+  "k": "tar gz to zip converter tar gz to zip converter alakitson tar gz vagy tgz fajlt egyetlen zip pe a gzip es a tar retegek egyarant kibontodnak az eszkozen",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "ZIP-ből TAR.GZ-be átalakító",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/zip-to-tar-gz-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Alakítson egy ZIP archívumot .tar.gz tarball-lá - a formátum, amelyet a Linux szerverek, a Docker és az építőeszközök várnak.",
+  "k": "zip to tar gz converter zip to tar gz converter alakitson egy zip archivumot tar gz tarball la a formatum amelyet a linux szerverek a docker es az epitoeszkozok varnak",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR fájlkészítő",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/tar-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Hozzon létre specifikáció szerint helyes .tar archívumot több fájlból a böngészőjében - bármely tar eszközzel nyílik.",
+  "k": "tar file creator tar file creator hozzon letre specifikacio szerint helyes tar archivumot tobb fajlbol a bongeszojeben barmely tar eszkozzel nyilik",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "GZIP tömörítő",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/gzip-compressor/",
+  "s": "Loona Dev Tools",
+  "d": "Tömörítsen bármilyen egyetlen fájlt .gz-be a böngészője beépített gzip motorjával - azonnali előtte/utána méretek.",
+  "k": "gzip compressor gzip compressor tomoritsen barmilyen egyetlen fajlt gz be a bongeszoje beepitett gzip motorjaval azonnali elotte utana meretek",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV megjelenítő és szerkesztő",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/csv-viewer-editor/",
+  "s": "Loona Dev Tools",
+  "d": "Töltsön be egy CSV-t szerkeszthető táblázatrácsba - szerkessze a cellákat, rendezze az oszlopokat, adjon hozzá vagy távolítson el sorokat és oszlopokat, majd töltse le.",
+  "k": "csv viewer editor csv viewer editor toltson be egy csv t szerkesztheto tablazatracsba szerkessze a cellakat rendezze az oszlopokat adjon hozza vagy tavolitson el sorokat es oszlopokat majd toltse le",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV–SQL átalakító",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/csv-to-sql-converter/",
+  "s": "Loona Dev Tools",
+  "d": "CSV átalakítása CREATE TABLE plusz INSERT utasításokká kikövetkeztetett típusokkal, MySQL, PostgreSQL vagy SQLite számára.",
+  "k": "csv to sql converter csv to sql converter csv atalakitasa create table plusz insert utasitasokka kikovetkeztetett tipusokkal mysql postgresql vagy sqlite szamara",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV–XML átalakító",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/csv-to-xml-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Alakítson CSV sorokat jól formált XML-lé konfigurálható gyökér- és sorelemekkel és megfelelő escape-eléssel.",
+  "k": "csv to xml converter csv to xml converter alakitson csv sorokat jol formalt xml le konfiguralhato gyoker es sorelemekkel es megfelelo escape elessel",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV–Markdown táblázat átalakító",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/csv-to-markdown-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Alakítson CSV-t GitHub-kész Markdown táblázattá - numerikus oszlopok jobbra igazítva, függőleges vonalak escape-elve.",
+  "k": "csv to markdown table converter csv to markdown converter alakitson csv t github kesz markdown tablazatta numerikus oszlopok jobbra igazitva fuggoleges vonalak escape elve",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV duplikátumeltávolító és tisztító",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/csv-dedupe-cleaner/",
+  "s": "Loona Dev Tools",
+  "d": "Duplikált CSV sorok eltávolítása teljes sor vagy kulcsoszlopok szerint, szóközök levágása és üres sorok eldobása, számokkal.",
+  "k": "csv dedupe cleaner csv dedupe cleaner duplikalt csv sorok eltavolitasa teljes sor vagy kulcsoszlopok szerint szokozok levagasa es ures sorok eldobasa szamokkal",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV szétválasztó és egyesítő",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/csv-split-merge/",
+  "s": "Loona Dev Tools",
+  "d": "Egy CSV szétválasztása részekre sorszám szerint az ismétlődő fejlécettel, vagy az azonos fejlécet megosztó CSV fájlok egyesítése.",
+  "k": "csv split merge csv split merge egy csv szetvalasztasa reszekre sorszam szerint az ismetlodo fejlecettel vagy az azonos fejlecet megoszto csv fajlok egyesitese",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Metacímke-generátor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/meta-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Generáljon kész HTML meta blokkot - cím, leírás, robots, kanonikus - élő SERP előnézettel.",
+  "k": "meta tag generator meta tag generator generaljon kesz html meta blokkot cim leiras robots kanonikus elo serp elonezettel",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Open Graph és Twitter Card generátor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/open-graph-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Építsen OG és Twitter Card címkéket élő közösségi kártya előnézettel, hogy a megosztott linkek jól nézzenek ki.",
+  "k": "open graph twitter card generator open graph generator epitsen og es twitter card cimkeket elo kozossegi kartya elonezettel hogy a megosztott linkek jol nezzenek ki",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Robots.txt generátor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/robots-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Építsen érvényes robots.txt fájlt előbeállításokból és agentenkénti szabályokból, a kimenet épelméjűség-ellenőrzéseivel.",
+  "k": "robots txt generator robots txt generator epitsen ervenyes robots txt fajlt elobeallitasokbol es agentenkenti szabalyokbol a kimenet epelmejuseg ellenorzeseivel",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "XML webhelytérkép generátor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/xml-sitemap-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Egy URL lista átalakítása érvényes sitemap.xml-lé lastmod, changefreq és priority alapértelmezésekkel.",
+  "k": "xml sitemap generator xml sitemap generator egy url lista atalakitasa ervenyes sitemap xml le lastmod changefreq es priority alapertelmezesekkel",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "UTM linképítő",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/utm-link-builder/",
+  "s": "Loona Dev Tools",
+  "d": "Címkézze fel a kampány URL-eket UTM paraméterekkel - helyes kódolás, meglévő paraméterek megőrizve, helyi előzmények.",
+  "k": "utm link builder utm link builder cimkezze fel a kampany url eket utm parameterekkel helyes kodolas meglevo parameterek megorizve helyi elozmenyek",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "IP alhálózati kalkulátor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/ip-subnet-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "IPv4 CIDR-ből hálózat, broadcast, hálózati maszk, helyettesítő maszk, hoszt tartomány és darabszám, plusz egy alhálózat-felosztási nézet.",
+  "k": "ip subnet calculator ip subnet calculator ipv4 cidr bol halozat broadcast halozati maszk helyettesito maszk hoszt tartomany es darabszam plusz egy alhalozat felosztasi nezet",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON-LD séma generátor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/json-ld-schema-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Generáljon schema.org strukturált adatokat - Article, Product, LocalBusiness, Event, Recipe és még több - érvényes JSON-LD formában.",
+  "k": "json ld schema generator json ld schema generator generaljon schema org strukturalt adatokat article product localbusiness event recipe es meg tobb ervenyes json ld formaban",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Google SERP előnézet",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/google-serp-preview/",
+  "s": "Loona Dev Tools",
+  "d": "Tekintse meg a címét és a leírását Google találatként előnézetben, képpontszélesség-csonkítási figyelmeztetésekkel, asztali és mobil nézetben.",
+  "k": "google serp preview google serp preview tekintse meg a cimet es a leirasat google talalatkent elonezetben keppontszelesseg csonkitasi figyelmeztetesekkel asztali es mobil nezetben",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "Kulcsszósűrűség-ellenőrző",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/keyword-density-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Számolja az egyes szavakat plusz a 2 szavas és 3 szavas kifejezéseket százalékos sűrűséggel és stopszó-szűréssel.",
+  "k": "keyword density checker keyword density checker szamolja az egyes szavakat plusz a 2 szavas es 3 szavas kifejezeseket szazalekos suruseggel es stopszo szuressel",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML táblázatgenerátor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/html-table-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Építsen táblázatokat vizuálisan egy rácsban, és kapjon tiszta szemantikus HTML-t thead, th és caption támogatással.",
+  "k": "html table generator html table generator epitsen tablazatokat vizualisan egy racsban es kapjon tiszta szemantikus html t thead th es caption tamogatassal",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML e-mail aláírás generátor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/email-signature-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Készítsen professzionális e-mail aláírást e-mailbiztos táblázat HTML-ként, amely működik Gmailben és Outlookban.",
+  "k": "html email signature generator email signature generator keszitsen professzionalis e mail alairast e mailbiztos tablazat html kent amely mukodik gmailben es outlookban",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "E-mail ellenőrző",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/email-validator/",
+  "s": "Loona Dev Tools",
+  "d": "Ellenőrizze tömegesen az e-mail címeket szintaktikai hibákra és gyakori domain-elírásokra, mint a gmial.com, javaslatokkal.",
+  "k": "email validator email validator ellenorizze tomegesen az e mail cimeket szintaktikai hibakra es gyakori domain elirasokra mint a gmial com javaslatokkal",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS Clip-Path generátor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/css-clip-path-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Generáljon clip-path CSS-t - sokszög előbeállítások állítható pontokkal, plusz kör, ellipszis és inset alakzatok.",
+  "k": "css clip path generator css clip path generator generaljon clip path css t sokszog elobeallitasok allithato pontokkal plusz kor ellipszis es inset alakzatok",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS dobozárnyék-generátor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/css-box-shadow-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Építsen rétegzett box-shadow CSS-t inset támogatással, szín- és átlátszatlanság-vezérléssel, valamint élő előnézettel.",
+  "k": "css box shadow generator css box shadow generator epitsen retegzett box shadow css t inset tamogatassal szin es atlatszatlansag vezerlessel valamint elo elonezettel",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "XML formázó és érvényesítő",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/xml-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "XML szépítése, tömörítése és ellenőrzése - kiegyensúlyozott címkés jólformáltsági ellenőrzések világos hibaüzenetekkel.",
+  "k": "xml formatter validator xml formatter xml szepitese tomoritese es ellenorzese kiegyensulyozott cimkes jolformaltsagi ellenorzesek vilagos hibauzenetekkel",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "Markdownból HTML-be átalakító",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/markdown-to-html-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Alakítson mindennapi Markdownt tiszta HTML-lé élő megjelenített előnézettel - címsorok, listák, kód és még több.",
+  "k": "markdown to html converter markdown to html converter alakitson mindennapi markdownt tiszta html le elo megjelenitett elonezettel cimsorok listak kod es meg tobb",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV transzponáló",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/csv-transpose/",
+  "s": "Loona Dev Tools",
+  "d": "CSV sorok és oszlopok felcserélése megfelelő elemzővel - a kétszeri transzponálás visszaadja az eredetit.",
+  "k": "csv transpose csv transpose csv sorok es oszlopok felcserelese megfelelo elemzovel a ketszeri transzponalas visszaadja az eredetit",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV összekapcsoló",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/csv-join/",
+  "s": "Loona Dev Tools",
+  "d": "Két CSV egyesítése kulcsoszlop alapján - belső vagy bal oldali illesztés, a duplikált kulcsokat az adatbázis módján kezelve.",
+  "k": "csv join csv join ket csv egyesitese kulcsoszlop alapjan belso vagy bal oldali illesztes a duplikalt kulcsokat az adatbazis modjan kezelve",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV kimutatás / csoportosítás",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/csv-pivot-group-by/",
+  "s": "Loona Dev Tools",
+  "d": "Csoportosítsa a CSV sorokat egy oszlop szerint, egy értékoszlop összegével, darabszámával, átlagával, minimumával vagy maximumával.",
+  "k": "csv pivot group by csv pivot group by csoportositsa a csv sorokat egy oszlop szerint egy ertekoszlop osszegevel darabszamaval atlagaval minimumaval vagy maximumaval",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV különbség / összehasonlítás",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/csv-diff/",
+  "s": "Loona Dev Tools",
+  "d": "Hasonlítson össze két CSV-t kulcsoszlop alapján - hozzáadott, eltávolított és megváltozott sorok a pontos cellákkal.",
+  "k": "csv diff compare csv diff hasonlitson ossze ket csv t kulcsoszlop alapjan hozzaadott eltavolitott es megvaltozott sorok a pontos cellakkal",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV adatkinyerő",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/csv-data-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Húzzon ki e-maileket, telefonszámokat és URL-eket rendezetlen CSV-ből vagy szövegből tiszta, duplikátummentesített listákba.",
+  "k": "csv data extractor csv data extractor huzzon ki e maileket telefonszamokat es url eket rendezetlen csv bol vagy szovegbol tiszta duplikatummentesitett listakba",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV profilozó",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/csv-profiler/",
+  "s": "Loona Dev Tools",
+  "d": "Oszloponkénti típusbecslések, üres számok, egyedi számok, numerikus min/max és legfőbb értékek.",
+  "k": "csv profiler csv profiler oszloponkenti tipusbecslesek ures szamok egyedi szamok numerikus min max es legfobb ertekek",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "Robots.txt tesztelő",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/robots-txt-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Egy URL és user-agent tesztelése a robots.txt szabályaival szemben - ítélet plusz a pontos illeszkedő szabály.",
+  "k": "robots txt tester robots txt tester egy url es user agent tesztelese a robots txt szabalyaival szemben itelet plusz a pontos illeszkedo szabaly",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "SEO olvashatósági ellenőrző",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/readability-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Hat olvashatósági képlet plusz mondatstatisztika webes szövegekhez, az SEO tartalmi munkához keretezve.",
+  "k": "seo readability checker readability checker hat olvashatosagi keplet plusz mondatstatisztika webes szovegekhez az seo tartalmi munkahoz keretezve",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "llms.txt generátor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/llms-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Építse meg a MI-felé néző llms.txt fájlt - összefoglaló idézetblokk plusz válogatott oldal linkek specifikációs formátumban.",
+  "k": "llms txt generator llms txt generator epitse meg a mi fele nezo llms txt fajlt osszefoglalo idezetblokk plusz valogatott oldal linkek specifikacios formatumban",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "Hreflang címkegenerátor",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/hreflang-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Építsen hreflang alternatív linkkészleteket x-default értékkel és BCP 47 / abszolút URL ellenőrzésekkel.",
+  "k": "hreflang tag generator hreflang tag generator epitsen hreflang alternativ linkkeszleteket x default ertekkel es bcp 47 abszolut url ellenorzesekkel",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "Office dokumentum metaadat-megjelenítő",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/office-metadata-viewer/",
+  "s": "Loona Dev Tools",
+  "d": "DOCX, XLSX és PPTX tulajdonságok olvasása - cím, szerző, cég, dátumok - csak megtekintésre, az eszközön.",
+  "k": "office document metadata viewer office metadata viewer docx xlsx es pptx tulajdonsagok olvasasa cim szerzo ceg datumok csak megtekintesre az eszkozon",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "Fájltípus-érzékelő",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/hu/file-type-detector/",
+  "s": "Loona Dev Tools",
+  "d": "Ismerje fel egy fájl valódi típusát a varázsbájtjaiból, és figyelmeztessen, amikor a kiterjesztés nem egyezik.",
+  "k": "file type detector file type detector ismerje fel egy fajl valodi tipusat a varazsbajtjaibol es figyelmeztessen amikor a kiterjesztes nem egyezik",
+  "p": 171,
+  "c": "Tool"
+ }
+]

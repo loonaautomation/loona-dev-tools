@@ -1,0 +1,29 @@
+{
+  "name": "Loona TAR-ból ZIP-be átalakító online ingyen",
+  "short_name": "TAR-ból ZIP-be átalakító online",
+  "description": "Alakítson egy TAR archívumot (.tar) ZIP fájllá közvetlenül a böngészőjében. A TAR fájlok Linux és Unix rendszerekből jönnek; az átalakított ZIP gyárilag nyílik Windowson, macOS-en és telefonokon. Semmi sem töltődik fel.",
+  "id": "/loona-dev-tools/hu/tar-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

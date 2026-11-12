@@ -1,0 +1,29 @@
+{
+  "name": "Loona GZ fájlkibontó online ingyen",
+  "short_name": "GZ fájlkibontó online ingyen",
+  "description": "Bontson ki egyetlen .gz fájlt közvetlenül a böngészőjében, és töltse le az eredeti fájlt - naplók, adatexportok, adatbázis-mentések. Semmi sem töltődik fel; a böngészője gyárilag végzi a munkát.",
+  "id": "/loona-dev-tools/hu/gz-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

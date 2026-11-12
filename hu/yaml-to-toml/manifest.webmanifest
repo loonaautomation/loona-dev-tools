@@ -1,0 +1,29 @@
+{
+  "name": "Loona YAML-ból TOML-ba átalakító",
+  "short_name": "YAML-ból TOML-ba átalakító",
+  "description": "Alakítson YAML-t TOML-lá online (a közös adatmodellen keresztül): táblázatok, skalárok és tömbök a TOML elrendezési szabályaira képezve.",
+  "id": "/loona-dev-tools/hu/yaml-to-toml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

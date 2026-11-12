@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON-ból XML-be átalakító",
+  "short_name": "JSON-ból XML átalakító",
+  "description": "Alakítson JSON-t XML-lé online testreszabható gyökérelemmel: a tömbök ismételt elemekké válnak, az @kulcsok attribútumokká.",
+  "id": "/loona-dev-tools/hu/json-to-xml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

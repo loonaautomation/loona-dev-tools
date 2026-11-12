@@ -1,0 +1,29 @@
+{
+  "name": "Loona Cookie fejléc elemző",
+  "short_name": "Cookie fejléc elemző",
+  "description": "Egy Cookie fejléc elemzése olvasható listává: név = érték párok, százalékosan dekódolt értékek megjelenítve, sütik száma.",
+  "id": "/loona-dev-tools/hu/cookie-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

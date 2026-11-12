@@ -1,0 +1,29 @@
+{
+  "name": "Loona TAR.GZ-ből TAR-ba átalakító",
+  "short_name": "TAR.GZ-ből TAR-ba átalakító",
+  "description": "A gzip réteg eltávolítása egy .tar.gz / .tgz archívumról a sima TAR megszerzéséhez, online és helyben — nincs szükség kibontó eszközökre.",
+  "id": "/loona-dev-tools/hu/tar-gz-to-tar-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML entitások kódolója",
+  "short_name": "HTML entitás kódoló",
+  "description": "Kódolja a speciális karaktereket HTML entitásokként: nevesített (&copy;), decimális vagy hexadecimális numerikus hivatkozások. Escape-eli a jelölést, az idézőjeleket és a nem ASCII szöveget.",
+  "id": "/loona-dev-tools/hu/html-entities-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

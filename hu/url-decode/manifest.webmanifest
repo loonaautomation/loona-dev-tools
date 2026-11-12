@@ -1,0 +1,29 @@
+{
+  "name": "Loona URL dekódolás (százalékos dekódolás)",
+  "short_name": "URL dekódolás (százalékos dekódolás)",
+  "description": "Dekódolja a percent-kódolt URL-eket és lekérdezési karakterláncokat vissza olvasható szöveggé, beleértve az UTF-8 sorozatokat és a +-jelet szóközként. Ingyenes online dekódoló.",
+  "id": "/loona-dev-tools/hu/url-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

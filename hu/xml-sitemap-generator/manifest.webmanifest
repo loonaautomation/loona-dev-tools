@@ -1,0 +1,29 @@
+{
+  "name": "Loona XML oldaltérkép generátor online ingyen",
+  "short_name": "XML webhelytérkép generátor online",
+  "description": "Generáljon érvényes XML webhelytérképet online ingyen URL-ek listájából, alapértelmezett lastmod, changefreq és priority értékekkel, helyes URL- és XML-escape-eléssel. Regisztráció nélkül, a böngészőjében fut.",
+  "id": "/loona-dev-tools/hu/xml-sitemap-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

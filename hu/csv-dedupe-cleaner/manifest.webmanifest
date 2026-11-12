@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV duplikátum-eltávolító és -tisztító online ingyen",
+  "short_name": "CSV duplikátumeltávolító és tisztító online",
+  "description": "Duplikált sorok eltávolítása a CSV-ből online ingyen - teljes sor vagy kulcsoszlopok szerint - plusz szóközök levágása, üres sorok eldobása és a sorvégződések normalizálása, előtte/utána számokkal. Nincs regisztráció.",
+  "id": "/loona-dev-tools/hu/csv-dedupe-cleaner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML táblázatgenerátor online ingyen",
+  "short_name": "HTML táblázatgenerátor online",
+  "description": "Generáljon HTML táblázatokat online ingyen - állítsa be a sorokat és oszlopokat, írjon a rácsba, és kapjon tiszta táblázat HTML-t thead, th és caption támogatással, plusz élő előnézettel. Regisztráció nélkül.",
+  "id": "/loona-dev-tools/hu/html-table-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
