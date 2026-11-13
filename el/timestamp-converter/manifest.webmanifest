@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετατροπέας Χρονικής Σήμανσης Unix Διαδικτυακά Δωρεάν",
+  "short_name": "Μετατροπέας Χρονικής Σήμανσης Unix",
+  "description": "Μετατρέψτε χρονικές σημάνσεις Unix (δευτερόλεπτα ή χιλιοστά) σε ανθρώπινες ημερομηνίες σε UTC και στην τοπική σας ώρα, και ημερομηνίες πίσω σε χρονικές σημάνσεις. Ζωντανή τρέχουσα ώρα. Δωρεάν.",
+  "id": "/loona-dev-tools/el/timestamp-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

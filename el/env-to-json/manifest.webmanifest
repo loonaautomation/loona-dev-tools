@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετατροπέας .env σε JSON",
+  "short_name": "Μετατροπέας .env σε JSON",
+  "description": "Αναλύστε ένα αρχείο .env σε JSON: γραμμές KEY=value, προθέματα export, σχόλια και τιμές σε εισαγωγικά χειρίζονται.",
+  "id": "/loona-dev-tools/el/env-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

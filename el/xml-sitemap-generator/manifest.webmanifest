@@ -1,0 +1,29 @@
+{
+  "name": "Loona Γεννήτρια Χάρτη Ιστότοπου XML Διαδικτυακά Δωρεάν",
+  "short_name": "Γεννήτρια Χάρτη Ιστότοπου XML Διαδικτυακά",
+  "description": "Δημιουργήστε έναν έγκυρο χάρτη ιστότοπου XML διαδικτυακά δωρεάν από μια λίστα URL, με προεπιλεγμένα lastmod, changefreq και priority, σωστή διαφυγή URL και XML. Χωρίς εγγραφή, εκτελείται στο πρόγραμμα περιήγησής σας.",
+  "id": "/loona-dev-tools/el/xml-sitemap-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

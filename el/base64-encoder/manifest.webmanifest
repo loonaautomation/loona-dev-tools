@@ -1,0 +1,29 @@
+{
+  "name": "Loona Κωδικοποιητής & Αποκωδικοποιητής Base64 Διαδικτυακά Δωρεάν",
+  "short_name": "Κωδικοποιητής & Αποκωδικοποιητής Base64",
+  "description": "Κωδικοποιήστε κείμενο ή αρχεία σε Base64 και αποκωδικοποιήστε Base64 πίσω, ασφαλές για UTF-8 για οποιαδήποτε γλώσσα και emoji, με επιλογή ασφαλή για URL. Δωρεάν, χωρίς εγγραφή, στο πρόγραμμα περιήγησής σας.",
+  "id": "/loona-dev-tools/el/base64-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

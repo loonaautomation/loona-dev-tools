@@ -1,0 +1,29 @@
+{
+  "name": "Loona Υπολογιστής Αθροίσματος Ελέγχου CRC32",
+  "short_name": "Υπολογιστής Αθροίσματος Ελέγχου CRC32",
+  "description": "Υπολογίστε hash CRC32 κειμένου ή αρχείων διαδικτυακά: 32-bit, 8 δεκαεξαδικοί χαρακτήρες. Εκτελείται τοπικά στο πρόγραμμα περιήγησής σας με WebCrypto/καθαρή JS — τα αρχεία δεν μεταφορτώνονται ποτέ.",
+  "id": "/loona-dev-tools/el/crc32-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

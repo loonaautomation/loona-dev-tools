@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ανιχνευτής Τύπου Αρχείου Διαδικτυακά Δωρεάν",
+  "short_name": "Ανιχνευτής Τύπου Αρχείου Διαδικτυακά Δωρεάν",
+  "description": "Ανιχνεύστε τον πραγματικό τύπο ενός αρχείου διαδικτυακά δωρεάν από την υπογραφή κεφαλίδας μαγικών byte του - PNG, PDF, ZIP, MP4, EXE και 30+ μορφές - και λάβετε προειδοποίηση όταν η επέκταση διαφωνεί. Τίποτα δεν μεταφορτώνεται.",
+  "id": "/loona-dev-tools/el/file-type-detector/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

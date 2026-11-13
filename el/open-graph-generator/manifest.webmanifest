@@ -1,0 +1,29 @@
+{
+  "name": "Loona Γεννήτρια Open Graph & Καρτών Twitter",
+  "short_name": "Open Graph & Κάρτα Twitter",
+  "description": "Δημιουργήστε ετικέτες meta Open Graph και Καρτών Twitter διαδικτυακά δωρεάν, με ζωντανή προεπισκόπηση κοινωνικής κάρτας - τίτλος, περιγραφή, εικόνα, URL και όνομα ιστότοπου. Χωρίς εγγραφή, εκτελείται στο πρόγραμμα περιήγησής σας.",
+  "id": "/loona-dev-tools/el/open-graph-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

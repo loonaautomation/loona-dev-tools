@@ -1,0 +1,29 @@
+{
+  "name": "Loona Δημιουργός Αρχείων ZIP Διαδικτυακά Δωρεάν",
+  "short_name": "Δημιουργός Αρχείων ZIP Διαδικτυακά Δωρεάν",
+  "description": "Δημιουργήστε ένα αρχείο ZIP από πολλά αρχεία ακριβώς στο πρόγραμμα περιήγησής σας - προσθέστε αρχεία, ονομάστε την αρχειοθήκη και κατεβάστε ένα .zip. Τίποτα δεν μεταφορτώνεται· όλα παραμένουν στη συσκευή σας.",
+  "id": "/loona-dev-tools/el/zip-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

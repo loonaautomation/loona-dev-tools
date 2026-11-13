@@ -1,0 +1,29 @@
+{
+  "name": "Loona Γεννήτρια Υπογραφής Email HTML Διαδικτυακά Δωρεάν",
+  "short_name": "Υπογραφή Email HTML",
+  "description": "Δημιουργήστε μια επαγγελματική υπογραφή email HTML διαδικτυακά δωρεάν - όνομα, τίτλος, εταιρεία, τηλέφωνο, email και ιστότοπος σε ασφαλές για email HTML πίνακα που λειτουργεί σε Gmail και Outlook. Χωρίς εγγραφή.",
+  "id": "/loona-dev-tools/el/email-signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

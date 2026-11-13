@@ -1,0 +1,29 @@
+{
+  "name": "Loona Αναλυτής Συμβολοσειράς User Agent",
+  "short_name": "Αναλυτής Συμβολοσειράς User Agent",
+  "description": "Αναλύστε μια συμβολοσειρά User-Agent προγράμματος περιήγησης σε πρόγραμμα περιήγησης, μηχανή, λειτουργικό σύστημα και τύπο συσκευής με έναν διαφανή αναλυτή βασισμένο σε κανόνες.",
+  "id": "/loona-dev-tools/el/user-agent-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+[
+ {
+  "n": "Βιβλιοθήκη Μετατροπέων & Γεννητριών",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/converter-library/",
+  "s": "Loona Dev Tools",
+  "d": "126 νέοι μετατροπείς και γεννήτριες: κωδικοποιήσεις, μορφές δεδομένων (JSON, YAML, XML, TOML, CSV), hash, χρώματα, αρχειοθήκες, γεννήτριες κώδικα και αναφορές.",
+  "k": "βιβλιοθήκη μετατροπέων & γεννητριών converter & generator library 126 νέοι μετατροπείς και γεννήτριες κωδικοποιήσεις μορφές δεδομένων json yaml xml toml csv hash χρώματα αρχειοθήκες γεννήτριες κώδικα και αναφορές",
+  "p": 100,
+  "c": "Tool"
+ },
+ {
+  "n": "Μορφοποιητής JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/json-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Επικυρώστε, εκτυπώστε ωραία και συμπιέστε JSON, με την ακριβή θέση οποιουδήποτε σφάλματος.",
+  "k": "μορφοποιητής json json formatter επικυρώστε εκτυπώστε ωραία και συμπιέστε json με την ακριβή θέση οποιουδήποτε σφάλματος",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Κωδικοποιητής & Αποκωδικοποιητής Base64",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/base64-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Κωδικοποιήστε κείμενο και αρχεία σε Base64 ή αποκωδικοποιήστε τα πίσω - ασφαλές για UTF-8, περιλαμβάνεται επιλογή ασφαλής για URL.",
+  "k": "κωδικοποιητής & αποκωδικοποιητής base64 base64 encoder & decoder κωδικοποιήστε κείμενο και αρχεία σε base64 ή αποκωδικοποιήστε τα πίσω ασφαλές για utf 8 περιλαμβάνεται επιλογή ασφαλής για url",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Κωδικοποιητής & Αποκωδικοποιητής URL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/url-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Κωδικοποιήστε ποσοστιαία κείμενο και URL με ασφάλεια, με έναν πίνακα ανάλυσης ανά χαρακτήρα.",
+  "k": "κωδικοποιητής & αποκωδικοποιητής url url encoder & decoder κωδικοποιήστε ποσοστιαία κείμενο και url με ασφάλεια με έναν πίνακα ανάλυσης ανά χαρακτήρα",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια UUID",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/uuid-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Δημιουργήστε τυχαία UUID έκδοσης 4 - ένα τη φορά ή μαζικά έως 100.",
+  "k": "γεννήτρια uuid uuid generator δημιουργήστε τυχαία uuid έκδοσης 4 ένα τη φορά ή μαζικά έως 100",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Hash",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/hash-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Συνόψεις SHA-1, SHA-256, SHA-384 και SHA-512 οποιουδήποτε κειμένου, υπολογισμένες στο πρόγραμμα περιήγησής σας.",
+  "k": "γεννήτρια hash hash generator συνόψεις sha 1 sha 256 sha 384 και sha 512 οποιουδήποτε κειμένου υπολογισμένες στο πρόγραμμα περιήγησής σας",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Αποκωδικοποιητής JWT",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/jwt-decoder/",
+  "s": "Loona Dev Tools",
+  "d": "Αποκωδικοποιήστε την κεφαλίδα και το ωφέλιμο φορτίο ενός JSON Web Token και διαβάστε τη λήξη του με απλά λόγια.",
+  "k": "αποκωδικοποιητής jwt jwt decoder αποκωδικοποιήστε την κεφαλίδα και το ωφέλιμο φορτίο ενός json web token και διαβάστε τη λήξη του με απλά λόγια",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Μετατροπέας Χρονικής Σήμανσης",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/timestamp-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Μετατρέψτε χρονικές σημάνσεις Unix σε ανθρώπινες ημερομηνίες και αντίστροφα - UTC, η τοπική σας ώρα και σχετικός χρόνος.",
+  "k": "μετατροπέας χρονικής σήμανσης timestamp converter μετατρέψτε χρονικές σημάνσεις unix σε ανθρώπινες ημερομηνίες και αντίστροφα utc η τοπική σας ώρα και σχετικός χρόνος",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Κωδικοποιητής Οντοτήτων HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/html-entity-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Διαφύγετε κείμενο σε οντότητες HTML (ονομασμένες ή αριθμημένες) και αποκωδικοποιήστε οντότητες πίσω σε κείμενο.",
+  "k": "κωδικοποιητής οντοτήτων html html entity encoder διαφύγετε κείμενο σε οντότητες html ονομασμένες ή αριθμημένες και αποκωδικοποιήστε οντότητες πίσω σε κείμενο",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Συμπιεστής & Μορφοποιητής CSS",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/css-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Συμπιέστε το CSS για να μικρύνετε το μέγεθος αρχείου, ή ωραιοποιήστε το ξανά σε αναγνώσιμο, με εσοχές κώδικα.",
+  "k": "συμπιεστής & μορφοποιητής css css minifier & beautifier συμπιέστε το css για να μικρύνετε το μέγεθος αρχείου ή ωραιοποιήστε το ξανά σε αναγνώσιμο με εσοχές κώδικα",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Συμπιεστής JavaScript",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/javascript-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Συμπιέστε συντηρητικά τη JavaScript - σχόλια και νεκρά κενά αφαιρούνται, συμβολοσειρές και regex μένουν άθικτα.",
+  "k": "συμπιεστής javascript javascript minifier συμπιέστε συντηρητικά τη javascript σχόλια και νεκρά κενά αφαιρούνται συμβολοσειρές και regex μένουν άθικτα",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Ελεγκτής Regex",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/regex-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Δοκιμάστε κανονικές εκφράσεις ζωντανά - αντιστοιχίσεις επισημασμένες, ομάδες σύλληψης παρατεθειμένες, μέτρηση εμφανιζόμενη.",
+  "k": "ελεγκτής regex regex tester δοκιμάστε κανονικές εκφράσεις ζωντανά αντιστοιχίσεις επισημασμένες ομάδες σύλληψης παρατεθειμένες μέτρηση εμφανιζόμενη",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Ελεγκτής Διαφορών",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/diff-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Συγκρίνετε δύο κείμενα γραμμή προς γραμμή - προστιθέμενες και αφαιρεθείσες γραμμές επισημασμένες, με περίληψη αλλαγών.",
+  "k": "ελεγκτής διαφορών diff checker συγκρίνετε δύο κείμενα γραμμή προς γραμμή προστιθέμενες και αφαιρεθείσες γραμμές επισημασμένες με περίληψη αλλαγών",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Μετατροπέας JSON σε CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/json-to-csv-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Μετατρέψτε έναν πίνακα JSON αντικειμένων σε ένα καθαρό αρχείο CSV - ένωση όλων των κλειδιών, σωστά εισαγωγικά, ένα κλικ.",
+  "k": "μετατροπέας json σε csv json to csv converter μετατρέψτε έναν πίνακα json αντικειμένων σε ένα καθαρό αρχείο csv ένωση όλων των κλειδιών σωστά εισαγωγικά ένα κλικ",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Μετατροπέας CSV σε JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/csv-to-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Μετατρέψτε CSV σε πίνακα αντικειμένων JSON - ένας πραγματικός αναλυτής που χειρίζεται κόμματα με εισαγωγικά και διαφευγμένα εισαγωγικά.",
+  "k": "μετατροπέας csv σε json csv to json converter μετατρέψτε csv σε πίνακα αντικειμένων json ένας πραγματικός αναλυτής που χειρίζεται κόμματα με εισαγωγικά και διαφευγμένα εισαγωγικά",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Μετατροπέας YAML ⇄ JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/yaml-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Μετατρέψτε το κοινό υποσύνολο YAML (χάρτες, λίστες, βαθμωτές τιμές) σε JSON και JSON πίσω σε YAML - με ειλικρινώς οριοθετημένο πεδίο.",
+  "k": "μετατροπέας yaml ⇄ json yaml ⇄ json converter μετατρέψτε το κοινό υποσύνολο yaml χάρτες λίστες βαθμωτές τιμές σε json και json πίσω σε yaml με ειλικρινώς οριοθετημένο πεδίο",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Μορφοποιητής SQL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/sql-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Μορφοποιήστε SQL με λέξεις-κλειδιά κεφαλαία και κάθε κύρια πρόταση στη δική της γραμμή - αναγνώσιμα ερωτήματα με ένα κλικ.",
+  "k": "μορφοποιητής sql sql formatter μορφοποιήστε sql με λέξεις κλειδιά κεφαλαία και κάθε κύρια πρόταση στη δική της γραμμή αναγνώσιμα ερωτήματα με ένα κλικ",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Μετατροπέας Βάσης Αριθμών",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/number-base-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Μετατρέψτε ανάμεσα σε δυαδικό, οκταδικό, δεκαδικό και δεκαεξαδικό με πλήρη ακρίβεια μεγάλων ακέραιων - χωρίς όριο 2^53.",
+  "k": "μετατροπέας βάσης αριθμών number base converter μετατρέψτε ανάμεσα σε δυαδικό οκταδικό δεκαδικό και δεκαεξαδικό με πλήρη ακρίβεια μεγάλων ακέραιων χωρίς όριο 2 53",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Υπολογιστής Chmod",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/chmod-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "Επιλέξτε πλαίσια ανάγνωσης/εγγραφής/εκτέλεσης για κάτοχο, ομάδα και άλλους - πάρτε το οκταδικό και το συμβολικό δικαίωμα αμέσως.",
+  "k": "υπολογιστής chmod chmod calculator επιλέξτε πλαίσια ανάγνωσης εγγραφής εκτέλεσης για κάτοχο ομάδα και άλλους πάρτε το οκταδικό και το συμβολικό δικαίωμα αμέσως",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Ελεγκτής Ισχύος Κωδικού Πρόσβασης",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/password-strength-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Δείτε μια εκτίμηση εντροπίας κωδικού πρόσβασης σε bits, τι την αποδυναμώνει, και πόσο θα διαρκούσε μια γρήγορη επίθεση εκτός σύνδεσης.",
+  "k": "ελεγκτής ισχύος κωδικού πρόσβασης password strength checker δείτε μια εκτίμηση εντροπίας κωδικού πρόσβασης σε bits τι την αποδυναμώνει και πόσο θα διαρκούσε μια γρήγορη επίθεση εκτός σύνδεσης",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Εκφράσεων Cron",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/cron-expression-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Δημιουργήστε μια έκφραση cron 5 πεδίων από απλά αναπτυσσόμενα μενού και πάρτε οποιαδήποτε έκφραση cron επεξηγημένη σε απλά ελληνικά.",
+  "k": "γεννήτρια εκφράσεων cron cron expression generator δημιουργήστε μια έκφραση cron 5 πεδίων από απλά αναπτυσσόμενα μενού και πάρτε οποιαδήποτε έκφραση cron επεξηγημένη σε απλά ελληνικά",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Αναλυτής & Δημιουργός URL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/url-parser/",
+  "s": "Loona Dev Tools",
+  "d": "Σπάστε ένα URL σε πρωτόκολλο, κεντρικό υπολογιστή, θύρα, διαδρομή, παραμέτρους ερωτήματος και hash - στη συνέχεια επεξεργαστείτε τις παραμέτρους και ξαναχτίστε το.",
+  "k": "αναλυτής & δημιουργός url url parser & builder σπάστε ένα url σε πρωτόκολλο κεντρικό υπολογιστή θύρα διαδρομή παραμέτρους ερωτήματος και hash στη συνέχεια επεξεργαστείτε τις παραμέτρους και ξαναχτίστε το",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Δημιουργός Αρχείων ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/zip-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Ομαδοποιήστε πολλά αρχεία σε μία αρχειοθήκη ZIP - χτίζεται στο πρόγραμμα περιήγησής σας, τίποτα δεν μεταφορτώνεται.",
+  "k": "δημιουργός αρχείων zip zip file creator ομαδοποιήστε πολλά αρχεία σε μία αρχειοθήκη zip χτίζεται στο πρόγραμμα περιήγησής σας τίποτα δεν μεταφορτώνεται",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Εξαγωγέας Αρχείων Unzip",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/unzip-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Ανοίξτε ένα ZIP, δείτε κάθε αρχείο μέσα με το μέγεθός του και εξαγάγετε ένα αρχείο ή όλα.",
+  "k": "εξαγωγέας αρχείων unzip unzip file extractor ανοίξτε ένα zip δείτε κάθε αρχείο μέσα με το μέγεθός του και εξαγάγετε ένα αρχείο ή όλα",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Εξαγωγέας Αρχείων RAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/rar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Ανοίξτε αρχεία RAR (RAR4 και RAR5) στο πρόγραμμα περιήγησής σας - δείτε κάθε αρχείο μέσα, κατεβάστε ένα αρχείο ή τα πάντα ως ZIP.",
+  "k": "εξαγωγέας αρχείων rar rar file extractor ανοίξτε αρχεία rar rar4 και rar5 στο πρόγραμμα περιήγησής σας δείτε κάθε αρχείο μέσα κατεβάστε ένα αρχείο ή τα πάντα ως zip",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Εξαγωγέας Αρχείων 7Z",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/7z-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Ανοίξτε αρχειοθήκες 7z στο πρόγραμμα περιήγησής σας - δείτε τα περιεχόμενα και εξαγάγετε μεμονωμένα αρχεία ή τα πάντα ως ZIP.",
+  "k": "εξαγωγέας αρχείων 7z 7z file extractor ανοίξτε αρχειοθήκες 7z στο πρόγραμμα περιήγησής σας δείτε τα περιεχόμενα και εξαγάγετε μεμονωμένα αρχεία ή τα πάντα ως zip",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Εξαγωγέας Αρχείων TAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/tar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Ανοίξτε αρχειοθήκες .tar, .tar.bz2 και .tar.xz στο πρόγραμμα περιήγησής σας και εξαγάγετε τα αρχεία μέσα - τίποτα δεν ανεβαίνει.",
+  "k": "εξαγωγέας αρχείων tar tar file extractor ανοίξτε αρχειοθήκες tar tar bz2 και tar xz στο πρόγραμμα περιήγησής σας και εξαγάγετε τα αρχεία μέσα τίποτα δεν ανεβαίνει",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Εξαγωγέας Αρχείων TAR.GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/tar-gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Ανοίξτε αρχειοθήκες .tar.gz και .tgz στο πρόγραμμα περιήγησής σας - περιηγηθείτε στα αρχεία μέσα και εξαγάγετε αυτό που χρειάζεστε.",
+  "k": "εξαγωγέας αρχείων tar.gz tar.gz file extractor ανοίξτε αρχειοθήκες tar gz και tgz στο πρόγραμμα περιήγησής σας περιηγηθείτε στα αρχεία μέσα και εξαγάγετε αυτό που χρειάζεστε",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Εξαγωγέας Αρχείων GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Αποσυμπιέστε ένα μεμονωμένο αρχείο .gz στο πρόγραμμα περιήγησής σας και κατεβάστε το αρχικό - αρχεία καταγραφής, εξαγωγές δεδομένων και αντίγραφα βάσεων δεδομένων.",
+  "k": "εξαγωγέας αρχείων gz gz file extractor αποσυμπιέστε ένα μεμονωμένο αρχείο gz στο πρόγραμμα περιήγησής σας και κατεβάστε το αρχικό αρχεία καταγραφής εξαγωγές δεδομένων και αντίγραφα βάσεων δεδομένων",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Εξαγωγέας Αρχείων ISO",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/iso-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Ανοίξτε εικόνες δίσκου ISO στο πρόγραμμα περιήγησής σας, περιηγηθείτε στο σύστημα αρχείων που αποθηκεύεται στον εικονικό δίσκο και κατεβάστε αρχεία.",
+  "k": "εξαγωγέας αρχείων iso iso file extractor ανοίξτε εικόνες δίσκου iso στο πρόγραμμα περιήγησής σας περιηγηθείτε στο σύστημα αρχείων που αποθηκεύεται στον εικονικό δίσκο και κατεβάστε αρχεία",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Εξαγωγέας Αρχείων Αρχειοθήκης",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/archive-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Ένας καθολικός ανοιχτήρας αρχειοθηκών για ZIP, RAR, 7Z, TAR, ISO και άλλα - η μορφή εντοπίζεται αυτόματα.",
+  "k": "εξαγωγέας αρχείων αρχειοθήκης archive file extractor ένας καθολικός ανοιχτήρας αρχειοθηκών για zip rar 7z tar iso και άλλα η μορφή εντοπίζεται αυτόματα",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Μετατροπέας RAR σε ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/rar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Μετατρέψτε μια αρχειοθήκη RAR σε ZIP στο πρόγραμμα περιήγησής σας - η δομή φακέλων διατηρείται, τίποτα δεν μεταφορτώνεται.",
+  "k": "μετατροπέας rar σε zip rar to zip converter μετατρέψτε μια αρχειοθήκη rar σε zip στο πρόγραμμα περιήγησής σας η δομή φακέλων διατηρείται τίποτα δεν μεταφορτώνεται",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Μετατροπέας 7Z σε ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/7z-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Μετατρέψτε μια αρχειοθήκη 7Z σε ZIP που ανοίγει παντού - χωρίς 7-Zip, τίποτα δεν μεταφορτώνεται.",
+  "k": "μετατροπέας 7z σε zip 7z to zip converter μετατρέψτε μια αρχειοθήκη 7z σε zip που ανοίγει παντού χωρίς 7 zip τίποτα δεν μεταφορτώνεται",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Μετατροπέας TAR σε ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/tar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Μετατρέψτε μια αρχειοθήκη TAR από Linux ή Unix σε ZIP που ανοίγει εγγενώς σε Windows, macOS και τηλέφωνα.",
+  "k": "μετατροπέας tar σε zip tar to zip converter μετατρέψτε μια αρχειοθήκη tar από linux ή unix σε zip που ανοίγει εγγενώς σε windows macos και τηλέφωνα",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Μετατροπέας TAR.GZ σε ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/tar-gz-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Μετατρέψτε .tar.gz ή .tgz σε ένα ZIP - και το στρώμα gzip και το στρώμα tar ξετυλίγονται στη συσκευή σας.",
+  "k": "μετατροπέας tar.gz σε zip tar.gz to zip converter μετατρέψτε tar gz ή tgz σε ένα zip και το στρώμα gzip και το στρώμα tar ξετυλίγονται στη συσκευή σας",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Μετατροπέας ZIP σε TAR.GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/zip-to-tar-gz-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Μετατρέψτε μια αρχειοθήκη ZIP σε tarball .tar.gz - τη μορφή που περιμένουν οι διακομιστές Linux, το Docker και τα εργαλεία κατασκευής.",
+  "k": "μετατροπέας zip σε tar.gz zip to tar.gz converter μετατρέψτε μια αρχειοθήκη zip σε tarball tar gz τη μορφή που περιμένουν οι διακομιστές linux το docker και τα εργαλεία κατασκευής",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Δημιουργός Αρχείων TAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/tar-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Δημιουργήστε μια αρχειοθήκη .tar σωστή κατά τις προδιαγραφές από πολλά αρχεία στο πρόγραμμα περιήγησής σας - ανοίγει με οποιοδήποτε εργαλείο tar.",
+  "k": "δημιουργός αρχείων tar tar file creator δημιουργήστε μια αρχειοθήκη tar σωστή κατά τις προδιαγραφές από πολλά αρχεία στο πρόγραμμα περιήγησής σας ανοίγει με οποιοδήποτε εργαλείο tar",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Συμπιεστής GZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/gzip-compressor/",
+  "s": "Loona Dev Tools",
+  "d": "Συμπιέστε οποιοδήποτε μεμονωμένο αρχείο σε .gz με την ενσωματωμένη μηχανή gzip του προγράμματος περιήγησής σας - στιγμιαία μεγέθη πριν/μετά.",
+  "k": "συμπιεστής gzip gzip compressor συμπιέστε οποιοδήποτε μεμονωμένο αρχείο σε gz με την ενσωματωμένη μηχανή gzip του προγράμματος περιήγησής σας στιγμιαία μεγέθη πριν μετά",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Προβολή & Επεξεργασία CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/csv-viewer-editor/",
+  "s": "Loona Dev Tools",
+  "d": "Φορτώστε CSV σε ένα επεξεργάσιμο πλέγμα πίνακα - επεξεργαστείτε κελιά, ταξινομήστε στήλες, προσθέστε ή αφαιρέστε γραμμές και στήλες και στη συνέχεια κατεβάστε.",
+  "k": "προβολή & επεξεργασία csv csv viewer & editor φορτώστε csv σε ένα επεξεργάσιμο πλέγμα πίνακα επεξεργαστείτε κελιά ταξινομήστε στήλες προσθέστε ή αφαιρέστε γραμμές και στήλες και στη συνέχεια κατεβάστε",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Μετατροπέας CSV σε SQL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/csv-to-sql-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Μετατρέψτε CSV σε δηλώσεις CREATE TABLE συν INSERT με συμπερασμένους τύπους, για MySQL, PostgreSQL ή SQLite.",
+  "k": "μετατροπέας csv σε sql csv to sql converter μετατρέψτε csv σε δηλώσεις create table συν insert με συμπερασμένους τύπους για mysql postgresql ή sqlite",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Μετατροπέας CSV σε XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/csv-to-xml-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Μετατρέψτε γραμμές CSV σε καλώς μορφοποιημένο XML με ρυθμιζόμενα στοιχεία ρίζας και γραμμής και σωστή διαφυγή.",
+  "k": "μετατροπέας csv σε xml csv to xml converter μετατρέψτε γραμμές csv σε καλώς μορφοποιημένο xml με ρυθμιζόμενα στοιχεία ρίζας και γραμμής και σωστή διαφυγή",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Μετατροπέας CSV σε Πίνακα Markdown",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/csv-to-markdown-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Μετατρέψτε CSV σε πίνακα Markdown έτοιμο για GitHub - αριθμητικές στήλες με δεξιά στοίχιση, κάθετοι χαρακτήρες διαφευγμένοι.",
+  "k": "μετατροπέας csv σε πίνακα markdown csv to markdown table converter μετατρέψτε csv σε πίνακα markdown έτοιμο για github αριθμητικές στήλες με δεξιά στοίχιση κάθετοι χαρακτήρες διαφευγμένοι",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Αφαίρεση Διπλοτύπων & Καθαρισμός CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/csv-dedupe-cleaner/",
+  "s": "Loona Dev Tools",
+  "d": "Αφαιρέστε διπλότυπες γραμμές CSV ανά ολόκληρη γραμμή ή στήλες κλειδιά, κόψτε τα κενά και απορρίψτε κενές γραμμές, με μετρήσεις.",
+  "k": "αφαίρεση διπλοτύπων & καθαρισμός csv csv dedupe & cleaner αφαιρέστε διπλότυπες γραμμές csv ανά ολόκληρη γραμμή ή στήλες κλειδιά κόψτε τα κενά και απορρίψτε κενές γραμμές με μετρήσεις",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Διαχωρισμός & Συγχώνευση CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/csv-split-merge/",
+  "s": "Loona Dev Tools",
+  "d": "Χωρίστε ένα CSV σε μέρη ανά μέτρηση γραμμών με την κεφαλίδα επαναλαμβανόμενη, ή συγχωνεύστε αρχεία CSV που μοιράζονται μια κεφαλίδα.",
+  "k": "διαχωρισμός & συγχώνευση csv csv split & merge χωρίστε ένα csv σε μέρη ανά μέτρηση γραμμών με την κεφαλίδα επαναλαμβανόμενη ή συγχωνεύστε αρχεία csv που μοιράζονται μια κεφαλίδα",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Ετικετών Meta",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/meta-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Δημιουργήστε ένα έτοιμο μπλοκ meta HTML - τίτλος, περιγραφή, robots, κανονικό - με ζωντανή προεπισκόπηση SERP.",
+  "k": "γεννήτρια ετικετών meta meta tag generator δημιουργήστε ένα έτοιμο μπλοκ meta html τίτλος περιγραφή robots κανονικό με ζωντανή προεπισκόπηση serp",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Open Graph & Καρτών Twitter",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/open-graph-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Δημιουργήστε ετικέτες OG και Καρτών Twitter με ζωντανή προεπισκόπηση κοινωνικής κάρτας, ώστε οι κοινόχρηστοι σύνδεσμοι να φαίνονται σωστοί.",
+  "k": "γεννήτρια open graph & καρτών twitter open graph & twitter card generator δημιουργήστε ετικέτες og και καρτών twitter με ζωντανή προεπισκόπηση κοινωνικής κάρτας ώστε οι κοινόχρηστοι σύνδεσμοι να φαίνονται σωστοί",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Robots.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/robots-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Δημιουργήστε ένα έγκυρο robots.txt από προεπιλογές και κανόνες ανά πράκτορα, με ελέγχους ορθότητας στην έξοδο.",
+  "k": "γεννήτρια robots.txt robots.txt generator δημιουργήστε ένα έγκυρο robots txt από προεπιλογές και κανόνες ανά πράκτορα με ελέγχους ορθότητας στην έξοδο",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Χάρτη Ιστότοπου XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/xml-sitemap-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Μετατρέψτε μια λίστα URL σε έναν έγκυρο χάρτη ιστότοπου sitemap.xml με προεπιλογές lastmod, changefreq και priority.",
+  "k": "γεννήτρια χάρτη ιστότοπου xml xml sitemap generator μετατρέψτε μια λίστα url σε έναν έγκυρο χάρτη ιστότοπου sitemap xml με προεπιλογές lastmod changefreq και priority",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Δημιουργός Συνδέσμων UTM",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/utm-link-builder/",
+  "s": "Loona Dev Tools",
+  "d": "Προσθέστε ετικέτες σε URL καμπάνιας με παραμέτρους UTM - σωστή κωδικοποίηση, υπάρχουσες παράμετροι διατηρημένες, τοπικό ιστορικό.",
+  "k": "δημιουργός συνδέσμων utm utm link builder προσθέστε ετικέτες σε url καμπάνιας με παραμέτρους utm σωστή κωδικοποίηση υπάρχουσες παράμετροι διατηρημένες τοπικό ιστορικό",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Υπολογιστής Υποδικτύου IP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/ip-subnet-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "IPv4 CIDR σε δίκτυο, εκπομπή, μάσκα δικτύου, wildcard, εύρος κεντρικών υπολογιστών και πλήθος, συν μια προβολή διαχωρισμού υποδικτύου.",
+  "k": "υπολογιστής υποδικτύου ip ip subnet calculator ipv4 cidr σε δίκτυο εκπομπή μάσκα δικτύου wildcard εύρος κεντρικών υπολογιστών και πλήθος συν μια προβολή διαχωρισμού υποδικτύου",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Σχήματος JSON-LD",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/json-ld-schema-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Δημιουργήστε δομημένα δεδομένα schema.org - Article, Product, LocalBusiness, Event, Recipe και άλλα - ως έγκυρο JSON-LD.",
+  "k": "γεννήτρια σχήματος json-ld json-ld schema generator δημιουργήστε δομημένα δεδομένα schema org article product localbusiness event recipe και άλλα ως έγκυρο json ld",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Προεπισκόπηση Google SERP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/google-serp-preview/",
+  "s": "Loona Dev Tools",
+  "d": "Προεπισκοπήστε τον τίτλο και την περιγραφής σας ως αποτέλεσμα Google, με προειδοποιήσεις περικοπής πλάτους σε pixel, επιφάνεια εργασίας και κινητό.",
+  "k": "προεπισκόπηση google serp google serp preview προεπισκοπήστε τον τίτλο και την περιγραφής σας ως αποτέλεσμα google με προειδοποιήσεις περικοπής πλάτους σε pixel επιφάνεια εργασίας και κινητό",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "Ελεγκτής Πυκνότητας Λέξεων-Κλειδιών",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/keyword-density-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Μετρήστε μεμονωμένες λέξεις συν φράσεις 2 και 3 λέξεων με ποσοστιαία πυκνότητα και φιλτράρισμα λέξεων-στάσεων.",
+  "k": "ελεγκτής πυκνότητας λέξεων-κλειδιών keyword density checker μετρήστε μεμονωμένες λέξεις συν φράσεις 2 και 3 λέξεων με ποσοστιαία πυκνότητα και φιλτράρισμα λέξεων στάσεων",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Πινάκων HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/html-table-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Δημιουργήστε πίνακες οπτικά σε ένα πλέγμα και πάρτε καθαρό σημασιολογικό HTML με υποστήριξη thead, th και caption.",
+  "k": "γεννήτρια πινάκων html html table generator δημιουργήστε πίνακες οπτικά σε ένα πλέγμα και πάρτε καθαρό σημασιολογικό html με υποστήριξη thead th και caption",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Υπογραφής Email HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/email-signature-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Δημιουργήστε μια επαγγελματική υπογραφή email ως ασφαλές για email HTML πίνακα που λειτουργεί σε Gmail και Outlook.",
+  "k": "γεννήτρια υπογραφής email html html email signature generator δημιουργήστε μια επαγγελματική υπογραφή email ως ασφαλές για email html πίνακα που λειτουργεί σε gmail και outlook",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "Ελεγκτής Εγκυρότητας Email",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/email-validator/",
+  "s": "Loona Dev Tools",
+  "d": "Ελέγξτε μαζικά διευθύνσεις email για συντακτικά σφάλματα και κοινά τυπογραφικά λάθη τομέων όπως gmial.com, με προτάσεις.",
+  "k": "ελεγκτής εγκυρότητας email email validator ελέγξτε μαζικά διευθύνσεις email για συντακτικά σφάλματα και κοινά τυπογραφικά λάθη τομέων όπως gmial com με προτάσεις",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια CSS Clip-Path",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/css-clip-path-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Δημιουργήστε CSS clip-path - προεπιλογές πολυγώνου με ρυθμιζόμενα σημεία, συν σχήματα κύκλου, έλλειψης και inset.",
+  "k": "γεννήτρια css clip-path css clip-path generator δημιουργήστε css clip path προεπιλογές πολυγώνου με ρυθμιζόμενα σημεία συν σχήματα κύκλου έλλειψης και inset",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια CSS Box Shadow",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/css-box-shadow-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Δημιουργήστε CSS box-shadow με στρώματα, με υποστήριξη inset, έλεγχο χρώματος και αδιαφάνειας και ζωντανή προεπισκόπηση.",
+  "k": "γεννήτρια css box shadow css box shadow generator δημιουργήστε css box shadow με στρώματα με υποστήριξη inset έλεγχο χρώματος και αδιαφάνειας και ζωντανή προεπισκόπηση",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "Μορφοποιητής & Επικυρωτής XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/xml-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Ωραιοποιήστε, συμπιέστε και επικυρώστε XML - έλεγχοι καλής μορφής ισορροπημένων ετικετών με σαφή μηνύματα σφάλματος.",
+  "k": "μορφοποιητής & επικυρωτής xml xml formatter & validator ωραιοποιήστε συμπιέστε και επικυρώστε xml έλεγχοι καλής μορφής ισορροπημένων ετικετών με σαφή μηνύματα σφάλματος",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "Μετατροπέας Markdown σε HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/markdown-to-html-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Μετατρέψτε καθημερινό Markdown σε καθαρό HTML με ζωντανή αποδιδόμενη προεπισκόπηση - επικεφαλίδες, λίστες, κώδικας και άλλα.",
+  "k": "μετατροπέας markdown σε html markdown to html converter μετατρέψτε καθημερινό markdown σε καθαρό html με ζωντανή αποδιδόμενη προεπισκόπηση επικεφαλίδες λίστες κώδικας και άλλα",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "Αντιστροφή CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/csv-transpose/",
+  "s": "Loona Dev Tools",
+  "d": "Ανταλλάξτε γραμμές και στήλες CSV με έναν σωστό αναλυτή - η διπλή αντιστροφή επιστρέφει το αρχικό.",
+  "k": "αντιστροφή csv csv transpose ανταλλάξτε γραμμές και στήλες csv με έναν σωστό αναλυτή η διπλή αντιστροφή επιστρέφει το αρχικό",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "Συνένωση CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/csv-join/",
+  "s": "Loona Dev Tools",
+  "d": "Συγχωνεύστε δύο CSV σε μια στήλη κλειδί - εσωτερική ή αριστερή συνένωση, διπλά κλειδιά χειρισμένα με τον τρόπο των βάσεων δεδομένων.",
+  "k": "συνένωση csv csv join συγχωνεύστε δύο csv σε μια στήλη κλειδί εσωτερική ή αριστερή συνένωση διπλά κλειδιά χειρισμένα με τον τρόπο των βάσεων δεδομένων",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "Συγκεντρωτικός Πίνακας CSV / Ομαδοποίηση",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/csv-pivot-group-by/",
+  "s": "Loona Dev Tools",
+  "d": "Ομαδοποιήστε γραμμές CSV κατά μια στήλη με άθροισμα, πλήθος, μέσο όρο, ελάχιστο ή μέγιστο μιας στήλης τιμών.",
+  "k": "συγκεντρωτικός πίνακας csv / ομαδοποίηση csv pivot / group-by ομαδοποιήστε γραμμές csv κατά μια στήλη με άθροισμα πλήθος μέσο όρο ελάχιστο ή μέγιστο μιας στήλης τιμών",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "Σύγκριση CSV / Diff",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/csv-diff/",
+  "s": "Loona Dev Tools",
+  "d": "Συγκρίνετε δύο CSV με στήλη-κλειδί - προστιθέμενες, αφαιρεθείσες και αλλαγμένες γραμμές με τα ακριβή κελιά.",
+  "k": "σύγκριση csv / diff csv diff / compare συγκρίνετε δύο csv με στήλη κλειδί προστιθέμενες αφαιρεθείσες και αλλαγμένες γραμμές με τα ακριβή κελιά",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "Εξαγωγέας Δεδομένων CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/csv-data-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Τραβήξτε email, αριθμούς τηλεφώνου και URL από ακατάστατο CSV ή κείμενο σε καθαρές, αποδιπλωτυπημένες λίστες.",
+  "k": "εξαγωγέας δεδομένων csv csv data extractor τραβήξτε email αριθμούς τηλεφώνου και url από ακατάστατο csv ή κείμενο σε καθαρές αποδιπλωτυπημένες λίστες",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "Αναλυτής Προφίλ CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/csv-profiler/",
+  "s": "Loona Dev Tools",
+  "d": "Μαντειές τύπου ανά στήλη, μετρήσεις κενών, μοναδικές μετρήσεις, αριθμητικό ελάχιστο/μέγιστο και κορυφαίες τιμές.",
+  "k": "αναλυτής προφίλ csv csv profiler μαντειές τύπου ανά στήλη μετρήσεις κενών μοναδικές μετρήσεις αριθμητικό ελάχιστο μέγιστο και κορυφαίες τιμές",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "Ελεγκτής Robots.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/robots-txt-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Δοκιμάστε ένα URL και έναν user-agent έναντι κανόνων robots.txt - ετυμηγορία συν τον ακριβή κανόνα που ταιριάζει.",
+  "k": "ελεγκτής robots.txt robots.txt tester δοκιμάστε ένα url και έναν user agent έναντι κανόνων robots txt ετυμηγορία συν τον ακριβή κανόνα που ταιριάζει",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "Ελεγκτής Αναγνωσιμότητας SEO",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/readability-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Έξι τύποι αναγνωσιμότητας συν στατιστικά προτάσεων για κείμενο ιστού, πλαισιωμένα για εργασία περιεχομένου SEO.",
+  "k": "ελεγκτής αναγνωσιμότητας seo seo readability checker έξι τύποι αναγνωσιμότητας συν στατιστικά προτάσεων για κείμενο ιστού πλαισιωμένα για εργασία περιεχομένου seo",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια llms.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/llms-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Δημιουργήστε το αρχείο llms.txt που απευθύνεται σε AI - περίληψη σε απόσπασμα μπλοκ συν επιμελημένους συνδέσμους σελίδων σε μορφή προδιαγραφής.",
+  "k": "γεννήτρια llms.txt llms.txt generator δημιουργήστε το αρχείο llms txt που απευθύνεται σε ai περίληψη σε απόσπασμα μπλοκ συν επιμελημένους συνδέσμους σελίδων σε μορφή προδιαγραφής",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "Γεννήτρια Ετικετών Hreflang",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/hreflang-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Δημιουργήστε σύνολα εναλλακτικών συνδέσμων hreflang με ελέγχους x-default και BCP 47 / απόλυτων URL.",
+  "k": "γεννήτρια ετικετών hreflang hreflang tag generator δημιουργήστε σύνολα εναλλακτικών συνδέσμων hreflang με ελέγχους x default και bcp 47 απόλυτων url",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "Πρόγραμμα Προβολής Μεταδεδομένων Εγγράφων Office",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/office-metadata-viewer/",
+  "s": "Loona Dev Tools",
+  "d": "Διαβάστε ιδιότητες DOCX, XLSX και PPTX - τίτλος, συγγραφέας, εταιρεία, ημερομηνίες - μόνο προβολή, στη συσκευή.",
+  "k": "πρόγραμμα προβολής μεταδεδομένων εγγράφων office office document metadata viewer διαβάστε ιδιότητες docx xlsx και pptx τίτλος συγγραφέας εταιρεία ημερομηνίες μόνο προβολή στη συσκευή",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "Ανιχνευτής Τύπου Αρχείου",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/el/file-type-detector/",
+  "s": "Loona Dev Tools",
+  "d": "Ανιχνεύστε τον πραγματικό τύπο ενός αρχείου από τα μαγικά byte του και προειδοποιήστε όταν η επέκταση διαφωνεί.",
+  "k": "ανιχνευτής τύπου αρχείου file type detector ανιχνεύστε τον πραγματικό τύπο ενός αρχείου από τα μαγικά byte του και προειδοποιήστε όταν η επέκταση διαφωνεί",
+  "p": 171,
+  "c": "Tool"
+ }
+]

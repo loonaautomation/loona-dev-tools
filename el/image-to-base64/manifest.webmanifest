@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετατροπέας Εικόνας σε Base64",
+  "short_name": "Μετατροπέας Εικόνας σε Base64",
+  "description": "Μετατρέψτε μια εικόνα (PNG, JPG, GIF, WebP, SVG) σε data URI Base64 διαδικτυακά — το αρχείο διαβάζεται τοπικά, με στατιστικά διαστάσεων και μεγέθους.",
+  "id": "/loona-dev-tools/el/image-to-base64/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

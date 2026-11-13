@@ -1,0 +1,29 @@
+{
+  "name": "Loona Προβολή & Επεξεργασία CSV Διαδικτυακά Δωρεάν",
+  "short_name": "Προβολή & Επεξεργασία CSV Διαδικτυακά",
+  "description": "Προβάλετε και επεξεργαστείτε αρχεία CSV διαδικτυακά δωρεάν σε ένα επεξεργάσιμο πλέγμα πίνακα - επεξεργαστείτε κελιά, ταξινομήστε στήλες, προσθέστε ή αφαιρέστε γραμμές και στήλες, και μετά κατεβάστε το επεξεργασμένο CSV. Χωρίς εγγραφή, τρέχει στο πρόγραμμα περιήγησής σας.",
+  "id": "/loona-dev-tools/el/csv-viewer-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

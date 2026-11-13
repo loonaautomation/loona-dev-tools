@@ -1,0 +1,29 @@
+{
+  "name": "Loona Διαχωρισμός & Συγχώνευση CSV Διαδικτυακά Δωρεάν",
+  "short_name": "Διαχωρισμός & Συγχώνευση CSV Διαδικτυακά Δωρεάν",
+  "description": "Χωρίστε ένα CSV σε μέρη ανά μέτρηση γραμμών ή συγχωνεύστε πολλά αρχεία CSV σε ένα, διαδικτυακά δωρεάν - κεφαλίδες χειρισμένες σωστά, σωστή ανάλυση CSV. Χωρίς εγγραφή, τρέχει 100% στο πρόγραμμα περιήγησής σας.",
+  "id": "/loona-dev-tools/el/csv-split-merge/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Εξαγωγέας Αρχείων 7Z Διαδικτυακά Δωρεάν",
+  "short_name": "Εξαγωγέας Αρχείων 7Z Διαδικτυακά Δωρεάν",
+  "description": "Ανοίξτε αρχειοθήκες 7z κατευθείαν στο πρόγραμμα περιήγησής σας - δείτε κάθε αρχείο μέσα, κατεβάστε μεμονωμένα αρχεία ή τα πάντα ως ZIP. Τίποτα δεν ανεβαίνει· η εξαγωγή συμβαίνει στη συσκευή σας με μια μηχανή WebAssembly.",
+  "id": "/loona-dev-tools/el/7z-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

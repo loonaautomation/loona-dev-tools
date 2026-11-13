@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ελεγκτής Ισχύος Κωδικού Πρόσβασης Διαδικτυακά Δωρεάν",
+  "short_name": "Ελεγκτής Ισχύος Κωδικού Πρόσβασης",
+  "description": "Ελέγξτε την ισχύ κωδικού πρόσβασης διαδικτυακά δωρεάν με διαφανή εκτίμηση εντροπίας, συγκεκριμένη ανατροφοδότηση και εκτίμηση χρόνου παραβίασης. Ο κωδικός πρόσβασης δεν φεύγει ποτέ από το πρόγραμμα περιήγησής σας - τίποτα δεν αποστέλλεται ούτε αποθηκεύεται.",
+  "id": "/loona-dev-tools/el/password-strength-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
