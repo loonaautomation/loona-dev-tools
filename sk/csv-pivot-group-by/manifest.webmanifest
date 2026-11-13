@@ -1,0 +1,29 @@
+{
+  "name": "Kontingenčná tabuľka a zoskupovanie Loona CSV online zadarmo",
+  "short_name": "Kontingenčná tabuľka CSV a zoskupovanie online",
+  "description": "Kontingentujte údaje CSV online zadarmo - zoskupte riadky podľa ľubovoľného stĺpca a vypočítajte súčet, počet, priemer, minimum alebo maximum stĺpca hodnôt. Bez registrácie, beží 100% vo vašom prehliadači.",
+  "id": "/loona-dev-tools/sk/csv-pivot-group-by/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

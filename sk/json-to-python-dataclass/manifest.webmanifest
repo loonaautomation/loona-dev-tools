@@ -1,0 +1,29 @@
+{
+  "name": "Prevodník Loona JSON na Python Dataclass",
+  "short_name": "JSON na Python Dataclass",
+  "description": "Preveďte JSON na dátové triedy Pythonu s typovými anotáciami: vnorené objekty sa stávajú vnorenými dátovými triedami, typy List pre polia.",
+  "id": "/loona-dev-tools/sk/json-to-python-dataclass/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

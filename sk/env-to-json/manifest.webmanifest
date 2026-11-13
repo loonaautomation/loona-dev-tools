@@ -1,0 +1,29 @@
+{
+  "name": "Prevodník Loona .env na JSON",
+  "short_name": ".env to JSON Converter",
+  "description": "Analyzujte súbor .env na JSON: riadky KEY=value, predpony export, komentáre a hodnoty v úvodzovkách spracované.",
+  "id": "/loona-dev-tools/sk/env-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

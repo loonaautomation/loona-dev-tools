@@ -1,0 +1,29 @@
+{
+  "name": "Generátor Loona Open Graph a Twitter Card",
+  "short_name": "Open Graph a Twitter Card",
+  "description": "Generujte meta značky Open Graph a Twitter Card online zadarmo, so živým náhľadom sociálnej karty - názov, popis, obrázok, URL a názov stránky. Bez registrácie, beží vo vašom prehliadači.",
+  "id": "/loona-dev-tools/sk/open-graph-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

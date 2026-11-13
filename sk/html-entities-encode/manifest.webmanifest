@@ -1,0 +1,29 @@
+{
+  "name": "Kodér entít Loona HTML",
+  "short_name": "Kodér entít HTML",
+  "description": "Kódujte špeciálne znaky ako entity HTML: pomenované (&copy;), desiatkové alebo hexadecimálne číselné odkazy. Escapuje značkovanie, úvodzovky a text mimo ASCII.",
+  "id": "/loona-dev-tools/sk/html-entities-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

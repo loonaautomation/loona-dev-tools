@@ -1,0 +1,29 @@
+{
+  "name": "Prevodník Loona JSON na štruktúry Go",
+  "short_name": "Prevodník JSON na štruktúry Go",
+  "description": "Preveďte JSON na definície štruktúr Go so značkami json: rozlíšené int64/float64, omitempty pre kľúče chýbajúce v niektorých položkách poľa.",
+  "id": "/loona-dev-tools/sk/json-to-go-struct/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

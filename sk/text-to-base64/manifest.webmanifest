@@ -1,0 +1,29 @@
+{
+  "name": "Kodér Loona textu na Base64",
+  "short_name": "Kodér textu na Base64",
+  "description": "Kódujte text do Base64 online, bezpečné pre UTF-8 v akomkoľvek jazyku a emoji, s voliteľnou URL-bezpečnou abecedou. Zadarmo, súkromne, vo vašom prehliadači.",
+  "id": "/loona-dev-tools/sk/text-to-base64/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Prevodník Loona TAR.GZ na ZIP online zadarmo",
+  "short_name": "Prevodník TAR.GZ na ZIP",
+  "description": "Preveďte archív TAR.GZ (.tar.gz alebo .tgz) na súbor ZIP priamo vo svojom prehliadači. Obe vrstvy – gzip aj tar – sa rozbalia na vašom zariadení a súbory sa znova zabalia ako jeden ZIP. Nič sa nenahráva.",
+  "id": "/loona-dev-tools/sk/tar-gz-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

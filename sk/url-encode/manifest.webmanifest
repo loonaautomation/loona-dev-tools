@@ -1,0 +1,29 @@
+{
+  "name": "Kódovanie Loona URL (Percentuálne kódovanie)",
+  "short_name": "Kódovanie URL (Percentuálne kódovanie)",
+  "description": "Percentuálne kódujte text alebo celú URL online: medzery sa stanú %20, vyhradené znaky sa escapujú podľa RFC 3986. Režim komponentu alebo celej URL.",
+  "id": "/loona-dev-tools/sk/url-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

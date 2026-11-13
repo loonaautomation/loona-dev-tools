@@ -1,0 +1,650 @@
+[
+ {
+  "n": "Knižnica prevodníkov a generátorov",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/converter-library/",
+  "s": "Loona Dev Tools",
+  "d": "126 nových prevodníkov a generátorov: kódovania, dátové formáty (JSON, YAML, XML, TOML, CSV), hashe, farby, archívy, generátory kódu a referencie.",
+  "k": "converter generator library converter library 126 novych prevodnikov a generatorov kodovania datove formaty json yaml xml toml csv hashe farby archivy generatory kodu a referencie",
+  "p": 100,
+  "c": "Tool"
+ },
+ {
+  "n": "Formátovač JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/json-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Overujte, pekne tlačte a minifikujte JSON, s presnou pozíciou akejkoľvek chyby.",
+  "k": "json formatter json formatter overujte pekne tlacte a minifikujte json s presnou poziciou akejkolvek chyby",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Kodér a dekodér Base64",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/base64-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Kódujte text a súbory do Base64 alebo ich dekódujte späť - bezpečné pre UTF-8, vrátane možnosti URL-bezpečnej abecedy.",
+  "k": "base64 encoder decoder base64 encoder kodujte text a subory do base64 alebo ich dekodujte spat bezpecne pre utf 8 vratane moznosti url bezpecnej abecedy",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Kodér a dekodér URL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/url-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Percentuálne kódujte text a URL bezpečne, s tabuľkou rozpisu po znakoch.",
+  "k": "url encoder decoder url encoder percentualne kodujte text a url bezpecne s tabulkou rozpisu po znakoch",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor UUID",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/uuid-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Generujte náhodné UUID verzie 4 - po jednom alebo hromadne až do 100.",
+  "k": "uuid generator uuid generator generujte nahodne uuid verzie 4 po jednom alebo hromadne az do 100",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor hashov",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/hash-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Digesti SHA-1, SHA-256, SHA-384 a SHA-512 ľubovoľného textu, vypočítané vo vašom prehliadači.",
+  "k": "hash generator hash generator digesti sha 1 sha 256 sha 384 a sha 512 lubovolneho textu vypocitane vo vasom prehliadaci",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Dekodér JWT",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/jwt-decoder/",
+  "s": "Loona Dev Tools",
+  "d": "Dekódujte hlavičku a telo JSON Web Tokenu a prečítajte si jeho vypršanie obyčajnými slovami.",
+  "k": "jwt decoder jwt decoder dekodujte hlavicku a telo json web tokenu a precitajte si jeho vyprsanie obycajnymi slovami",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Prevodník časových značiek",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/timestamp-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Preveďte unixové časové značky na čitateľné dátumy a späť – UTC, váš miestny čas a relatívny čas.",
+  "k": "timestamp converter timestamp converter prevedte unixove casove znacky na citatelne datumy a spat utc vas miestny cas a relativny cas",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Kodér entít HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/html-entity-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Escapujte text do entít HTML (pomenovaných alebo číslovaných) a dekódujte entity späť na text.",
+  "k": "html entity encoder html entity encoder escapujte text do entit html pomenovanych alebo cislovanych a dekodujte entity spat na text",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Minifikátor a skrášľovač CSS",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/css-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Minifikujte CSS, aby ste zmenšili veľkosť súboru, alebo ho skrášlite späť na čitateľný, odsadený kód.",
+  "k": "css minifier beautifier css minifier minifikujte css aby ste zmensili velkost suboru alebo ho skraslite spat na citatelny odsadeny kod",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Minifikátor JavaScriptu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/javascript-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Konzervatívne minifikujte JavaScript – komentáre a mŕtvy medzerník odstránené, reťazce a regulárne výrazy zachované neporušené.",
+  "k": "javascript minifier javascript minifier konzervativne minifikujte javascript komentare a mrtvy medzernik odstranene retazce a regularne vyrazy zachovane neporusene",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Tester regulárnych výrazov",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/regex-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Testujte regulárne výrazy naživo - zhody zvýraznené, zachytávacie skupiny uvedené, počet zobrazený.",
+  "k": "regex tester regex tester testujte regularne vyrazy nazivo zhody zvyraznene zachytavacie skupiny uvedene pocet zobrazeny",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Porovnávač rozdielov",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/diff-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Porovnajte dva texty riadok po riadku – pridané a odstránené riadky zvýraznené, so zhrnutím zmien.",
+  "k": "diff checker diff checker porovnajte dva texty riadok po riadku pridane a odstranene riadky zvyraznene so zhrnutim zmien",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Prevodník JSON na CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/json-to-csv-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Premeňte pole objektov JSON na čistý súbor CSV - zjednotenie všetkých kľúčov, správne úvodzovky, jedno kliknutie.",
+  "k": "json to csv converter json to csv converter premente pole objektov json na cisty subor csv zjednotenie vsetkych klucov spravne uvodzovky jedno kliknutie",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Prevodník CSV na JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/csv-to-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Preveďte CSV na pole objektov JSON – skutočný analyzátor, ktorý zvláda čiarky v úvodzovkách a escapované úvodzovky.",
+  "k": "csv to json converter csv to json converter prevedte csv na pole objektov json skutocny analyzator ktory zvlada ciarky v uvodzovkach a escapovane uvodzovky",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Prevodník YAML ⇄ JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/yaml-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Preveďte bežnú podmnožinu YAML (mapy, zoznamy, skaláry) na JSON a JSON späť na YAML – s úprimne vymedzeným rozsahom.",
+  "k": "yaml json converter yaml json converter prevedte beznu podmnozinu yaml mapy zoznamy skalary na json a json spat na yaml s uprimne vymedzenym rozsahom",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Formátovač SQL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/sql-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Formátujte SQL s kľúčovými slovami veľkými písmenami a každou hlavnou klauzulou na vlastnom riadku - čitateľné dopyty jedným kliknutím.",
+  "k": "sql formatter sql formatter formatujte sql s klucovymi slovami velkymi pismenami a kazdou hlavnou klauzulou na vlastnom riadku citatelne dopyty jednym kliknutim",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Prevodník číselných základov",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/number-base-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Prevádzajte medzi binárnou, osmičkovou, desiatkovou a hexadecimálnou sústavou s plnou presnosťou veľkých celých čísel – bez limitu 2^53.",
+  "k": "number base converter number base converter prevadzajte medzi binarnou osmickovou desiatkovou a hexadecimalnou sustavou s plnou presnostou velkych celych cisel bez limitu 2 53",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulačka Chmod",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/chmod-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "Začiarknite políčka čítanie/zápis/vykonanie pre vlastníka, skupinu a ostatných - získajte osmičkové a symbolické oprávnenie okamžite.",
+  "k": "chmod calculator chmod calculator zaciarknite policka citanie zapis vykonanie pre vlastnika skupinu a ostatnych ziskajte osmickove a symbolicke opravnenie okamzite",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Kontrolór sily hesla",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/password-strength-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Pozrite si odhad entropie hesla v bitoch, čo ho oslabuje a ako dlho by trval rýchly offline útok.",
+  "k": "password strength checker password strength checker pozrite si odhad entropie hesla v bitoch co ho oslabuje a ako dlho by trval rychly offline utok",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor výrazov Cron",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/cron-expression-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Vytvorte 5-poľový výraz cron z jednoduchých rozbaľovacích zoznamov a získajte vysvetlenie akéhokoľvek výrazu cron v jednoduchej angličtine.",
+  "k": "cron expression generator cron expression generator vytvorte 5 polovy vyraz cron z jednoduchych rozbalovacich zoznamov a ziskajte vysvetlenie akehokolvek vyrazu cron v jednoduchej anglictine",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Analyzátor a tvorca URL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/url-parser/",
+  "s": "Loona Dev Tools",
+  "d": "Rozdeľte URL na protokol, hostiteľa, port, cestu, parametre dopytu a hash – potom upravte parametre a znova ju zložte.",
+  "k": "url parser builder url parser rozdelte url na protokol hostitela port cestu parametre dopytu a hash potom upravte parametre a znova ju zlozte",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Tvorca súborov ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/zip-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Spojte viacero súborov do jedného archívu ZIP – vytvoreného vo vašom prehliadači, nič sa nenahráva.",
+  "k": "zip file creator zip file creator spojte viacero suborov do jedneho archivu zip vytvoreneho vo vasom prehliadaci nic sa nenahrava",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Extraktor súborov Unzip",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/unzip-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Otvorte ZIP, pozrite si každý súbor vnútri s jeho veľkosťou a rozbaľte jeden súbor alebo všetky.",
+  "k": "unzip file extractor unzip file extractor otvorte zip pozrite si kazdy subor vnutri s jeho velkostou a rozbalte jeden subor alebo vsetky",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Extraktor súborov RAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/rar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Otvorte súbory RAR (RAR4 a RAR5) vo svojom prehliadači - pozrite si každý súbor vnútri, stiahnite jeden súbor alebo všetko ako ZIP.",
+  "k": "rar file extractor rar file extractor otvorte subory rar rar4 a rar5 vo svojom prehliadaci pozrite si kazdy subor vnutri stiahnite jeden subor alebo vsetko ako zip",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Extraktor súborov 7Z",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/7z-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Otvorte archívy 7z vo svojom prehliadači - pozrite si obsah a rozbaľte jednotlivé súbory alebo všetko ako ZIP.",
+  "k": "7z file extractor 7z file extractor otvorte archivy 7z vo svojom prehliadaci pozrite si obsah a rozbalte jednotlive subory alebo vsetko ako zip",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Extraktor súborov TAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/tar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Otvorte archívy .tar, .tar.bz2 a .tar.xz vo svojom prehliadači a rozbaľte súbory vnútri - nič sa nenahráva.",
+  "k": "tar file extractor tar file extractor otvorte archivy tar tar bz2 a tar xz vo svojom prehliadaci a rozbalte subory vnutri nic sa nenahrava",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Extraktor súborov TAR.GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/tar-gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Otvorte archívy .tar.gz a .tgz vo svojom prehliadači - prehliadajte súbory vnútri a rozbaľte, čo potrebujete.",
+  "k": "tar gz file extractor tar gz file extractor otvorte archivy tar gz a tgz vo svojom prehliadaci prehliadajte subory vnutri a rozbalte co potrebujete",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Extraktor súborov GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Dekomprimujte jeden súbor .gz vo svojom prehliadači a stiahnite si originál - protokoly, exporty údajov a výpisy databáz.",
+  "k": "gz file extractor gz file extractor dekomprimujte jeden subor gz vo svojom prehliadaci a stiahnite si original protokoly exporty udajov a vypisy databaz",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Extraktor súborov ISO",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/iso-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Otvorte obrazy diskov ISO vo svojom prehliadači, prehliadajte súborový systém uložený na virtuálnom disku a sťahujte súbory.",
+  "k": "iso file extractor iso file extractor otvorte obrazy diskov iso vo svojom prehliadaci prehliadajte suborovy system ulozeny na virtualnom disku a stahujte subory",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Extraktor archívnych súborov",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/archive-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Jeden univerzálny otvárač archívov pre ZIP, RAR, 7Z, TAR, ISO a ďalšie - formát sa zistí automaticky.",
+  "k": "archive file extractor archive file extractor jeden univerzalny otvarac archivov pre zip rar 7z tar iso a dalsie format sa zisti automaticky",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Prevodník RAR na ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/rar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Preveďte archív RAR na štandardný ZIP vo svojom prehliadači – štruktúra priečinkov zachovaná, nič sa nenahráva.",
+  "k": "rar to zip converter rar to zip converter prevedte archiv rar na standardny zip vo svojom prehliadaci struktura priecinkov zachovana nic sa nenahrava",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Prevodník 7Z na ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/7z-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Preveďte archív 7Z na ZIP, ktorý sa otvorí kdekoľvek – 7-Zip nie je potrebný, nič sa nenahráva.",
+  "k": "7z to zip converter 7z to zip converter prevedte archiv 7z na zip ktory sa otvori kdekolvek 7 zip nie je potrebny nic sa nenahrava",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Prevodník TAR na ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/tar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Preveďte archív TAR z Linuxu alebo Unixu na ZIP, ktorý sa natívne otvorí vo Windows, macOS a telefónoch.",
+  "k": "tar to zip converter tar to zip converter prevedte archiv tar z linuxu alebo unixu na zip ktory sa nativne otvori vo windows macos a telefonoch",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Prevodník TAR.GZ na ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/tar-gz-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Preveďte .tar.gz alebo .tgz na jeden ZIP – obe vrstvy, gzip aj tar, sa rozbalia na vašom zariadení.",
+  "k": "tar gz to zip converter tar gz to zip converter prevedte tar gz alebo tgz na jeden zip obe vrstvy gzip aj tar sa rozbalia na vasom zariadeni",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Prevodník ZIP na TAR.GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/zip-to-tar-gz-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Preveďte archív ZIP na tarball .tar.gz – formát, ktorý očakávajú linuxové servery, Docker a nástroje na zostavovanie.",
+  "k": "zip to tar gz converter zip to tar gz converter prevedte archiv zip na tarball tar gz format ktory ocakavaju linuxove servery docker a nastroje na zostavovanie",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Tvorca súborov TAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/tar-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Vytvorte archív .tar správny podľa špecifikácie z viacerých súborov vo svojom prehliadači – otvorí sa akýmkoľvek nástrojom tar.",
+  "k": "tar file creator tar file creator vytvorte archiv tar spravny podla specifikacie z viacerych suborov vo svojom prehliadaci otvori sa akymkolvek nastrojom tar",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Kompresor GZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/gzip-compressor/",
+  "s": "Loona Dev Tools",
+  "d": "Komprimujte akýkoľvek jeden súbor do .gz pomocou zabudovaného gzip jadra vášho prehliadača – okamžité veľkosti pred/po.",
+  "k": "gzip compressor gzip compressor komprimujte akykolvek jeden subor do gz pomocou zabudovaneho gzip jadra vasho prehliadaca okamzite velkosti pred po",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Prehliadač a editor CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/csv-viewer-editor/",
+  "s": "Loona Dev Tools",
+  "d": "Načítajte CSV do upraviteľnej tabuľkovej mriežky - upravujte bunky, trieďte stĺpce, pridávajte alebo odstraňujte riadky a stĺpce, potom stiahnite.",
+  "k": "csv viewer editor csv viewer editor nacitajte csv do upravitelnej tabulkovej mriezky upravujte bunky triedte stlpce pridavajte alebo odstranujte riadky a stlpce potom stiahnite",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Prevodník CSV na SQL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/csv-to-sql-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Premeňte CSV na CREATE TABLE plus príkazy INSERT s odvodenými typmi, pre MySQL, PostgreSQL alebo SQLite.",
+  "k": "csv to sql converter csv to sql converter premente csv na create table plus prikazy insert s odvodenymi typmi pre mysql postgresql alebo sqlite",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Prevodník CSV na XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/csv-to-xml-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Preveďte riadky CSV na dobre formované XML s konfigurovateľnými koreňovými a riadkovými prvkami a správnym escapovaním.",
+  "k": "csv to xml converter csv to xml converter prevedte riadky csv na dobre formovane xml s konfigurovatelnymi korenovymi a riadkovymi prvkami a spravnym escapovanim",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Prevodník CSV na tabuľku Markdown",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/csv-to-markdown-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Preveďte CSV na tabuľku Markdown pripravenú pre GitHub – číselné stĺpce zarovnané doprava, zvislé čiary escapované.",
+  "k": "csv to markdown table converter csv to markdown converter prevedte csv na tabulku markdown pripravenu pre github ciselne stlpce zarovnane doprava zvisle ciary escapovane",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Čistenie a odstraňovanie duplicít CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/csv-dedupe-cleaner/",
+  "s": "Loona Dev Tools",
+  "d": "Odstráňte duplicitné riadky CSV podľa celého riadka alebo kľúčových stĺpcov, orežte medzery a zahoďte prázdne riadky, s počtami.",
+  "k": "csv dedupe cleaner csv dedupe cleaner odstrante duplicitne riadky csv podla celeho riadka alebo klucovych stlpcov orezte medzery a zahodte prazdne riadky s poctami",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Rozdelenie a zlúčenie CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/csv-split-merge/",
+  "s": "Loona Dev Tools",
+  "d": "Rozdeľte CSV na časti podľa počtu riadkov s opakovanou hlavičkou alebo zlúčte súbory CSV, ktoré zdieľajú hlavičku.",
+  "k": "csv split merge csv split merge rozdelte csv na casti podla poctu riadkov s opakovanou hlavickou alebo zlucte subory csv ktore zdielaju hlavicku",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor meta značiek",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/meta-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Generujte hotový meta blok HTML - názov, popis, robots, canonical - so živým náhľadom SERP.",
+  "k": "meta tag generator meta tag generator generujte hotovy meta blok html nazov popis robots canonical so zivym nahladom serp",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor Open Graph a Twitter Card",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/open-graph-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Vytvárajte značky OG a kariet Twitter so živým náhľadom sociálnej karty, takže zdieľané odkazy vyzerajú správne.",
+  "k": "open graph twitter card generator open graph generator vytvarajte znacky og a kariet twitter so zivym nahladom socialnej karty takze zdielane odkazy vyzeraju spravne",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor Robots.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/robots-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Vytvorte platný súbor robots.txt z predvolieb a pravidiel pre jednotlivých agentov, s kontrolami správnosti výstupu.",
+  "k": "robots txt generator robots txt generator vytvorte platny subor robots txt z predvolieb a pravidiel pre jednotlivych agentov s kontrolami spravnosti vystupu",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor sitemapy XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/xml-sitemap-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Premeňte zoznam URL na platnú sitemap.xml s predvolenými lastmod, changefreq a prioritou.",
+  "k": "xml sitemap generator xml sitemap generator premente zoznam url na platnu sitemap xml s predvolenymi lastmod changefreq a prioritou",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Tvorca odkazov UTM",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/utm-link-builder/",
+  "s": "Loona Dev Tools",
+  "d": "Označte URL kampane parametrami UTM - správne kódovanie, existujúce parametre zachované, lokálna história.",
+  "k": "utm link builder utm link builder oznacte url kampane parametrami utm spravne kodovanie existujuce parametre zachovane lokalna historia",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Kalkulačka podsietí IP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/ip-subnet-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "IPv4 CIDR na sieť, vysielaciu adresu, sieťovú masku, zástupnú masku, rozsah hostiteľov a počet, plus pohľad na delenie podsietí.",
+  "k": "ip subnet calculator ip subnet calculator ipv4 cidr na siet vysielaciu adresu sietovu masku zastupnu masku rozsah hostitelov a pocet plus pohlad na delenie podsieti",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor schém JSON-LD",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/json-ld-schema-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Generujte štruktúrované údaje schema.org - Article, Product, LocalBusiness, Event, Recipe a ďalšie - ako platné JSON-LD.",
+  "k": "json ld schema generator json ld schema generator generujte strukturovane udaje schema org article product localbusiness event recipe a dalsie ako platne json ld",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Náhľad Google SERP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/google-serp-preview/",
+  "s": "Loona Dev Tools",
+  "d": "Prezrite si svoj názov a popis ako výsledok Google, s varovaniami o skracovaní podľa šírky v pixeloch, pre počítače a mobily.",
+  "k": "google serp preview google serp preview prezrite si svoj nazov a popis ako vysledok google s varovaniami o skracovani podla sirky v pixeloch pre pocitace a mobily",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "Kontrolór hustoty kľúčových slov",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/keyword-density-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Počítajte jednotlivé slová plus 2-slovné a 3-slovné frázy s percentuálnou hustotou a filtrovaním stop-slov.",
+  "k": "keyword density checker keyword density checker pocitajte jednotlive slova plus 2 slovne a 3 slovne frazy s percentualnou hustotou a filtrovanim stop slov",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor tabuliek HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/html-table-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Vytvárajte tabuľky vizuálne v mriežke a získajte čisté sémantické HTML s podporou thead, th a caption.",
+  "k": "html table generator html table generator vytvarajte tabulky vizualne v mriezke a ziskajte ciste semanticke html s podporou thead th a caption",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor e-mailových podpisov HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/email-signature-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Vytvorte profesionálny podpis do e-mailu ako tabuľkové HTML bezpečné pre e-maily, ktoré funguje v Gmaile a Outlooku.",
+  "k": "html email signature generator email signature generator vytvorte profesionalny podpis do e mailu ako tabulkove html bezpecne pre e maily ktore funguje v gmaile a outlooku",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "Validátor e-mailov",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/email-validator/",
+  "s": "Loona Dev Tools",
+  "d": "Hromadne kontrolujte e-mailové adresy na chyby syntaxe a bežné preklepy v doménach ako gmial.com, s návrhmi.",
+  "k": "email validator email validator hromadne kontrolujte e mailove adresy na chyby syntaxe a bezne preklepy v domenach ako gmial com s navrhmi",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor CSS Clip-Path",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/css-clip-path-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Generujte CSS clip-path - predvoľby polygónov s nastaviteľnými bodmi, plus tvary kruh, elipsa a inset.",
+  "k": "css clip path generator css clip path generator generujte css clip path predvolby polygonov s nastavitelnymi bodmi plus tvary kruh elipsa a inset",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor tieňov rámčeka CSS",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/css-box-shadow-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Vytvárajte vrstvené CSS box-shadow s podporou vnútorného tieňa, ovládaním farby a nepriehľadnosti a živým náhľadom.",
+  "k": "css box shadow generator css box shadow generator vytvarajte vrstvene css box shadow s podporou vnutorneho tiena ovladanim farby a nepriehladnosti a zivym nahladom",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "Formátovač a validátor XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/xml-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Skrášľujte, minifikujte a overujte XML – kontroly správnej štruktúry s vyváženými značkami a jasnými chybovými správami.",
+  "k": "xml formatter validator xml formatter skraslujte minifikujte a overujte xml kontroly spravnej struktury s vyvazenymi znackami a jasnymi chybovymi spravami",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "Prevodník Markdown na HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/markdown-to-html-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Preveďte bežný Markdown na čisté HTML so živým vykresleným náhľadom – nadpisy, zoznamy, kód a ďalšie.",
+  "k": "markdown to html converter markdown to html converter prevedte bezny markdown na ciste html so zivym vykreslenym nahladom nadpisy zoznamy kod a dalsie",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "Transpozícia CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/csv-transpose/",
+  "s": "Loona Dev Tools",
+  "d": "Vymeňte riadky a stĺpce CSV so správnym analyzátorom - dvojitá transpozícia vráti originál.",
+  "k": "csv transpose csv transpose vymente riadky a stlpce csv so spravnym analyzatorom dvojita transpozicia vrati original",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "Spájanie CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/csv-join/",
+  "s": "Loona Dev Tools",
+  "d": "Zlúčte dve CSV na kľúčovom stĺpci - vnútorné alebo ľavé spojenie, duplicitné kľúče spracované spôsobom databázy.",
+  "k": "csv join csv join zlucte dve csv na klucovom stlpci vnutorne alebo lave spojenie duplicitne kluce spracovane sposobom databazy",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "Kontingenčná tabuľka CSV / Zoskupovanie",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/csv-pivot-group-by/",
+  "s": "Loona Dev Tools",
+  "d": "Zoskupte riadky CSV podľa stĺpca so súčtom, počtom, priemerom, minimom alebo maximom stĺpca hodnôt.",
+  "k": "csv pivot group by csv pivot group by zoskupte riadky csv podla stlpca so suctom poctom priemerom minimom alebo maximom stlpca hodnot",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "Porovnanie CSV / Diff",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/csv-diff/",
+  "s": "Loona Dev Tools",
+  "d": "Porovnajte dve CSV podľa kľúčového stĺpca – pridané, odstránené a zmenené riadky s presnými bunkami.",
+  "k": "csv diff compare csv diff porovnajte dve csv podla klucoveho stlpca pridane odstranene a zmenene riadky s presnymi bunkami",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "Extraktor údajov CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/csv-data-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Vytiahnite e-maily, telefónne čísla a URL z neusporiadaného CSV alebo textu do čistých zoznamov bez duplicít.",
+  "k": "csv data extractor csv data extractor vytiahnite e maily telefonne cisla a url z neusporiadaneho csv alebo textu do cistych zoznamov bez duplicit",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "Profiler CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/csv-profiler/",
+  "s": "Loona Dev Tools",
+  "d": "Odhadnuté typy podľa stĺpcov, počty prázdnych, počty jedinečných, číselné min/max a najčastejšie hodnoty.",
+  "k": "csv profiler csv profiler odhadnute typy podla stlpcov pocty prazdnych pocty jedinecnych ciselne min max a najcastejsie hodnoty",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "Tester Robots.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/robots-txt-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Testujte URL a user-agenta voči pravidlám robots.txt - verdikt plus presné zodpovedajúce pravidlo.",
+  "k": "robots txt tester robots txt tester testujte url a user agenta voci pravidlam robots txt verdikt plus presne zodpovedajuce pravidlo",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "Kontrolór čitateľnosti SEO",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/readability-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Šesť vzorcov čitateľnosti plus štatistiky viet pre webový text, rámované pre prácu s obsahom SEO.",
+  "k": "seo readability checker readability checker sest vzorcov citatelnosti plus statistiky viet pre webovy text ramovane pre pracu s obsahom seo",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor llms.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/llms-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Vytvorte súbor llms.txt určený pre AI – súhrnný citovaný blok plus vybrané odkazy na stránky vo formáte špecifikácie.",
+  "k": "llms txt generator llms txt generator vytvorte subor llms txt urceny pre ai suhrnny citovany blok plus vybrane odkazy na stranky vo formate specifikacie",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "Generátor značiek Hreflang",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/hreflang-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Vytvárajte sady alternatívnych odkazov hreflang s x-default a kontrolami BCP 47 / absolútnych URL.",
+  "k": "hreflang tag generator hreflang tag generator vytvarajte sady alternativnych odkazov hreflang s x default a kontrolami bcp 47 absolutnych url",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "Prehliadač metadát dokumentov Office",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/office-metadata-viewer/",
+  "s": "Loona Dev Tools",
+  "d": "Čítajte vlastnosti DOCX, XLSX a PPTX - názov, autor, spoločnosť, dátumy - iba na prezeranie, na zariadení.",
+  "k": "office document metadata viewer office metadata viewer citajte vlastnosti docx xlsx a pptx nazov autor spolocnost datumy iba na prezeranie na zariadeni",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "Detektor typu súboru",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/sk/file-type-detector/",
+  "s": "Loona Dev Tools",
+  "d": "Zistite skutočný typ súboru z jeho magických bajtov a varujte, keď sa prípona nezhoduje.",
+  "k": "file type detector file type detector zistite skutocny typ suboru z jeho magickych bajtov a varujte ked sa pripona nezhoduje",
+  "p": 171,
+  "c": "Tool"
+ }
+]

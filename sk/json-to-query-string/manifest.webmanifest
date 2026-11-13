@@ -1,0 +1,29 @@
+{
+  "name": "Prevodník Loona JSON na dopytovací reťazec",
+  "short_name": "Prevodník JSON na dopytovací reťazec",
+  "description": "Vytvorte dopytovací reťazec URL z objektu JSON: vnorené objekty používajú zátvorkovú notáciu, polia opakujú kľúč, všetko je percentuálne kódované.",
+  "id": "/loona-dev-tools/sk/json-to-query-string/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Analyzátor Loona URL online zadarmo",
+  "short_name": "Analyzátor URL online zadarmo",
+  "description": "Analyzujte ľubovoľnú URL online zadarmo na protokol, hostiteľa, port, cestu, parametre dopytu a hash - upravte parametre a prestavajte URL. Bez registrácie, beží 100% vo vašom prehliadači.",
+  "id": "/loona-dev-tools/sk/url-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Prevodník unixových časových značiek Loona online zadarmo",
+  "short_name": "Prevodník unixových časových značiek",
+  "description": "Preveďte unixové časové značky (sekundy alebo milisekundy) na čitateľné dátumy v UTC a vo vašom miestnom čase a dátumy späť na časové značky. Živý aktuálny čas. Zadarmo.",
+  "id": "/loona-dev-tools/sk/timestamp-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

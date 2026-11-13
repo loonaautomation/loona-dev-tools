@@ -1,0 +1,29 @@
+{
+  "name": "Kodér a dekodér Loona ROT13",
+  "short_name": "Kodér a dekodér ROT13",
+  "description": "ROT13 ľubovoľný text: otočte písmená o 13 miest. Kódovanie a dekódovanie sú tá istá operácia. Klasika pre spoilery a hádanky.",
+  "id": "/loona-dev-tools/sk/rot13-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

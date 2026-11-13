@@ -1,0 +1,29 @@
+{
+  "name": "Dekodér Loona Base64 na text",
+  "short_name": "Dekodér Base64 na text",
+  "description": "Dekódujte Base64 späť na čitateľný text online. Zvláda štandardnú aj URL-bezpečnú abecedu, text UTF-8 v akomkoľvek jazyku. Zadarmo a súkromne.",
+  "id": "/loona-dev-tools/sk/base64-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

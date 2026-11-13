@@ -1,0 +1,29 @@
+{
+  "name": "Kodér a dekodér Loona URL online zadarmo",
+  "short_name": "Kodér a dekodér URL online",
+  "description": "Kódujte a dekódujte URL a dopytovací text online zadarmo, s režimami komponentu a celej URL a rozpisom po znakoch. Bez registrácie, vo vašom prehliadači.",
+  "id": "/loona-dev-tools/sk/url-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

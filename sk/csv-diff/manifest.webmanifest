@@ -1,0 +1,29 @@
+{
+  "name": "Porovnanie a diff Loona CSV online zadarmo",
+  "short_name": "Porovnanie CSV a Diff online zadarmo",
+  "description": "Porovnajte dva súbory CSV online zadarmo – riadky spárované podľa kľúčového stĺpca a klasifikované ako pridané, odstránené, zmenené (s presnými bunkami) alebo nezmenené. Bez registrácie, beží vo vašom prehliadači.",
+  "id": "/loona-dev-tools/sk/csv-diff/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

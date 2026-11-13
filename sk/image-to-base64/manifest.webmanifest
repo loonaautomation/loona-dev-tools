@@ -1,0 +1,29 @@
+{
+  "name": "Prevodník Loona obrázka na Base64",
+  "short_name": "Prevodník obrázka na Base64",
+  "description": "Preveďte obrázok (PNG, JPG, GIF, WebP, SVG) na URI údajov Base64 online — súbor prečítaný lokálne, s rozmermi a štatistikami veľkosti.",
+  "id": "/loona-dev-tools/sk/image-to-base64/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

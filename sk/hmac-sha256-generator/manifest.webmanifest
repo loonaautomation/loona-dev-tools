@@ -1,0 +1,29 @@
+{
+  "name": "Generátor Loona HMAC-SHA256",
+  "short_name": "Generátor HMAC-SHA256",
+  "description": "Generujte podpisy HMAC-SHA256 online: zadajte kľúč a správu, získajte hexadecimálny MAC. WebCrypto, úplne lokálne.",
+  "id": "/loona-dev-tools/sk/hmac-sha256-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
