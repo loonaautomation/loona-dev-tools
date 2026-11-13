@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji cha Hashi Bure Mtandaoni",
+  "short_name": "Kizalishaji cha Hashi Bure Mtandaoni",
+  "description": "Zalisha hashi za SHA-1, SHA-256, SHA-384 na SHA-512 za maandishi yoyote mtandaoni bure, zikikokotolewa ndani kwenye kivinjari chako. Bila kujisajili, hakuna kilichopakiwa.",
+  "id": "/loona-dev-tools/sw/hash-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

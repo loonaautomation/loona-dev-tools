@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kifinyaji cha GZIP Bure Mtandaoni",
+  "short_name": "Kifinyaji cha GZIP Bure Mtandaoni",
+  "description": "Bana faili yoyote moja kuwa .gz kwa kutumia injini ya gzip iliyojengwa ndani ya kivinjari chako. Ukubwa wa papo hapo wa kabla/baada, hakuna kilichopakiwa - faili hubanwa kwenye kifaa chako. Hufanya kazi kwa kumbukumbu, CSV, faili za TAR na zaidi.",
+  "id": "/loona-dev-tools/sw/gzip-compressor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

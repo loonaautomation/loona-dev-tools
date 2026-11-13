@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji cha Slug (Kitengeneza Slug cha URL)",
+  "short_name": "Kizalishaji cha Slug (Slug ya URL",
+  "description": "Zalisha slug safi za URL kutoka vichwa: lafudhi zimeondolewa, herufi ndogo, nafasi kuwa vistari (au alama za chini). Kitengeneza slug cha bure.",
+  "id": "/loona-dev-tools/sw/slug-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

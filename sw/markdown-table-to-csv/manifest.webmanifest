@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kibadilishaji cha Jedwali la Markdown kwenda CSV",
+  "short_name": "Jedwali la Markdown kwenda CSV",
+  "description": "Badilisha jedwali la Markdown kuwa CSV: kichwa na safu mlalo vimetolewa, safu mlalo ya mpangilio imeondolewa, seli zimenyoshwa na kunukuliwa vizuri.",
+  "id": "/loona-dev-tools/sw/markdown-table-to-csv/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

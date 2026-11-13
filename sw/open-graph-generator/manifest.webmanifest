@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji cha Open Graph na Twitter Card",
+  "short_name": "Open Graph na Twitter Card",
+  "description": "Zalisha tegi za meta za Open Graph na Twitter Card mtandaoni bure, kwa onyesho la awali la kadi ya kijamii la moja kwa moja - kichwa, maelezo, picha, URL na jina la tovuti. Bila kujisajili, hufanya kazi kwenye kivinjari chako.",
+  "id": "/loona-dev-tools/sw/open-graph-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

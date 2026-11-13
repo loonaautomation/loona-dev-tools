@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kiumbaji cha SQL Bure Mtandaoni",
+  "short_name": "Kiumbaji cha SQL Bure Mtandaoni",
+  "description": "Umbaji wa SQL mtandaoni bure: maneno muhimu kwa herufi kubwa, vifungu vya SELECT, FROM, WHERE na JOIN kwenye mistari yake, mifululizo imehifadhiwa. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.",
+  "id": "/loona-dev-tools/sw/sql-formatter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

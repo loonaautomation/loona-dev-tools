@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kibadilishaji cha JSON kwenda TOML",
+  "short_name": "Kibadilishaji cha JSON kwenda TOML",
+  "description": "Badilisha JSON kuwa TOML mtandaoni: scalar kwanza, vitu vilivyoingiliana kama [majedwali], safu za vitu kama [[majedwali]].",
+  "id": "/loona-dev-tools/sw/json-to-toml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji cha Tegi za Meta Bure Mtandaoni",
+  "short_name": "Kizalishaji cha Tegi za Meta Bure Mtandaoni",
+  "description": "Zalisha tegi za meta za HTML mtandaoni bure - kichwa, maelezo, maneno muhimu, mwandishi, robots na canonical - kwa onyesho la awali la SERP la mtindo wa Google la moja kwa moja na hesabu za herufi. Bila kujisajili.",
+  "id": "/loona-dev-tools/sw/meta-tag-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

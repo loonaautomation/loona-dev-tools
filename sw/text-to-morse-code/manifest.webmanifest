@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mtafsiri wa Maandishi kwenda Msimbo wa Morse",
+  "short_name": "Mtafsiri wa Maandishi kwenda Msimbo wa Morse",
+  "description": "Tafsiri maandishi kwenda msimbo wa Morse (herufi, tarakimu na uakifishaji wa kawaida), maneno yakitenganishwa kwa /. Mtafsiri wa Morse bure.",
+  "id": "/loona-dev-tools/sw/text-to-morse-code/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

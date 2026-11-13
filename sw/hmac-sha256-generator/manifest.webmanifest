@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji cha HMAC-SHA256",
+  "short_name": "Kizalishaji cha HMAC-SHA256",
+  "description": "Zalisha saini za HMAC-SHA256 mtandaoni: weka ufunguo na ujumbe, upate MAC ya hex. WebCrypto, ndani kabisa.",
+  "id": "/loona-dev-tools/sw/hmac-sha256-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

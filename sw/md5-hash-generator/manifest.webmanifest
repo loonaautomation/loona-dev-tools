@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji cha Hashi ya MD5",
+  "short_name": "Kizalishaji cha Hashi ya MD5",
+  "description": "Kokotoa hashi za MD5 za maandishi au faili mtandaoni: biti 128, herufi 32 za heksi. Hufanya kazi ndani ya kivinjari chako kwa WebCrypto/JS taso — faili hazipakiwi kamwe.",
+  "id": "/loona-dev-tools/sw/md5-hash-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

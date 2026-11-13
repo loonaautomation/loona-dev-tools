@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kikaguzi cha Uthabiti wa Nenosiri Bure Mtandaoni",
+  "short_name": "Kikaguzi cha Uthabiti wa Nenosiri",
+  "description": "Kagua uthabiti wa nenosiri mtandaoni bure kwa kadirio la wazi la entropi, mrejesho maalum na kadirio la muda wa kuvunja. Nenosiri haliondoki kamwe kwenye kivinjari chako - hakuna kinachotumwa au kuhifadhiwa.",
+  "id": "/loona-dev-tools/sw/password-strength-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

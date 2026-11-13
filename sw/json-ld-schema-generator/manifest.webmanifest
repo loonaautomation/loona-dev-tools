@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji cha Schema ya JSON-LD Bure Mtandaoni",
+  "short_name": "Kizalishaji cha Schema ya JSON-LD",
+  "description": "Zalisha data ya muundo ya schema.org ya JSON-LD mtandaoni bure - Article, LocalBusiness, Product, Event, Recipe, Person, Organization na WebSite - kama kizuizi cha hati tayari. Bila kujisajili.",
+  "id": "/loona-dev-tools/sw/json-ld-schema-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

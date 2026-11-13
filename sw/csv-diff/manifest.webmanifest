@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV Diff na Kilinganishaji Bure Mtandaoni",
+  "short_name": "CSV Diff na Kulinganisha Bure Mtandaoni",
+  "description": "Linganisha faili mbili za CSV mtandaoni bure - safu mlalo zilizolinganishwa kwa safu wima ya ufunguo na kuainishwa kama zilizoongezwa, kuondolewa, kubadilika (na seli hasa) au hazikubadilika. Bila kujisajili, hufanya kazi kwenye kivinjari chako.",
+  "id": "/loona-dev-tools/sw/csv-diff/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

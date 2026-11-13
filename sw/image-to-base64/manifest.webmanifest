@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kibadilishaji cha Picha kwenda Base64",
+  "short_name": "Kibadilishaji cha Picha kwenda Base64",
+  "description": "Badilisha picha (PNG, JPG, GIF, WebP, SVG) kuwa URI ya data ya Base64 mtandaoni — faili husomwa ndani ya kifaa, na vipimo na takwimu za ukubwa.",
+  "id": "/loona-dev-tools/sw/image-to-base64/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

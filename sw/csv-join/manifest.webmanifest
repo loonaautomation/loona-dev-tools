@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kiunganishaji cha CSV Bure Mtandaoni",
+  "short_name": "Kiunganishaji cha CSV Bure Mtandaoni",
+  "description": "Unganisha faili mbili za CSV mtandaoni bure kwa safu wima ya ufunguo wa pamoja - muunganiko wa ndani au wa kushoto, funguo zilizorudiwa zikishughulikiwa kwa njia ya hifadhidata. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.",
+  "id": "/loona-dev-tools/sw/csv-join/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

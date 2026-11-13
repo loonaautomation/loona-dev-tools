@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kisimbuaji cha Base64 kwenda Maandishi",
+  "short_name": "Kisimbuaji cha Base64 kwenda Maandishi",
+  "description": "Simbua Base64 kurudi kuwa maandishi yanayosomeka mtandaoni. Hushughulikia alfabeti za kawaida na salama-kwa-URL, maandishi ya UTF-8 kwa lugha yoyote. Bure na ya faragha.",
+  "id": "/loona-dev-tools/sw/base64-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji cha llms.txt Bure Mtandaoni",
+  "short_name": "Kizalishaji cha llms.txt Bure Mtandaoni",
+  "description": "Zalisha faili halali ya llms.txt mtandaoni bure - jina la tovuti, blockquote ya muhtasari, maelezo na viungo vilivyochaguliwa vya kurasa katika muundo wa llms.txt uliopendekezwa kwa vitambaji vya AI. Bila kujisajili.",
+  "id": "/loona-dev-tools/sw/llms-txt-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

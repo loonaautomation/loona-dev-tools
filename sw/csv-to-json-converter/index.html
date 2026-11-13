@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="sw">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kibadilishaji cha CSV kwenda JSON Bure Mtandaoni - Badilisha CSV kuwa Safu ya JSON | Zana za Wasanidi Programu za Loona</title>
+<meta name="description" content="Badilisha CSV kuwa safu ya JSON ya vitu mtandaoni bure, na kichanganua sahihi cha CSV kinachoshughulikia sehemu zilizonukuliwa, koma ndani ya nukuu na nukuu zilizotoroshwa. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-dev-tools/sw/csv-to-json-converter/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-dev-tools/csv-to-json-converter/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-dev-tools/es/csv-to-json-converter/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-dev-tools/de/csv-to-json-converter/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-dev-tools/fr/csv-to-json-converter/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-dev-tools/pt/csv-to-json-converter/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-dev-tools/it/csv-to-json-converter/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-dev-tools/nl/csv-to-json-converter/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-dev-tools/ar/csv-to-json-converter/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-dev-tools/ur/csv-to-json-converter/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-dev-tools/tr/csv-to-json-converter/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-dev-tools/ru/csv-to-json-converter/"><link rel="alternate" hreflang="hi" href="https://loonaautomation.github.io/loona-dev-tools/hi/csv-to-json-converter/"><link rel="alternate" hreflang="ja" href="https://loonaautomation.github.io/loona-dev-tools/ja/csv-to-json-converter/"><link rel="alternate" hreflang="ko" href="https://loonaautomation.github.io/loona-dev-tools/ko/csv-to-json-converter/"><link rel="alternate" hreflang="pl" href="https://loonaautomation.github.io/loona-dev-tools/pl/csv-to-json-converter/"><link rel="alternate" hreflang="vi" href="https://loonaautomation.github.io/loona-dev-tools/vi/csv-to-json-converter/"><link rel="alternate" hreflang="id" href="https://loonaautomation.github.io/loona-dev-tools/id/csv-to-json-converter/"><link rel="alternate" hreflang="zh" href="https://loonaautomation.github.io/loona-dev-tools/zh/csv-to-json-converter/"><link rel="alternate" hreflang="bn" href="https://loonaautomation.github.io/loona-dev-tools/bn/csv-to-json-converter/"><link rel="alternate" hreflang="ms" href="https://loonaautomation.github.io/loona-dev-tools/ms/csv-to-json-converter/"><link rel="alternate" hreflang="th" href="https://loonaautomation.github.io/loona-dev-tools/th/csv-to-json-converter/"><link rel="alternate" hreflang="ro" href="https://loonaautomation.github.io/loona-dev-tools/ro/csv-to-json-converter/"><link rel="alternate" hreflang="cs" href="https://loonaautomation.github.io/loona-dev-tools/cs/csv-to-json-converter/"><link rel="alternate" hreflang="sv" href="https://loonaautomation.github.io/loona-dev-tools/sv/csv-to-json-converter/"><link rel="alternate" hreflang="nb" href="https://loonaautomation.github.io/loona-dev-tools/nb/csv-to-json-converter/"><link rel="alternate" hreflang="en-us" href="https://loonaautomation.github.io/loona-dev-tools/en-us/csv-to-json-converter/"><link rel="alternate" hreflang="en-gb" href="https://loonaautomation.github.io/loona-dev-tools/en-gb/csv-to-json-converter/"><link rel="alternate" hreflang="zh-hant" href="https://loonaautomation.github.io/loona-dev-tools/zh-hant/csv-to-json-converter/"><link rel="alternate" hreflang="pt-br" href="https://loonaautomation.github.io/loona-dev-tools/pt-br/csv-to-json-converter/"><link rel="alternate" hreflang="pt-pt" href="https://loonaautomation.github.io/loona-dev-tools/pt-pt/csv-to-json-converter/"><link rel="alternate" hreflang="sw" href="https://loonaautomation.github.io/loona-dev-tools/sw/csv-to-json-converter/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-dev-tools/csv-to-json-converter/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Loona Developer Tools">
+<meta property="og:title" content="Kibadilishaji cha CSV kwenda JSON Bure Mtandaoni - Badilisha CSV kuwa Safu ya JSON | Zana za Wasanidi Programu za Loona">
+<meta property="og:description" content="Badilisha CSV kuwa safu ya JSON ya vitu mtandaoni bure, na kichanganua sahihi cha CSV kinachoshughulikia sehemu zilizonukuliwa, koma ndani ya nukuu na nukuu zilizotoroshwa. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.">
+<meta property="og:url" content="https://loonaautomation.github.io/loona-dev-tools/sw/csv-to-json-converter/"><meta property="og:locale" content="sw_KE">
+<meta property="og:image" content="https://loonaautomation.github.io/loona-dev-tools/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Kibadilishaji cha CSV kwenda JSON Bure Mtandaoni - Badilisha CSV kuwa Safu ya JSON | Zana za Wasanidi Programu za Loona">
+<meta name="twitter:description" content="Badilisha CSV kuwa safu ya JSON ya vitu mtandaoni bure, na kichanganua sahihi cha CSV kinachoshughulikia sehemu zilizonukuliwa, koma ndani ya nukuu na nukuu zilizotoroshwa. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.">
+<meta name="twitter:image" content="https://loonaautomation.github.io/loona-dev-tools/og-image.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
+<link rel="icon" href="../../favicon.ico">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","z599jkwoy9");</script>
+<style>
+:root{--teal:#062e2a;--teal2:#0b3d37;--gold:#c9a227;--gold2:#e3c565;--ink:#12211e;--mut:#5a6d68;--bg:#f6f4ec;--card:#ffffff;--line:#e3ddc9;--radius:16px}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+a{color:#0a5c50;text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{position:sticky;top:0;z-index:50;background:var(--teal);box-shadow:0 2px 14px rgba(0,0,0,.25)}
+.header-in{max-width:1140px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:10px 16px}
+.brand{display:flex;align-items:center;gap:10px;color:#fff;font-weight:700;font-size:1.15rem}
+.brand img{width:40px;height:40px;border-radius:9px}
+.brand span{color:var(--gold2)}
+nav.main{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+nav.main a{color:#dcebe4;padding:7px 11px;border-radius:9px;font-size:.93rem}
+nav.main a:hover{background:var(--teal2);text-decoration:none;color:#fff}
+.wrap{max-width:1140px;margin:0 auto;padding:0 16px}
+.hero{background:linear-gradient(135deg,var(--teal) 0%,#0d4a41 60%,#10604f 100%);color:#fff;padding:52px 0 46px;text-align:center}
+.hero h1{font-size:2.35rem;line-height:1.2;margin-bottom:12px}
+.hero h1 .gold{color:var(--gold2)}
+.hero p{max-width:720px;margin:0 auto 8px;color:#d7e8df;font-size:1.06rem}
+.hero .badges{margin-top:18px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.badge{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);color:#fff;padding:5px 13px;border-radius:999px;font-size:.85rem}
+.crumbs{font-size:.86rem;color:var(--mut);padding:16px 0 4px}
+.crumbs a{color:var(--mut)}
+main.page{padding:8px 0 10px}
+h1.tool{font-size:2rem;line-height:1.25;color:var(--teal);margin:6px 0 8px}
+.inshort{background:#fff8e1;border-left:4px solid var(--gold);padding:12px 16px;border-radius:0 12px 12px 0;margin:12px 0 16px;font-size:1.0rem}
+.lede{color:#33473f;max-width:820px;margin-bottom:18px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:0 4px 18px rgba(6,46,42,.06);margin-bottom:22px}
+.btn{display:inline-block;background:var(--gold);color:#231a00;font-weight:700;border:none;padding:12px 26px;border-radius:11px;font-size:1rem;cursor:pointer;box-shadow:0 3px 10px rgba(201,162,39,.35)}
+.btn:hover{background:var(--gold2)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:#fff;border:1.5px solid var(--teal);color:var(--teal);box-shadow:none;padding:9px 18px;font-size:.93rem}
+.btn.small{padding:7px 13px;font-size:.86rem}
+.row{display:flex;gap:14px;flex-wrap:wrap;margin:14px 0}
+.field{flex:1;min-width:150px}
+.field label{display:block;font-weight:600;font-size:.9rem;margin-bottom:5px;color:var(--teal)}
+.field select,.field input[type=text],.field input[type=number],.field textarea{width:100%;padding:10px 12px;border:1.5px solid #cfc9ae;border-radius:10px;font-size:.97rem;background:#fff;font-family:inherit}
+.field textarea{min-height:150px;resize:vertical}
+textarea.big{min-height:220px;font-size:1rem;line-height:1.65}
+textarea.mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.92rem}
+input[type=range]{width:100%}
+.check{display:flex;align-items:center;gap:8px;font-size:.95rem;margin:6px 0;cursor:pointer}
+.check input{width:17px;height:17px;accent-color:#0b3d37}
+.status{margin-top:14px;font-size:.95rem;min-height:22px}
+.status.ok{color:#0a6b3c}.status.err{color:#b3261e}
+.privacy-note{background:#e9f5ef;border:1px solid #bfe0cd;color:#14532d;border-radius:12px;padding:12px 16px;font-size:.94rem;margin-bottom:22px}
+section.block{margin:30px 0}
+section.block h2{color:var(--teal);font-size:1.45rem;margin-bottom:12px}
+section.block h3{color:var(--teal);margin:14px 0 6px}
+section.block p,section.block li{color:#33473f}
+section.block ol,section.block ul{padding-left:22px}
+section.block li{margin-bottom:6px}
+.strip{display:flex;gap:8px;flex-wrap:wrap}
+.chip{background:#fff;border:1.5px solid var(--gold);color:var(--teal);font-weight:600;padding:8px 15px;border-radius:999px;font-size:.9rem}
+.chip:hover{background:#fff7dd;text-decoration:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;display:block;color:var(--ink);transition:.15s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(6,46,42,.12);text-decoration:none;border-color:var(--gold)}
+.card .ic{font-size:1.9rem;margin-bottom:8px}
+.card h3{color:var(--teal);font-size:1.12rem;margin-bottom:5px}
+.card p{color:var(--mut);font-size:.92rem}
+details.faq{background:#fff;border:1px solid var(--line);border-radius:12px;padding:13px 17px;margin-bottom:10px}
+details.faq summary{cursor:pointer;font-weight:600;color:var(--teal)}
+details.faq p{margin-top:8px;color:#33473f}
+.kv{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:12px}
+.kv div{background:#faf8ef;border:1px solid var(--line);border-radius:10px;padding:9px 12px;font-size:.92rem}
+.kv b{color:var(--teal);display:block;font-size:1.05rem}
+table.freq{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+table.freq th,table.freq td{padding:8px 12px;border-bottom:1px solid var(--line);text-align:left;font-size:.94rem}
+table.freq th{background:#faf8ef;color:var(--teal)}
+.diffout{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9rem;line-height:1.55;max-height:480px;overflow:auto}
+.diffout .add{background:#e2f4e5}
+.diffout .del{background:#fbe3e1}
+.fancyrow{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin-bottom:9px}
+.fancyrow .fv{flex:1;font-size:1.08rem;word-break:break-all}
+footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
+.footer-in{max-width:1140px;margin:0 auto;padding:30px 16px;display:flex;gap:26px;flex-wrap:wrap}
+.footer-in h4{color:var(--gold2);margin-bottom:9px;font-size:1rem}
+.footer-in a{color:#cfe0d6;display:block;margin-bottom:5px;font-size:.93rem}
+.footer-in .col{min-width:170px}
+.copyright{border-top:1px solid #12463e;text-align:center;padding:14px;font-size:.86rem;color:#9db8ab}
+@media(max-width:640px){.hero h1{font-size:1.7rem}h1.tool{font-size:1.55rem}.panel{padding:16px}nav.main a{padding:6px 8px;font-size:.86rem}}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Kibadilishaji cha CSV kwenda JSON - Zana za Wasanidi Programu za Loona","url":"https://loonaautomation.github.io/loona-dev-tools/sw/csv-to-json-converter/","description":"Badilisha CSV kuwa safu ya JSON ya vitu mtandaoni bure, na kichanganua sahihi cha CSV kinachoshughulikia sehemu zilizonukuliwa, koma ndani ya nukuu na nukuu zilizotoroshwa. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.","applicationCategory":"DeveloperApplication","operatingSystem":"Any","browserRequirements":"Inahitaji JavaScript","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Nyumbani","item":"https://loonaautomation.github.io/loona-dev-tools/sw/"},{"@type":"ListItem","position":2,"name":"Zana za Wasanidi Programu","item":"https://loonaautomation.github.io/loona-dev-tools/sw/"},{"@type":"ListItem","position":3,"name":"Kibadilishaji cha CSV kwenda JSON","item":"https://loonaautomation.github.io/loona-dev-tools/sw/csv-to-json-converter/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Je, kibadilishaji hiki cha CSV kwenda JSON ni bure?","acceptedAnswer":{"@type":"Answer","text":"Ndiyo - bure kabisa, bila kujisajili, bila kikomo cha ukubwa na bila kikomo cha kila siku."}},{"@type":"Question","name":"Kwa nini thamani zote hutoka kama mifululizo?","acceptedAnswer":{"@type":"Answer","text":"CSV haina aina - kila seli ni maandishi. Kukisia kwamba \"007\" ni nambari kungeharibu misimbo na vitambulishi, kwa hivyo zana huweka thamani hasa kama zilivyoandikwa na kuacha msimbo wako uamue cha kubadilisha."}},{"@type":"Question","name":"Ikiwa safu wima mbili zinashiriki jina lile lile?","acceptedAnswer":{"@type":"Answer","text":"Rudufu za baadaye hubadilishwa jina kwa kiambishi tamati (name, name_2, name_3) ili kila safu wima idumu katika tokeo badala ya kufunika ya awali."}},{"@type":"Question","name":"Je, inaweza kushughulikia sehemu zilizonukuliwa zenye mapumziko ya mistari?","acceptedAnswer":{"@type":"Answer","text":"Ndiyo. Sehemu iliyonukuliwa inaweza kuwa na koma, nukuu (zilizozidishwa mara mbili) na hata mistari mipya - kichanganua huchukulia kila kitu kati ya nukuu ya kufungua na ya kufunga kama thamani moja."}},{"@type":"Question","name":"Je, data yangu hupakiwa kwenye seva?","acceptedAnswer":{"@type":"Answer","text":"Hapana. Uchanganuzi na ubadilishaji hufanyika 100% kwenye kivinjari chako. Data yako haiondoki kamwe kwenye kifaa chako."}}]}</script>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
+</head>
+<body>
+<header class="site"><div class="header-in">
+<a class="brand" href="../"><img src="../../apple-touch-icon.png" alt="Nembo ya Loona Automation">Loona <span>Zana za Wasanidi Programu</span></a>
+<nav class="main">
+<a href="../">Nyumbani</a>
+<a href="../json-formatter/">Kiumbaji cha JSON</a>
+<a href="../uuid-generator/">Kizalishaji cha UUID</a>
+<a href="../hash-generator/">Kizalishaji cha Hashi</a>
+<a href="../jwt-decoder/">Kisimbuaji cha JWT</a>
+<a href="../about.html">Kuhusu</a>
+</nav></div></header>
+<div class="wrap">
+<div class="crumbs"><a href="../">Nyumbani</a> &rsaquo; <a href="../#tools">Zana za Wasanidi Programu</a> &rsaquo; Kibadilishaji cha CSV kwenda JSON</div>
+<main class="page">
+<h1 class="tool">Kibadilishaji cha CSV kwenda JSON - Data ya Lahajedwali kama Safu Safi ya JSON</h1>
+<div class="inshort"><strong>Kwa ufupi:</strong> Kibadilishaji cha CSV kwenda JSON huchanganua CSV yako kwa kichanganua halisi cha herufi kwa herufi - sehemu zilizonukuliwa, koma ndani ya nukuu na utoroshaji wa nukuu zilizozidishwa mara mbili vyote vimeshughulikiwa - na hugeuza kila safu mlalo kuwa kitu cha JSON kilichofungwa kwa safu mlalo ya kichwa.</div>
+<p class="lede">Kugawanya CSV kwa koma hufanya kazi hadi sehemu ya kwanza ya anwani inapokuwa na moja. Bandika CSV yako hapa chini na upate safu sahihi ya JSON, iliyojengwa na kichanganua kinachofuata kanuni halisi za CSV.</p>
+<div class="panel"><div class="field"><label for="inp">CSV Yako</label><textarea id="inp" class="big mono" placeholder="Bandika CSV hapa, k.m. name,age&#10;Ali,30"></textarea></div>
+<label class="check"><input type="checkbox" id="optHeader" checked> Safu mlalo ya kwanza ni kichwa</label>
+<div class="row"><button class="btn" id="bConv">Badilisha kwenda JSON</button></div>
+<div class="field"><label for="out">Tokeo la JSON</label><textarea id="out" class="big mono" readonly placeholder="JSON huonekana hapa..."></textarea></div>
+<div class="row"><button class="btn ghost" id="bCopy">Nakili tokeo</button><button class="btn ghost" id="bDl">Pakua .json</button><button class="btn ghost" id="bSample">Pakia sampuli</button><button class="btn ghost" id="bClear">Futa</button></div><div class="status" id="st"></div></div>
+<div class="privacy-note"><strong>Faragha kwa muundo:</strong> kila kitu katika zana hii hutokea 100% kwenye kivinjari chako kwa JavaScript. Ingizo lako kamwe halipakiwi kwenye seva, kamwe halihifadhiwi na kamwe hatulioni - funga kichupo na kila kitu kimeondoka.</div>
+<section class="block"><h2>Jinsi ya kutumia Kibadilishaji cha CSV kwenda JSON</h2><ol><li>Bandika CSV yako kwenye kisanduku cha juu.</li><li>Acha "Safu mlalo ya kwanza ni kichwa" ikiwa na tiki ikiwa faili yako ina majina ya safu wima (iondoe tiki kupata funguo za column1, column2... zilizozalishwa).</li><li>Bofya Badilisha kwenda JSON.</li><li>Nakili tokeo au lipakue kama faili ya .json.</li></ol></section>
+<section class="block"><h2>Jinsi inavyofanya kazi</h2><p>Kibadilishaji huendesha mashine sahihi ya hali ya CSV juu ya maandishi yako herufi moja kwa wakati. Hufuatilia kama iko ndani ya sehemu iliyonukuliwa, kwa hivyo koma na hata vivunjo vya mistari ndani ya nukuu hubaki sehemu ya thamani, na nukuu iliyozidishwa mara mbili (<span style="font-family:ui-monospace,monospace">""</span>) ndani ya sehemu iliyonukuliwa huwa alama moja ya kunukuu kwenye matokeo. Miisho ya mistari ya Windows (CRLF) na Unix (LF) yote inakubaliwa, na mistari tupu hurukwa. Chaguo la kichwa likiwashwa, safu ya kwanza hutoa funguo za vitu - majina ya safu wima yaliyorudiwa hufanywa ya kipekee kwa viambishi vya _2, _3 ili hakuna safu wima inayofunika nyingine kimya kimya. Thamani zote hubaki mifululizo, kama CSV inavyozihifadhi; kubadilisha "30" kuwa nambari 30 ni kazi ya msimbo wako, si makisio ambayo zana hii hufanya.</p><h3>Mfano uliofanyiwa kazi</h3><p>Safu mlalo <span style="font-family:ui-monospace,monospace">"Ali, A",30,"said ""hi"""</span> chini ya vichwa name,age,note huwa <span style="font-family:ui-monospace,monospace">{"name":"Ali, A","age":"30","note":"said \"hi\""}</span> - koma iliyo ndani ya jina na nukuu zilizo ndani ya maelezo yote hunusurika.</p></section>
+<section class="block"><h2>Maswali Yanayoulizwa Mara kwa Mara</h2><details class="faq"><summary>Je, kibadilishaji hiki cha CSV kwenda JSON ni bure?</summary><p>Ndiyo - bure kabisa, bila kujisajili, bila kikomo cha ukubwa na bila kikomo cha kila siku.</p></details><details class="faq"><summary>Kwa nini thamani zote hutoka kama mifululizo?</summary><p>CSV haina aina - kila seli ni maandishi. Kukisia kwamba "007" ni nambari kungeharibu misimbo na vitambulishi, kwa hivyo zana huweka thamani hasa kama zilivyoandikwa na kuacha msimbo wako uamue cha kubadilisha.</p></details><details class="faq"><summary>Ikiwa safu wima mbili zinashiriki jina lile lile?</summary><p>Rudufu za baadaye hubadilishwa jina kwa kiambishi tamati (name, name_2, name_3) ili kila safu wima idumu katika tokeo badala ya kufunika ya awali.</p></details><details class="faq"><summary>Je, inaweza kushughulikia sehemu zilizonukuliwa zenye mapumziko ya mistari?</summary><p>Ndiyo. Sehemu iliyonukuliwa inaweza kuwa na koma, nukuu (zilizozidishwa mara mbili) na hata mistari mipya - kichanganua huchukulia kila kitu kati ya nukuu ya kufungua na ya kufunga kama thamani moja.</p></details><details class="faq"><summary>Je, data yangu hupakiwa kwenye seva?</summary><p>Hapana. Uchanganuzi na ubadilishaji hufanyika 100% kwenye kivinjari chako. Data yako haiondoki kamwe kwenye kifaa chako.</p></details></section>
+<section class="block"><h2>Zana Husika za Wasanidi Programu</h2><div class="grid"><a class="card" href="../json-to-csv-converter/"><div class="ic">CSV</div><h3>Kibadilishaji cha JSON kwenda CSV</h3><p>Geuza safu ya JSON ya vitu kuwa faili safi ya CSV - muungano wa funguo zote, kunukuu sahihi, kubofya mara moja.</p></a><a class="card" href="../json-formatter/"><div class="ic">{ }</div><h3>Kiumbaji cha JSON</h3><p>Thibitisha, chapisha kwa uzuri na finya JSON, kwa nafasi kamili ya kosa lolote.</p></a><a class="card" href="../yaml-json-converter/"><div class="ic">YAML</div><h3>Kibadilishaji cha YAML ⇄ JSON</h3><p>Badilisha sehemu ndogo ya kawaida ya YAML (ramani, orodha, scalar) kuwa JSON na JSON kurudi kuwa YAML - yenye upeo wa uaminifu.</p></a></div></section>
+</main>
+</div>
+
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">Pachika zana hii kwenye tovuti yako — bure</h2>
+<p style="margin:0 0 12px;line-height:1.6">Ongeza zana hii kwenye tovuti au blogu yako mwenyewe — ni bure kabisa, haihitaji kujisajili, na huonyesha toleo jipya zaidi kila wakati. Nakili msimbo ulio hapa chini na ubandike kwenye ukurasa wako mahali unapotaka zana ionekane. Kuweka mstari mdogo wa sifa &ldquo;Powered by Loona Automation&rdquo; chini ya kipachiko husaidia kuweka zana hii bure &mdash; lakini uko huru kuupamba au kuuondoa; zana hufanya kazi kwa vyovyote vile.</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-dev-tools/sw/csv-to-json-converter/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="Free CSV to JSON Converter by Loona"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;Inaendeshwa na &lt;a href="https://loonaautomation.github.io/loona-dev-tools/sw/csv-to-json-converter/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; bure Kibadilishaji cha CSV kwenda JSON&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">Nakili kipachiko cha msimbo</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='Imenakiliwa!';setTimeout(function(){b.textContent='Nakili msimbo wa kupachika';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+
+<footer class="site"><div class="footer-in">
+<div class="col"><h4>Loona Developer Tools</h4>
+<a href="../">Zana Zote za Wasanidi Programu</a>
+<a href="../about.html">Kuhusu Sisi</a>
+<a href="../contact.html">Wasiliana</a></div>
+<div class="col"><h4>Zana Maarufu</h4><a href="../json-formatter/">Kiumbaji cha JSON</a><a href="../base64-encoder/">Kisimbaji cha Base64</a><a href="../uuid-generator/">Kizalishaji cha UUID</a><a href="../hash-generator/">Kizalishaji cha Hashi</a><a href="../jwt-decoder/">Kisimbuaji cha JWT</a><a href="../timestamp-converter/">Kibadilishaji cha Muhuri wa Muda</a></div>
+<div class="col"><h4>Zana Zaidi</h4><a href="../url-encoder/">Kisimbaji cha URL</a><a href="../html-entity-encoder/">Kisimbaji cha Huluki ya HTML</a><a href="https://loonaautomation.github.io/loona-text-tools/">Loona Text Tools</a><a href="https://loonaautomation.github.io/loona-calculators/">Loona Calculators</a><a href="https://loonaautomation.github.io/">Zana Zote za Loona</a></div>
+<div class="col"><h4>Kisheria</h4>
+<a href="../privacy.html">Sera ya Faragha</a>
+<a href="../terms.html">Masharti ya Matumizi</a>
+<a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
+</div><div class="copyright">&copy; 2026 Loona Automation - Zana za Wasanidi Programu za Loona. Zana za bure za wasanidi programu mtandaoni zinazofanya kazi 100% kwenye kivinjari chako.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Sakinisha Programu';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Sakinisha programu hii: gusa kitufe cha Shiriki, kisha chagua "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body>
+</html>
+
+<script>
+
+const $=s=>document.querySelector(s);
+function setStatus(el,msg,ok){el.textContent=msg;el.className='hali '+(ok===true?'ok':ok===false?'err':'');}
+function copyText(t,btn){const done=()=>{if(btn){const o=btn.textContent;btn.textContent='Imenakiliwa!';setTimeout(()=>btn.textContent=o,1600);}};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t).then(done,()=>fallbackCopy(t,done));}else fallbackCopy(t,done);}
+function fallbackCopy(t,done){const ta=document.createElement('textarea');ta.value=t;ta.style.position='fixed';ta.style.opacity='0';document.body.appendChild(ta);ta.select();try{document.execCommand('copy');}catch(e){}ta.remove();done();}
+function downloadText(t,name){const b=new Blob([t],{type:'text/plain;charset=utf-8'});const u=URL.createObjectURL(b);const a=document.createElement('a');a.href=u;a.download=name;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),4000);}
+function escH(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+
+/*CORE*/
+
+function parseCSV(text){
+  var rows=[], row=[], field='', inQ=false, i=0, n=text.length;
+  function endField(){ row.push(field); field=''; }
+  function endRow(){ endField(); rows.push(row); row=[]; }
+  while(i<n){
+    var c=text[i];
+    if(inQ){
+      if(c==='"'){
+        if(text[i+1]==='"'){ field+='"'; i+=2; continue; }
+        inQ=false; i++; continue;
+      }
+      field+=c; i++; continue;
+    }
+    if(c==='"' && field===''){ inQ=true; i++; continue; }
+    if(c===','){ endField(); i++; continue; }
+    if(c==='\n'){ endRow(); i++; continue; }
+    if(c==='\r'){ i++; continue; }
+    field+=c; i++;
+  }
+  if(field!=='' || row.length>0){ endRow(); }
+  rows=rows.filter(function(r){ return !(r.length===1 && r[0]===''); });
+  return rows;
+}
+function csvToJSON(text, hasHeader){
+  var rows=parseCSV(text);
+  if(rows.length===0) return [];
+  if(hasHeader===false){
+    return rows.map(function(r){
+      var o={};
+      r.forEach(function(c, idx){ o['column'+(idx+1)]=c; });
+      return o;
+    });
+  }
+  var seen={}, head=rows[0].map(function(h, idx){
+    var k=(h==='') ? 'column'+(idx+1) : h;
+    if(seen[k]){ seen[k]++; k=k+'_'+seen[k]; } else { seen[k]=1; }
+    return k;
+  });
+  return rows.slice(1).map(function(r){
+    var o={};
+    head.forEach(function(h, idx){ o[h] = idx<r.length ? r[idx] : ''; });
+    return o;
+  });
+}
+
+/*/CORE*/
+
+
+$('#bConv').addEventListener('click',function(){
+  var st=$('#st');
+  if(!$('#inp').value.trim()){setStatus(st,'Bandika CSV kidogo kwanza.',false);return;}
+  try{
+    var v=csvToJSON($('#inp').value, $('#optHeader').checked);
+    $('#out').value=JSON.stringify(v, null, 2);
+    setStatus(st,'Imebadilishwa: '+v.length+' safu mlalo za JSON.',true);
+  }catch(e){ setStatus(st, e.message, false); }
+});
+$('#bCopy').addEventListener('click',function(){copyText($('#out').value,this);});
+$('#bDl').addEventListener('click',function(){downloadText($('#out').value,'data.json');});
+$('#bSample').addEventListener('click',function(){$('#inp').value='name,age,note\n"Ali, A",30,"said ""hi"""\nAna,25,plain';$('#bConv').click();});
+$('#bClear').addEventListener('click',function(){$('#inp').value='';$('#out').value='';setStatus($('#st'),'',null);});
+
+
+</script>

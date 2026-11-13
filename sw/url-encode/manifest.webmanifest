@@ -1,0 +1,29 @@
+{
+  "name": "Loona Simba URL (Usimbaji wa Asilimia)",
+  "short_name": "Kisimbaji cha URL (Usimbaji wa Asilimia)",
+  "description": "Simba maandishi au URL kamili kwa asilimia mtandaoni: nafasi huwa %20, herufi zilizohifadhiwa hutoroshwa kwa mujibu wa RFC 3986. Hali ya kipengele au URL kamili.",
+  "id": "/loona-dev-tools/sw/url-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

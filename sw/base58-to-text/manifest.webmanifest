@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kisimbuaji cha Base58 kwenda Maandishi",
+  "short_name": "Kisimbuaji cha Base58 kwenda Maandishi",
+  "description": "Simbua mifululizo ya Base58 kurudi kuwa maandishi (UTF-8). Huthibitisha dhidi ya alfabeti ya Bitcoin na kuripoti herufi zisizo sahihi.",
+  "id": "/loona-dev-tools/sw/base58-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

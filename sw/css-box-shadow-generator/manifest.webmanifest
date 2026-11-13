@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kizalishaji cha Box Shadow ya CSS Bure Mtandaoni",
+  "short_name": "Kizalishaji cha Box Shadow ya CSS",
+  "description": "Zalisha kivuli cha kisanduku cha CSS mtandaoni bure - tabaka nyingi za kivuli, vivuli vya ndani, udhibiti wa rangi na uwazi, kwa onyesho la awali la moja kwa moja na CSS tayari. Bila kujisajili, hufanya kazi kwenye kivinjari chako.",
+  "id": "/loona-dev-tools/sw/css-box-shadow-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

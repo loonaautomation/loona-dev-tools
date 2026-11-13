@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kibadilishaji cha HEX kwenda RGB",
+  "short_name": "Kibadilishaji cha HEX kwenda RGB",
+  "description": "Badilisha rangi kutoka HEX kuwa RGB mtandaoni, na sampuli ya moja kwa moja na miundo mingine yote (HEX, RGB, HSL, HSV, CMYK) ikionyeshwa pia.",
+  "id": "/loona-dev-tools/sw/hex-to-rgb-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

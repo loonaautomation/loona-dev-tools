@@ -1,0 +1,29 @@
+{
+  "name": "Loona Maktaba ya Kibadilishaji na Kizalishaji",
+  "short_name": "Maktaba ya Vibadilishaji na Vizalishaji",
+  "description": "Faharasa ya vibadilishaji na vizalishaji vyote vya Zana za Wasanidi Programu za Loona: usimbaji, miundo ya data, hashi, rangi, hifadhi, vizalishaji vya msimbo na marejeo.",
+  "id": "/loona-dev-tools/sw/converter-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

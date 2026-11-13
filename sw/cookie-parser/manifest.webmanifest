@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kichanganua Kichwa cha Kidakuzi",
+  "short_name": "Kichanganuaji cha Kichwa cha Cookie",
+  "description": "Changanua kichwa cha Cookie kuwa orodha inayosomeka: jozi za name = value, thamani zilizosimbuwa kwa asilimia huonyeshwa, hesabu ya vidakuzi.",
+  "id": "/loona-dev-tools/sw/cookie-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

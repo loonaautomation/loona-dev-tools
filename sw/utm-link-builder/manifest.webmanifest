@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kiundaji cha Viungo vya UTM Bure Mtandaoni",
+  "short_name": "Kiundaji cha Kiungo cha UTM Bure Mtandaoni",
+  "description": "Jenga URL za kampeni zilizowekewa tegi za UTM mtandaoni bure - chanzo, njia, kampeni, neno na maudhui vilivyoongezwa na usimbaji sahihi, vigezo vya swali vilivyopo vimehifadhiwa, pamoja na historia iliyohifadhiwa.",
+  "id": "/loona-dev-tools/sw/utm-link-builder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

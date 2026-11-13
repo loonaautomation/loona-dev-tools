@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kisimbaji cha Maandishi kwenda Base64",
+  "short_name": "Kisimbaji cha Maandishi kwenda Base64",
+  "description": "Simba maandishi kwenda Base64 mtandaoni, salama kwa UTF-8 kwa lugha yoyote na emoji, kwa alfabeti ya hiari salama kwa URL. Bure, faragha, kwenye kivinjari chako.",
+  "id": "/loona-dev-tools/sw/text-to-base64/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

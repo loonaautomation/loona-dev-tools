@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kiumbaji na Kithibitishi cha XML Bure Mtandaoni",
+  "short_name": "Kiumbaji & Kithibitishi cha XML",
+  "description": "Umbaji, upambaji, ufinyaji na uthibitishaji wa XML mtandaoni bure - ukaguzi wa muundo mzuri wa tegi zilizosawazishwa na ujumbe wazi wa hitilafu, uchapaji mzuri kwa ujongezaji. Bila kujisajili.",
+  "id": "/loona-dev-tools/sw/xml-formatter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

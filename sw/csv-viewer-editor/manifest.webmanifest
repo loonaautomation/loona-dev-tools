@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kitazamaji na Kihariri cha CSV Bure Mtandaoni",
+  "short_name": "Kitazamaji na Kihariri cha CSV Mtandaoni",
+  "description": "Tazama na hariri faili za CSV mtandaoni bure katika gridi ya jedwali inayoharirika - hariri seli, panga safu wima, ongeza au ondoa safu mlalo na safu wima, kisha pakua CSV iliyohaririwa. Bila kujisajili, hufanya kazi kwenye kivinjari chako.",
+  "id": "/loona-dev-tools/sw/csv-viewer-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

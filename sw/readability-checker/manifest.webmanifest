@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kikaguzi cha Usomaji wa SEO Bure Mtandaoni",
+  "short_name": "Kikaguzi cha Usomaji wa SEO",
+  "description": "Kagua usomaji wa maudhui kwa SEO mtandaoni bure - alama za Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG na ARI pamoja na takwimu za urefu wa sentensi kwa nakala ya wavuti. Bila kujisajili.",
+  "id": "/loona-dev-tools/sw/readability-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

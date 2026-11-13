@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kisimbuaji cha Base32 kwenda Maandishi",
+  "short_name": "Kisimbuaji cha Base32 kwenda Maandishi",
+  "description": "Simbua Base32 (RFC 4648) kurudi kuwa maandishi — haina hisia kwa ukubwa wa herufi, ujazaji ni wa hiari. Rejesha mifululizo iliyosimbwa kwa mtindo wa TOTP.",
+  "id": "/loona-dev-tools/sw/base32-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

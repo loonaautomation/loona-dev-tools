@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kichanganua Mfululizo wa User Agent",
+  "short_name": "Kichanganua cha Mfululizo wa User Agent",
+  "description": "Changanua mfululizo wa User-Agent wa kivinjari kuwa kivinjari, injini, OS na aina ya kifaa kwa kichanganua cha uwazi kinachotegemea kanuni.",
+  "id": "/loona-dev-tools/sw/user-agent-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

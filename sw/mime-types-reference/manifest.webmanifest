@@ -1,0 +1,29 @@
+{
+  "name": "Loona Marejeo ya Aina za MIME (Aina za Maudhui kwa",
+  "short_name": "Marejeo ya Aina za MIME (Maudhui",
+  "description": "Aina za kawaida za MIME kwa kiendelezi cha faili: hati, picha, sauti, video, hifadhi, fonti na miundo ya wavuti na thamani zake za Content-Type.",
+  "id": "/loona-dev-tools/sw/mime-types-reference/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

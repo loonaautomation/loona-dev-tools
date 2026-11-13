@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kichambuzi cha CSV Bure Mtandaoni",
+  "short_name": "Kichambuzi cha CSV Bure Mtandaoni",
+  "description": "Chambua faili ya CSV mtandaoni bure - makisio ya aina ya kila safu wima, hesabu za seli tupu, hesabu za thamani za kipekee, kiwango cha chini/cha juu cha nambari na thamani za juu, ili uelewe faili kabla ya kuitumia. Bila kujisajili.",
+  "id": "/loona-dev-tools/sw/csv-profiler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

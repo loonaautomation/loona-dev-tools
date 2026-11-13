@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kibadilishaji cha JSON kwenda Kiingiliano cha TypeScript",
+  "short_name": "JSON kwenda Kiingiliano cha TypeScript",
+  "description": "Badilisha JSON kuwa violesura vya TypeScript mtandaoni: vitu vilivyoingiliana huwa violesura vyenye majina, safu za vitu huunganisha funguo zake na sehemu za hiari zimewekewa alama.",
+  "id": "/loona-dev-tools/sw/json-to-typescript/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
