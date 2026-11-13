@@ -1,0 +1,29 @@
+{
+  "name": "Генератор на CSS Clip-Path на Loona онлайн безплатно",
+  "short_name": "Генератор на CSS Clip-Path",
+  "description": "Генерирайте безплатно онлайн CSS clip-path - предварителни настройки за многоъгълници като звезда, шестоъгълник и стрелка с регулируеми точки, плюс форми кръг, елипса и inset, с преглед на живо. Без регистрация.",
+  "id": "/loona-dev-tools/bg/css-clip-path-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

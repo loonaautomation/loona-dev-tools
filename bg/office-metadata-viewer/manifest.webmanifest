@@ -1,0 +1,29 @@
+{
+  "name": "Преглед на метаданни на офис документи на Loona онлайн",
+  "short_name": "Метаданни на офис документи",
+  "description": "Преглеждайте метаданни на офис документи онлайн безплатно - заглавие, автор, фирма, дати на създаване и промяна, приложение и версия за .docx, .xlsx и .pptx файлове. Само за преглед, нищо не се качва.",
+  "id": "/loona-dev-tools/bg/office-metadata-viewer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

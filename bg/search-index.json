@@ -1,0 +1,650 @@
+[
+ {
+  "n": "Библиотека с конвертори и генератори",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/converter-library/",
+  "s": "Loona Dev Tools",
+  "d": "126 нови конвертори и генератори: кодирания, формати на данни (JSON, YAML, XML, TOML, CSV), хешове, цветове, архиви, генератори на код и справочници.",
+  "k": "converter generator library converter library 126 json yaml xml toml csv",
+  "p": 100,
+  "c": "Tool"
+ },
+ {
+  "n": "Форматиране на JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/json-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Валидирайте, красиво отпечатвайте и минифицирайте JSON, с точната позиция на всяка грешка.",
+  "k": "json formatter json formatter json",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Base64 кодиране и декодиране",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/base64-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Кодирайте текст и файлове в Base64 или ги декодирайте обратно - безопасно за UTF-8, включена URL-безопасна опция.",
+  "k": "base64 encoder decoder base64 encoder base64 utf 8 url",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Кодиране и декодиране на URL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/url-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Кодирайте процентно текст и URL адреси безопасно, с таблица за разбивка по символи.",
+  "k": "url encoder decoder url encoder url",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор на UUID",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/uuid-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Генерирайте произволни UUID версия 4 - един по един или масово до 100.",
+  "k": "uuid generator uuid generator uuid 4 100",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор на хешове",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/hash-generator/",
+  "s": "Loona Dev Tools",
+  "d": "SHA-1, SHA-256, SHA-384 и SHA-512 дайджести на всеки текст, изчислени във вашия браузър.",
+  "k": "hash generator hash generator sha 1 sha 256 sha 384 sha 512",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Декодиране на JWT",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/jwt-decoder/",
+  "s": "Loona Dev Tools",
+  "d": "Декодирайте заглавието и полезния товар на JSON Web Token и прочетете изтичането му с обикновени думи.",
+  "k": "jwt decoder jwt decoder json web token",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертор на времеви отметки",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/timestamp-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Конвертирайте Unix времеви отметки в човешки дати и обратно - UTC, местното ви време и относително време.",
+  "k": "timestamp converter timestamp converter unix utc",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "Кодиране на HTML символни кодове",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/html-entity-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Екранирайте текст в HTML символни кодове (именувани или номерирани) и декодирайте кодовете обратно в текст.",
+  "k": "html entity encoder html entity encoder html",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Минифициране и разкрасяване на CSS",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/css-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Минифицирайте CSS, за да намалите размера на файла, или го разкрасете обратно в четим код с отстъпи.",
+  "k": "css minifier beautifier css minifier css",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Минифициране на JavaScript",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/javascript-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Минифицирайте консервативно JavaScript - коментарите и мъртвото празно пространство се премахват, низовете и регулярните изрази остават непокътнати.",
+  "k": "javascript minifier javascript minifier javascript",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Тестер на регулярни изрази",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/regex-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Тествайте регулярни изрази на живо - съвпаденията са маркирани, групите за улавяне са изброени, броят е показан.",
+  "k": "regex tester regex tester",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Проверка на разлики",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/diff-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Сравнете два текста ред по ред - добавените и премахнатите редове са подчертани, с резюме на промените.",
+  "k": "diff checker diff checker",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертор от JSON към CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/json-to-csv-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Превърнете JSON масив от обекти в чист CSV файл - обединение на всички ключове, правилно цитиране, едно щракване.",
+  "k": "json to csv converter json to csv converter json csv",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертор от CSV към JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/csv-to-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Конвертирайте CSV в JSON масив от обекти - истински парсър, който обработва запетаи в кавички и екранирани кавички.",
+  "k": "csv to json converter csv to json converter csv json",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертор YAML ⇄ JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/yaml-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Конвертирайте общото подмножество на YAML (карти, списъци, скалари) в JSON и JSON обратно в YAML - честно ограничено.",
+  "k": "yaml json converter yaml json converter yaml json json yaml",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Форматиране на SQL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/sql-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Форматирайте SQL с ключови думи с главни букви и всяка голяма клауза на собствен ред - четими заявки с едно щракване.",
+  "k": "sql formatter sql formatter sql",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертор на бройни системи",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/number-base-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Конвертирайте между двоична, осмична, десетична и шестнадесетична с пълна точност за големи цели числа - без лимит 2^53.",
+  "k": "number base converter number base converter 2 53",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Калкулатор за Chmod",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/chmod-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "Отбележете кутиите за четене/запис/изпълнение за собственик, група и други - получете осмичното и символното разрешение мигновено.",
+  "k": "chmod calculator chmod calculator",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Проверка на силата на паролата",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/password-strength-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Вижте оценка на ентропията на паролата в битове, какво я отслабва и колко време би отнела бърза офлайн атака.",
+  "k": "password strength checker password strength checker",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор на Cron изрази",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/cron-expression-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Създайте 5-полеви cron израз от обикновени падащи менюта и получете всеки cron израз, обяснен на обикновен английски.",
+  "k": "cron expression generator cron expression generator 5 cron cron",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Парсър и създател на URL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/url-parser/",
+  "s": "Loona Dev Tools",
+  "d": "Разбийте URL на протокол, хост, порт, път, параметри на заявката и хеш - след това редактирайте параметрите и го сглобете отново.",
+  "k": "url parser builder url parser url",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Създаване на ZIP файлове",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/zip-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Обединете множество файлове в единичен ZIP архив - изграден в браузъра ви, нищо не се качва.",
+  "k": "zip file creator zip file creator zip",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Разархивиране на файлове",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/unzip-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Отворете ZIP, вижте всеки файл вътре с размера му и извлечете един файл или всички.",
+  "k": "unzip file extractor unzip file extractor zip",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Извличане на RAR файлове",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/rar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Отваряйте RAR файлове (RAR4 и RAR5) във вашия браузър - вижте всеки файл вътре, изтеглете един файл или всичко като ZIP.",
+  "k": "rar file extractor rar file extractor rar rar4 rar5 zip",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Извличане на 7Z файлове",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/7z-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Отваряйте 7z архиви във вашия браузър - вижте съдържанието и извличайте отделни файлове или всичко като ZIP.",
+  "k": "7z file extractor 7z file extractor 7z zip",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Извличане на TAR файлове",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/tar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Отваряйте .tar, .tar.bz2 и .tar.xz архиви във вашия браузър и извличайте файловете вътре - нищо не се качва.",
+  "k": "tar file extractor tar file extractor tar tar bz2 tar xz",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Извличане на TAR.GZ файлове",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/tar-gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Отваряйте .tar.gz и .tgz архиви във вашия браузър - разглеждайте файловете вътре и извличайте каквото ви трябва.",
+  "k": "tar gz file extractor tar gz file extractor tar gz tgz",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Извличане на GZ файлове",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Декомпресирайте единичен .gz файл в браузъра си и изтеглете оригинала - логове, експорти на данни и дъмпове на бази данни.",
+  "k": "gz file extractor gz file extractor gz",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Извличане на ISO файлове",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/iso-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Отваряйте ISO изображения на дискове във вашия браузър, разглеждайте файловата система, съхранена на виртуалния диск, и изтегляйте файлове.",
+  "k": "iso file extractor iso file extractor iso",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Извличане на архивни файлове",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/archive-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Един универсален инструмент за отваряне на архиви за ZIP, RAR, 7Z, TAR, ISO и други - форматът се разпознава автоматично.",
+  "k": "archive file extractor archive file extractor zip rar 7z tar iso",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертор от RAR към ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/rar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Конвертирайте RAR архив в стандартен ZIP в браузъра си - структурата на папките е запазена, нищо не се качва.",
+  "k": "rar to zip converter rar to zip converter rar zip",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертор от 7Z към ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/7z-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Конвертирайте 7Z архив в ZIP, който се отваря навсякъде - без нужда от 7-Zip, нищо не се качва.",
+  "k": "7z to zip converter 7z to zip converter 7z zip 7 zip",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертор от TAR към ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/tar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Конвертирайте TAR архив от Linux или Unix в ZIP, който се отваря вградено на Windows, macOS и телефони.",
+  "k": "tar to zip converter tar to zip converter tar linux unix zip windows macos",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертор от TAR.GZ към ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/tar-gz-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Конвертирайте .tar.gz или .tgz в един ZIP - и gzip, и tar слоевете се разопаковат на устройството ви.",
+  "k": "tar gz to zip converter tar gz to zip converter tar gz tgz zip gzip tar",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертор от ZIP към TAR.GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/zip-to-tar-gz-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Конвертирайте ZIP архив в .tar.gz tarball - форматът, който Linux сървърите, Docker и инструментите за изграждане очакват.",
+  "k": "zip to tar gz converter zip to tar gz converter zip tar gz tarball linux docker",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Създаване на TAR файлове",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/tar-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Създайте .tar архив, правилен според спецификацията, от множество файлове в браузъра си - отваря се с всеки tar инструмент.",
+  "k": "tar file creator tar file creator tar tar",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "GZIP компресор",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/gzip-compressor/",
+  "s": "Loona Dev Tools",
+  "d": "Компресирайте всеки единичен файл в .gz с вградения gzip двигател на браузъра ви - мигновени размери преди/след.",
+  "k": "gzip compressor gzip compressor gz gzip",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Преглед и редактор на CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/csv-viewer-editor/",
+  "s": "Loona Dev Tools",
+  "d": "Заредете CSV в редактируема мрежа на таблица - редактирайте клетки, сортирайте колони, добавяйте или премахвайте редове и колони, след това изтеглете.",
+  "k": "csv viewer editor csv viewer editor csv",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертор от CSV към SQL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/csv-to-sql-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Превърнете CSV в CREATE TABLE плюс изрази INSERT с изведени типове, за MySQL, PostgreSQL или SQLite.",
+  "k": "csv to sql converter csv to sql converter csv create table insert mysql postgresql sqlite",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертор от CSV към XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/csv-to-xml-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Конвертирайте CSV редове в добре оформен XML с конфигурируеми коренови и редови елементи и правилно екраниране.",
+  "k": "csv to xml converter csv to xml converter csv xml",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертор от CSV към Markdown таблица",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/csv-to-markdown-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Конвертирайте CSV в Markdown таблица, готова за GitHub - числовите колони подравнени вдясно, вертикалните черти екранирани.",
+  "k": "csv to markdown table converter csv to markdown converter csv markdown github",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "Почистване и премахване на дубликати от CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/csv-dedupe-cleaner/",
+  "s": "Loona Dev Tools",
+  "d": "Премахвайте дублиращи се редове от CSV по цял ред или ключови колони, изрязвайте празни пространства и изпускайте празни редове, с бройки.",
+  "k": "csv dedupe cleaner csv dedupe cleaner csv",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "Разделяне и обединяване на CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/csv-split-merge/",
+  "s": "Loona Dev Tools",
+  "d": "Разделете CSV на части по брой редове със заглавието повторено или обединете CSV файлове, които споделят заглавие.",
+  "k": "csv split merge csv split merge csv csv",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор на мета тагове",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/meta-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Генерирайте готов HTML мета блок - заглавие, описание, роботи, каноничен - с преглед на SERP на живо.",
+  "k": "meta tag generator meta tag generator html serp",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор на Open Graph и Twitter Card",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/open-graph-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Създавайте OG и Twitter Card тагове с преглед на социална карта на живо, така че споделените връзки да изглеждат правилно.",
+  "k": "open graph twitter card generator open graph generator og twitter card",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор на Robots.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/robots-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Създайте валиден robots.txt от предварителни настройки и правила за всеки агент, с проверки за разумност на изхода.",
+  "k": "robots txt generator robots txt generator robots txt",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор на XML карта на сайта",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/xml-sitemap-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Превърнете списък с URL адреси във валиден sitemap.xml с lastmod, changefreq и priority по подразбиране.",
+  "k": "xml sitemap generator xml sitemap generator url sitemap xml lastmod changefreq priority",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "Създаване на UTM връзки",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/utm-link-builder/",
+  "s": "Loona Dev Tools",
+  "d": "Маркирайте URL адреси на кампании с UTM параметри - правилно кодиране, запазени съществуващи параметри, локална история.",
+  "k": "utm link builder utm link builder url utm",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "Калкулатор за IP подмрежи",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/ip-subnet-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "IPv4 CIDR към мрежа, излъчване, мрежова маска, обратна маска, диапазон хостове и брой, плюс изглед за разделяне на подмрежи.",
+  "k": "ip subnet calculator ip subnet calculator ipv4 cidr",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор на JSON-LD схеми",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/json-ld-schema-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Генерирайте структурирани данни schema.org - Article, Product, LocalBusiness, Event, Recipe и още - като валиден JSON-LD.",
+  "k": "json ld schema generator json ld schema generator schema org article product localbusiness event recipe json ld",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Преглед на Google SERP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/google-serp-preview/",
+  "s": "Loona Dev Tools",
+  "d": "Прегледайте заглавието и описанието си като резултат в Google, с предупреждения за отрязване по ширина в пиксели, настолен и мобилен изглед.",
+  "k": "google serp preview google serp preview google",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "Проверка на плътността на ключови думи",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/keyword-density-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Бройте единични думи плюс фрази от 2 думи и 3 думи с процентна плътност и филтриране на стоп-думи.",
+  "k": "keyword density checker keyword density checker 2 3",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор на HTML таблици",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/html-table-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Създавайте таблици визуално в мрежа и получавайте чист семантичен HTML с поддръжка на thead, th и caption.",
+  "k": "html table generator html table generator html thead th caption",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор на HTML имейл подпис",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/email-signature-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Създайте професионален имейл подпис като HTML таблица, безопасна за имейли, която работи в Gmail и Outlook.",
+  "k": "html email signature generator email signature generator html gmail outlook",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "Валидатор на имейли",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/email-validator/",
+  "s": "Loona Dev Tools",
+  "d": "Проверявайте масово имейл адреси за грешки в синтаксиса и общи печатни грешки в домейни като gmial.com, с предложения.",
+  "k": "email validator email validator gmial com",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор на CSS Clip-Path",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/css-clip-path-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Генерирайте clip-path CSS - предварителни настройки за многоъгълници с регулируеми точки, плюс форми кръг, елипса и inset.",
+  "k": "css clip path generator css clip path generator clip path css inset",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор на CSS Box Shadow",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/css-box-shadow-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Създавайте многослойни box-shadow CSS с поддръжка на inset, контрол на цвета и непрозрачността и преглед на живо.",
+  "k": "css box shadow generator css box shadow generator box shadow css inset",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "Форматиране и валидиране на XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/xml-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Разкрасявайте, минифицирайте и валидирайте XML - проверки за добре оформеност с балансирани тагове и ясни съобщения за грешки.",
+  "k": "xml formatter validator xml formatter xml",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "Конвертор от Markdown към HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/markdown-to-html-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Конвертирайте ежедневен Markdown в чист HTML с преглед на визуализацията на живо - заглавия, списъци, код и още.",
+  "k": "markdown to html converter markdown to html converter markdown html",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "Транспониране на CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/csv-transpose/",
+  "s": "Loona Dev Tools",
+  "d": "Разменете редове и колони на CSV с правилен парсър - транспонирането два пъти връща оригинала.",
+  "k": "csv transpose csv transpose csv",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "Съединяване на CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/csv-join/",
+  "s": "Loona Dev Tools",
+  "d": "Обединете два CSV файла по ключова колона - вътрешно или ляво съединение, дублиращите се ключове обработени по начина на базите данни.",
+  "k": "csv join csv join csv",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV Pivot / Групиране",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/csv-pivot-group-by/",
+  "s": "Loona Dev Tools",
+  "d": "Групирайте CSV редове по колона със сума, брой, средно, минимум или максимум на колона със стойности.",
+  "k": "csv pivot group by csv pivot group by csv",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV Diff / Сравнение",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/csv-diff/",
+  "s": "Loona Dev Tools",
+  "d": "Сравнете два CSV файла по ключова колона - добавени, премахнати и променени редове с точните клетки.",
+  "k": "csv diff compare csv diff csv",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "Извличане на данни от CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/csv-data-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Извличайте имейли, телефонни номера и URL адреси от разхвърлян CSV или текст в чисти списъци без дубликати.",
+  "k": "csv data extractor csv data extractor url csv",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV профилиране",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/csv-profiler/",
+  "s": "Loona Dev Tools",
+  "d": "Познаване на типа по колони, брой празни, брой уникални, числен минимум/максимум и топ стойности.",
+  "k": "csv profiler csv profiler",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "Тестер на Robots.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/robots-txt-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Тествайте URL и потребителски агент срещу правила на robots.txt - присъда плюс точното правило за съвпадение.",
+  "k": "robots txt tester robots txt tester url robots txt",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "SEO проверка на четивността",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/readability-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Шест формули за четивност плюс статистика на изреченията за уеб текст, оформена за SEO работа със съдържание.",
+  "k": "seo readability checker readability checker seo",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор на llms.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/llms-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Създайте llms.txt файла, насочен към ИИ - блок с резюме плюс подбрани връзки към страници в спецификационен формат.",
+  "k": "llms txt generator llms txt generator llms txt",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "Генератор на Hreflang тагове",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/hreflang-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Създавайте набори от hreflang алтернативни връзки с x-default и проверки за BCP 47 / абсолютни URL адреси.",
+  "k": "hreflang tag generator hreflang tag generator hreflang x default bcp 47 url",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "Преглед на метаданни на офис документи",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/office-metadata-viewer/",
+  "s": "Loona Dev Tools",
+  "d": "Четете свойства на DOCX, XLSX и PPTX - заглавие, автор, фирма, дати - само за преглед, на устройството.",
+  "k": "office document metadata viewer office metadata viewer docx xlsx pptx",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "Разпознаване на тип файл",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/bg/file-type-detector/",
+  "s": "Loona Dev Tools",
+  "d": "Разпознайте истинския тип на файл от магическите му байтове и предупредете, когато разширението не е съгласно.",
+  "k": "file type detector file type detector",
+  "p": 171,
+  "c": "Tool"
+ }
+]

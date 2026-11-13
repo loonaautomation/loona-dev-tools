@@ -1,0 +1,29 @@
+{
+  "name": "Декодер на Punycode на Loona (xn-- към Unicode домейн)",
+  "short_name": "Декодиране на Punycode (xn-- към",
+  "description": "Декодирайте xn-- punycode домейни обратно в тяхната Unicode форма — проверете какво наистина казва интернационализиран домейн.",
+  "id": "/loona-dev-tools/bg/punycode-decode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Кодиране и декодиране на шифъра на Цезар на Loona",
+  "short_name": "Енкодер на шифъра на Цезар и",
+  "description": "Шифър на Цезар с всяко изместване (1–25) и режим на декодиране: класическият заместващ шифър на Юлий Цезар, онлайн.",
+  "id": "/loona-dev-tools/bg/caesar-cipher/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

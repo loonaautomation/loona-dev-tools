@@ -1,0 +1,29 @@
+{
+  "name": "Форматиране на JSON на Loona онлайн безплатно",
+  "short_name": "Форматиране на JSON онлайн безплатно",
+  "description": "Форматирайте, валидирайте и минифицирайте безплатно онлайн JSON, с точния ред и колона на всяка грешка. Без регистрация, работи 100% във вашия браузър.",
+  "id": "/loona-dev-tools/bg/json-formatter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

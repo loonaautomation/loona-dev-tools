@@ -1,0 +1,29 @@
+{
+  "name": "Транспониране на CSV на Loona онлайн безплатно",
+  "short_name": "Транспониране на CSV онлайн безплатно",
+  "description": "Транспонирайте CSV онлайн безплатно - разменете редове и колони с правилен парсър RFC 4180, който обработва цитираните полета правилно. Без регистрация, работи 100% във вашия браузър.",
+  "id": "/loona-dev-tools/bg/csv-transpose/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

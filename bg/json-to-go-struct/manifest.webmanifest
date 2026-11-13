@@ -1,0 +1,29 @@
+{
+  "name": "Конвертор от JSON към Go структури на Loona",
+  "short_name": "Конвертор от JSON към Go структури",
+  "description": "Конвертирайте JSON в дефиниции на Go структури с json тагове: int64/float64 разграничени, omitempty за ключове, липсващи в някои елементи на масива.",
+  "id": "/loona-dev-tools/bg/json-to-go-struct/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

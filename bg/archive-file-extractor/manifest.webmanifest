@@ -1,0 +1,29 @@
+{
+  "name": "Извличане на архивни файлове на Loona онлайн безплатно",
+  "short_name": "Извличане на архивни файлове онлайн",
+  "description": "Един универсален инструмент за отваряне на архиви: пуснете всеки ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ или ISO файл и извлечете съдържанието му направо във вашия браузър. Форматът се разпознава автоматично; нищо не се качва.",
+  "id": "/loona-dev-tools/bg/archive-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Калкулатор за IP подмрежи на Loona онлайн безплатно",
+  "short_name": "Калкулатор за IP подмрежи онлайн",
+  "description": "Изчислявайте безплатно онлайн IPv4 подмрежи - мрежа, излъчване, мрежова маска, обратна маска, първи и последен хост, брой използваеми хостове и клас на IP от всеки CIDR адрес, плюс изглед за разделяне на подмрежи.",
+  "id": "/loona-dev-tools/bg/ip-subnet-calculator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

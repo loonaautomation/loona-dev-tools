@@ -1,0 +1,29 @@
+{
+  "name": "Декодер от Base58 към текст на Loona",
+  "short_name": "Декодер от Base58 към текст",
+  "description": "Декодирайте Base58 низове обратно в текст (UTF-8). Валидира срещу азбуката на Bitcoin и съобщава невалидни символи.",
+  "id": "/loona-dev-tools/bg/base58-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

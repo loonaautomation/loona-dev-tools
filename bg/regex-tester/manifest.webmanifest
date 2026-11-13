@@ -1,0 +1,29 @@
+{
+  "name": "Тестер на регулярни изрази на Loona онлайн безплатно",
+  "short_name": "Тестер на регулярни изрази онлайн безплатно",
+  "description": "Тествайте регулярни изрази онлайн безплатно с маркиране на съвпадения на живо, подробности за групите за улавяне и брой съвпадения. Без регистрация, работи 100% във вашия браузър.",
+  "id": "/loona-dev-tools/bg/regex-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Декодер от Base64 към текст на Loona",
+  "short_name": "Декодер от Base64 към текст",
+  "description": "Декодирайте онлайн Base64 обратно в четим текст. Обработва стандартни и URL-безопасни азбуки, UTF-8 текст на всеки език. Безплатно и поверително.",
+  "id": "/loona-dev-tools/bg/base64-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

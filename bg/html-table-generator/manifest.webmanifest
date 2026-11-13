@@ -1,0 +1,29 @@
+{
+  "name": "Генератор на HTML таблици на Loona онлайн безплатно",
+  "short_name": "Генератор на HTML таблици онлайн",
+  "description": "Генерирайте безплатно онлайн HTML таблици - задайте редове и колони, въвеждайте в мрежата и получете чист HTML за таблици с поддръжка на thead, th и caption плюс преглед на живо. Без регистрация.",
+  "id": "/loona-dev-tools/bg/html-table-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

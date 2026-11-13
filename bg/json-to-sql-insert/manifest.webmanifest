@@ -1,0 +1,29 @@
+{
+  "name": "Генератор от JSON към SQL INSERT на Loona",
+  "short_name": "Генератор от JSON към SQL INSERT",
+  "description": "Генерирайте SQL INSERT заявки от JSON масив от обекти: низовете екранирани, NULL и булевите обработени, персонализирано име на таблица.",
+  "id": "/loona-dev-tools/bg/json-to-sql-insert/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

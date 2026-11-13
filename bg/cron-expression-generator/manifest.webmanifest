@@ -1,0 +1,29 @@
+{
+  "name": "Генератор на Cron изрази на Loona онлайн безплатно",
+  "short_name": "Генератор на Cron изрази",
+  "description": "Създавайте cron изрази от падащи менюта и обяснявайте всеки 5-полеви cron израз на обикновен английски, безплатно онлайн. Без регистрация, работи 100% във вашия браузър.",
+  "id": "/loona-dev-tools/bg/cron-expression-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

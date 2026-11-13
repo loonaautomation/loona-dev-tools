@@ -1,0 +1,29 @@
+{
+  "name": "Конвертор от Markdown към HTML на Loona онлайн безплатно",
+  "short_name": "Конвертор от Markdown към HTML",
+  "description": "Конвертирайте безплатно онлайн Markdown в HTML - заглавия, удебелено, курсив, връзки, изображения, списъци, блокови цитати, кодови блокове и още, с преглед на визуализацията на живо. Без регистрация.",
+  "id": "/loona-dev-tools/bg/markdown-to-html-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

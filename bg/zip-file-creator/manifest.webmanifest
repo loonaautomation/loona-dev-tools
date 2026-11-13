@@ -1,0 +1,29 @@
+{
+  "name": "Създаване на ZIP файлове на Loona онлайн безплатно",
+  "short_name": "Създаване на ZIP файлове онлайн безплатно",
+  "description": "Създайте ZIP файл от множество файлове направо в браузъра си - добавете файлове, именувайте архива и изтеглете един .zip. Нищо не се качва; всичко остава на устройството ви.",
+  "id": "/loona-dev-tools/bg/zip-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Конвертор от ZIP към TAR на Loona",
+  "short_name": "Конвертор от ZIP към TAR",
+  "description": "Конвертирайте онлайн ZIP архиви в некомпресиран TAR: същите файлове и папки, препакетирани със записващо устройство за TAR, съвместимо със стандартите. Напълно локално.",
+  "id": "/loona-dev-tools/bg/zip-to-tar-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

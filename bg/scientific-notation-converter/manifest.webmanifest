@@ -1,0 +1,29 @@
+{
+  "name": "Конвертор на научна нотация на Loona",
+  "short_name": "Конвертор на научна нотация",
+  "description": "Конвертирайте числа към и от научна нотация: 3200000 ⇄ 3.2 × 10^6, E нотацията се поддържа в двете посоки.",
+  "id": "/loona-dev-tools/bg/scientific-notation-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

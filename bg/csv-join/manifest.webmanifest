@@ -1,0 +1,29 @@
+{
+  "name": "Съединяване на CSV на Loona онлайн безплатно",
+  "short_name": "Съединяване на CSV онлайн безплатно",
+  "description": "Съединявайте безплатно онлайн два CSV файла по споделена ключова колона - вътрешно съединение или ляво съединение, дублиращите се ключове обработени по начина на базите данни. Без регистрация, работи 100% във вашия браузър.",
+  "id": "/loona-dev-tools/bg/csv-join/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Конвертор от TAR.GZ към TAR на Loona",
+  "short_name": "Конвертор от TAR.GZ към TAR",
+  "description": "Премахнете слоя gzip от .tar.gz / .tgz архив, за да получите обикновения TAR, онлайн и локално — не са нужни инструменти за извличане.",
+  "id": "/loona-dev-tools/bg/tar-gz-to-tar-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

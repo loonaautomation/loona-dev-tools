@@ -1,0 +1,29 @@
+{
+  "name": "Инструмент за преглед на Google SERP на Loona онлайн безплатно",
+  "short_name": "Инструмент за преглед на Google SERP",
+  "description": "Прегледайте как заглавието на страницата и мета описанието ви ще изглеждат в резултатите от търсенето в Google онлайн безплатно, с изглед за настолен компютър и мобилен и предупреждения за отрязване по ширина в пиксели. Без регистрация.",
+  "id": "/loona-dev-tools/bg/google-serp-preview/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

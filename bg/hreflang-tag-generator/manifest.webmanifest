@@ -1,0 +1,29 @@
+{
+  "name": "Генератор на Hreflang тагове на Loona онлайн безплатно",
+  "short_name": "Генератор на Hreflang тагове онлайн",
+  "description": "Генерирайте безплатно онлайн hreflang тагове - поставете двойки език и URL, добавете x-default и получете пълния набор от алтернативни връзки с проверки за BCP 47 и абсолютни URL адреси. Без регистрация.",
+  "id": "/loona-dev-tools/bg/hreflang-tag-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

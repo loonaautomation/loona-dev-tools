@@ -1,0 +1,29 @@
+{
+  "name": "Извличане на RAR файлове на Loona онлайн безплатно",
+  "short_name": "Извличане на RAR файлове онлайн безплатно",
+  "description": "Отваряйте RAR файлове (RAR4 и RAR5) направо във вашия браузър - вижте всеки файл вътре, изтегляйте отделни файлове или всичко като ZIP. Нищо не се качва; извличането се случва на вашето устройство.",
+  "id": "/loona-dev-tools/bg/rar-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
