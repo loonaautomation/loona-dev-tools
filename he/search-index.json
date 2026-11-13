@@ -1,0 +1,650 @@
+[
+ {
+  "n": "ספריית ממירים ומחוללים",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/converter-library/",
+  "s": "Loona Dev Tools",
+  "d": "126 ממירים ומחוללים חדשים: קידודים, פורמטי נתונים (JSON, YAML, XML, TOML, CSV), גיבובים, צבעים, ארכיונים, מחוללי קוד וחומרי עזר.",
+  "k": "converter generator library converter library 126 new converters and generators encodings data formats json yaml xml toml csv hashes colours archives code generators and references ספריית ממירים ומחוללים 126 ממירים ומחוללים חדשים קידודים פורמטי נתונים json yaml xml toml csv גיבובים צבעים ארכיונים מחוללי קוד וחומרי עזר",
+  "p": 100,
+  "c": "Tool"
+ },
+ {
+  "n": "מעצב JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/json-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "אמתו, הדפיסו יפה ומזערו JSON, עם המיקום המדויק של כל שגיאה.",
+  "k": "json formatter json formatter validate pretty print and minify json with the exact position of any error מעצב json אמתו הדפיסו יפה ומזערו json עם המיקום המדויק של כל שגיאה",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "מקודד ומפענח Base64",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/base64-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "קודדו טקסט וקבצים ל-Base64, או פענחו אותו בחזרה - בטוח ל-UTF-8, אפשרות בטוחה ל-URL כלולה.",
+  "k": "base64 encoder decoder base64 encoder encode text and files to base64 or decode it back utf 8 safe url safe option included מקודד ומפענח base64 קודדו טקסט וקבצים ל base64 או פענחו אותו בחזרה בטוח ל utf 8 אפשרות בטוחה ל url כלולה",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "מקודד ומפענח כתובת",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/url-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "קודדו טקסט וכתובות ב-Percent-Encoding בבטחה, עם טבלת פירוט לפי תו.",
+  "k": "url encoder decoder url encoder percent encode text and urls safely with a per character breakdown table מקודד ומפענח כתובת קודדו טקסט וכתובות ב percent encoding בבטחה עם טבלת פירוט לפי תו",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל UUID",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/uuid-generator/",
+  "s": "Loona Dev Tools",
+  "d": "צרו UUID-ים אקראיים גרסה 4 - אחד בכל פעם או בכמות עד 100.",
+  "k": "uuid generator uuid generator generate random version 4 uuids one at a time or in bulk up to 100 מחולל uuid צרו uuid ים אקראיים גרסה 4 אחד בכל פעם או בכמות עד 100",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל גיבוב",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/hash-generator/",
+  "s": "Loona Dev Tools",
+  "d": "תקצירי SHA-1,‏ SHA-256,‏ SHA-384 ו-SHA-512 של כל טקסט, מחושבים בדפדפן שלכם.",
+  "k": "hash generator hash generator sha 1 sha 256 sha 384 and sha 512 digests of any text computed in your browser מחולל גיבוב תקצירי sha 1 sha 256 sha 384 ו sha 512 של כל טקסט מחושבים בדפדפן שלכם",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "מפענח JWT",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/jwt-decoder/",
+  "s": "Loona Dev Tools",
+  "d": "פענחו כותרת ומטען של JSON Web Token וקראו את התפוגה שלו במילים פשוטות.",
+  "k": "jwt decoder jwt decoder decode a json web token header and payload and read its expiry in plain words מפענח jwt פענחו כותרת ומטען של json web token וקראו את התפוגה שלו במילים פשוטות",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר חותמות זמן",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/timestamp-converter/",
+  "s": "Loona Dev Tools",
+  "d": "המירו חותמות זמן של Unix לתאריכים אנושיים ובחזרה - UTC, השעה המקומית שלכם וזמן יחסי.",
+  "k": "timestamp converter timestamp converter convert unix timestamps to human dates and back utc your local time and relative time ממיר חותמות זמן המירו חותמות זמן של unix לתאריכים אנושיים ובחזרה utc השעה המקומית שלכם וזמן יחסי",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "מקודד ישויות HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/html-entity-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "ברחו טקסט לישויות HTML (בעלות שם או ממוספרות) ופענחו ישויות בחזרה לטקסט.",
+  "k": "html entity encoder html entity encoder escape text into html entities named or numbered and decode entities back to text מקודד ישויות html ברחו טקסט לישויות html בעלות שם או ממוספרות ופענחו ישויות בחזרה לטקסט",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "ממזער ומייפה CSS",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/css-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "מזערו CSS כדי לכווץ את גודל הקובץ, או ייפו אותו בחזרה לקוד קריא ומוזח.",
+  "k": "css minifier beautifier css minifier minify css to shrink file size or beautify it back into readable indented code ממזער ומייפה css מזערו css כדי לכווץ את גודל הקובץ או ייפו אותו בחזרה לקוד קריא ומוזח",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "ממזער JavaScript",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/javascript-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "מזערו JavaScript בשמרנות - הערות ורווחים מתים מוסרים, מחרוזות וביטויים רגולריים נשמרים שלמים.",
+  "k": "javascript minifier javascript minifier conservatively minify javascript comments and dead whitespace removed strings and regex kept intact ממזער javascript מזערו javascript בשמרנות הערות ורווחים מתים מוסרים מחרוזות וביטויים רגולריים נשמרים שלמים",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "בודק Regex",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/regex-tester/",
+  "s": "Loona Dev Tools",
+  "d": "בדקו ביטויים רגולריים חיים - התאמות מודגשות, קבוצות לכידה מפורטות, ספירה מוצגת.",
+  "k": "regex tester regex tester test regular expressions live matches highlighted capture groups listed count shown בודק regex בדקו ביטויים רגולריים חיים התאמות מודגשות קבוצות לכידה מפורטות ספירה מוצגת",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "בודק Diff",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/diff-checker/",
+  "s": "Loona Dev Tools",
+  "d": "השוו שני טקסטים שורה אחר שורה - שורות שנוספו והוסרו מודגשות, עם סיכום שינויים.",
+  "k": "diff checker diff checker compare two texts line by line added and removed lines highlighted with a change summary בודק diff השוו שני טקסטים שורה אחר שורה שורות שנוספו והוסרו מודגשות עם סיכום שינויים",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר JSON ל-CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/json-to-csv-converter/",
+  "s": "Loona Dev Tools",
+  "d": "הפכו מערך JSON של אובייקטים לקובץ CSV נקי - איחוד כל המפתחות, מרכאות מתאימות, לחיצה אחת.",
+  "k": "json to csv converter json to csv converter turn a json array of objects into a clean csv file union of all keys proper quoting one click ממיר json ל csv הפכו מערך json של אובייקטים לקובץ csv נקי איחוד כל המפתחות מרכאות מתאימות לחיצה אחת",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר CSV ל-JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/csv-to-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "המירו CSV למערך JSON של אובייקטים - מנתח אמיתי המטפל בפסיקים במרכאות ובמרכאות מבורחות.",
+  "k": "csv to json converter csv to json converter convert csv to a json array of objects a real parser that handles quoted commas and escaped quotes ממיר csv ל json המירו csv למערך json של אובייקטים מנתח אמיתי המטפל בפסיקים במרכאות ובמרכאות מבורחות",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר YAML ⇄ JSON",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/yaml-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "המירו את תת-הקבוצה הנפוצה של YAML (מפות, רשימות, סקלרים) ל-JSON ואת JSON בחזרה ל-YAML - בטווח כן.",
+  "k": "yaml json converter yaml json converter convert the common yaml subset maps lists scalars to json and json back to yaml honestly scoped ממיר yaml json המירו את תת הקבוצה הנפוצה של yaml מפות רשימות סקלרים ל json ואת json בחזרה ל yaml בטווח כן",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "מעצב SQL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/sql-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "עצבו SQL עם מילות מפתח באותיות גדולות וכל פסקה מרכזית בשורה משלה - שאילתות קריאות בלחיצה אחת.",
+  "k": "sql formatter sql formatter format sql with uppercase keywords and each major clause on its own line readable queries in one click מעצב sql עצבו sql עם מילות מפתח באותיות גדולות וכל פסקה מרכזית בשורה משלה שאילתות קריאות בלחיצה אחת",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר בסיסי מספר",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/number-base-converter/",
+  "s": "Loona Dev Tools",
+  "d": "המירו בין בינארי, אוקטלי, עשרוני והקס עם דיוק מספר-שלם-גדול מלא - בלי מגבלת 2^53.",
+  "k": "number base converter number base converter convert between binary octal decimal and hex with full big integer precision no 2 53 limit ממיר בסיסי מספר המירו בין בינארי אוקטלי עשרוני והקס עם דיוק מספר שלם גדול מלא בלי מגבלת 2 53",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "מחשבון Chmod",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/chmod-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "סמנו תיבות קריאה/כתיבה/הרצאה לבעלים, קבוצה ואחרים - קבלו את האוקטלי והסימלי מיד.",
+  "k": "chmod calculator chmod calculator tick read write execute boxes for owner group and others get the octal and symbolic permission instantly מחשבון chmod סמנו תיבות קריאה כתיבה הרצאה לבעלים קבוצה ואחרים קבלו את האוקטלי והסימלי מיד",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "בודק חוזק סיסמה",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/password-strength-checker/",
+  "s": "Loona Dev Tools",
+  "d": "ראו אומדן אנטרופיית סיסמה בביטים, מה מחליש אותה, וכמה זמן תקיפת כוח גס לא-מקוונת מהירה תיקח.",
+  "k": "password strength checker password strength checker see a password entropy estimate in bits what weakens it and how long a fast offline attack would take בודק חוזק סיסמה ראו אומדן אנטרופיית סיסמה בביטים מה מחליש אותה וכמה זמן תקיפת כוח גס לא מקוונת מהירה תיקח",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל ביטויי Cron",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/cron-expression-generator/",
+  "s": "Loona Dev Tools",
+  "d": "בנו ביטוי cron של 5 שדות מתפריטים נפתחים פשוטים, וקבלו כל ביטוי cron מוסבר בעברית פשוטה.",
+  "k": "cron expression generator cron expression generator build a 5 field cron expression from plain dropdowns and get any cron expression explained in plain english מחולל ביטויי cron בנו ביטוי cron של 5 שדות מתפריטים נפתחים פשוטים וקבלו כל ביטוי cron מוסבר בעברית פשוטה",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "מנתח ובונה כתובת",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/url-parser/",
+  "s": "Loona Dev Tools",
+  "d": "פרקו כתובת URL לפרוטוקול, מארח, פורט, נתיב, פרמטרי שאילתה ו-hash - ואז ערכו את הפרמטרים ובנו אותה מחדש.",
+  "k": "url parser builder url parser break a url into protocol host port path query parameters and hash then edit the parameters and rebuild it מנתח ובונה כתובת פרקו כתובת url לפרוטוקול מארח פורט נתיב פרמטרי שאילתה ו hash ואז ערכו את הפרמטרים ובנו אותה מחדש",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "יוצר קבצי ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/zip-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "אגדו קבצים מרובים לארכיון ZIP אחד - נבנה בדפדפן שלכם, שום דבר לא מועלה.",
+  "k": "zip file creator zip file creator bundle multiple files into a single zip archive built in your browser nothing uploaded יוצר קבצי zip אגדו קבצים מרובים לארכיון zip אחד נבנה בדפדפן שלכם שום דבר לא מועלה",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "מחלץ קבצי פתיחת ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/unzip-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "פתחו ZIP, ראו כל קובץ בפנים עם גודלו, וחלצו קובץ אחד או את כולם.",
+  "k": "unzip file extractor unzip file extractor open a zip see every file inside with its size and extract one file or all of them מחלץ קבצי פתיחת zip פתחו zip ראו כל קובץ בפנים עם גודלו וחלצו קובץ אחד או את כולם",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "מחלץ קבצי RAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/rar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "פתחו קבצי RAR ‏(RAR4 ו-RAR5) בדפדפן שלכם - ראו כל קובץ בפנים, הורידו קובץ אחד או הכול כ-ZIP.",
+  "k": "rar file extractor rar file extractor open rar files rar4 and rar5 in your browser see every file inside download one file or everything as a zip מחלץ קבצי rar פתחו קבצי rar rar4 ו rar5 בדפדפן שלכם ראו כל קובץ בפנים הורידו קובץ אחד או הכול כ zip",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "מחלץ קבצי 7Z",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/7z-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "פתחו ארכיוני 7z בדפדפן שלכם - צפו בתוכן וחלצו קבצים בודדים או הכול כ-ZIP.",
+  "k": "7z file extractor 7z file extractor open 7z archives in your browser view the contents and extract single files or everything as a zip מחלץ קבצי 7z פתחו ארכיוני 7z בדפדפן שלכם צפו בתוכן וחלצו קבצים בודדים או הכול כ zip",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "מחלץ קבצי TAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/tar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "פתחו ארכיוני ‎.tar, ‏‎.tar.bz2 ו-‎.tar.xz בדפדפן שלכם וחלצו את הקבצים שבפנים - שום דבר לא מועלה.",
+  "k": "tar file extractor tar file extractor open tar tar bz2 and tar xz archives in your browser and extract the files inside nothing uploaded מחלץ קבצי tar פתחו ארכיוני tar tar bz2 ו tar xz בדפדפן שלכם וחלצו את הקבצים שבפנים שום דבר לא מועלה",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "מחלץ קבצי TAR.GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/tar-gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "פתחו ארכיוני ‎.tar.gz ו-‎.tgz בדפדפן שלכם - גלשו בקבצים שבפנים וחלצו מה שאתם צריכים.",
+  "k": "tar gz file extractor tar gz file extractor open tar gz and tgz archives in your browser browse the files inside and extract what you need מחלץ קבצי tar gz פתחו ארכיוני tar gz ו tgz בדפדפן שלכם גלשו בקבצים שבפנים וחלצו מה שאתם צריכים",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "מחלץ קבצי GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "פרסו קובץ .gz בודד בדפדפן שלכם והורידו את המקורי - יומנים, ייצואי נתונים ומזבלות מסדי נתונים.",
+  "k": "gz file extractor gz file extractor decompress a single gz file in your browser and download the original logs data exports and database dumps מחלץ קבצי gz פרסו קובץ gz בודד בדפדפן שלכם והורידו את המקורי יומנים ייצואי נתונים ומזבלות מסדי נתונים",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "מחלץ קבצי ISO",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/iso-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "פתחו תמונות דיסק ISO בדפדפן שלכם, גלשו במערכת הקבצים המאוחסנת על הדיסק הווירטואלי והורידו קבצים.",
+  "k": "iso file extractor iso file extractor open iso disc images in your browser browse the file system stored on the virtual disc and download files מחלץ קבצי iso פתחו תמונות דיסק iso בדפדפן שלכם גלשו במערכת הקבצים המאוחסנת על הדיסק הווירטואלי והורידו קבצים",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "מחלץ קבצי ארכיון",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/archive-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "פותח ארכיונים אוניברסלי אחד ל-ZIP, ‏RAR, ‏7Z, ‏TAR, ‏ISO ועוד - הפורמט מזוהה אוטומטית.",
+  "k": "archive file extractor archive file extractor one universal archive opener for zip rar 7z tar iso and more the format is detected automatically מחלץ קבצי ארכיון פותח ארכיונים אוניברסלי אחד ל zip rar 7z tar iso ועוד הפורמט מזוהה אוטומטית",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר RAR ל-ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/rar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "המירו ארכיון RAR ל-ZIP סטנדרטי בדפדפן שלכם - מבנה התיקיות נשמר, שום דבר לא מועלה.",
+  "k": "rar to zip converter rar to zip converter convert a rar archive into a standard zip in your browser folder structure preserved nothing uploaded ממיר rar ל zip המירו ארכיון rar ל zip סטנדרטי בדפדפן שלכם מבנה התיקיות נשמר שום דבר לא מועלה",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר 7Z ל-ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/7z-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "המירו ארכיון 7Z ל-ZIP שנפתח בכל מקום - בלי צורך ב-7-Zip, שום דבר לא מועלה.",
+  "k": "7z to zip converter 7z to zip converter convert a 7z archive into a zip that opens anywhere no 7 zip needed nothing uploaded ממיר 7z ל zip המירו ארכיון 7z ל zip שנפתח בכל מקום בלי צורך ב 7 zip שום דבר לא מועלה",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר TAR ל-ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/tar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "המירו ארכיון TAR מ-Linux או Unix ל-ZIP שנפתח באופן מובנה ב-Windows, macOS וטלפונים.",
+  "k": "tar to zip converter tar to zip converter convert a tar archive from linux or unix into a zip that opens natively on windows macos and phones ממיר tar ל zip המירו ארכיון tar מ linux או unix ל zip שנפתח באופן מובנה ב windows macos וטלפונים",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר TAR.GZ ל-ZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/tar-gz-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "המירו .tar.gz או .tgz ל-ZIP אחד - גם שכבות ה-gzip וגם ה-tar נפרמות על המכשיר שלכם.",
+  "k": "tar gz to zip converter tar gz to zip converter convert tar gz or tgz into one zip both the gzip and tar layers are unwrapped on your device ממיר tar gz ל zip המירו tar gz או tgz ל zip אחד גם שכבות ה gzip וגם ה tar נפרמות על המכשיר שלכם",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר ZIP ל-TAR.GZ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/zip-to-tar-gz-converter/",
+  "s": "Loona Dev Tools",
+  "d": "המירו ארכיון ZIP ל-tarball מסוג .tar.gz - הפורמט ששרתי Linux, Docker וכלי בנייה מצפים לו.",
+  "k": "zip to tar gz converter zip to tar gz converter convert a zip archive into a tar gz tarball the format linux servers docker and build tools expect ממיר zip ל tar gz המירו ארכיון zip ל tarball מסוג tar gz הפורמט ששרתי linux docker וכלי בנייה מצפים לו",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "יוצר קבצי TAR",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/tar-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "צרו ארכיון .tar תקין לפי מפרט מקבצים מרובים בדפדפן שלכם - נפתח עם כל כלי tar.",
+  "k": "tar file creator tar file creator create a spec correct tar archive from multiple files in your browser opens with any tar tool יוצר קבצי tar צרו ארכיון tar תקין לפי מפרט מקבצים מרובים בדפדפן שלכם נפתח עם כל כלי tar",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "מדחס GZIP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/gzip-compressor/",
+  "s": "Loona Dev Tools",
+  "d": "דחסו כל קובץ בודד ל-.gz עם מנוע ה-gzip המובנה של הדפדפן שלכם - גדלים מיידיים של לפני/אחרי.",
+  "k": "gzip compressor gzip compressor compress any single file into a gz with your browser s built in gzip engine instant before after sizes מדחס gzip דחסו כל קובץ בודד ל gz עם מנוע ה gzip המובנה של הדפדפן שלכם גדלים מיידיים של לפני אחרי",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "מציג ועורך CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/csv-viewer-editor/",
+  "s": "Loona Dev Tools",
+  "d": "טענו CSV לרשת טבלה ניתנת לעריכה - ערכו תאים, מיינו עמודות, הוסיפו או הסירו שורות ועמודות, ואז הורידו.",
+  "k": "csv viewer editor csv viewer editor load csv into an editable table grid edit cells sort columns add or remove rows and columns then download מציג ועורך csv טענו csv לרשת טבלה ניתנת לעריכה ערכו תאים מיינו עמודות הוסיפו או הסירו שורות ועמודות ואז הורידו",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר CSV ל-SQL",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/csv-to-sql-converter/",
+  "s": "Loona Dev Tools",
+  "d": "הפכו CSV להצהרות CREATE TABLE ובנוסף INSERT עם סוגים מוסקים, ל-MySQL, ‏PostgreSQL או SQLite.",
+  "k": "csv to sql converter csv to sql converter turn csv into create table plus insert statements with inferred types for mysql postgresql or sqlite ממיר csv ל sql הפכו csv להצהרות create table ובנוסף insert עם סוגים מוסקים ל mysql postgresql או sqlite",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר CSV ל-XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/csv-to-xml-converter/",
+  "s": "Loona Dev Tools",
+  "d": "המירו שורות CSV ל-XML מעוצב היטב עם אלמנטי שורש ושורה ניתנים להגדרה ובריחה נכונה.",
+  "k": "csv to xml converter csv to xml converter convert csv rows to well formed xml with configurable root and row elements and proper escaping ממיר csv ל xml המירו שורות csv ל xml מעוצב היטב עם אלמנטי שורש ושורה ניתנים להגדרה ובריחה נכונה",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר CSV לטבלת Markdown",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/csv-to-markdown-converter/",
+  "s": "Loona Dev Tools",
+  "d": "המירו CSV לטבלת Markdown מוכנה ל-GitHub - עמודות מספריות מיושרות לימין, קווים אנכיים (pipes) מבורחים.",
+  "k": "csv to markdown table converter csv to markdown converter convert csv to a github ready markdown table numeric columns right aligned pipes escaped ממיר csv לטבלת markdown המירו csv לטבלת markdown מוכנה ל github עמודות מספריות מיושרות לימין קווים אנכיים pipes מבורחים",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "מנקה ומסיר כפילויות CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/csv-dedupe-cleaner/",
+  "s": "Loona Dev Tools",
+  "d": "הסירו שורות CSV כפולות לפי שורה שלמה או עמודות מפתח, קצצו רווחים והשליכו שורות ריקות, עם ספירות.",
+  "k": "csv dedupe cleaner csv dedupe cleaner remove duplicate csv rows by whole row or key columns trim whitespace and drop empty rows with counts מנקה ומסיר כפילויות csv הסירו שורות csv כפולות לפי שורה שלמה או עמודות מפתח קצצו רווחים והשליכו שורות ריקות עם ספירות",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "פיצול ומיזוג CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/csv-split-merge/",
+  "s": "Loona Dev Tools",
+  "d": "פצלו CSV לחלקים לפי ספירת שורות עם הכותרת חוזרת, או מזגו קבצי CSV החולקים כותרת.",
+  "k": "csv split merge csv split merge split a csv into parts by row count with the header repeated or merge csv files that share a header פיצול ומיזוג csv פצלו csv לחלקים לפי ספירת שורות עם הכותרת חוזרת או מזגו קבצי csv החולקים כותרת",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל תגיות Meta",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/meta-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "צרו בלוק מטא של HTML מוכן - כותרת, תיאור, robots, קנוני - עם תצוגה מקדימה חיה של SERP.",
+  "k": "meta tag generator meta tag generator generate a ready html meta block title description robots canonical with a live serp preview מחולל תגיות meta צרו בלוק מטא של html מוכן כותרת תיאור robots קנוני עם תצוגה מקדימה חיה של serp",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל Open Graph וכרטיס טוויטר",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/open-graph-generator/",
+  "s": "Loona Dev Tools",
+  "d": "בנו תגיות OG ו-Twitter Card עם תצוגה מקדימה חיה של כרטיס חברתי, כך שקישורים משותפים ייראו נכון.",
+  "k": "open graph twitter card generator open graph generator build og and twitter card tags with a live social card preview so shared links look right מחולל open graph וכרטיס טוויטר בנו תגיות og ו twitter card עם תצוגה מקדימה חיה של כרטיס חברתי כך שקישורים משותפים ייראו נכון",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל Robots.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/robots-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "בנו robots.txt תקף מהגדרות קבועות וכללים לפי סוכן, עם בדיקות שפיות על הפלט.",
+  "k": "robots txt generator robots txt generator build a valid robots txt from presets and per agent rules with sanity checks on the output מחולל robots txt בנו robots txt תקף מהגדרות קבועות וכללים לפי סוכן עם בדיקות שפיות על הפלט",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל מפת אתר XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/xml-sitemap-generator/",
+  "s": "Loona Dev Tools",
+  "d": "הפכו רשימת כתובות ל-sitemap.xml תקף עם ברירות מחדל lastmod,‏ changefreq ו-priority.",
+  "k": "xml sitemap generator xml sitemap generator turn a list of urls into a valid sitemap xml with lastmod changefreq and priority defaults מחולל מפת אתר xml הפכו רשימת כתובות ל sitemap xml תקף עם ברירות מחדל lastmod changefreq ו priority",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "בונה קישורי UTM",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/utm-link-builder/",
+  "s": "Loona Dev Tools",
+  "d": "תייגו כתובות קמפיין עם פרמטרי UTM - קידוד נכון, פרמטרים קיימים נשמרים, היסטוריה מקומית.",
+  "k": "utm link builder utm link builder tag campaign urls with utm parameters correct encoding existing parameters preserved local history בונה קישורי utm תייגו כתובות קמפיין עם פרמטרי utm קידוד נכון פרמטרים קיימים נשמרים היסטוריה מקומית",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "מחשבון רשתות IP (Subnet)",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/ip-subnet-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "IPv4 CIDR לרשת, שידור, מסכת רשת, wildcard, טווח מארחים וספירה, בתוספת תצוגת פיצול רשתות משנה.",
+  "k": "ip subnet calculator ip subnet calculator ipv4 cidr to network broadcast netmask wildcard host range and count plus a subnet splitting view מחשבון רשתות ip subnet ipv4 cidr לרשת שידור מסכת רשת wildcard טווח מארחים וספירה בתוספת תצוגת פיצול רשתות משנה",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל סכמות JSON-LD",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/json-ld-schema-generator/",
+  "s": "Loona Dev Tools",
+  "d": "צרו נתונים מובנים של schema.org - Article, Product, LocalBusiness, Event, Recipe ועוד - כ-JSON-LD תקף.",
+  "k": "json ld schema generator json ld schema generator generate schema org structured data article product localbusiness event recipe and more as valid json ld מחולל סכמות json ld צרו נתונים מובנים של schema org article product localbusiness event recipe ועוד כ json ld תקף",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "תצוגה מקדימה של Google SERP",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/google-serp-preview/",
+  "s": "Loona Dev Tools",
+  "d": "צפו מראש בכותרת ובתיאור שלכם כתוצאת Google, עם אזהרות קטיעת רוחב-פיקסלים, שולחן עבודה ונייד.",
+  "k": "google serp preview google serp preview preview your title and description as a google result with pixel width truncation warnings desktop and mobile תצוגה מקדימה של google serp צפו מראש בכותרת ובתיאור שלכם כתוצאת google עם אזהרות קטיעת רוחב פיקסלים שולחן עבודה ונייד",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "בודק צפיפות מילות מפתח",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/keyword-density-checker/",
+  "s": "Loona Dev Tools",
+  "d": "ספרו מילים בודדות בתוספת ביטויים של 2 מילים ו-3 מילים עם צפיפות באחוזים וסינון מילות עצירה.",
+  "k": "keyword density checker keyword density checker count single words plus 2 word and 3 word phrases with percentage density and stopword filtering בודק צפיפות מילות מפתח ספרו מילים בודדות בתוספת ביטויים של 2 מילים ו 3 מילים עם צפיפות באחוזים וסינון מילות עצירה",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל טבלאות HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/html-table-generator/",
+  "s": "Loona Dev Tools",
+  "d": "בנו טבלאות חזותית ברשת וקבלו HTML סמנטי נקי עם תמיכה ב-thead, th ו-caption.",
+  "k": "html table generator html table generator build tables visually in a grid and get clean semantic html with thead th and caption support מחולל טבלאות html בנו טבלאות חזותית ברשת וקבלו html סמנטי נקי עם תמיכה ב thead th ו caption",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל חתימת דוא\"ל ב-HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/email-signature-generator/",
+  "s": "Loona Dev Tools",
+  "d": "צרו חתימת דוא\"ל מקצועית כ-HTML של טבלה בטוח לדוא\"ל שעובד ב-Gmail וב-Outlook.",
+  "k": "html email signature generator email signature generator create a professional email signature as email safe table html that works in gmail and outlook מחולל חתימת דוא ל ב html צרו חתימת דוא ל מקצועית כ html של טבלה בטוח לדוא ל שעובד ב gmail וב outlook",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "מאמת דוא\"ל",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/email-validator/",
+  "s": "Loona Dev Tools",
+  "d": "בדקו כתובות דוא\"ל בכמות גדולה לאיתור שגיאות תחביר ושגיאות הקלדה נפוצות בדומיינים כמו gmial.com, עם הצעות.",
+  "k": "email validator email validator bulk check email addresses for syntax errors and common domain typos like gmial com with suggestions מאמת דוא ל בדקו כתובות דוא ל בכמות גדולה לאיתור שגיאות תחביר ושגיאות הקלדה נפוצות בדומיינים כמו gmial com עם הצעות",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל CSS Clip-Path",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/css-clip-path-generator/",
+  "s": "Loona Dev Tools",
+  "d": "צרו CSS של clip-path - תבניות מצולע עם נקודות מתכווננות, בתוספת צורות עיגול, אליפסה ו-inset.",
+  "k": "css clip path generator css clip path generator generate clip path css polygon presets with adjustable points plus circle ellipse and inset shapes מחולל css clip path צרו css של clip path תבניות מצולע עם נקודות מתכווננות בתוספת צורות עיגול אליפסה ו inset",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל CSS Box Shadow",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/css-box-shadow-generator/",
+  "s": "Loona Dev Tools",
+  "d": "בנו CSS של box-shadow מרובד עם תמיכה ב-inset, שליטה בצבע ובאטימות, ותצוגה מקדימה חיה.",
+  "k": "css box shadow generator css box shadow generator build layered box shadow css with inset support colour and opacity control and a live preview מחולל css box shadow בנו css של box shadow מרובד עם תמיכה ב inset שליטה בצבע ובאטימות ותצוגה מקדימה חיה",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "מעצב ומאמת XML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/xml-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "ייפוי, מזעור ואימות של XML - בדיקות תקינות של תגיות מאוזנות עם הודעות שגיאה ברורות.",
+  "k": "xml formatter validator xml formatter beautify minify and validate xml balanced tag well formedness checks with clear error messages מעצב ומאמת xml ייפוי מזעור ואימות של xml בדיקות תקינות של תגיות מאוזנות עם הודעות שגיאה ברורות",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "ממיר Markdown ל-HTML",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/markdown-to-html-converter/",
+  "s": "Loona Dev Tools",
+  "d": "המירו Markdown יומיומי ל-HTML נקי עם תצוגה מקדימה מרונדרת חיה - כותרות, רשימות, קוד ועוד.",
+  "k": "markdown to html converter markdown to html converter convert everyday markdown to clean html with a live rendered preview headings lists code and more ממיר markdown ל html המירו markdown יומיומי ל html נקי עם תצוגה מקדימה מרונדרת חיה כותרות רשימות קוד ועוד",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "שחלוף CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/csv-transpose/",
+  "s": "Loona Dev Tools",
+  "d": "החליפו שורות ועמודות CSV עם מנתח מתאים - החלפה פעמיים מחזירה את המקור.",
+  "k": "csv transpose csv transpose swap csv rows and columns with a proper parser transposing twice returns the original שחלוף csv החליפו שורות ועמודות csv עם מנתח מתאים החלפה פעמיים מחזירה את המקור",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "חיבור CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/csv-join/",
+  "s": "Loona Dev Tools",
+  "d": "מזגו שני קבצי CSV על עמודת מפתח - חיבור פנימי או שמאלי, מפתחות כפולים מטופלים בדרך של מסד הנתונים.",
+  "k": "csv join csv join merge two csvs on a key column inner or left join duplicate keys handled the database way חיבור csv מזגו שני קבצי csv על עמודת מפתח חיבור פנימי או שמאלי מפתחות כפולים מטופלים בדרך של מסד הנתונים",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "ציר CSV / קבץ-לפי",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/csv-pivot-group-by/",
+  "s": "Loona Dev Tools",
+  "d": "קבצו שורות CSV לפי עמודה עם סכום, ספירה, ממוצע, מינימום או מקסימום של עמודת ערך.",
+  "k": "csv pivot group by csv pivot group by group csv rows by a column with sum count average min or max of a value column ציר csv קבץ לפי קבצו שורות csv לפי עמודה עם סכום ספירה ממוצע מינימום או מקסימום של עמודת ערך",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "השוואת CSV / Diff",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/csv-diff/",
+  "s": "Loona Dev Tools",
+  "d": "השוו שני קבצי CSV לפי עמודת מפתח - שורות שנוספו, הוסרו ושונו עם התאים המדויקים.",
+  "k": "csv diff compare csv diff compare two csvs by key column added removed and changed rows with the exact cells השוואת csv diff השוו שני קבצי csv לפי עמודת מפתח שורות שנוספו הוסרו ושונו עם התאים המדויקים",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "מחלץ נתוני CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/csv-data-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "משכו כתובות דוא\"ל, מספרי טלפון וכתובות מתוך CSV או טקסט מבולגנים לרשימות נקיות ונטולות כפילויות.",
+  "k": "csv data extractor csv data extractor pull emails phone numbers and urls out of messy csv or text into clean de duplicated lists מחלץ נתוני csv משכו כתובות דוא ל מספרי טלפון וכתובות מתוך csv או טקסט מבולגנים לרשימות נקיות ונטולות כפילויות",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "פרופיילר CSV",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/csv-profiler/",
+  "s": "Loona Dev Tools",
+  "d": "ניחושי סוג לפי עמודה, ספירות ריקים, ספירות ייחודיים, מינימום/מקסימום מספרי וערכים מובילים.",
+  "k": "csv profiler csv profiler per column type guesses empty counts unique counts numeric min max and top values פרופיילר csv ניחושי סוג לפי עמודה ספירות ריקים ספירות ייחודיים מינימום מקסימום מספרי וערכים מובילים",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "בודק Robots.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/robots-txt-tester/",
+  "s": "Loona Dev Tools",
+  "d": "בדקו כתובת ו-user-agent מול כללי robots.txt - פסק דין ובנוסף הכלל המתאים המדויק.",
+  "k": "robots txt tester robots txt tester test a url and user agent against robots txt rules verdict plus the exact matching rule בודק robots txt בדקו כתובת ו user agent מול כללי robots txt פסק דין ובנוסף הכלל המתאים המדויק",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "בודק קריאות SEO",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/readability-checker/",
+  "s": "Loona Dev Tools",
+  "d": "שש נוסחאות קריאות ובנוסף סטטיסטיקות משפטים לעותק אינטרנט, ממוסגר לעבודת תוכן SEO.",
+  "k": "seo readability checker readability checker six readability formulas plus sentence stats for web copy framed for seo content work בודק קריאות seo שש נוסחאות קריאות ובנוסף סטטיסטיקות משפטים לעותק אינטרנט ממוסגר לעבודת תוכן seo",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל llms.txt",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/llms-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "בנו את קובץ ה-llms.txt הפונה ל-AI - פסקת סיכום במרכאות בלוק בתוספת קישורי דפים מאוצרים בפורמט המפרט.",
+  "k": "llms txt generator llms txt generator build the ai facing llms txt file summary blockquote plus curated page links in spec format מחולל llms txt בנו את קובץ ה llms txt הפונה ל ai פסקת סיכום במרכאות בלוק בתוספת קישורי דפים מאוצרים בפורמט המפרט",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "מחולל תגיות Hreflang",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/hreflang-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "בנו קבוצות קישורי hreflang חלופיות עם x-default ובדיקות BCP 47 / URL מוחלט.",
+  "k": "hreflang tag generator hreflang tag generator build hreflang alternate link sets with x default and bcp 47 absolute url checks מחולל תגיות hreflang בנו קבוצות קישורי hreflang חלופיות עם x default ובדיקות bcp 47 url מוחלט",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "מציג מטא-נתוני מסמך Office",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/office-metadata-viewer/",
+  "s": "Loona Dev Tools",
+  "d": "קראו מאפייני DOCX, XLSX ו-PPTX - כותרת, מחבר, חברה, תאריכים - לצפייה בלבד, על המכשיר.",
+  "k": "office document metadata viewer office metadata viewer read docx xlsx and pptx properties title author company dates view only on device מציג מטא נתוני מסמך office קראו מאפייני docx xlsx ו pptx כותרת מחבר חברה תאריכים לצפייה בלבד על המכשיר",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "גלאי סוג קובץ",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/he/file-type-detector/",
+  "s": "Loona Dev Tools",
+  "d": "זהו את הסוג האמיתי של קובץ מבתי הקסם שלו והזהירו כשהסיומת חולקת.",
+  "k": "file type detector file type detector detect a file s real type from its magic bytes and warn when the extension disagrees גלאי סוג קובץ זהו את הסוג האמיתי של קובץ מבתי הקסם שלו והזהירו כשהסיומת חולקת",
+  "p": 171,
+  "c": "Tool"
+ }
+]

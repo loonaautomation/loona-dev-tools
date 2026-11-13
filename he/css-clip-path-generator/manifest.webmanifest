@@ -1,0 +1,29 @@
+{
+  "name": "מחולל Loona CSS Clip-Path מקוון בחינם",
+  "short_name": "מחולל CSS Clip-Path",
+  "description": "צרו CSS של clip-path באופן מקוון בחינם - תבניות מצולע כמו כוכב, משושה וחץ עם נקודות מתכווננות, בתוספת צורות עיגול, אליפסה ו-inset, עם תצוגה מקדימה חיה. בלי הרשמה.",
+  "id": "/loona-dev-tools/he/css-clip-path-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

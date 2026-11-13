@@ -1,0 +1,29 @@
+{
+  "name": "בודק Diff של Loona מקוון בחינם",
+  "short_name": "בודק Diff מקוון בחינם",
+  "description": "השוו שני טקסטים באופן מקוון בחינם עם diff שורה-אחר-שורה: שורות שנוספו בירוק, שורות שהוסרו באדום, בתוספת סיכום שינויים. בלי הרשמה, פועל 100% בדפדפן שלכם.",
+  "id": "/loona-dev-tools/he/diff-checker/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

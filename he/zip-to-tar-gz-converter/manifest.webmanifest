@@ -1,0 +1,29 @@
+{
+  "name": "ממיר Loona ZIP ל-TAR.GZ מקוון בחינם",
+  "short_name": "ממיר ZIP ל-TAR.GZ",
+  "description": "המירו ארכיון ZIP ל-tarball מסוג TAR.GZ ‏(.tar.gz) ממש בדפדפן שלכם - הפורמט ששרתי Linux, Docker וכלי בנייה מצפים לו. מבנה התיקיות נשמר, שום דבר לא מועלה.",
+  "id": "/loona-dev-tools/he/zip-to-tar-gz-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona קידוד URL (קידוד אחוזים)",
+  "short_name": "קידוד כתובת (קידוד-אחוזים)",
+  "description": "קודדו טקסט או כתובת מלאה ב-Percent-Encoding מקוון: רווחים הופכים ל-%20, תווים שמורים מבורחים לפי RFC 3986. מצב רכיב או כתובת מלאה.",
+  "id": "/loona-dev-tools/he/url-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

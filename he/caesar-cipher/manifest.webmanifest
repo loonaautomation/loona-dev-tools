@@ -1,0 +1,29 @@
+{
+  "name": "מקודד ומפענח צופן קיסר Loona",
+  "short_name": "מקודד ומפענח צופן קיסר ו",
+  "description": "צופן קיסר עם כל היסט (1–25) ומצב פענוח: צופן ההחלפה הקלאסי של יוליוס קיסר, באופן מקוון.",
+  "id": "/loona-dev-tools/he/caesar-cipher/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

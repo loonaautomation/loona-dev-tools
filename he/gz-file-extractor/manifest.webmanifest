@@ -1,0 +1,29 @@
+{
+  "name": "מחלץ קבצי Loona GZ מקוון בחינם",
+  "short_name": "מחלץ קבצי GZ מקוון בחינם",
+  "description": "פרסו קובץ .gz בודד ממש בדפדפן שלכם והורידו את הקובץ המקורי - יומנים, ייצואי נתונים, מזבלות מסדי נתונים. שום דבר לא מועלה; הדפדפן שלכם עושה את העבודה באופן מובנה.",
+  "id": "/loona-dev-tools/he/gz-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

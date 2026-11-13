@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="msvalidate.01" content="668EEE252F09B71CC35E95DB8F5999EF">
+<title>Loona Developer Tools - כלי פיתוח מקוונים בחינם (בלי העלאה, בלי הרשמה)</title>
+<meta name="description" content="כלי פיתוח מקוונים בחינם - מעצב JSON, מקודד Base64, מחולל UUID, מחולל גיבוב, מפענח JWT, ממיר חותמות זמן ועוד. 100% בחינם, בלי הרשמה, פרטי.">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-dev-tools/he/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-dev-tools/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-dev-tools/es/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-dev-tools/de/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-dev-tools/fr/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-dev-tools/pt/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-dev-tools/it/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-dev-tools/nl/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-dev-tools/ar/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-dev-tools/ur/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-dev-tools/tr/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-dev-tools/ru/"><link rel="alternate" hreflang="id" href="https://loonaautomation.github.io/loona-dev-tools/id/"><link rel="alternate" hreflang="hi" href="https://loonaautomation.github.io/loona-dev-tools/hi/"><link rel="alternate" hreflang="bn" href="https://loonaautomation.github.io/loona-dev-tools/bn/"><link rel="alternate" hreflang="ja" href="https://loonaautomation.github.io/loona-dev-tools/ja/"><link rel="alternate" hreflang="ko" href="https://loonaautomation.github.io/loona-dev-tools/ko/"><link rel="alternate" hreflang="zh" href="https://loonaautomation.github.io/loona-dev-tools/zh/"><link rel="alternate" hreflang="pl" href="https://loonaautomation.github.io/loona-dev-tools/pl/"><link rel="alternate" hreflang="vi" href="https://loonaautomation.github.io/loona-dev-tools/vi/"><link rel="alternate" hreflang="th" href="https://loonaautomation.github.io/loona-dev-tools/th/"><link rel="alternate" hreflang="ms" href="https://loonaautomation.github.io/loona-dev-tools/ms/"><link rel="alternate" hreflang="ro" href="https://loonaautomation.github.io/loona-dev-tools/ro/"><link rel="alternate" hreflang="cs" href="https://loonaautomation.github.io/loona-dev-tools/cs/"><link rel="alternate" hreflang="sv" href="https://loonaautomation.github.io/loona-dev-tools/sv/"><link rel="alternate" hreflang="nb" href="https://loonaautomation.github.io/loona-dev-tools/nb/"><link rel="alternate" hreflang="en-us" href="https://loonaautomation.github.io/loona-dev-tools/en-us/"><link rel="alternate" hreflang="en-gb" href="https://loonaautomation.github.io/loona-dev-tools/en-gb/"><link rel="alternate" hreflang="zh-hant" href="https://loonaautomation.github.io/loona-dev-tools/zh-hant/"><link rel="alternate" hreflang="pt-br" href="https://loonaautomation.github.io/loona-dev-tools/pt-br/"><link rel="alternate" hreflang="pt-pt" href="https://loonaautomation.github.io/loona-dev-tools/pt-pt/"><link rel="alternate" hreflang="he" href="https://loonaautomation.github.io/loona-dev-tools/he/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-dev-tools/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Loona Developer Tools">
+<meta property="og:title" content="Loona Developer Tools - כלי פיתוח מקוונים בחינם (בלי העלאה, בלי הרשמה)">
+<meta property="og:description" content="כלי פיתוח מקוונים בחינם - מעצב JSON, מקודד Base64, מחולל UUID, מחולל גיבוב, מפענח JWT, ממיר חותמות זמן ועוד. 100% בחינם, בלי הרשמה, פרטי.">
+<meta property="og:url" content="https://loonaautomation.github.io/loona-dev-tools/he/"><meta property="og:locale" content="he_IL">
+<meta property="og:image" content="https://loonaautomation.github.io/loona-dev-tools/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Loona Developer Tools - כלי פיתוח מקוונים בחינם (בלי העלאה, בלי הרשמה)">
+<meta name="twitter:description" content="כלי פיתוח מקוונים בחינם - מעצב JSON, מקודד Base64, מחולל UUID, מחולל גיבוב, מפענח JWT, ממיר חותמות זמן ועוד. 100% בחינם, בלי הרשמה, פרטי.">
+<meta name="twitter:image" content="https://loonaautomation.github.io/loona-dev-tools/og-image.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="../favicon-32.png">
+<link rel="icon" href="../favicon.ico">
+<link rel="apple-touch-icon" href="../apple-touch-icon.png">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","z599jkwoy9");</script>
+<style>
+:root{--teal:#062e2a;--teal2:#0b3d37;--gold:#c9a227;--gold2:#e3c565;--ink:#12211e;--mut:#5a6d68;--bg:#f6f4ec;--card:#ffffff;--line:#e3ddc9;--radius:16px}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+a{color:#0a5c50;text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{position:sticky;top:0;z-index:50;background:var(--teal);box-shadow:0 2px 14px rgba(0,0,0,.25)}
+.header-in{max-width:1140px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:10px 16px}
+.brand{display:flex;align-items:center;gap:10px;color:#fff;font-weight:700;font-size:1.15rem}
+.brand img{width:40px;height:40px;border-radius:9px}
+.brand span{color:var(--gold2)}
+nav.main{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+nav.main a{color:#dcebe4;padding:7px 11px;border-radius:9px;font-size:.93rem}
+nav.main a:hover{background:var(--teal2);text-decoration:none;color:#fff}
+.wrap{max-width:1140px;margin:0 auto;padding:0 16px}
+.hero{background:linear-gradient(135deg,var(--teal) 0%,#0d4a41 60%,#10604f 100%);color:#fff;padding:52px 0 46px;text-align:center}
+.hero h1{font-size:2.35rem;line-height:1.2;margin-bottom:12px}
+.hero h1 .gold{color:var(--gold2)}
+.hero p{max-width:720px;margin:0 auto 8px;color:#d7e8df;font-size:1.06rem}
+.hero .badges{margin-top:18px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.badge{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);color:#fff;padding:5px 13px;border-radius:999px;font-size:.85rem}
+.crumbs{font-size:.86rem;color:var(--mut);padding:16px 0 4px}
+.crumbs a{color:var(--mut)}
+main.page{padding:8px 0 10px}
+h1.tool{font-size:2rem;line-height:1.25;color:var(--teal);margin:6px 0 8px}
+.inshort{background:#fff8e1;border-left:4px solid var(--gold);padding:12px 16px;border-radius:0 12px 12px 0;margin:12px 0 16px;font-size:1.0rem}
+.lede{color:#33473f;max-width:820px;margin-bottom:18px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:0 4px 18px rgba(6,46,42,.06);margin-bottom:22px}
+.btn{display:inline-block;background:var(--gold);color:#231a00;font-weight:700;border:none;padding:12px 26px;border-radius:11px;font-size:1rem;cursor:pointer;box-shadow:0 3px 10px rgba(201,162,39,.35)}
+.btn:hover{background:var(--gold2)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:#fff;border:1.5px solid var(--teal);color:var(--teal);box-shadow:none;padding:9px 18px;font-size:.93rem}
+.btn.small{padding:7px 13px;font-size:.86rem}
+.row{display:flex;gap:14px;flex-wrap:wrap;margin:14px 0}
+.field{flex:1;min-width:150px}
+.field label{display:block;font-weight:600;font-size:.9rem;margin-bottom:5px;color:var(--teal)}
+.field select,.field input[type=text],.field input[type=number],.field textarea{width:100%;padding:10px 12px;border:1.5px solid #cfc9ae;border-radius:10px;font-size:.97rem;background:#fff;font-family:inherit}
+.field textarea{min-height:150px;resize:vertical}
+textarea.big{min-height:220px;font-size:1rem;line-height:1.65}
+textarea.mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.92rem}
+input[type=range]{width:100%}
+.check{display:flex;align-items:center;gap:8px;font-size:.95rem;margin:6px 0;cursor:pointer}
+.check input{width:17px;height:17px;accent-color:#0b3d37}
+.status{margin-top:14px;font-size:.95rem;min-height:22px}
+.status.ok{color:#0a6b3c}.status.err{color:#b3261e}
+.privacy-note{background:#e9f5ef;border:1px solid #bfe0cd;color:#14532d;border-radius:12px;padding:12px 16px;font-size:.94rem;margin-bottom:22px}
+section.block{margin:30px 0}
+section.block h2{color:var(--teal);font-size:1.45rem;margin-bottom:12px}
+section.block h3{color:var(--teal);margin:14px 0 6px}
+section.block p,section.block li{color:#33473f}
+section.block ol,section.block ul{padding-left:22px}
+section.block li{margin-bottom:6px}
+.strip{display:flex;gap:8px;flex-wrap:wrap}
+.chip{background:#fff;border:1.5px solid var(--gold);color:var(--teal);font-weight:600;padding:8px 15px;border-radius:999px;font-size:.9rem}
+.chip:hover{background:#fff7dd;text-decoration:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;display:block;color:var(--ink);transition:.15s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(6,46,42,.12);text-decoration:none;border-color:var(--gold)}
+.card .ic{font-size:1.9rem;margin-bottom:8px}
+.card h3{color:var(--teal);font-size:1.12rem;margin-bottom:5px}
+.card p{color:var(--mut);font-size:.92rem}
+details.faq{background:#fff;border:1px solid var(--line);border-radius:12px;padding:13px 17px;margin-bottom:10px}
+details.faq summary{cursor:pointer;font-weight:600;color:var(--teal)}
+details.faq p{margin-top:8px;color:#33473f}
+.kv{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:12px}
+.kv div{background:#faf8ef;border:1px solid var(--line);border-radius:10px;padding:9px 12px;font-size:.92rem}
+.kv b{color:var(--teal);display:block;font-size:1.05rem}
+table.freq{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+table.freq th,table.freq td{padding:8px 12px;border-bottom:1px solid var(--line);text-align:left;font-size:.94rem}
+table.freq th{background:#faf8ef;color:var(--teal)}
+.diffout{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9rem;line-height:1.55;max-height:480px;overflow:auto}
+.diffout .add{background:#e2f4e5}
+.diffout .del{background:#fbe3e1}
+.fancyrow{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin-bottom:9px}
+.fancyrow .fv{flex:1;font-size:1.08rem;word-break:break-all}
+footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
+.footer-in{max-width:1140px;margin:0 auto;padding:30px 16px;display:flex;gap:26px;flex-wrap:wrap}
+.footer-in h4{color:var(--gold2);margin-bottom:9px;font-size:1rem}
+.footer-in a{color:#cfe0d6;display:block;margin-bottom:5px;font-size:.93rem}
+.footer-in .col{min-width:170px}
+.copyright{border-top:1px solid #12463e;text-align:center;padding:14px;font-size:.86rem;color:#9db8ab}
+@media(max-width:640px){.hero h1{font-size:1.7rem}h1.tool{font-size:1.55rem}.panel{padding:16px}nav.main a{padding:6px 8px;font-size:.86rem}}
+
+.ls{max-width:640px;margin:22px auto 4px;position:relative;text-align:left}
+.ls-box{display:flex;background:#fff;border-radius:999px;overflow:hidden;box-shadow:0 8px 24px rgba(0,0,0,.28);border:2px solid var(--gold,#d4af37)}
+.ls-box input{flex:1;border:0;outline:0;padding:14px 18px;font-size:1.02rem;min-width:0;color:var(--ink,#12211c);background:#fff}
+.ls-box button{border:0;background:var(--gold,#d4af37);color:#231a00;font-weight:800;padding:0 22px;font-size:1rem;cursor:pointer}
+.ls-box button:hover{background:var(--gold2,#b8912a)}
+.ls-list{position:absolute;left:0;right:0;top:calc(100% + 8px);background:#fff;border-radius:14px;box-shadow:0 18px 44px rgba(0,0,0,.35);z-index:60;max-height:70vh;overflow-y:auto;text-align:left}
+.ls-item{display:block;padding:10px 16px;text-decoration:none;border-bottom:1px solid #eee9da}
+.ls-item:last-of-type{border-bottom:0}
+.ls-item:hover,.ls-item.act{background:#fbf6df}
+.ls-nm{font-weight:700;color:var(--ink,#12211c)}
+.ls-badge{display:inline-block;margin-left:8px;background:var(--teal,#062e2a);color:#ffe9a8;font-size:.68rem;font-weight:700;padding:2px 8px;border-radius:999px;vertical-align:2px;white-space:nowrap}
+.ls-ds{display:block;color:#5a6660;font-size:.85rem;margin-top:1px}
+.ls-none{padding:12px 16px;color:#5a6660;font-size:.92rem}
+@media(max-width:560px){.ls-box button{padding:0 14px}.ls-box input{padding:12px 14px;font-size:.98rem}}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Loona Developer Tools","url":"https://loonaautomation.github.io/loona-dev-tools/he/","publisher":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"},"description":"כלי פיתוח מקוונים בחינם - מעצב JSON, מקודד Base64, מחולל UUID, מחולל גיבוב, מפענח JWT, ממיר חותמות זמן ועוד. 100% בחינם, בלי הרשמה, פרטי."}</script>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
+</head>
+<body>
+<header class="site"><div class="header-in">
+<a class="brand" href="./"><img src="../apple-touch-icon.png" alt="לוגו Loona Automation">Loona <span>כלי פיתוח</span></a>
+<nav class="main">
+<a href="./">בית</a>
+<a href="json-formatter/">מעצב JSON</a>
+<a href="uuid-generator/">מחולל UUID</a>
+<a href="hash-generator/">מחולל גיבוב</a>
+<a href="jwt-decoder/">מפענח JWT</a>
+<a href="about.html">אודות</a>
+</nav></div></header>
+<div class="hero"><div class="wrap">
+<h1>מקוון בחינם <span class="gold">כלי פיתוח</span><br>שלעולם לא מעלים את הנתונים שלכם</h1>
+<p>בקצרה: Loona Developer Tools נותן לכם 71 כלים בחינם לעצב, לקודד, לפענח, ליצור ולהמיר את הנתונים שמפתחים מטפלים בהם מדי יום - כולם מעובדים בפרטיות בתוך הדפדפן שלכם.</p>
+<p>בחרו כלי למטה וסיימו את העבודה בשניות. בלי חשבונות, בלי תורים, בלי סימני מים.</p>
+
+<div class="ls"><form id="lsForm" role="search" autocomplete="off">
+<div class="ls-box"><input id="lsInput" type="search" placeholder="חפשו 72 כלי מפתחים&hellip; נסו &lsquo;json&rsquo;" aria-label="חפשו 72 כלי מפתחים" autocomplete="off"><button type="submit">חיפוש</button></div>
+<div id="lsList" class="ls-list" role="listbox" hidden></div>
+</form></div>
+<div class="badges"><span class="badge">100% בחינם</span><span class="badge">בלי הרשמה</span><span class="badge">הנתונים לעולם לא עוזבים את המכשיר שלכם</span><span class="badge">עובד בנייד</span></div>
+</div></div>
+<div class="wrap">
+<main class="page">
+<section class="block" id="tools"><h2>כל 71 כלי הפיתוח</h2><div class="grid"><a class="card" href="converter-library/"><div class="ic">⇄</div><h3>ספריית ממירים ומחוללים</h3><p>126 ממירים ומחוללים חדשים: קידודים, פורמטי נתונים (JSON, YAML, XML, TOML, CSV), גיבובים, צבעים, ארכיונים, מחוללי קוד וחומרי עזר.</p></a>
+<a class="card" href="json-formatter/"><div class="ic">{ }</div><h3>מעצב JSON</h3><p>אמתו, הדפיסו יפה ומזערו JSON, עם המיקום המדויק של כל שגיאה.</p></a><a class="card" href="base64-encoder/"><div class="ic">64</div><h3>מקודד ומפענח Base64</h3><p>קודדו טקסט וקבצים ל-Base64, או פענחו אותו בחזרה - בטוח ל-UTF-8, אפשרות בטוחה ל-URL כלולה.</p></a><a class="card" href="url-encoder/"><div class="ic">%20</div><h3>מקודד ומפענח כתובת</h3><p>קודדו טקסט וכתובות ב-Percent-Encoding בבטחה, עם טבלת פירוט לפי תו.</p></a><a class="card" href="uuid-generator/"><div class="ic">ID</div><h3>מחולל UUID</h3><p>צרו UUID-ים אקראיים גרסה 4 - אחד בכל פעם או בכמות עד 100.</p></a><a class="card" href="hash-generator/"><div class="ic">#</div><h3>מחולל גיבוב</h3><p>תקצירי SHA-1,‏ SHA-256,‏ SHA-384 ו-SHA-512 של כל טקסט, מחושבים בדפדפן שלכם.</p></a><a class="card" href="jwt-decoder/"><div class="ic">JWT</div><h3>מפענח JWT</h3><p>פענחו כותרת ומטען של JSON Web Token וקראו את התפוגה שלו במילים פשוטות.</p></a><a class="card" href="timestamp-converter/"><div class="ic">TS</div><h3>ממיר חותמות זמן</h3><p>המירו חותמות זמן של Unix לתאריכים אנושיים ובחזרה - UTC, השעה המקומית שלכם וזמן יחסי.</p></a><a class="card" href="html-entity-encoder/"><div class="ic">&amp;</div><h3>מקודד ישויות HTML</h3><p>ברחו טקסט לישויות HTML (בעלות שם או ממוספרות) ופענחו ישויות בחזרה לטקסט.</p></a><a class="card" href="css-minifier/"><div class="ic">CSS</div><h3>ממזער ומייפה CSS</h3><p>מזערו CSS כדי לכווץ את גודל הקובץ, או ייפו אותו בחזרה לקוד קריא ומוזח.</p></a><a class="card" href="javascript-minifier/"><div class="ic">JS</div><h3>ממזער JavaScript</h3><p>מזערו JavaScript בשמרנות - הערות ורווחים מתים מוסרים, מחרוזות וביטויים רגולריים נשמרים שלמים.</p></a><a class="card" href="regex-tester/"><div class="ic">.*</div><h3>בודק Regex</h3><p>בדקו ביטויים רגולריים חיים - התאמות מודגשות, קבוצות לכידה מפורטות, ספירה מוצגת.</p></a><a class="card" href="diff-checker/"><div class="ic">±</div><h3>בודק Diff</h3><p>השוו שני טקסטים שורה אחר שורה - שורות שנוספו והוסרו מודגשות, עם סיכום שינויים.</p></a><a class="card" href="json-to-csv-converter/"><div class="ic">CSV</div><h3>ממיר JSON ל-CSV</h3><p>הפכו מערך JSON של אובייקטים לקובץ CSV נקי - איחוד כל המפתחות, מרכאות מתאימות, לחיצה אחת.</p></a><a class="card" href="csv-to-json-converter/"><div class="ic">JSON</div><h3>ממיר CSV ל-JSON</h3><p>המירו CSV למערך JSON של אובייקטים - מנתח אמיתי המטפל בפסיקים במרכאות ובמרכאות מבורחות.</p></a><a class="card" href="yaml-json-converter/"><div class="ic">YAML</div><h3>ממיר YAML ⇄ JSON</h3><p>המירו את תת-הקבוצה הנפוצה של YAML (מפות, רשימות, סקלרים) ל-JSON ואת JSON בחזרה ל-YAML - בטווח כן.</p></a><a class="card" href="sql-formatter/"><div class="ic">SQL</div><h3>מעצב SQL</h3><p>עצבו SQL עם מילות מפתח באותיות גדולות וכל פסקה מרכזית בשורה משלה - שאילתות קריאות בלחיצה אחת.</p></a><a class="card" href="number-base-converter/"><div class="ic">01</div><h3>ממיר בסיסי מספר</h3><p>המירו בין בינארי, אוקטלי, עשרוני והקס עם דיוק מספר-שלם-גדול מלא - בלי מגבלת 2^53.</p></a><a class="card" href="chmod-calculator/"><div class="ic">755</div><h3>מחשבון Chmod</h3><p>סמנו תיבות קריאה/כתיבה/הרצאה לבעלים, קבוצה ואחרים - קבלו את האוקטלי והסימלי מיד.</p></a><a class="card" href="password-strength-checker/"><div class="ic">***</div><h3>בודק חוזק סיסמה</h3><p>ראו אומדן אנטרופיית סיסמה בביטים, מה מחליש אותה, וכמה זמן תקיפת כוח גס לא-מקוונת מהירה תיקח.</p></a><a class="card" href="cron-expression-generator/"><div class="ic">* *</div><h3>מחולל ביטויי Cron</h3><p>בנו ביטוי cron של 5 שדות מתפריטים נפתחים פשוטים, וקבלו כל ביטוי cron מוסבר בעברית פשוטה.</p></a><a class="card" href="url-parser/"><div class="ic">URL</div><h3>מנתח ובונה כתובת</h3><p>פרקו כתובת URL לפרוטוקול, מארח, פורט, נתיב, פרמטרי שאילתה ו-hash - ואז ערכו את הפרמטרים ובנו אותה מחדש.</p></a><a class="card" href="zip-file-creator/"><div class="ic">ZIP</div><h3>יוצר קבצי ZIP</h3><p>אגדו קבצים מרובים לארכיון ZIP אחד - נבנה בדפדפן שלכם, שום דבר לא מועלה.</p></a><a class="card" href="unzip-file-extractor/"><div class="ic">פרוק ZIP</div><h3>מחלץ קבצי פתיחת ZIP</h3><p>פתחו ZIP, ראו כל קובץ בפנים עם גודלו, וחלצו קובץ אחד או את כולם.</p></a><a class="card" href="rar-file-extractor/"><div class="ic">RAR</div><h3>מחלץ קבצי RAR</h3><p>פתחו קבצי RAR ‏(RAR4 ו-RAR5) בדפדפן שלכם - ראו כל קובץ בפנים, הורידו קובץ אחד או הכול כ-ZIP.</p></a><a class="card" href="7z-file-extractor/"><div class="ic">7Z</div><h3>מחלץ קבצי 7Z</h3><p>פתחו ארכיוני 7z בדפדפן שלכם - צפו בתוכן וחלצו קבצים בודדים או הכול כ-ZIP.</p></a><a class="card" href="tar-file-extractor/"><div class="ic">TAR</div><h3>מחלץ קבצי TAR</h3><p>פתחו ארכיוני ‎.tar, ‏‎.tar.bz2 ו-‎.tar.xz בדפדפן שלכם וחלצו את הקבצים שבפנים - שום דבר לא מועלה.</p></a><a class="card" href="tar-gz-file-extractor/"><div class="ic">TGZ</div><h3>מחלץ קבצי TAR.GZ</h3><p>פתחו ארכיוני ‎.tar.gz ו-‎.tgz בדפדפן שלכם - גלשו בקבצים שבפנים וחלצו מה שאתם צריכים.</p></a><a class="card" href="gz-file-extractor/"><div class="ic">GZ</div><h3>מחלץ קבצי GZ</h3><p>פרסו קובץ .gz בודד בדפדפן שלכם והורידו את המקורי - יומנים, ייצואי נתונים ומזבלות מסדי נתונים.</p></a><a class="card" href="iso-file-extractor/"><div class="ic">ISO</div><h3>מחלץ קבצי ISO</h3><p>פתחו תמונות דיסק ISO בדפדפן שלכם, גלשו במערכת הקבצים המאוחסנת על הדיסק הווירטואלי והורידו קבצים.</p></a><a class="card" href="archive-file-extractor/"><div class="ic">ARC</div><h3>מחלץ קבצי ארכיון</h3><p>פותח ארכיונים אוניברסלי אחד ל-ZIP, ‏RAR, ‏7Z, ‏TAR, ‏ISO ועוד - הפורמט מזוהה אוטומטית.</p></a><a class="card" href="rar-to-zip-converter/"><div class="ic">R→ZIP</div><h3>ממיר RAR ל-ZIP</h3><p>המירו ארכיון RAR ל-ZIP סטנדרטי בדפדפן שלכם - מבנה התיקיות נשמר, שום דבר לא מועלה.</p></a><a class="card" href="7z-to-zip-converter/"><div class="ic">7→ZIP</div><h3>ממיר 7Z ל-ZIP</h3><p>המירו ארכיון 7Z ל-ZIP שנפתח בכל מקום - בלי צורך ב-7-Zip, שום דבר לא מועלה.</p></a><a class="card" href="tar-to-zip-converter/"><div class="ic">T→ZIP</div><h3>ממיר TAR ל-ZIP</h3><p>המירו ארכיון TAR מ-Linux או Unix ל-ZIP שנפתח באופן מובנה ב-Windows, macOS וטלפונים.</p></a><a class="card" href="tar-gz-to-zip-converter/"><div class="ic">G→ZIP</div><h3>ממיר TAR.GZ ל-ZIP</h3><p>המירו .tar.gz או .tgz ל-ZIP אחד - גם שכבות ה-gzip וגם ה-tar נפרמות על המכשיר שלכם.</p></a><a class="card" href="zip-to-tar-gz-converter/"><div class="ic">Z→TGZ</div><h3>ממיר ZIP ל-TAR.GZ</h3><p>המירו ארכיון ZIP ל-tarball מסוג .tar.gz - הפורמט ששרתי Linux, Docker וכלי בנייה מצפים לו.</p></a><a class="card" href="tar-file-creator/"><div class="ic">+TAR</div><h3>יוצר קבצי TAR</h3><p>צרו ארכיון .tar תקין לפי מפרט מקבצים מרובים בדפדפן שלכם - נפתח עם כל כלי tar.</p></a><a class="card" href="gzip-compressor/"><div class="ic">GZIP</div><h3>מדחס GZIP</h3><p>דחסו כל קובץ בודד ל-.gz עם מנוע ה-gzip המובנה של הדפדפן שלכם - גדלים מיידיים של לפני/אחרי.</p></a><a class="card" href="csv-viewer-editor/"><div class="ic">▦</div><h3>מציג ועורך CSV</h3><p>טענו CSV לרשת טבלה ניתנת לעריכה - ערכו תאים, מיינו עמודות, הוסיפו או הסירו שורות ועמודות, ואז הורידו.</p></a><a class="card" href="csv-to-sql-converter/"><div class="ic">SQL→</div><h3>ממיר CSV ל-SQL</h3><p>הפכו CSV להצהרות CREATE TABLE ובנוסף INSERT עם סוגים מוסקים, ל-MySQL, ‏PostgreSQL או SQLite.</p></a><a class="card" href="csv-to-xml-converter/"><div class="ic">XML</div><h3>ממיר CSV ל-XML</h3><p>המירו שורות CSV ל-XML מעוצב היטב עם אלמנטי שורש ושורה ניתנים להגדרה ובריחה נכונה.</p></a><a class="card" href="csv-to-markdown-converter/"><div class="ic">MD</div><h3>ממיר CSV לטבלת Markdown</h3><p>המירו CSV לטבלת Markdown מוכנה ל-GitHub - עמודות מספריות מיושרות לימין, קווים אנכיים (pipes) מבורחים.</p></a><a class="card" href="csv-dedupe-cleaner/"><div class="ic">CSV✓</div><h3>מנקה ומסיר כפילויות CSV</h3><p>הסירו שורות CSV כפולות לפי שורה שלמה או עמודות מפתח, קצצו רווחים והשליכו שורות ריקות, עם ספירות.</p></a><a class="card" href="csv-split-merge/"><div class="ic">✂</div><h3>פיצול ומיזוג CSV</h3><p>פצלו CSV לחלקים לפי ספירת שורות עם הכותרת חוזרת, או מזגו קבצי CSV החולקים כותרת.</p></a><a class="card" href="meta-tag-generator/"><div class="ic">< ></div><h3>מחולל תגיות Meta</h3><p>צרו בלוק מטא של HTML מוכן - כותרת, תיאור, robots, קנוני - עם תצוגה מקדימה חיה של SERP.</p></a><a class="card" href="open-graph-generator/"><div class="ic">OG</div><h3>מחולל Open Graph וכרטיס טוויטר</h3><p>בנו תגיות OG ו-Twitter Card עם תצוגה מקדימה חיה של כרטיס חברתי, כך שקישורים משותפים ייראו נכון.</p></a><a class="card" href="robots-txt-generator/"><div class="ic">🤖</div><h3>מחולל Robots.txt</h3><p>בנו robots.txt תקף מהגדרות קבועות וכללים לפי סוכן, עם בדיקות שפיות על הפלט.</p></a><a class="card" href="xml-sitemap-generator/"><div class="ic">MAP</div><h3>מחולל מפת אתר XML</h3><p>הפכו רשימת כתובות ל-sitemap.xml תקף עם ברירות מחדל lastmod,‏ changefreq ו-priority.</p></a><a class="card" href="utm-link-builder/"><div class="ic">UTM</div><h3>בונה קישורי UTM</h3><p>תייגו כתובות קמפיין עם פרמטרי UTM - קידוד נכון, פרמטרים קיימים נשמרים, היסטוריה מקומית.</p></a><a class="card" href="ip-subnet-calculator/"><div class="ic">/24</div><h3>מחשבון רשתות IP (Subnet)</h3><p>IPv4 CIDR לרשת, שידור, מסכת רשת, wildcard, טווח מארחים וספירה, בתוספת תצוגת פיצול רשתות משנה.</p></a><a class="card" href="json-ld-schema-generator/"><div class="ic">LD</div><h3>מחולל סכמות JSON-LD</h3><p>צרו נתונים מובנים של schema.org - Article, Product, LocalBusiness, Event, Recipe ועוד - כ-JSON-LD תקף.</p></a><a class="card" href="google-serp-preview/"><div class="ic">G</div><h3>תצוגה מקדימה של Google SERP</h3><p>צפו מראש בכותרת ובתיאור שלכם כתוצאת Google, עם אזהרות קטיעת רוחב-פיקסלים, שולחן עבודה ונייד.</p></a><a class="card" href="keyword-density-checker/"><div class="ic">%</div><h3>בודק צפיפות מילות מפתח</h3><p>ספרו מילים בודדות בתוספת ביטויים של 2 מילים ו-3 מילים עם צפיפות באחוזים וסינון מילות עצירה.</p></a><a class="card" href="html-table-generator/"><div class="ic"><table></div><h3>מחולל טבלאות HTML</h3><p>בנו טבלאות חזותית ברשת וקבלו HTML סמנטי נקי עם תמיכה ב-thead, th ו-caption.</p></a><a class="card" href="email-signature-generator/"><div class="ic">✉</div><h3>מחולל חתימת דוא"ל ב-HTML</h3><p>צרו חתימת דוא"ל מקצועית כ-HTML של טבלה בטוח לדוא"ל שעובד ב-Gmail וב-Outlook.</p></a><a class="card" href="email-validator/"><div class="ic">@✓</div><h3>מאמת דוא"ל</h3><p>בדקו כתובות דוא"ל בכמות גדולה לאיתור שגיאות תחביר ושגיאות הקלדה נפוצות בדומיינים כמו gmial.com, עם הצעות.</p></a><a class="card" href="css-clip-path-generator/"><div class="ic">◣</div><h3>מחולל CSS Clip-Path</h3><p>צרו CSS של clip-path - תבניות מצולע עם נקודות מתכווננות, בתוספת צורות עיגול, אליפסה ו-inset.</p></a><a class="card" href="css-box-shadow-generator/"><div class="ic">▓</div><h3>מחולל CSS Box Shadow</h3><p>בנו CSS של box-shadow מרובד עם תמיכה ב-inset, שליטה בצבע ובאטימות, ותצוגה מקדימה חיה.</p></a><a class="card" href="xml-formatter/"><div class="ic">XML✓</div><h3>מעצב ומאמת XML</h3><p>ייפוי, מזעור ואימות של XML - בדיקות תקינות של תגיות מאוזנות עם הודעות שגיאה ברורות.</p></a><a class="card" href="markdown-to-html-converter/"><div class="ic">MD→</div><h3>ממיר Markdown ל-HTML</h3><p>המירו Markdown יומיומי ל-HTML נקי עם תצוגה מקדימה מרונדרת חיה - כותרות, רשימות, קוד ועוד.</p></a><a class="card" href="csv-transpose/"><div class="ic">⇄</div><h3>שחלוף CSV</h3><p>החליפו שורות ועמודות CSV עם מנתח מתאים - החלפה פעמיים מחזירה את המקור.</p></a><a class="card" href="csv-join/"><div class="ic">JOIN</div><h3>חיבור CSV</h3><p>מזגו שני קבצי CSV על עמודת מפתח - חיבור פנימי או שמאלי, מפתחות כפולים מטופלים בדרך של מסד הנתונים.</p></a><a class="card" href="csv-pivot-group-by/"><div class="ic">PIVOT</div><h3>ציר CSV / קבץ-לפי</h3><p>קבצו שורות CSV לפי עמודה עם סכום, ספירה, ממוצע, מינימום או מקסימום של עמודת ערך.</p></a><a class="card" href="csv-diff/"><div class="ic">DIFF</div><h3>השוואת CSV / Diff</h3><p>השוו שני קבצי CSV לפי עמודת מפתח - שורות שנוספו, הוסרו ושונו עם התאים המדויקים.</p></a><a class="card" href="csv-data-extractor/"><div class="ic">@</div><h3>מחלץ נתוני CSV</h3><p>משכו כתובות דוא"ל, מספרי טלפון וכתובות מתוך CSV או טקסט מבולגנים לרשימות נקיות ונטולות כפילויות.</p></a><a class="card" href="csv-profiler/"><div class="ic">PROF</div><h3>פרופיילר CSV</h3><p>ניחושי סוג לפי עמודה, ספירות ריקים, ספירות ייחודיים, מינימום/מקסימום מספרי וערכים מובילים.</p></a><a class="card" href="robots-txt-tester/"><div class="ic">✓</div><h3>בודק Robots.txt</h3><p>בדקו כתובת ו-user-agent מול כללי robots.txt - פסק דין ובנוסף הכלל המתאים המדויק.</p></a><a class="card" href="readability-checker/"><div class="ic">Aa</div><h3>בודק קריאות SEO</h3><p>שש נוסחאות קריאות ובנוסף סטטיסטיקות משפטים לעותק אינטרנט, ממוסגר לעבודת תוכן SEO.</p></a><a class="card" href="llms-txt-generator/"><div class="ic">LLM</div><h3>מחולל llms.txt</h3><p>בנו את קובץ ה-llms.txt הפונה ל-AI - פסקת סיכום במרכאות בלוק בתוספת קישורי דפים מאוצרים בפורמט המפרט.</p></a><a class="card" href="hreflang-tag-generator/"><div class="ic">🌐</div><h3>מחולל תגיות Hreflang</h3><p>בנו קבוצות קישורי hreflang חלופיות עם x-default ובדיקות BCP 47 / URL מוחלט.</p></a><a class="card" href="office-metadata-viewer/"><div class="ic">DOC</div><h3>מציג מטא-נתוני מסמך Office</h3><p>קראו מאפייני DOCX, XLSX ו-PPTX - כותרת, מחבר, חברה, תאריכים - לצפייה בלבד, על המכשיר.</p></a><a class="card" href="file-type-detector/"><div class="ic">🔍</div><h3>גלאי סוג קובץ</h3><p>זהו את הסוג האמיתי של קובץ מבתי הקסם שלו והזהירו כשהסיומת חולקת.</p></a></div></section>
+<section class="block"><h2>כלי מפתחים פופולריים</h2><div class="strip"><a class="chip" href="json-formatter/">מעצב JSON</a><a class="chip" href="base64-encoder/">מקודד ומפענח Base64</a><a class="chip" href="url-encoder/">מקודד ומפענח כתובת</a><a class="chip" href="uuid-generator/">מחולל UUID</a><a class="chip" href="hash-generator/">מחולל גיבוב</a><a class="chip" href="jwt-decoder/">מפענח JWT</a><a class="chip" href="regex-tester/">בודק Regex</a><a class="chip" href="css-minifier/">ממזער CSS</a><a class="chip" href="diff-checker/">בודק Diff</a></div></section>
+<section class="block"><h2>איך Loona Developer Tools עובדים</h2>
+<ol>
+<li>פתחו כל כלי והדביקו, הקלידו או טענו את הנתונים שלכם - אין מה להתקין ואין מה להירשם אליו.</li>
+<li>הכלי עושה את עבודתו מיד, באמצעות JavaScript הרץ בתוך הדפדפן שלכם עצמכם.</li>
+<li>העתיקו או הורידו את התוצאה. הקלט שלכם לעולם אינו מועלה, לעולם אינו נשמר ולעולם אינו נראה על ידינו.</li>
+</ol>
+<h3>מדוע מפתחים משתמשים בכלים האלה</h3>
+<p>ניפוי באגים של תגובת API, בדיקת אסימון לפני פגישה, גיבוב מחרוזת בדיקה, המרת חותמת זמן מקובץ יומן - אלה עבודות קטנות שקורות עשר פעמים ביום. Loona Developer Tools שומר אותן כולן במקום מהיר אחד, בלי חלונות קופצים של פרסומות בפנים שלכם, בלי חומת תשלום של "pro" ובלי שרת הנוגע אי פעם בנתונים שלכם. מטענים רגישים, אסימונים ומפתחות נשארים על המכונה שלכם, שזה בדיוק היכן שהם שייכים.</p>
+<h3>חלק ממשפחת Loona</h3>
+<p>Loona Developer Tools הוא אחד מאתרי הכלים החינמיים מבית <a href="https://loonaautomation.github.io/">Loona Automation</a> - לצד כלי טקסט, מחשבונים, כלי PDF, כלי תמונה, כלי שמע ועוד. כל אתר פועל לפי אותם כללים: חינם, בלי הרשמה, והנתונים שלכם נשארים על המכשיר שלכם.</p></section>
+</main>
+</div>
+
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">הטמיעו את הכלי הזה באתר שלכם — בחינם</h2>
+<p style="margin:0 0 12px;line-height:1.6">הוסיפו את הכלי הזה לאתר או לבלוג שלכם — זה לגמרי בחינם, לא צריך הרשמה, ותמיד מציג את הגרסה העדכנית ביותר. העתיקו את הקוד למטה והדביקו אותו בדף שלכם במקום שבו תרצו שהכלי יופיע. שמירת שורת הקרדיט הקטנה &ldquo;Powered by Loona Automation&rdquo; מתחת להטמעה עוזרת לשמור על הכלי הזה בחינם &mdash; אבל אתם חופשיים לעצב אותה או להסיר אותה; הכלי עובד בכל מקרה.</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical" dir="ltr">&lt;iframe src="https://loonaautomation.github.io/loona-dev-tools/he/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="Free Developer Tools by Loona"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;מופעל על ידי &lt;a href="https://loonaautomation.github.io/loona-dev-tools/he/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; בחינם כלי פיתוח&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">העתק קוד הטמעה</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='הועתק!';setTimeout(function(){b.textContent='העתק קוד הטמעה';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+
+<footer class="site"><div class="footer-in">
+<div class="col"><h4>Loona Developer Tools</h4>
+<a href="./">כל כלי הפיתוח</a>
+<a href="about.html">אודותינו</a>
+<a href="contact.html">צור קשר</a></div>
+<div class="col"><h4>כלים פופולריים</h4><a href="json-formatter/">מעצב JSON</a><a href="base64-encoder/">מקודד Base64</a><a href="uuid-generator/">מחולל UUID</a><a href="hash-generator/">מחולל גיבוב</a><a href="jwt-decoder/">מפענח JWT</a><a href="timestamp-converter/">ממיר חותמות זמן</a></div>
+<div class="col"><h4>כלים נוספים</h4><a href="url-encoder/">מקודד כתובת</a><a href="html-entity-encoder/">מקודד ישויות HTML</a><a href="https://loonaautomation.github.io/loona-text-tools/">Loona Text Tools</a><a href="https://loonaautomation.github.io/loona-calculators/">Loona Calculators</a><a href="https://loonaautomation.github.io/">כל כלי Loona</a></div>
+<div class="col"><h4>משפטי</h4>
+<a href="privacy.html">מדיניות פרטיות</a>
+<a href="terms.html">תנאי שימוש</a>
+<a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
+</div><div class="copyright">&copy; 2026 Loona Automation - Loona Developer Tools. כלי פיתוח מקוונים בחינם הפועלים 100% בדפדפן שלכם.</div></footer>
+<script>/*loona-dev-search*/
+/* Loona Dev Tools search (per-site build of the Loona hub tool search v2) — lazy-loads /search-index.json on first focus/typing.
+   v2 fixes: a failed fetch no longer poisons the session (it retries on the next
+   keystroke/focus), a "Loading tools…" state shows while the index downloads,
+   an embedded popular-tools fallback keeps search alive offline, Roman Urdu
+   aliases, joined-word matching, dedupe and tool-over-guide ranking. */
+(function () {
+  "use strict";
+  var form = document.getElementById('lsForm'),
+      input = document.getElementById('lsInput'),
+      list = document.getElementById('lsList');
+  if (!form || !input || !list) return;
+  var INDEX_URL = '/loona-dev-tools/he/search-index.json';
+  var STR = {"loading": "טוען כלים…", "fb": "מציג כלים פופולריים — האינדקס המלא בדרך…", "zero1": "אין התאמה מדויקת ל-“", "zero2": "” — נסו את הכלים הפופולריים האלה:"};
+  var FALLBACK = [{"n": "מעצב JSON", "u": "https://loonaautomation.github.io/loona-dev-tools/he/json-formatter/", "s": "Loona Dev Tools", "d": "אמתו, הדפיסו יפה ומזערו JSON, עם המיקום המדויק של כל שגיאה.", "k": "json formatter json formatter validate pretty print and minify json with the exact position of any error מעצב json אמתו הדפיסו יפה ומזערו json עם המיקום המדויק של כל שגיאה", "p": 0, "c": "Tool"}, {"n": "מקודד ומפענח Base64", "u": "https://loonaautomation.github.io/loona-dev-tools/he/base64-encoder/", "s": "Loona Dev Tools", "d": "קודדו טקסט וקבצים ל-Base64, או פענחו אותו בחזרה - בטוח ל-UTF-8, אפשרות בטוחה ל-URL כלולה.", "k": "base64 encoder decoder base64 encoder encode text and files to base64 or decode it back utf 8 safe url safe option included מקודד ומפענח base64 קודדו טקסט וקבצים ל base64 או פענחו אותו בחזרה בטוח ל utf 8 אפשרות בטוחה ל url כלולה", "p": 1, "c": "Tool"}, {"n": "מקודד ומפענח כתובת", "u": "https://loonaautomation.github.io/loona-dev-tools/he/url-encoder/", "s": "Loona Dev Tools", "d": "קודדו טקסט וכתובות ב-Percent-Encoding בבטחה, עם טבלת פירוט לפי תו.", "k": "url encoder decoder url encoder percent encode text and urls safely with a per character breakdown table מקודד ומפענח כתובת קודדו טקסט וכתובות ב percent encoding בבטחה עם טבלת פירוט לפי תו", "p": 2, "c": "Tool"}, {"n": "מחולל UUID", "u": "https://loonaautomation.github.io/loona-dev-tools/he/uuid-generator/", "s": "Loona Dev Tools", "d": "צרו UUID-ים אקראיים גרסה 4 - אחד בכל פעם או בכמות עד 100.", "k": "uuid generator uuid generator generate random version 4 uuids one at a time or in bulk up to 100 מחולל uuid צרו uuid ים אקראיים גרסה 4 אחד בכל פעם או בכמות עד 100", "p": 3, "c": "Tool"}, {"n": "מחולל גיבוב", "u": "https://loonaautomation.github.io/loona-dev-tools/he/hash-generator/", "s": "Loona Dev Tools", "d": "תקצירי SHA-1,‏ SHA-256,‏ SHA-384 ו-SHA-512 של כל טקסט, מחושבים בדפדפן שלכם.", "k": "hash generator hash generator sha 1 sha 256 sha 384 and sha 512 digests of any text computed in your browser מחולל גיבוב תקצירי sha 1 sha 256 sha 384 ו sha 512 של כל טקסט מחושבים בדפדפן שלכם", "p": 4, "c": "Tool"}, {"n": "מפענח JWT", "u": "https://loonaautomation.github.io/loona-dev-tools/he/jwt-decoder/", "s": "Loona Dev Tools", "d": "פענחו כותרת ומטען של JSON Web Token וקראו את התפוגה שלו במילים פשוטות.", "k": "jwt decoder jwt decoder decode a json web token header and payload and read its expiry in plain words מפענח jwt פענחו כותרת ומטען של json web token וקראו את התפוגה שלו במילים פשוטות", "p": 5, "c": "Tool"}];
+  var data = null, loading = null, usingFallback = false, active = -1, current = [];
+
+  /*CORE-START*/
+/* Loona search core v2 — shared by the homepage dropdown and the /search/ page.
+   Adds over v1: Roman Urdu alias layer, joined-word matching, keyword prefix match,
+   URL+name dedupe, tool-over-guide boost. `data` is supplied by the page glue. */
+var ALIASES = {
+  "tabdeel": "convert",
+  "waqt": "timestamp"
+};
+function norm(s) { s = (s || '').toLowerCase().replace(/ß/g, 'ss').replace(/æ/g, 'ae').replace(/ø/g, 'o').replace(/ł/g, 'l').replace(/đ/g, 'd'); try { s = s.normalize('NFD').replace(/[\u0300-\u036f]/g, ''); } catch (e) {} return s.replace(/[^a-z0-9\s]/g, ' ').replace(/\s+/g, ' ').trim(); }
+function lev(a, b) {
+  if (a === b) return 0;
+  var la = a.length, lb = b.length, i, j;
+  if (Math.abs(la - lb) > 1) return 2;
+  var prev = [], cur = [];
+  for (j = 0; j <= lb; j++) prev[j] = j;
+  for (i = 1; i <= la; i++) {
+    cur[0] = i; var best = 99;
+    for (j = 1; j <= lb; j++) {
+      var v = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a.charAt(i - 1) === b.charAt(j - 1) ? 0 : 1));
+      cur[j] = v; if (v < best) best = v;
+    }
+    if (best > 1) return 2;
+    var t = prev; prev = cur; cur = t;
+  }
+  return prev[lb];
+}
+function wordLevel(w, nameWords, hayWords, nameJoined) {
+  var i;
+  for (i = 0; i < nameWords.length; i++) if (nameWords[i] === w) return 30;
+  for (i = 0; i < nameWords.length; i++) if (w.length >= 3 && nameWords[i].indexOf(w) === 0) return 24;
+  for (i = 0; i < hayWords.length; i++) if (hayWords[i] === w) return 20;
+  for (i = 0; i < hayWords.length; i++) if (w.length >= 3 && hayWords[i].indexOf(w) === 0) return 18;
+  if (w.length >= 4 && nameJoined.indexOf(w) >= 0) return 22;
+  if (w.length >= 4) {
+    for (i = 0; i < nameWords.length; i++) if (lev(w, nameWords[i]) <= 1) return 17;
+    for (i = 0; i < hayWords.length; i++) if (lev(w, hayWords[i]) <= 1) return 12;
+  }
+  for (i = 0; i < nameWords.length; i++) if (nameWords[i].indexOf(w) >= 0) return 14;
+  return 0;
+}
+function expandWords(qw) {
+  /* variants tried (best score wins): the words themselves; each Roman Urdu
+     word swapped for the FIRST word of its English meaning; the full meaning;
+     and — for multi-word queries — the words joined into one ("wi fi"→"wifi"). */
+  var prim = [], full = [], changed = false;
+  for (var i = 0; i < qw.length; i++) {
+    var a = ALIASES[qw[i]];
+    if (a) {
+      changed = true;
+      var parts = a.split(' ');
+      prim.push(parts[0]);
+      for (var j = 0; j < parts.length; j++) full.push(parts[j]);
+    } else { prim.push(qw[i]); full.push(qw[i]); }
+  }
+  var out = [qw];
+  if (changed) { out.push(prim); if (full.join(' ') !== prim.join(' ')) out.push(full); }
+  if (qw.length > 1) out.push([qw.join('')]);
+  return out;
+}
+function runSearch(q, limit) {
+  var query = norm(q);
+  if (!query || !data) return [];
+  var variants = expandWords(query.split(' ')), out = [];
+  for (var e = 0; e < data.length; e++) {
+    var it = data[e], name = norm(it.n),
+        hay = name + ' ' + norm(it.s) + ' ' + (it.k || ''),
+        nameWords = name.split(' '), hayWords = hay.split(' '),
+        nameJoined = name.replace(/ /g, ''), best = -1;
+    for (var v = 0; v < variants.length; v++) {
+      var qw = variants[v], sum = 0, ok = true;
+      for (var i = 0; i < qw.length; i++) {
+        var lv = wordLevel(qw[i], nameWords, hayWords, nameJoined);
+        if (lv === 0) { ok = false; break; }
+        sum += lv;
+      }
+      if (!ok) continue;
+      var score = sum * 10, qs = qw.join(' '), qJoined = qs.replace(/ /g, '');
+      if (name === qs) score += 100000;
+      else if (name.indexOf(qs) === 0) score += 5000;
+      else if (name.indexOf(qs) >= 0) score += 2000;
+      if (nameJoined === qJoined) score += 9000;
+      else if (qJoined.length >= 4 && nameJoined.indexOf(qJoined) >= 0) score += 2500;
+      if (qw.length > 1) {
+        var allN = true;
+        for (var k = 0; k < qw.length; k++) if (nameWords.indexOf(qw[k]) < 0) allN = false;
+        if (allN) score += 800;
+      }
+      /* tool whose name carries the searched word beats a guide about it */
+      if (it.c !== 'Guide') {
+        for (var m = 0; m < qw.length; m++) if (nameWords.indexOf(qw[m]) >= 0) { score += 350; break; }
+      }
+      score -= (typeof it.p === 'number' ? it.p : 400) * 0.6;
+      score -= name.length * 0.3;
+      if (score > best) best = score;
+    }
+    if (best >= 0) out.push({ it: it, score: best });
+  }
+  out.sort(function (a, b) { return b.score - a.score; });
+  /* dedupe: same URL once, same tool name once (keep the better-ranked copy) */
+  var seenU = {}, seenN = {}, res = [];
+  for (var r = 0; r < out.length; r++) {
+    var en = out[r].it, key = norm(en.n);
+    if (seenU[en.u] || seenN[key]) continue;
+    seenU[en.u] = 1; seenN[key] = 1; res.push(en);
+    if (res.length >= limit) break;
+  }
+  return res;
+}
+function popular(n) {
+  if (!data) return [];
+  return data.filter(function (e) { return (typeof e.p === 'number' ? e.p : 400) < 30; })
+             .sort(function (a, b) { return a.p - b.p; }).slice(0, n);
+}
+/*CORE-END*/
+
+
+  function esc(s) {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+  function badge(e) { return e.c === 'Website' ? 'Website' : (e.c === 'Guide' ? 'Guide' : e.s.replace(/^Loona /, '')); }
+  function itemHtml(e, i) {
+    return '<a class="ls-item" role="option" data-i="' + i + '" href="' + esc(e.u) + '">' +
+           '<span class="ls-nm">' + esc(e.n) + '</span><span class="ls-badge">' + esc(badge(e)) + '</span>' +
+           '<span class="ls-ds">' + esc(e.d) + '</span></a>';
+  }
+  function bindItems() {
+    var links = list.querySelectorAll('.ls-item');
+    for (var i = 0; i < links.length; i++) {
+      links[i].addEventListener('mouseenter', function () { setActive(parseInt(this.getAttribute('data-i'), 10)); });
+    }
+  }
+  function render(items, q) {
+    active = -1; current = items;
+    var h = '';
+    if (usingFallback) h += '<div class="ls-none">' + STR.fb + '</div>';
+    h += items.map(itemHtml).join('');
+    list.innerHTML = h;
+    bindItems();
+    list.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
+  }
+  function renderZero(q) {
+    var pop = popular(6);
+    active = -1; current = pop;
+    var h = '<div class="ls-none">' + STR.zero1 + esc(q) + STR.zero2 + '</div>' +
+            pop.map(itemHtml).join('') +
+            '';
+    list.innerHTML = h;
+    bindItems();
+    list.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
+  }
+  function renderLoading() {
+    list.innerHTML = '<div class="ls-none">' + STR.loading + '</div>';
+    list.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
+  }
+  function refresh() {
+    var q = input.value;
+    if (!data) { renderLoading(); return; }
+    if (!norm(q)) { render(popular(6), ''); return; }
+    var res = runSearch(q, 8);
+    if (res.length) render(res, q); else renderZero(q);
+  }
+  function hide() { list.hidden = true; active = -1; input.setAttribute('aria-expanded', 'false'); }
+  function setActive(i) {
+    active = i;
+    var links = list.querySelectorAll('.ls-item');
+    for (var j = 0; j < links.length; j++) links[j].classList.toggle('act', j === i);
+    if (i >= 0 && links[i]) links[i].scrollIntoView({ block: 'nearest' });
+  }
+  function ensureIndex() {
+    if (data && !usingFallback) return;
+    if (loading) return;
+    loading = fetch(INDEX_URL).then(function (r) {
+      if (!r.ok) throw new Error('index ' + r.status);
+      return r.json();
+    }).then(function (j) {
+      data = j; usingFallback = false; loading = null; refresh();
+    }).catch(function () {
+      loading = null;                 /* not poisoned: next keystroke/focus retries */
+      if (!data) { data = FALLBACK; usingFallback = true; }
+      refresh();
+    });
+  }
+  var timer = null;
+  function onType() { ensureIndex(); refresh(); }
+  input.addEventListener('focus', onType);
+  input.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(onType, 70); });
+  input.addEventListener('keydown', function (ev) {
+    if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
+      ev.preventDefault();
+      if (list.hidden) { onType(); return; }
+      var n = current.length; if (!n) return;
+      setActive(ev.key === 'ArrowDown' ? (active + 1) % n : (active - 1 + n) % n);
+    } else if (ev.key === 'Escape') { hide(); }
+  });
+  form.addEventListener('submit', function (ev) {
+    ev.preventDefault();
+    var q = input.value;
+    if (active >= 0 && current[active]) { window.location.href = current[active].u; return; }
+    ensureIndex();
+    if (data) {
+      var best = runSearch(q, 1);
+      if (best.length) { window.location.href = best[0].u; return; }
+    }
+    if (norm(q)) renderZero(q);
+  });
+  document.addEventListener('click', function (ev) { if (!form.contains(ev.target)) hide(); });
+})();
+
+</script>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' התקן אפליקציה';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('התקינו את האפליקציה הזו: הקישו על כפתור השיתוף, ואז בחרו "הוסף למסך הבית".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body>
+</html>

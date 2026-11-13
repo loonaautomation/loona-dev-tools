@@ -1,0 +1,29 @@
+{
+  "name": "ממיר Loona Markdown ל-HTML מקוון בחינם",
+  "short_name": "ממיר Markdown ל-HTML",
+  "description": "המירו Markdown ל-HTML באופן מקוון בחינם - כותרות, מודגש, נטוי, קישורים, תמונות, רשימות, ציטוטי בלוק, בלוקי קוד ועוד, עם תצוגה מקדימה מרונדרת חיה. בלי הרשמה.",
+  "id": "/loona-dev-tools/he/markdown-to-html-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

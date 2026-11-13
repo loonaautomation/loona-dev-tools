@@ -1,0 +1,29 @@
+{
+  "name": "ממיר Loona טבלת Markdown ל-CSV",
+  "short_name": "טבלת Markdown ל-CSV",
+  "description": "המירו טבלת Markdown ל-CSV: כותרת ושורות מחולצות, שורת היישור מוסרת, תאים מקוצצים ומובאים במרכאות כראוי.",
+  "id": "/loona-dev-tools/he/markdown-table-to-csv/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dev Tools",
+  "short_name": "כלי פיתוח",
+  "description": "כלי פיתוח מקוונים בחינם - מעצב JSON, מקודד Base64, מחולל UUID, מחולל גיבוב, מפענח JWT, ממיר חותמות זמן ועוד. 100% בחינם, בלי הרשמה, פרטי.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-dev-tools/he/"
+}

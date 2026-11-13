@@ -1,0 +1,29 @@
+{
+  "name": "ממיר Loona JSON לטבלת Markdown",
+  "short_name": "JSON לטבלת Markdown",
+  "description": "המירו מערך JSON של אובייקטים לטבלת Markdown: עמודות מהמפתחות, קווים אנכיים מבורחים, מוכן להדבקה ב-README.",
+  "id": "/loona-dev-tools/he/json-to-markdown-table/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

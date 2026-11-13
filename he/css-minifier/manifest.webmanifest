@@ -1,0 +1,29 @@
+{
+  "name": "ממזער Loona CSS מקוון בחינם",
+  "short_name": "ממזער CSS מקוון בחינם",
+  "description": "מזערו CSS באופן מקוון בחינם וראו בדיוק כמה קטן יותר הוא נהיה, או ייפו CSS ממוזער בחזרה לקוד קריא. בלי הרשמה, פועל 100% בדפדפן שלכם.",
+  "id": "/loona-dev-tools/he/css-minifier/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "מחולל טבלאות HTML של Loona מקוון בחינם",
+  "short_name": "מחולל טבלאות HTML מקוון",
+  "description": "צרו טבלאות HTML באופן מקוון בחינם - הגדירו שורות ועמודות, הקלידו לתוך הרשת, וקבלו HTML נקי של טבלה עם תמיכה ב-thead, th ו-caption בתוספת תצוגה מקדימה חיה. בלי הרשמה.",
+  "id": "/loona-dev-tools/he/html-table-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

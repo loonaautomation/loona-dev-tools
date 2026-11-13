@@ -1,0 +1,29 @@
+{
+  "name": "ממיר Loona JSON ל-CSV מקוון בחינם",
+  "short_name": "ממיר JSON ל-CSV מקוון",
+  "description": "המירו מערך JSON של אובייקטים ל-CSV באופן מקוון בחינם: איחוד המפתחות כעמודות, מרכאות ובריחה נכונים, ערכים מקוננים נשמרים כ-JSON. בלי הרשמה, פועל 100% בדפדפן שלכם.",
+  "id": "/loona-dev-tools/he/json-to-csv-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

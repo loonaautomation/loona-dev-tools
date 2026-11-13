@@ -1,0 +1,29 @@
+{
+  "name": "יוצר קבצי Loona TAR מקוון בחינם",
+  "short_name": "יוצר קבצי TAR מקוון בחינם",
+  "description": "צרו ארכיון TAR ‏(.tar) מקבצים מרובים ממש בדפדפן שלכם - כותב ustar תקין לפי מפרט, אפשרות תיקייה, חותמות זמן אמיתיות. שום דבר לא מועלה; ה-tarball נבנה על המכשיר שלכם ונפתח עם כל כלי tar.",
+  "id": "/loona-dev-tools/he/tar-file-creator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

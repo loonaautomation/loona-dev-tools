@@ -1,0 +1,29 @@
+{
+  "name": "חיבור Loona CSV מקוון בחינם",
+  "short_name": "חיבור CSV מקוון בחינם",
+  "description": "חברו שני קבצי CSV באופן מקוון בחינם על עמודת מפתח משותפת - חיבור פנימי או חיבור שמאלי, מפתחות כפולים מטופלים בדרך של מסד הנתונים. בלי הרשמה, פועל 100% בדפדפן שלכם.",
+  "id": "/loona-dev-tools/he/csv-join/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

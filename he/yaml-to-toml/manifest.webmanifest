@@ -1,0 +1,29 @@
+{
+  "name": "ממיר Loona YAML ל-TOML",
+  "short_name": "ממיר YAML ל-TOML",
+  "description": "המירו YAML ל-TOML באופן מקוון (דרך מודל הנתונים המשותף): טבלאות, סקלרים ומערכים ממופים לכללי הפריסה של TOML.",
+  "id": "/loona-dev-tools/he/yaml-to-toml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

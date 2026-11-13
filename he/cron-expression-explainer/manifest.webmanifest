@@ -1,0 +1,29 @@
+{
+  "name": "מפרשן ביטויי Cron של Loona",
+  "short_name": "מפרשן ביטויי Cron",
+  "description": "הסבירו ביטויי cron בעברית פשוטה: הדביקו לוח cron של 5 שדות וקראו מתי הוא רץ, שדה אחר שדה.",
+  "id": "/loona-dev-tools/he/cron-expression-explainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

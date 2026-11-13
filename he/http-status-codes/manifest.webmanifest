@@ -1,0 +1,29 @@
+{
+  "name": "מדריך קודי סטטוס HTTP של Loona",
+  "short_name": "מדריך קודי סטטוס HTTP",
+  "description": "כל קוד סטטוס HTTP נפוץ עם המשמעות שלו: 2xx הצלחה, 3xx הפניות, 4xx שגיאות לקוח, 5xx שגיאות שרת — מוסבר בפשטות.",
+  "id": "/loona-dev-tools/he/http-status-codes/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

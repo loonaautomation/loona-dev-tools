@@ -1,0 +1,29 @@
+{
+  "name": "ממיר Loona JSON ל-XML",
+  "short_name": "ממיר JSON ל-XML",
+  "description": "המירו JSON ל-XML באופן מקוון עם אלמנט שורש ניתן להתאמה: מערכים הופכים לאלמנטים חוזרים, מפתחות @ הופכים לתכונות.",
+  "id": "/loona-dev-tools/he/json-to-xml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

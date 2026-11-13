@@ -1,0 +1,29 @@
+{
+  "name": "מפענח Loona Base64 לטקסט",
+  "short_name": "מפענח Base64 לטקסט",
+  "description": "פענחו Base64 בחזרה לטקסט קריא באופן מקוון. מטפל באלפביתים סטנדרטיים ובטוחים ל-URL, טקסט UTF-8 בכל שפה. חינמי ופרטי.",
+  "id": "/loona-dev-tools/he/base64-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

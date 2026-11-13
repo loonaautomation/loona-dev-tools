@@ -1,0 +1,29 @@
+{
+  "name": "שחלוף Loona CSV מקוון בחינם",
+  "short_name": "שחלוף CSV מקוון בחינם",
+  "description": "החליפו CSV מקוון בחינם - החליפו שורות ועמודות עם מנתח RFC 4180 מתאים המטפל בשדות ממוסגרים נכון. בלי הרשמה, פועל 100% בדפדפן שלכם.",
+  "id": "/loona-dev-tools/he/csv-transpose/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

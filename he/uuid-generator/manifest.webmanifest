@@ -1,0 +1,29 @@
+{
+  "name": "מחולל UUID של Loona מקוון בחינם",
+  "short_name": "מחולל UUID מקוון בחינם",
+  "description": "צרו UUID-ים אקראיים גרסה 4 באופן מקוון בחינם - בודד או בכמות עד 100, אפשרויות אותיות גדולות ובלי מקפים. אקראי קריפטוגרפית, בדפדפן שלכם.",
+  "id": "/loona-dev-tools/he/uuid-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

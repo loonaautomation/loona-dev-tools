@@ -1,0 +1,29 @@
+{
+  "name": "מחלץ קבצי Loona Unzip מקוון בחינם",
+  "short_name": "מחלץ קבצי פתיחת ZIP מקוון",
+  "description": "פתחו קובץ ZIP בדפדפן שלכם, ראו כל קובץ בפנים עם גודלו, וחלצו קבצים בודדים או את כולם. שום דבר לא מועלה; החילוץ קורה על המכשיר שלכם.",
+  "id": "/loona-dev-tools/he/unzip-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

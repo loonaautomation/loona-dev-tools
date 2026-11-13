@@ -1,0 +1,29 @@
+{
+  "name": "מקודד Loona Punycode (ממיר דומיין IDN)",
+  "short_name": "מקודד Punycode (דומיין IDN",
+  "description": "המירו שמות דומיין בינלאומיים (IDN) לצורת punycode מסוג xn--‎: ‏bücher.example הופך ל-xn--bcher-kva.example. קידוד לפי תווית.",
+  "id": "/loona-dev-tools/he/punycode-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
