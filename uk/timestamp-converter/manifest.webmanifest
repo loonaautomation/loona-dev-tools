@@ -1,0 +1,29 @@
+{
+  "name": "Конвертер часових міток Loona Unix онлайн безкоштовно",
+  "short_name": "Конвертер міток часу Unix",
+  "description": "Конвертуйте часові мітки Unix (секунди або мілісекунди) у людські дати в UTC і вашому місцевому часі, а дати назад у часові мітки. Поточний час наживо. Безкоштовно.",
+  "id": "/loona-dev-tools/uk/timestamp-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

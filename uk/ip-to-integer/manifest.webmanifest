@@ -1,0 +1,29 @@
+{
+  "name": "Конвертер адреси Loona IP у ціле число",
+  "short_name": "Адреса IP у ціле число",
+  "description": "Конвертуйте адресу IPv4 у її 32-бітну цілочисельну форму (192.168.0.1 → 3232235521), яку використовують у базах даних і перевірках діапазонів.",
+  "id": "/loona-dev-tools/uk/ip-to-integer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

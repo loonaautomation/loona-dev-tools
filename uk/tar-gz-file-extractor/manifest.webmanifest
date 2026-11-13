@@ -1,0 +1,29 @@
+{
+  "name": "Розпакувальник файлів Loona TAR.GZ онлайн безкоштовно",
+  "short_name": "Розпакувальник файлів TAR.GZ онлайн",
+  "description": "Відкривайте архіви tar.gz просто у своєму браузері — і .tar.gz, і коротку назву .tgz — бачте кожен файл усередині й завантажуйте окремі файли або все як ZIP. Нічого не передається.",
+  "id": "/loona-dev-tools/uk/tar-gz-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

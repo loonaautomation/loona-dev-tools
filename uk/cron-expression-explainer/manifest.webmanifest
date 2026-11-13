@@ -1,0 +1,29 @@
+{
+  "name": "Пояснювач виразів Cron Loona",
+  "short_name": "Пояснювач виразів Cron",
+  "description": "Пояснюйте вирази cron простою мовою: вставте розклад cron із 5 полів і читайте, коли він запускається, поле за полем.",
+  "id": "/loona-dev-tools/uk/cron-expression-explainer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

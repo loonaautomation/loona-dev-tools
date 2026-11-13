@@ -1,0 +1,29 @@
+{
+  "name": "Кодувальник Loona Punycode (конвертер доменів IDN)",
+  "short_name": "Кодувальник Punycode (домен IDN",
+  "description": "Конвертуйте інтернаціоналізовані доменні назви (IDN) у форму punycode xn--: bücher.example стає xn--bcher-kva.example. Кодування для кожної мітки.",
+  "id": "/loona-dev-tools/uk/punycode-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

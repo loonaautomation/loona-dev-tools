@@ -1,0 +1,29 @@
+{
+  "name": "Тестер регулярних виразів Loona онлайн безкоштовно",
+  "short_name": "Тестер регулярних виразів онлайн безкоштовно",
+  "description": "Тестуйте регулярні вирази онлайн безкоштовно з живим підсвічуванням збігів, подробицями груп захоплення й кількістю збігів. Без реєстрації, працює на 100% у вашому браузері.",
+  "id": "/loona-dev-tools/uk/regex-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

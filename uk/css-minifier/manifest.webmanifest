@@ -1,0 +1,29 @@
+{
+  "name": "Мінімізатор Loona CSS онлайн безкоштовно",
+  "short_name": "Мінімізатор CSS онлайн безкоштовно",
+  "description": "Мінімізуйте CSS онлайн безкоштовно й бачте точно, наскільки меншим він стає, або прикрасьте мінімізований CSS назад у читабельний код. Без реєстрації, працює на 100% у вашому браузері.",
+  "id": "/loona-dev-tools/uk/css-minifier/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

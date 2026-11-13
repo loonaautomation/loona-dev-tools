@@ -1,0 +1,29 @@
+{
+  "name": "Парсер рядків User Agent Loona",
+  "short_name": "Парсер рядків User Agent",
+  "description": "Розберіть рядок User-Agent браузера на браузер, рушій, ОС і тип пристрою прозорим парсером на основі правил.",
+  "id": "/loona-dev-tools/uk/user-agent-parser/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

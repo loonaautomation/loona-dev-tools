@@ -1,0 +1,29 @@
+{
+  "name": "Профілювальник Loona CSV онлайн безкоштовно",
+  "short_name": "Профілювальник CSV онлайн безкоштовно",
+  "description": "Профілюйте файл CSV онлайн безкоштовно — припущення типів за стовпцями, кількість порожніх клітинок, кількість унікальних значень, числові мінімум/максимум і найчастіші значення, щоб ви розуміли файл перед використанням. Без реєстрації.",
+  "id": "/loona-dev-tools/uk/csv-profiler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

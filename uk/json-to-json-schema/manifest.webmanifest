@@ -1,0 +1,29 @@
+{
+  "name": "Генератор Loona JSON у схему JSON",
+  "short_name": "Генератор JSON у схему JSON",
+  "description": "Генеруйте схему JSON (проєкт 2020-12) зі зразка JSON: типи виведено, властивості об’єктів і обов’язкові ключі включено.",
+  "id": "/loona-dev-tools/uk/json-to-json-schema/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Кодувальник і декодувальник Loona Base64 онлайн безкоштовно",
+  "short_name": "Кодувальник і декодувальник Base64",
+  "description": "Кодуйте текст або файли в Base64 і декодуйте Base64 назад, безпечно для UTF-8 будь-якої мови й емодзі, із параметром безпечного для URL. Безкоштовно, без реєстрації, у вашому браузері.",
+  "id": "/loona-dev-tools/uk/base64-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

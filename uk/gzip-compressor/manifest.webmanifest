@@ -1,0 +1,29 @@
+{
+  "name": "Стискач Loona GZIP онлайн безкоштовно",
+  "short_name": "Стискач GZIP онлайн безкоштовно",
+  "description": "Стискайте будь-який один файл у .gz за допомогою вбудованого рушія gzip вашого браузера. Миттєві розміри до/після, нічого не завантажується на сервер — файл стискається на вашому пристрої. Працює для журналів, CSV, файлів TAR тощо.",
+  "id": "/loona-dev-tools/uk/gzip-compressor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

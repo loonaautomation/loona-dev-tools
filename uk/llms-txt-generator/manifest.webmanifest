@@ -1,0 +1,29 @@
+{
+  "name": "Генератор Loona llms.txt онлайн безкоштовно",
+  "short_name": "Генератор llms.txt онлайн безкоштовно",
+  "description": "Генеруйте дійсний файл llms.txt онлайн безкоштовно — назва сайту, блок цитати з описом, деталі й дібрані посилання на сторінки у форматі llms.txt, запропонованому для сканерів ШІ. Без реєстрації.",
+  "id": "/loona-dev-tools/uk/llms-txt-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

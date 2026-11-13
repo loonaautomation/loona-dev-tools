@@ -1,0 +1,29 @@
+{
+  "name": "Розпакувальник архівних файлів Loona онлайн безкоштовно",
+  "short_name": "Розпакувальник архівних файлів онлайн",
+  "description": "Один універсальний відкривач архівів: киньте будь-який файл ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ або ISO й розпакуйте його вміст просто у своєму браузері. Формат визначається автоматично; нічого не передається.",
+  "id": "/loona-dev-tools/uk/archive-file-extractor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

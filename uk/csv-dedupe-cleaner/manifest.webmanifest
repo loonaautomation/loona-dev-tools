@@ -1,0 +1,29 @@
+{
+  "name": "Видалення дублів і очищення Loona CSV онлайн безкоштовно",
+  "short_name": "Видалення дублів і очищення CSV онлайн",
+  "description": "Видаляйте дублікати рядків із CSV онлайн безкоштовно — за цілим рядком або за ключовими стовпцями — плюс обрізання пробільних символів, відкидання порожніх рядків і нормалізація кінців рядків, із підрахунками до/після. Без реєстрації.",
+  "id": "/loona-dev-tools/uk/csv-dedupe-cleaner/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Довідник типів Loona MIME (типи вмісту за",
+  "short_name": "Довідник типів MIME (Content",
+  "description": "Поширені типи MIME за розширенням файлу: документи, зображення, аудіо, відео, архіви, шрифти й вебформати з їхніми значеннями Content-Type.",
+  "id": "/loona-dev-tools/uk/mime-types-reference/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

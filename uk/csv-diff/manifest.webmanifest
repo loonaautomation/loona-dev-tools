@@ -1,0 +1,29 @@
+{
+  "name": "Порівняння Loona CSV (Diff) онлайн безкоштовно",
+  "short_name": "Порівняння CSV (Diff) онлайн безкоштовно",
+  "description": "Порівнюйте два файли CSV онлайн безкоштовно — рядки зіставляються за ключовим стовпцем і класифікуються як додані, видалені, змінені (з точними клітинками) або незмінені. Без реєстрації, працює у вашому браузері.",
+  "id": "/loona-dev-tools/uk/csv-diff/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

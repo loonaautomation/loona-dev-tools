@@ -1,0 +1,29 @@
+{
+  "name": "Зняття екранування рядків Loona JSON",
+  "short_name": "Зняття екранування рядків JSON",
+  "description": "Зніміть екранування значення рядка JSON назад у звичайний текст: послідовності \\n, \\t, \\&quot;, \\\\ і \\uXXXX стають справжніми символами.",
+  "id": "/loona-dev-tools/uk/json-unescape/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

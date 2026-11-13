@@ -1,0 +1,29 @@
+{
+  "name": "Тестер Loona Robots.txt онлайн безкоштовно",
+  "short_name": "Тестер Robots.txt онлайн безкоштовно",
+  "description": "Тестуйте robots.txt онлайн безкоштовно — вставте файл, URL-адресу й user-agent і отримайте вердикт «дозволено» чи «заблоковано» з показаним точним відповідним правилом. Без реєстрації, працює у вашому браузері.",
+  "id": "/loona-dev-tools/uk/robots-txt-tester/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

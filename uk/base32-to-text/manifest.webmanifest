@@ -1,0 +1,29 @@
+{
+  "name": "Декодувальник Loona Base32 у текст",
+  "short_name": "Декодувальник Base32 у текст",
+  "description": "Декодуйте Base32 (RFC 4648) назад у текст — без урахування регістру, доповнення необов’язкове. Відновлюйте рядки, закодовані в стилі TOTP.",
+  "id": "/loona-dev-tools/uk/base32-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

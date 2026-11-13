@@ -1,0 +1,29 @@
+{
+  "name": "Генератор підпису електронної пошти Loona HTML онлайн безкоштовно",
+  "short_name": "Підпис електронної пошти HTML",
+  "description": "Створюйте професійний підпис електронної пошти HTML онлайн безкоштовно — ім’я, посада, компанія, телефон, електронна пошта й вебсайт у безпечному для листів табличному HTML, який працює в Gmail і Outlook. Без реєстрації.",
+  "id": "/loona-dev-tools/uk/email-signature-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

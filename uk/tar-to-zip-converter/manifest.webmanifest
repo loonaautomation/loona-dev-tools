@@ -1,0 +1,29 @@
+{
+  "name": "Конвертер Loona TAR у ZIP онлайн безкоштовно",
+  "short_name": "Конвертер TAR у ZIP онлайн",
+  "description": "Конвертуйте архів TAR (.tar) у файл ZIP прямо у вашому браузері. Файли TAR походять із систем Linux і Unix; перетворений ZIP відкривається нативно на Windows, macOS і телефонах. Нічого не завантажується на сервер.",
+  "id": "/loona-dev-tools/uk/tar-to-zip-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

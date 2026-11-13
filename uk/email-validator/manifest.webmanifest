@@ -1,0 +1,29 @@
+{
+  "name": "Валідатор електронної пошти Loona онлайн безкоштовно",
+  "short_name": "Валідатор електронної пошти онлайн безкоштовно",
+  "description": "Перевіряйте адреси електронної пошти онлайн безкоштовно, по одній або пакетно, — повні перевірки синтаксису за правилами адрес плюс визначення поширених помилок у доменах, як-от gmial.com. Без реєстрації.",
+  "id": "/loona-dev-tools/uk/email-validator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

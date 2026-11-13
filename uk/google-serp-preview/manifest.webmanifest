@@ -1,0 +1,29 @@
+{
+  "name": "Інструмент попереднього перегляду Loona Google SERP онлайн безкоштовно",
+  "short_name": "Інструмент попереднього перегляду Google SERP",
+  "description": "Переглядайте, як назва вашої сторінки й метаопис виглядатимуть у результатах пошуку Google, онлайн безкоштовно, із виглядом для комп’ютера й мобільного та попередженнями про обрізання за шириною в пікселях. Без реєстрації.",
+  "id": "/loona-dev-tools/uk/google-serp-preview/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

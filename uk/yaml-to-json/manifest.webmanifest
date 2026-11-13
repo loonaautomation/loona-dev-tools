@@ -1,0 +1,29 @@
+{
+  "name": "Конвертер Loona YAML у JSON",
+  "short_name": "Конвертер YAML у JSON",
+  "description": "Конвертуйте YAML у JSON онлайн: блокові відображення й послідовності, скаляри в лапках і звичайні, потокові колекції. Підмножину задокументовано чесно.",
+  "id": "/loona-dev-tools/uk/yaml-to-json/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
