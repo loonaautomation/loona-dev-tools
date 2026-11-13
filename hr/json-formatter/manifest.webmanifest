@@ -1,0 +1,29 @@
+{
+  "name": "Loona formatiranje JSON-a na mreži besplatno",
+  "short_name": "Formatiranje JSON-a na mreži besplatno",
+  "description": "Formatirajte, provjerite i minificirajte JSON na mreži besplatno, s točnim retkom i stupcem svake pogreške. Bez registracije, radi 100% u vašem pregledniku.",
+  "id": "/loona-dev-tools/hr/json-formatter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

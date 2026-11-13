@@ -1,0 +1,29 @@
+{
+  "name": "Loona pretvarač CSV u TSV",
+  "short_name": "Pretvarač CSV u TSV",
+  "description": "Pretvorite CSV u TSV (vrijednosti odvojene tabulatorom): puno raščlanjivanje polja u navodnicima, tabulatori kao razdjelnici. Besplatni mrežni pretvarač.",
+  "id": "/loona-dev-tools/hr/csv-to-tsv/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona generator meta oznaka na mreži besplatno",
+  "short_name": "Generator meta oznaka na mreži besplatno",
+  "description": "Generirajte HTML meta oznake na mreži besplatno - naslov, opis, ključne riječi, autor, roboti i kanonski URL - uz pregled SERP-a u Googleovu stilu uživo i brojače znakova. Bez registracije.",
+  "id": "/loona-dev-tools/hr/meta-tag-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

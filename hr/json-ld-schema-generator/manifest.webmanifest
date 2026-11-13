@@ -1,0 +1,29 @@
+{
+  "name": "Loona generator JSON-LD shema na mreži besplatno",
+  "short_name": "Generator JSON-LD shema",
+  "description": "Generirajte strukturirane podatke schema.org JSON-LD na mreži besplatno - Article, LocalBusiness, Product, Event, Recipe, Person, Organization i WebSite - kao gotov blok skripte. Bez registracije.",
+  "id": "/loona-dev-tools/hr/json-ld-schema-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

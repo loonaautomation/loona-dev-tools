@@ -1,0 +1,29 @@
+{
+  "name": "Loona usporedba CSV-a (diff) na mreži besplatno",
+  "short_name": "Usporedba CSV-a (diff) na mreži besplatno",
+  "description": "Usporedite dvije CSV datoteke na mreži besplatno - retci usklađeni ključnim stupcem i klasificirani kao dodani, uklonjeni, promijenjeni (s točnim ćelijama) ili nepromijenjeni. Bez registracije, radi u vašem pregledniku.",
+  "id": "/loona-dev-tools/hr/csv-diff/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

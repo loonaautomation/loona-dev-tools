@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base32 dekoder u tekst",
+  "short_name": "Dekoder Base32 u tekst",
+  "description": "Dekodirajte Base32 (RFC 4648) natrag u tekst — neosjetljivo na veličinu slova, dopuna nije obvezna. Obnovite nizove kodirane u stilu TOTP-a.",
+  "id": "/loona-dev-tools/hr/base32-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

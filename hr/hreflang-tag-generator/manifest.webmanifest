@@ -1,0 +1,29 @@
+{
+  "name": "Loona generator hreflang oznaka na mreži besplatno",
+  "short_name": "Generator hreflang oznaka na mreži",
+  "description": "Generirajte hreflang oznake na mreži besplatno - zalijepite parove jezika i URL-ova, dodajte x-default i dobijte puni skup alternativnih poveznica uz provjere BCP 47 i apsolutnih URL-ova. Bez registracije.",
+  "id": "/loona-dev-tools/hr/hreflang-tag-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

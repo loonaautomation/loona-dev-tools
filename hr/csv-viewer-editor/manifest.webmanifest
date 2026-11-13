@@ -1,0 +1,29 @@
+{
+  "name": "Loona preglednik i uređivač CSV-a na mreži besplatno",
+  "short_name": "Preglednik i uređivač CSV-a na mreži",
+  "description": "Pregledavajte i uređujte CSV datoteke na mreži besplatno u mreži tablice koju je moguće uređivati - uređujte ćelije, sortirajte stupce, dodajte ili uklonite retke i stupce, zatim preuzmite uređeni CSV. Bez registracije, radi u vašem pregledniku.",
+  "id": "/loona-dev-tools/hr/csv-viewer-editor/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

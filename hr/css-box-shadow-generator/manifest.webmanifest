@@ -1,0 +1,29 @@
+{
+  "name": "Loona generator CSS sjene okvira na mreži besplatno",
+  "short_name": "Generator CSS sjene okvira",
+  "description": "Generirajte CSS box-shadow na mreži besplatno - više slojeva sjene, umetnute sjene, kontrola boje i neprozirnosti, uz pregled uživo i gotov CSS. Bez registracije, radi u vašem pregledniku.",
+  "id": "/loona-dev-tools/hr/css-box-shadow-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

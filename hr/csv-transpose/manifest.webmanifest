@@ -1,0 +1,29 @@
+{
+  "name": "Loona transponiranje CSV-a na mreži besplatno",
+  "short_name": "Transponiranje CSV-a na mreži besplatno",
+  "description": "Transponirajte CSV na mreži besplatno - zamijenite retke i stupce ispravnim parserom RFC 4180 koji citirana polja obrađuje ispravno. Bez registracije, radi 100% u vašem pregledniku.",
+  "id": "/loona-dev-tools/hr/csv-transpose/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

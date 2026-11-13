@@ -1,0 +1,29 @@
+{
+  "name": "Loona knjižnica pretvarača i generatora",
+  "short_name": "Knjižnica pretvarača i generatora",
+  "description": "Indeks svih pretvarača i generatora Loona Developer Tools: kodiranja, formati podataka, hashevi, boje, arhive, generatori koda i priručnici.",
+  "id": "/loona-dev-tools/hr/converter-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

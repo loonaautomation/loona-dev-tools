@@ -1,0 +1,29 @@
+{
+  "name": "Loona brojevi u rimske brojeve",
+  "short_name": "Brojevi u rimske brojeve",
+  "description": "Pretvorite brojeve (1–3999) u rimske brojeve u standardnom suptraktivnom obliku. Besplatni mrežni pretvarač.",
+  "id": "/loona-dev-tools/hr/number-to-roman-numerals/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

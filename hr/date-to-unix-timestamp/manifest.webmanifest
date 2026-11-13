@@ -1,0 +1,29 @@
+{
+  "name": "Loona pretvarač datuma u Unix vremensku oznaku",
+  "short_name": "Datum u Unix vremensku oznaku",
+  "description": "Pretvorite datum i vrijeme u njegovu Unix vremensku oznaku u sekundama i milisekundama, u UTC-u ili vašoj lokalnoj vremenskoj zoni.",
+  "id": "/loona-dev-tools/hr/date-to-unix-timestamp/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

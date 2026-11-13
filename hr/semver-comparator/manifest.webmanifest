@@ -1,0 +1,29 @@
+{
+  "name": "Loona usporedba semantičkih verzija",
+  "short_name": "Usporedba semantičkih verzija",
+  "description": "Provjerite i usporedite semantičke verzije (MAJOR.MINOR.PATCH): koja je novija i kakva ih vrsta promjene razdvaja.",
+  "id": "/loona-dev-tools/hr/semver-comparator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

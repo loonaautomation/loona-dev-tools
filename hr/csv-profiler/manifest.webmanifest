@@ -1,0 +1,29 @@
+{
+  "name": "Loona CSV profiler na mreži besplatno",
+  "short_name": "CSV profiler na mreži besplatno",
+  "description": "Profilirajte CSV datoteku na mreži besplatno - nagađanja vrste po stupcu, brojevi praznih ćelija, brojevi jedinstvenih vrijednosti, numerički min/max i najviše vrijednosti, pa razumijete datoteku prije uporabe. Bez registracije.",
+  "id": "/loona-dev-tools/hr/csv-profiler/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
