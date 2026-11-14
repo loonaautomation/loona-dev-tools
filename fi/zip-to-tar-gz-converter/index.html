@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ZIP-TAR.GZ-muunnin verkossa ilmaiseksi - Muunna .zip muotoon .tar.gz selaimessasi | Loona Developer Tools</title>
+<meta name="description" content="Muunna ZIP-arkisto TAR.GZ-tar-palloksi (.tar.gz) suoraan selaimessasi — muoto, jota Linux-palvelimet, Docker ja koontityökalut odottavat. Kansiorakenne säilytetty, mitään ei lähetetä palvelimelle.">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-dev-tools/fi/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-dev-tools/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="en-us" href="https://loonaautomation.github.io/loona-dev-tools/en-us/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="en-gb" href="https://loonaautomation.github.io/loona-dev-tools/en-gb/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-dev-tools/es/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-dev-tools/de/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-dev-tools/fr/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-dev-tools/pt/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="pt-br" href="https://loonaautomation.github.io/loona-dev-tools/pt-br/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="pt-pt" href="https://loonaautomation.github.io/loona-dev-tools/pt-pt/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-dev-tools/it/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-dev-tools/nl/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-dev-tools/ar/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-dev-tools/ur/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-dev-tools/tr/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-dev-tools/ru/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="hi" href="https://loonaautomation.github.io/loona-dev-tools/hi/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="bn" href="https://loonaautomation.github.io/loona-dev-tools/bn/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="ja" href="https://loonaautomation.github.io/loona-dev-tools/ja/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="ko" href="https://loonaautomation.github.io/loona-dev-tools/ko/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="zh" href="https://loonaautomation.github.io/loona-dev-tools/zh/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="zh-hant" href="https://loonaautomation.github.io/loona-dev-tools/zh-hant/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="pl" href="https://loonaautomation.github.io/loona-dev-tools/pl/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="vi" href="https://loonaautomation.github.io/loona-dev-tools/vi/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="id" href="https://loonaautomation.github.io/loona-dev-tools/id/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="ms" href="https://loonaautomation.github.io/loona-dev-tools/ms/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="th" href="https://loonaautomation.github.io/loona-dev-tools/th/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="ro" href="https://loonaautomation.github.io/loona-dev-tools/ro/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="cs" href="https://loonaautomation.github.io/loona-dev-tools/cs/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="sv" href="https://loonaautomation.github.io/loona-dev-tools/sv/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="nb" href="https://loonaautomation.github.io/loona-dev-tools/nb/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="da" href="https://loonaautomation.github.io/loona-dev-tools/da/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="el" href="https://loonaautomation.github.io/loona-dev-tools/el/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="he" href="https://loonaautomation.github.io/loona-dev-tools/he/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="sw" href="https://loonaautomation.github.io/loona-dev-tools/sw/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="uk" href="https://loonaautomation.github.io/loona-dev-tools/uk/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="hu" href="https://loonaautomation.github.io/loona-dev-tools/hu/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="bg" href="https://loonaautomation.github.io/loona-dev-tools/bg/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="sk" href="https://loonaautomation.github.io/loona-dev-tools/sk/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="hr" href="https://loonaautomation.github.io/loona-dev-tools/hr/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="fi" href="https://loonaautomation.github.io/loona-dev-tools/fi/zip-to-tar-gz-converter/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-dev-tools/zip-to-tar-gz-converter/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Loona Developer Tools">
+<meta property="og:title" content="ZIP-TAR.GZ-muunnin verkossa ilmaiseksi - Muunna .zip muotoon .tar.gz selaimessasi | Loona Developer Tools">
+<meta property="og:description" content="Muunna ZIP-arkisto TAR.GZ-tar-palloksi (.tar.gz) suoraan selaimessasi — muoto, jota Linux-palvelimet, Docker ja koontityökalut odottavat. Kansiorakenne säilytetty, mitään ei lähetetä palvelimelle.">
+<meta property="og:url" content="https://loonaautomation.github.io/loona-dev-tools/fi/zip-to-tar-gz-converter/"><meta property="og:locale" content="fi_FI">
+<meta property="og:image" content="https://loonaautomation.github.io/loona-dev-tools/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="ZIP-TAR.GZ-muunnin verkossa ilmaiseksi - Muunna .zip muotoon .tar.gz selaimessasi | Loona Developer Tools">
+<meta name="twitter:description" content="Muunna ZIP-arkisto TAR.GZ-tar-palloksi (.tar.gz) suoraan selaimessasi — muoto, jota Linux-palvelimet, Docker ja koontityökalut odottavat. Kansiorakenne säilytetty, mitään ei lähetetä palvelimelle.">
+<meta name="twitter:image" content="https://loonaautomation.github.io/loona-dev-tools/og-image.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
+<link rel="icon" href="../../favicon.ico">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","z599jkwoy9");</script>
+<script src="../../lib/jszip.min.js"></script>
+<style>
+:root{--teal:#062e2a;--teal2:#0b3d37;--gold:#c9a227;--gold2:#e3c565;--ink:#12211e;--mut:#5a6d68;--bg:#f6f4ec;--card:#ffffff;--line:#e3ddc9;--radius:16px}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+a{color:#0a5c50;text-decoration:none}
+a:hover{text-decoration:underline}
+header.site{position:sticky;top:0;z-index:50;background:var(--teal);box-shadow:0 2px 14px rgba(0,0,0,.25)}
+.header-in{max-width:1140px;margin:0 auto;display:flex;align-items:center;gap:14px;padding:10px 16px}
+.brand{display:flex;align-items:center;gap:10px;color:#fff;font-weight:700;font-size:1.15rem}
+.brand img{width:40px;height:40px;border-radius:9px}
+.brand span{color:var(--gold2)}
+nav.main{margin-left:auto;display:flex;gap:4px;flex-wrap:wrap}
+nav.main a{color:#dcebe4;padding:7px 11px;border-radius:9px;font-size:.93rem}
+nav.main a:hover{background:var(--teal2);text-decoration:none;color:#fff}
+.wrap{max-width:1140px;margin:0 auto;padding:0 16px}
+.hero{background:linear-gradient(135deg,var(--teal) 0%,#0d4a41 60%,#10604f 100%);color:#fff;padding:52px 0 46px;text-align:center}
+.hero h1{font-size:2.35rem;line-height:1.2;margin-bottom:12px}
+.hero h1 .gold{color:var(--gold2)}
+.hero p{max-width:720px;margin:0 auto 8px;color:#d7e8df;font-size:1.06rem}
+.hero .badges{margin-top:18px;display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.badge{background:rgba(255,255,255,.12);border:1px solid rgba(255,255,255,.25);color:#fff;padding:5px 13px;border-radius:999px;font-size:.85rem}
+.crumbs{font-size:.86rem;color:var(--mut);padding:16px 0 4px}
+.crumbs a{color:var(--mut)}
+main.page{padding:8px 0 10px}
+h1.tool{font-size:2rem;line-height:1.25;color:var(--teal);margin:6px 0 8px}
+.inshort{background:#fff8e1;border-left:4px solid var(--gold);padding:12px 16px;border-radius:0 12px 12px 0;margin:12px 0 16px;font-size:1.0rem}
+.lede{color:#33473f;max-width:820px;margin-bottom:18px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;box-shadow:0 4px 18px rgba(6,46,42,.06);margin-bottom:22px}
+.btn{display:inline-block;background:var(--gold);color:#231a00;font-weight:700;border:none;padding:12px 26px;border-radius:11px;font-size:1rem;cursor:pointer;box-shadow:0 3px 10px rgba(201,162,39,.35)}
+.btn:hover{background:var(--gold2)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.ghost{background:#fff;border:1.5px solid var(--teal);color:var(--teal);box-shadow:none;padding:9px 18px;font-size:.93rem}
+.btn.small{padding:7px 13px;font-size:.86rem}
+.row{display:flex;gap:14px;flex-wrap:wrap;margin:14px 0}
+.field{flex:1;min-width:150px}
+.field label{display:block;font-weight:600;font-size:.9rem;margin-bottom:5px;color:var(--teal)}
+.field select,.field input[type=text],.field input[type=number],.field textarea{width:100%;padding:10px 12px;border:1.5px solid #cfc9ae;border-radius:10px;font-size:.97rem;background:#fff;font-family:inherit}
+.field textarea{min-height:150px;resize:vertical}
+textarea.big{min-height:220px;font-size:1rem;line-height:1.65}
+textarea.mono{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.92rem}
+input[type=range]{width:100%}
+.check{display:flex;align-items:center;gap:8px;font-size:.95rem;margin:6px 0;cursor:pointer}
+.check input{width:17px;height:17px;accent-color:#0b3d37}
+.status{margin-top:14px;font-size:.95rem;min-height:22px}
+.status.ok{color:#0a6b3c}.status.err{color:#b3261e}
+.privacy-note{background:#e9f5ef;border:1px solid #bfe0cd;color:#14532d;border-radius:12px;padding:12px 16px;font-size:.94rem;margin-bottom:22px}
+section.block{margin:30px 0}
+section.block h2{color:var(--teal);font-size:1.45rem;margin-bottom:12px}
+section.block h3{color:var(--teal);margin:14px 0 6px}
+section.block p,section.block li{color:#33473f}
+section.block ol,section.block ul{padding-left:22px}
+section.block li{margin-bottom:6px}
+.strip{display:flex;gap:8px;flex-wrap:wrap}
+.chip{background:#fff;border:1.5px solid var(--gold);color:var(--teal);font-weight:600;padding:8px 15px;border-radius:999px;font-size:.9rem}
+.chip:hover{background:#fff7dd;text-decoration:none}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:20px;display:block;color:var(--ink);transition:.15s}
+.card:hover{transform:translateY(-3px);box-shadow:0 10px 24px rgba(6,46,42,.12);text-decoration:none;border-color:var(--gold)}
+.card .ic{font-size:1.9rem;margin-bottom:8px}
+.card h3{color:var(--teal);font-size:1.12rem;margin-bottom:5px}
+.card p{color:var(--mut);font-size:.92rem}
+details.faq{background:#fff;border:1px solid var(--line);border-radius:12px;padding:13px 17px;margin-bottom:10px}
+details.faq summary{cursor:pointer;font-weight:600;color:var(--teal)}
+details.faq p{margin-top:8px;color:#33473f}
+.kv{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin-top:12px}
+.kv div{background:#faf8ef;border:1px solid var(--line);border-radius:10px;padding:9px 12px;font-size:.92rem}
+.kv b{color:var(--teal);display:block;font-size:1.05rem}
+table.freq{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden}
+table.freq th,table.freq td{padding:8px 12px;border-bottom:1px solid var(--line);text-align:left;font-size:.94rem}
+table.freq th{background:#faf8ef;color:var(--teal)}
+.diffout{white-space:pre-wrap;word-break:break-word;background:#fff;border:1px solid var(--line);border-radius:12px;padding:14px 16px;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.9rem;line-height:1.55;max-height:480px;overflow:auto}
+.diffout .add{background:#e2f4e5}
+.diffout .del{background:#fbe3e1}
+.fancyrow{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:11px;padding:10px 14px;margin-bottom:9px}
+.fancyrow .fv{flex:1;font-size:1.08rem;word-break:break-all}
+footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
+.footer-in{max-width:1140px;margin:0 auto;padding:30px 16px;display:flex;gap:26px;flex-wrap:wrap}
+.footer-in h4{color:var(--gold2);margin-bottom:9px;font-size:1rem}
+.footer-in a{color:#cfe0d6;display:block;margin-bottom:5px;font-size:.93rem}
+.footer-in .col{min-width:170px}
+.copyright{border-top:1px solid #12463e;text-align:center;padding:14px;font-size:.86rem;color:#9db8ab}
+@media(max-width:640px){.hero h1{font-size:1.7rem}h1.tool{font-size:1.55rem}.panel{padding:16px}nav.main a{padding:6px 8px;font-size:.86rem}}
+.dropzone{border:2px dashed #cfc9ae;border-radius:12px;padding:28px 18px;text-align:center;background:#faf8ef;cursor:pointer;color:#33473f}
+.dropzone.over{border-color:var(--gold);background:#fff7dd}
+.dropzone strong{color:var(--teal)}
+.filewrap{max-height:340px;overflow:auto;margin-top:14px}
+.rmbtn{background:#fff;border:1.5px solid #b3261e;color:#b3261e;border-radius:8px;padding:4px 10px;font-size:.82rem;cursor:pointer}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"ZIP-TAR.GZ-muunnin - Loona Developer Tools","url":"https://loonaautomation.github.io/loona-dev-tools/fi/zip-to-tar-gz-converter/","description":"Muunna ZIP-arkisto TAR.GZ-tar-palloksi (.tar.gz) suoraan selaimessasi — muoto, jota Linux-palvelimet, Docker ja koontityökalut odottavat. Kansiorakenne säilytetty, mitään ei lähetetä palvelimelle.","applicationCategory":"DeveloperApplication","operatingSystem":"Any","browserRequirements":"Vaatii JavaScriptin","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"publisher":{"@type":"Organization","name":"Loona Automation","url":"https://loonaautomation.github.io/"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Etusivu","item":"https://loonaautomation.github.io/loona-dev-tools/fi/"},{"@type":"ListItem","position":2,"name":"Kehittäjätyökalut","item":"https://loonaautomation.github.io/loona-dev-tools/fi/"},{"@type":"ListItem","position":3,"name":"ZIP-TAR.GZ-muunnin","item":"https://loonaautomation.github.io/loona-dev-tools/fi/zip-to-tar-gz-converter/"}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Onko tämä ZIP-TAR.GZ-muunnin ilmainen?","acceptedAnswer":{"@type":"Answer","text":"Kyllä - ilmainen, ei rekisteröitymistä, ei rajoja eikä vesileimoja."}},{"@type":"Question","name":"Lähetetäänkö tiedostoni palvelimelle?","acceptedAnswer":{"@type":"Answer","text":"Ei. JSZip lukee ZIPin, TARin kirjoittaa tämän sivun koodi, ja gzipin tekee selaimesi sisäänrakennettu moottori. Kaikki pysyy laitteellasi."}},{"@type":"Question","name":"Hyväksyvätkö GNU tar ja Linux-työkalut tulosteen?","acceptedAnswer":{"@type":"Answer","text":"Kyllä. TAR-kirjoittaja noudattaa ustar-määritystä - oikeat otsikon tarkistussummat, oktaaliset kokokentät, ustar-etuliitejakaminen pitkille poluille ja GNU longname -merkinnät, kun polku ylittää senkin - ja tulos varmennettiin testissä lukemalla se takaisin Pythonin tarfile-moduulilla."}},{"@type":"Question","name":"Säilyvätkö tiedostojen aikaleimat ja oikeudet?","acceptedAnswer":{"@type":"Answer","text":"ZIPiin tallennetut aikaleimat kuljetetaan TAR-otsikoihin. Oikeudet kirjoitetaan tavallisina oletuksina (tiedostot 0644, kansiot 0755), koska ZIP ei tallenna Unix-oikeuksia luotettavasti - jos tarvitset tarkat tilat, aseta ne purkamisen jälkeen chmodilla."}},{"@type":"Question","name":"Miksi ei muunneta sen sijaan pelkäksi .tariksi?","acceptedAnswer":{"@type":"Answer","text":"Tavallinen TAR on pakkaamaton, joten se olisi suunnilleen kaikkien lisättyjen tiedostojen yhteiskoko. .tar.gz on se, mitä Linux-työkalut odottavat, ja se pysyy lähellä ZIPin kokoa. Tavalliselle TARille irrallisista tiedostoista käytä TAR-tiedoston luojaa."}}]}</script>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
+</head>
+<body>
+<header class="site"><div class="header-in">
+<a class="brand" href="../"><img src="../../apple-touch-icon.png" alt="Loona Automationin logo">Loona <span>Kehittäjätyökalut</span></a>
+<nav class="main">
+<a href="../">Etusivu</a>
+<a href="../json-formatter/">JSON-muotoilija</a>
+<a href="../uuid-generator/">UUID-generaattori</a>
+<a href="../hash-generator/">Tiivistegeneraattori</a>
+<a href="../jwt-decoder/">JWT-dekooderi</a>
+<a href="../about.html">Tietoa</a>
+</nav></div></header>
+<div class="wrap">
+<div class="crumbs"><a href="../">Etusivu</a> &rsaquo; <a href="../#tools">Kehittäjätyökalut</a> &rsaquo; ZIP-TAR.GZ-muunnin</div>
+<main class="page">
+<h1 class="tool">ZIP-TAR.GZ-muunnin - Muuta .zip .tar.gz-tarpalloksi</h1>
+<div class="inshort"><strong>Lyhyesti:</strong> ZIP-TAR.GZ-muunnin pakkaa ZIP-arkiston uudelleen kunnolliseksi ustar-tar-palloksi ja pakkaa sen gzipillä omalla laitteellasi – tuottaen .tar.gz-muodon, jolla Linux-maailma pyörii.</div>
+<p class="lede">Otetaanko käyttöön Linux-palvelimella, syötetäänkö Docker-rakennukseen, tai annetaanko tiedostoja työkalulle, joka odottaa tar-palloa? ZIP on se outo lintu siinä maailmassa — .tar.gz on äidinkieli. Tämä muunnin lukee ZIP:isi selaimessa, kirjoittaa määritysten mukaisen TAR-arkiston ja gzip-pakkaa sen, kaikki ilman mitään lähettämistä palvelimelle.</p>
+<div class="panel">
+
+<div class="dropzone" id="dz"><strong>Pudota .zip-tiedostosi tähän</strong> tai napsauta valitaksesi sen laitteeltasi<input type="file" id="fileInput" accept=".zip" hidden></div>
+<div class="status" id="fileLine"></div>
+<div class="row"><button class="btn" id="bGo" disabled>Muunna TAR.GZ:ksi</button><button class="btn ghost" id="bDl" disabled>Lataa .tar.gz-tiedosto</button></div>
+<div class="kv" id="kv" style="display:none"><div>Tiedostot sisällä<b id="kvCount">-</b></div><div>Alkuperäinen koko<b id="kvIn">-</b></div><div>Uusi koko<b id="kvOut">-</b></div></div>
+<div class="status" id="st"></div>
+</div>
+<div class="privacy-note"><strong>Yksityinen jo suunnittelultaan:</strong> kaikki tässä työkalussa tapahtuu 100 % selaimessasi JavaScriptillä. Syötettäsi ei koskaan lähetetä palvelimelle, sitä ei koskaan tallenneta emmekä me koskaan näe sitä – sulje välilehti, ja kaikki on poissa. Yksi rehellinen rajoitus: muunnos tapahtuu laitteesi muistissa, joten hyvin suuret arkistot (satoja megatavuja) voivat olla hitaita tai epäonnistua vähämuistisessa puhelimessa.</div>
+<section class="block"><h2>ZIP-TAR.GZ-muuntimen käyttö</h2><ol><li>Pudota .zip-tiedostosi yllä olevaan ruutuun, tai napsauta sitä ja valitse tiedosto laitteeltasi.</li><li>Napsauta Muunna TAR.GZ:ksi. ZIP luetaan laitteellasi, TAR-arkisto kirjoitetaan samoilla poluilla, ja gzip pakkaa sen.</li><li>Tarkista yhteenveto: muunnettujen tiedostojen määrä ja uuden tar-pallon koko.</li><li>Napsauta Lataa tallentaaksesi .tar.gz-tiedoston — tar -xzf avaa sen millä tahansa Linux- tai macOS-järjestelmällä.</li></ol></section>
+<section class="block"><h2>Miten se toimii</h2><p>Tämä sivu lukee ZIPin JSZipillä ja kirjoittaa sisällön sitten TAR-arkistoksi käyttäen sivulle sisäänrakennettua määritysten mukaista ustar-kirjoittajaa: jokainen tiedosto saa 512 tavun otsikkolohkon (nimi, koko, tila, tarkistussumma ja etuliitekenttä pitkille poluille - GNU longname -merkinnöillä poluilla, jotka ovat liian pitkiä sillekin), sen sisältö täytettynä 512 tavun rajalle, ja kaksi nollalohkoa arkiston sulkemiseksi. Valmis TAR pakataan selaimesi sisäänrakennetulla gzip-moottorilla (Compression Streams API). Tuloste varmennettiin Pythonin tarfile-moduulia ja GNU tar -käytäntöjä vasten testauksen aikana - se on aito tar-pallo, ei uudelleennimetty ZIP.</p><h3>Työstetty esimerkki</h3><p>Sinulla on site-assets.zip (12 MB, 240 tiedostoa) ladattavaksi Linux-VPS:lle, jonka käyttöönottoskripti ajaa tar -xzf. Täällä muunnettuna saat site-assets.tar.gz (11.6 MB) samoilla 240 tiedostolla samoilla poluilla ja niiden ZIP-aikaleimat säilytettyinä. Palvelin purkaa sen täsmälleen kuin tar-pallo olisi luotu Linuxissa.</p></section>
+<section class="block"><h2>Usein kysytyt kysymykset</h2><details class="faq"><summary>Onko tämä ZIP-TAR.GZ-muunnin ilmainen?</summary><p>Kyllä - ilmainen, ei rekisteröitymistä, ei rajoja eikä vesileimoja.</p></details><details class="faq"><summary>Lähetetäänkö tiedostoni palvelimelle?</summary><p>Ei. JSZip lukee ZIPin, TARin kirjoittaa tämän sivun koodi, ja gzipin tekee selaimesi sisäänrakennettu moottori. Kaikki pysyy laitteellasi.</p></details><details class="faq"><summary>Hyväksyvätkö GNU tar ja Linux-työkalut tulosteen?</summary><p>Kyllä. TAR-kirjoittaja noudattaa ustar-määritystä - oikeat otsikon tarkistussummat, oktaaliset kokokentät, ustar-etuliitejakaminen pitkille poluille ja GNU longname -merkinnät, kun polku ylittää senkin - ja tulos varmennettiin testissä lukemalla se takaisin Pythonin tarfile-moduulilla.</p></details><details class="faq"><summary>Säilyvätkö tiedostojen aikaleimat ja oikeudet?</summary><p>ZIPiin tallennetut aikaleimat kuljetetaan TAR-otsikoihin. Oikeudet kirjoitetaan tavallisina oletuksina (tiedostot 0644, kansiot 0755), koska ZIP ei tallenna Unix-oikeuksia luotettavasti - jos tarvitset tarkat tilat, aseta ne purkamisen jälkeen chmodilla.</p></details><details class="faq"><summary>Miksi ei muunneta sen sijaan pelkäksi .tariksi?</summary><p>Tavallinen TAR on pakkaamaton, joten se olisi suunnilleen kaikkien lisättyjen tiedostojen yhteiskoko. .tar.gz on se, mitä Linux-työkalut odottavat, ja se pysyy lähellä ZIPin kokoa. Tavalliselle TARille irrallisista tiedostoista käytä TAR-tiedoston luojaa.</p></details></section>
+<section class="block"><h2>Aiheeseen liittyvät kehittäjätyökalut</h2><div class="grid"><a class="card" href="../tar-gz-to-zip-converter/"><div class="ic">GZ</div><h3>TAR.GZ-ZIP-muunnin</h3><p>Muunna .tar.gz- tai .tgz-arkisto suoraan ZIP:iksi — molemmat kerrokset purettuna kerralla.</p></a><a class="card" href="../zip-file-creator/"><div class="ic">ZIP</div><h3>ZIP-tiedoston luoja</h3><p>Tee useista tiedostoista ZIP - lisää tiedostot, nimeä arkisto ja lataa yksi .zip.</p></a><a class="card" href="../tar-file-creator/"><div class="ic">TAR</div><h3>TAR-tiedoston luoja</h3><p>Tee tiedostoistasi .tar-arkisto suoraan selaimessasi.</p></a></div></section>
+</main>
+</div>
+
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">Upota tämä työkalu verkkosivustollesi — ilmainen</h2>
+<p style="margin:0 0 12px;line-height:1.6">Lisää tämä työkalu omalle verkkosivustollesi tai blogiisi — se on täysin ilmainen, ei vaadi rekisteröitymistä ja näyttää aina uusimman version. Kopioi alla oleva koodi ja liitä se sivullesi kohtaan, jossa haluat työkalun näkyvän. Pienen &ldquo;Powered by Loona Automation&rdquo; -maininnan säilyttäminen upotuksen alla auttaa pitämään tämän työkalun ilmaisena &mdash; mutta voit vapaasti muotoilla tai poistaa sen; työkalu toimii joka tapauksessa.</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-dev-tools/fi/zip-to-tar-gz-converter/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="Free ZIP to TAR.GZ Converter by Loona"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;Tarjoaa &lt;a href="https://loonaautomation.github.io/loona-dev-tools/fi/zip-to-tar-gz-converter/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; ilmainen ZIP-TAR.GZ-muunnin&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">Kopioi upotuskoodi</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='Kopioitu!';setTimeout(function(){b.textContent='Kopioi upotuskoodi';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+
+<footer class="site"><div class="footer-in">
+<div class="col"><h4>Loona Developer Tools</h4>
+<a href="../">Kaikki kehittäjätyökalut</a>
+<a href="../about.html">Tietoa meistä</a>
+<a href="../contact.html">Yhteystiedot</a></div>
+<div class="col"><h4>Suositut työkalut</h4><a href="../json-formatter/">JSON-muotoilija</a><a href="../base64-encoder/">Base64-kooderi</a><a href="../uuid-generator/">UUID-generaattori</a><a href="../hash-generator/">Tiivistegeneraattori</a><a href="../jwt-decoder/">JWT-dekooderi</a><a href="../timestamp-converter/">Aikaleimamuunnin</a></div>
+<div class="col"><h4>Lisää työkaluja</h4><a href="../url-encoder/">URL-kooderi</a><a href="../html-entity-encoder/">HTML-entiteettikooderi</a><a href="https://loonaautomation.github.io/loona-text-tools/">Loona Tekstityökalut</a><a href="https://loonaautomation.github.io/loona-calculators/">Loona Laskurit</a><a href="https://loonaautomation.github.io/">Kaikki Loona-työkalut</a></div>
+<div class="col"><h4>Oikeudellinen</h4>
+<a href="../privacy.html">Tietosuojakäytäntö</a>
+<a href="../terms.html">Käyttöehdot</a>
+<a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></div>
+</div><div id="loona-lang-strip" style="text-align:center;padding:16px 16px 6px;font-size:.93rem;line-height:2;color:#cfe0d6">🌐 Saatavilla myös kielillä: <a href="https://loonaautomation.github.io/loona-dev-tools/ar/" hreflang="ar" style="color:#cfe0d6;text-decoration:underline">العربية</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/bn/" hreflang="bn" style="color:#cfe0d6;text-decoration:underline">বাংলা</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/bg/" hreflang="bg" style="color:#cfe0d6;text-decoration:underline">Български</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/zh/" hreflang="zh" style="color:#cfe0d6;text-decoration:underline">中文</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/zh-hant/" hreflang="zh-hant" style="color:#cfe0d6;text-decoration:underline">繁體中文</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/hr/" hreflang="hr" style="color:#cfe0d6;text-decoration:underline">Hrvatski</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/cs/" hreflang="cs" style="color:#cfe0d6;text-decoration:underline">Čeština</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/da/" hreflang="da" style="color:#cfe0d6;text-decoration:underline">Dansk</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/nl/" hreflang="nl" style="color:#cfe0d6;text-decoration:underline">Nederlands</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/fr/" hreflang="fr" style="color:#cfe0d6;text-decoration:underline">Français</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/de/" hreflang="de" style="color:#cfe0d6;text-decoration:underline">Deutsch</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/el/" hreflang="el" style="color:#cfe0d6;text-decoration:underline">Ελληνικά</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/he/" hreflang="he" style="color:#cfe0d6;text-decoration:underline">עברית</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/hi/" hreflang="hi" style="color:#cfe0d6;text-decoration:underline">हिन्दी</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/hu/" hreflang="hu" style="color:#cfe0d6;text-decoration:underline">Magyar</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/id/" hreflang="id" style="color:#cfe0d6;text-decoration:underline">Bahasa Indonesia</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/it/" hreflang="it" style="color:#cfe0d6;text-decoration:underline">Italiano</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/ja/" hreflang="ja" style="color:#cfe0d6;text-decoration:underline">日本語</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/ko/" hreflang="ko" style="color:#cfe0d6;text-decoration:underline">한국어</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/ms/" hreflang="ms" style="color:#cfe0d6;text-decoration:underline">Bahasa Melayu</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/nb/" hreflang="nb" style="color:#cfe0d6;text-decoration:underline">Norsk</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/pl/" hreflang="pl" style="color:#cfe0d6;text-decoration:underline">Polski</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/pt/" hreflang="pt" style="color:#cfe0d6;text-decoration:underline">Português</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/ro/" hreflang="ro" style="color:#cfe0d6;text-decoration:underline">Română</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/ru/" hreflang="ru" style="color:#cfe0d6;text-decoration:underline">Русский</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/sk/" hreflang="sk" style="color:#cfe0d6;text-decoration:underline">Slovenčina</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/es/" hreflang="es" style="color:#cfe0d6;text-decoration:underline">Español</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/sw/" hreflang="sw" style="color:#cfe0d6;text-decoration:underline">Kiswahili</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/sv/" hreflang="sv" style="color:#cfe0d6;text-decoration:underline">Svenska</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/th/" hreflang="th" style="color:#cfe0d6;text-decoration:underline">ไทย</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/tr/" hreflang="tr" style="color:#cfe0d6;text-decoration:underline">Türkçe</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/uk/" hreflang="uk" style="color:#cfe0d6;text-decoration:underline">Українська</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/ur/" hreflang="ur" style="color:#cfe0d6;text-decoration:underline">اردو</a> · <a href="https://loonaautomation.github.io/loona-dev-tools/vi/" hreflang="vi" style="color:#cfe0d6;text-decoration:underline">Tiếng Việt</a></div>
+<div class="copyright">&copy; 2026 Loona Automation - Loona Developer Tools. Ilmaiset verkon kehittäjätyökalut, jotka toimivat 100-prosenttisesti selaimessasi.</div></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Asenna sovellus';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Asenna tämä sovellus: napauta Jaa-painiketta ja valitse sitten "Lisää aloitusnäyttöön".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body>
+</html>
+
+<script>
+
+const $=s=>document.querySelector(s);
+function setStatus(el,msg,ok){el.textContent=msg;el.className='tila '+(ok===true?'ok':ok===false?'err':'');}
+function downloadBlob(blob,name){const u=URL.createObjectURL(blob);const a=document.createElement('a');a.href=u;a.download=name;document.body.appendChild(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),4000);}
+function escH(s){return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+
+/*CORE*/
+
+function fmtBytes(n){
+  if(n===0) return '0 B';
+  var units=['B','KB','MB','GB','TB'];
+  var i=Math.min(units.length-1, Math.floor(Math.log(n)/Math.log(1024)));
+  var v=n/Math.pow(1024,i);
+  return (i===0? v : Math.round(v*10)/10)+' '+units[i];
+}
+function stripExt(name, exts){
+  var lower=name.toLowerCase();
+  for(var i=0;i<exts.length;i++){ if(lower.endsWith(exts[i])) return name.slice(0, name.length-exts[i].length); }
+  var dot=name.lastIndexOf('.');
+  return dot>0? name.slice(0,dot): name;
+}
+
+
+function tarPutStr(h, off, len, str){
+  for(var i=0;i<str.length && i<len;i++) h[off+i]=str.charCodeAt(i)&0xff;
+}
+function tarPutOct(h, off, len, val){
+  var s=Math.floor(val).toString(8);
+  while(s.length<len-1) s='0'+s;
+  tarPutStr(h, off, len, s+'\0');
+}
+function tarSplitName(name){
+  var bytesOk=function(s){ return s.length<=100; };
+  if(name.length<=100) return {short:name, prefix:''};
+  // try a ustar prefix split: prefix <=155 chars, final part <=100 chars
+  for(var i=name.length-1;i>0;i--){
+    if(name.charAt(i)==='/'){
+      var pre=name.slice(0,i), rest=name.slice(i+1);
+      if(pre.length<=155 && rest.length<=100 && rest.length>0) return {short:rest, prefix:pre};
+    }
+  }
+  return null; // caller falls back to a GNU longname ('L') entry
+}
+function tarHeader(name, size, mtimeSec, typeflag){
+  var split=tarSplitName(name);
+  var h=new Uint8Array(512);
+  tarPutStr(h, 0, 100, typeflag==='L'? '../../zip-to-tar-gz-converter/@LongLink' : (split? split.short : name.slice(0,100)));
+  tarPutOct(h, 100, 8, typeflag==='5'? 0o755 : 0o644);
+  tarPutOct(h, 108, 8, 0);
+  tarPutOct(h, 116, 8, 0);
+  tarPutOct(h, 124, 12, size);
+  tarPutOct(h, 136, 12, mtimeSec);
+  for(var i=148;i<156;i++) h[i]=0x20;
+  h[156]=typeflag.charCodeAt(0);
+  tarPutStr(h, 257, 6, 'ustar');
+  tarPutStr(h, 263, 2, '00');
+  tarPutStr(h, 265, 32, 'loona');
+  tarPutStr(h, 297, 32, 'loona');
+  tarPutOct(h, 329, 8, 0);
+  tarPutOct(h, 337, 8, 0);
+  if(split && split.prefix) tarPutStr(h, 345, 155, split.prefix);
+  var sum=0; for(i=0;i<512;i++) sum+=h[i];
+  var cs=sum.toString(8); while(cs.length<6) cs='0'+cs;
+  tarPutStr(h, 148, 8, cs+'\0 ');
+  return h;
+}
+function tarPadLen(n){ var r=n%512; return r===0? 0 : 512-r; }
+function buildTar(entries){
+  // entries: [{name, data:Uint8Array, mtime:seconds}] - dirs end with '/'
+  var chunks=[], total=0;
+  function push(u8){ chunks.push(u8); total+=u8.length; }
+  var i, e, isDir, name, data, mtime;
+  for(i=0;i<entries.length;i++){
+    e=entries[i]; name=e.name; data=e.data||new Uint8Array(0);
+    isDir= name.endsWith('/') || e.dir===true;
+    if(isDir && !name.endsWith('/')) name+='/';
+    mtime= e.mtime||0;
+    if(tarSplitName(name)===null && !isDir){
+      // GNU longname entry carrying the real path, then a truncated header name
+      var nameBytes=new TextEncoder().encode(name);
+      push(tarHeader('', nameBytes.length, mtime, 'L'));
+      push(nameBytes); var p0=tarPadLen(nameBytes.length); if(p0) push(new Uint8Array(p0));
+      var trunc=name.slice(0,100);
+      var saved=name; name=trunc;
+      push(tarHeader(name, data.length, mtime, '0'));
+      name=saved;
+    } else {
+      push(tarHeader(name, isDir? 0 : data.length, mtime, isDir? '5':'0'));
+    }
+    if(!isDir && data.length){
+      push(data);
+      var p=tarPadLen(data.length); if(p) push(new Uint8Array(p));
+    }
+  }
+  push(new Uint8Array(1024)); // two zero blocks mark the end of the archive
+  var out=new Uint8Array(total), off=0;
+  for(i=0;i<chunks.length;i++){ out.set(chunks[i], off); off+=chunks[i].length; }
+  return out;
+}
+function tarEntriesFromFiles(list, parentDirs){
+  // list: [{path, data:Uint8Array, mtime}] -> entries with dir entries first
+  var dirs={}, entries=[], i, parts, acc;
+  for(i=0;i<list.length;i++){
+    parts=list[i].path.split('/');
+    acc='';
+    for(var j=0;j<parts.length-1;j++){ acc+=parts[j]+'/'; dirs[acc]=true; }
+  }
+  if(parentDirs){ for(var d in parentDirs) dirs[d]=true; }
+  Object.keys(dirs).sort().forEach(function(d){ entries.push({name:d, data:new Uint8Array(0), mtime:0, dir:true}); });
+  for(i=0;i<list.length;i++) entries.push({name:list[i].path, data:list[i].data, mtime:list[i].mtime||0});
+  return entries;
+}
+
+
+async function gzipCompressBytes(u8){
+  var cs=new CompressionStream('gzip');
+  var stream=new Blob([u8]).stream().pipeThrough(cs);
+  var buf=await new Response(stream).arrayBuffer();
+  return new Uint8Array(buf);
+}
+async function gzipDecompressBytes(u8){
+  var ds=new DecompressionStream('gzip');
+  var stream=new Blob([u8]).stream().pipeThrough(ds);
+  var buf=await new Response(stream).arrayBuffer();
+  return new Uint8Array(buf);
+}
+
+async function entriesFromZip(file){
+  var zip=await JSZip.loadAsync(file);
+  var list=[];
+  var names=Object.keys(zip.files);
+  for(var i=0;i<names.length;i++){
+    var entry=zip.files[names[i]];
+    if(entry.dir) continue;
+    var data=await entry.async('uint8array');
+    var mtime= entry.date? Math.floor(entry.date.getTime()/1000) : 0;
+    list.push({path:names[i].replace(/\\/g,'/'), data:data, mtime:mtime});
+  }
+  if(!list.length) throw new Error('Tiedostoja ei löytynyt tämän ZIPin sisältä.');
+  return list;
+}
+/*/CORE*/
+var picked=null, outBlob=null, outFileName='';
+var dz=document.getElementById('dz'), input=document.getElementById('fileInput');
+function showFile(){
+  var fl=document.getElementById('fileLine');
+  document.getElementById('bGo').disabled=!picked;
+  fl.textContent= picked? picked.name+' - '+fmtBytes(picked.size) : '';
+  fl.className='status';
+}
+dz.addEventListener('click',function(){ input.click(); });
+input.addEventListener('change',function(){ if(this.files.length){ picked=this.files[0]; outBlob=null; document.getElementById('bDl').disabled=true; showFile(); } this.value=''; });
+['dragenter','dragover'].forEach(function(ev){ dz.addEventListener(ev,function(e){ e.preventDefault(); dz.classList.add('over'); }); });
+['dragleave','drop'].forEach(function(ev){ dz.addEventListener(ev,function(e){ e.preventDefault(); dz.classList.remove('over'); }); });
+dz.addEventListener('drop',function(e){ var dt=e.dataTransfer; if(dt&&dt.files&&dt.files.length){ picked=dt.files[0]; outBlob=null; document.getElementById('bDl').disabled=true; showFile(); } });
+document.getElementById('bGo').addEventListener('click', async function(){
+  var st=document.getElementById('st'), btn=this;
+  if(!picked){ setStatus(st,'Valitse ZIP-tiedosto ensin.',false); return; }
+  if(typeof JSZip==='undefined'){ setStatus(st,'ZIP-kirjaston lataaminen epäonnistui - tarkista yhteytesi ja lataa sivu uudelleen.',false); return; }
+  if(typeof CompressionStream==='undefined'){ setStatus(st,'Selaimesi ei tue gzipille tarvittavaa Compression Streams APIa. Kokeile Chromen, Edgen, Firefoxin tai Safarin nykyistä versiota.',false); return; }
+  btn.disabled=true;
+  setStatus(st,'Luetaan ZIPiäsi...',null);
+  try{
+    var list=await entriesFromZip(picked);
+    setStatus(st,'Rakennetaan TAR-arkistoa ('+list.length+' tiedostoa)...',null);
+    var tarBytes=buildTar(tarEntriesFromFiles(list));
+    setStatus(st,'Pakataan gzipillä...',null);
+    var gzBytes=await gzipCompressBytes(tarBytes);
+    outBlob=new Blob([gzBytes], {type:'application/gzip'});
+    outFileName=stripExt(picked.name, ['.zip'])+'.tar.gz';
+    document.getElementById('kv').style.display='grid';
+    document.getElementById('kvCount').textContent=list.length;
+    document.getElementById('kvIn').textContent=fmtBytes(picked.size);
+    document.getElementById('kvOut').textContent=fmtBytes(outBlob.size);
+    var bDl=document.getElementById('bDl'); bDl.disabled=false; bDl.textContent='Lataa '+outFileName;
+    setStatus(st,'Valmis - '+list.length+' tiedostoa muunnettu. Napsauta Lataa tallentaaksesi '+outFileName+'.',true);
+  }catch(e){
+    setStatus(st,'Tämän ZIPin muuntaminen epäonnistui: '+(e&&e.message? e.message : e),false);
+  }
+  btn.disabled=false;
+});
+document.getElementById('bDl').addEventListener('click',function(){ if(outBlob) downloadBlob(outBlob, outFileName); });
+</script>

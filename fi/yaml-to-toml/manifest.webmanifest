@@ -1,0 +1,29 @@
+{
+  "name": "Loona YAML-TOML-muunnin",
+  "short_name": "YAML-TOML-muunnin",
+  "description": "Muunna YAML TOML:iksi verkossa (jaetun datamallin kautta): taulukot, skalaarit ja taulukot kartoitettuna TOML-asettelusääntöihin.",
+  "id": "/loona-dev-tools/fi/yaml-to-toml/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

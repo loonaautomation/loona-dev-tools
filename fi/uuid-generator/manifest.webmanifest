@@ -1,0 +1,29 @@
+{
+  "name": "Loona UUID-generaattori verkossa ilmaiseksi",
+  "short_name": "UUID-generaattori verkossa ilmaiseksi",
+  "description": "Luo satunnaisia version 4 UUID:itä verkossa ilmaiseksi - yksittäin tai erissä enintään 100, suuraakkos- ja ei-yhdysmerkki-vaihtoehdot. Kryptografisesti satunnaisia, selaimessasi.",
+  "id": "/loona-dev-tools/fi/uuid-generator/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

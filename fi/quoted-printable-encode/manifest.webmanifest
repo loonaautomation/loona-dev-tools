@@ -1,0 +1,29 @@
+{
+  "name": "Loona Quoted-Printable-kooderi",
+  "short_name": "Quoted-Printable-kooderi",
+  "description": "Koodaa tekstiä quoted-printableksi (MIME) verkossa: UTF-8-tavut =XX-pakotuksina, pehmeät rivinvaihdot 76 merkissä, RFC 2045:n mukaan.",
+  "id": "/loona-dev-tools/fi/quoted-printable-encode/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+[
+ {
+  "n": "Muunnin- & generaattorikirjasto",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/converter-library/",
+  "s": "Loona Dev Tools",
+  "d": "126 uutta muunninta ja generaattoria: koodaukset, tietomuodot (JSON, YAML, XML, TOML, CSV), tiivisteet, värit, arkistot, koodigeneraattorit ja hakuteokset.",
+  "k": "converter generator library converter library 126 uutta muunninta ja generaattoria koodaukset tietomuodot json yaml xml toml csv tiivisteet varit arkistot koodigeneraattorit ja hakuteokset",
+  "p": 100,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON-muotoilija",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/json-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Vahvista, kauniisti tulosta ja minifioi JSON, minkä tahansa virheen tarkalla sijainnilla.",
+  "k": "json formatter json formatter vahvista kauniisti tulosta ja minifioi json minka tahansa virheen tarkalla sijainnilla",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Base64-kooderi ja -dekooderi",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/base64-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Koodaa tekstiä ja tiedostoja Base64:ksi, tai pura se takaisin — UTF-8-turvallinen, URL-turvallinen vaihtoehto mukana.",
+  "k": "base64 encoder decoder base64 encoder koodaa tekstia ja tiedostoja base64 ksi tai pura se takaisin utf 8 turvallinen url turvallinen vaihtoehto mukana",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "URL-kooderi & dekooderi",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/url-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Prosenttikoodaa tekstiä ja URL:eja turvallisesti, merkkikohtaisen erittelytaulukon kera.",
+  "k": "url encoder decoder url encoder prosenttikoodaa tekstia ja url eja turvallisesti merkkikohtaisen erittelytaulukon kera",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "UUID-generaattori",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/uuid-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Luo satunnaisia version 4 UUID:itä - yksi kerrallaan tai erissä enintään 100 kappaletta.",
+  "k": "uuid generator uuid generator luo satunnaisia version 4 uuid ita yksi kerrallaan tai erissa enintaan 100 kappaletta",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Tiivistegeneraattori",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/hash-generator/",
+  "s": "Loona Dev Tools",
+  "d": "SHA-1-, SHA-256-, SHA-384- ja SHA-512-tiivisteet mille tahansa tekstille, laskettuna selaimessasi.",
+  "k": "hash generator hash generator sha 1 sha 256 sha 384 ja sha 512 tiivisteet mille tahansa tekstille laskettuna selaimessasi",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "JWT-dekooderi",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/jwt-decoder/",
+  "s": "Loona Dev Tools",
+  "d": "Pura JSON Web Tokenin otsikko ja sisältö ja lue sen vanheneminen selkosanoin.",
+  "k": "jwt decoder jwt decoder pura json web tokenin otsikko ja sisalto ja lue sen vanheneminen selkosanoin",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "Aikaleimamuunnin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/timestamp-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Muunna Unix-aikaleimoja ihmisen päivämääriksi ja takaisin — UTC, paikallinen aikasi ja suhteellinen aika.",
+  "k": "timestamp converter timestamp converter muunna unix aikaleimoja ihmisen paivamaariksi ja takaisin utc paikallinen aikasi ja suhteellinen aika",
+  "p": 107,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML-entiteettikooderi",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/html-entity-encoder/",
+  "s": "Loona Dev Tools",
+  "d": "Pakota tekstiä HTML-entiteeteiksi (nimettyinä tai numeroituina) ja pura entiteetit takaisin tekstiksi.",
+  "k": "html entity encoder html entity encoder pakota tekstia html entiteeteiksi nimettyina tai numeroituina ja pura entiteetit takaisin tekstiksi",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS-minifioija & -siistijä",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/css-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Minifioi CSS pienentääksesi tiedostokokoa, tai kaunista se takaisin luettavaksi, sisennetyksi koodiksi.",
+  "k": "css minifier beautifier css minifier minifioi css pienentaaksesi tiedostokokoa tai kaunista se takaisin luettavaksi sisennetyksi koodiksi",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "JavaScript-minimoija",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/javascript-minifier/",
+  "s": "Loona Dev Tools",
+  "d": "Minifioi JavaScript varovasti — kommentit ja kuollut tyhjä tila poistettuina, merkkijonot ja säännölliset lausekkeet koskemattomina.",
+  "k": "javascript minifier javascript minifier minifioi javascript varovasti kommentit ja kuollut tyhja tila poistettuina merkkijonot ja saannolliset lausekkeet koskemattomina",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Regex-testaaja",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/regex-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Testaa säännöllisiä lausekkeita livenä - osumat korostettu, sieppausryhmät lueteltu, määrä näytetty.",
+  "k": "regex tester regex tester testaa saannollisia lausekkeita livena osumat korostettu sieppausryhmat lueteltu maara naytetty",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Diff-vertailija",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/diff-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Vertaa kahta tekstiä rivi riviltä — lisätyt ja poistetut rivit korostettuina, muutosyhteenvedon kanssa.",
+  "k": "diff checker diff checker vertaa kahta tekstia rivi rivilta lisatyt ja poistetut rivit korostettuina muutosyhteenvedon kanssa",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON-CSV-muunnin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/json-to-csv-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Muuta JSON-objektitaulukko puhtaaksi CSV-tiedostoksi - kaikkien avainten yhdiste, kunnollinen lainaus, yksi napsautus.",
+  "k": "json to csv converter json to csv converter muuta json objektitaulukko puhtaaksi csv tiedostoksi kaikkien avainten yhdiste kunnollinen lainaus yksi napsautus",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-JSON-muunnin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/csv-to-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Muunna CSV JSON-objektitaulukoksi — aito jäsennin, joka käsittelee lainatut pilkut ja pakotetut lainausmerkit.",
+  "k": "csv to json converter csv to json converter muunna csv json objektitaulukoksi aito jasennin joka kasittelee lainatut pilkut ja pakotetut lainausmerkit",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "YAML ⇄ JSON -muunnin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/yaml-json-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Muunna yleinen YAML-osajoukko (kuvaukset, luettelot, skalaarit) JSON:iksi ja JSON takaisin YAML:iksi — rehellisesti rajattu.",
+  "k": "yaml json converter yaml json converter muunna yleinen yaml osajoukko kuvaukset luettelot skalaarit json iksi ja json takaisin yaml iksi rehellisesti rajattu",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "SQL-muotoilija",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/sql-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Muotoile SQL suuraakkosisilla avainsanoilla ja jokainen päälause omalla rivillään - luettavia kyselyjä yhdellä napsautuksella.",
+  "k": "sql formatter sql formatter muotoile sql suuraakkosisilla avainsanoilla ja jokainen paalause omalla rivillaan luettavia kyselyja yhdella napsautuksella",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Lukujärjestelmämuunnin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/number-base-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Muunna binäärin, oktaalin, desimaalin ja heksan välillä täydellä suurten kokonaislukujen tarkkuudella — ei 2^53-rajaa.",
+  "k": "number base converter number base converter muunna binaarin oktaalin desimaalin ja heksan valilla taydella suurten kokonaislukujen tarkkuudella ei 2 53 rajaa",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Chmod-laskuri",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/chmod-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "Rastita luku/kirjoitus/suoritus-ruudut omistajalle, ryhmälle ja muille - saat oktaalin ja symboliset oikeudet välittömästi.",
+  "k": "chmod calculator chmod calculator rastita luku kirjoitus suoritus ruudut omistajalle ryhmalle ja muille saat oktaalin ja symboliset oikeudet valittomasti",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Salasanan vahvuuden tarkistin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/password-strength-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Katso salasanan entropia-arvio bitteinä, mikä sitä heikentää ja kuinka kauan nopea offline-hyökkäys kestäisi.",
+  "k": "password strength checker password strength checker katso salasanan entropia arvio bitteina mika sita heikentaa ja kuinka kauan nopea offline hyokkays kestaisi",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Cron-lausekegeneraattori",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/cron-expression-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Rakenna 5 kentän cron-lauseke pelkillä pudotusvalikoilla, ja saat minkä tahansa cron-lausekkeen selitettynä selkokielellä.",
+  "k": "cron expression generator cron expression generator rakenna 5 kentan cron lauseke pelkilla pudotusvalikoilla ja saat minka tahansa cron lausekkeen selitettyna selkokielella",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "URL-jäsennin & rakentaja",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/url-parser/",
+  "s": "Loona Dev Tools",
+  "d": "Pilko URL protokollaan, isäntään, porttiin, polkuun, kyselyparametreihin ja tiivisteeseen — muokkaa sitten parametreja ja rakenna se uudelleen.",
+  "k": "url parser builder url parser pilko url protokollaan isantaan porttiin polkuun kyselyparametreihin ja tiivisteeseen muokkaa sitten parametreja ja rakenna se uudelleen",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "ZIP-tiedoston luoja",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/zip-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Niputa useita tiedostoja yhdeksi ZIP-arkistoksi — rakennettu selaimessasi, mitään ei lähetetä palvelimelle.",
+  "k": "zip file creator zip file creator niputa useita tiedostoja yhdeksi zip arkistoksi rakennettu selaimessasi mitaan ei laheteta palvelimelle",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Unzip-tiedostopurkaja",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/unzip-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Avaa ZIP, katso jokainen sisällä oleva tiedosto kokoineen ja pura yksi tiedosto tai ne kaikki.",
+  "k": "unzip file extractor unzip file extractor avaa zip katso jokainen sisalla oleva tiedosto kokoineen ja pura yksi tiedosto tai ne kaikki",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "RAR-tiedostopurkaja",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/rar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Avaa RAR-tiedostoja (RAR4 ja RAR5) selaimessasi - katso jokainen sisällä oleva tiedosto, lataa yksi tiedosto tai kaikki ZIPinä.",
+  "k": "rar file extractor rar file extractor avaa rar tiedostoja rar4 ja rar5 selaimessasi katso jokainen sisalla oleva tiedosto lataa yksi tiedosto tai kaikki zipina",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "7Z-tiedostopurkaja",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/7z-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Avaa 7z-arkistoja selaimessasi - katso sisältö ja pura yksittäisiä tiedostoja tai kaikki ZIPinä.",
+  "k": "7z file extractor 7z file extractor avaa 7z arkistoja selaimessasi katso sisalto ja pura yksittaisia tiedostoja tai kaikki zipina",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR-tiedostopurkaja",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/tar-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Avaa .tar-, .tar.bz2- ja .tar.xz-arkistoja selaimessasi ja pura niiden sisällä olevat tiedostot - mitään ei lähetetä palvelimelle.",
+  "k": "tar file extractor tar file extractor avaa tar tar bz2 ja tar xz arkistoja selaimessasi ja pura niiden sisalla olevat tiedostot mitaan ei laheteta palvelimelle",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR.GZ-tiedostopurkaja",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/tar-gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Avaa .tar.gz- ja .tgz-arkistoja selaimessasi - selaa niiden sisällä olevia tiedostoja ja pura tarvitsemasi.",
+  "k": "tar gz file extractor tar gz file extractor avaa tar gz ja tgz arkistoja selaimessasi selaa niiden sisalla olevia tiedostoja ja pura tarvitsemasi",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "GZ-tiedostopurkaja",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/gz-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Pura yksittäinen .gz-tiedosto selaimessasi ja lataa alkuperäinen — lokit, dataviennit ja tietokantavedokset.",
+  "k": "gz file extractor gz file extractor pura yksittainen gz tiedosto selaimessasi ja lataa alkuperainen lokit dataviennit ja tietokantavedokset",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "ISO-tiedostopurkaja",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/iso-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Avaa ISO-levyimaget selaimessasi, selaa virtuaalilevylle tallennettua tiedostojärjestelmää ja lataa tiedostoja.",
+  "k": "iso file extractor iso file extractor avaa iso levyimaget selaimessasi selaa virtuaalilevylle tallennettua tiedostojarjestelmaa ja lataa tiedostoja",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Arkistotiedostopurkaja",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/archive-file-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Yksi yleisarkistonavaaja ZIPille, RARille, 7Z:lle, TARille, ISOlle ja muille - muoto tunnistetaan automaattisesti.",
+  "k": "archive file extractor archive file extractor yksi yleisarkistonavaaja zipille rarille 7z lle tarille isolle ja muille muoto tunnistetaan automaattisesti",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "RAR-ZIP-muunnin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/rar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Muunna RAR-arkisto tavalliseksi ZIP:iksi selaimessasi — kansiorakenne säilytetty, mitään ei lähetetä palvelimelle.",
+  "k": "rar to zip converter rar to zip converter muunna rar arkisto tavalliseksi zip iksi selaimessasi kansiorakenne sailytetty mitaan ei laheteta palvelimelle",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "7Z-ZIP-muunnin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/7z-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Muunna 7Z-arkisto ZIP:iksi, joka aukeaa kaikkialla — 7-Zipiä ei tarvita, mitään ei lähetetä palvelimelle.",
+  "k": "7z to zip converter 7z to zip converter muunna 7z arkisto zip iksi joka aukeaa kaikkialla 7 zipia ei tarvita mitaan ei laheteta palvelimelle",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR-ZIP-muunnin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/tar-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Muunna Linuxista tai Unixista tuleva TAR-arkisto ZIP:iksi, joka aukeaa natiivisti Windowsissa, macOS:ssa ja puhelimissa.",
+  "k": "tar to zip converter tar to zip converter muunna linuxista tai unixista tuleva tar arkisto zip iksi joka aukeaa natiivisti windowsissa macos ssa ja puhelimissa",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR.GZ-ZIP-muunnin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/tar-gz-to-zip-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Muunna .tar.gz tai .tgz yhdeksi ZIP:iksi — sekä gzip- että tar-kerrokset puretaan laitteellasi.",
+  "k": "tar gz to zip converter tar gz to zip converter muunna tar gz tai tgz yhdeksi zip iksi seka gzip etta tar kerrokset puretaan laitteellasi",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "ZIP-TAR.GZ-muunnin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/zip-to-tar-gz-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Muunna ZIP-arkisto .tar.gz-tar-palloksi — muoto, jota Linux-palvelimet, Docker ja koontityökalut odottavat.",
+  "k": "zip to tar gz converter zip to tar gz converter muunna zip arkisto tar gz tar palloksi muoto jota linux palvelimet docker ja koontityokalut odottavat",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "TAR-tiedoston luoja",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/tar-file-creator/",
+  "s": "Loona Dev Tools",
+  "d": "Luo määritysten mukainen .tar-arkisto useista tiedostoista selaimessasi — aukeaa millä tahansa tar-työkalulla.",
+  "k": "tar file creator tar file creator luo maaritysten mukainen tar arkisto useista tiedostoista selaimessasi aukeaa milla tahansa tar tyokalulla",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "GZIP-pakkaaja",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/gzip-compressor/",
+  "s": "Loona Dev Tools",
+  "d": "Pakkaa mikä tahansa yksittäinen tiedosto .gz:ksi selaimesi sisäänrakennetulla gzip-moottorilla — välittömät ennen/jälkeen-koot.",
+  "k": "gzip compressor gzip compressor pakkaa mika tahansa yksittainen tiedosto gz ksi selaimesi sisaanrakennetulla gzip moottorilla valittomat ennen jalkeen koot",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-katselin & -editori",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/csv-viewer-editor/",
+  "s": "Loona Dev Tools",
+  "d": "Lataa CSV muokattavaan taulukkoruudukkoon - muokkaa soluja, lajittele sarakkeita, lisää tai poista rivejä ja sarakkeita, lataa sitten.",
+  "k": "csv viewer editor csv viewer editor lataa csv muokattavaan taulukkoruudukkoon muokkaa soluja lajittele sarakkeita lisaa tai poista riveja ja sarakkeita lataa sitten",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-SQL-muunnin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/csv-to-sql-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Muuta CSV muotoon CREATE TABLE plus INSERT-lauseet päätellyillä tyypeillä, MySQL:lle, PostgreSQL:lle tai SQLite:lle.",
+  "k": "csv to sql converter csv to sql converter muuta csv muotoon create table plus insert lauseet paatellyilla tyypeilla mysql lle postgresql lle tai sqlite lle",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-XML-muunnin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/csv-to-xml-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Muunna CSV-rivejä hyvin muodostetuksi XML:ksi määritettävillä juuri- ja rivielementeillä ja kunnollisella pakotuksella.",
+  "k": "csv to xml converter csv to xml converter muunna csv riveja hyvin muodostetuksi xml ksi maaritettavilla juuri ja rivielementeilla ja kunnollisella pakotuksella",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-Markdown-taulukkomuunnin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/csv-to-markdown-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Muunna CSV GitHub-valmiiksi Markdown-taulukoksi — numeeriset sarakkeet oikealle tasattuina, pystyviivat pakotettuina.",
+  "k": "csv to markdown table converter csv to markdown converter muunna csv github valmiiksi markdown taulukoksi numeeriset sarakkeet oikealle tasattuina pystyviivat pakotettuina",
+  "p": 141,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-kopioiden poisto & siistiminen",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/csv-dedupe-cleaner/",
+  "s": "Loona Dev Tools",
+  "d": "Poista CSV-kaksoisrivit koko rivin tai avainsarakkeiden mukaan, siisti välilyönnit ja pudota tyhjät rivit, määrien kera.",
+  "k": "csv dedupe cleaner csv dedupe cleaner poista csv kaksoisrivit koko rivin tai avainsarakkeiden mukaan siisti valilyonnit ja pudota tyhjat rivit maarien kera",
+  "p": 142,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-jako & yhdistäminen",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/csv-split-merge/",
+  "s": "Loona Dev Tools",
+  "d": "Jaa CSV osiin rivimäärän mukaan otsikon toistuen, tai yhdistä CSV-tiedostoja, joilla on sama otsikko.",
+  "k": "csv split merge csv split merge jaa csv osiin rivimaaran mukaan otsikon toistuen tai yhdista csv tiedostoja joilla on sama otsikko",
+  "p": 143,
+  "c": "Tool"
+ },
+ {
+  "n": "Meta-tunnistegeneraattori",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/meta-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Luo valmis HTML-meta-lohko - otsikko, kuvaus, robots, canonical - elävällä SERP-esikatselulla.",
+  "k": "meta tag generator meta tag generator luo valmis html meta lohko otsikko kuvaus robots canonical elavalla serp esikatselulla",
+  "p": 144,
+  "c": "Tool"
+ },
+ {
+  "n": "Open Graph- ja Twitter Card -generaattori",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/open-graph-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Rakenna OG- ja Twitter Card -tagit elävällä sosiaalisen kortin esikatselulla, jotta jaetut linkit näyttävät oikeilta.",
+  "k": "open graph twitter card generator open graph generator rakenna og ja twitter card tagit elavalla sosiaalisen kortin esikatselulla jotta jaetut linkit nayttavat oikeilta",
+  "p": 145,
+  "c": "Tool"
+ },
+ {
+  "n": "Robots.txt-generaattori",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/robots-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Rakenna kelvollinen robots.txt esiasetuksista ja agenttikohtaisista säännöistä, tuloksen järkevyystarkistuksilla.",
+  "k": "robots txt generator robots txt generator rakenna kelvollinen robots txt esiasetuksista ja agenttikohtaisista saannoista tuloksen jarkevyystarkistuksilla",
+  "p": 146,
+  "c": "Tool"
+ },
+ {
+  "n": "XML-sivustokarttageneraattori",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/xml-sitemap-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Muuta URL-luettelo kelvolliseksi sitemap.xml:ksi lastmod-, changefreq- ja prioriteetti-oletuksilla.",
+  "k": "xml sitemap generator xml sitemap generator muuta url luettelo kelvolliseksi sitemap xml ksi lastmod changefreq ja prioriteetti oletuksilla",
+  "p": 147,
+  "c": "Tool"
+ },
+ {
+  "n": "UTM-linkkien rakentaja",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/utm-link-builder/",
+  "s": "Loona Dev Tools",
+  "d": "Merkitse kampanja-URLit UTM-parametreilla - oikea koodaus, olemassa olevat parametrit säilytetty, paikallinen historia.",
+  "k": "utm link builder utm link builder merkitse kampanja urlit utm parametreilla oikea koodaus olemassa olevat parametrit sailytetty paikallinen historia",
+  "p": 148,
+  "c": "Tool"
+ },
+ {
+  "n": "IP-aliverkkolaskin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/ip-subnet-calculator/",
+  "s": "Loona Dev Tools",
+  "d": "IPv4 CIDR verkoksi, yleislähetykseksi, verkkomaskiksi, jokerimaskiksi, isäntäalueeksi ja määräksi, sekä aliverkkojen jakonäkymä.",
+  "k": "ip subnet calculator ip subnet calculator ipv4 cidr verkoksi yleislahetykseksi verkkomaskiksi jokerimaskiksi isantaalueeksi ja maaraksi seka aliverkkojen jakonakyma",
+  "p": 149,
+  "c": "Tool"
+ },
+ {
+  "n": "JSON-LD-skeemageneraattori",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/json-ld-schema-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Luo schema.org-jäsenneltyä dataa - Article, Product, LocalBusiness, Event, Recipe ja paljon muuta - kelvollisena JSON-LD:nä.",
+  "k": "json ld schema generator json ld schema generator luo schema org jasenneltya dataa article product localbusiness event recipe ja paljon muuta kelvollisena json ld na",
+  "p": 150,
+  "c": "Tool"
+ },
+ {
+  "n": "Google SERP -esikatselu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/google-serp-preview/",
+  "s": "Loona Dev Tools",
+  "d": "Esikatsele otsikkoasi ja kuvaustasi Google-tuloksena, pikselileveyden katkeamisvaroituksilla, työpöydällä ja mobiilissa.",
+  "k": "google serp preview google serp preview esikatsele otsikkoasi ja kuvaustasi google tuloksena pikselileveyden katkeamisvaroituksilla tyopoydalla ja mobiilissa",
+  "p": 151,
+  "c": "Tool"
+ },
+ {
+  "n": "Avainsanatiheyden tarkistin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/keyword-density-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Laske yksittäiset sanat sekä 2 sanan ja 3 sanan lauseet prosenttitiheydellä ja sulkusanojen suodatuksella.",
+  "k": "keyword density checker keyword density checker laske yksittaiset sanat seka 2 sanan ja 3 sanan lauseet prosenttitiheydella ja sulkusanojen suodatuksella",
+  "p": 152,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML-taulukkogeneraattori",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/html-table-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Rakenna taulukoita visuaalisesti ruudukossa ja saat siistiä semanttista HTML:ää thead-, th- ja caption-tuella.",
+  "k": "html table generator html table generator rakenna taulukoita visuaalisesti ruudukossa ja saat siistia semanttista html aa thead th ja caption tuella",
+  "p": 153,
+  "c": "Tool"
+ },
+ {
+  "n": "HTML-sähköpostiallekirjoitusgeneraattori",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/email-signature-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Luo ammattimainen sähköpostiallekirjoitus sähköpostiturvallisena taulukko-HTML:nä, joka toimii Gmailissa ja Outlookissa.",
+  "k": "html email signature generator email signature generator luo ammattimainen sahkopostiallekirjoitus sahkopostiturvallisena taulukko html na joka toimii gmailissa ja outlookissa",
+  "p": 154,
+  "c": "Tool"
+ },
+ {
+  "n": "Sähköpostin validoija",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/email-validator/",
+  "s": "Loona Dev Tools",
+  "d": "Tarkista sähköpostiosoitteita joukkona syntaksivirheiden ja yleisten verkkotunnusten kirjoitusvirheiden kuten gmial.com varalta, ehdotuksineen.",
+  "k": "email validator email validator tarkista sahkopostiosoitteita joukkona syntaksivirheiden ja yleisten verkkotunnusten kirjoitusvirheiden kuten gmial com varalta ehdotuksineen",
+  "p": 155,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS-leikkauspolkugeneraattori",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/css-clip-path-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Luo clip-path CSS - monikulmiomallit säädettävillä pisteillä, sekä ympyrä-, ellipsi- ja inset-muodot.",
+  "k": "css clip path generator css clip path generator luo clip path css monikulmiomallit saadettavilla pisteilla seka ympyra ellipsi ja inset muodot",
+  "p": 156,
+  "c": "Tool"
+ },
+ {
+  "n": "CSS-laatikkovarjogeneraattori",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/css-box-shadow-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Rakenna kerroksellisia box-shadow-CSS:iä inset-tuella, värin ja läpinäkyvyyden hallinnalla sekä elävällä esikatselulla.",
+  "k": "css box shadow generator css box shadow generator rakenna kerroksellisia box shadow css ia inset tuella varin ja lapinakyvyyden hallinnalla seka elavalla esikatselulla",
+  "p": 157,
+  "c": "Tool"
+ },
+ {
+  "n": "XML-muotoilija & tarkistin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/xml-formatter/",
+  "s": "Loona Dev Tools",
+  "d": "Siisti, minifioi ja validoi XML - tasapainotettujen tagien hyvinmuodostuneisuuden tarkistukset selkeillä virheilmoituksilla.",
+  "k": "xml formatter validator xml formatter siisti minifioi ja validoi xml tasapainotettujen tagien hyvinmuodostuneisuuden tarkistukset selkeilla virheilmoituksilla",
+  "p": 158,
+  "c": "Tool"
+ },
+ {
+  "n": "Markdown-HTML-muunnin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/markdown-to-html-converter/",
+  "s": "Loona Dev Tools",
+  "d": "Muunna arkipäivän Markdown siistiksi HTML:ksi elävällä renderöidyllä esikatselulla — otsikot, luettelot, koodi ja paljon muuta.",
+  "k": "markdown to html converter markdown to html converter muunna arkipaivan markdown siistiksi html ksi elavalla renderoidylla esikatselulla otsikot luettelot koodi ja paljon muuta",
+  "p": 159,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-transponointi",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/csv-transpose/",
+  "s": "Loona Dev Tools",
+  "d": "Vaihda CSV-rivit ja -sarakkeet kunnollisella jäsentimellä - kahdesti transponoiminen palauttaa alkuperäisen.",
+  "k": "csv transpose csv transpose vaihda csv rivit ja sarakkeet kunnollisella jasentimella kahdesti transponoiminen palauttaa alkuperaisen",
+  "p": 160,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-liitos",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/csv-join/",
+  "s": "Loona Dev Tools",
+  "d": "Yhdistä kaksi CSV:tä avainsarakkeella - sisä- tai vasen liitos, kaksoisavaimet käsiteltynä tietokantatapaan.",
+  "k": "csv join csv join yhdista kaksi csv ta avainsarakkeella sisa tai vasen liitos kaksoisavaimet kasiteltyna tietokantatapaan",
+  "p": 161,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-pivot / ryhmittely",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/csv-pivot-group-by/",
+  "s": "Loona Dev Tools",
+  "d": "Ryhmittele CSV-rivejä sarakkeen mukaan arvosarakkeen summalla, määrällä, keskiarvolla, minimillä tai maksimilla.",
+  "k": "csv pivot group by csv pivot group by ryhmittele csv riveja sarakkeen mukaan arvosarakkeen summalla maaralla keskiarvolla minimilla tai maksimilla",
+  "p": 162,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-erot / vertailu",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/csv-diff/",
+  "s": "Loona Dev Tools",
+  "d": "Vertaa kahta CSV:tä avainsarakkeella — lisätyt, poistetut ja muuttuneet rivit täsmällisin soluin.",
+  "k": "csv diff compare csv diff vertaa kahta csv ta avainsarakkeella lisatyt poistetut ja muuttuneet rivit tasmallisin soluin",
+  "p": 163,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-datanpoimija",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/csv-data-extractor/",
+  "s": "Loona Dev Tools",
+  "d": "Poimi sähköpostit, puhelinnumerot ja URL:t sotkuisesta CSV:stä tai tekstistä siisteiksi, kaksoiskappaleista puhdistetuiksi luetteloiksi.",
+  "k": "csv data extractor csv data extractor poimi sahkopostit puhelinnumerot ja url t sotkuisesta csv sta tai tekstista siisteiksi kaksoiskappaleista puhdistetuiksi luetteloiksi",
+  "p": 164,
+  "c": "Tool"
+ },
+ {
+  "n": "CSV-profiloija",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/csv-profiler/",
+  "s": "Loona Dev Tools",
+  "d": "Sarakekohtaiset tyyppiarvaukset, tyhjien määrät, yksilöllisten määrät, numeerinen min/max ja huippuarvot.",
+  "k": "csv profiler csv profiler sarakekohtaiset tyyppiarvaukset tyhjien maarat yksilollisten maarat numeerinen min max ja huippuarvot",
+  "p": 165,
+  "c": "Tool"
+ },
+ {
+  "n": "Robots.txt-testaaja",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/robots-txt-tester/",
+  "s": "Loona Dev Tools",
+  "d": "Testaa URLia ja user-agentia robots.txt-sääntöjä vasten - tuomio sekä täsmälleen täsmäävä sääntö.",
+  "k": "robots txt tester robots txt tester testaa urlia ja user agentia robots txt saantoja vasten tuomio seka tasmalleen tasmaava saanto",
+  "p": 166,
+  "c": "Tool"
+ },
+ {
+  "n": "SEO-luettavuuden tarkistin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/readability-checker/",
+  "s": "Loona Dev Tools",
+  "d": "Kuusi luettavuuskaavaa sekä lausetilastot verkkotekstille, kehystettynä SEO-sisältötyöhön.",
+  "k": "seo readability checker readability checker kuusi luettavuuskaavaa seka lausetilastot verkkotekstille kehystettyna seo sisaltotyohon",
+  "p": 167,
+  "c": "Tool"
+ },
+ {
+  "n": "llms.txt-generaattori",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/llms-txt-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Rakenna AI:ta varten tarkoitettu llms.txt-tiedosto — yhteenveto lainauslohkona sekä kuratoidut sivulinkit määritysmuodossa.",
+  "k": "llms txt generator llms txt generator rakenna ai ta varten tarkoitettu llms txt tiedosto yhteenveto lainauslohkona seka kuratoidut sivulinkit maaritysmuodossa",
+  "p": 168,
+  "c": "Tool"
+ },
+ {
+  "n": "Hreflang-tunnistegeneraattori",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/hreflang-tag-generator/",
+  "s": "Loona Dev Tools",
+  "d": "Rakenna hreflang-vaihtoehtolinkkijoukkoja x-defaultilla ja BCP 47- / absoluuttisen URL:n tarkistuksilla.",
+  "k": "hreflang tag generator hreflang tag generator rakenna hreflang vaihtoehtolinkkijoukkoja x defaultilla ja bcp 47 absoluuttisen url n tarkistuksilla",
+  "p": 169,
+  "c": "Tool"
+ },
+ {
+  "n": "Office-dokumenttien metatietojen katselin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/office-metadata-viewer/",
+  "s": "Loona Dev Tools",
+  "d": "Lue DOCX-, XLSX- ja PPTX-ominaisuudet - otsikko, tekijä, yritys, päivämäärät - vain katselu, laitteella.",
+  "k": "office document metadata viewer office metadata viewer lue docx xlsx ja pptx ominaisuudet otsikko tekija yritys paivamaarat vain katselu laitteella",
+  "p": 170,
+  "c": "Tool"
+ },
+ {
+  "n": "Tiedostotyypin tunnistin",
+  "u": "https://loonaautomation.github.io/loona-dev-tools/fi/file-type-detector/",
+  "s": "Loona Dev Tools",
+  "d": "Tunnista tiedoston todellinen tyyppi sen taikabiteistä ja varoita, kun pääte on eri mieltä.",
+  "k": "file type detector file type detector tunnista tiedoston todellinen tyyppi sen taikabiteista ja varoita kun paate on eri mielta",
+  "p": 171,
+  "c": "Tool"
+ }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Teksti-binäärimuunnin",
+  "short_name": "Teksti-binäärimuunnin",
+  "description": "Muunna tekstiä binääriksi: jokainen merkki sen UTF-8-tavujen 8-bittisinä binääriryhminä. Ilmainen verkkmuunnin.",
+  "id": "/loona-dev-tools/fi/text-to-binary/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

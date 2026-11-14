@@ -1,0 +1,29 @@
+{
+  "name": "Loona HTML-entiteettikooderi & -dekooderi verkossa ilmaiseksi",
+  "short_name": "HTML-entiteettikooderi & -dekooderi",
+  "description": "Koodaa tekstiä HTML-entiteeteiksi (nimettyinä kuten &amp;copy; tai numeroituina kuten &amp;#169;) ja pura entiteetit takaisin tavalliseksi tekstiksi. Ilmainen, ei rekisteröitymistä, selaimessasi.",
+  "id": "/loona-dev-tools/fi/html-entity-encoder/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

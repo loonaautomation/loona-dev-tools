@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kehittäjätyökalut",
+  "short_name": "Dev Tools",
+  "description": "Ilmaiset kehittäjätyökalut verkossa - JSON-muotoilija, Base64-kooderi, UUID-generaattori, tiivistegeneraattori, JWT-dekooderi, aikaleimamuunnin ja paljon muuta. 100 % ilmainen, ei rekisteröitymistä, yksityinen.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-dev-tools/fi/"
+}

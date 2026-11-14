@@ -1,0 +1,29 @@
+{
+  "name": "Loona Office-dokumenttien metatietojen katselin verkossa",
+  "short_name": "Office-dokumenttien metatiedot",
+  "description": "Katso Office-asiakirjojen metatietoja verkossa ilmaiseksi - otsikko, tekijä, yritys, luonti- ja muokkauspäivämäärät, sovellus ja versio .docx-, .xlsx- ja .pptx-tiedostoille. Vain katselu, mitään ei lähetetä.",
+  "id": "/loona-dev-tools/fi/office-metadata-viewer/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

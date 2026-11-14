@@ -1,0 +1,29 @@
+{
+  "name": "Loona Base58-tekstipurku",
+  "short_name": "Base58-tekstipurku",
+  "description": "Pura Base58-merkkijonoja takaisin tekstiksi (UTF-8). Validoi Bitcoin-aakkostoa vasten ja ilmoittaa virheelliset merkit.",
+  "id": "/loona-dev-tools/fi/base58-to-text/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

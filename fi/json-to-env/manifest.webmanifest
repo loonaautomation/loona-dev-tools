@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON-.env-muunnin",
+  "short_name": "JSON-.env-muunnin",
+  "description": "Muunna JSON-määritys .env-muotoon: sisäkkäiset objektit litistettynä ALAVIIVA-poluilla, arvot lainattuina, kun ne sisältävät välilyöntejä tai #-merkin.",
+  "id": "/loona-dev-tools/fi/json-to-env/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona JSON-JSON-skeemageneraattori",
+  "short_name": "JSON-JSON-skeemageneraattori",
+  "description": "Luo JSON-skeema (luonnos 2020-12) JSON-näytteestä: tyypit pääteltynä, objektien ominaisuudet ja pakolliset avaimet mukana.",
+  "id": "/loona-dev-tools/fi/json-to-json-schema/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

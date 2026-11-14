@@ -1,0 +1,29 @@
+{
+  "name": "Loona Unix-aikaleimamuunnin verkossa ilmaiseksi",
+  "short_name": "Unix-aikaleimamuunnin",
+  "description": "Muunna Unix-aikaleimoja (sekunteja tai millisekunteja) ihmisen luettaviksi päivämääriksi UTC:ssä ja paikallisessa ajassasi, ja päivämääriä takaisin aikaleimoiksi. Elävä nykyinen aika. Ilmainen.",
+  "id": "/loona-dev-tools/fi/timestamp-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

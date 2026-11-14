@@ -1,0 +1,29 @@
+{
+  "name": "Loona Google SERP -esikatselutyökalu verkossa ilmaiseksi",
+  "short_name": "Google SERP -esikatselutyökalu",
+  "description": "Esikatsele, miltä sivusi otsikko ja metakuvaus näyttävät Googlen hakutuloksissa verkossa ilmaiseksi, työpöytä- ja mobiilinäkymillä sekä pikselileveyden katkeamisvaroituksilla. Ei rekisteröitymistä.",
+  "id": "/loona-dev-tools/fi/google-serp-preview/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Teksti-Base32-kooderi",
+  "short_name": "Teksti-Base32-kooderi",
+  "description": "Koodaa tekstiä Base32:ksi (RFC 4648) verkossa — kirjainkokoa erottelematon koodaus, jota käytetään TOTP-salaisuuksissa ja DNS-turvallisissa tunnuksissa.",
+  "id": "/loona-dev-tools/fi/text-to-base32/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

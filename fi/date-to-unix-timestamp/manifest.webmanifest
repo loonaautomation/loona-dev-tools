@@ -1,0 +1,29 @@
+{
+  "name": "Loona Päivämäärä-Unix-aikaleima-muunnin",
+  "short_name": "Päivämäärä Unix-aikaleimaksi",
+  "description": "Muunna päivämäärä ja aika sen Unix-aikaleimaksi sekunteina ja millisekunteina, UTC:ssä tai paikallisessa aikavyöhykkeessäsi.",
+  "id": "/loona-dev-tools/fi/date-to-unix-timestamp/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

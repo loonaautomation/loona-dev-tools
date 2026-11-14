@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rem-Pikseli (px) -muunnin",
+  "short_name": "Rem-Pikseli (px) -muunnin",
+  "description": "Muunna rem px:ksi säädettävällä perusfonttikoolla (oletus 16px) ja yleisten arvojen taulukolla.",
+  "id": "/loona-dev-tools/fi/rem-to-px-converter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-dev-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-dev-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
