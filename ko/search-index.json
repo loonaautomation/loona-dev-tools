@@ -3,8 +3,8 @@
   "n": "변환기 & 생성기 라이브러리",
   "u": "https://loonaautomation.github.io/loona-dev-tools/ko/converter-library/",
   "s": "Loona Dev Tools",
-  "d": "126개의 새로운 변환기와 생성기: 인코딩, 데이터 형식(JSON, YAML, XML, TOML, CSV), 해시, 색상, 아카이브, 코드 생성기와 참조 자료예요.",
-  "k": "변환기 생성기 라이브러리 126개의 새로운 변환기와 생성기 인코딩 데이터 형식 json yaml xml toml csv 해시 색상 아카이브 코드 생성기와 참조 자료예요",
+  "d": "115개의 새로운 변환기와 생성기: 인코딩, 데이터 형식(JSON, YAML, XML, TOML, CSV), 해시, 색상, 아카이브, 코드 생성기와 참조 자료예요.",
+  "k": "변환기 생성기 라이브러리 115개의 새로운 변환기와 생성기 인코딩 데이터 형식 json yaml xml toml csv 해시 색상 아카이브 코드 생성기와 참조 자료예요",
   "p": 100,
   "c": "Tool"
  },

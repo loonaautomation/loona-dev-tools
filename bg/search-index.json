@@ -3,8 +3,8 @@
   "n": "Библиотека с конвертори и генератори",
   "u": "https://loonaautomation.github.io/loona-dev-tools/bg/converter-library/",
   "s": "Loona Dev Tools",
-  "d": "126 нови конвертори и генератори: кодирания, формати на данни (JSON, YAML, XML, TOML, CSV), хешове, цветове, архиви, генератори на код и справочници.",
-  "k": "converter generator library converter library 126 json yaml xml toml csv",
+  "d": "115 нови конвертори и генератори: кодирания, формати на данни (JSON, YAML, XML, TOML, CSV), хешове, цветове, архиви, генератори на код и справочници.",
+  "k": "converter generator library converter library 115 json yaml xml toml csv",
   "p": 100,
   "c": "Tool"
  },

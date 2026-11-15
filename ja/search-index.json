@@ -3,8 +3,8 @@
   "n": "変換ツール＆生成ツールライブラリ",
   "u": "https://loonaautomation.github.io/loona-dev-tools/ja/converter-library/",
   "s": "Loona Dev Tools",
-  "d": "126種類の新しい変換ツールと生成ツール：エンコーディング、データ形式（JSON、YAML、XML、TOML、CSV）、ハッシュ、カラー、アーカイブ、コード生成ツール、リファレンス。",
-  "k": "変換ツール＆生成ツールライブラリ converter & generator library 126種類の新しい変換ツールと生成ツール エンコーディング データ形式 json yaml xml toml csv ハッシュ カラー アーカイブ コード生成ツール リファレンス",
+  "d": "115種類の新しい変換ツールと生成ツール：エンコーディング、データ形式（JSON、YAML、XML、TOML、CSV）、ハッシュ、カラー、アーカイブ、コード生成ツール、リファレンス。",
+  "k": "変換ツール＆生成ツールライブラリ converter & generator library 115種類の新しい変換ツールと生成ツール エンコーディング データ形式 json yaml xml toml csv ハッシュ カラー アーカイブ コード生成ツール リファレンス",
   "p": 100,
   "c": "Tool"
  },

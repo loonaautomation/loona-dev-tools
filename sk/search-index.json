@@ -3,8 +3,8 @@
   "n": "Knižnica prevodníkov a generátorov",
   "u": "https://loonaautomation.github.io/loona-dev-tools/sk/converter-library/",
   "s": "Loona Dev Tools",
-  "d": "126 nových prevodníkov a generátorov: kódovania, dátové formáty (JSON, YAML, XML, TOML, CSV), hashe, farby, archívy, generátory kódu a referencie.",
-  "k": "converter generator library converter library 126 novych prevodnikov a generatorov kodovania datove formaty json yaml xml toml csv hashe farby archivy generatory kodu a referencie",
+  "d": "115 nových prevodníkov a generátorov: kódovania, dátové formáty (JSON, YAML, XML, TOML, CSV), hashe, farby, archívy, generátory kódu a referencie.",
+  "k": "converter generator library converter library 115 novych prevodnikov a generatorov kodovania datove formaty json yaml xml toml csv hashe farby archivy generatory kodu a referencie",
   "p": 100,
   "c": "Tool"
  },

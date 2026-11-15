@@ -3,8 +3,8 @@
   "n": "কনভার্টার ও জেনারেটর লাইব্রেরি",
   "u": "https://loonaautomation.github.io/loona-dev-tools/bn/converter-library/",
   "s": "Loona Dev Tools",
-  "d": "126টি নতুন কনভার্টার ও জেনারেটর: এনকোডিং, ডেটা ফরম্যাট (JSON, YAML, XML, TOML, CSV), হ্যাশ, রঙ, আর্কাইভ, কোড জেনারেটর এবং রেফারেন্স।",
-  "k": "converter generator library converter library 126 json yaml xml toml csv",
+  "d": "115টি নতুন কনভার্টার ও জেনারেটর: এনকোডিং, ডেটা ফরম্যাট (JSON, YAML, XML, TOML, CSV), হ্যাশ, রঙ, আর্কাইভ, কোড জেনারেটর এবং রেফারেন্স।",
+  "k": "converter generator library converter library 115 json yaml xml toml csv",
   "p": 100,
   "c": "Tool"
  },

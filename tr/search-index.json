@@ -3,8 +3,8 @@
   "n": "Dönüştürücü ve Oluşturucu Kitaplığı",
   "u": "https://loonaautomation.github.io/loona-dev-tools/tr/converter-library/",
   "s": "Loona Dev Tools",
-  "d": "126 yeni dönüştürücü ve oluşturucu: kodlamalar, veri biçimleri (JSON, YAML, XML, TOML, CSV), hash değerleri, renkler, arşivler, kod oluşturucular ve başvurular.",
-  "k": "converter generator library converter library 126 yeni donusturucu ve olusturucu kodlamalar veri bicimleri json yaml xml toml csv hash degerleri renkler arsivler kod olusturucular ve basvurular",
+  "d": "115 yeni dönüştürücü ve oluşturucu: kodlamalar, veri biçimleri (JSON, YAML, XML, TOML, CSV), hash değerleri, renkler, arşivler, kod oluşturucular ve başvurular.",
+  "k": "converter generator library converter library 115 yeni donusturucu ve olusturucu kodlamalar veri bicimleri json yaml xml toml csv hash degerleri renkler arsivler kod olusturucular ve basvurular",
   "p": 100,
   "c": "Tool"
  },
