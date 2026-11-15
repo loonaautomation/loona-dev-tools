@@ -203,7 +203,7 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
       input = document.getElementById('lsInput'),
       list = document.getElementById('lsList');
   if (!form || !input || !list) return;
-  var INDEX_URL = '/loona-dev-tools/search-index.json';
+  var INDEX_URL = '/loona-dev-tools/ko/search-index.json';
   var STR = {"loading": "도구 로딩 중…", "fb": "인기 도구를 표시해요 — 전체 인덱스가 오고 있어요…", "zero1": "다음에 대한 정확한 일치가 없어요 “", "zero2": "” — 이 인기 도구를 시도하세요:"};
   var FALLBACK = [{"n": "JSON 포맷터", "u": "https://loonaautomation.github.io/loona-dev-tools/ko/json-formatter/", "s": "Loona Dev Tools", "d": "모든 오류의 정확한 위치와 함께 JSON을 검증하고, 예쁘게 인쇄하고, 축소하세요.", "k": "json 포맷터 모든 오류의 정확한 위치와 함께 json을 검증하고 예쁘게 인쇄하고 축소하세요", "p": 0, "c": "Tool"}, {"n": "Base64 인코더 & 디코더", "u": "https://loonaautomation.github.io/loona-dev-tools/ko/base64-encoder/", "s": "Loona Dev Tools", "d": "텍스트와 파일을 Base64로 인코딩하거나 다시 디코딩해요 - UTF-8 안전, URL 안전 옵션 포함이에요.", "k": "base64 인코더 디코더 텍스트와 파일을 base64로 인코딩하거나 다시 디코딩해요 utf 8 안전 url 안전 옵션 포함이에요", "p": 1, "c": "Tool"}, {"n": "URL 인코더 & 디코더", "u": "https://loonaautomation.github.io/loona-dev-tools/ko/url-encoder/", "s": "Loona Dev Tools", "d": "문자별 내역표와 함께 텍스트와 URL을 안전하게 퍼센트 인코딩하세요.", "k": "url 인코더 디코더 문자별 내역표와 함께 텍스트와 url을 안전하게 퍼센트 인코딩하세요", "p": 2, "c": "Tool"}, {"n": "UUID 생성기", "u": "https://loonaautomation.github.io/loona-dev-tools/ko/uuid-generator/", "s": "Loona Dev Tools", "d": "무작위 버전 4 UUID를 생성해요 - 한 번에 하나씩 또는 최대 100개까지 대량으로요.", "k": "uuid 생성기 무작위 버전 4 uuid를 생성해요 한 번에 하나씩 또는 최대 100개까지 대량으로요", "p": 3, "c": "Tool"}, {"n": "해시 생성기", "u": "https://loonaautomation.github.io/loona-dev-tools/ko/hash-generator/", "s": "Loona Dev Tools", "d": "모든 텍스트의 SHA-1, SHA-256, SHA-384, SHA-512 다이제스트, 브라우저에서 계산돼요.", "k": "해시 생성기 모든 텍스트의 sha 1 sha 256 sha 384 sha 512 다이제스트 브라우저에서 계산돼요", "p": 4, "c": "Tool"}, {"n": "JWT 디코더", "u": "https://loonaautomation.github.io/loona-dev-tools/ko/jwt-decoder/", "s": "Loona Dev Tools", "d": "JSON Web Token의 header와 payload를 디코딩하고 그 만료를 쉬운 말로 읽으세요.", "k": "jwt 디코더 json web token의 header와 payload를 디코딩하고 그 만료를 쉬운 말로 읽으세요", "p": 5, "c": "Tool"}];
   var data = null, loading = null, usingFallback = false, active = -1, current = [];
@@ -216,7 +216,7 @@ var ALIASES = {
   "tabdeel": "convert",
   "waqt": "timestamp"
 };
-function norm(s) { s = (s || '').toLowerCase().replace(/ß/g, 'ss').replace(/æ/g, 'ae').replace(/ø/g, 'o').replace(/ł/g, 'l').replace(/đ/g, 'd'); try { s = s.normalize('NFD').replace(/[\u0300-\u036f]/g, ''); } catch (e) {} return s.replace(/[^a-z0-9\s]/g, ' ').replace(/\s+/g, ' ').trim(); }
+function norm(s) { s = (s || '').toLowerCase().replace(/ß/g, 'ss').replace(/æ/g, 'ae').replace(/ø/g, 'o').replace(/ł/g, 'l').replace(/đ/g, 'd'); try { s = s.normalize('NFD').replace(/[\u0300-\u036f]/g, ''); } catch (e) {} s = s.replace(/[\u0640\u064B-\u065F\u0670\u05B0-\u05C7]/g, '').replace(/[\u0622\u0623\u0625\u0671]/g, '\u0627').replace(/\u0624/g, '\u0648').replace(/[\u0626\u0649\u06CC]/g, '\u064A').replace(/\u0629/g, '\u0647').replace(/[\u06C1\u06BE]/g, '\u0647').replace(/\u06A9/g, '\u0643').replace(/[\u0660-\u0669]/g, function (c) { return c.charCodeAt(0) - 1632; }).replace(/[\u06F0-\u06F9]/g, function (c) { return c.charCodeAt(0) - 1776; }); return s.replace(/[^\p{L}\p{N}\s]/gu, ' ').replace(/\s+/g, ' ').trim(); }
 function lev(a, b) {
   if (a === b) return 0;
   var la = a.length, lb = b.length, i, j;

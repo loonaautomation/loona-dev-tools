@@ -203,7 +203,7 @@ footer.site{background:var(--teal);color:#cfe0d6;margin-top:44px}
       input = document.getElementById('lsInput'),
       list = document.getElementById('lsList');
   if (!form || !input || !list) return;
-  var INDEX_URL = '/loona-dev-tools/search-index.json';
+  var INDEX_URL = '/loona-dev-tools/bn/search-index.json';
   var STR = {"loading": "টুল লোড হচ্ছে…", "fb": "জনপ্রিয় টুল দেখানো হচ্ছে — সম্পূর্ণ সূচক পথে রয়েছে…", "zero1": "এর জন্য কোনো হুবহু মিল নেই “", "zero2": "” — এই জনপ্রিয় টুলগুলো চেষ্টা করুন:"};
   var FALLBACK = [{"n": "JSON ফরম্যাটার", "u": "https://loonaautomation.github.io/loona-dev-tools/bn/json-formatter/", "s": "Loona Dev Tools", "d": "যেকোনো ত্রুটির হুবহু অবস্থানসহ JSON যাচাই করুন, সুন্দর-ছাপুন এবং মিনিফাই করুন।", "k": "json formatter json formatter json", "p": 0, "c": "Tool"}, {"n": "Base64 এনকোডার ও ডিকোডার", "u": "https://loonaautomation.github.io/loona-dev-tools/bn/base64-encoder/", "s": "Loona Dev Tools", "d": "টেক্সট ও ফাইল Base64-তে এনকোড করুন, বা এটি আবার ডিকোড করুন - UTF-8 নিরাপদ, URL-নিরাপদ বিকল্প অন্তর্ভুক্ত।", "k": "base64 encoder decoder base64 encoder base64 utf 8 url", "p": 1, "c": "Tool"}, {"n": "URL এনকোডার ও ডিকোডার", "u": "https://loonaautomation.github.io/loona-dev-tools/bn/url-encoder/", "s": "Loona Dev Tools", "d": "একটি প্রতি-অক্ষর বিভাজন টেবিলসহ টেক্সট ও URL নিরাপদে শতাংশ-এনকোড করুন।", "k": "url encoder decoder url encoder url", "p": 2, "c": "Tool"}, {"n": "UUID জেনারেটর", "u": "https://loonaautomation.github.io/loona-dev-tools/bn/uuid-generator/", "s": "Loona Dev Tools", "d": "এলোমেলো সংস্করণ 4 UUID তৈরি করুন - একবারে একটি বা বাল্কে 100 পর্যন্ত।", "k": "uuid generator uuid generator 4 uuid 100", "p": 3, "c": "Tool"}, {"n": "হ্যাশ জেনারেটর", "u": "https://loonaautomation.github.io/loona-dev-tools/bn/hash-generator/", "s": "Loona Dev Tools", "d": "যেকোনো টেক্সটের SHA-1, SHA-256, SHA-384 ও SHA-512 ডাইজেস্ট, আপনার ব্রাউজারে হিসাব করা।", "k": "hash generator hash generator sha 1 sha 256 sha 384 sha 512", "p": 4, "c": "Tool"}, {"n": "JWT ডিকোডার", "u": "https://loonaautomation.github.io/loona-dev-tools/bn/jwt-decoder/", "s": "Loona Dev Tools", "d": "একটি JSON Web Token হেডার ও পেলোড ডিকোড করুন এবং এর মেয়াদ সরল ভাষায় পড়ুন।", "k": "jwt decoder jwt decoder json web token", "p": 5, "c": "Tool"}];
   var data = null, loading = null, usingFallback = false, active = -1, current = [];
@@ -216,7 +216,7 @@ var ALIASES = {
   "tabdeel": "convert",
   "waqt": "timestamp"
 };
-function norm(s) { s = (s || '').toLowerCase().replace(/ß/g, 'ss').replace(/æ/g, 'ae').replace(/ø/g, 'o').replace(/ł/g, 'l').replace(/đ/g, 'd'); try { s = s.normalize('NFD').replace(/[\u0300-\u036f]/g, ''); } catch (e) {} return s.replace(/[^a-z0-9\s]/g, ' ').replace(/\s+/g, ' ').trim(); }
+function norm(s) { s = (s || '').toLowerCase().replace(/ß/g, 'ss').replace(/æ/g, 'ae').replace(/ø/g, 'o').replace(/ł/g, 'l').replace(/đ/g, 'd'); try { s = s.normalize('NFD').replace(/[\u0300-\u036f]/g, ''); } catch (e) {} s = s.replace(/[\u0640\u064B-\u065F\u0670\u05B0-\u05C7]/g, '').replace(/[\u0622\u0623\u0625\u0671]/g, '\u0627').replace(/\u0624/g, '\u0648').replace(/[\u0626\u0649\u06CC]/g, '\u064A').replace(/\u0629/g, '\u0647').replace(/[\u06C1\u06BE]/g, '\u0647').replace(/\u06A9/g, '\u0643').replace(/[\u0660-\u0669]/g, function (c) { return c.charCodeAt(0) - 1632; }).replace(/[\u06F0-\u06F9]/g, function (c) { return c.charCodeAt(0) - 1776; }); return s.replace(/[^\p{L}\p{N}\s]/gu, ' ').replace(/\s+/g, ' ').trim(); }
 function lev(a, b) {
   if (a === b) return 0;
   var la = a.length, lb = b.length, i, j;
