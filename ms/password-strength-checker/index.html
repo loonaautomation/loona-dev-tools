@@ -258,7 +258,7 @@ function runPw(){
   var h='<ul style="padding-left:22px">';
   r.feedback.forEach(function(f){ h+='<li style="margin-bottom:5px;color:#33473f">'+escH(f)+'</li>'; });
   h+='</ul>';
-  if(r.adjusted!==r.entropy) h+='<p style="color:#5a6d68;fon-size:.9rem">Entropi mentah '+r.entropy+' bit, dikurangi menjadi '+r.adjusted+' bit setelah penalti di atas.</p>';
+  if(r.adjusted!==r.entropy) h+='<p style="color:#5a6d68;font-size:.9rem">Entropi mentah '+r.entropy+' bit, dikurangi menjadi '+r.adjusted+' bit setelah penalti di atas.</p>';
   $('#fb').innerHTML=h;
 }
 $('#pw').addEventListener('input', runPw);

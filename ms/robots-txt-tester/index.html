@@ -223,7 +223,7 @@ function testRobots(text, url, agent){
 /*/CORE*/
 
 $('#bGo').addEventListener('click',function(){ try{ var r=testRobots($('#robots').value,$('#url').value,$('#agent').value);
-  $('#res').innerHTML='<div style="border:2px solid '+(r.allowed?'#0a6b3c':'#b3261e')+';border-radius:12px;padding:16px;margin-top:12px;background:#fff"><b style="font-size:1.2rem;color:'+(r.allowed?'#0a6b3c':'#b3261e')+'">'+(r.allowed?'✓ DIIZINKAN':'✗ DIBLOKIR')+'</b><p style="margin-top:6px">'+escH(r.reason)+'</p>'+(r.rule?'<p>Aturan pencocokan: <span style="fon-family:ui-monospace,monospace">'+escH(r.rule)+'</span></p>':'')+'<p style="color:#5a6d68;fon-size:.9rem">Jalur yang diuji: '+escH(r.path)+'</p></div>';
+  $('#res').innerHTML='<div style="border:2px solid '+(r.allowed?'#0a6b3c':'#b3261e')+';border-radius:12px;padding:16px;margin-top:12px;background:#fff"><b style="font-size:1.2rem;color:'+(r.allowed?'#0a6b3c':'#b3261e')+'">'+(r.allowed?'✓ DIIZINKAN':'✗ DIBLOKIR')+'</b><p style="margin-top:6px">'+escH(r.reason)+'</p>'+(r.rule?'<p>Aturan pencocokan: <span style="font-family:ui-monospace,monospace">'+escH(r.rule)+'</span></p>':'')+'<p style="color:#5a6d68;font-size:.9rem">Jalur yang diuji: '+escH(r.path)+'</p></div>';
   setStatus($('#st'),'Tes selesai.',true);}catch(e){ setStatus($('#st'),e.message,false);} });
 $('#bSample').addEventListener('click',function(){ $('#robots').value='User-agent: *\nDisallow: /admin/\nAllow: /admin/public\n\nUser-agent: GPTBot\nDisallow: /'; $('#url').value='https://example.com/admin/public/help'; $('#agent').value='Googlebot'; $('#bGo').click(); });
 
