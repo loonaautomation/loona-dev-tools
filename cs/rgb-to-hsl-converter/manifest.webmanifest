@@ -2,7 +2,7 @@
   "name": "Převodník Loona RGB na HSL",
   "short_name": "Převodník RGB na HSL",
   "description": "Převádějte barvy z RGB na HSL online, s živým vzorkem a zobrazenými všemi ostatními formáty (HEX, RGB, HSL, HSV, CMYK) také.",
-  "id": "/loona-dev-tools/cs/rgb-to-hsl-converter/",
+  "id": "/cs/rgb-to-hsl-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

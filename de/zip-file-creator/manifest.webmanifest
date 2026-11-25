@@ -2,7 +2,7 @@
   "name": "Loona ZIP-Datei-Ersteller online kostenlos",
   "short_name": "ZIP-Datei-Ersteller online kostenlos",
   "description": "Erstellen Sie eine ZIP-Datei aus mehreren Dateien direkt in Ihrem Browser – Dateien hinzufügen, das Archiv benennen und eine .zip herunterladen. Nichts wird hochgeladen; alles bleibt auf Ihrem Gerät.",
-  "id": "/loona-dev-tools/de/zip-file-creator/",
+  "id": "/de/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

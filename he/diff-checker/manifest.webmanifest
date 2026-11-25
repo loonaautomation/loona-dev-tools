@@ -2,7 +2,7 @@
   "name": "בודק Diff של Loona מקוון בחינם",
   "short_name": "בודק Diff מקוון בחינם",
   "description": "השוו שני טקסטים באופן מקוון בחינם עם diff שורה-אחר-שורה: שורות שנוספו בירוק, שורות שהוסרו באדום, בתוספת סיכום שינויים. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/diff-checker/",
+  "id": "/he/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

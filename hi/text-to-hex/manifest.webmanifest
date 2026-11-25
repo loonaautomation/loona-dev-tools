@@ -2,7 +2,7 @@
   "name": "Loona Text से Hex कन्वर्टर",
   "short_name": "Text से Hex कन्वर्टर",
   "description": "Text को hexadecimal (UTF-8 bytes) में ऑनलाइन बदलें, bytes के बीच spaces के साथ या बिना। मुफ़्त developer converter।",
-  "id": "/loona-dev-tools/hi/text-to-hex/",
+  "id": "/hi/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

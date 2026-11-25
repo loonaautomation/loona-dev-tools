@@ -2,7 +2,7 @@
   "name": "Loona Eksponenttimuodon muunnin",
   "short_name": "Eksponenttimuodon muunnin",
   "description": "Muunna lukuja tieteelliseen merkintätapaan ja takaisin: 3200000 ⇄ 3.2 × 10^6, E-merkintä tuettuna molempiin suuntiin.",
-  "id": "/loona-dev-tools/fi/scientific-notation-converter/",
+  "id": "/fi/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

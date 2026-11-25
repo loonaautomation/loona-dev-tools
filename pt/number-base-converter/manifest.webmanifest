@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Bases Numéricas Online Grátis",
   "short_name": "Conversor de Bases Numéricas Online",
   "description": "Converta números entre binário, octal, decimal e hexadecimal online grátis, com precisão BigInt para valores além de 2^53 e validação por dígito. Sem registo, funciona 100% no seu navegador.",
-  "id": "/loona-dev-tools/pt/number-base-converter/",
+  "id": "/pt/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

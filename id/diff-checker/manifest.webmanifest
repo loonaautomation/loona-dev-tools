@@ -2,7 +2,7 @@
   "name": "Loona Pemeriksa Diff Online Gratis",
   "short_name": "Pemeriksa Diff Online Gratis",
   "description": "Bandingkan dua teks online secara gratis dengan diff baris per baris: baris yang ditambahkan hijau, baris yang dihapus merah, ditambah ringkasan perubahan. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-dev-tools/id/diff-checker/",
+  "id": "/id/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona YAML - TOML Dönüştürücü",
   "short_name": "YAML - TOML Dönüştürücü",
   "description": "YAML değerini çevrimiçi (paylaşılan veri modeli üzerinden) TOML biçimine dönüştürün: tablolar, skalerler ve diziler TOML düzen kurallarına eşlendi.",
-  "id": "/loona-dev-tools/tr/yaml-to-toml/",
+  "id": "/tr/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

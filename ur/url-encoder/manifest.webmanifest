@@ -2,7 +2,7 @@
   "name": "Loona URL انکوڈر اور ڈیکوڈر آن لائن مفت",
   "short_name": "URL انکوڈر اور ڈیکوڈر آن لائن",
   "description": "URLs اور query متن آن لائن مفت انکوڈ اور ڈی کوڈ کریں، component اور full-URL موڈز اور فی-حرف تفصیل کے ساتھ۔ کوئی سائن اپ نہیں، آپ کے براؤزر میں۔",
-  "id": "/loona-dev-tools/ur/url-encoder/",
+  "id": "/ur/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

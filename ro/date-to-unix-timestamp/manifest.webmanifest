@@ -2,7 +2,7 @@
   "name": "Convertizor dată în marcaj temporal Unix Loona",
   "short_name": "Data în marcaj temporal Unix",
   "description": "Convertește o dată și o oră în marcajul său temporal Unix în secunde și milisecunde, în UTC sau în fusul tău orar local.",
-  "id": "/loona-dev-tools/ro/date-to-unix-timestamp/",
+  "id": "/ro/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

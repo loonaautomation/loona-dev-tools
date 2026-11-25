@@ -2,7 +2,7 @@
   "name": "Loona generator HTML potpisa e-pošte na mreži besplatno",
   "short_name": "HTML potpis e-pošte",
   "description": "Izradite profesionalni HTML potpis e-pošte na mreži besplatno - ime, titula, tvrtka, telefon, e-pošta i web-stranica u HTML tablici sigurnoj za e-poštu koja radi u Gmailu i Outlooku. Bez registracije.",
-  "id": "/loona-dev-tools/hr/email-signature-generator/",
+  "id": "/hr/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

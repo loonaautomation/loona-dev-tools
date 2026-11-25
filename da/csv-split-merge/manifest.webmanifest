@@ -2,7 +2,7 @@
   "name": "Loona CSV-opdeling og -fletning online gratis",
   "short_name": "CSV-opdeling og -fletning online gratis",
   "description": "Opdel en CSV i dele efter rækkeantal, eller flet flere CSV-filer til én, online gratis - headere håndteret korrekt, ordentlig CSV-parsing. Ingen tilmelding, kører 100 % i din browser.",
-  "id": "/loona-dev-tools/da/csv-split-merge/",
+  "id": "/da/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da data a timestamp Unix",
   "short_name": "Da data a timestamp Unix",
   "description": "Converti una data e ora nel suo timestamp Unix in secondi e millisecondi, in UTC o nel tuo fuso orario locale.",
-  "id": "/loona-dev-tools/it/date-to-unix-timestamp/",
+  "id": "/it/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

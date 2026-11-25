@@ -2,7 +2,7 @@
   "name": "Loona Penukar TSV ke CSV",
   "short_name": "Penukar TSV ke CSV",
   "description": "Penukaran TSV (nilai yang dipisahkan tab) ke CSV: tampal data yang disalin dari Excel atau Sheets dan dapatkan CSV yang dikutip dengan benar.",
-  "id": "/loona-dev-tools/ms/tsv-to-csv/",
+  "id": "/ms/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

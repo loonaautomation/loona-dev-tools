@@ -2,7 +2,7 @@
   "name": "Loona Gabung CSV Dalam Talian Percuma",
   "short_name": "Gabung CSV Dalam Talian Percuma",
   "description": "Gabungkan dua fail CSV dalam talian secara percuma pada lajur kunci bersama - inner join atau left join, kunci duplikat ditangani dengan cara database. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/csv-join/",
+  "id": "/ms/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

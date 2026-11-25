@@ -2,7 +2,7 @@
   "name": "Loona hexadecimálisból decimálissá átalakító",
   "short_name": "Hexadecimálisból decimálisba",
   "description": "Alakítson hexadecimális számokat decimálissá online — tetszőleges pontosság (BigInt), negatív számok támogatva.",
-  "id": "/loona-dev-tools/hu/hex-to-decimal-converter/",
+  "id": "/hu/hex-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

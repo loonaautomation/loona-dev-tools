@@ -2,7 +2,7 @@
   "name": "Loona JSON-minimerare",
   "short_name": "JSON-minimerare",
   "description": "Minimera JSON online: ta bort all obetydlig blanksteg till en enda kompakt rad, med valideringsfel rapporterade exakt.",
-  "id": "/loona-dev-tools/sv/json-minifier/",
+  "id": "/sv/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

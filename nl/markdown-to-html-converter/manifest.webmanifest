@@ -2,7 +2,7 @@
   "name": "Loona Markdown naar HTML-converter online gratis",
   "short_name": "Markdown naar HTML-converter",
   "description": "Converteer Markdown online gratis naar HTML - koppen, vet, cursief, links, afbeeldingen, lijsten, blockquotes, codeblokken en meer, met een live gerenderd voorbeeld. Geen registratie.",
-  "id": "/loona-dev-tools/nl/markdown-to-html-converter/",
+  "id": "/nl/markdown-to-html-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ROT13 編碼器與解碼器",
   "short_name": "ROT13 編碼器和解碼器",
   "description": "對任何文字進行 ROT13：把字母旋轉 13 位。編碼和解碼是同一個操作。劇透和謎題的經典之選。",
-  "id": "/loona-dev-tools/zh-hant/rot13-encoder/",
+  "id": "/zh-hant/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

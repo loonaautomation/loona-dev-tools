@@ -2,7 +2,7 @@
   "name": "Loona Unicode-av-escape-konverterer (Dekod \\uXXXX)",
   "short_name": "Unicode-av-escape-konverterer",
   "description": "Dekod Unicode-escape-sekvenser (\\uXXXX, \\u{...}, \\xXX) tilbake til virkelige tegn, pluss \\n \\t og \\\\ escapes.",
-  "id": "/loona-dev-tools/nb/unicode-unescape/",
+  "id": "/nb/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

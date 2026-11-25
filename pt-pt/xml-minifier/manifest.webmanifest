@@ -2,7 +2,7 @@
   "name": "Loona Minificador XML",
   "short_name": "Minificador XML",
   "description": "Minifique XML online: remova comentários e espaços entre tags para uma linha compacta.",
-  "id": "/loona-dev-tools/pt-pt/xml-minifier/",
+  "id": "/pt-pt/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

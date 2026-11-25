@@ -2,7 +2,7 @@
   "name": "Loona Markdown-Tabelle-zu-CSV-Konverter",
   "short_name": "Markdown-Tabelle zu CSV",
   "description": "Konvertieren Sie eine Markdown-Tabelle zu CSV: Kopfzeile und Zeilen extrahiert, Ausrichtungszeile entfernt, Zellen gekürzt und korrekt angeführt.",
-  "id": "/loona-dev-tools/de/markdown-table-to-csv/",
+  "id": "/de/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

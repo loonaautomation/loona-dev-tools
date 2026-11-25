@@ -2,7 +2,7 @@
   "name": "Loona 轉換器與生成器庫",
   "short_name": "轉換器與生成器庫",
   "description": "全部 Loona Developer Tools 轉換器和生成器的索引：編碼、資料格式、雜湊、顏色、歸檔、程式碼生成器和參考資料。",
-  "id": "/loona-dev-tools/zh-hant/converter-library/",
+  "id": "/zh-hant/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "מחולל Loona CSS Box Shadow מקוון בחינם",
   "short_name": "מחולל CSS Box Shadow",
   "description": "צרו CSS של box-shadow באופן מקוון בחינם - שכבות צל מרובות, צללי inset, שליטה בצבע ובאטימות, עם תצוגה מקדימה חיה ו-CSS מוכן. בלי הרשמה, פועל בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/css-box-shadow-generator/",
+  "id": "/he/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

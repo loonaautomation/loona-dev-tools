@@ -2,7 +2,7 @@
   "name": "Loona URLデコード（パーセントデコード）",
   "short_name": "URLデコード（パーセントデコーディング）",
   "description": "パーセントエンコードされたURLとクエリ文字列を、読みやすいテキストにデコードして戻します。UTF-8シーケンスと、スペースとしての + も含みます。無料のオンラインデコーダー。",
-  "id": "/loona-dev-tools/ja/url-decode/",
+  "id": "/ja/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

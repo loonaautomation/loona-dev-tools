@@ -2,7 +2,7 @@
   "name": "Loona Kifinyaji cha HTML",
   "short_name": "Kifinyaji cha HTML",
   "description": "Finya HTML mtandaoni: ondoa maoni na banja nafasi nyeupe huku ukilinda yaliyomo ya pre, textarea, script na style.",
-  "id": "/loona-dev-tools/sw/html-minifier/",
+  "id": "/sw/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

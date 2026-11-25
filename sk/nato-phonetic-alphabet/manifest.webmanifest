@@ -2,7 +2,7 @@
   "name": "Prekladač fonetickej abecedy Loona NATO (Text",
   "short_name": "Fonetická abeceda NATO",
   "description": "Hláskujte text fonetickou abecedou NATO: A = Alfa, B = Bravo... Vrátane číslic. Používané letectvom, vojenstvom a hovormi podpory.",
-  "id": "/loona-dev-tools/sk/nato-phonetic-alphabet/",
+  "id": "/sk/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

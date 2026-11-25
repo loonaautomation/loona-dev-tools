@@ -2,7 +2,7 @@
   "name": "Loona spørringsstreng til JSON-konverterer",
   "short_name": "Spørringsstreng til JSON-konverterer",
   "description": "Parse en URL-spørringsstreng til JSON: parentesnotasjon blir nestede objekter, gjentatte nøkler blir matriser, verdier typet.",
-  "id": "/loona-dev-tools/nb/query-string-to-json/",
+  "id": "/nb/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

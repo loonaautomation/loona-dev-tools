@@ -2,7 +2,7 @@
   "name": "Loona Конвертер JSON в YAML",
   "short_name": "Конвертер JSON в YAML",
   "description": "Преобразуйте JSON в YAML онлайн: чистый отступ, массивы и вложенные объекты, строки заключаются в кавычки только когда YAML требует этого.",
-  "id": "/loona-dev-tools/ru/json-to-yaml/",
+  "id": "/ru/json-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

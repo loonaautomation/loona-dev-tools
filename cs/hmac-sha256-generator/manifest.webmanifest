@@ -2,7 +2,7 @@
   "name": "Generátor Loona HMAC-SHA256",
   "short_name": "Generátor HMAC-SHA256",
   "description": "Generujte podpisy HMAC-SHA256 online: zadejte klíč a zprávu, získejte hexadecimální MAC. WebCrypto, zcela místní.",
-  "id": "/loona-dev-tools/cs/hmac-sha256-generator/",
+  "id": "/cs/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

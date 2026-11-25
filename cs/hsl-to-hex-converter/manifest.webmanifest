@@ -2,7 +2,7 @@
   "name": "Převodník Loona HSL na HEX",
   "short_name": "Převodník HSL na HEX",
   "description": "Převádějte barvy z HSL na HEX online, s živým vzorkem a zobrazenými všemi ostatními formáty (HEX, RGB, HSL, HSV, CMYK) také.",
-  "id": "/loona-dev-tools/cs/hsl-to-hex-converter/",
+  "id": "/cs/hsl-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona XML-formaterare och validerare online gratis",
   "short_name": "XML-formaterare & validerare",
   "description": "Formatera, försköna, minimera och validera XML online gratis - kontroll av välformadhet med balanserade taggar och tydliga felmeddelanden, snygg utskrift med indentering. Ingen registrering.",
-  "id": "/loona-dev-tools/sv/xml-formatter/",
+  "id": "/sv/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

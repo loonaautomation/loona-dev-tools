@@ -2,7 +2,7 @@
   "name": "Loona binair naar tekst-converter",
   "short_name": "Binair naar tekst-converter",
   "description": "Decodeer binair (groepen van 8 bits, met spaties of doorlopend) online terug naar UTF-8-tekst. Gratis binaire vertaler.",
-  "id": "/loona-dev-tools/nl/binary-to-text/",
+  "id": "/nl/binary-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

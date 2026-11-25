@@ -2,7 +2,7 @@
   "name": "Loona Penjana Kata Laluan Rawak",
   "short_name": "Penjana Kata Laluan Rawak",
   "description": "Buat kata laluan rawak yang kuat di pelayar Anda dengan API WebCrypto: panjang dan set aksara dapat disesuaikan, entropi dipaparkan.",
-  "id": "/loona-dev-tools/ms/random-password-generator/",
+  "id": "/ms/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

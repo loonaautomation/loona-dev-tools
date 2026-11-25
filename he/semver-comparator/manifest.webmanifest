@@ -2,7 +2,7 @@
   "name": "משווה גרסאות סמנטיות של Loona",
   "short_name": "משווה גרסאות סמנטיות",
   "description": "אמתו והשוו גרסאות סמנטיות (MAJOR.MINOR.PATCH): איזו חדשה יותר, ואיזה סוג שינוי מפריד ביניהן.",
-  "id": "/loona-dev-tools/he/semver-comparator/",
+  "id": "/he/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

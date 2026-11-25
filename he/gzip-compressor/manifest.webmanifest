@@ -2,7 +2,7 @@
   "name": "מדחס Loona GZIP מקוון בחינם",
   "short_name": "מדחס GZIP מקוון בחינם",
   "description": "דחסו כל קובץ בודד ל-.gz באמצעות מנוע ה-gzip המובנה של הדפדפן שלכם. גדלים מיידיים של לפני/אחרי, שום דבר לא מועלה - הקובץ נדחס על המכשיר שלכם. עובד ליומנים, קבצי CSV, קבצי TAR ועוד.",
-  "id": "/loona-dev-tools/he/gzip-compressor/",
+  "id": "/he/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

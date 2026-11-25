@@ -2,7 +2,7 @@
   "name": "Loona MIME اقسام حوالہ (مواد اقسام بلحاظ",
   "short_name": "MIME اقسام حوالہ (مواد",
   "description": "فائل توسیع کے لحاظ سے عام MIME اقسام: دستاویزات، تصاویر، آڈیو، ویڈیو، آرکائیوز، فونٹس اور ویب فارمیٹس ان کی Content-Type قدروں کے ساتھ۔",
-  "id": "/loona-dev-tools/ur/mime-types-reference/",
+  "id": "/ur/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

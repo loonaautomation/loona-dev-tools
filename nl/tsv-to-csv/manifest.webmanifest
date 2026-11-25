@@ -2,7 +2,7 @@
   "name": "Loona TSV naar CSV-converter",
   "short_name": "TSV naar CSV-converter",
   "description": "Converteer TSV (tab-gescheiden waarden) naar CSV: plak data gekopieerd uit Excel of Sheets en krijg correct gequote CSV.",
-  "id": "/loona-dev-tools/nl/tsv-to-csv/",
+  "id": "/nl/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

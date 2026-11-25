@@ -2,7 +2,7 @@
   "name": "Генератор випадкових паролів Loona",
   "short_name": "Генератор випадкових паролів",
   "description": "Генеруйте сильні випадкові паролі у своєму браузері за допомогою API WebCrypto: довжина й набори символів налаштовуються, ентропія показується.",
-  "id": "/loona-dev-tools/uk/random-password-generator/",
+  "id": "/uk/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

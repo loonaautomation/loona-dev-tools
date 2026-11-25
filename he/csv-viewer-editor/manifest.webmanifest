@@ -2,7 +2,7 @@
   "name": "מציג ועורך Loona CSV מקוון בחינם",
   "short_name": "מציג ועורך CSV מקוון",
   "description": "צפו וערכו קבצי CSV מקוון בחינם ברשת טבלה ניתנת לעריכה - ערכו תאים, מיינו עמודות, הוסיפו או הסירו שורות ועמודות, ואז הורידו את ה-CSV הערוך. בלי הרשמה, פועל בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/csv-viewer-editor/",
+  "id": "/he/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

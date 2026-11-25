@@ -2,7 +2,7 @@
   "name": "Loona Kisimbaji cha Huluki za HTML",
   "short_name": "Kisimbaji cha Huluki za HTML",
   "description": "Simba herufi maalum kama huluki za HTML: zenye majina (&copy;), marejeo ya nambari ya desimali au hex. Hutorosha uandikaji, nukuu na maandishi yasiyo ya ASCII.",
-  "id": "/loona-dev-tools/sw/html-entities-encode/",
+  "id": "/sw/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 文本转 Base32 编码器",
   "short_name": "文本转 Base32 编码器",
   "description": "在线把文本编码为 Base32（RFC 4648）——用于 TOTP 密钥和 DNS 安全标识符的不区分大小写编码。",
-  "id": "/loona-dev-tools/zh/text-to-base32/",
+  "id": "/zh/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

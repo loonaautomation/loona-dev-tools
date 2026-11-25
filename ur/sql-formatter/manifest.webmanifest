@@ -2,7 +2,7 @@
   "name": "Loona SQL فارمیٹر آن لائن مفت",
   "short_name": "SQL فارمیٹر آن لائن مفت",
   "description": "SQL آن لائن مفت فارمیٹ کریں: کلیدی الفاظ بڑے حروف میں، SELECT, FROM, WHERE اور JOIN شقیں اپنی لائنوں پر، اسٹرنگز محفوظ۔ کوئی سائن اپ نہیں، 100% آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-dev-tools/ur/sql-formatter/",
+  "id": "/ur/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

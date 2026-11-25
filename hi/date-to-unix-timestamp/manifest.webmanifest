@@ -2,7 +2,7 @@
   "name": "Loona Date से Unix Timestamp कन्वर्टर",
   "short_name": "Date से Unix Timestamp",
   "description": "एक date और time को seconds और milliseconds में उसके Unix timestamp में बदलें, UTC या आपके local timezone में।",
-  "id": "/loona-dev-tools/hi/date-to-unix-timestamp/",
+  "id": "/hi/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

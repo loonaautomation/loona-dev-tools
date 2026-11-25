@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Συμβολοσειράς Ερωτήματος σε JSON",
   "short_name": "Μετατροπέας Συμβολοσειράς Ερωτήματος σε JSON",
   "description": "Αναλύστε μια συμβολοσειρά ερωτήματος URL σε JSON: η σημειογραφία αγκυλών γίνεται ένθετα αντικείμενα, τα επαναλαμβανόμενα κλειδιά γίνονται πίνακες, οι τιμές τυποποιημένες.",
-  "id": "/loona-dev-tools/el/query-string-to-json/",
+  "id": "/el/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

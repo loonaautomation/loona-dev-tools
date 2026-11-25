@@ -2,7 +2,7 @@
   "name": "Loona HEX til RGB-konverterer",
   "short_name": "HEX til RGB-konverterer",
   "description": "Konverter farger fra HEX til RGB på nett, med et direkte fargefelt og alle andre formater (HEX, RGB, HSL, HSV, CMYK) vist også.",
-  "id": "/loona-dev-tools/nb/hex-to-rgb-converter/",
+  "id": "/nb/hex-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

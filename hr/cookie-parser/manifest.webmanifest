@@ -2,7 +2,7 @@
   "name": "Loona parser zaglavlja kolačića",
   "short_name": "Parser zaglavlja kolačića",
   "description": "Raščlanite zaglavlje Cookie u čitljiv popis: parovi ime = vrijednost, prikazane percent-dekodirane vrijednosti, broj kolačića.",
-  "id": "/loona-dev-tools/hr/cookie-parser/",
+  "id": "/hr/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/mac-address-converter/",
+  "id": "/en-gb/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

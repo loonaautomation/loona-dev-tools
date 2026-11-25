@@ -2,7 +2,7 @@
   "name": "Loona Heksa-tekstimuunnin",
   "short_name": "Heksa-tekstimuunnin",
   "description": "Muunna heksadesimaali takaisin tekstiksi: liitä heksatavut (välilyönneillä tai yhtenäisinä, 0x:n kanssa tai ilman) ja lue UTF-8-teksti.",
-  "id": "/loona-dev-tools/fi/hex-to-text/",
+  "id": "/fi/hex-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

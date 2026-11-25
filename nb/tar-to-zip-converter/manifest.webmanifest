@@ -2,7 +2,7 @@
   "name": "Loona TAR til ZIP-konverterer på nett gratis",
   "short_name": "TAR til ZIP-konverterer på nett",
   "description": "Konverter et TAR-arkiv (.tar) til en ZIP-fil rett i nettleseren din. TAR-filer kommer fra Linux- og Unix-systemer; den konverterte ZIP-en åpnes innebygd på Windows, macOS og telefoner. Ingenting lastes opp.",
-  "id": "/loona-dev-tools/nb/tar-to-zip-converter/",
+  "id": "/nb/tar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

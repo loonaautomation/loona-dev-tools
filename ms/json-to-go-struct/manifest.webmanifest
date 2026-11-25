@@ -2,7 +2,7 @@
   "name": "Loona Penukar JSON ke Struct Go",
   "short_name": "Penukar JSON ke Struct Go",
   "description": "Penukaran JSON ke definisi struct Go dengan tag json: int64/float64 dibedakan, omitempty untuk kunci yang hilang di beberapa item array.",
-  "id": "/loona-dev-tools/ms/json-to-go-struct/",
+  "id": "/ms/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

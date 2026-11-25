@@ -2,7 +2,7 @@
   "name": "Traducător alfabet fonetic NATO Loona (text",
   "short_name": "Alfabetul fonetic NATO",
   "description": "Scrie text în alfabetul fonetic NATO: A = Alfa, B = Bravo... Include cifre. Folosit de aviație, armată și apeluri de suport.",
-  "id": "/loona-dev-tools/ro/nato-phonetic-alphabet/",
+  "id": "/ro/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

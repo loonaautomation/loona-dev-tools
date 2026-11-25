@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้างลายเซ็นอีเมล HTML ออนไลน์ฟรี",
   "short_name": "ลายเซ็นอีเมล HTML",
   "description": "สร้างลายเซ็นอีเมล HTML ระดับมืออาชีพฟรีออนไลน์ - ชื่อ ตำแหน่ง บริษัท โทรศัพท์ อีเมล และเว็บไซต์ ใน HTML ตารางที่ปลอดภัยสำหรับอีเมลซึ่งทำงานได้ใน Gmail และ Outlook ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-dev-tools/th/email-signature-generator/",
+  "id": "/th/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

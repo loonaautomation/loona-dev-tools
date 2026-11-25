@@ -2,7 +2,7 @@
   "name": "Loona JSON-ból lekérdezési karaktersorozattá átalakító",
   "short_name": "JSON-ból lekérdezési karaktersorozat átalakító",
   "description": "Építsen URL lekérdezési karakterláncot egy JSON objektumból: a beágyazott objektumok zárójeles jelölést használnak, a tömbök ismétlik a kulcsot, minden percent-kódolva.",
-  "id": "/loona-dev-tools/hu/json-to-query-string/",
+  "id": "/hu/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

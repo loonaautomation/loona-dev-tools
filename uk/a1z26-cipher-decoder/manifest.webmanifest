@@ -2,7 +2,7 @@
   "name": "Декодувальник шифру Loona A1Z26 (числа в літери)",
   "short_name": "Декодувальник шифру A1Z26 (числа",
   "description": "Декодуйте числові коди A1Z26 назад у літери: 1=A, 2=B ... 26=Z. Розділені дефісом, комою або пробілом.",
-  "id": "/loona-dev-tools/uk/a1z26-cipher-decoder/",
+  "id": "/uk/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Bỏ escape chuỗi JSON Loona",
   "short_name": "Bỏ escape chuỗi JSON",
   "description": "Unescape một giá trị chuỗi JSON trở lại thành văn bản thuần: \\n, \\t, \\&quot;, \\\\ và \\uXXXX trở thành các ký tự thực.",
-  "id": "/loona-dev-tools/vi/json-unescape/",
+  "id": "/vi/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

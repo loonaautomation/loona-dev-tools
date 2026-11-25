@@ -2,7 +2,7 @@
   "name": "Loona 正则表达式测试器 在线免费",
   "short_name": "正则表达式测试器 在线免费",
   "description": "在线免费测试正则表达式，带实时匹配高亮、捕获组详细信息和匹配计数。无需注册，100% 在您的浏览器中运行。",
-  "id": "/loona-dev-tools/zh/regex-tester/",
+  "id": "/zh/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

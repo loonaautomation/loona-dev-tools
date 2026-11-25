@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας JSON σε Dataclass Python",
   "short_name": "JSON σε Dataclass Python",
   "description": "Μετατρέψτε JSON σε dataclasses Python με υποδείξεις τύπων: τα ένθετα αντικείμενα γίνονται ένθετα dataclasses, τύποι List για πίνακες.",
-  "id": "/loona-dev-tools/el/json-to-python-dataclass/",
+  "id": "/el/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

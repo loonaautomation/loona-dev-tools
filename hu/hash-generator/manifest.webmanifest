@@ -2,7 +2,7 @@
   "name": "Loona hash generátor online ingyen",
   "short_name": "Hash generátor online ingyen",
   "description": "Generáljon SHA-1, SHA-256, SHA-384 és SHA-512 hasheket bármilyen szövegből online ingyen, helyben számítva a böngészőjében. Regisztráció nélkül, semmi sem töltődik fel.",
-  "id": "/loona-dev-tools/hu/hash-generator/",
+  "id": "/hu/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

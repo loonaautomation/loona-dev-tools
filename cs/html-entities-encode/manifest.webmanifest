@@ -2,7 +2,7 @@
   "name": "Kodér entit Loona HTML",
   "short_name": "Kodér entit HTML",
   "description": "Kódujte speciální znaky jako entity HTML: pojmenované (&copy;), desítkové nebo hexadecimální číselné odkazy. Escapuje značkování, uvozovky a ne-ASCII text.",
-  "id": "/loona-dev-tools/cs/html-entities-encode/",
+  "id": "/cs/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Koder Quoted-Printable",
   "short_name": "Koder Quoted-Printable",
   "description": "Koduj tekst jako quoted-printable (MIME) online: bajty UTF-8 jako escape'y =XX, miękkie podziały wierszy co 76 znaków, według RFC 2045.",
-  "id": "/loona-dev-tools/pl/quoted-printable-encode/",
+  "id": "/pl/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

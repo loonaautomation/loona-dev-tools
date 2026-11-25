@@ -2,7 +2,7 @@
   "name": "Loona MAC ঠিকানা ফরম্যাট কনভার্টার",
   "short_name": "MAC ঠিকানা ফরম্যাট কনভার্টার",
   "description": "কোলন (AA:BB:CC:DD:EE:FF), ড্যাশ, Cisco ডট ও সাধারণ ফরম্যাটের মধ্যে MAC ঠিকানা রূপান্তর করুন; 48-বিট ঠিকানা যাচাই করে।",
-  "id": "/loona-dev-tools/bn/mac-address-converter/",
+  "id": "/bn/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona alat za objašnjavanje cron izraza",
   "short_name": "Alat za objašnjavanje cron izraza",
   "description": "Objasnite cron izraze jednostavnim jezikom: zalijepite cron raspored s 5 polja i pročitajte kad radi, polje po polje.",
-  "id": "/loona-dev-tools/hr/cron-expression-explainer/",
+  "id": "/hr/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

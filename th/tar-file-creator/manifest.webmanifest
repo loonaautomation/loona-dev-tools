@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้างไฟล์ TAR ออนไลน์ฟรี",
   "short_name": "ตัวสร้างไฟล์ TAR ออนไลน์ฟรี",
   "description": "สร้างไฟล์บีบอัด TAR (.tar) จากหลายไฟล์ในเบราว์เซอร์ของคุณเลย - ตัวเขียน ustar ที่ถูกต้องตามข้อกำหนด ตัวเลือกโฟลเดอร์ การประทับเวลาจริง ไม่มีการอัปโหลด; tarball ถูกสร้างบนอุปกรณ์ของคุณและเปิดด้วยเครื่องมือ tar ใดก็ได้",
-  "id": "/loona-dev-tools/th/tar-file-creator/",
+  "id": "/th/tar-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

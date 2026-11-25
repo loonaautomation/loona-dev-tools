@@ -2,7 +2,7 @@
   "name": "Loona YAML-ból TOML-ba átalakító",
   "short_name": "YAML-ból TOML-ba átalakító",
   "description": "Alakítson YAML-t TOML-lá online (a közös adatmodellen keresztül): táblázatok, skalárok és tömbök a TOML elrendezési szabályaira képezve.",
-  "id": "/loona-dev-tools/hu/yaml-to-toml/",
+  "id": "/hu/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

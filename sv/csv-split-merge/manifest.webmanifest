@@ -2,7 +2,7 @@
   "name": "Loona CSV-dela och slå ihop online gratis",
   "short_name": "CSV-dela och slå ihop online gratis",
   "description": "Dela en CSV i delar efter radantal eller slå samman flera CSV-filer till en, online gratis - rubriker hanteras korrekt, ordentlig CSV-tolkning. Ingen registrering, körs 100% i din webbläsare.",
-  "id": "/loona-dev-tools/sv/csv-split-merge/",
+  "id": "/sv/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

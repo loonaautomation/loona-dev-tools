@@ -2,7 +2,7 @@
   "name": "Loona YAML을 CSV로 변환",
   "short_name": "YAML을 CSV로 변환",
   "description": "객체의 YAML 목록을 CSV 표로 변환해요: 키의 합집합을 열로, 중첩 값은 셀 안에 JSON으로 직렬화돼요.",
-  "id": "/loona-dev-tools/ko/yaml-to-csv/",
+  "id": "/ko/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

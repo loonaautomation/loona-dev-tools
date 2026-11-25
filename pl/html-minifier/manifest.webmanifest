@@ -2,7 +2,7 @@
   "name": "Loona Minifikator HTML",
   "short_name": "Minifikator HTML",
   "description": "Minifikuj HTML online: usuwaj komentarze i zwijaj białe znaki, chroniąc zawartości pre, textarea, script i style.",
-  "id": "/loona-dev-tools/pl/html-minifier/",
+  "id": "/pl/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

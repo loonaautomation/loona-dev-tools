@@ -2,7 +2,7 @@
   "name": "Loona pretvarač piksela (px) u em",
   "short_name": "Pretvarač piksela (px) u Em",
   "description": "Pretvorite px u em podesivom osnovnom veličinom fonta (zadano 16px) i tablicom uobičajenih vrijednosti.",
-  "id": "/loona-dev-tools/hr/px-to-em-converter/",
+  "id": "/hr/px-to-em-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona SHA-1-hashgenerator",
   "short_name": "SHA-1-hashgenerator",
   "description": "Beregn SHA-1-hasher av tekst eller filer på nett: 160-bit, 40 hekstegn. Kjører lokalt i nettleseren din med WebCrypto/ren JS — filer lastes aldri opp.",
-  "id": "/loona-dev-tools/nb/sha1-hash-generator/",
+  "id": "/nb/sha1-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

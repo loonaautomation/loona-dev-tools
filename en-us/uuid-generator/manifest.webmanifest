@@ -2,7 +2,7 @@
   "name": "Loona UUID Generator - Random Version 4 UUIDs, Bulk up to 100",
   "short_name": "UUID Generator - Random Version 4 UUIDs, Bulk up to 100",
   "description": "Generate random version 4 UUIDs online for free - single or bulk up to 100, uppercase and no-hyphen options. Cryptographically random, in your browser.",
-  "id": "/loona-dev-tools/en-us/uuid-generator/",
+  "id": "/en-us/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

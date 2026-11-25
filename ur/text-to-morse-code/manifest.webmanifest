@@ -2,7 +2,7 @@
   "name": "Loona متن سے Morse کوڈ مترجم",
   "short_name": "متن سے Morse کوڈ مترجم",
   "description": "متن کو Morse کوڈ میں بدلیں (حروف، اعداد اور عام اوقاف)، الفاظ / سے الگ۔ مفت Morse مترجم۔",
-  "id": "/loona-dev-tools/ur/text-to-morse-code/",
+  "id": "/ur/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

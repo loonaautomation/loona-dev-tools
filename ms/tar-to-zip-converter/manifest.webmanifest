@@ -2,7 +2,7 @@
   "name": "Loona Penukar TAR ke ZIP Dalam Talian Percuma",
   "short_name": "Penukar TAR ke ZIP Dalam Talian",
   "description": "Penukaran arkib TAR (.tar) menjadi fail ZIP langsung di pelayar Anda. Fail TAR berasal dari sistem Linux dan Unix; ZIP yang ditukar terbuka secara lalai di Windows, macOS, dan telefon bimbit. Tidak ada yang dimuat naik.",
-  "id": "/loona-dev-tools/ms/tar-to-zip-converter/",
+  "id": "/ms/tar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "בודק קריאות SEO של Loona מקוון בחינם",
   "short_name": "בודק קריאות SEO",
   "description": "בדקו קריאות תוכן ל-SEO באופן מקוון בחינם - ציוני Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG ו-ARI בתוספת סטטיסטיקות אורך משפטים לטקסט אינטרנטי. בלי הרשמה.",
-  "id": "/loona-dev-tools/he/readability-checker/",
+  "id": "/he/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

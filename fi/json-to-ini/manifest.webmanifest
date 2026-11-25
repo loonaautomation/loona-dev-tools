@@ -2,7 +2,7 @@
   "name": "Loona JSON-INI-muunnin",
   "short_name": "JSON-INI-muunnin",
   "description": "Muunna JSON-objekteja INI-muotoon: ylimmän tason skalaarit ensin, sisäkkäiset objektit [osioina]. Ilmainen verkkmuunnin.",
-  "id": "/loona-dev-tools/fi/json-to-ini/",
+  "id": "/fi/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

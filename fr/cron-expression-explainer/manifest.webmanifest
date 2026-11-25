@@ -2,7 +2,7 @@
   "name": "Explicateur d’expressions Cron Loona",
   "short_name": "Explicateur d’expressions Cron",
   "description": "Expliquez les expressions Cron en français simple : collez une planification Cron à 5 champs et lisez quand elle s’exécute, champ par champ.",
-  "id": "/loona-dev-tools/fr/cron-expression-explainer/",
+  "id": "/fr/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

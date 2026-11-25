@@ -2,7 +2,7 @@
   "name": "Loona مشفّر كيانات HTML",
   "short_name": "مشفّر كيانات HTML",
   "description": "رمّز الأحرف الخاصة ككيانات HTML: مسمّاة (&copy;)، مراجع رقمية عشرية أو سداسية عشرية. يهرّب الترميز والاقتباسات والنص غير ASCII.",
-  "id": "/loona-dev-tools/ar/html-entities-encode/",
+  "id": "/ar/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

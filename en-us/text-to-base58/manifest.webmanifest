@@ -2,7 +2,7 @@
   "name": "Loona Text to Base58 Encoder",
   "short_name": "Text to Base58 Encoder",
   "description": "Encode text to Base58 (Bitcoin alphabet) online — no 0, O, I or l, the encoding of Bitcoin addresses and IPFS hashes.",
-  "id": "/loona-dev-tools/en-us/text-to-base58/",
+  "id": "/en-us/text-to-base58/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

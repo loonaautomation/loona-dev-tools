@@ -2,7 +2,7 @@
   "name": "Loona HTML tömörítő",
   "short_name": "HTML tömörítő",
   "description": "HTML tömörítése online: távolítsa el a megjegyzéseket és szűkítse a szóközöket, miközben védi a pre, textarea, script és style tartalmakat.",
-  "id": "/loona-dev-tools/hu/html-minifier/",
+  "id": "/hu/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

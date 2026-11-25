@@ -2,7 +2,7 @@
   "name": "Loona .env 轉 JSON 轉換器",
   "short_name": ".env 轉 JSON 轉換器",
   "description": "把 .env 檔案解析為 JSON：處理 KEY=value 行、export 字首、註釋和帶引號的值。",
-  "id": "/loona-dev-tools/zh-hant/env-to-json/",
+  "id": "/zh-hant/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

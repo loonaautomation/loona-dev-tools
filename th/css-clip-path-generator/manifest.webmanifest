@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้าง CSS Clip-Path ออนไลน์ฟรี",
   "short_name": "ตัวสร้าง CSS Clip-Path",
   "description": "สร้าง CSS clip-path ออนไลน์ฟรี - ค่าที่ตั้งไว้ล่วงหน้าแบบรูปหลายเหลี่ยมอย่างดาว หกเหลี่ยม และลูกศรพร้อมจุดที่ปรับได้ บวกกับรูปทรงวงกลม วงรี และ inset พร้อมตัวอย่างแบบสด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-dev-tools/th/css-clip-path-generator/",
+  "id": "/th/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

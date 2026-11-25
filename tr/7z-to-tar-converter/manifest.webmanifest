@@ -2,7 +2,7 @@
   "name": "Loona 7Z - TAR Dönüştürücü",
   "short_name": "7Z - TAR Dönüştürücü",
   "description": "7Z arşivlerini çevrimiçi TAR biçimine dönüştürün: libarchive (WebAssembly) 7Z değerini okur, bir ustar yazıcı onu yeniden paketler. Gizli ve yerel.",
-  "id": "/loona-dev-tools/tr/7z-to-tar-converter/",
+  "id": "/tr/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona XML till JSON-konverterare",
   "short_name": "XML till JSON-konverterare",
   "description": "Konvertera XML till JSON online: attribut som @keys, upprepade element som arrayer, text som värden med tal typade.",
-  "id": "/loona-dev-tools/sv/xml-to-json/",
+  "id": "/sv/xml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

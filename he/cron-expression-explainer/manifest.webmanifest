@@ -2,7 +2,7 @@
   "name": "מפרשן ביטויי Cron של Loona",
   "short_name": "מפרשן ביטויי Cron",
   "description": "הסבירו ביטויי cron בעברית פשוטה: הדביקו לוח cron של 5 שדות וקראו מתי הוא רץ, שדה אחר שדה.",
-  "id": "/loona-dev-tools/he/cron-expression-explainer/",
+  "id": "/he/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

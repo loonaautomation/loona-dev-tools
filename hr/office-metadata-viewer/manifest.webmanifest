@@ -2,7 +2,7 @@
   "name": "Loona preglednik metapodataka uredskih dokumenata na mreži",
   "short_name": "Metapodaci uredskih dokumenata",
   "description": "Pregledajte metapodatke uredskih dokumenata na mreži besplatno - naslov, autora, tvrtku, datume izrade i izmjene, aplikaciju i verziju za .docx, .xlsx i .pptx datoteke. Samo za pregled, ništa se ne prenosi.",
-  "id": "/loona-dev-tools/hr/office-metadata-viewer/",
+  "id": "/hr/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

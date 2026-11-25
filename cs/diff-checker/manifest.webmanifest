@@ -2,7 +2,7 @@
   "name": "Kontrola rozdílů Loona online zdarma",
   "short_name": "Kontrola rozdílů online zdarma",
   "description": "Porovnejte dva texty online zdarma s porovnáním řádek po řádku: přidané řádky zeleně, odstraněné řádky červeně, plus shrnutí změn. Bez registrace, běží 100% ve vašem prohlížeči.",
-  "id": "/loona-dev-tools/cs/diff-checker/",
+  "id": "/cs/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

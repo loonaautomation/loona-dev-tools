@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi JSON sang chuỗi truy vấn của Loona",
   "short_name": "Công cụ chuyển đổi JSON sang chuỗi truy vấn",
   "description": "Tạo một chuỗi truy vấn URL từ một đối tượng JSON: các đối tượng lồng nhau dùng ký hiệu ngoặc, mảng lặp lại khóa, mọi thứ được mã hóa phần trăm.",
-  "id": "/loona-dev-tools/vi/json-to-query-string/",
+  "id": "/vi/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

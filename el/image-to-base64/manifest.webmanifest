@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Εικόνας σε Base64",
   "short_name": "Μετατροπέας Εικόνας σε Base64",
   "description": "Μετατρέψτε μια εικόνα (PNG, JPG, GIF, WebP, SVG) σε data URI Base64 διαδικτυακά — το αρχείο διαβάζεται τοπικά, με στατιστικά διαστάσεων και μεγέθους.",
-  "id": "/loona-dev-tools/el/image-to-base64/",
+  "id": "/el/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

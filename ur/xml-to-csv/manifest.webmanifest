@@ -2,7 +2,7 @@
   "name": "Loona XML سے CSV کنورٹر",
   "short_name": "XML سے CSV کنورٹر",
   "description": "XML کو CSV میں بدلیں: دہرائے گئے عناصر قطاریں بن جاتے ہیں، ان کے بچے اور خصوصیات کالم بن جاتے ہیں۔ مفت آن لائن کنورٹر۔",
-  "id": "/loona-dev-tools/ur/xml-to-csv/",
+  "id": "/ur/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona provjera gustoće ključnih riječi na mreži besplatno",
   "short_name": "Provjera gustoće ključnih riječi",
   "description": "Provjerite gustoću ključnih riječi na mreži besplatno - najčešće pojedinačne riječi plus fraze od 2 riječi i 3 riječi s brojevima i postotnom gustoćom, uključeno filtriranje stop-riječi. Bez registracije.",
-  "id": "/loona-dev-tools/hr/keyword-density-checker/",
+  "id": "/hr/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

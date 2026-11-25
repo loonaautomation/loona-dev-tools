@@ -2,7 +2,7 @@
   "name": "Loona ISO - ZIP Dönüştürücü",
   "short_name": "ISO - ZIP Dönüştürücü",
   "description": "Bir ISO disk görselini dosyalarının bir ZIP dosyasına çevrimiçi dönüştürün: libarchive, ISO9660/Rock Ridge içeriklerini yerel olarak okur.",
-  "id": "/loona-dev-tools/tr/iso-to-zip-converter/",
+  "id": "/tr/iso-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

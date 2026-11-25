@@ -2,7 +2,7 @@
   "name": "Loona JSON till Markdown-tabellkonverterare",
   "short_name": "JSON till Markdown-tabell",
   "description": "Konvertera en JSON-array av objekt till en Markdown-tabell: kolumner från nycklarna, pipetecken escapade, redo att klistras in i README:er.",
-  "id": "/loona-dev-tools/sv/json-to-markdown-table/",
+  "id": "/sv/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

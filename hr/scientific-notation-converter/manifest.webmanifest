@@ -2,7 +2,7 @@
   "name": "Loona pretvarač znanstvene notacije",
   "short_name": "Pretvarač znanstvene notacije",
   "description": "Pretvorite brojeve u znanstvenu notaciju i iz nje: 3200000 ⇄ 3.2 × 10^6, E notacija podržana u oba smjera.",
-  "id": "/loona-dev-tools/hr/scientific-notation-converter/",
+  "id": "/hr/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

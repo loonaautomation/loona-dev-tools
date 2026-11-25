@@ -2,7 +2,7 @@
   "name": "Công cụ kiểm tra khác biệt của Loona trực tuyến miễn phí",
   "short_name": "Công cụ kiểm tra khác biệt trực tuyến miễn phí",
   "description": "So sánh hai văn bản trực tuyến miễn phí với một diff theo từng dòng: các dòng đã thêm màu xanh lá, các dòng đã loại bỏ màu đỏ, cộng một bản tóm tắt thay đổi. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/diff-checker/",
+  "id": "/vi/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

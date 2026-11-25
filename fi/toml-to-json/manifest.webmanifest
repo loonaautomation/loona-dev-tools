@@ -2,7 +2,7 @@
   "name": "Loona TOML-JSON-muunnin",
   "short_name": "TOML-JSON-muunnin",
   "description": "Muunna TOML JSON:iksi verkossa: taulukot, taulukkotaulukot, merkkijonot, luvut, totuusarvot, taulukot ja päivämäärä-ajat (merkkijonoina).",
-  "id": "/loona-dev-tools/fi/toml-to-json/",
+  "id": "/fi/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

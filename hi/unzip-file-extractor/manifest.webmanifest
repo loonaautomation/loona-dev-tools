@@ -2,7 +2,7 @@
   "name": "Loona Unzip फ़ाइल एक्सट्रैक्टर ऑनलाइन मुफ़्त",
   "short_name": "Unzip फ़ाइल एक्सट्रैक्टर ऑनलाइन",
   "description": "ZIP फ़ाइल अपने ब्राउज़र में खोलें, अंदर की हर फ़ाइल उसके size के साथ देखें, और single फ़ाइलें या सभी extract करें। कुछ अपलोड नहीं होता; extraction आपके device पर होती है।",
-  "id": "/loona-dev-tools/hi/unzip-file-extractor/",
+  "id": "/hi/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

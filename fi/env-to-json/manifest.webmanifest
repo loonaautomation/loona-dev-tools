@@ -2,7 +2,7 @@
   "name": "Loona .env-JSON-muunnin",
   "short_name": ".env-JSON-muunnin",
   "description": "Jäsennä .env-tiedosto JSONiksi: KEY=value-rivit, export-etuliitteet, kommentit ja lainatut arvot käsiteltynä.",
-  "id": "/loona-dev-tools/fi/env-to-json/",
+  "id": "/fi/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

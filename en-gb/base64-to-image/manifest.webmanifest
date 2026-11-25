@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/base64-to-image/",
+  "id": "/en-gb/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

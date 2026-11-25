@@ -2,7 +2,7 @@
   "name": "Loona Penukar JSON ke Antara Muka TypeScript",
   "short_name": "JSON ke Antara Muka TypeScript",
   "description": "Penukaran JSON ke antara muka TypeScript dalam talian: objek bersarang menjadi antara muka bernama, array objek menggabungkan kuncinya dengan medan pilihan ditandai.",
-  "id": "/loona-dev-tools/ms/json-to-typescript/",
+  "id": "/ms/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

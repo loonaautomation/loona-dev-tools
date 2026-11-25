@@ -2,7 +2,7 @@
   "name": "Loona piksler (px) til em-konverterer",
   "short_name": "Piksler (px) til Em-konverterer",
   "description": "Konverter px til em med en justerbar grunnskriftstørrelse (standard 16px) og en tabell med vanlige verdier.",
-  "id": "/loona-dev-tools/nb/px-to-em-converter/",
+  "id": "/nb/px-to-em-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

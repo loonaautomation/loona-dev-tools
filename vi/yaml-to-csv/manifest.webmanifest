@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi YAML sang CSV của Loona",
   "short_name": "Công cụ chuyển đổi YAML sang CSV",
   "description": "Chuyển đổi một danh sách YAML các đối tượng thành bảng CSV: hợp của các khóa thành cột, giá trị lồng nhau được tuần tự hóa thành JSON trong ô của chúng.",
-  "id": "/loona-dev-tools/vi/yaml-to-csv/",
+  "id": "/vi/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

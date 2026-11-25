@@ -2,7 +2,7 @@
   "name": "Loona Diff चेकर ऑनलाइन मुफ़्त",
   "short_name": "Diff चेकर ऑनलाइन मुफ़्त",
   "description": "Line-by-line diff के साथ दो texts की ऑनलाइन मुफ़्त तुलना करें: added lines हरी, removed lines लाल, साथ में एक change summary। कोई sign-up नहीं, 100% आपके ब्राउज़र में चलता है।",
-  "id": "/loona-dev-tools/hi/diff-checker/",
+  "id": "/hi/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

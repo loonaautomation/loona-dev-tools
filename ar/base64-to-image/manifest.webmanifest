@@ -2,7 +2,7 @@
   "name": "Loona محوّل Base64 إلى صورة",
   "short_name": "محوّل Base64 إلى صورة",
   "description": "فكّ سلسلة Base64 أو URI بيانات عودة إلى صورة قابلة للعرض والتنزيل. نوع MIME مكتشف من البايتات.",
-  "id": "/loona-dev-tools/ar/base64-to-image/",
+  "id": "/ar/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

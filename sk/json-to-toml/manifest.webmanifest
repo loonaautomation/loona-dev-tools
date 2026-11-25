@@ -2,7 +2,7 @@
   "name": "Prevodník Loona JSON na TOML",
   "short_name": "Prevodník JSON na TOML",
   "description": "Preveďte JSON na TOML online: najprv skaláry, vnorené objekty ako [tabuľky], polia objektov ako [[tabuľky]].",
-  "id": "/loona-dev-tools/sk/json-to-toml/",
+  "id": "/sk/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

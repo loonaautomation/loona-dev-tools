@@ -2,7 +2,7 @@
   "name": "Loona pretvarač TOML u JSON",
   "short_name": "Pretvarač TOML u JSON",
   "description": "Pretvorite TOML u JSON na mreži: tablice, tablice polja, nizovi, brojevi, logičke vrijednosti i datumi-vremena (kao nizovi).",
-  "id": "/loona-dev-tools/hr/toml-to-json/",
+  "id": "/hr/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

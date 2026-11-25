@@ -2,7 +2,7 @@
   "name": "Loona XML-sitemap-generator online gratis",
   "short_name": "XML-sitemap-generator online",
   "description": "Genereer een geldige XML-sitemap online gratis uit een lijst met URL's, met standaard lastmod, changefreq en priority, correcte URL- en XML-escaping. Geen registratie, draait in je browser.",
-  "id": "/loona-dev-tools/nl/xml-sitemap-generator/",
+  "id": "/nl/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

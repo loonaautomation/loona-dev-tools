@@ -2,7 +2,7 @@
   "name": "Конвертер Loona YAML у JSON онлайн безкоштовно",
   "short_name": "Конвертер YAML у JSON онлайн",
   "description": "Конвертуйте YAML у JSON і JSON у YAML онлайн безкоштовно. Підтримує повсякденну підмножину: вкладені відображення, списки й скаляри, із чесно вказаними обмеженнями. Без реєстрації, працює на 100% у вашому браузері.",
-  "id": "/loona-dev-tools/uk/yaml-json-converter/",
+  "id": "/uk/yaml-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

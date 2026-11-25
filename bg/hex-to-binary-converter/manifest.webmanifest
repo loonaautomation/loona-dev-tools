@@ -2,7 +2,7 @@
   "name": "Конвертор от шестнадесетична към двоична на Loona",
   "short_name": "Шестнадесетична към двоична",
   "description": "Конвертирайте онлайн шестнадесетични числа в двоични — произволна точност (BigInt), отрицателните числа се поддържат.",
-  "id": "/loona-dev-tools/bg/hex-to-binary-converter/",
+  "id": "/bg/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Base64-Encoder & Decoder online kostenlos",
   "short_name": "Base64-Encoder & Decoder",
   "description": "Codieren Sie Text oder Dateien zu Base64 und decodieren Sie Base64 zurück, UTF-8-sicher für jede Sprache und Emoji, mit einer URL-sicheren Option. Kostenlos, keine Registrierung, in Ihrem Browser.",
-  "id": "/loona-dev-tools/de/base64-encoder/",
+  "id": "/de/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

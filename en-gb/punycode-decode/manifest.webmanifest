@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/punycode-decode/",
+  "id": "/en-gb/punycode-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

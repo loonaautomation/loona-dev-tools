@@ -2,7 +2,7 @@
   "name": "Loona منشئ تجزئة SHA-256",
   "short_name": "منشئ تجزئة SHA-256",
   "description": "احسب تجزئات SHA-256 للنص أو الملفات عبر الإنترنت: 256 بت، 64 حرفاً سداسياً عشرياً. يعمل محلياً في متصفحك عبر WebCrypto/JS خالص — لا تُرفع الملفات أبداً.",
-  "id": "/loona-dev-tools/ar/sha256-hash-generator/",
+  "id": "/ar/sha256-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

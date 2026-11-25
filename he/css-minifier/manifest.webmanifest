@@ -2,7 +2,7 @@
   "name": "ממזער Loona CSS מקוון בחינם",
   "short_name": "ממזער CSS מקוון בחינם",
   "description": "מזערו CSS באופן מקוון בחינם וראו בדיוק כמה קטן יותר הוא נהיה, או ייפו CSS ממוזער בחזרה לקוד קריא. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/css-minifier/",
+  "id": "/he/css-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

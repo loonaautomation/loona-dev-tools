@@ -2,7 +2,7 @@
   "name": "Loona Bilimsel Gösterim Dönüştürücü",
   "short_name": "Bilimsel Gösterim Dönüştürücü",
   "description": "Sayıları bilimsel gösterime ve geri dönüştürün: 3200000 ⇄ 3.2 × 10^6, E gösterimi iki yönde desteklenir.",
-  "id": "/loona-dev-tools/tr/scientific-notation-converter/",
+  "id": "/tr/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

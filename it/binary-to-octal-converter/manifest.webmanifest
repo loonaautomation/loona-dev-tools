@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da binario a ottale",
   "short_name": "Convertitore da binario a ottale",
   "description": "Converti numeri binari in ottale online — precisione arbitraria (BigInt), numeri negativi supportati.",
-  "id": "/loona-dev-tools/it/binary-to-octal-converter/",
+  "id": "/it/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

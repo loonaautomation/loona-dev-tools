@@ -2,7 +2,7 @@
   "name": "Loona CSS-laatikkovarjogeneraattori verkossa ilmaiseksi",
   "short_name": "CSS-laatikkovarjogeneraattori",
   "description": "Luo CSS box-shadow verkossa ilmaiseksi - useita varjokerroksia, sisävarjoja, värin ja peittävyyden hallinta, elävä esikatselu ja valmis CSS. Ei rekisteröitymistä, toimii selaimessasi.",
-  "id": "/loona-dev-tools/fi/css-box-shadow-generator/",
+  "id": "/fi/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

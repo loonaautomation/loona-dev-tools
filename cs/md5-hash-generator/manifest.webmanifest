@@ -2,7 +2,7 @@
   "name": "Generátor hashů Loona MD5",
   "short_name": "Generátor hashů MD5",
   "description": "Počítejte hashe MD5 textu nebo souborů online: 128bitové, 32 hexadecimálních znaků. Běží lokálně ve vašem prohlížeči s WebCrypto/čistým JS — soubory se nikdy nenahrávají.",
-  "id": "/loona-dev-tools/cs/md5-hash-generator/",
+  "id": "/cs/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

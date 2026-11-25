@@ -2,7 +2,7 @@
   "name": "Loona محوّل النص إلى الثنائي",
   "short_name": "محوّل النص إلى الثنائي",
   "description": "حوّل النص إلى ثنائي: كل حرف كمجموعات ثنائية من 8 بتات لبايتات UTF-8 الخاصة به. محوّل مجاني عبر الإنترنت.",
-  "id": "/loona-dev-tools/ar/text-to-binary/",
+  "id": "/ar/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

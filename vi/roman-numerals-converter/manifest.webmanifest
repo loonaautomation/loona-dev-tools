@@ -2,7 +2,7 @@
   "name": "Số La Mã sang số của Loona",
   "short_name": "Số La Mã sang số",
   "description": "Chuyển đổi số La Mã sang số (1–3999), với kiểm tra hợp lệ nghiêm ngặt của ký hiệu trừ (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/vi/roman-numerals-converter/",
+  "id": "/vi/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

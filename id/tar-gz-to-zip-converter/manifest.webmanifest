@@ -2,7 +2,7 @@
   "name": "Loona Konverter TAR.GZ ke ZIP Online Gratis",
   "short_name": "Konverter TAR.GZ ke ZIP",
   "description": "Konversi arsip TAR.GZ (.tar.gz atau .tgz) menjadi file ZIP langsung di browser Anda. Kedua lapisan - gzip dan tar - dibuka di perangkat Anda dan file dikemas ulang sebagai satu ZIP. Tidak ada yang diunggah.",
-  "id": "/loona-dev-tools/id/tar-gz-to-zip-converter/",
+  "id": "/id/tar-gz-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

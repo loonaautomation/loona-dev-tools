@@ -2,7 +2,7 @@
   "name": "Loona Password Strength Checker - Entropy, Feedback and Crack Time",
   "short_name": "Password Strength Checker - Entropy, Feedback and Crack Time",
   "description": "Check password strength online for free with a transparent entropy estimate, specific feedback and a crack-time estimate. The password never leaves your browser - nothing is sent or stored.",
-  "id": "/loona-dev-tools/en-us/password-strength-checker/",
+  "id": "/en-us/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

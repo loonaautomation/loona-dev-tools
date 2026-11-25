@@ -2,7 +2,7 @@
   "name": "Loona TOML→YAML変換ツール",
   "short_name": "TOML→YAML変換ツール",
   "description": "TOMLをYAMLにオンライン変換：テーブルはネストしたマッピングになり、配列テーブルはオブジェクトのリストになります。",
-  "id": "/loona-dev-tools/ja/toml-to-yaml/",
+  "id": "/ja/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

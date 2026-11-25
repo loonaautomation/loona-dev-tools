@@ -2,7 +2,7 @@
   "name": "Générateur de hachages Loona en ligne gratuit",
   "short_name": "Générateur de hachages en ligne gratuit",
   "description": "Générez des hachages SHA-1, SHA-256, SHA-384 et SHA-512 de n’importe quel texte en ligne et gratuitement, calculés localement dans votre navigateur. Sans inscription, rien n’est téléversé.",
-  "id": "/loona-dev-tools/fr/hash-generator/",
+  "id": "/fr/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

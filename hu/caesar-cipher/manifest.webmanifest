@@ -2,7 +2,7 @@
   "name": "Loona Caesar rejtjel kódoló és dekódoló",
   "short_name": "Caesar rejtjel kódoló és",
   "description": "Caesar rejtjel bármilyen eltolással (1–25) és dekódolási móddal: Julius Caesar klasszikus helyettesítő rejtjele, online.",
-  "id": "/loona-dev-tools/hu/caesar-cipher/",
+  "id": "/hu/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

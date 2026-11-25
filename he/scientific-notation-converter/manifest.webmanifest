@@ -2,7 +2,7 @@
   "name": "ממיר סימון מדעי של Loona",
   "short_name": "ממיר סימון מדעי",
   "description": "המירו מספרים לסימון מדעי וממנו: 3200000 ⇄ 3.2 × 10^6, סימון E נתמך לשני הכיוונים.",
-  "id": "/loona-dev-tools/he/scientific-notation-converter/",
+  "id": "/he/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

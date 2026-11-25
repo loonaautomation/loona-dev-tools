@@ -2,7 +2,7 @@
   "name": "Loona Sayılardan Roma Rakamlarına",
   "short_name": "Sayılardan Roma Rakamlarına",
   "description": "Sayıları (1–3999) standart çıkarımsal biçimde Roma rakamlarına dönüştürün. Ücretsiz çevrimiçi dönüştürücü.",
-  "id": "/loona-dev-tools/tr/number-to-roman-numerals/",
+  "id": "/tr/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

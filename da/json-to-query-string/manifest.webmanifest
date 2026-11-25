@@ -2,7 +2,7 @@
   "name": "Loona JSON til forespørgselsstreng-konverter",
   "short_name": "JSON til forespørgselsstreng-konverter",
   "description": "Byg en URL-query string ud fra et JSON-objekt: indlejrede objekter bruger bracket-notation, arrays gentager nøglen, alt procentkodes.",
-  "id": "/loona-dev-tools/da/json-to-query-string/",
+  "id": "/da/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

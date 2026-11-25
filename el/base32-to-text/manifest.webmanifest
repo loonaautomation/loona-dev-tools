@@ -2,7 +2,7 @@
   "name": "Loona Αποκωδικοποιητής Base32 σε Κείμενο",
   "short_name": "Αποκωδικοποιητής Base32 σε Κείμενο",
   "description": "Αποκωδικοποιήστε Base32 (RFC 4648) πίσω σε κείμενο — χωρίς διάκριση πεζών-κεφαλαίων, η συμπλήρωση προαιρετική. Ανακτήστε συμβολοσειρές κωδικοποιημένες σε στυλ TOTP.",
-  "id": "/loona-dev-tools/el/base32-to-text/",
+  "id": "/el/base32-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

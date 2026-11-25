@@ -2,7 +2,7 @@
   "name": "Loona Spiegatore di espressioni Cron",
   "short_name": "Spiegatore di espressioni Cron",
   "description": "Spiega le espressioni cron in italiano semplice: incolla una pianificazione cron a 5 campi e leggi quando viene eseguita, campo per campo.",
-  "id": "/loona-dev-tools/it/cron-expression-explainer/",
+  "id": "/it/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

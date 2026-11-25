@@ -2,7 +2,7 @@
   "name": "Loona JSON-string escapen",
   "short_name": "JSON-string escapen",
   "description": "Escape een string om in JSON in te sluiten: quotes, backslashes, nieuwe regels en controle-tekens worden \\-reeksen.",
-  "id": "/loona-dev-tools/nl/json-escape/",
+  "id": "/nl/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

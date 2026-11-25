@@ -2,7 +2,7 @@
   "name": "Loona Codificatore di entità HTML",
   "short_name": "Codificatore di entità HTML",
   "description": "Codifica caratteri speciali come entità HTML: riferimenti con nome (&copy;), decimali o esadecimali. Sottopone a escape markup, virgolette e testo non-ASCII.",
-  "id": "/loona-dev-tools/it/html-entities-encode/",
+  "id": "/it/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

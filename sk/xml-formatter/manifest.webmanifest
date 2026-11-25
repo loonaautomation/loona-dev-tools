@@ -2,7 +2,7 @@
   "name": "Formátovač a validátor Loona XML online zadarmo",
   "short_name": "Formátovač a validátor XML",
   "description": "Formátujte, skrášľujte, minifikujte a overujte XML online zadarmo - kontrola dobre formovanosti vyvážených značiek s jasnými chybovými správami, pekná tlač s odsadením. Bez registrácie.",
-  "id": "/loona-dev-tools/sk/xml-formatter/",
+  "id": "/sk/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

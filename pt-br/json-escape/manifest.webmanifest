@@ -2,7 +2,7 @@
   "name": "Loona Escape de Strings JSON",
   "short_name": "Escape de Strings JSON",
   "description": "Escape uma string para incorporação dentro de JSON: aspas, barras invertidas, quebras de linha e caracteres de controlo tornam-se sequências \\.",
-  "id": "/loona-dev-tools/pt-br/json-escape/",
+  "id": "/pt-br/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

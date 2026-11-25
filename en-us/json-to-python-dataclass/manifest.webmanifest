@@ -2,7 +2,7 @@
   "name": "Loona JSON to Python Dataclasses",
   "short_name": "JSON to Python Dataclasses",
   "description": "Convert JSON to Python dataclasses with type hints: nested objects become nested dataclasses, List types for arrays.",
-  "id": "/loona-dev-tools/en-us/json-to-python-dataclass/",
+  "id": "/en-us/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

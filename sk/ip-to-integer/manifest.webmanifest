@@ -2,7 +2,7 @@
   "name": "Prevodník Loona adresy IP na celé číslo",
   "short_name": "Adresa IP na celé číslo",
   "description": "Preveďte adresu IPv4 na jej 32-bitovú celočíselnú formu (192.168.0.1 → 3232235521), používanú v databázach a kontrolách rozsahov.",
-  "id": "/loona-dev-tools/sk/ip-to-integer/",
+  "id": "/sk/ip-to-integer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

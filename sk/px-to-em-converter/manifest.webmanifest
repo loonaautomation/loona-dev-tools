@@ -2,7 +2,7 @@
   "name": "Prevodník Loona pixelov (px) na Em",
   "short_name": "Prevodník pixelov (px) na Em",
   "description": "Preveďte px na em s nastaviteľnou základnou veľkosťou písma (predvolene 16px) a tabuľkou bežných hodnôt.",
-  "id": "/loona-dev-tools/sk/px-to-em-converter/",
+  "id": "/sk/px-to-em-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

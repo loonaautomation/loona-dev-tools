@@ -2,7 +2,7 @@
   "name": "Loona JSON-formaterare online gratis",
   "short_name": "JSON-formaterare online gratis",
   "description": "Formatera, validera och minimera JSON online gratis, med exakt rad och kolumn för varje fel. Ingen registrering, körs 100% i din webbläsare.",
-  "id": "/loona-dev-tools/sv/json-formatter/",
+  "id": "/sv/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

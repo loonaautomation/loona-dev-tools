@@ -2,7 +2,7 @@
   "name": "Конвертер Loona десяткової у двійкову",
   "short_name": "Конвертер десяткової у двійкову",
   "description": "Конвертуйте десяткові числа у двійкові онлайн — довільна точність (BigInt), від’ємні числа підтримуються.",
-  "id": "/loona-dev-tools/uk/decimal-to-binary-converter/",
+  "id": "/uk/decimal-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

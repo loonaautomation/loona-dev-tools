@@ -2,7 +2,7 @@
   "name": "Генератор на Open Graph и Twitter Card на Loona",
   "short_name": "Open Graph и Twitter Card",
   "description": "Генерирайте безплатно онлайн мета тагове Open Graph и Twitter Card, с преглед на социална карта на живо - заглавие, описание, изображение, URL и име на сайта. Без регистрация, работи в браузъра ви.",
-  "id": "/loona-dev-tools/bg/open-graph-generator/",
+  "id": "/bg/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

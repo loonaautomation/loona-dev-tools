@@ -2,7 +2,7 @@
   "name": "Loona বৈজ্ঞানিক চিহ্ন কনভার্টার",
   "short_name": "বৈজ্ঞানিক সংকেত রূপান্তরকারী",
   "description": "সংখ্যা বৈজ্ঞানিক চিহ্নে ও তা থেকে রূপান্তর করুন: 3200000 ⇄ 3.2 × 10^6, E চিহ্ন উভয় দিকে সমর্থিত।",
-  "id": "/loona-dev-tools/bn/scientific-notation-converter/",
+  "id": "/bn/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

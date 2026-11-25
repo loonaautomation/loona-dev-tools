@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi RAR sang ZIP của Loona trực tuyến miễn phí",
   "short_name": "Công cụ chuyển đổi RAR sang ZIP trực tuyến",
   "description": "Chuyển đổi một tệp lưu trữ RAR (.rar) thành một tệp ZIP chuẩn ngay trong trình duyệt của bạn. Cấu trúc thư mục được giữ nguyên, không có gì được tải lên, và ZIP mở ở mọi nơi - Windows, macOS, Android và iPhone đều mở ZIP nguyên bản.",
-  "id": "/loona-dev-tools/vi/rar-to-zip-converter/",
+  "id": "/vi/rar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

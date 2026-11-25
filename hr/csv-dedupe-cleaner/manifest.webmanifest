@@ -2,7 +2,7 @@
   "name": "Loona uklanjanje duplikata i čišćenje CSV-a na mreži besplatno",
   "short_name": "Uklanjanje duplikata i čišćenje CSV-a na mreži",
   "description": "Uklonite duplicirane retke iz CSV-a na mreži besplatno - po cijelom retku ili po ključnim stupcima - plus obrežite razmake, ispustite prazne retke i normalizirajte završetke redaka, s brojevima prije/poslije. Bez registracije.",
-  "id": "/loona-dev-tools/hr/csv-dedupe-cleaner/",
+  "id": "/hr/csv-dedupe-cleaner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kisimbaji na Kisimbuaji cha Sifa ya Kaisari",
   "short_name": "Kisimbaji cha Msimbo wa Kaisari na",
   "description": "Msimbo wa Kaisari na badiliko lolote (1–25) na hali ya kusimbua: msimbo wa kawaida wa ubadilishaji wa Julius Caesar, mtandaoni.",
-  "id": "/loona-dev-tools/sw/caesar-cipher/",
+  "id": "/sw/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

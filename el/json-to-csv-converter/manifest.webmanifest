@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας JSON σε CSV Διαδικτυακά Δωρεάν",
   "short_name": "Μετατροπέας JSON σε CSV Διαδικτυακά",
   "description": "Μετατρέψτε έναν πίνακα αντικειμένων JSON σε CSV διαδικτυακά δωρεάν: ένωση κλειδιών ως στήλες, σωστά εισαγωγικά και διαφυγή, ένθετες τιμές διατηρημένες ως JSON. Χωρίς εγγραφή, εκτελείται 100% στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-dev-tools/el/json-to-csv-converter/",
+  "id": "/el/json-to-csv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

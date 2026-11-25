@@ -2,7 +2,7 @@
   "name": "Loona JSON-Minifier",
   "short_name": "JSON-Minifier",
   "description": "Minifizieren Sie JSON online: Entfernen Sie allen unbedeutenden Whitespace in eine einzelne kompakte Zeile, mit präzise gemeldeten Validierungsfehlern.",
-  "id": "/loona-dev-tools/de/json-minifier/",
+  "id": "/de/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

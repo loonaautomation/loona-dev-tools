@@ -2,7 +2,7 @@
   "name": "Loona محوّل Hex إلى نص",
   "short_name": "محوّل Hex إلى نص",
   "description": "حوّل السداسي العشري عودة إلى نص: الصق بايتات hex (متباعدة أو مستمرة، مع 0x أو بدونه) واقرأ نص UTF-8.",
-  "id": "/loona-dev-tools/ar/hex-to-text/",
+  "id": "/ar/hex-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

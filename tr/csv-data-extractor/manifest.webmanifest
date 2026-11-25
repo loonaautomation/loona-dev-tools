@@ -2,7 +2,7 @@
   "name": "Loona CSV Veri Çıkarıcı Çevrimiçi Ücretsiz",
   "short_name": "CSV Veri Çıkarıcı Çevrimiçi Ücretsiz",
   "description": "E-posta adreslerini, telefon numaralarını ve URL değerlerini dağınık CSV dosyalarından veya herhangi bir metinden çevrimiçi ücretsiz çıkarın - indirebileceğiniz temizlenmiş, tekilleştirilmiş listeler. Kayıt gerekmez, tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/csv-data-extractor/",
+  "id": "/tr/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona A1Z26 سائفر انکوڈر (حروف سے اعداد)",
   "short_name": "A1Z26 سائفر انکوڈر (حروف",
   "description": "متن کو A1Z26 سائفر سے انکوڈ کریں: A=1, B=2 ... Z=26۔ کلاسیکی پزل اور escape-room کوڈ۔",
-  "id": "/loona-dev-tools/ur/a1z26-cipher-encoder/",
+  "id": "/ur/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

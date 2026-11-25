@@ -2,7 +2,7 @@
   "name": "Loona HTML ای میل دستخط جنریٹر آن لائن مفت",
   "short_name": "HTML ای میل دستخط",
   "description": "ایک پیشہ ورانہ HTML ای میل دستخط آن لائن مفت بنائیں - نام، عنوان، کمپنی، فون، ای میل اور ویب سائٹ email-safe ٹیبل HTML میں جو Gmail اور Outlook میں کام کرتا ہے۔ کوئی سائن اپ نہیں۔",
-  "id": "/loona-dev-tools/ur/email-signature-generator/",
+  "id": "/ur/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

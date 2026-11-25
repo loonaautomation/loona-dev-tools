@@ -2,7 +2,7 @@
   "name": "Loona JSON 壓縮工具",
   "short_name": "JSON 壓縮工具",
   "description": "線上壓縮 JSON：把所有無關緊要的空白去掉，形成一個緊湊的單行，驗證錯誤會被精確報告。",
-  "id": "/loona-dev-tools/zh-hant/json-minifier/",
+  "id": "/zh-hant/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

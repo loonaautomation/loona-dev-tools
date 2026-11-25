@@ -2,7 +2,7 @@
   "name": "Loona JWT एनकोडर (HS256 Signer)",
   "short_name": "JWT एनकोडर (HS256 Signer)",
   "description": "अपने ब्राउज़र में HS256 के साथ JSON Web Tokens बनाएँ और sign करें: payload JSON साथ में एक secret, या alg=none। WebCrypto signing।",
-  "id": "/loona-dev-tools/hi/jwt-encoder/",
+  "id": "/hi/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

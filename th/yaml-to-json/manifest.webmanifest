@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง YAML เป็น JSON",
   "short_name": "ตัวแปลง YAML เป็น JSON",
   "description": "แปลง YAML เป็น JSON ออนไลน์: แมปแบบบล็อกและลำดับ ค่าสเกลาร์ในเครื่องหมายคำพูดและแบบธรรมดา คอลเลกชันแบบโฟลว์ ชุดย่อยที่บันทึกไว้อย่างซื่อตรง",
-  "id": "/loona-dev-tools/th/yaml-to-json/",
+  "id": "/th/yaml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

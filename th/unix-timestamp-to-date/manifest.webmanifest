@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง Unix Timestamp เป็นวันที่",
   "short_name": "การประทับเวลา Unix เป็นวันที่",
   "description": "แปลง Unix timestamp (วินาทีหรือมิลลิวินาที) เป็นวันที่มนุษย์อ่านได้: UTC เวลาท้องถิ่นของคุณ ISO 8601 และเวลาสัมพัทธ์",
-  "id": "/loona-dev-tools/th/unix-timestamp-to-date/",
+  "id": "/th/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

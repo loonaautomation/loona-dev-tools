@@ -2,7 +2,7 @@
   "name": "Loona Markdown táblázatból CSV-be átalakító",
   "short_name": "Markdown táblázatból CSV",
   "description": "Alakítson egy Markdown táblázatot CSV-vé: fejléc és sorok kinyerve, igazító sor eltávolítva, cellák vágva és megfelelően idézve.",
-  "id": "/loona-dev-tools/hu/markdown-table-to-csv/",
+  "id": "/hu/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

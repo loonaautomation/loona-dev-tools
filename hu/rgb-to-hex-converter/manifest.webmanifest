@@ -2,7 +2,7 @@
   "name": "Loona RGB-ből HEX-be átalakító",
   "short_name": "RGB-ből HEX-be átalakító",
   "description": "Alakítson színeket RGB-ből HEX-szé online, élő színmintával, és az összes többi formátummal (HEX, RGB, HSL, HSV, CMYK) is megjelenítve.",
-  "id": "/loona-dev-tools/hu/rgb-to-hex-converter/",
+  "id": "/hu/rgb-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

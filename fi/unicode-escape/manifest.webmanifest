@@ -2,7 +2,7 @@
   "name": "Loona Unicode-pakomuunnin (\\uXXXX)",
   "short_name": "Unicode-pakomuunnin",
   "description": "Pakota tekstiä Unicode-pakosarjoiksi (\\uXXXX) JSON:ia, JavaScriptiä, Javaa ja properties-tiedostoja varten. Käsittelee emojit korvikepareilla.",
-  "id": "/loona-dev-tools/fi/unicode-escape/",
+  "id": "/fi/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/cron-expression-generator/",
+  "id": "/en-gb/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

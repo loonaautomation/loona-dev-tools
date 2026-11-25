@@ -2,7 +2,7 @@
   "name": "Loona Markdown Tablo - CSV Dönüştürücü",
   "short_name": "Markdown Tablo - CSV",
   "description": "Bir Markdown tablosunu CSV biçimine dönüştürün: başlık ve satırlar çıkarılır, hizalama satırı kaldırılır, hücreler kırpılır ve düzgün tırnaklanır.",
-  "id": "/loona-dev-tools/tr/markdown-table-to-csv/",
+  "id": "/tr/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

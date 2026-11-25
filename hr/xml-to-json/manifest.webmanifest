@@ -2,7 +2,7 @@
   "name": "Loona pretvarač XML u JSON",
   "short_name": "Pretvarač XML u JSON",
   "description": "Pretvorite XML u JSON na mreži: atributi kao @ključevi, ponovljeni elementi kao polja, tekst kao vrijednosti s tipiziranim brojevima.",
-  "id": "/loona-dev-tools/hr/xml-to-json/",
+  "id": "/hr/xml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

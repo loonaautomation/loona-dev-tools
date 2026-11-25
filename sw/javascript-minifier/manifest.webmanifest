@@ -2,7 +2,7 @@
   "name": "Loona Kifinyaji cha JavaScript Bure Mtandaoni",
   "short_name": "Kifinyaji cha JavaScript Mtandaoni",
   "description": "Finya JavaScript mtandaoni bure kwa kitenganishi cha tahadhari kinacholinda mifululizo, violezo halisi na misemo ya kawaida. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/javascript-minifier/",
+  "id": "/sw/javascript-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

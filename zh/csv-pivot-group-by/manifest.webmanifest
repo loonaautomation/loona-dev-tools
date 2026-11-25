@@ -2,7 +2,7 @@
   "name": "Loona CSV 透视与分组 在线免费",
   "short_name": "CSV 透视与分组 在线版",
   "description": "在线免费透视 CSV 数据——按任何列对行分组，并计算值列的求和、计数、平均值、最小值或最大值。无需注册，100% 在您的浏览器中运行。",
-  "id": "/loona-dev-tools/zh/csv-pivot-group-by/",
+  "id": "/zh/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Trình tạo hash MD5 Loona",
   "short_name": "Trình tạo hash MD5",
   "description": "Tính hash MD5 của văn bản hoặc tệp trực tuyến: 128 bit, 32 ký tự hex. Chạy cục bộ trong trình duyệt của bạn bằng WebCrypto/JS thuần — tệp không bao giờ được tải lên.",
-  "id": "/loona-dev-tools/vi/md5-hash-generator/",
+  "id": "/vi/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

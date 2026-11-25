@@ -2,7 +2,7 @@
   "name": "Loona JSON-LD-skeemageneraattori verkossa ilmaiseksi",
   "short_name": "JSON-LD-skeemageneraattori",
   "description": "Luo schema.org JSON-LD -jäsenneltyä dataa verkossa ilmaiseksi - Article, LocalBusiness, Product, Event, Recipe, Person, Organization ja WebSite - valmiina skriptilohkona. Ei rekisteröitymistä.",
-  "id": "/loona-dev-tools/fi/json-ld-schema-generator/",
+  "id": "/fi/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

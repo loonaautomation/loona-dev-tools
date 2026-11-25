@@ -2,7 +2,7 @@
   "name": "Loona 文本转摩尔斯电码翻译器",
   "short_name": "文本转摩尔斯电码翻译器",
   "description": "把文本翻译为摩尔斯电码（字母、数字和常用标点），词之间用 / 分隔。免费摩尔斯翻译器。",
-  "id": "/loona-dev-tools/zh/text-to-morse-code/",
+  "id": "/zh/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

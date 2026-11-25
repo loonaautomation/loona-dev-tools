@@ -2,7 +2,7 @@
   "name": "Loona Unicode Escape Decoder",
   "short_name": "Unicode Escape Decoder",
   "description": "Decode Unicode escape sequences (\\uXXXX, \\u{...}, \\xXX) back to real characters, plus \\n \\t and \\\\ escapes.",
-  "id": "/loona-dev-tools/en-us/unicode-unescape/",
+  "id": "/en-us/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

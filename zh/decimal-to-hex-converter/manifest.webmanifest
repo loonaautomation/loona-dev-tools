@@ -2,7 +2,7 @@
   "name": "Loona 十进制转十六进制转换器",
   "short_name": "十进制转十六进制",
   "description": "在线把十进制数转换成十六进制——任意精度（BigInt），支持负数。",
-  "id": "/loona-dev-tools/zh/decimal-to-hex-converter/",
+  "id": "/zh/decimal-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

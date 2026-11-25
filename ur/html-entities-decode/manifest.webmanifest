@@ -2,7 +2,7 @@
   "name": "Loona HTML اینٹیٹیز ڈیکوڈر",
   "short_name": "HTML اینٹیٹیز ڈیکوڈر",
   "description": "HTML اینٹیٹیز کو واپس سادہ حروف میں ڈی کوڈ کریں: نامزد، اعشاریہ اور ہیکس حوالے (&copy;, &#169;, &#xA9;) سب سپورٹ۔",
-  "id": "/loona-dev-tools/ur/html-entities-decode/",
+  "id": "/ur/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

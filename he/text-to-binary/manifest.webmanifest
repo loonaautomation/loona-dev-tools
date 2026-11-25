@@ -2,7 +2,7 @@
   "name": "ממיר Loona טקסט לבינארי",
   "short_name": "ממיר טקסט לבינארי",
   "description": "המירו טקסט לבינארי: כל תו כקבוצות בינאריות של 8 סיביות של בתי ה-UTF-8 שלו. ממיר מקוון בחינם.",
-  "id": "/loona-dev-tools/he/text-to-binary/",
+  "id": "/he/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

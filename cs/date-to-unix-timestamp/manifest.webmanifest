@@ -2,7 +2,7 @@
   "name": "Převodník Loona data na unixové časové razítko",
   "short_name": "Datum na unixové časové razítko",
   "description": "Převeďte datum a čas na jeho unixové časové razítko v sekundách a milisekundách, v UTC nebo vašem místním časovém pásmu.",
-  "id": "/loona-dev-tools/cs/date-to-unix-timestamp/",
+  "id": "/cs/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

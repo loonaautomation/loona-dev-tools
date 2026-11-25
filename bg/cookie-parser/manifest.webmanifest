@@ -2,7 +2,7 @@
   "name": "Парсър на заглавие Cookie на Loona",
   "short_name": "Парсър на заглавие Cookie",
   "description": "Анализирайте заглавие Cookie в четим списък: двойки име = стойност, показани процентно декодирани стойности, брой бисквитки.",
-  "id": "/loona-dev-tools/bg/cookie-parser/",
+  "id": "/bg/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

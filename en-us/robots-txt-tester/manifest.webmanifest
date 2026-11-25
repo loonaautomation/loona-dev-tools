@@ -2,7 +2,7 @@
   "name": "Loona Robots.txt Tester - Allowed or Blocked, and Exactly Why",
   "short_name": "Robots.txt Tester - Allowed or Blocked, and Exactly Why",
   "description": "Test a robots.txt online for free - paste the file, a URL and a user-agent, and get an allowed or blocked verdict with the exact matching rule shown. No sign-up, runs in your browser.",
-  "id": "/loona-dev-tools/en-us/robots-txt-tester/",
+  "id": "/en-us/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

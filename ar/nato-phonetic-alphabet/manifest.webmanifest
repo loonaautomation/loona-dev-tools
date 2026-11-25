@@ -2,7 +2,7 @@
   "name": "Loona مترجم أبجدية NATO الصوتية (نص",
   "short_name": "أبجدية NATO الصوتية",
   "description": "هجّئ النص في أبجدية NATO الصوتية: A = Alfa، B = Bravo... يشمل الأرقام. يستخدمه الطيران والجيش ومكالمات الدعم.",
-  "id": "/loona-dev-tools/ar/nato-phonetic-alphabet/",
+  "id": "/ar/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

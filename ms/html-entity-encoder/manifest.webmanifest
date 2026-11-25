@@ -2,7 +2,7 @@
   "name": "Loona Pengekod & Penyahkod Entitas HTML Dalam Talian Percuma",
   "short_name": "Pengekod & Penyahkod Entitas HTML",
   "description": "Encode teks menjadi entitas HTML (bernama seperti &amp;copy; atau bernombor seperti &amp;#169;) dan nyahkod entitas kembali ke teks polos. Percuma, tanpa pendaftaran, di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/html-entity-encoder/",
+  "id": "/ms/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

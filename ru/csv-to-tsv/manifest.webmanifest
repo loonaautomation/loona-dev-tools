@@ -2,7 +2,7 @@
   "name": "Loona Конвертер CSV в TSV",
   "short_name": "Конвертер CSV в TSV",
   "description": "Преобразуйте CSV в TSV (значения, разделённые табуляцией): полный разбор полей в кавычках, табуляции как разделители. Бесплатный онлайн-конвертер.",
-  "id": "/loona-dev-tools/ru/csv-to-tsv/",
+  "id": "/ru/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

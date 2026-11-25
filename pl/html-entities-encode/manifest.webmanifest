@@ -2,7 +2,7 @@
   "name": "Loona Koder encji HTML",
   "short_name": "Koder encji HTML",
   "description": "Koduj znaki specjalne jako encje HTML: nazwane (&copy;), dziesiętne lub szesnastkowe odwołania liczbowe. Escapuje znaczniki, cudzysłowy i tekst spoza ASCII.",
-  "id": "/loona-dev-tools/pl/html-entities-encode/",
+  "id": "/pl/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

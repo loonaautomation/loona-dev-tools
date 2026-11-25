@@ -2,7 +2,7 @@
   "name": "Loona JSON→Markdown表変換ツール",
   "short_name": "JSON→Markdown表",
   "description": "オブジェクトのJSON配列をMarkdown表に変換：キーから列を作り、パイプはエスケープされ、READMEに貼り付ける準備が整います。",
-  "id": "/loona-dev-tools/ja/json-to-markdown-table/",
+  "id": "/ja/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kilinganishaji cha Toleo la Kisemantiki",
   "short_name": "Kilinganishaji cha Toleo la Kisemantiki",
   "description": "Thibitisha na linganisha matoleo ya kimaana (MAJOR.MINOR.PATCH): ni lipi jipya zaidi, na ni aina gani ya mabadiliko inayoyatenganisha.",
-  "id": "/loona-dev-tools/sw/semver-comparator/",
+  "id": "/sw/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

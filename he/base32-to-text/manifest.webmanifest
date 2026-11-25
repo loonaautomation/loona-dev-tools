@@ -2,7 +2,7 @@
   "name": "מפענח Loona Base32 לטקסט",
   "short_name": "מפענח Base32 לטקסט",
   "description": "פענחו Base32 ‏(RFC 4648) בחזרה לטקסט — לא רגיש לאותיות, ריפוד אופציונלי. שחזרו מחרוזות מקודדות בסגנון TOTP.",
-  "id": "/loona-dev-tools/he/base32-to-text/",
+  "id": "/he/base32-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

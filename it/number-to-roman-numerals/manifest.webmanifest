@@ -2,7 +2,7 @@
   "name": "Loona Da numeri a numeri romani",
   "short_name": "Da numeri a numeri romani",
   "description": "Converti numeri (1–3999) in numeri romani in forma sottrattiva standard. Convertitore online gratuito.",
-  "id": "/loona-dev-tools/it/number-to-roman-numerals/",
+  "id": "/it/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

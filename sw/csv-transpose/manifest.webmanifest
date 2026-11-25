@@ -2,7 +2,7 @@
   "name": "Loona Kigeuzaji Mkao cha CSV Bure Mtandaoni",
   "short_name": "Kigeuzaji Mkao cha CSV Bure Mtandaoni",
   "description": "Geuza Mkao CSV mtandaoni bure - badilisha safu mlalo na safu wima kwa kichanganua sahihi cha RFC 4180 kinachoshughulikia sehemu zilizonukuliwa kwa usahihi. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/csv-transpose/",
+  "id": "/sw/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

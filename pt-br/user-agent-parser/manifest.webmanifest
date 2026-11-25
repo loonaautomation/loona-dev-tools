@@ -2,7 +2,7 @@
   "name": "Loona Analisador de Strings User Agent",
   "short_name": "Analisador de Strings User Agent",
   "description": "Analise uma string User-Agent do navegador para navegador, motor, SO e tipo de dispositivo com um analisador transparente baseado em regras.",
-  "id": "/loona-dev-tools/pt-br/user-agent-parser/",
+  "id": "/pt-br/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

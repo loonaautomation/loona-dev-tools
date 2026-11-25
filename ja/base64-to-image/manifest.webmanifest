@@ -2,7 +2,7 @@
   "name": "Loona Base64→画像変換ツール",
   "short_name": "Base64→画像変換ツール",
   "description": "Base64文字列や data URI を、表示可能でダウンロード可能な画像にデコードして戻します。MIMEタイプはバイトから検出されます。",
-  "id": "/loona-dev-tools/ja/base64-to-image/",
+  "id": "/ja/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

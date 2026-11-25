@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια JSON σε Σχήμα JSON",
   "short_name": "Γεννήτρια JSON σε Σχήμα JSON",
   "description": "Δημιουργήστε ένα Σχήμα JSON (προσχέδιο 2020-12) από ένα δείγμα JSON: τύποι συναγόμενοι, ιδιότητες αντικειμένων και υποχρεωτικά κλειδιά συμπεριλαμβανόμενα.",
-  "id": "/loona-dev-tools/el/json-to-json-schema/",
+  "id": "/el/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

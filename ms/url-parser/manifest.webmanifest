@@ -2,7 +2,7 @@
   "name": "Loona Penghurai URL Dalam Talian Percuma",
   "short_name": "Penghurai URL Dalam Talian Percuma",
   "description": "Parse URL apa pun dalam talian percuma menjadi protokol, host, port, path, parameter kueri, dan hash - edit parameter dan bangun ulang URL. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/url-parser/",
+  "id": "/ms/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

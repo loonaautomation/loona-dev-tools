@@ -2,7 +2,7 @@
   "name": "Loona E-mail-validator online gratis",
   "short_name": "E-mail-validator online gratis",
   "description": "Validér e-mailadresser online gratis, én eller i bulk - fulde syntakstjek mod adressereglerne plus detektion af almindelige domænestavefejl som gmial.com. Ingen tilmelding.",
-  "id": "/loona-dev-tools/da/email-validator/",
+  "id": "/da/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

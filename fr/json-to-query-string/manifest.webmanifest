@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona JSON vers chaîne de requête",
   "short_name": "Convertisseur JSON vers chaîne de requête",
   "description": "Construisez une chaîne de requête d’URL à partir d’un objet JSON : les objets imbriqués utilisent la notation entre crochets, les tableaux répètent la clé, le tout encodé en pourcentage.",
-  "id": "/loona-dev-tools/fr/json-to-query-string/",
+  "id": "/fr/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ελεγκτής Αναγνωσιμότητας SEO Διαδικτυακά Δωρεάν",
   "short_name": "Ελεγκτής Αναγνωσιμότητας SEO",
   "description": "Ελέγξτε την αναγνωσιμότητα περιεχομένου για SEO διαδικτυακά δωρεάν - βαθμολογίες Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG και ARI συν στατιστικά μήκους προτάσεων για διαδικτυακά κείμενα. Χωρίς εγγραφή.",
-  "id": "/loona-dev-tools/el/readability-checker/",
+  "id": "/el/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

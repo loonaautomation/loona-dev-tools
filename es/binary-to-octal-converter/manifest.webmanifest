@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de binario a octal",
   "short_name": "Convertidor de binario a octal",
   "description": "Convierte números binarios a octal en línea: precisión arbitraria (BigInt), números negativos admitidos.",
-  "id": "/loona-dev-tools/es/binary-to-octal-converter/",
+  "id": "/es/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

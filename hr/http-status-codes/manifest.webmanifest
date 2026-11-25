@@ -2,7 +2,7 @@
   "name": "Loona priručnik HTTP statusnih kodova",
   "short_name": "Priručnik HTTP statusnih kodova",
   "description": "Svaki uobičajeni HTTP statusni kod sa svojim značenjem: 2xx uspjeh, 3xx preusmjeravanja, 4xx pogreške klijenta, 5xx pogreške poslužitelja — objašnjeno jednostavno.",
-  "id": "/loona-dev-tools/hr/http-status-codes/",
+  "id": "/hr/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

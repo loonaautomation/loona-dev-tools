@@ -2,7 +2,7 @@
   "name": "Loona XML سے YAML کنورٹر",
   "short_name": "XML سے YAML کنورٹر",
   "description": "XML کو YAML میں بدلیں: خصوصیات @keys کے طور پر، دہرائے گئے عناصر فہرستوں کے طور پر، قدروں کی اقسام مقرر۔ اصل پارسر، regex نہیں۔",
-  "id": "/loona-dev-tools/ur/xml-to-yaml/",
+  "id": "/ur/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

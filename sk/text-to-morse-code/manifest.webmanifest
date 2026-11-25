@@ -2,7 +2,7 @@
   "name": "Prekladač Loona textu na Morseovu abecedu",
   "short_name": "Prekladač textu na Morseovu abecedu",
   "description": "Preložte text do Morseovej abecedy (písmená, číslice a bežná interpunkcia), slová oddelené /. Bezplatný prekladač Morseovej abecedy.",
-  "id": "/loona-dev-tools/sk/text-to-morse-code/",
+  "id": "/sk/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

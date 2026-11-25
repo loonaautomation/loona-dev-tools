@@ -2,7 +2,7 @@
   "name": "Loona Anlamsal Sürüm Karşılaştırıcı",
   "short_name": "Anlamsal Sürüm Karşılaştırıcı",
   "description": "Anlamsal sürümleri doğrulayın ve karşılaştırın (MAJOR.MINOR.PATCH): hangisi daha yeni ve onları ne tür bir değişiklik ayırır.",
-  "id": "/loona-dev-tools/tr/semver-comparator/",
+  "id": "/tr/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

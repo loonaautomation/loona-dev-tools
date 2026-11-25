@@ -2,7 +2,7 @@
   "name": "Loona 二进制转十进制转换器",
   "short_name": "二进制转十进制转换器",
   "description": "在线把二进制数转换成十进制——任意精度（BigInt），支持负数。",
-  "id": "/loona-dev-tools/zh/binary-to-decimal-converter/",
+  "id": "/zh/binary-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

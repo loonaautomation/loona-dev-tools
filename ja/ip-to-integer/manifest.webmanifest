@@ -2,7 +2,7 @@
   "name": "Loona IPアドレス→整数変換ツール",
   "short_name": "IPアドレスから整数へ",
   "description": "IPv4アドレスを、その32ビット整数形式に変換します（192.168.0.1 → 3232235521）。データベースや範囲チェックで使われます。",
-  "id": "/loona-dev-tools/ja/ip-to-integer/",
+  "id": "/ja/ip-to-integer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

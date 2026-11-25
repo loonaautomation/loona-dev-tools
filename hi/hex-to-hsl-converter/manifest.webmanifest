@@ -2,7 +2,7 @@
   "name": "Loona HEX से HSL कन्वर्टर",
   "short_name": "HEX से HSL कन्वर्टर",
   "description": "रंगों को HEX से HSL में ऑनलाइन बदलें, एक live swatch के साथ और सभी अन्य formats (HEX, RGB, HSL, HSV, CMYK) भी दिखाए गए।",
-  "id": "/loona-dev-tools/hi/hex-to-hsl-converter/",
+  "id": "/hi/hex-to-hsl-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

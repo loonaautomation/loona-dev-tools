@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Κατακερματισμού MD5",
   "short_name": "Γεννήτρια Κατακερματισμού MD5",
   "description": "Υπολογίστε hash MD5 κειμένου ή αρχείων διαδικτυακά: 128-bit, 32 δεκαεξαδικοί χαρακτήρες. Εκτελείται τοπικά στο πρόγραμμα περιήγησής σας με WebCrypto/καθαρή JS — τα αρχεία δεν μεταφορτώνονται ποτέ.",
-  "id": "/loona-dev-tools/el/md5-hash-generator/",
+  "id": "/el/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

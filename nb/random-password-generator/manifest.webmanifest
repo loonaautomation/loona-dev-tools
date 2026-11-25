@@ -2,7 +2,7 @@
   "name": "Loona tilfeldig passordgenerator",
   "short_name": "Tilfeldig passordgenerator",
   "description": "Generer sterke tilfeldige passord i nettleseren din med WebCrypto API: lengde og tegnsett justerbare, entropi vist.",
-  "id": "/loona-dev-tools/nb/random-password-generator/",
+  "id": "/nb/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

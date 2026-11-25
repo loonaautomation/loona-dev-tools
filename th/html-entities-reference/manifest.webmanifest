@@ -2,7 +2,7 @@
   "name": "Loona ตารางข้อมูลอ้างอิง HTML Entities",
   "short_name": "ตารางข้อมูลอ้างอิง HTML Entities",
   "description": "ตาราง entity HTML ที่จำเป็น: entity แบบมีชื่อ ตัวอักษร รหัสทศนิยม และบันทึกการใช้งานสำหรับ entity ที่นักพัฒนาใช้จริง",
-  "id": "/loona-dev-tools/th/html-entities-reference/",
+  "id": "/th/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

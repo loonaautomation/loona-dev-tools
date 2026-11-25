@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ-filextraherare online gratis",
   "short_name": "TAR.GZ-filextraherare Online",
   "description": "Öppna tar.gz-arkiv direkt i din webbläsare - både .tar.gz och det korta .tgz-namnet - se varje fil inuti och ladda ner enstaka filer eller allt som en ZIP. Ingenting laddas upp.",
-  "id": "/loona-dev-tools/sv/tar-gz-file-extractor/",
+  "id": "/sv/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

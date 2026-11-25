@@ -2,7 +2,7 @@
   "name": "Loona pretvarač JSON u TypeScript sučelje",
   "short_name": "JSON u TypeScript sučelje",
   "description": "Pretvorite JSON u TypeScript sučelja na mreži: ugniježđeni objekti postaju imenovana sučelja, polja objekata spajaju svoje ključeve s označenim neobveznim poljima.",
-  "id": "/loona-dev-tools/hr/json-to-typescript/",
+  "id": "/hr/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

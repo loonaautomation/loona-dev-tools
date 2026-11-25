@@ -2,7 +2,7 @@
   "name": "Loona hexadecimaal naar octaal-converter",
   "short_name": "Hexadecimaal naar octaal-converter",
   "description": "Converteer hexadecimale getallen online naar octaal — willekeurige precisie (BigInt), negatieve getallen ondersteund.",
-  "id": "/loona-dev-tools/nl/hex-to-octal-converter/",
+  "id": "/nl/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

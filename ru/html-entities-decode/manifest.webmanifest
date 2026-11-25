@@ -2,7 +2,7 @@
   "name": "Loona Декодировщик HTML-сущностей",
   "short_name": "Декодировщик HTML-сущностей",
   "description": "Декодируйте HTML-сущности обратно в обычные символы: поддерживаются именованные, десятичные и шестнадцатеричные ссылки (&copy;, &#169;, &#xA9;).",
-  "id": "/loona-dev-tools/ru/html-entities-decode/",
+  "id": "/ru/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

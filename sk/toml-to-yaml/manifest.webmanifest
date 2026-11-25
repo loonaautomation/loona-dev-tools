@@ -2,7 +2,7 @@
   "name": "Prevodník Loona TOML na YAML",
   "short_name": "Prevodník TOML na YAML",
   "description": "Preveďte TOML na YAML online: tabuľky sa stávajú vnorenými mapovaniami, tabuľky polí zoznamami objektov.",
-  "id": "/loona-dev-tools/sk/toml-to-yaml/",
+  "id": "/sk/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

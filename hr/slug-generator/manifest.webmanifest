@@ -2,7 +2,7 @@
   "name": "Loona generator slugova (alat za URL slugove)",
   "short_name": "Generator slugova (URL slug",
   "description": "Generirajte čiste URL slugove iz naslova: naglasci uklonjeni, mala slova, razmaci u crtice (ili podvlake). Besplatni alat za slugove.",
-  "id": "/loona-dev-tools/hr/slug-generator/",
+  "id": "/hr/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

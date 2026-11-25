@@ -2,7 +2,7 @@
   "name": "Bảng tham khảo thực thể HTML của Loona",
   "short_name": "Bảng tham khảo thực thể HTML",
   "description": "Bảng thực thể HTML thiết yếu: thực thể dạng tên, ký tự, mã thập phân và ghi chú sử dụng cho các thực thể các nhà phát triển thực sự dùng.",
-  "id": "/loona-dev-tools/vi/html-entities-reference/",
+  "id": "/vi/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

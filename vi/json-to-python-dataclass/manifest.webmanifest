@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi JSON sang Python Dataclass của Loona",
   "short_name": "JSON sang Python Dataclass",
   "description": "Chuyển đổi JSON sang Python dataclass với gợi ý kiểu: các đối tượng lồng nhau trở thành dataclass lồng nhau, kiểu List cho mảng.",
-  "id": "/loona-dev-tools/vi/json-to-python-dataclass/",
+  "id": "/vi/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

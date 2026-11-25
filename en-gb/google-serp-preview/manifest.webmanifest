@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/google-serp-preview/",
+  "id": "/en-gb/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

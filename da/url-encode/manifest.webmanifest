@@ -2,7 +2,7 @@
   "name": "Loona URL-kodning (procentkodning)",
   "short_name": "URL-kodning (procentkodning)",
   "description": "Procentkod tekst eller en fuld URL online: mellemrum bliver til %20, reserverede tegn escapes efter RFC 3986. Komponent- eller fuld URL-tilstand.",
-  "id": "/loona-dev-tools/da/url-encode/",
+  "id": "/da/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

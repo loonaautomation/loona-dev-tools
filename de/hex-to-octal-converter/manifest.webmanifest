@@ -2,7 +2,7 @@
   "name": "Loona Hexadezimal-zu-Oktal-Konverter",
   "short_name": "Hexadezimal-zu-Oktal-Konverter",
   "description": "Konvertieren Sie Hexadezimalzahlen online zu Oktal — beliebige Genauigkeit (BigInt), negative Zahlen unterstützt.",
-  "id": "/loona-dev-tools/de/hex-to-octal-converter/",
+  "id": "/de/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

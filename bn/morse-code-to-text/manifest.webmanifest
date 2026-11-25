@@ -2,7 +2,7 @@
   "name": "Loona Morse কোড থেকে টেক্সট অনুবাদক",
   "short_name": "Morse কোড থেকে টেক্সট অনুবাদক",
   "description": "Morse কোড আবার টেক্সটে ডিকোড করুন: বিন্দু ও ড্যাশ পেস্ট করুন (অক্ষর স্পেস-আলাদা, শব্দের মধ্যে /) এবং বার্তা পড়ুন।",
-  "id": "/loona-dev-tools/bn/morse-code-to-text/",
+  "id": "/bn/morse-code-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

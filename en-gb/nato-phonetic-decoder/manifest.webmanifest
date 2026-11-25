@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/nato-phonetic-decoder/",
+  "id": "/en-gb/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

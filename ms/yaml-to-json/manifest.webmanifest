@@ -2,7 +2,7 @@
   "name": "Loona Penukar YAML ke JSON",
   "short_name": "Penukar YAML ke JSON",
   "description": "Penukaran YAML ke JSON dalam talian: pemetaan blok dan urutan, skalar dikutip dan polos, koleksi flow. Subset didokumentasikan dengan jujur.",
-  "id": "/loona-dev-tools/ms/yaml-to-json/",
+  "id": "/ms/yaml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

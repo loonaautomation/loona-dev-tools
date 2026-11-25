@@ -2,7 +2,7 @@
   "name": "Loona Kichanganua Kichwa cha Kidakuzi",
   "short_name": "Kichanganuaji cha Kichwa cha Cookie",
   "description": "Changanua kichwa cha Cookie kuwa orodha inayosomeka: jozi za name = value, thamani zilizosimbuwa kwa asilimia huonyeshwa, hesabu ya vidakuzi.",
-  "id": "/loona-dev-tools/sw/cookie-parser/",
+  "id": "/sw/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

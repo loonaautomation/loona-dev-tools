@@ -2,7 +2,7 @@
   "name": "Конвертер Loona TSV у CSV",
   "short_name": "Конвертер TSV у CSV",
   "description": "Конвертуйте TSV (значення, розділені табуляцією) у CSV: вставте дані, скопійовані з Excel або Sheets, і отримайте CSV із належними лапками.",
-  "id": "/loona-dev-tools/uk/tsv-to-csv/",
+  "id": "/uk/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rem을 픽셀(px)로 변환",
   "short_name": "Rem을 픽셀(px)로 변환",
   "description": "조정 가능한 기본 글꼴 크기(기본값 16px)와 일반적인 값의 표로 rem을 px로 변환해요.",
-  "id": "/loona-dev-tools/ko/rem-to-px-converter/",
+  "id": "/ko/rem-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JWT-kooderi (HS256-allekirjoittaja)",
   "short_name": "JWT-kooderi (HS256-allekirjoittaja)",
   "description": "Luo ja allekirjoita JSON Web Tokeneja HS256:lla selaimessasi: sisällön JSON sekä salaisuus, tai alg=none. WebCrypto-allekirjoitus.",
-  "id": "/loona-dev-tools/fi/jwt-encoder/",
+  "id": "/fi/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

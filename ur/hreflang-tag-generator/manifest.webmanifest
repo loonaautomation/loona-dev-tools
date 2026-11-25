@@ -2,7 +2,7 @@
   "name": "Loona Hreflang ٹیگ جنریٹر آن لائن مفت",
   "short_name": "Hreflang ٹیگ جنریٹر آن لائن",
   "description": "hreflang ٹیگز آن لائن مفت بنائیں - زبان اور URL جوڑے پیسٹ کریں، ایک x-default شامل کریں، اور BCP 47 اور مطلق-URL جانچ کے ساتھ مکمل متبادل لنک سیٹ پائیں۔ کوئی سائن اپ نہیں۔",
-  "id": "/loona-dev-tools/ur/hreflang-tag-generator/",
+  "id": "/ur/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

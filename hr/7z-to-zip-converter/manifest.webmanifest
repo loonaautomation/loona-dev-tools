@@ -2,7 +2,7 @@
   "name": "Loona pretvarač 7Z u ZIP na mreži besplatno",
   "short_name": "Pretvarač 7Z u ZIP na mreži",
   "description": "Pretvorite 7Z arhivu (.7z) u standardnu ZIP datoteku izravno u vašem pregledniku. Struktura mapa očuvana, ništa se ne prenosi - a dobiveni ZIP izvorno se otvara na Windowsu, macOS-u, Androidu i iPhoneu, 7-Zip nije potreban.",
-  "id": "/loona-dev-tools/hr/7z-to-zip-converter/",
+  "id": "/hr/7z-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Công cụ giải nén tệp ISO trực tuyến miễn phí của Loona",
   "short_name": "Công cụ giải nén tệp ISO trực tuyến miễn phí",
   "description": "Mở các ảnh đĩa ISO ngay trong trình duyệt của bạn - duyệt hệ thống tệp được lưu trữ trên đĩa ảo và tải xuống các tệp đơn lẻ hoặc mọi thứ dưới dạng ZIP. Không có gì được tải lên.",
-  "id": "/loona-dev-tools/vi/iso-file-extractor/",
+  "id": "/vi/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

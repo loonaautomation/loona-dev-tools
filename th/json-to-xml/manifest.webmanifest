@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง JSON เป็น XML",
   "short_name": "ตัวแปลง JSON เป็น XML",
   "description": "แปลง JSON เป็น XML ออนไลน์พร้อมองค์ประกอบรูตที่ปรับแต่งได้: อาร์เรย์กลายเป็นองค์ประกอบที่ซ้ำกัน @keys กลายเป็นแอตทริบิวต์",
-  "id": "/loona-dev-tools/th/json-to-xml/",
+  "id": "/th/json-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

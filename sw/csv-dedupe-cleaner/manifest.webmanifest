@@ -2,7 +2,7 @@
   "name": "Loona Kiondoa Rudufu na Kisafishaji cha CSV Bure Mtandaoni",
   "short_name": "Kiondoa Rudufu na Kisafishaji cha CSV Mtandaoni",
   "description": "Ondoa safu mlalo zilizorudiwa kutoka CSV mtandaoni bure - kwa safu mlalo nzima au kwa safu wima za ufunguo - pamoja na kupunguza nafasi nyeupe, kuondoa safu mlalo tupu na kusawazisha miisho ya mistari, kwa hesabu za kabla/baada. Bila kujisajili.",
-  "id": "/loona-dev-tools/sw/csv-dedupe-cleaner/",
+  "id": "/sw/csv-dedupe-cleaner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

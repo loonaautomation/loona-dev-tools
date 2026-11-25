@@ -2,7 +2,7 @@
   "name": "Loona Конвертер шестнадцатеричного кода в текст",
   "short_name": "Конвертер Hex в текст",
   "description": "Преобразуйте шестнадцатеричный код обратно в текст: вставьте hex-байты (с пробелами или слитно, с 0x или без) и прочитайте текст в UTF-8.",
-  "id": "/loona-dev-tools/ru/hex-to-text/",
+  "id": "/ru/hex-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

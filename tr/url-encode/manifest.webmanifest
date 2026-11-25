@@ -2,7 +2,7 @@
   "name": "Loona URL Kodlama (Yüzde Kodlama)",
   "short_name": "URL Kodlama (Yüzde Kodlama)",
   "description": "Metni veya tam bir URL değerini çevrimiçi yüzde kodlayın: boşluklar %20 olur, ayrılmış karakterler RFC 3986 başına kaçışlanır. Bileşen veya tam URL modu.",
-  "id": "/loona-dev-tools/tr/url-encode/",
+  "id": "/tr/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

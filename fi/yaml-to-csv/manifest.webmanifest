@@ -2,7 +2,7 @@
   "name": "Loona YAML-CSV-muunnin",
   "short_name": "YAML-CSV-muunnin",
   "description": "Muunna YAML-objektiluettelo CSV-taulukoksi: avainten yhdiste sarakkeina, sisäkkäiset arvot sarjoitettuna JSON:ina solussaan.",
-  "id": "/loona-dev-tools/fi/yaml-to-csv/",
+  "id": "/fi/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

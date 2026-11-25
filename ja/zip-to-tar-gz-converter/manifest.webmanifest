@@ -2,7 +2,7 @@
   "name": "Loona ZIP→TAR.GZ変換ツール 無料オンライン",
   "short_name": "ZIP→TAR.GZ変換ツール",
   "description": "ZIPアーカイブを、ブラウザの中でそのまま TAR.GZ tarball（.tar.gz）に変換 — Linuxサーバー、Docker、ビルドツールが想定する形式。フォルダ構造は保持され、何もアップロードされません。",
-  "id": "/loona-dev-tools/ja/zip-to-tar-gz-converter/",
+  "id": "/ja/zip-to-tar-gz-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

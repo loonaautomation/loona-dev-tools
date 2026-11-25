@@ -2,7 +2,7 @@
   "name": "Loona HTML 壓縮工具",
   "short_name": "HTML 壓縮工具",
   "description": "線上壓縮 HTML：移除註釋並摺疊空白，同時保護 pre、textarea、script 和 style 的內容。",
-  "id": "/loona-dev-tools/zh-hant/html-minifier/",
+  "id": "/zh-hant/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

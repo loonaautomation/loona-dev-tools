@@ -2,7 +2,7 @@
   "name": "Декодиране на JWT на Loona онлайн безплатно",
   "short_name": "Декодиране на JWT онлайн безплатно",
   "description": "Декодирайте безплатно онлайн JSON Web Token - прочетете заглавието и полезния товар като красив JSON и вижте изтичането с обикновени думи. Подписът НЕ е проверен. В браузъра ви.",
-  "id": "/loona-dev-tools/bg/jwt-decoder/",
+  "id": "/bg/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

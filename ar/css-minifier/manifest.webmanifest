@@ -2,7 +2,7 @@
   "name": "Loona مصغّر CSS عبر الإنترنت مجاناً",
   "short_name": "مصغّر CSS عبر الإنترنت مجاناً",
   "description": "صغّر CSS عبر الإنترنت مجاناً واطّلع بالضبط كم يصغر، أو جمّل CSS المصغّر عودة إلى كود قابل للقراءة. دون تسجيل، يعمل 100% في متصفحك.",
-  "id": "/loona-dev-tools/ar/css-minifier/",
+  "id": "/ar/css-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

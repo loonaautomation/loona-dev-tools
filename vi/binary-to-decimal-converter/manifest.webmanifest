@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi nhị phân sang thập phân của Loona",
   "short_name": "Công cụ chuyển đổi nhị phân sang thập phân",
   "description": "Chuyển đổi số nhị phân sang thập phân trực tuyến — độ chính xác tùy ý (BigInt), hỗ trợ số âm.",
-  "id": "/loona-dev-tools/vi/binary-to-decimal-converter/",
+  "id": "/vi/binary-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

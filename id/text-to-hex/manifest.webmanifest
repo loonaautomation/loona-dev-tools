@@ -2,7 +2,7 @@
   "name": "Loona Konverter Teks ke Heks",
   "short_name": "Konverter Teks ke Hex",
   "description": "Konversi teks ke heksadesimal (byte UTF-8) online, dengan atau tanpa spasi antar byte. Konverter pengembang gratis.",
-  "id": "/loona-dev-tools/id/text-to-hex/",
+  "id": "/id/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Cron-udtryksgenerator online gratis",
   "short_name": "Cron-udtryksgenerator",
   "description": "Byg cron-udtryk ud fra rullemenuer, og få ethvert cron-udtryk med 5 felter forklaret på almindeligt dansk, online gratis. Ingen tilmelding, kører 100% i din browser.",
-  "id": "/loona-dev-tools/da/cron-expression-generator/",
+  "id": "/da/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

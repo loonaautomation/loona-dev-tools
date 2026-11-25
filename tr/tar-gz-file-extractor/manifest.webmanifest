@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ Dosya Çıkarıcı Çevrimiçi Ücretsiz",
   "short_name": "TAR.GZ Dosya Çıkarıcı Çevrimiçi",
   "description": "tar.gz arşivlerini tarayıcınızda açın - hem .tar.gz hem kısa .tgz adı - içindeki her dosyayı görün ve tek dosyaları veya hepsini bir ZIP olarak indirin. Hiçbir şey yüklenmez.",
-  "id": "/loona-dev-tools/tr/tar-gz-file-extractor/",
+  "id": "/tr/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

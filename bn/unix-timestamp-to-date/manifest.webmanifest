@@ -2,7 +2,7 @@
   "name": "Loona Unix টাইমস্ট্যাম্প থেকে তারিখ কনভার্টার",
   "short_name": "Unix টাইমস্ট্যাম্প থেকে তারিখ",
   "description": "একটি Unix টাইমস্ট্যাম্প (সেকেন্ড বা মিলিসেকেন্ড) একটি মানব তারিখে রূপান্তর করুন: UTC, আপনার স্থানীয় সময়, ISO 8601 ও আপেক্ষিক সময়।",
-  "id": "/loona-dev-tools/bn/unix-timestamp-to-date/",
+  "id": "/bn/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

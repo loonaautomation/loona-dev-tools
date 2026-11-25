@@ -2,7 +2,7 @@
   "name": "Loona TOML سے JSON کنورٹر",
   "short_name": "TOML سے JSON کنورٹر",
   "description": "TOML کو JSON میں آن لائن بدلیں: tables, array tables, اسٹرنگز، اعداد، booleans, ارے اور datetimes (اسٹرنگز کے طور پر)۔",
-  "id": "/loona-dev-tools/ur/toml-to-json/",
+  "id": "/ur/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

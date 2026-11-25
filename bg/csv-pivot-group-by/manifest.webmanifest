@@ -2,7 +2,7 @@
   "name": "CSV Pivot и групиране на Loona онлайн безплатно",
   "short_name": "CSV Pivot и групиране онлайн",
   "description": "Пивотирайте CSV данни онлайн безплатно - групирайте редове по всяка колона и изчислявайте сума, брой, средно, минимум или максимум на колона със стойности. Без регистрация, работи 100% във вашия браузър.",
-  "id": "/loona-dev-tools/bg/csv-pivot-group-by/",
+  "id": "/bg/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

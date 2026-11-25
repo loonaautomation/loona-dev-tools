@@ -2,7 +2,7 @@
   "name": "Loona Base64 سے تصویر کنورٹر",
   "short_name": "Base64 سے تصویر کنورٹر",
   "description": "ایک Base64 اسٹرنگ یا data URI کو واپس قابل دید، قابل ڈاؤن لوڈ تصویر میں ڈی کوڈ کریں۔ MIME قسم بائٹس سے شناخت شدہ۔",
-  "id": "/loona-dev-tools/ur/base64-to-image/",
+  "id": "/ur/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

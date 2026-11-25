@@ -2,7 +2,7 @@
   "name": "Αριθμοί σε Ρωμαϊκούς Αριθμούς Loona",
   "short_name": "Αριθμοί σε Ρωμαϊκούς Αριθμούς",
   "description": "Μετατρέψτε αριθμούς (1–3999) σε ρωμαϊκούς αριθμούς σε τυπική αφαιρετική μορφή. Δωρεάν διαδικτυακός μετατροπέας.",
-  "id": "/loona-dev-tools/el/number-to-roman-numerals/",
+  "id": "/el/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Συγκριτής Σημασιολογικών Εκδόσεων",
   "short_name": "Συγκριτής Σημασιολογικών Εκδόσεων",
   "description": "Επικυρώστε και συγκρίνετε σημασιολογικές εκδόσεις (MAJOR.MINOR.PATCH): ποια είναι νεότερη, και τι είδους αλλαγή τις χωρίζει.",
-  "id": "/loona-dev-tools/el/semver-comparator/",
+  "id": "/el/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

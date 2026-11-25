@@ -2,7 +2,7 @@
   "name": "Loona منشئ بطاقات Open Graph وTwitter",
   "short_name": "‏Open Graph وبطاقة Twitter",
   "description": "أنشئ وسوم Open Graph وبطاقات Twitter الوصفية عبر الإنترنت مجاناً، مع معاينة حية للبطاقة الاجتماعية - العنوان، الوصف، الصورة، الرابط واسم الموقع. دون تسجيل، يعمل في متصفحك.",
-  "id": "/loona-dev-tools/ar/open-graph-generator/",
+  "id": "/ar/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

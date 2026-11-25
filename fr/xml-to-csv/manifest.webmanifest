@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona XML vers CSV",
   "short_name": "Convertisseur XML vers CSV",
   "description": "Convertissez le XML en CSV : les éléments répétés deviennent des lignes, leurs enfants et attributs deviennent des colonnes. Convertisseur en ligne gratuit.",
-  "id": "/loona-dev-tools/fr/xml-to-csv/",
+  "id": "/fr/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JSON-minimoija",
   "short_name": "JSON-minimoija",
   "description": "Minifioi JSON verkossa: poista kaikki merkityksetön välilyönti yhdeksi tiiviiksi riviksi, vahvistusvirheet ilmoitettuna tarkasti.",
-  "id": "/loona-dev-tools/fi/json-minifier/",
+  "id": "/fi/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

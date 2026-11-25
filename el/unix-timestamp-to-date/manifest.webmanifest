@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Χρονικής Σήμανσης Unix σε Ημερομηνία",
   "short_name": "Χρονική Σήμανση Unix σε Ημερομηνία",
   "description": "Μετατρέψτε μια χρονική σήμανση Unix (δευτερόλεπτα ή χιλιοστά) σε ανθρώπινη ημερομηνία: UTC, η τοπική σας ώρα, ISO 8601 και σχετικός χρόνος.",
-  "id": "/loona-dev-tools/el/unix-timestamp-to-date/",
+  "id": "/el/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

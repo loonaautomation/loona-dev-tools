@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง YAML เป็น TOML",
   "short_name": "ตัวแปลง YAML เป็น TOML",
   "description": "แปลง YAML เป็น TOML ออนไลน์ (ผ่านโมเดลข้อมูลร่วม): ตาราง ค่าสเกลาร์ และอาร์เรย์ถูกแมปตามกฎเลย์เอาต์ของ TOML",
-  "id": "/loona-dev-tools/th/yaml-to-toml/",
+  "id": "/th/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

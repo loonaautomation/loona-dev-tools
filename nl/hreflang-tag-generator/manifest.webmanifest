@@ -2,7 +2,7 @@
   "name": "Loona hreflang-tag-generator online gratis",
   "short_name": "Hreflang-tag-generator online",
   "description": "Genereer hreflang-tags online gratis - plak taal- en URL-paren, voeg een x-default toe, en krijg de volledige alternate-linkset met BCP 47- en absolute-URL-controles. Geen registratie.",
-  "id": "/loona-dev-tools/nl/hreflang-tag-generator/",
+  "id": "/nl/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

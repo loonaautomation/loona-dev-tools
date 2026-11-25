@@ -2,7 +2,7 @@
   "name": "Công cụ kiểm tra Robots.txt của Loona trực tuyến miễn phí",
   "short_name": "Công cụ kiểm tra Robots.txt trực tuyến miễn phí",
   "description": "Kiểm tra một robots.txt trực tuyến miễn phí - dán tệp, một URL và một user-agent, và nhận phán quyết được phép hoặc bị chặn với quy tắc khớp chính xác được hiển thị. Không đăng ký, chạy trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/robots-txt-tester/",
+  "id": "/vi/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

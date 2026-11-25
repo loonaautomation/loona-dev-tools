@@ -2,7 +2,7 @@
   "name": "Loona 关键词密度检查器 在线免费",
   "short_name": "关键词密度检查器",
   "description": "免费在线检查关键词密度——排名靠前的单个单词，外加 2 词和 3 词短语，带计数和百分比密度，包含停用词过滤。无需注册。",
-  "id": "/loona-dev-tools/zh/keyword-density-checker/",
+  "id": "/zh/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

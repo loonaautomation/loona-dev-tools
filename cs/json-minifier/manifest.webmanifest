@@ -2,7 +2,7 @@
   "name": "Minifikátor Loona JSON",
   "short_name": "Minifikátor JSON",
   "description": "Minifikujte JSON online: odstraňte všechny nevýznamné bílé znaky do jediného kompaktního řádku, s přesně hlášenými chybami ověření.",
-  "id": "/loona-dev-tools/cs/json-minifier/",
+  "id": "/cs/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

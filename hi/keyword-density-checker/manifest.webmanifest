@@ -2,7 +2,7 @@
   "name": "Loona Keyword Density चेकर ऑनलाइन मुफ़्त",
   "short_name": "Keyword Density चेकर",
   "description": "Keyword density ऑनलाइन मुफ़्त check करें — top single words साथ में counts और percentage density वाले 2-word और 3-word phrases, stopword filtering शामिल। कोई साइन-अप नहीं।",
-  "id": "/loona-dev-tools/hi/keyword-density-checker/",
+  "id": "/hi/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

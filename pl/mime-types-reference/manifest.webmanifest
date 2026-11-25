@@ -2,7 +2,7 @@
   "name": "Loona Materiały referencyjne typów MIME (Typy treści według",
   "short_name": "Materiały referencyjne typów MIME (Typy",
   "description": "Popularne typy MIME według rozszerzenia pliku: dokumenty, obrazy, audio, wideo, archiwa, czcionki i formaty internetowe wraz z ich wartościami Content-Type.",
-  "id": "/loona-dev-tools/pl/mime-types-reference/",
+  "id": "/pl/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Распаковщик архивных файлов онлайн бесплатно",
   "short_name": "Распаковщик архивных файлов онлайн",
   "description": "Один универсальный открыватель архивов: перетащите любой файл ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ или ISO и извлеките его содержимое прямо в вашем браузере. Формат определяется автоматически; ничего не загружается.",
-  "id": "/loona-dev-tools/ru/archive-file-extractor/",
+  "id": "/ru/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona محوّل JSON إلى واجهة TypeScript",
   "short_name": "JSON إلى واجهة TypeScript",
   "description": "حوّل JSON إلى واجهات TypeScript عبر الإنترنت: الكائنات المتداخلة تصبح واجهات مسمّاة، ومصفوفات الكائنات تدمج مفاتيحها مع حقول اختيارية معلّمة.",
-  "id": "/loona-dev-tools/ar/json-to-typescript/",
+  "id": "/ar/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

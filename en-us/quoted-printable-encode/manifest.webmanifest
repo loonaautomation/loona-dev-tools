@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable Encoder",
   "short_name": "Quoted-Printable Encoder",
   "description": "Encode text as quoted-printable (MIME) online: UTF-8 bytes as =XX escapes, soft line breaks at 76 characters, per RFC 2045.",
-  "id": "/loona-dev-tools/en-us/quoted-printable-encode/",
+  "id": "/en-us/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

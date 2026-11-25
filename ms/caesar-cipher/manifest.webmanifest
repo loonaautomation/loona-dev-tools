@@ -2,7 +2,7 @@
   "name": "Loona Pengekod & Penyahkod Sifer Caesar",
   "short_name": "Pengekod Sifer Caesar &",
   "description": "Sifer Caesar dengan anjakan apa pun (1–25) dan mod nyahkod: sifer penggantian klasik Julaius Caesar, dalam talian.",
-  "id": "/loona-dev-tools/ms/caesar-cipher/",
+  "id": "/ms/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

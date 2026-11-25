@@ -2,7 +2,7 @@
   "name": "Loona ROT13 انکوڈر اور ڈیکوڈر",
   "short_name": "ROT13 انکوڈر اور ڈیکوڈر",
   "description": "ROT13 کوئی متن: حروف کو 13 جگہوں سے گھمائیں۔ انکوڈنگ اور ڈی کوڈنگ ایک ہی عمل ہے۔ خراب کرنے والوں اور پہیلیوں کے لیے کلاسیکی۔",
-  "id": "/loona-dev-tools/ur/rot13-encoder/",
+  "id": "/ur/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

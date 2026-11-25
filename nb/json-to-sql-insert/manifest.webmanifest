@@ -2,7 +2,7 @@
   "name": "Loona JSON til SQL INSERT-generator",
   "short_name": "JSON til SQL INSERT-generator",
   "description": "Generer SQL INSERT-setninger fra en JSON-matrise av objekter: strenger escapet, NULL-er og boolere håndtert, egendefinert tabellnavn.",
-  "id": "/loona-dev-tools/nb/json-to-sql-insert/",
+  "id": "/nb/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

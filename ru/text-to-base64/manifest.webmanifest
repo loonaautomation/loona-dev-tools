@@ -2,7 +2,7 @@
   "name": "Loona Кодировщик текста в Base64",
   "short_name": "Кодировщик текста в Base64",
   "description": "Кодируйте текст в Base64 онлайн, безопасно для UTF-8 для любого языка и эмодзи, с необязательным алфавитом, безопасным для URL. Бесплатно, конфиденциально, в вашем браузере.",
-  "id": "/loona-dev-tools/ru/text-to-base64/",
+  "id": "/ru/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

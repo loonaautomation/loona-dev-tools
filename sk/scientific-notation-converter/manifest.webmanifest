@@ -2,7 +2,7 @@
   "name": "Prevodník vedeckej notácie Loona",
   "short_name": "Prevodník vedeckej notácie",
   "description": "Prevádzajte čísla do vedeckej notácie a z nej: 3200000 ⇄ 3.2 × 10^6, notácia E podporovaná oboma smermi.",
-  "id": "/loona-dev-tools/sk/scientific-notation-converter/",
+  "id": "/sk/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

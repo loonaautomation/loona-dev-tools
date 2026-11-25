@@ -2,7 +2,7 @@
   "name": "Loona Text से Binary कन्वर्टर",
   "short_name": "Text से Binary कन्वर्टर",
   "description": "Text को binary में बदलें: हर character उसके UTF-8 bytes के 8-bit binary groups के रूप में। मुफ़्त ऑनलाइन converter।",
-  "id": "/loona-dev-tools/hi/text-to-binary/",
+  "id": "/hi/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

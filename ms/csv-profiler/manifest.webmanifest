@@ -2,7 +2,7 @@
   "name": "Loona Profiler CSV Dalam Talian Percuma",
   "short_name": "Profiler CSV Dalam Talian Percuma",
   "description": "Profil fail CSV dalam talian percuma - tekaan tipe per lajur, jumlah sel kosong, jumlah nilai unik, min/maks numerik, dan nilai teratas, agar Anda memahami fail sebelum menggunakannya. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/ms/csv-profiler/",
+  "id": "/ms/csv-profiler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

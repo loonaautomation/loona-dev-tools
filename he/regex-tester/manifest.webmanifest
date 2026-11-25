@@ -2,7 +2,7 @@
   "name": "בודק Regex של Loona מקוון בחינם",
   "short_name": "בודק Regex מקוון בחינם",
   "description": "בדקו ביטויים רגולריים מקוון בחינם עם הדגשת התאמות חיה, פרטי קבוצות לכידה וספירת התאמות. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/regex-tester/",
+  "id": "/he/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

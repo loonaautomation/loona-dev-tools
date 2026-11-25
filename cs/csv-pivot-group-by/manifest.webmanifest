@@ -2,7 +2,7 @@
   "name": "Pivot a Seskupení Loona CSV online zdarma",
   "short_name": "Pivot a Seskupení CSV online",
   "description": "Pivotujte data CSV online zdarma - seskupujte řádky podle jakéhokoli sloupce a počítejte součet, počet, průměr, minimum nebo maximum sloupce hodnot. Bez registrace, běží 100% ve vašem prohlížeči.",
-  "id": "/loona-dev-tools/cs/csv-pivot-group-by/",
+  "id": "/cs/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

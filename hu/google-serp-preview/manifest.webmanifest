@@ -2,7 +2,7 @@
   "name": "Loona Google SERP előnézeti eszköz online ingyen",
   "short_name": "Google SERP előnézet eszköz",
   "description": "Tekintse meg előnézetben, hogyan fog kinézni az oldala címe és meta leírása a Google keresési találataiban online ingyen, asztali és mobil nézetekkel és képpontszélesség-csonkítási figyelmeztetésekkel. Nincs regisztráció.",
-  "id": "/loona-dev-tools/hu/google-serp-preview/",
+  "id": "/hu/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

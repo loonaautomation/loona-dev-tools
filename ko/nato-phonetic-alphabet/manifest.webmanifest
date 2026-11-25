@@ -2,7 +2,7 @@
   "name": "Loona NATO 음성 알파벳 번역기 (Text",
   "short_name": "NATO 음성 알파벳",
   "description": "NATO 음성 알파벳으로 텍스트의 철자를 말하세요: A = Alfa, B = Bravo... 숫자를 포함해요. 항공, 군사, 지원 통화에 사용돼요.",
-  "id": "/loona-dev-tools/ko/nato-phonetic-alphabet/",
+  "id": "/ko/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

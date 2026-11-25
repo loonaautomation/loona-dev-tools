@@ -2,7 +2,7 @@
   "name": "Loona CSS-Clip-Path-generaattori verkossa ilmaiseksi",
   "short_name": "CSS-leikkauspolkugeneraattori",
   "description": "Luo CSS clip-path verkossa ilmaiseksi - monikulmiomallit kuten tähti, kuusikulmio ja nuoli säädettävillä pisteillä, sekä ympyrä-, ellipsi- ja inset-muodot, elävällä esikatselulla. Ei rekisteröitymistä.",
-  "id": "/loona-dev-tools/fi/css-clip-path-generator/",
+  "id": "/fi/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

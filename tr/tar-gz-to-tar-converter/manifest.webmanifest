@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ - TAR Dönüştürücü",
   "short_name": "TAR.GZ - TAR Dönüştürücü",
   "description": "Düz TAR değerini almak için gzip katmanını bir .tar.gz / .tgz arşivinden sıyırın, çevrimiçi ve yerel olarak — çıkarma araçları gerekmez.",
-  "id": "/loona-dev-tools/tr/tar-gz-to-tar-converter/",
+  "id": "/tr/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

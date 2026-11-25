@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da esadecimale a decimale",
   "short_name": "Da esadecimale a decimale",
   "description": "Converti numeri esadecimali in decimale online — precisione arbitraria (BigInt), numeri negativi supportati.",
-  "id": "/loona-dev-tools/it/hex-to-decimal-converter/",
+  "id": "/it/hex-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

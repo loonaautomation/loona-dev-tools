@@ -2,7 +2,7 @@
   "name": "Loona Base58→テキストデコーダー",
   "short_name": "Base58→テキストデコーダー",
   "description": "Base58文字列をテキスト（UTF-8）にデコードして戻します。Bitcoinのアルファベットに対して検証し、無効な文字を報告します。",
-  "id": "/loona-dev-tools/ja/base58-to-text/",
+  "id": "/ja/base58-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

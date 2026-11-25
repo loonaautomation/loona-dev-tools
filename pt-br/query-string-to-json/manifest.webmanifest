@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Query String para JSON",
   "short_name": "Conversor de Query String para JSON",
   "description": "Analise uma query string de URL para JSON: a notação de parênteses retos torna-se objetos aninhados, chaves repetidas tornam-se arrays, valores tipados.",
-  "id": "/loona-dev-tools/pt-br/query-string-to-json/",
+  "id": "/pt-br/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

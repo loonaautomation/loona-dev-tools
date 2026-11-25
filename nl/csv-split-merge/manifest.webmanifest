@@ -2,7 +2,7 @@
   "name": "Loona CSV splitsen & samenvoegen online gratis",
   "short_name": "CSV splitsen & samenvoegen online gratis",
   "description": "Splits een CSV in delen op rijaantal of voeg meerdere CSV-bestanden samen tot één, online gratis - kopregels correct verwerkt, echte CSV-parsing. Geen registratie, draait 100% in je browser.",
-  "id": "/loona-dev-tools/nl/csv-split-merge/",
+  "id": "/nl/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

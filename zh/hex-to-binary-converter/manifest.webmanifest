@@ -2,7 +2,7 @@
   "name": "Loona 十六进制转二进制转换器",
   "short_name": "十六进制转二进制",
   "description": "在线把十六进制数转换成二进制——任意精度（BigInt），支持负数。",
-  "id": "/loona-dev-tools/zh/hex-to-binary-converter/",
+  "id": "/zh/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

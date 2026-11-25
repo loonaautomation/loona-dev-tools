@@ -2,7 +2,7 @@
   "name": "Loona CSV megjelenítő és szerkesztő online ingyen",
   "short_name": "CSV megjelenítő és szerkesztő online",
   "description": "CSV fájlok megtekintése és szerkesztése online ingyen egy szerkeszthető táblázatrácsban - szerkessze a cellákat, rendezze az oszlopokat, adjon hozzá vagy távolítson el sorokat és oszlopokat, majd töltse le a szerkesztett CSV-t. Nincs regisztráció, a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/csv-viewer-editor/",
+  "id": "/hu/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

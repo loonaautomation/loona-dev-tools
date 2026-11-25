@@ -2,7 +2,7 @@
   "name": "Loona Konverter Tabel Markdown ke CSV",
   "short_name": "Tabel Markdown ke CSV",
   "description": "Konversi tabel Markdown ke CSV: header dan baris diekstrak, baris perataan dihapus, sel dipangkas dan dikutip dengan benar.",
-  "id": "/loona-dev-tools/id/markdown-table-to-csv/",
+  "id": "/id/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

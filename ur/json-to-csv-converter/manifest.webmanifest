@@ -2,7 +2,7 @@
   "name": "Loona JSON سے CSV کنورٹر آن لائن مفت",
   "short_name": "JSON سے CSV کنورٹر آن لائن",
   "description": "آبجیکٹس کی JSON ارے کو CSV میں آن لائن مفت بدلیں: کنجیوں کا اتحاد بطور کالم، درست کوٹنگ اور escaping، نیسٹڈ قدریں JSON کے طور پر برقرار۔ کوئی سائن اپ نہیں، 100% آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-dev-tools/ur/json-to-csv-converter/",
+  "id": "/ur/json-to-csv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Екранування рядків Loona JSON",
   "short_name": "Екранування рядків JSON",
   "description": "Екрануйте рядок для вбудовування в JSON: лапки, зворотні слеші, переведення рядка та керувальні символи перетворюються на послідовності \\.",
-  "id": "/loona-dev-tools/uk/json-escape/",
+  "id": "/uk/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

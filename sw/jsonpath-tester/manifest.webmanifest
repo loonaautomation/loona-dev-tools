@@ -2,7 +2,7 @@
   "name": "Loona Kijaribu cha JSONPath",
   "short_name": "Kijaribu cha JSONPath",
   "description": "Jaribu misemo ya JSONPath dhidi ya hati ya JSON: notasi ya nukta, fahirisi, nyota na ushukaji unaorudiwa ($..key) vinaungwa mkono.",
-  "id": "/loona-dev-tools/sw/jsonpath-tester/",
+  "id": "/sw/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

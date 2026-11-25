@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum Generator",
   "short_name": "Lorem Ipsum Generator",
   "description": "Generate Lorem Ipsum placeholder text: choose paragraphs, sentences or words, with the classic opening line optional.",
-  "id": "/loona-dev-tools/en-us/lorem-ipsum-generator/",
+  "id": "/en-us/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

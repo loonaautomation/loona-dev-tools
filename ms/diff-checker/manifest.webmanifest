@@ -2,7 +2,7 @@
   "name": "Loona Penyemak Diff Dalam Talian Percuma",
   "short_name": "Penyemak Diff Dalam Talian Percuma",
   "description": "Bandingkan dua teks dalam talian secara percuma dengan diff baris per baris: baris yang ditambahkan hijau, baris yang dipadam merah, ditambah ringkasan perubahan. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/diff-checker/",
+  "id": "/ms/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

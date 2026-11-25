@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha cURL kwenda Fetch",
   "short_name": "Kibadilishaji cha cURL kwenda Fetch",
   "description": "Badilisha amri ya cURL kuwa msimbo wa fetch() wa JavaScript: vichwa, mbinu, data, uthibitishaji wa msingi na --json vimeshughulikiwa.",
-  "id": "/loona-dev-tools/sw/curl-to-fetch/",
+  "id": "/sw/curl-to-fetch/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

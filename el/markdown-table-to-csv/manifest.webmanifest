@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Πίνακα Markdown σε CSV",
   "short_name": "Πίνακας Markdown σε CSV",
   "description": "Μετατρέψτε έναν πίνακα Markdown σε CSV: κεφαλίδα και γραμμές εξάγονται, η γραμμή στοίχισης αφαιρείται, τα κελιά περικόπτονται και μπαίνουν σωστά σε εισαγωγικά.",
-  "id": "/loona-dev-tools/el/markdown-table-to-csv/",
+  "id": "/el/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

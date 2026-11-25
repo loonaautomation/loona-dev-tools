@@ -2,7 +2,7 @@
   "name": "מדריך סוגי MIME של Loona (סוגי תוכן לפי",
   "short_name": "מדריך סוגי MIME ‏(Content",
   "description": "סוגי MIME נפוצים לפי סיומת קובץ: מסמכים, תמונות, שמע, וידאו, ארכיונים, גופנים ופורמטי אינטרנט עם ערכי ה-Content-Type שלהם.",
-  "id": "/loona-dev-tools/he/mime-types-reference/",
+  "id": "/he/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

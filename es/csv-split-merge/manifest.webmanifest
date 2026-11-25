@@ -2,7 +2,7 @@
   "name": "Loona Divisor y fusionador de CSV en línea gratis",
   "short_name": "Divisor y fusionador de CSV en línea gratis",
   "description": "Divide un CSV en partes por conteo de filas o fusiona varios archivos CSV en uno, en línea gratis: encabezados manejados correctamente, análisis CSV adecuado. Sin registro, funciona 100% en tu navegador.",
-  "id": "/loona-dev-tools/es/csv-split-merge/",
+  "id": "/es/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

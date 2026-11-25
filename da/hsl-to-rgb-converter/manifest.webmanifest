@@ -2,7 +2,7 @@
   "name": "Loona HSL til RGB-konverter",
   "short_name": "HSL til RGB-konverter",
   "description": "Konvertér farver fra HSL til RGB online, med en live farveprøve og alle andre formater (HEX, RGB, HSL, HSV, CMYK) vist også.",
-  "id": "/loona-dev-tools/da/hsl-to-rgb-converter/",
+  "id": "/da/hsl-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

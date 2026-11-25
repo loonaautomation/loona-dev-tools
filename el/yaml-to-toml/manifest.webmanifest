@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας YAML σε TOML",
   "short_name": "Μετατροπέας YAML σε TOML",
   "description": "Μετατρέψτε YAML σε TOML διαδικτυακά (μέσω του κοινού μοντέλου δεδομένων): πίνακες, βαθμωτές τιμές και πίνακες αντιστοιχισμένοι στους κανόνες διάταξης TOML.",
-  "id": "/loona-dev-tools/el/yaml-to-toml/",
+  "id": "/el/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

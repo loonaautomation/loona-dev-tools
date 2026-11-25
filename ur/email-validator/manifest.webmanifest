@@ -2,7 +2,7 @@
   "name": "Loona ای میل ویلیڈیٹر آن لائن مفت",
   "short_name": "ای میل ویلیڈیٹر آن لائن مفت",
   "description": "ای میل ایڈریسز آن لائن مفت توثیق کریں، ایک یا بڑی تعداد میں - ایڈریس قواعد کے خلاف مکمل syntax جانچیں علاوہ عام ڈومین ٹائپوز جیسے gmial.com کی کھوج۔ کوئی سائن اپ نہیں۔",
-  "id": "/loona-dev-tools/ur/email-validator/",
+  "id": "/ur/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

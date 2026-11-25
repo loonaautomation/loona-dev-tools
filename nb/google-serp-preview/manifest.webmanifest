@@ -2,7 +2,7 @@
   "name": "Loona Google SERP-forhåndsvisningsverktøy på nett gratis",
   "short_name": "Google SERP-forhåndsvisningsverktøy",
   "description": "Forhåndsvis hvordan sidetittelen og metabeskrivelsen din vil se ut i Google-søkeresultater på nett gratis, med skrivebords- og mobilvisninger og advarsler om pikselbredde-avkorting. Ingen registrering.",
-  "id": "/loona-dev-tools/nb/google-serp-preview/",
+  "id": "/nb/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

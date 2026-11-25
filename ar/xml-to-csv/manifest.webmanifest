@@ -2,7 +2,7 @@
   "name": "Loona محوّل XML إلى CSV",
   "short_name": "محوّل XML إلى CSV",
   "description": "حوّل XML إلى CSV: العناصر المكرّرة تصبح صفوفاً، وأطفالها وسماتها تصبح أعمدة. محوّل مجاني عبر الإنترنت.",
-  "id": "/loona-dev-tools/ar/xml-to-csv/",
+  "id": "/ar/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona টেক্সট থেকে বাইনারি কনভার্টার",
   "short_name": "টেক্সট থেকে বাইনারি রূপান্তরকারী",
   "description": "টেক্সট বাইনারিতে রূপান্তর করুন: প্রতিটি অক্ষর এর UTF-8 বাইটের 8-বিট বাইনারি গ্রুপ হিসেবে। বিনামূল্যে অনলাইন কনভার্টার।",
-  "id": "/loona-dev-tools/bn/text-to-binary/",
+  "id": "/bn/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

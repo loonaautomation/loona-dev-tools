@@ -2,7 +2,7 @@
   "name": "Loona Penukar RAR ke TAR",
   "short_name": "Penukar RAR ke TAR",
   "description": "Penukaran arkib RAR (RAR4 dan RAR5) ke TAR dalam talian dengan libarchive di pelayar Anda. Fail tetap berada di peranti Anda.",
-  "id": "/loona-dev-tools/ms/rar-to-tar-converter/",
+  "id": "/ms/rar-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

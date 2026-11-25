@@ -2,7 +2,7 @@
   "name": "Loona XML→YAML変換ツール",
   "short_name": "XML→YAML変換ツール",
   "description": "XMLをYAMLに変換：属性は @keys として、繰り返し要素はリストとして、値には型が付きます。本物のパーサーであり、正規表現ではありません。",
-  "id": "/loona-dev-tools/ja/xml-to-yaml/",
+  "id": "/ja/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

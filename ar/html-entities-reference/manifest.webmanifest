@@ -2,7 +2,7 @@
   "name": "Loona جدول مرجع كيانات HTML",
   "short_name": "جدول مرجع كيانات HTML",
   "description": "جدول كيانات HTML الأساسية: الكيان المسمى، الحرف، الرمز العشري وملاحظات الاستخدام للكيانات التي يستخدمها المطوّرون فعلياً.",
-  "id": "/loona-dev-tools/ar/html-entities-reference/",
+  "id": "/ar/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dekode URL (Dekode Persen)",
   "short_name": "Dekode URL (Dekode Persen)",
   "description": "Dekode URL dan query string yang di-encode persen kembali ke teks yang dapat dibaca, termasuk urutan UTF-8 dan + sebagai spasi. Decoder online gratis.",
-  "id": "/loona-dev-tools/id/url-decode/",
+  "id": "/id/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

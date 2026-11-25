@@ -2,7 +2,7 @@
   "name": "Loona Números para Algarismos Romanos",
   "short_name": "Números para Algarismos Romanos",
   "description": "Converta números (1–3999) para algarismos romanos em forma subtrativa padrão. Conversor online grátis.",
-  "id": "/loona-dev-tools/pt/number-to-roman-numerals/",
+  "id": "/pt/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

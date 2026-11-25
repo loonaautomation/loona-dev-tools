@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας RAR σε ZIP Διαδικτυακά Δωρεάν",
   "short_name": "Μετατροπέας RAR σε ZIP Διαδικτυακά",
   "description": "Μετατρέψτε μια αρχειοθήκη RAR (.rar) σε τυπικό αρχείο ZIP ακριβώς στο πρόγραμμα περιήγησής σας. Η δομή φακέλων διατηρείται, τίποτα δεν μεταφορτώνεται, και το ZIP ανοίγει παντού - Windows, macOS, Android και iPhone ανοίγουν όλα ZIP εγγενώς.",
-  "id": "/loona-dev-tools/el/rar-to-zip-converter/",
+  "id": "/el/rar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

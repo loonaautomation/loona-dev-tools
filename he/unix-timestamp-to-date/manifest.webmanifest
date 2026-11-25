@@ -2,7 +2,7 @@
   "name": "ממיר Loona חותמת זמן Unix לתאריך",
   "short_name": "חותמת זמן Unix לתאריך",
   "description": "המירו חותמת זמן של Unix (שניות או אלפיות שנייה) לתאריך אנושי: UTC, השעה המקומית שלכם, ISO 8601 וזמן יחסי.",
-  "id": "/loona-dev-tools/he/unix-timestamp-to-date/",
+  "id": "/he/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

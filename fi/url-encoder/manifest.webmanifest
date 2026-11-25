@@ -2,7 +2,7 @@
   "name": "Loona URL-kooderi ja -purkaja verkossa ilmaiseksi",
   "short_name": "URL-kooderi & dekooderi verkossa",
   "description": "Koodaa ja pura URL:eja ja kyselytekstiä verkossa ilmaiseksi, komponentti- ja koko-URL-tiloilla ja merkkikohtaisella erittelyllä. Ei rekisteröitymistä, selaimessasi.",
-  "id": "/loona-dev-tools/fi/url-encoder/",
+  "id": "/fi/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

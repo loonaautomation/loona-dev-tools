@@ -2,7 +2,7 @@
   "name": "Loona robots.txt-tester online gratis",
   "short_name": "Robots.txt-tester online gratis",
   "description": "Test een robots.txt online gratis - plak het bestand, een URL en een user-agent, en krijg een toegestaan- of geblokkeerd-oordeel met de exacte matchregel getoond. Geen registratie, draait in je browser.",
-  "id": "/loona-dev-tools/nl/robots-txt-tester/",
+  "id": "/nl/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

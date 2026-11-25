@@ -2,7 +2,7 @@
   "name": "Loona Kitoaji cha Faili cha Unzip Bure Mtandaoni",
   "short_name": "Kitoaji cha Faili cha Unzip Mtandaoni",
   "description": "Fungua faili ya ZIP kwenye kivinjari chako, tazama kila faili ndani na ukubwa wake, na utoe faili moja moja au zote. Hakuna kinachopakiwa; utoaji hufanyika kwenye kifaa chako.",
-  "id": "/loona-dev-tools/sw/unzip-file-extractor/",
+  "id": "/sw/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

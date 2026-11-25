@@ -2,7 +2,7 @@
   "name": "Extractor de fișiere GZ Loona online gratuit",
   "short_name": "Extractor de fișiere GZ online gratuit",
   "description": "Decomprimă un singur fișier .gz chiar în browserul tău și descarcă fișierul original - jurnale, exporturi de date, dump-uri de baze de date. Nimic nu este încărcat; browserul tău face treaba nativ.",
-  "id": "/loona-dev-tools/ro/gz-file-extractor/",
+  "id": "/ro/gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

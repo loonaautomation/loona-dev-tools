@@ -2,7 +2,7 @@
   "name": "Loona MD5-tiivistegeneraattori",
   "short_name": "MD5-tiivistegeneraattori",
   "description": "Laske tekstien tai tiedostojen MD5-tiiviisteitä verkossa: 128-bittinen, 32 heksamerkkiä. Toimii paikallisesti selaimessasi WebCryptolla / puhtaalla JS:llä — tiedostoja ei koskaan lähetetä palvelimelle.",
-  "id": "/loona-dev-tools/fi/md5-hash-generator/",
+  "id": "/fi/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

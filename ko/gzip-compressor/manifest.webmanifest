@@ -2,7 +2,7 @@
   "name": "Loona GZIP 압축기 온라인 무료",
   "short_name": "GZIP 압축기 온라인 무료",
   "description": "브라우저의 내장 gzip 엔진을 사용해 모든 단일 파일을 .gz로 압축해요. 즉각적인 전후 크기, 업로드 없음 - 파일은 기기에서 압축돼요. 로그, CSV, TAR 파일 등에 작동해요.",
-  "id": "/loona-dev-tools/ko/gzip-compressor/",
+  "id": "/ko/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

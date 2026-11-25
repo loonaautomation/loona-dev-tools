@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/gz-file-extractor/",
+  "id": "/en-gb/gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

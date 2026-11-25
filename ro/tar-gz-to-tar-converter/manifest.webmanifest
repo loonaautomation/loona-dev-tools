@@ -2,7 +2,7 @@
   "name": "Convertizor TAR.GZ în TAR Loona",
   "short_name": "Convertizor TAR.GZ în TAR",
   "description": "Elimină stratul gzip dintr-o arhivă .tar.gz / .tgz pentru a obține TAR-ul simplu, online și local — fără instrumente de extragere necesare.",
-  "id": "/loona-dev-tools/ro/tar-gz-to-tar-converter/",
+  "id": "/ro/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

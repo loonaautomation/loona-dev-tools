@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้าง llms.txt ออนไลน์ฟรี",
   "short_name": "ตัวสร้าง llms.txt ออนไลน์ฟรี",
   "description": "สร้างไฟล์ llms.txt ที่ถูกต้องออนไลน์ฟรี - ชื่อไซต์ blockquote บทสรุป รายละเอียด และลิงก์หน้าที่คัดสรรในรูปแบบ llms.txt ที่เสนอสำหรับโปรแกรมรวบรวมข้อมูล AI ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-dev-tools/th/llms-txt-generator/",
+  "id": "/th/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

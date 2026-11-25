@@ -2,7 +2,7 @@
   "name": "Loona Markdown till HTML-konverterare online gratis",
   "short_name": "Markdown till HTML-konverterare",
   "description": "Konvertera Markdown till HTML online gratis - rubriker, fetstil, kursiv, länkar, bilder, listor, blockcitat, kodblock och mer, med en renderad liveförhandsgranskning. Ingen registrering.",
-  "id": "/loona-dev-tools/sv/markdown-to-html-converter/",
+  "id": "/sv/markdown-to-html-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

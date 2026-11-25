@@ -2,7 +2,7 @@
   "name": "Loona Pisah & Gabung CSV Dalam Talian Percuma",
   "short_name": "Pisah & Gabung CSV Dalam Talian Percuma",
   "description": "Pisah CSV menjadi bagian berdasarkan jumlah baris atau gabungkan beberapa fail CSV menjadi satu, dalam talian percuma - header ditangani dengan benar, parsing CSV yang tepat. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/csv-split-merge/",
+  "id": "/ms/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

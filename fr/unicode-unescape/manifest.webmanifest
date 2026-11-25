@@ -2,7 +2,7 @@
   "name": "Convertisseur de déséchappement Unicode Loona (décoder \\uXXXX)",
   "short_name": "Convertisseur de déséchappement Unicode",
   "description": "Décodez les séquences d’échappement Unicode (\\uXXXX, \\u{...}, \\xXX) en caractères réels, plus les échappements \\n \\t et \\\\.",
-  "id": "/loona-dev-tools/fr/unicode-unescape/",
+  "id": "/fr/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

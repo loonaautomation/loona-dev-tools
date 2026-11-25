@@ -2,7 +2,7 @@
   "name": "Loona Translator tekstu na kod Morse'a",
   "short_name": "Tłumacz tekstu na kod Morse'a",
   "description": "Tłumacz tekst na kod Morse'a (litery, cyfry oraz popularną interpunkcję), słowa rozdzielone znakiem /. Bezpłatny tłumacz Morse'a.",
-  "id": "/loona-dev-tools/pl/text-to-morse-code/",
+  "id": "/pl/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

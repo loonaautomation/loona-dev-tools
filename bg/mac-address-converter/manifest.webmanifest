@@ -2,7 +2,7 @@
   "name": "Конвертор на формати на MAC адреси на Loona",
   "short_name": "Конвертор на формати на MAC адреси",
   "description": "Конвертирайте MAC адреси между двоеточие (AA:BB:CC:DD:EE:FF), тире, Cisco точка и обикновени формати; валидира 48-битовия адрес.",
-  "id": "/loona-dev-tools/bg/mac-address-converter/",
+  "id": "/bg/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

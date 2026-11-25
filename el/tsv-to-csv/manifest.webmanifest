@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας TSV σε CSV",
   "short_name": "Μετατροπέας TSV σε CSV",
   "description": "Μετατρέψτε TSV (τιμές χωρισμένες με tab) σε CSV: επικολλήστε δεδομένα αντιγραμμένα από Excel ή Sheets και πάρτε CSV με σωστά εισαγωγικά.",
-  "id": "/loona-dev-tools/el/tsv-to-csv/",
+  "id": "/el/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

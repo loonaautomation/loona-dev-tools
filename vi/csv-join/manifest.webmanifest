@@ -2,7 +2,7 @@
   "name": "Nối CSV của Loona trực tuyến miễn phí",
   "short_name": "Nối CSV trực tuyến miễn phí",
   "description": "Nối hai tệp CSV trực tuyến miễn phí trên một cột khóa dùng chung - inner join hoặc left join, các khóa trùng lặp được xử lý theo cách cơ sở dữ liệu. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/csv-join/",
+  "id": "/vi/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

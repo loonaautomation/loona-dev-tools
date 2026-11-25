@@ -2,7 +2,7 @@
   "name": "Loona محلّل ترويسة Cookie",
   "short_name": "محلّل ترويسة Cookie",
   "description": "حلّل ترويسة Cookie إلى قائمة قابلة للقراءة: أزواج الاسم = القيمة، القيم مفكوكة النسبة المئوية معروضة، عدد ملفات تعريف الارتباط.",
-  "id": "/loona-dev-tools/ar/cookie-parser/",
+  "id": "/ar/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

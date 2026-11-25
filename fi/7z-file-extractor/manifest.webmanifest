@@ -2,7 +2,7 @@
   "name": "Loona 7Z-tiedostopurkaja verkossa ilmaiseksi",
   "short_name": "7Z-tiedostopurkaja verkossa ilmaiseksi",
   "description": "Avaa 7z-arkistoja suoraan selaimessasi - katso jokainen sisällä oleva tiedosto, lataa yksittäisiä tiedostoja tai kaikki ZIPinä. Mitään ei lähetetä palvelimelle; purku tapahtuu laitteellasi WebAssembly-moottorilla.",
-  "id": "/loona-dev-tools/fi/7z-file-extractor/",
+  "id": "/fi/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

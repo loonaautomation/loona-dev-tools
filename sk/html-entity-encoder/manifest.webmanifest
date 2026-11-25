@@ -2,7 +2,7 @@
   "name": "Kodér a dekodér entít Loona HTML online zadarmo",
   "short_name": "Kodér a dekodér entít HTML",
   "description": "Kódujte text do entít HTML (pomenovaných ako &amp;copy; alebo číslovaných ako &amp;#169;) a dekódujte entity späť na obyčajný text. Zadarmo, bez registrácie, vo vašom prehliadači.",
-  "id": "/loona-dev-tools/sk/html-entity-encoder/",
+  "id": "/sk/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

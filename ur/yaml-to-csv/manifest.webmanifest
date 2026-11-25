@@ -2,7 +2,7 @@
   "name": "Loona YAML سے CSV کنورٹر",
   "short_name": "YAML سے CSV کنورٹر",
   "description": "آبجیکٹس کی YAML فہرست کو CSV ٹیبل میں بدلیں: کنجیوں کا اتحاد بطور کالم، نیسٹڈ قدریں ان کے خانے میں JSON کے طور پر ترتیب شدہ۔",
-  "id": "/loona-dev-tools/ur/yaml-to-csv/",
+  "id": "/ur/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

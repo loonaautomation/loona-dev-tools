@@ -2,7 +2,7 @@
   "name": "Loona XMLミニファイア",
   "short_name": "XMLミニファイア",
   "description": "XMLをオンラインミニファイします。コメントとタグ間の空白を取り除き、一つのコンパクトな行にします。",
-  "id": "/loona-dev-tools/ja/xml-minifier/",
+  "id": "/ja/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

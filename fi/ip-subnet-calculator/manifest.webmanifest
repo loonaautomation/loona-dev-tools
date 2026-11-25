@@ -2,7 +2,7 @@
   "name": "Loona IP-aliverkkolaskin verkossa ilmaiseksi",
   "short_name": "IP-aliverkkolaskin verkossa",
   "description": "Laske IPv4-aliverkkoja verkossa ilmaiseksi — verkko, laajakaista, verkkopeite, jokeripeite, ensimmäinen ja viimeinen isäntä, käytettävien isäntien määrä ja IP-luokka mistä tahansa CIDR-osoitteesta, sekä aliverkkojen jako -näkymä.",
-  "id": "/loona-dev-tools/fi/ip-subnet-calculator/",
+  "id": "/fi/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

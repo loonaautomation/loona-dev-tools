@@ -2,7 +2,7 @@
   "name": "Loona MAC-adresformaat-converter",
   "short_name": "MAC-adresformaat-converter",
   "description": "Converteer MAC-adressen tussen dubbele punt (AA:BB:CC:DD:EE:FF), koppelteken, Cisco-punt en gewone formaten; valideert het 48-bit adres.",
-  "id": "/loona-dev-tools/nl/mac-address-converter/",
+  "id": "/nl/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

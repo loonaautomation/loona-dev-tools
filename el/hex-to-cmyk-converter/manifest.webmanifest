@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας HEX σε CMYK",
   "short_name": "Μετατροπέας HEX σε CMYK",
   "description": "Μετατρέψτε χρώματα από HEX σε CMYK διαδικτυακά, με ζωντανό δείγμα και όλες τις άλλες μορφές (HEX, RGB, HSL, HSV, CMYK) να εμφανίζονται επίσης.",
-  "id": "/loona-dev-tools/el/hex-to-cmyk-converter/",
+  "id": "/el/hex-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

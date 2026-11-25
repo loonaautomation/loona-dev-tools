@@ -2,7 +2,7 @@
   "name": "Loona Konverter JSON ke YAML",
   "short_name": "Konverter JSON ke YAML",
   "description": "Konversi JSON ke YAML online: indentasi bersih, array dan objek bersarang, string dikutip hanya ketika YAML membutuhkannya.",
-  "id": "/loona-dev-tools/id/json-to-yaml/",
+  "id": "/id/json-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

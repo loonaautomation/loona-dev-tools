@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Slug (Δημιουργός Slug URL)",
   "short_name": "Γεννήτρια Slug (Slug URL",
   "description": "Δημιουργήστε καθαρά slug URL από τίτλους: τόνοι αφαιρεμένοι, πεζά, κενά σε παύλες (ή κάτω παύλες). Δωρεάν δημιουργός slug.",
-  "id": "/loona-dev-tools/el/slug-generator/",
+  "id": "/el/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

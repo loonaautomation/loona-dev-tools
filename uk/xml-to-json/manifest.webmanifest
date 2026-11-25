@@ -2,7 +2,7 @@
   "name": "Конвертер Loona XML у JSON",
   "short_name": "Конвертер XML у JSON",
   "description": "Конвертуйте XML у JSON онлайн: атрибути як @ключі, повторювані елементи як масиви, текст як значення з типізованими числами.",
-  "id": "/loona-dev-tools/uk/xml-to-json/",
+  "id": "/uk/xml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

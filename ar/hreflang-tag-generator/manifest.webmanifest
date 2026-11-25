@@ -2,7 +2,7 @@
   "name": "Loona منشئ وسوم Hreflang عبر الإنترنت مجاناً",
   "short_name": "منشئ وسوم Hreflang عبر الإنترنت",
   "description": "أنشئ وسوم hreflang عبر الإنترنت مجاناً - الصق أزواج اللغة والرابط، أضف x-default، واحصل على مجموعة روابط بديلة كاملة مع فحوص BCP 47 والروابط المطلقة. دون تسجيل.",
-  "id": "/loona-dev-tools/ar/hreflang-tag-generator/",
+  "id": "/ar/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

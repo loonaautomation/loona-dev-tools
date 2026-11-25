@@ -2,7 +2,7 @@
   "name": "ממיר Loona JSON למחרוזת שאילתה",
   "short_name": "ממיר JSON למחרוזת שאילתה",
   "description": "בנו מחרוזת שאילתה של URL מאובייקט JSON: אובייקטים מקוננים משתמשים בסימון סוגריים, מערכים חוזרים על המפתח, הכול מקודד באחוזים.",
-  "id": "/loona-dev-tools/he/json-to-query-string/",
+  "id": "/he/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

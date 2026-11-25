@@ -2,7 +2,7 @@
   "name": "Loona Konverter JSON ke Antarmuka TypeScript",
   "short_name": "JSON ke Antarmuka TypeScript",
   "description": "Konversi JSON ke antarmuka TypeScript online: objek bersarang menjadi antarmuka bernama, array objek menggabungkan kuncinya dengan field opsional ditandai.",
-  "id": "/loona-dev-tools/id/json-to-typescript/",
+  "id": "/id/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง Base64 เป็นรูปภาพ",
   "short_name": "ตัวแปลง Base64 เป็นรูปภาพ",
   "description": "ถอดรหัสสตริง Base64 หรือ data URI กลับเป็นรูปภาพที่ดูและดาวน์โหลดได้ ประเภท MIME ตรวจจับจากไบต์",
-  "id": "/loona-dev-tools/th/base64-to-image/",
+  "id": "/th/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

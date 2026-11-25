@@ -2,7 +2,7 @@
   "name": "Loona XMLフォーマッター＆バリデーター 無料オンライン",
   "short_name": "XMLフォーマッター＆バリデーター",
   "description": "XMLを無料でオンラインでフォーマット、整形、ミニファイ、検証できます。バランスの取れたタグの整形式チェックと分かりやすいエラーメッセージ、インデント付きの整形表示です。登録不要です。",
-  "id": "/loona-dev-tools/ja/xml-formatter/",
+  "id": "/ja/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

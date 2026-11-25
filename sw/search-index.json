@@ -1,7 +1,7 @@
 [
  {
   "n": "Maktaba ya Vibadilishaji na Vizalishaji",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/converter-library/",
+  "u": "https://dev.loonaautomation.com/sw/converter-library/",
   "s": "Loona Dev Tools",
   "d": "Vibadilishaji na vizalishaji vipya 115: usimbaji, miundo ya data (JSON, YAML, XML, TOML, CSV), hash, rangi, hifadhi, vizalishaji vya msimbo na rejareo.",
   "k": "converter generator library converter library vibadilishaji na vizalishaji vipya 115 usimbaji miundo ya data json yaml xml toml csv hash rangi hifadhi vizalishaji vya msimbo na rejareo",
@@ -10,7 +10,7 @@
  },
  {
   "n": "Kiumbaji cha JSON",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/json-formatter/",
+  "u": "https://dev.loonaautomation.com/sw/json-formatter/",
   "s": "Loona Dev Tools",
   "d": "Thibitisha, chapisha kwa uzuri na finya JSON, kwa nafasi kamili ya kosa lolote.",
   "k": "json formatter json formatter thibitisha chapisha kwa uzuri na finya json kwa nafasi kamili ya kosa lolote",
@@ -19,7 +19,7 @@
  },
  {
   "n": "Kisimbaji na Kisimbuaji cha Base64",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/base64-encoder/",
+  "u": "https://dev.loonaautomation.com/sw/base64-encoder/",
   "s": "Loona Dev Tools",
   "d": "Simba maandishi na faili kwenda Base64, au isimbua irudi - salama kwa UTF-8, chaguo salama kwa URL limejumuishwa.",
   "k": "base64 encoder decoder base64 encoder simba maandishi na faili kwenda base64 au isimbua irudi salama kwa utf 8 chaguo salama kwa url limejumuishwa",
@@ -28,7 +28,7 @@
  },
  {
   "n": "Kisimbaji & Kisimbuaji cha URL",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/url-encoder/",
+  "u": "https://dev.loonaautomation.com/sw/url-encoder/",
   "s": "Loona Dev Tools",
   "d": "Simba maandishi na URL kwa asilimia kwa usalama, kwa jedwali la uchanganuzi wa kila herufi.",
   "k": "url encoder decoder url encoder simba maandishi na url kwa asilimia kwa usalama kwa jedwali la uchanganuzi wa kila herufi",
@@ -37,7 +37,7 @@
  },
  {
   "n": "Kizalishaji cha UUID",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/uuid-generator/",
+  "u": "https://dev.loonaautomation.com/sw/uuid-generator/",
   "s": "Loona Dev Tools",
   "d": "Zalisha UUID za toleo 4 za nasibu - moja kwa wakati au kwa wingi hadi 100.",
   "k": "uuid generator uuid generator zalisha uuid za toleo 4 za nasibu moja kwa wakati au kwa wingi hadi 100",
@@ -46,7 +46,7 @@
  },
  {
   "n": "Kizalishaji cha Hashi",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/hash-generator/",
+  "u": "https://dev.loonaautomation.com/sw/hash-generator/",
   "s": "Loona Dev Tools",
   "d": "Muhtasari wa SHA-1, SHA-256, SHA-384 na SHA-512 wa maandishi yoyote, uliokokotolewa kwenye kivinjari chako.",
   "k": "hash generator hash generator muhtasari wa sha 1 sha 256 sha 384 na sha 512 wa maandishi yoyote uliokokotolewa kwenye kivinjari chako",
@@ -55,7 +55,7 @@
  },
  {
   "n": "Kisimbuaji cha JWT",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/jwt-decoder/",
+  "u": "https://dev.loonaautomation.com/sw/jwt-decoder/",
   "s": "Loona Dev Tools",
   "d": "Simbua kichwa na mzigo wa JSON Web Token na usome kumalizika kwake kwa maneno wazi.",
   "k": "jwt decoder jwt decoder simbua kichwa na mzigo wa json web token na usome kumalizika kwake kwa maneno wazi",
@@ -64,7 +64,7 @@
  },
  {
   "n": "Kibadilishaji cha Muhuri wa Muda",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/timestamp-converter/",
+  "u": "https://dev.loonaautomation.com/sw/timestamp-converter/",
   "s": "Loona Dev Tools",
   "d": "Badilisha mihuri ya muda ya Unix kuwa tarehe za kibinadamu na kurudi - UTC, muda wako wa ndani na muda wa jamaa.",
   "k": "timestamp converter timestamp converter badilisha mihuri ya muda ya unix kuwa tarehe za kibinadamu na kurudi utc muda wako wa ndani na muda wa jamaa",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Kisimbaji cha Huluki ya HTML",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/html-entity-encoder/",
+  "u": "https://dev.loonaautomation.com/sw/html-entity-encoder/",
   "s": "Loona Dev Tools",
   "d": "Torosha maandishi kuwa huluki za HTML (zenye majina au nambari) na simbua huluki zirudi kuwa maandishi.",
   "k": "html entity encoder html entity encoder torosha maandishi kuwa huluki za html zenye majina au nambari na simbua huluki zirudi kuwa maandishi",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Kifinyaji na Kipambaji cha CSS",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/css-minifier/",
+  "u": "https://dev.loonaautomation.com/sw/css-minifier/",
   "s": "Loona Dev Tools",
   "d": "Finya CSS kupunguza ukubwa wa faili, au ipambe irudi kuwa msimbo unaosomeka, wenye ujongezaji.",
   "k": "css minifier beautifier css minifier finya css kupunguza ukubwa wa faili au ipambe irudi kuwa msimbo unaosomeka wenye ujongezaji",
@@ -91,7 +91,7 @@
  },
  {
   "n": "Kifinyaji cha JavaScript",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/javascript-minifier/",
+  "u": "https://dev.loonaautomation.com/sw/javascript-minifier/",
   "s": "Loona Dev Tools",
   "d": "Bana JavaScript kwa kihafidhina - maoni na nafasi iliyokufa vimeondolewa, mifululizo na regex vimewekwa sawa.",
   "k": "javascript minifier javascript minifier bana javascript kwa kihafidhina maoni na nafasi iliyokufa vimeondolewa mifululizo na regex vimewekwa sawa",
@@ -100,7 +100,7 @@
  },
  {
   "n": "Kijaribu cha Regex",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/regex-tester/",
+  "u": "https://dev.loonaautomation.com/sw/regex-tester/",
   "s": "Loona Dev Tools",
   "d": "Jaribu misemo ya kawaida moja kwa moja - ulinganifu umeangaziwa, makundi ya kunasa yameorodheshwa, hesabu imeonyeshwa.",
   "k": "regex tester regex tester jaribu misemo ya kawaida moja kwa moja ulinganifu umeangaziwa makundi ya kunasa yameorodheshwa hesabu imeonyeshwa",
@@ -109,7 +109,7 @@
  },
  {
   "n": "Kikaguzi cha Diff",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/diff-checker/",
+  "u": "https://dev.loonaautomation.com/sw/diff-checker/",
   "s": "Loona Dev Tools",
   "d": "Linganisha maandishi mawili mstari kwa mstari - mistari iliyoongezwa na kuondolewa imeangaziwa, na muhtasari wa mabadiliko.",
   "k": "diff checker diff checker linganisha maandishi mawili mstari kwa mstari mistari iliyoongezwa na kuondolewa imeangaziwa na muhtasari wa mabadiliko",
@@ -118,7 +118,7 @@
  },
  {
   "n": "Kibadilishaji cha JSON kwenda CSV",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/json-to-csv-converter/",
+  "u": "https://dev.loonaautomation.com/sw/json-to-csv-converter/",
   "s": "Loona Dev Tools",
   "d": "Geuza safu ya JSON ya vitu kuwa faili safi ya CSV - muungano wa funguo zote, kunukuu sahihi, kubofya mara moja.",
   "k": "json to csv converter json to csv converter geuza safu ya json ya vitu kuwa faili safi ya csv muungano wa funguo zote kunukuu sahihi kubofya mara moja",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Kibadilishaji cha CSV kwenda JSON",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/csv-to-json-converter/",
+  "u": "https://dev.loonaautomation.com/sw/csv-to-json-converter/",
   "s": "Loona Dev Tools",
   "d": "Badilisha CSV kuwa safu ya JSON ya vitu - kichanganua halisi kinachoshughulikia koma zilizonukuliwa na nukuu zilizotoroshwa.",
   "k": "csv to json converter csv to json converter badilisha csv kuwa safu ya json ya vitu kichanganua halisi kinachoshughulikia koma zilizonukuliwa na nukuu zilizotoroshwa",
@@ -136,7 +136,7 @@
  },
  {
   "n": "Kibadilishaji cha YAML ⇄ JSON",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/yaml-json-converter/",
+  "u": "https://dev.loonaautomation.com/sw/yaml-json-converter/",
   "s": "Loona Dev Tools",
   "d": "Badilisha sehemu ndogo ya kawaida ya YAML (ramani, orodha, scalar) kuwa JSON na JSON kurudi kuwa YAML - yenye upeo wa uaminifu.",
   "k": "yaml json converter yaml json converter badilisha sehemu ndogo ya kawaida ya yaml ramani orodha scalar kuwa json na json kurudi kuwa yaml yenye upeo wa uaminifu",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Kiumbaji cha SQL",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/sql-formatter/",
+  "u": "https://dev.loonaautomation.com/sw/sql-formatter/",
   "s": "Loona Dev Tools",
   "d": "Umbaji wa SQL kwa maneno muhimu ya herufi kubwa na kila kifungu kikuu kwenye mstari wake - hoja zinazosomeka kwa kubofya mara moja.",
   "k": "sql formatter sql formatter umbaji wa sql kwa maneno muhimu ya herufi kubwa na kila kifungu kikuu kwenye mstari wake hoja zinazosomeka kwa kubofya mara moja",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Kibadilishaji cha Msingi wa Nambari",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/number-base-converter/",
+  "u": "https://dev.loonaautomation.com/sw/number-base-converter/",
   "s": "Loona Dev Tools",
   "d": "Badilisha kati ya jozi, oktali, desimali na heksi kwa usahihi kamili wa nambari kubwa - hakuna kikomo cha 2^53.",
   "k": "number base converter number base converter badilisha kati ya jozi oktali desimali na heksi kwa usahihi kamili wa nambari kubwa hakuna kikomo cha 2 53",
@@ -163,7 +163,7 @@
  },
  {
   "n": "Kikokotoo cha Chmod",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/chmod-calculator/",
+  "u": "https://dev.loonaautomation.com/sw/chmod-calculator/",
   "s": "Loona Dev Tools",
   "d": "Weka tiki visanduku vya soma/andika/tekeleza kwa mmiliki, kikundi na wengine - pata oktali na ishara ya ruhusa mara moja.",
   "k": "chmod calculator chmod calculator weka tiki visanduku vya soma andika tekeleza kwa mmiliki kikundi na wengine pata oktali na ishara ya ruhusa mara moja",
@@ -172,7 +172,7 @@
  },
  {
   "n": "Kikaguzi cha Uthabiti wa Nenosiri",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/password-strength-checker/",
+  "u": "https://dev.loonaautomation.com/sw/password-strength-checker/",
   "s": "Loona Dev Tools",
   "d": "Tazama makisio ya entropi ya nenosiri kwa biti, kile kinachoiathiri, na muda ambao shambulio la haraka la bila mtandao lingechukua.",
   "k": "password strength checker password strength checker tazama makisio ya entropi ya nenosiri kwa biti kile kinachoiathiri na muda ambao shambulio la haraka la bila mtandao lingechukua",
@@ -181,7 +181,7 @@
  },
  {
   "n": "Kizalishaji cha Misemo ya Cron",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/cron-expression-generator/",
+  "u": "https://dev.loonaautomation.com/sw/cron-expression-generator/",
   "s": "Loona Dev Tools",
   "d": "Jenga usemi wa cron wa sehemu 5 kutoka menyu za kawaida, na upate usemi wowote wa cron ukifafanuliwa kwa Kiingereza wazi.",
   "k": "cron expression generator cron expression generator jenga usemi wa cron wa sehemu 5 kutoka menyu za kawaida na upate usemi wowote wa cron ukifafanuliwa kwa kiingereza wazi",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Kichanganua & Kiundaji cha URL",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/url-parser/",
+  "u": "https://dev.loonaautomation.com/sw/url-parser/",
   "s": "Loona Dev Tools",
   "d": "Vunja URL kuwa itifaki, mwenyeji, mlango, njia, vigezo vya swali na hash - kisha hariri vigezo na ujenge upya.",
   "k": "url parser builder url parser vunja url kuwa itifaki mwenyeji mlango njia vigezo vya swali na hash kisha hariri vigezo na ujenge upya",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Kiundaji cha Faili cha ZIP",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/zip-file-creator/",
+  "u": "https://dev.loonaautomation.com/sw/zip-file-creator/",
   "s": "Loona Dev Tools",
   "d": "Funga faili nyingi kwenye hifadhi moja ya ZIP - iliyojengwa kwenye kivinjari chako, hakuna kilichopakiwa.",
   "k": "zip file creator zip file creator funga faili nyingi kwenye hifadhi moja ya zip iliyojengwa kwenye kivinjari chako hakuna kilichopakiwa",
@@ -208,7 +208,7 @@
  },
  {
   "n": "Kitoaji cha Faili cha Unzip",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/unzip-file-extractor/",
+  "u": "https://dev.loonaautomation.com/sw/unzip-file-extractor/",
   "s": "Loona Dev Tools",
   "d": "Fungua ZIP, tazama kila faili ndani na ukubwa wake, na utoe faili moja au zote.",
   "k": "unzip file extractor unzip file extractor fungua zip tazama kila faili ndani na ukubwa wake na utoe faili moja au zote",
@@ -217,7 +217,7 @@
  },
  {
   "n": "Kitoaji cha Faili cha RAR",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/rar-file-extractor/",
+  "u": "https://dev.loonaautomation.com/sw/rar-file-extractor/",
   "s": "Loona Dev Tools",
   "d": "Fungua faili za RAR (RAR4 na RAR5) kwenye kivinjari chako - tazama kila faili ndani, pakua faili moja au kila kitu kama ZIP.",
   "k": "rar file extractor rar file extractor fungua faili za rar rar4 na rar5 kwenye kivinjari chako tazama kila faili ndani pakua faili moja au kila kitu kama zip",
@@ -226,7 +226,7 @@
  },
  {
   "n": "Kitoaji cha Faili cha 7Z",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/7z-file-extractor/",
+  "u": "https://dev.loonaautomation.com/sw/7z-file-extractor/",
   "s": "Loona Dev Tools",
   "d": "Fungua hifadhi za 7z kwenye kivinjari chako - tazama yaliyomo na utoe faili moja moja au kila kitu kama ZIP.",
   "k": "7z file extractor 7z file extractor fungua hifadhi za 7z kwenye kivinjari chako tazama yaliyomo na utoe faili moja moja au kila kitu kama zip",
@@ -235,7 +235,7 @@
  },
  {
   "n": "Kitoaji cha Faili cha TAR",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/tar-file-extractor/",
+  "u": "https://dev.loonaautomation.com/sw/tar-file-extractor/",
   "s": "Loona Dev Tools",
   "d": "Fungua hifadhi za .tar, .tar.bz2 na .tar.xz kwenye kivinjari chako na utoe faili ndani - hakuna kilichopakiwa.",
   "k": "tar file extractor tar file extractor fungua hifadhi za tar tar bz2 na tar xz kwenye kivinjari chako na utoe faili ndani hakuna kilichopakiwa",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Kitoaji cha Faili cha TAR.GZ",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/tar-gz-file-extractor/",
+  "u": "https://dev.loonaautomation.com/sw/tar-gz-file-extractor/",
   "s": "Loona Dev Tools",
   "d": "Fungua hifadhi za .tar.gz na .tgz kwenye kivinjari chako - vinjari faili ndani na utoe unachohitaji.",
   "k": "tar gz file extractor tar gz file extractor fungua hifadhi za tar gz na tgz kwenye kivinjari chako vinjari faili ndani na utoe unachohitaji",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Kitoaji cha Faili cha GZ",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/gz-file-extractor/",
+  "u": "https://dev.loonaautomation.com/sw/gz-file-extractor/",
   "s": "Loona Dev Tools",
   "d": "Banua faili moja ya .gz kwenye kivinjari chako na upakue asili - kumbukumbu, uhamishaji data na nakala za hifadhidata.",
   "k": "gz file extractor gz file extractor banua faili moja ya gz kwenye kivinjari chako na upakue asili kumbukumbu uhamishaji data na nakala za hifadhidata",
@@ -262,7 +262,7 @@
  },
  {
   "n": "Kitoaji cha Faili cha ISO",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/iso-file-extractor/",
+  "u": "https://dev.loonaautomation.com/sw/iso-file-extractor/",
   "s": "Loona Dev Tools",
   "d": "Fungua picha za diski za ISO kwenye kivinjari chako, vinjari mfumo wa faili uliohifadhiwa kwenye diski pepe na upakue faili.",
   "k": "iso file extractor iso file extractor fungua picha za diski za iso kwenye kivinjari chako vinjari mfumo wa faili uliohifadhiwa kwenye diski pepe na upakue faili",
@@ -271,7 +271,7 @@
  },
  {
   "n": "Kitoaji cha Faili za Hifadhi",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/archive-file-extractor/",
+  "u": "https://dev.loonaautomation.com/sw/archive-file-extractor/",
   "s": "Loona Dev Tools",
   "d": "Kifungua hifadhi kimoja cha ulimwengu kwa ZIP, RAR, 7Z, TAR, ISO na zaidi - muundo hugunduliwa kiotomatiki.",
   "k": "archive file extractor archive file extractor kifungua hifadhi kimoja cha ulimwengu kwa zip rar 7z tar iso na zaidi muundo hugunduliwa kiotomatiki",
@@ -280,7 +280,7 @@
  },
  {
   "n": "Kibadilishaji cha RAR kwenda ZIP",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/rar-to-zip-converter/",
+  "u": "https://dev.loonaautomation.com/sw/rar-to-zip-converter/",
   "s": "Loona Dev Tools",
   "d": "Badilisha hifadhi ya RAR kuwa ZIP ya kawaida kwenye kivinjari chako - muundo wa folda umehifadhiwa, hakuna kilichopakiwa.",
   "k": "rar to zip converter rar to zip converter badilisha hifadhi ya rar kuwa zip ya kawaida kwenye kivinjari chako muundo wa folda umehifadhiwa hakuna kilichopakiwa",
@@ -289,7 +289,7 @@
  },
  {
   "n": "Kibadilishaji cha 7Z kwenda ZIP",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/7z-to-zip-converter/",
+  "u": "https://dev.loonaautomation.com/sw/7z-to-zip-converter/",
   "s": "Loona Dev Tools",
   "d": "Badilisha hifadhi ya 7Z kuwa ZIP inayofunguka popote - hakuna 7-Zip inayohitajika, hakuna kilichopakiwa.",
   "k": "7z to zip converter 7z to zip converter badilisha hifadhi ya 7z kuwa zip inayofunguka popote hakuna 7 zip inayohitajika hakuna kilichopakiwa",
@@ -298,7 +298,7 @@
  },
  {
   "n": "Kibadilishaji cha TAR kwenda ZIP",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/tar-to-zip-converter/",
+  "u": "https://dev.loonaautomation.com/sw/tar-to-zip-converter/",
   "s": "Loona Dev Tools",
   "d": "Badilisha hifadhi ya TAR kutoka Linux au Unix kuwa ZIP inayofunguka kiasili kwenye Windows, macOS na simu.",
   "k": "tar to zip converter tar to zip converter badilisha hifadhi ya tar kutoka linux au unix kuwa zip inayofunguka kiasili kwenye windows macos na simu",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Kibadilishaji cha TAR.GZ kwenda ZIP",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/tar-gz-to-zip-converter/",
+  "u": "https://dev.loonaautomation.com/sw/tar-gz-to-zip-converter/",
   "s": "Loona Dev Tools",
   "d": "Badilisha .tar.gz au .tgz kuwa ZIP moja - tabaka za gzip na tar huteguliwa kwenye kifaa chako.",
   "k": "tar gz to zip converter tar gz to zip converter badilisha tar gz au tgz kuwa zip moja tabaka za gzip na tar huteguliwa kwenye kifaa chako",
@@ -316,7 +316,7 @@
  },
  {
   "n": "Kibadilishaji cha ZIP kwenda TAR.GZ",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/zip-to-tar-gz-converter/",
+  "u": "https://dev.loonaautomation.com/sw/zip-to-tar-gz-converter/",
   "s": "Loona Dev Tools",
   "d": "Badilisha hifadhi ya ZIP kuwa tarball ya .tar.gz - muundo ambao seva za Linux, Docker na zana za kujenga hutazamia.",
   "k": "zip to tar gz converter zip to tar gz converter badilisha hifadhi ya zip kuwa tarball ya tar gz muundo ambao seva za linux docker na zana za kujenga hutazamia",
@@ -325,7 +325,7 @@
  },
  {
   "n": "Kiundaji cha Faili cha TAR",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/tar-file-creator/",
+  "u": "https://dev.loonaautomation.com/sw/tar-file-creator/",
   "s": "Loona Dev Tools",
   "d": "Unda .tar sahihi kwa vipimo kutoka faili nyingi kwenye kivinjari chako - hufunguka kwa zana yoyote ya tar.",
   "k": "tar file creator tar file creator unda tar sahihi kwa vipimo kutoka faili nyingi kwenye kivinjari chako hufunguka kwa zana yoyote ya tar",
@@ -334,7 +334,7 @@
  },
  {
   "n": "Kifinyaji cha GZIP",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/gzip-compressor/",
+  "u": "https://dev.loonaautomation.com/sw/gzip-compressor/",
   "s": "Loona Dev Tools",
   "d": "Bana faili yoyote moja kuwa .gz kwa injini ya gzip iliyojengwa ndani ya kivinjari chako - ukubwa wa papo hapo wa kabla/baada.",
   "k": "gzip compressor gzip compressor bana faili yoyote moja kuwa gz kwa injini ya gzip iliyojengwa ndani ya kivinjari chako ukubwa wa papo hapo wa kabla baada",
@@ -343,7 +343,7 @@
  },
  {
   "n": "Kitazamaji na Kihariri cha CSV",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/csv-viewer-editor/",
+  "u": "https://dev.loonaautomation.com/sw/csv-viewer-editor/",
   "s": "Loona Dev Tools",
   "d": "Pakia CSV katika gridi ya jedwali inayoharirika - hariri seli, panga safu wima, ongeza au ondoa safu mlalo na safu wima, kisha pakua.",
   "k": "csv viewer editor csv viewer editor pakia csv katika gridi ya jedwali inayoharirika hariri seli panga safu wima ongeza au ondoa safu mlalo na safu wima kisha pakua",
@@ -352,7 +352,7 @@
  },
  {
   "n": "Kibadilishaji cha CSV kwenda SQL",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/csv-to-sql-converter/",
+  "u": "https://dev.loonaautomation.com/sw/csv-to-sql-converter/",
   "s": "Loona Dev Tools",
   "d": "Geuza CSV kuwa CREATE TABLE pamoja na taarifa za INSERT kwa aina zilizokisiwa, kwa MySQL, PostgreSQL au SQLite.",
   "k": "csv to sql converter csv to sql converter geuza csv kuwa create table pamoja na taarifa za insert kwa aina zilizokisiwa kwa mysql postgresql au sqlite",
@@ -361,7 +361,7 @@
  },
  {
   "n": "Kibadilishaji cha CSV kwenda XML",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/csv-to-xml-converter/",
+  "u": "https://dev.loonaautomation.com/sw/csv-to-xml-converter/",
   "s": "Loona Dev Tools",
   "d": "Badilisha safu mlalo za CSV kuwa XML iliyoumbika vizuri na vipengee vya mzizi na safu mlalo vinavyoweza kusanidiwa na utoroshaji sahihi.",
   "k": "csv to xml converter csv to xml converter badilisha safu mlalo za csv kuwa xml iliyoumbika vizuri na vipengee vya mzizi na safu mlalo vinavyoweza kusanidiwa na utoroshaji sahihi",
@@ -370,7 +370,7 @@
  },
  {
   "n": "Kibadilishaji cha CSV kwenda Jedwali la Markdown",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/csv-to-markdown-converter/",
+  "u": "https://dev.loonaautomation.com/sw/csv-to-markdown-converter/",
   "s": "Loona Dev Tools",
   "d": "Badilisha CSV kuwa jedwali la Markdown tayari kwa GitHub - safu wima za nambari zimepangwa kulia, neli zimetoroshwa.",
   "k": "csv to markdown table converter csv to markdown converter badilisha csv kuwa jedwali la markdown tayari kwa github safu wima za nambari zimepangwa kulia neli zimetoroshwa",
@@ -379,7 +379,7 @@
  },
  {
   "n": "Kiondoa Rudufu na Kisafishaji cha CSV",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/csv-dedupe-cleaner/",
+  "u": "https://dev.loonaautomation.com/sw/csv-dedupe-cleaner/",
   "s": "Loona Dev Tools",
   "d": "Ondoa safu mlalo za CSV zilizorudiwa kwa safu mlalo nzima au safu wima za ufunguo, punguza nafasi nyeupe na uondoe safu mlalo tupu, kwa hesabu.",
   "k": "csv dedupe cleaner csv dedupe cleaner ondoa safu mlalo za csv zilizorudiwa kwa safu mlalo nzima au safu wima za ufunguo punguza nafasi nyeupe na uondoe safu mlalo tupu kwa hesabu",
@@ -388,7 +388,7 @@
  },
  {
   "n": "Kigawaji na Kiunganishaji cha CSV",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/csv-split-merge/",
+  "u": "https://dev.loonaautomation.com/sw/csv-split-merge/",
   "s": "Loona Dev Tools",
   "d": "Gawanya CSV kuwa sehemu kwa hesabu ya safu mlalo huku kichwa kikijirudia, au unganisha faili za CSV zinazoshiriki kichwa.",
   "k": "csv split merge csv split merge gawanya csv kuwa sehemu kwa hesabu ya safu mlalo huku kichwa kikijirudia au unganisha faili za csv zinazoshiriki kichwa",
@@ -397,7 +397,7 @@
  },
  {
   "n": "Kizalishaji cha Tegi za Meta",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/meta-tag-generator/",
+  "u": "https://dev.loonaautomation.com/sw/meta-tag-generator/",
   "s": "Loona Dev Tools",
   "d": "Zalisha kizuizi cha meta cha HTML tayari - kichwa, maelezo, robots, canonical - kwa onyesho la awali la SERP la moja kwa moja.",
   "k": "meta tag generator meta tag generator zalisha kizuizi cha meta cha html tayari kichwa maelezo robots canonical kwa onyesho la awali la serp la moja kwa moja",
@@ -406,7 +406,7 @@
  },
  {
   "n": "Kizalishaji cha Open Graph na Twitter Card",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/open-graph-generator/",
+  "u": "https://dev.loonaautomation.com/sw/open-graph-generator/",
   "s": "Loona Dev Tools",
   "d": "Jenga tegi za OG na Kadi za Twitter na onyesho la awali la moja kwa moja la kadi ya kijamii, ili viungo vilivyoshirikiwa vionekane vizuri.",
   "k": "open graph twitter card generator open graph generator jenga tegi za og na kadi za twitter na onyesho la awali la moja kwa moja la kadi ya kijamii ili viungo vilivyoshirikiwa vionekane vizuri",
@@ -415,7 +415,7 @@
  },
  {
   "n": "Kizalishaji cha Robots.txt",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/robots-txt-generator/",
+  "u": "https://dev.loonaautomation.com/sw/robots-txt-generator/",
   "s": "Loona Dev Tools",
   "d": "Jenga robots.txt sahihi kutoka viweko vya awali na kanuni za kila wakala, na ukaguzi wa akili kwenye matokeo.",
   "k": "robots txt generator robots txt generator jenga robots txt sahihi kutoka viweko vya awali na kanuni za kila wakala na ukaguzi wa akili kwenye matokeo",
@@ -424,7 +424,7 @@
  },
  {
   "n": "Kizalishaji cha Ramani ya Tovuti ya XML",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/xml-sitemap-generator/",
+  "u": "https://dev.loonaautomation.com/sw/xml-sitemap-generator/",
   "s": "Loona Dev Tools",
   "d": "Geuza orodha ya URL kuwa sitemap.xml halali kwa lastmod, changefreq na priority za chaguo-msingi.",
   "k": "xml sitemap generator xml sitemap generator geuza orodha ya url kuwa sitemap xml halali kwa lastmod changefreq na priority za chaguo msingi",
@@ -433,7 +433,7 @@
  },
  {
   "n": "Kiundaji cha Kiungo cha UTM",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/utm-link-builder/",
+  "u": "https://dev.loonaautomation.com/sw/utm-link-builder/",
   "s": "Loona Dev Tools",
   "d": "Weka tegi kwenye URL za kampeni kwa vigezo vya UTM - usimbaji sahihi, vigezo vilivyopo vimehifadhiwa, historia ya ndani.",
   "k": "utm link builder utm link builder weka tegi kwenye url za kampeni kwa vigezo vya utm usimbaji sahihi vigezo vilivyopo vimehifadhiwa historia ya ndani",
@@ -442,7 +442,7 @@
  },
  {
   "n": "Kikokotoo cha Subnet ya IP",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/ip-subnet-calculator/",
+  "u": "https://dev.loonaautomation.com/sw/ip-subnet-calculator/",
   "s": "Loona Dev Tools",
   "d": "IPv4 CIDR kwenda mtandao, tangazo, netmask, wildcard, masafa ya wapangishaji na hesabu, pamoja na mwonekano wa kugawanya subneti.",
   "k": "ip subnet calculator ip subnet calculator ipv4 cidr kwenda mtandao tangazo netmask wildcard masafa ya wapangishaji na hesabu pamoja na mwonekano wa kugawanya subneti",
@@ -451,7 +451,7 @@
  },
  {
   "n": "Kizalishaji cha Schema ya JSON-LD",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/json-ld-schema-generator/",
+  "u": "https://dev.loonaautomation.com/sw/json-ld-schema-generator/",
   "s": "Loona Dev Tools",
   "d": "Zalisha data ya muundo ya schema.org - Article, Product, LocalBusiness, Event, Recipe na zaidi - kama JSON-LD halali.",
   "k": "json ld schema generator json ld schema generator zalisha data ya muundo ya schema org article product localbusiness event recipe na zaidi kama json ld halali",
@@ -460,7 +460,7 @@
  },
  {
   "n": "Onyesho la Awali la SERP ya Google",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/google-serp-preview/",
+  "u": "https://dev.loonaautomation.com/sw/google-serp-preview/",
   "s": "Loona Dev Tools",
   "d": "Hakiki kichwa chako na maelezo kama tokeo la Google, kwa maonyo ya ukataji wa upana wa pikseli, mezani na simu.",
   "k": "google serp preview google serp preview hakiki kichwa chako na maelezo kama tokeo la google kwa maonyo ya ukataji wa upana wa pikseli mezani na simu",
@@ -469,7 +469,7 @@
  },
  {
   "n": "Kikaguzi cha Msongamano wa Maneno Muhimu",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/keyword-density-checker/",
+  "u": "https://dev.loonaautomation.com/sw/keyword-density-checker/",
   "s": "Loona Dev Tools",
   "d": "Hesabu maneno ya pekee pamoja na vifungu vya maneno 2 na maneno 3 vyenye msongamano wa asilimia na uchujaji wa maneno ya kusimama.",
   "k": "keyword density checker keyword density checker hesabu maneno ya pekee pamoja na vifungu vya maneno 2 na maneno 3 vyenye msongamano wa asilimia na uchujaji wa maneno ya kusimama",
@@ -478,7 +478,7 @@
  },
  {
   "n": "Kizalishaji cha Jedwali la HTML",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/html-table-generator/",
+  "u": "https://dev.loonaautomation.com/sw/html-table-generator/",
   "s": "Loona Dev Tools",
   "d": "Jenga majedwali kwa kuona katika gridi na upate HTML safi ya kisemantiki na usaidizi wa thead, th na caption.",
   "k": "html table generator html table generator jenga majedwali kwa kuona katika gridi na upate html safi ya kisemantiki na usaidizi wa thead th na caption",
@@ -487,7 +487,7 @@
  },
  {
   "n": "Kizalishaji cha Saini ya Barua Pepe ya HTML",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/email-signature-generator/",
+  "u": "https://dev.loonaautomation.com/sw/email-signature-generator/",
   "s": "Loona Dev Tools",
   "d": "Unda saini ya barua pepe ya kitaalamu kama HTML ya jedwali salama kwa barua pepe inayofanya kazi katika Gmail na Outlook.",
   "k": "html email signature generator email signature generator unda saini ya barua pepe ya kitaalamu kama html ya jedwali salama kwa barua pepe inayofanya kazi katika gmail na outlook",
@@ -496,7 +496,7 @@
  },
  {
   "n": "Kithibitishi cha Barua Pepe",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/email-validator/",
+  "u": "https://dev.loonaautomation.com/sw/email-validator/",
   "s": "Loona Dev Tools",
   "d": "Kagua kwa wingi anwani za barua pepe kwa hitilafu za sintaksia na makosa ya kawaida ya kuandika vikoa kama gmial.com, na mapendekezo.",
   "k": "email validator email validator kagua kwa wingi anwani za barua pepe kwa hitilafu za sintaksia na makosa ya kawaida ya kuandika vikoa kama gmial com na mapendekezo",
@@ -505,7 +505,7 @@
  },
  {
   "n": "Kizalishaji cha Clip-Path ya CSS",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/css-clip-path-generator/",
+  "u": "https://dev.loonaautomation.com/sw/css-clip-path-generator/",
   "s": "Loona Dev Tools",
   "d": "Zalisha CSS ya clip-path - mipangilio tayari ya poligoni yenye nukta zinazoweza kurekebishwa, pamoja na maumbo ya duara, duaradufu na ya ndani.",
   "k": "css clip path generator css clip path generator zalisha css ya clip path mipangilio tayari ya poligoni yenye nukta zinazoweza kurekebishwa pamoja na maumbo ya duara duaradufu na ya ndani",
@@ -514,7 +514,7 @@
  },
  {
   "n": "Kizalishaji cha Box Shadow ya CSS",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/css-box-shadow-generator/",
+  "u": "https://dev.loonaautomation.com/sw/css-box-shadow-generator/",
   "s": "Loona Dev Tools",
   "d": "Jenga CSS ya box-shadow yenye tabaka na usaidizi wa inset, udhibiti wa rangi na uwazi, na onyesho la awali la moja kwa moja.",
   "k": "css box shadow generator css box shadow generator jenga css ya box shadow yenye tabaka na usaidizi wa inset udhibiti wa rangi na uwazi na onyesho la awali la moja kwa moja",
@@ -523,7 +523,7 @@
  },
  {
   "n": "Kiumbaji & Kithibitishi cha XML",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/xml-formatter/",
+  "u": "https://dev.loonaautomation.com/sw/xml-formatter/",
   "s": "Loona Dev Tools",
   "d": "Pamba, bana na thibitisha XML - ukaguzi wa usawa wa tegi wa uundaji mzuri wenye jumbe wazi za hitilafu.",
   "k": "xml formatter validator xml formatter pamba bana na thibitisha xml ukaguzi wa usawa wa tegi wa uundaji mzuri wenye jumbe wazi za hitilafu",
@@ -532,7 +532,7 @@
  },
  {
   "n": "Kibadilishaji cha Markdown kwenda HTML",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/markdown-to-html-converter/",
+  "u": "https://dev.loonaautomation.com/sw/markdown-to-html-converter/",
   "s": "Loona Dev Tools",
   "d": "Badilisha Markdown ya kila siku kuwa HTML safi na onyesho la awali lililoonyeshwa moja kwa moja - vichwa, orodha, msimbo na zaidi.",
   "k": "markdown to html converter markdown to html converter badilisha markdown ya kila siku kuwa html safi na onyesho la awali lililoonyeshwa moja kwa moja vichwa orodha msimbo na zaidi",
@@ -541,7 +541,7 @@
  },
  {
   "n": "Kigeuzaji Mkao cha CSV",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/csv-transpose/",
+  "u": "https://dev.loonaautomation.com/sw/csv-transpose/",
   "s": "Loona Dev Tools",
   "d": "Badilisha safu mlalo na safu wima za CSV kwa kichanganua sahihi - kugeuza mkao mara mbili hurejesha asili.",
   "k": "csv transpose csv transpose badilisha safu mlalo na safu wima za csv kwa kichanganua sahihi kugeuza mkao mara mbili hurejesha asili",
@@ -550,7 +550,7 @@
  },
  {
   "n": "Kiunganishaji cha CSV",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/csv-join/",
+  "u": "https://dev.loonaautomation.com/sw/csv-join/",
   "s": "Loona Dev Tools",
   "d": "Unganisha CSV mbili kwa safu wima ya ufunguo - muunganiko wa ndani au wa kushoto, funguo zilizorudiwa zikishughulikiwa kwa njia ya hifadhidata.",
   "k": "csv join csv join unganisha csv mbili kwa safu wima ya ufunguo muunganiko wa ndani au wa kushoto funguo zilizorudiwa zikishughulikiwa kwa njia ya hifadhidata",
@@ -559,7 +559,7 @@
  },
  {
   "n": "CSV Pivot / Kupanga kwa Vikundi",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/csv-pivot-group-by/",
+  "u": "https://dev.loonaautomation.com/sw/csv-pivot-group-by/",
   "s": "Loona Dev Tools",
   "d": "Panga safu mlalo za CSV kwa kundi la safu wima kwa jumla, hesabu, wastani, kiwango cha chini au cha juu cha safu wima ya thamani.",
   "k": "csv pivot group by csv pivot group by panga safu mlalo za csv kwa kundi la safu wima kwa jumla hesabu wastani kiwango cha chini au cha juu cha safu wima ya thamani",
@@ -568,7 +568,7 @@
  },
  {
   "n": "CSV Diff / Kulinganisha",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/csv-diff/",
+  "u": "https://dev.loonaautomation.com/sw/csv-diff/",
   "s": "Loona Dev Tools",
   "d": "Linganisha CSV mbili kwa safu wima ya ufunguo - safu mlalo zilizoongezwa, kuondolewa na kubadilika na seli hasa.",
   "k": "csv diff compare csv diff linganisha csv mbili kwa safu wima ya ufunguo safu mlalo zilizoongezwa kuondolewa na kubadilika na seli hasa",
@@ -577,7 +577,7 @@
  },
  {
   "n": "Kitoaji cha Data ya CSV",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/csv-data-extractor/",
+  "u": "https://dev.loonaautomation.com/sw/csv-data-extractor/",
   "s": "Loona Dev Tools",
   "d": "Toa barua pepe, nambari za simu na URL kutoka CSV au maandishi yenye fujo kuwa orodha safi, zisizorudiwa.",
   "k": "csv data extractor csv data extractor toa barua pepe nambari za simu na url kutoka csv au maandishi yenye fujo kuwa orodha safi zisizorudiwa",
@@ -586,7 +586,7 @@
  },
  {
   "n": "Kichambuzi cha CSV",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/csv-profiler/",
+  "u": "https://dev.loonaautomation.com/sw/csv-profiler/",
   "s": "Loona Dev Tools",
   "d": "Makisio ya aina ya kila safu wima, hesabu za utupu, hesabu za kipekee, kiwango cha chini/cha juu cha nambari na thamani za juu.",
   "k": "csv profiler csv profiler makisio ya aina ya kila safu wima hesabu za utupu hesabu za kipekee kiwango cha chini cha juu cha nambari na thamani za juu",
@@ -595,7 +595,7 @@
  },
  {
   "n": "Kijaribu cha Robots.txt",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/robots-txt-tester/",
+  "u": "https://dev.loonaautomation.com/sw/robots-txt-tester/",
   "s": "Loona Dev Tools",
   "d": "Jaribu URL na user-agent dhidi ya kanuni za robots.txt - uamuzi pamoja na kanuni kamili inayolingana.",
   "k": "robots txt tester robots txt tester jaribu url na user agent dhidi ya kanuni za robots txt uamuzi pamoja na kanuni kamili inayolingana",
@@ -604,7 +604,7 @@
  },
  {
   "n": "Kikaguzi cha Usomaji wa SEO",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/readability-checker/",
+  "u": "https://dev.loonaautomation.com/sw/readability-checker/",
   "s": "Loona Dev Tools",
   "d": "Fomula sita za usomaji pamoja na takwimu za sentensi kwa nakala ya wavuti, zimeundwa kwa kazi ya maudhui ya SEO.",
   "k": "seo readability checker readability checker fomula sita za usomaji pamoja na takwimu za sentensi kwa nakala ya wavuti zimeundwa kwa kazi ya maudhui ya seo",
@@ -613,7 +613,7 @@
  },
  {
   "n": "Kizalishaji cha llms.txt",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/llms-txt-generator/",
+  "u": "https://dev.loonaautomation.com/sw/llms-txt-generator/",
   "s": "Loona Dev Tools",
   "d": "Jenga faili ya llms.txt inayoelekea AI - blockquote ya muhtasari pamoja na viungo vya kurasa vilivyochaguliwa kwa muundo wa vipimo.",
   "k": "llms txt generator llms txt generator jenga faili ya llms txt inayoelekea ai blockquote ya muhtasari pamoja na viungo vya kurasa vilivyochaguliwa kwa muundo wa vipimo",
@@ -622,7 +622,7 @@
  },
  {
   "n": "Kizalishaji cha Tegi za Hreflang",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/hreflang-tag-generator/",
+  "u": "https://dev.loonaautomation.com/sw/hreflang-tag-generator/",
   "s": "Loona Dev Tools",
   "d": "Jenga seti za viungo mbadala vya hreflang na x-default na ukaguzi wa BCP 47 / URL kamili.",
   "k": "hreflang tag generator hreflang tag generator jenga seti za viungo mbadala vya hreflang na x default na ukaguzi wa bcp 47 url kamili",
@@ -631,7 +631,7 @@
  },
  {
   "n": "Kitazamaji cha Metadata ya Hati ya Office",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/office-metadata-viewer/",
+  "u": "https://dev.loonaautomation.com/sw/office-metadata-viewer/",
   "s": "Loona Dev Tools",
   "d": "Soma sifa za DOCX, XLSX na PPTX - kichwa, mwandishi, kampuni, tarehe - tazama tu, kwenye kifaa.",
   "k": "office document metadata viewer office metadata viewer soma sifa za docx xlsx na pptx kichwa mwandishi kampuni tarehe tazama tu kwenye kifaa",
@@ -640,7 +640,7 @@
  },
  {
   "n": "Kigunduzi cha Aina ya Faili",
-  "u": "https://loonaautomation.github.io/loona-dev-tools/sw/file-type-detector/",
+  "u": "https://dev.loonaautomation.com/sw/file-type-detector/",
   "s": "Loona Dev Tools",
   "d": "Gundua aina halisi ya faili kutoka baiti zake za uchawi na uonye kiendelezi kinapokosa kukubaliana.",
   "k": "file type detector file type detector gundua aina halisi ya faili kutoka baiti zake za uchawi na uonye kiendelezi kinapokosa kukubaliana",

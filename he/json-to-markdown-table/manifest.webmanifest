@@ -2,7 +2,7 @@
   "name": "ממיר Loona JSON לטבלת Markdown",
   "short_name": "JSON לטבלת Markdown",
   "description": "המירו מערך JSON של אובייקטים לטבלת Markdown: עמודות מהמפתחות, קווים אנכיים מבורחים, מוכן להדבקה ב-README.",
-  "id": "/loona-dev-tools/he/json-to-markdown-table/",
+  "id": "/he/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

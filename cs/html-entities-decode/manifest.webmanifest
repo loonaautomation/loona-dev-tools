@@ -2,7 +2,7 @@
   "name": "Dekodér entit Loona HTML",
   "short_name": "Dekodér entit HTML",
   "description": "Dekódujte entity HTML zpět na prosté znaky: pojmenované, desítkové a hexadecimální odkazy (&copy;, &#169;, &#xA9;) všechny podporovány.",
-  "id": "/loona-dev-tools/cs/html-entities-decode/",
+  "id": "/cs/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

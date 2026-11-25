@@ -2,7 +2,7 @@
   "name": "Loona Markdownból HTML-be átalakító online ingyen",
   "short_name": "Markdownból HTML-be átalakító",
   "description": "Alakítson Markdownt HTML-lé online ingyen - címsorok, félkövér, dőlt, linkek, képek, listák, idézetblokkok, kódblokkok és még több, élő megjelenített előnézettel. Regisztráció nélkül.",
-  "id": "/loona-dev-tools/hu/markdown-to-html-converter/",
+  "id": "/hu/markdown-to-html-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

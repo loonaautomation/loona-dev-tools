@@ -2,7 +2,7 @@
   "name": "Loona A1Z26-salauksen purkaja (Numerot kirjaimiksi)",
   "short_name": "A1Z26-salauksen purkaja (Numerot",
   "description": "Pura A1Z26-numerokoodeja takaisin kirjaimiksi: 1=A, 2=B ... 26=Z. Yhdysviivalla, pilkulla tai välilyönnillä erotettuna.",
-  "id": "/loona-dev-tools/fi/a1z26-cipher-decoder/",
+  "id": "/fi/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

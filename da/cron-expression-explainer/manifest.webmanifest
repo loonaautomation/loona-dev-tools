@@ -2,7 +2,7 @@
   "name": "Loona Cron-udtryksforklarer",
   "short_name": "Cron-udtryksforklarer",
   "description": "Forklar cron-udtryk på almindeligt dansk: indsæt en cron-plan med 5 felter, og læs, hvornår den kører, felt for felt.",
-  "id": "/loona-dev-tools/da/cron-expression-explainer/",
+  "id": "/da/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona e-postvalidator på nett gratis",
   "short_name": "E-postvalidator på nett gratis",
   "description": "Valider e-postadresser på nett gratis, én eller i bulk - fulle syntaksjekker mot adressereglene pluss deteksjon av vanlige domene-skrivefeil som gmial.com. Ingen registrering.",
-  "id": "/loona-dev-tools/nb/email-validator/",
+  "id": "/nb/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

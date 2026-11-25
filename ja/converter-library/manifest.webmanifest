@@ -2,7 +2,7 @@
   "name": "Loona 変換ツール＆生成ツールライブラリ",
   "short_name": "変換ツール＆生成ツールライブラリ",
   "description": "Loona Developer Toolsのすべての変換ツールと生成ツールの索引です。エンコーディング、データ形式、ハッシュ、色、アーカイブ、コード生成ツール、リファレンス。",
-  "id": "/loona-dev-tools/ja/converter-library/",
+  "id": "/ja/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

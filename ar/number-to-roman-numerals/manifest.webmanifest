@@ -2,7 +2,7 @@
   "name": "Loona الأرقام إلى الأرقام الرومانية",
   "short_name": "الأرقام إلى الأرقام الرومانية",
   "description": "حوّل الأرقام (1–3999) إلى أرقام رومانية بصيغة طرحية قياسية. محوّل مجاني عبر الإنترنت.",
-  "id": "/loona-dev-tools/ar/number-to-roman-numerals/",
+  "id": "/ar/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

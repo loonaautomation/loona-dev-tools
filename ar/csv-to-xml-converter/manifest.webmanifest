@@ -2,7 +2,7 @@
   "name": "Loona محوّل CSV إلى XML عبر الإنترنت مجاناً",
   "short_name": "محوّل CSV إلى XML عبر الإنترنت",
   "description": "حوّل CSV إلى XML عبر الإنترنت مجاناً مع أسماء عناصر جذر وصف قابلة للتهيئة وتهريب XML صحيح. دون تسجيل، يعمل 100% في متصفحك.",
-  "id": "/loona-dev-tools/ar/csv-to-xml-converter/",
+  "id": "/ar/csv-to-xml-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Анализатор заголовков cookie",
   "short_name": "Парсер заголовков Cookie",
   "description": "Разбор заголовка Cookie в читаемый список: пары имя = значение, значения после процентного декодирования, количество cookie.",
-  "id": "/loona-dev-tools/ru/cookie-parser/",
+  "id": "/ru/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

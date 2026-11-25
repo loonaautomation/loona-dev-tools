@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha YAML kwenda JSON Bure Mtandaoni",
   "short_name": "Kibadilishaji cha YAML kwenda JSON Mtandaoni",
   "description": "Badilisha YAML kuwa JSON na JSON kuwa YAML mtandaoni bure. Huunga mkono sehemu ndogo ya kila siku: ramani zilizoingiliana, orodha na scalar, na vikomo vimetajwa kwa uaminifu. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/yaml-json-converter/",
+  "id": "/sw/yaml-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

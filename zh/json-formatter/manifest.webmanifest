@@ -2,7 +2,7 @@
   "name": "Loona JSON 格式化工具 在线免费",
   "short_name": "JSON 格式化工具 在线免费",
   "description": "免费在线格式化、验证和压缩 JSON，带任何错误的确切行和列。无需注册，100% 在您的浏览器中运行。",
-  "id": "/loona-dev-tools/zh/json-formatter/",
+  "id": "/zh/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

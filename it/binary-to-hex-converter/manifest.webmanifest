@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da binario a esadecimale",
   "short_name": "Da binario a esadecimale",
   "description": "Converti numeri binari in esadecimale online — precisione arbitraria (BigInt), numeri negativi supportati.",
-  "id": "/loona-dev-tools/it/binary-to-hex-converter/",
+  "id": "/it/binary-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

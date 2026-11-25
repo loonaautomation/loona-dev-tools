@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Expressões Cron Online Grátis",
   "short_name": "Gerador de Expressões Cron",
   "description": "Construa expressões cron a partir de listas pendentes e explique qualquer expressão cron de 5-field em linguagem simples, online grátis. Sem registro, funciona 100% no seu navegador.",
-  "id": "/loona-dev-tools/pt-br/cron-expression-generator/",
+  "id": "/pt-br/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

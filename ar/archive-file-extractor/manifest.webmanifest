@@ -2,7 +2,7 @@
   "name": "Loona مستخرج ملفات الأرشيف عبر الإنترنت مجاناً",
   "short_name": "مستخرج ملفات الأرشيف عبر الإنترنت",
   "description": "فاتح أرشيفات عالمي واحد: أسقط أي ملف ZIP أو RAR أو 7Z أو TAR أو TAR.GZ أو TAR.BZ2 أو TAR.XZ أو ISO واستخرج محتوياته في متصفحك مباشرة. يُكتشف التنسيق تلقائياً؛ لا يُرفع شيء.",
-  "id": "/loona-dev-tools/ar/archive-file-extractor/",
+  "id": "/ar/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Проверка читаемости SEO онлайн бесплатно",
   "short_name": "Проверка читаемости для SEO",
   "description": "Проверяйте читаемость содержимого для SEO онлайн бесплатно — баллы Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG и ARI плюс статистика длины предложений для веб-текстов. Без регистрации.",
-  "id": "/loona-dev-tools/ru/readability-checker/",
+  "id": "/ru/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้างแฮชออนไลน์ฟรี",
   "short_name": "ตัวสร้างแฮชออนไลน์ฟรี",
   "description": "สร้างแฮช SHA-1, SHA-256, SHA-384 และ SHA-512 ของข้อความใด ๆ ออนไลน์ฟรี คำนวณภายในเบราว์เซอร์ของคุณ ไม่ต้องสมัครสมาชิก ไม่มีการอัปโหลด",
-  "id": "/loona-dev-tools/th/hash-generator/",
+  "id": "/th/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

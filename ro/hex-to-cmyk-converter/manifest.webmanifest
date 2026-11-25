@@ -2,7 +2,7 @@
   "name": "Convertizor HEX în CMYK Loona",
   "short_name": "Convertizor HEX în CMYK",
   "description": "Convertește culori din HEX în CMYK online, cu un eșantion în direct și toate celelalte formate (HEX, RGB, HSL, HSV, CMYK) afișate și ele.",
-  "id": "/loona-dev-tools/ro/hex-to-cmyk-converter/",
+  "id": "/ro/hex-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

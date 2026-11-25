@@ -2,7 +2,7 @@
   "name": "Loona Text to Unicode Escape Sequences",
   "short_name": "Text to Unicode Escape Sequences",
   "description": "Escape text to Unicode escape sequences (\\uXXXX) for JSON, JavaScript, Java and properties files. Handles emoji via surrogate pairs.",
-  "id": "/loona-dev-tools/en-us/unicode-escape/",
+  "id": "/en-us/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

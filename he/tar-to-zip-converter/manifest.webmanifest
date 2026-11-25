@@ -2,7 +2,7 @@
   "name": "ממיר Loona TAR ל-ZIP מקוון בחינם",
   "short_name": "ממיר TAR ל-ZIP מקוון",
   "description": "המירו ארכיון TAR ‏(.tar) לקובץ ZIP ממש בדפדפן שלכם. קבצי TAR מגיעים ממערכות Linux ו-Unix; ה-ZIP המומר נפתח באופן מובנה ב-Windows, macOS וטלפונים. שום דבר לא מועלה.",
-  "id": "/loona-dev-tools/he/tar-to-zip-converter/",
+  "id": "/he/tar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

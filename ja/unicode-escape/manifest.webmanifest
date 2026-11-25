@@ -2,7 +2,7 @@
   "name": "Loona Unicodeエスケープ変換ツール（\\uXXXX）",
   "short_name": "Unicodeエスケープ変換ツール",
   "description": "テキストをUnicodeエスケープシーケンス（\\uXXXX）にエスケープします。JSON、JavaScript、Java、propertiesファイル向けです。絵文字はサロゲートペアで処理します。",
-  "id": "/loona-dev-tools/ja/unicode-escape/",
+  "id": "/ja/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας XML σε CSV",
   "short_name": "Μετατροπέας XML σε CSV",
   "description": "Μετατρέψτε XML σε CSV: τα επαναλαμβανόμενα στοιχεία γίνονται γραμμές, τα παιδιά και οι ιδιότητές τους γίνονται στήλες. Δωρεάν διαδικτυακός μετατροπέας.",
-  "id": "/loona-dev-tools/el/xml-to-csv/",
+  "id": "/el/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Ramani ya Tovuti ya XML Bure Mtandaoni",
   "short_name": "Kizalishaji cha Ramani ya Tovuti ya XML Mtandaoni",
   "description": "Zalisha ramani halali ya tovuti ya XML mtandaoni bure kutoka orodha ya URL, kwa lastmod, changefreq na kipaumbele vya chaguo-msingi, na utoroshaji sahihi wa URL na XML. Bila kujisajili, hufanya kazi kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/xml-sitemap-generator/",
+  "id": "/sw/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

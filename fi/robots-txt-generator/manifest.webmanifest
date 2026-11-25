@@ -2,7 +2,7 @@
   "name": "Loona Robots.txt-generaattori verkossa ilmaiseksi",
   "short_name": "Robots.txt-generaattori verkossa",
   "description": "Luo kelvollinen robots.txt verkossa ilmaiseksi - esiasetukset, agenttikohtaiset allow- ja disallow-säännöt, sivustokarttarivi ja sisäänrakennetut syntaksin järkevyystarkistukset. Ei rekisteröitymistä, toimii selaimessasi.",
-  "id": "/loona-dev-tools/fi/robots-txt-generator/",
+  "id": "/fi/robots-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

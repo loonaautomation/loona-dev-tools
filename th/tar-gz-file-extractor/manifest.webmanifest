@@ -2,7 +2,7 @@
   "name": "Loona ตัวแยกไฟล์ TAR.GZ ออนไลน์ฟรี",
   "short_name": "ตัวแยกไฟล์ TAR.GZ ออนไลน์",
   "description": "เปิดไฟล์บีบอัด tar.gz ในเบราว์เซอร์ของคุณเลย - ทั้ง .tar.gz และชื่อย่อ .tgz - ดูทุกไฟล์ภายในและดาวน์โหลดไฟล์เดียวหรือทุกอย่างเป็น ZIP ไม่มีการอัปโหลด",
-  "id": "/loona-dev-tools/th/tar-gz-file-extractor/",
+  "id": "/th/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

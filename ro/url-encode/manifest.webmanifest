@@ -2,7 +2,7 @@
   "name": "Codificare URL Loona (codificare procentuală)",
   "short_name": "Codificare URL (codificare procentuală)",
   "description": "Codifică procentual text sau un URL complet online: spațiile devin %20, caracterele rezervate sunt escapate conform RFC 3986. Modul componentă sau URL complet.",
-  "id": "/loona-dev-tools/ro/url-encode/",
+  "id": "/ro/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

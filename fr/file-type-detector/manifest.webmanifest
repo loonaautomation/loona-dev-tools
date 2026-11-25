@@ -2,7 +2,7 @@
   "name": "Détecteur de type de fichier Loona en ligne gratuit",
   "short_name": "Détecteur de type de fichier en ligne gratuit",
   "description": "Détectez le type réel d’un fichier en ligne et gratuitement à partir de sa signature d’en-tête en octets magiques - PNG, PDF, ZIP, MP4, EXE et plus de 30 formats - et recevez un avertissement lorsque l’extension n’est pas d’accord. Rien n’est téléversé.",
-  "id": "/loona-dev-tools/fr/file-type-detector/",
+  "id": "/fr/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

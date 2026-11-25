@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ-filudpakker online gratis",
   "short_name": "TAR.GZ-filudpakker online",
   "description": "Åbn tar.gz-arkiver direkte i din browser - både .tar.gz og det korte .tgz-navn - se hver fil inde i, og download enkelte filer eller alt som en ZIP. Intet uploades.",
-  "id": "/loona-dev-tools/da/tar-gz-file-extractor/",
+  "id": "/da/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

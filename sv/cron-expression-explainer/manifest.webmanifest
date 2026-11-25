@@ -2,7 +2,7 @@
   "name": "Loona Cron-uttrycksförklarare",
   "short_name": "Cron-uttrycksförklarare",
   "description": "Förklara cron-uttryck på enkel svenska: klistra in ett cron-schema med 5 fält och läs när det körs, fält för fält.",
-  "id": "/loona-dev-tools/sv/cron-expression-explainer/",
+  "id": "/sv/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

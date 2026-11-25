@@ -2,7 +2,7 @@
   "name": "מחשבון רשתות IP של Loona מקוון בחינם",
   "short_name": "מחשבון רשתות IP (Subnet) מקוון",
   "description": "חשבו רשתות משנה של IPv4 באופן מקוון בחינם - רשת, שידור, מסכת רשת, wildcard, מארח ראשון ואחרון, מספר מארחים שמישים ומחלקת IP מכל כתובת CIDR, בתוספת תצוגת פיצול רשתות משנה.",
-  "id": "/loona-dev-tools/he/ip-subnet-calculator/",
+  "id": "/he/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

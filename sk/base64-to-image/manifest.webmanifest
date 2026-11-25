@@ -2,7 +2,7 @@
   "name": "Prevodník Loona Base64 na obrázok",
   "short_name": "Prevodník Base64 na obrázok",
   "description": "Dekódujte reťazec Base64 alebo data URI späť na zobraziteľný, stiahnuteľný obrázok. Typ MIME sa zistí z bajtov.",
-  "id": "/loona-dev-tools/sk/base64-to-image/",
+  "id": "/sk/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

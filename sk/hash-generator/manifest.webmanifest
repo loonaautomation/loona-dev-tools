@@ -2,7 +2,7 @@
   "name": "Generátor hashov Loona online zadarmo",
   "short_name": "Generátor hashov online zadarmo",
   "description": "Generujte hashe SHA-1, SHA-256, SHA-384 a SHA-512 ľubovoľného textu online zadarmo, vypočítané lokálne vo vašom prehliadači. Bez registrácie, nič sa nenahráva.",
-  "id": "/loona-dev-tools/sk/hash-generator/",
+  "id": "/sk/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

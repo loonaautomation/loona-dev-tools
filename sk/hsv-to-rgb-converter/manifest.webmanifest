@@ -2,7 +2,7 @@
   "name": "Prevodník Loona HSV na RGB",
   "short_name": "Prevodník HSV na RGB",
   "description": "Prevádzajte farby z HSV na RGB online, so živým vzorkovníkom a zobrazenými aj všetkými ostatnými formátmi (HEX, RGB, HSL, HSV, CMYK).",
-  "id": "/loona-dev-tools/sk/hsv-to-rgb-converter/",
+  "id": "/sk/hsv-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

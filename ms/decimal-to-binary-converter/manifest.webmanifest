@@ -2,7 +2,7 @@
   "name": "Loona Penukar Desimal ke Binari",
   "short_name": "Penukar Desimal ke Binari",
   "description": "Penukaran angka desimal ke binari dalam talian — presisi arbitrer (BigInt), angka negatif didukung.",
-  "id": "/loona-dev-tools/ms/decimal-to-binary-converter/",
+  "id": "/ms/decimal-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

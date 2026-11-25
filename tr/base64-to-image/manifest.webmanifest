@@ -2,7 +2,7 @@
   "name": "Loona Base64 - Görsel Dönüştürücü",
   "short_name": "Base64 - Görsel Dönüştürücü",
   "description": "Bir Base64 dizesini veya data URI değerini, görüntülenebilir, indirilebilir bir görsele geri çözün. MIME türü baytlardan algılanır.",
-  "id": "/loona-dev-tools/tr/base64-to-image/",
+  "id": "/tr/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

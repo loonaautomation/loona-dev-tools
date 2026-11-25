@@ -2,7 +2,7 @@
   "name": "Loona Generator JSON na schemat JSON",
   "short_name": "Generator JSON na schemat JSON",
   "description": "Generuj schemat JSON (draft 2020-12) z próbki JSON: typy wywnioskowane, właściwości obiektów i wymagane klucze w zestawie.",
-  "id": "/loona-dev-tools/pl/json-to-json-schema/",
+  "id": "/pl/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

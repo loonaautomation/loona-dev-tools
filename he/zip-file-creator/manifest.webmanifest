@@ -2,7 +2,7 @@
   "name": "יוצר קבצי Loona ZIP מקוון בחינם",
   "short_name": "יוצר קבצי ZIP מקוון בחינם",
   "description": "צרו קובץ ZIP מקבצים מרובים ממש בדפדפן שלכם - הוסיפו קבצים, תנו שם לארכיון והורידו .zip אחד. שום דבר לא מועלה; הכול נשאר על המכשיר שלכם.",
-  "id": "/loona-dev-tools/he/zip-file-creator/",
+  "id": "/he/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

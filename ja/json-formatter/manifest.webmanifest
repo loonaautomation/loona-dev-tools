@@ -2,7 +2,7 @@
   "name": "Loona JSONフォーマッター 無料オンライン",
   "short_name": "JSONフォーマッター 無料オンライン",
   "description": "JSONを無料でオンラインでフォーマット、検証、ミニファイできます。エラーの正確な行と列付きです。登録不要、ブラウザで100%動作します。",
-  "id": "/loona-dev-tools/ja/json-formatter/",
+  "id": "/ja/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

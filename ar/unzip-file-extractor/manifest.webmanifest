@@ -2,7 +2,7 @@
   "name": "Loona مستخرج ملفات فكّ الضغط عبر الإنترنت مجاناً",
   "short_name": "مستخرج ملفات فكّ الضغط عبر الإنترنت",
   "description": "افتح ملف ZIP في متصفحك، اطّلع على كل ملف بداخله مع حجمه، واستخرج ملفات مفردة أو كلها. لا يُرفع شيء؛ الاستخراج يحدث على جهازك.",
-  "id": "/loona-dev-tools/ar/unzip-file-extractor/",
+  "id": "/ar/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

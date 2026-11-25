@@ -2,7 +2,7 @@
   "name": "Loona Decimal से Octal कन्वर्टर",
   "short_name": "Decimal से Octal कन्वर्टर",
   "description": "Decimal संख्याओं को octal में ऑनलाइन बदलें — arbitrary precision (BigInt), negative numbers supported।",
-  "id": "/loona-dev-tools/hi/decimal-to-octal-converter/",
+  "id": "/hi/decimal-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

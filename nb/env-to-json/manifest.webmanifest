@@ -2,7 +2,7 @@
   "name": "Loona .env til JSON-konverterer",
   "short_name": ".env til JSON-konverterer",
   "description": "Parse en .env-fil til JSON: KEY=value-linjer, export-prefikser, kommentarer og anførselsverdier håndtert.",
-  "id": "/loona-dev-tools/nb/env-to-json/",
+  "id": "/nb/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

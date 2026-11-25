@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง cURL เป็น Fetch",
   "short_name": "ตัวแปลง cURL เป็น Fetch",
   "description": "แปลงคำสั่ง cURL เป็นโค้ด fetch() ของ JavaScript: ส่วนหัว เมธอด ข้อมูล basic auth และ --json ถูกจัดการ",
-  "id": "/loona-dev-tools/th/curl-to-fetch/",
+  "id": "/th/curl-to-fetch/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona INI - JSON Dönüştürücü",
   "short_name": "INI - JSON Dönüştürücü",
   "description": "INI yapılandırma dosyalarını JSON biçimine dönüştürün: bölümler nesne olur, değerler belirsiz olmadığında tiplenir (sayılar, boolean değerler).",
-  "id": "/loona-dev-tools/tr/ini-to-json/",
+  "id": "/tr/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

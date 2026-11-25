@@ -2,7 +2,7 @@
   "name": "Convertizor JSON în Dataclass Python Loona",
   "short_name": "JSON în Dataclass Python",
   "description": "Convertește JSON în dataclasses Python cu indicații de tip: obiectele imbricate devin dataclasses imbricate, tipuri List pentru tablouri.",
-  "id": "/loona-dev-tools/ro/json-to-python-dataclass/",
+  "id": "/ro/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

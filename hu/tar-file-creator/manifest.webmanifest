@@ -2,7 +2,7 @@
   "name": "Loona TAR fájlkészítő online ingyen",
   "short_name": "TAR fájlkészítő online ingyen",
   "description": "Hozzon létre TAR archívumot (.tar) több fájlból közvetlenül a böngészőjében - egy specifikáció szerint helyes ustar író, mappa opció, valódi időbélyegek. Semmi sem töltődik fel; a tarball az eszközén épül, és bármely tar eszközzel nyílik.",
-  "id": "/loona-dev-tools/hu/tar-file-creator/",
+  "id": "/hu/tar-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

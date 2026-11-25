@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/rot13-encoder/",
+  "id": "/en-gb/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha ZIP kwenda TAR.GZ Bure Mtandaoni",
   "short_name": "Kibadilishaji cha ZIP kwenda TAR.GZ",
   "description": "Badilisha hifadhi ya ZIP kuwa tarball ya TAR.GZ (.tar.gz) moja kwa moja kwenye kivinjari chako - muundo ambao seva za Linux, Docker na zana za kujenga hutazamia. Muundo wa folda umehifadhiwa, hakuna kilichopakiwa.",
-  "id": "/loona-dev-tools/sw/zip-to-tar-gz-converter/",
+  "id": "/sw/zip-to-tar-gz-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

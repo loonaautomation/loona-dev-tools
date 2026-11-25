@@ -2,7 +2,7 @@
   "name": "Loona A1Z26-chifferavkodare (siffror till bokstäver)",
   "short_name": "A1Z26-chifferavkodare (siffror",
   "description": "Avkoda A1Z26-sifferkoder tillbaka till bokstäver: 1=A, 2=B ... 26=Z. Separerade med bindestreck, kommatecken eller mellanslag.",
-  "id": "/loona-dev-tools/sv/a1z26-cipher-decoder/",
+  "id": "/sv/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

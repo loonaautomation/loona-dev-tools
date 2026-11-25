@@ -2,7 +2,7 @@
   "name": "ממיר Loona RAR ל-ZIP מקוון בחינם",
   "short_name": "ממיר RAR ל-ZIP מקוון",
   "description": "המירו ארכיון RAR ‏(.rar) לקובץ ZIP סטנדרטי ממש בדפדפן שלכם. מבנה התיקיות נשמר, שום דבר לא מועלה, וה-ZIP נפתח בכל מקום - Windows, macOS, Android ו-iPhone כולם פותחים ZIP באופן מובנה.",
-  "id": "/loona-dev-tools/he/rar-to-zip-converter/",
+  "id": "/he/rar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

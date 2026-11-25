@@ -2,7 +2,7 @@
   "name": "Převodník Loona CSV na tabulku Markdown online",
   "short_name": "CSV na tabulku Markdown",
   "description": "Převádějte CSV na tabulku Markdown online zdarma - číselné sloupce zarovnané doprava automaticky a znaky svislé čáry escapovány správně. Bez registrace, běží 100% ve vašem prohlížeči.",
-  "id": "/loona-dev-tools/cs/csv-to-markdown-converter/",
+  "id": "/cs/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

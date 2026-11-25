@@ -2,7 +2,7 @@
   "name": "Loona pretvarač Base64 u sliku",
   "short_name": "Pretvarač Base64 u sliku",
   "description": "Dekodirajte Base64 niz ili data URI natrag u sliku koju se može pregledati i preuzeti. MIME vrsta otkriva se iz bajtova.",
-  "id": "/loona-dev-tools/hr/base64-to-image/",
+  "id": "/hr/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

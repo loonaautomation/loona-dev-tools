@@ -2,7 +2,7 @@
   "name": "Formátovač Loona JSON online zdarma",
   "short_name": "Formátovač JSON online zdarma",
   "description": "Formátujte, ověřujte a minifikujte JSON online zdarma, s přesným řádkem a sloupcem každé chyby. Bez registrace, běží 100% ve vašem prohlížeči.",
-  "id": "/loona-dev-tools/cs/json-formatter/",
+  "id": "/cs/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

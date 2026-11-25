@@ -2,7 +2,7 @@
   "name": "Loona User Agent String पार्सर",
   "short_name": "User Agent String पार्सर",
   "description": "Browser User-Agent string को browser, engine, OS और device type में एक transparent rule-based parser से parse करें।",
-  "id": "/loona-dev-tools/hi/user-agent-parser/",
+  "id": "/hi/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

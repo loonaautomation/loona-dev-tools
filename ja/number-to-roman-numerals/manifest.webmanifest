@@ -2,7 +2,7 @@
   "name": "Loona 数字→ローマ数字変換ツール",
   "short_name": "数字→ローマ数字",
   "description": "数値をローマ数字に変換（1–3999）。標準の減算形式で。無料のオンライン変換ツール。",
-  "id": "/loona-dev-tools/ja/number-to-roman-numerals/",
+  "id": "/ja/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

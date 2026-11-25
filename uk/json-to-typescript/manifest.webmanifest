@@ -2,7 +2,7 @@
   "name": "Конвертер Loona JSON в інтерфейси TypeScript",
   "short_name": "JSON в інтерфейс TypeScript",
   "description": "Конвертуйте JSON в інтерфейси TypeScript онлайн: вкладені об’єкти стають іменованими інтерфейсами, масиви об’єктів об’єднують свої ключі з позначеними необов’язковими полями.",
-  "id": "/loona-dev-tools/uk/json-to-typescript/",
+  "id": "/uk/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

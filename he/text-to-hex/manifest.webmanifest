@@ -2,7 +2,7 @@
   "name": "ממיר Loona טקסט ל-Hex",
   "short_name": "ממיר טקסט להקסדצימלי",
   "description": "המירו טקסט להקסדצימלי (בתי UTF-8) באופן מקוון, עם או בלי רווחים בין בתים. ממיר פיתוח בחינם.",
-  "id": "/loona-dev-tools/he/text-to-hex/",
+  "id": "/he/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

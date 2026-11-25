@@ -2,7 +2,7 @@
   "name": "Loona pretvarač XML u CSV",
   "short_name": "Pretvarač XML u CSV",
   "description": "Pretvorite XML u CSV: ponovljeni elementi postaju retci, njihova djeca i atributi postaju stupci. Besplatni mrežni pretvarač.",
-  "id": "/loona-dev-tools/hr/xml-to-csv/",
+  "id": "/hr/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

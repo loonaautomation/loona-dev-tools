@@ -2,7 +2,7 @@
   "name": "Loona CMYK-HSL-muunnin",
   "short_name": "CMYK-HSL-muunnin",
   "description": "Muunna värejä CMYK:stä HSL:ään verkossa, elävällä värimallilla ja kaikilla muilla muodoilla (HEX, RGB, HSL, HSV, CMYK) myös näytettynä.",
-  "id": "/loona-dev-tools/fi/cmyk-to-hsl-converter/",
+  "id": "/fi/cmyk-to-hsl-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

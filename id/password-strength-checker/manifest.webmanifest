@@ -2,7 +2,7 @@
   "name": "Loona Pemeriksa Kekuatan Kata Sandi Online Gratis",
   "short_name": "Pemeriksa Kekuatan Kata Sandi",
   "description": "Periksa kekuatan kata sandi online secara gratis dengan estimasi entropi yang transparan, umpan balik spesifik, dan estimasi waktu retak. Kata sandi tidak pernah meninggalkan browser Anda - tidak ada yang dikirim atau disimpan.",
-  "id": "/loona-dev-tools/id/password-strength-checker/",
+  "id": "/id/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

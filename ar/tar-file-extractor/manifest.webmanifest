@@ -2,7 +2,7 @@
   "name": "Loona مستخرج ملفات TAR عبر الإنترنت مجاناً",
   "short_name": "مستخرج ملفات TAR عبر الإنترنت مجاناً",
   "description": "افتح أرشيفات TAR في متصفحك مباشرة - .tar العادي بالإضافة إلى .tar.bz2 و.tar.xz - اطّلع على كل ملف بداخلها ونزّل ملفات مفردة أو كل شيء كـ ZIP. لا يُرفع شيء.",
-  "id": "/loona-dev-tools/ar/tar-file-extractor/",
+  "id": "/ar/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

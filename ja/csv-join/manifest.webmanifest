@@ -2,7 +2,7 @@
   "name": "Loona CSV結合 無料オンライン",
   "short_name": "CSV結合ツール 無料オンライン",
   "description": "共有キー列で二つのCSVファイルを無料でオンライン結合します。内部結合または左結合、重複キーはデータベース方式で処理します。登録不要、ブラウザで100%動作します。",
-  "id": "/loona-dev-tools/ja/csv-join/",
+  "id": "/ja/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

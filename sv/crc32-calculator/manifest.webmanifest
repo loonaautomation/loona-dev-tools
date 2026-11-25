@@ -2,7 +2,7 @@
   "name": "Loona CRC32-kontrollsummekalkylator",
   "short_name": "CRC32-kontrollsummekalkylator",
   "description": "Beräkna CRC32-hashar av text eller filer online: 32-bitars, 8 hextecken. Körs lokalt i din webbläsare med WebCrypto/ren JS — filer laddas aldrig upp.",
-  "id": "/loona-dev-tools/sv/crc32-calculator/",
+  "id": "/sv/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

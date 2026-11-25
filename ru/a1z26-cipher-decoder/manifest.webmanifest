@@ -2,7 +2,7 @@
   "name": "Loona Декодировщик шифра A1Z26 (числа в буквы)",
   "short_name": "Декодировщик шифра A1Z26 (Числа",
   "description": "Декодируйте числовые коды A1Z26 обратно в буквы: 1=A, 2=B ... 26=Z. Разделители — дефис, запятая или пробел.",
-  "id": "/loona-dev-tools/ru/a1z26-cipher-decoder/",
+  "id": "/ru/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

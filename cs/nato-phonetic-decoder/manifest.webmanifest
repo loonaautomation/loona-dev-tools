@@ -2,7 +2,7 @@
   "name": "Dekodér fonetické abecedy Loona NATO",
   "short_name": "Dekodér fonetické abecedy NATO",
   "description": "Dekódujte fonetická slova NATO (Alfa, Bravo, Charlie...) zpět na prostá písmena a číslice.",
-  "id": "/loona-dev-tools/cs/nato-phonetic-decoder/",
+  "id": "/cs/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

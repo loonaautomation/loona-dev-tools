@@ -2,7 +2,7 @@
   "name": "Công cụ rút gọn JavaScript trực tuyến miễn phí của Loona",
   "short_name": "Công cụ rút gọn JavaScript trực tuyến",
   "description": "Rút gọn JavaScript trực tuyến miễn phí bằng một bộ token hóa thận trọng bảo vệ chuỗi, template literal và biểu thức chính quy. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/javascript-minifier/",
+  "id": "/vi/javascript-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

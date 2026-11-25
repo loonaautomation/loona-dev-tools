@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona TOML vers YAML",
   "short_name": "Convertisseur TOML vers YAML",
   "description": "Convertissez le TOML en YAML en ligne : les tables deviennent des mappages imbriqués, les tables de tableaux deviennent des listes d’objets.",
-  "id": "/loona-dev-tools/fr/toml-to-yaml/",
+  "id": "/fr/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

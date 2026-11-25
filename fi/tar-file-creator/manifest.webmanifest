@@ -2,7 +2,7 @@
   "name": "Loona TAR-tiedoston luoja verkossa ilmaiseksi",
   "short_name": "TAR-tiedoston luoja verkossa ilmaiseksi",
   "description": "Luo TAR-arkisto (.tar) useista tiedostoista suoraan selaimessasi — määritysten mukainen ustar-kirjoittaja, kansiovaihtoehto, aidot aikaleimat. Mitään ei lähetetä palvelimelle; tar-pallo rakennetaan laitteellasi ja aukeaa millä tahansa tar-työkalulla.",
-  "id": "/loona-dev-tools/fi/tar-file-creator/",
+  "id": "/fi/tar-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

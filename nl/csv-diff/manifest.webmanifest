@@ -2,7 +2,7 @@
   "name": "Loona CSV-diff & vergelijk online gratis",
   "short_name": "CSV diff & vergelijken online gratis",
   "description": "Vergelijk twee CSV-bestanden online gratis - rijen gematcht op een sleutelkolom en geclassificeerd als toegevoegd, verwijderd, gewijzigd (met de exacte cellen) of ongewijzigd. Geen registratie, draait in je browser.",
-  "id": "/loona-dev-tools/nl/csv-diff/",
+  "id": "/nl/csv-diff/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi định dạng địa chỉ MAC của Loona",
   "short_name": "Công cụ chuyển đổi định dạng địa chỉ MAC",
   "description": "Chuyển đổi các địa chỉ MAC giữa các định dạng dấu hai chấm (AA:BB:CC:DD:EE:FF), dấu gạch ngang, chấm Cisco và thuần; xác thực địa chỉ 48-bit.",
-  "id": "/loona-dev-tools/vi/mac-address-converter/",
+  "id": "/vi/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

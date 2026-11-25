@@ -2,7 +2,7 @@
   "name": "Loona محوّل ZIP إلى TAR.GZ عبر الإنترنت مجاناً",
   "short_name": "محوّل ZIP إلى TAR.GZ",
   "description": "حوّل أرشيف ZIP إلى كرة TAR.GZ ‏(.tar.gz) في متصفحك مباشرة - التنسيق الذي تتوقعه خوادم Linux وDocker وأدوات البناء. بنية المجلدات محفوظة، لا يُرفع شيء.",
-  "id": "/loona-dev-tools/ar/zip-to-tar-gz-converter/",
+  "id": "/ar/zip-to-tar-gz-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

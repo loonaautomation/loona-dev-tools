@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง JSON เป็นตาราง Markdown",
   "short_name": "JSON เป็นตาราง Markdown",
   "description": "แปลงอาร์เรย์ JSON ของออบเจ็กต์เป็นตาราง Markdown: คอลัมน์จากคีย์ ไปป์ถูก escape พร้อมวางลงใน README",
-  "id": "/loona-dev-tools/th/json-to-markdown-table/",
+  "id": "/th/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Caesarcijfer-encoder & decoder",
   "short_name": "Caesarcijfer-encoder &",
   "description": "Caesarcijfer met elke verschuiving (1–25) en een decodeermodus: het klassieke substitutiecijfer van Julius Caesar, online.",
-  "id": "/loona-dev-tools/nl/caesar-cipher/",
+  "id": "/nl/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

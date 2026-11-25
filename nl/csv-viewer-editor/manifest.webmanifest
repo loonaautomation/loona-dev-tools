@@ -2,7 +2,7 @@
   "name": "Loona CSV-viewer & -editor online gratis",
   "short_name": "CSV-viewer & -editor online",
   "description": "Bekijk en bewerk CSV-bestanden online gratis in een bewerkbaar tabelraster - bewerk cellen, sorteer kolommen, voeg rijen en kolommen toe of verwijder ze, en download dan de bewerkte CSV. Geen registratie, draait in je browser.",
-  "id": "/loona-dev-tools/nl/csv-viewer-editor/",
+  "id": "/nl/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

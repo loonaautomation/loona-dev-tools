@@ -2,7 +2,7 @@
   "name": "Loona اعشاریہ سے بائنری کنورٹر",
   "short_name": "ڈیسیمل سے بائنری کنورٹر",
   "description": "اعشاریہ اعداد کو بائنری میں آن لائن بدلیں — arbitrary precision (BigInt)، منفی اعداد سپورٹ۔",
-  "id": "/loona-dev-tools/ur/decimal-to-binary-converter/",
+  "id": "/ur/decimal-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

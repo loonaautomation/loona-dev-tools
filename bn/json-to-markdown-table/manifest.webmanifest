@@ -2,7 +2,7 @@
   "name": "Loona JSON থেকে Markdown টেবিল কনভার্টার",
   "short_name": "JSON থেকে Markdown টেবিল",
   "description": "অবজেক্টের একটি JSON অ্যারে একটি Markdown টেবিলে রূপান্তর করুন: কী থেকে কলাম, পাইপ এস্কেপ করা, README-তে পেস্ট করতে প্রস্তুত।",
-  "id": "/loona-dev-tools/bn/json-to-markdown-table/",
+  "id": "/bn/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ROT13-Encoder & Decoder",
   "short_name": "ROT13-Encoder & Decoder",
   "description": "ROT13 auf beliebigen Text anwenden: Buchstaben um 13 Stellen rotieren. Codieren und Decodieren sind dieselbe Operation. Klassisch für Spoiler und Rätsel.",
-  "id": "/loona-dev-tools/de/rot13-encoder/",
+  "id": "/de/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

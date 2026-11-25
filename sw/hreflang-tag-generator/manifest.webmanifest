@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Tegi za Hreflang Bure Mtandaoni",
   "short_name": "Kizalishaji cha Tegi za Hreflang Mtandaoni",
   "description": "Zalisha tegi za hreflang mtandaoni bure - bandika jozi za lugha na URL, ongeza x-default, na upate seti kamili ya viungo mbadala kwa ukaguzi wa BCP 47 na URL kamili. Bila kujisajili.",
-  "id": "/loona-dev-tools/sw/hreflang-tag-generator/",
+  "id": "/sw/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

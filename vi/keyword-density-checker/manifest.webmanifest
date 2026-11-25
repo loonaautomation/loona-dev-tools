@@ -2,7 +2,7 @@
   "name": "Công cụ kiểm tra mật độ từ khóa của Loona trực tuyến miễn phí",
   "short_name": "Công cụ kiểm tra mật độ từ khóa",
   "description": "Kiểm tra mật độ từ khóa trực tuyến miễn phí - các từ đơn hàng đầu cộng các cụm từ 2 từ và 3 từ kèm số lượng và mật độ phần trăm, bao gồm lọc từ dừng. Không đăng ký.",
-  "id": "/loona-dev-tools/vi/keyword-density-checker/",
+  "id": "/vi/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

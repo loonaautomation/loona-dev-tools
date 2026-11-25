@@ -2,7 +2,7 @@
   "name": "Loona Penguji Regex Dalam Talian Percuma",
   "short_name": "Penguji Regex Dalam Talian Percuma",
   "description": "Uji regular expression dalam talian percuma dengan penyorotan kecocokan langsung, butiran kumpulan tangkapan, dan jumlah kecocokan. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/regex-tester/",
+  "id": "/ms/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

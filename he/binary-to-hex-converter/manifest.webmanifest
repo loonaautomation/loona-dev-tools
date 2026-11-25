@@ -2,7 +2,7 @@
   "name": "ממיר Loona בינארי להקסדצימלי",
   "short_name": "בינארי להקסדצימלי",
   "description": "המירו מספרים בינאריים להקסדצימלי באופן מקוון — דיוק שרירותי (BigInt), מספרים שליליים נתמכים.",
-  "id": "/loona-dev-tools/he/binary-to-hex-converter/",
+  "id": "/he/binary-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

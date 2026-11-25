@@ -2,7 +2,7 @@
   "name": "Loona Chmod-kalkylator online gratis",
   "short_name": "Chmod-kalkylator online gratis",
   "description": "Beräkna chmod-behörigheter online gratis: kryssrutor till oktalt (755) och symboliskt (rwxr-xr-x), och oktalt tillbaka till behörigheter. Ingen registrering, körs 100% i din webbläsare.",
-  "id": "/loona-dev-tools/sv/chmod-calculator/",
+  "id": "/sv/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

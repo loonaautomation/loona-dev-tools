@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona d’entier en adresse IP",
   "short_name": "Entier vers adresse IP",
   "description": "Convertissez un entier 32 bits en une adresse IPv4 à points (3232235521 → 192.168.0.1).",
-  "id": "/loona-dev-tools/fr/integer-to-ip/",
+  "id": "/fr/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

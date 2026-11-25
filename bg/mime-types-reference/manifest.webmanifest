@@ -2,7 +2,7 @@
   "name": "Справочник за MIME типове на Loona (типове съдържание по",
   "short_name": "Справочник за MIME типове (типове съдържание",
   "description": "Често срещани MIME типове по разширение на файл: документи, изображения, аудио, видео, архиви, шрифтове и уеб формати с техните Content-Type стойности.",
-  "id": "/loona-dev-tools/bg/mime-types-reference/",
+  "id": "/bg/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

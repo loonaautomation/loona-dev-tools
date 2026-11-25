@@ -2,7 +2,7 @@
   "name": "Loona SHA-512 哈希生成器",
   "short_name": "SHA-512 哈希生成器",
   "description": "在线计算文本或文件的 SHA-512 哈希：512 位，128 个十六进制字符。使用 WebCrypto/纯 JS 在您的浏览器中本地运行——文件从不上传。",
-  "id": "/loona-dev-tools/zh/sha512-hash-generator/",
+  "id": "/zh/sha512-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

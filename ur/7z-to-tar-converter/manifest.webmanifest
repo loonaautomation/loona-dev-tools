@@ -2,7 +2,7 @@
   "name": "Loona 7Z سے TAR کنورٹر",
   "short_name": "7Z سے TAR کنورٹر",
   "description": "7Z آرکائیوز کو TAR میں آن لائن بدلیں: libarchive (WebAssembly) 7Z کو پڑھتا ہے، ایک ustar مصنف اسے دوبارہ پیک کرتا ہے۔ نجی اور مقامی۔",
-  "id": "/loona-dev-tools/ur/7z-to-tar-converter/",
+  "id": "/ur/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Codificator și decodificator URL Loona online gratuit",
   "short_name": "Codificator și decodificator URL online",
   "description": "Codifică și decodifică URL-uri și text de interogare online gratuit, cu moduri componentă și URL complet și o defalcare pe caracter. Fără înregistrare, în browserul tău.",
-  "id": "/loona-dev-tools/ro/url-encoder/",
+  "id": "/ro/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

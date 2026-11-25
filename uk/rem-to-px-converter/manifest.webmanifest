@@ -2,7 +2,7 @@
   "name": "Конвертер Loona Rem у пікселі (px)",
   "short_name": "Конвертер Rem у пікселі (px)",
   "description": "Конвертуйте rem у px із налаштовуваним базовим розміром шрифту (за замовчуванням 16px) і таблицею поширених значень.",
-  "id": "/loona-dev-tools/uk/rem-to-px-converter/",
+  "id": "/uk/rem-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

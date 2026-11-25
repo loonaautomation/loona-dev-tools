@@ -2,7 +2,7 @@
   "name": "Loona izdvajanje ISO datoteka na mreži besplatno",
   "short_name": "Izdvajanje ISO datoteka na mreži besplatno",
   "description": "Otvorite ISO slike diskova izravno u pregledniku - pregledavajte datotečni sustav pohranjen na virtualnom disku i preuzimajte pojedinačne datoteke ili sve kao ZIP. Ništa se ne prenosi.",
-  "id": "/loona-dev-tools/hr/iso-file-extractor/",
+  "id": "/hr/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha TOML kwenda JSON",
   "short_name": "Kibadilishaji cha TOML kwenda JSON",
   "description": "Badilisha TOML kuwa JSON mtandaoni: majedwali, majedwali ya safu, mifululizo, nambari, boolean, safu na datetime (kama mifululizo).",
-  "id": "/loona-dev-tools/sw/toml-to-json/",
+  "id": "/sw/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

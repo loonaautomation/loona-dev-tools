@@ -2,7 +2,7 @@
   "name": "Công cụ tính IP Subnet của Loona trực tuyến miễn phí",
   "short_name": "Công cụ tính IP Subnet trực tuyến",
   "description": "Tính subnet IPv4 trực tuyến miễn phí - mạng, broadcast, netmask, wildcard, host đầu tiên và cuối cùng, số lượng host có thể dùng và lớp IP từ bất kỳ địa chỉ CIDR nào, cộng một chế độ xem chia subnet.",
-  "id": "/loona-dev-tools/vi/ip-subnet-calculator/",
+  "id": "/vi/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

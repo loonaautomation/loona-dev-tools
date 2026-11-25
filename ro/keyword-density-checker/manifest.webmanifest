@@ -2,7 +2,7 @@
   "name": "Verificator de densitate a cuvintelor-cheie Loona online gratuit",
   "short_name": "Verificator de densitate a cuvintelor-cheie",
   "description": "Verifică densitatea cuvintelor-cheie online gratuit - cuvinte singure de top plus expresii de 2 cuvinte și 3 cuvinte cu numărătoare și densitate procentuală, filtrarea cuvintelor oprite inclusă. Fără înregistrare.",
-  "id": "/loona-dev-tools/ro/keyword-density-checker/",
+  "id": "/ro/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

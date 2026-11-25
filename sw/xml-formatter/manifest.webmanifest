@@ -2,7 +2,7 @@
   "name": "Loona Kiumbaji na Kithibitishi cha XML Bure Mtandaoni",
   "short_name": "Kiumbaji & Kithibitishi cha XML",
   "description": "Umbaji, upambaji, ufinyaji na uthibitishaji wa XML mtandaoni bure - ukaguzi wa muundo mzuri wa tegi zilizosawazishwa na ujumbe wazi wa hitilafu, uchapaji mzuri kwa ujongezaji. Bila kujisajili.",
-  "id": "/loona-dev-tools/sw/xml-formatter/",
+  "id": "/sw/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

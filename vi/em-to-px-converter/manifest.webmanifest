@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi Em sang Pixel (px) của Loona",
   "short_name": "Công cụ chuyển đổi Em sang Pixel (px)",
   "description": "Chuyển đổi em sang px với cỡ chữ cơ sở có thể điều chỉnh (mặc định 16px) và bảng các giá trị phổ biến.",
-  "id": "/loona-dev-tools/vi/em-to-px-converter/",
+  "id": "/vi/em-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

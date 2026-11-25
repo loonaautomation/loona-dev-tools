@@ -2,7 +2,7 @@
   "name": "Encodeur Quoted-Printable Loona",
   "short_name": "Encodeur Quoted-Printable",
   "description": "Encodez du texte en quoted-printable (MIME) en ligne : octets UTF-8 en échappements =XX, sauts de ligne mous à 76 caractères, selon la RFC 2045.",
-  "id": "/loona-dev-tools/fr/quoted-printable-encode/",
+  "id": "/fr/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

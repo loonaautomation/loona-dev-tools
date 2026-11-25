@@ -2,7 +2,7 @@
   "name": "ממיר Loona JSON ל-INI",
   "short_name": "ממיר JSON ל-INI",
   "description": "המירו אובייקטי JSON לפורמט INI: סקלרים עליונים קודם, אובייקטים מקוננים כ-[sections]. ממיר מקוון בחינם.",
-  "id": "/loona-dev-tools/he/json-to-ini/",
+  "id": "/he/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

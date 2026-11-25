@@ -2,7 +2,7 @@
   "name": "Loona Koder szyfru A1Z26 (Litery na liczby)",
   "short_name": "Koder szyfru A1Z26 (Litery",
   "description": "Koduj tekst szyfrem A1Z26: A=1, B=2 ... Z=26. Klasyczny kod łamigłówek i escape roomów.",
-  "id": "/loona-dev-tools/pl/a1z26-cipher-encoder/",
+  "id": "/pl/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

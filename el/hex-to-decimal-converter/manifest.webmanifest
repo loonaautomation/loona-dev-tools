@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Δεκαεξαδικού σε Δεκαδικό",
   "short_name": "Δεκαεξαδικό σε Δεκαδικό",
   "description": "Μετατρέψτε δεκαεξαδικούς αριθμούς σε δεκαδικούς διαδικτυακά — αυθαίρετη ακρίβεια (BigInt), υποστηρίζονται αρνητικοί αριθμοί.",
-  "id": "/loona-dev-tools/el/hex-to-decimal-converter/",
+  "id": "/el/hex-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

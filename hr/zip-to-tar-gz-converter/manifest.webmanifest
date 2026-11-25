@@ -2,7 +2,7 @@
   "name": "Loona pretvarač ZIP u TAR.GZ na mreži besplatno",
   "short_name": "Pretvarač ZIP u TAR.GZ",
   "description": "Pretvorite ZIP arhivu u TAR.GZ tarball (.tar.gz) izravno u vašem pregledniku - format koji očekuju Linux poslužitelji, Docker i alati za izgradnju. Struktura mapa očuvana, ništa se ne prenosi.",
-  "id": "/loona-dev-tools/hr/zip-to-tar-gz-converter/",
+  "id": "/hr/zip-to-tar-gz-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ekstraktor File Arsip Online Gratis",
   "short_name": "Ekstraktor File Arsip Online",
   "description": "Satu pembuka arsip universal: jatuhkan file ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ, atau ISO apa pun dan ekstrak isinya langsung di browser Anda. Format terdeteksi otomatis; tidak ada yang diunggah.",
-  "id": "/loona-dev-tools/id/archive-file-extractor/",
+  "id": "/id/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona HTML-entiteettidekooderi",
   "short_name": "HTML-entiteettidekooderi",
   "description": "Pura HTML-entiteettejä takaisin tavallisiksi merkeiksi: nimetyt, desimaali- ja heksaviittaukset (&copy;, &#169;, &#xA9;) kaikki tuettuna.",
-  "id": "/loona-dev-tools/fi/html-entities-decode/",
+  "id": "/fi/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

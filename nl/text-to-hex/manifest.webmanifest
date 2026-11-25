@@ -2,7 +2,7 @@
   "name": "Loona tekst naar hex-converter",
   "short_name": "Tekst naar hex-converter",
   "description": "Converteer tekst online naar hexadecimaal (UTF-8-bytes), met of zonder spaties tussen bytes. Gratis developer-converter.",
-  "id": "/loona-dev-tools/nl/text-to-hex/",
+  "id": "/nl/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

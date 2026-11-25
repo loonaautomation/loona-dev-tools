@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Muundo wa Anwani ya MAC",
   "short_name": "Kibadilishaji cha Muundo wa Anwani ya MAC",
   "description": "Badilisha anwani za MAC kati ya koloni (AA:BB:CC:DD:EE:FF), dashi, nukta ya Cisco na miundo wazi; huthibitisha anwani ya biti 48.",
-  "id": "/loona-dev-tools/sw/mac-address-converter/",
+  "id": "/sw/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Metin - Base32 Kodlayıcı",
   "short_name": "Metin - Base32 Kodlayıcı",
   "description": "Metni çevrimiçi Base32 (RFC 4648) olarak kodlayın — TOTP sırlarında ve DNS güvenli tanımlayıcılarda kullanılan büyük küçük harfe duyarsız kodlama.",
-  "id": "/loona-dev-tools/tr/text-to-base32/",
+  "id": "/tr/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

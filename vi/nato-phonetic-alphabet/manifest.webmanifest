@@ -2,7 +2,7 @@
   "name": "Trình dịch bảng chữ cái phiên âm NATO của Loona (Văn bản",
   "short_name": "Bảng chữ cái phiên âm NATO",
   "description": "Đánh vần văn bản bằng bảng chữ cái phiên âm NATO: A = Alfa, B = Bravo... Bao gồm chữ số. Dùng bởi hàng không, quân đội và các cuộc gọi hỗ trợ.",
-  "id": "/loona-dev-tools/vi/nato-phonetic-alphabet/",
+  "id": "/vi/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

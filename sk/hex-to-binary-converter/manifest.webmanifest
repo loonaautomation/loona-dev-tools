@@ -2,7 +2,7 @@
   "name": "Prevodník Loona hexadecimálnych na binárne",
   "short_name": "Hexadecimálne na binárne",
   "description": "Preveďte hexadecimálne čísla na binárne online — ľubovoľná presnosť (BigInt), záporné čísla podporované.",
-  "id": "/loona-dev-tools/sk/hex-to-binary-converter/",
+  "id": "/sk/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

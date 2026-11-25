@@ -2,7 +2,7 @@
   "name": "Loona MIMEタイプリファレンス（Content Types by",
   "short_name": "MIMEタイプリファレンス（Content",
   "description": "ファイル拡張子ごとの一般的なMIMEタイプ：ドキュメント、画像、オーディオ、ビデオ、アーカイブ、フォント、ウェブ形式を、それぞれの Content-Type 値とともに。",
-  "id": "/loona-dev-tools/ja/mime-types-reference/",
+  "id": "/ja/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

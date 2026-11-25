@@ -2,7 +2,7 @@
   "name": "Loona Extractor de archivos RAR en línea gratis",
   "short_name": "Extractor de archivos RAR en línea gratis",
   "description": "Abre archivos RAR (RAR4 y RAR5) directamente en tu navegador: ve cada archivo dentro, descarga archivos individuales o todo como un ZIP. Nada se sube; la extracción ocurre en tu dispositivo.",
-  "id": "/loona-dev-tools/es/rar-file-extractor/",
+  "id": "/es/rar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

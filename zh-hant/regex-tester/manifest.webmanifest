@@ -2,7 +2,7 @@
   "name": "Loona 正規表示式測試器 線上免費",
   "short_name": "正規表示式測試器 線上免費",
   "description": "線上免費測試正規表示式，帶實時匹配高亮、捕獲組詳細資訊和匹配計數。無需註冊，100% 在您的瀏覽器中執行。",
-  "id": "/loona-dev-tools/zh-hant/regex-tester/",
+  "id": "/zh-hant/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona XML Sitemap Generator - Turn a URL List Into a Valid sitemap.xml",
   "short_name": "XML Sitemap Generator - Turn a URL List Into a Valid sitemap.xml",
   "description": "Generate a valid XML sitemap online for free from a list of URLs, with default lastmod, changefreq and priority, correct URL and XML escaping. No sign-up, runs in your browser.",
-  "id": "/loona-dev-tools/en-us/xml-sitemap-generator/",
+  "id": "/en-us/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

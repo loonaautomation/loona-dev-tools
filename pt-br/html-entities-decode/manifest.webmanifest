@@ -2,7 +2,7 @@
   "name": "Loona Descodificador de Entidades HTML",
   "short_name": "Descodificador de Entidades HTML",
   "description": "Descodifique entidades HTML de volta para caracteres simples: referências nomeadas, decimais e hexadecimais (&copy;, &#169;, &#xA9;) todas suportadas.",
-  "id": "/loona-dev-tools/pt-br/html-entities-decode/",
+  "id": "/pt-br/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

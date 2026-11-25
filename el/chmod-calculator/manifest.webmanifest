@@ -2,7 +2,7 @@
   "name": "Loona Υπολογιστής Chmod Διαδικτυακά Δωρεάν",
   "short_name": "Υπολογιστής Chmod Διαδικτυακά Δωρεάν",
   "description": "Υπολογίστε δικαιώματα chmod διαδικτυακά δωρεάν: πλαίσια ελέγχου σε οκταδικό (755) και συμβολικό (rwxr-xr-x), και οκταδικό πίσω σε δικαιώματα. Χωρίς εγγραφή, εκτελείται 100% στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-dev-tools/el/chmod-calculator/",
+  "id": "/el/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

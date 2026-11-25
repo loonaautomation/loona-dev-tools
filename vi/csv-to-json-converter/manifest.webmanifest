@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi CSV sang JSON của Loona trực tuyến miễn phí",
   "short_name": "Công cụ chuyển đổi CSV sang JSON trực tuyến",
   "description": "Chuyển đổi CSV sang một mảng JSON các đối tượng trực tuyến miễn phí, với một trình phân tích CSV đúng cách xử lý các trường được trích dẫn, dấu phẩy bên trong dấu ngoặc kép và dấu ngoặc kép đã escape. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/csv-to-json-converter/",
+  "id": "/vi/csv-to-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

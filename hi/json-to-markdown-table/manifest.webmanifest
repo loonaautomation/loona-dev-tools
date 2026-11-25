@@ -2,7 +2,7 @@
   "name": "Loona JSON से Markdown Table कन्वर्टर",
   "short_name": "JSON से Markdown Table",
   "description": "Objects के JSON array को Markdown table में बदलें: columns keys से, pipes escaped, READMEs में paste करने के लिए तैयार।",
-  "id": "/loona-dev-tools/hi/json-to-markdown-table/",
+  "id": "/hi/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

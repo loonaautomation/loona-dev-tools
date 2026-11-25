@@ -2,7 +2,7 @@
   "name": "Loona CSSクリップパス生成ツール 無料オンライン",
   "short_name": "CSSクリップパス生成ツール",
   "description": "CSS clip-pathを無料でオンライン生成できます。星、六角形、矢印など調整可能なポイント付きポリゴンプリセットに加え、円、楕円、インセット形状、ライブプレビュー付きです。登録不要です。",
-  "id": "/loona-dev-tools/ja/css-clip-path-generator/",
+  "id": "/ja/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

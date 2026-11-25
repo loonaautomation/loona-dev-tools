@@ -2,7 +2,7 @@
   "name": "מחולל סיסמאות אקראיות של Loona",
   "short_name": "מחולל סיסמאות אקראי",
   "description": "צרו סיסמאות אקראיות חזקות בדפדפן שלכם עם ה-API של WebCrypto: אורך וערכות תווים מתכווננים, אנטרופיה מוצגת.",
-  "id": "/loona-dev-tools/he/random-password-generator/",
+  "id": "/he/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

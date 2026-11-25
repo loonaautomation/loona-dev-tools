@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Hash Διαδικτυακά Δωρεάν",
   "short_name": "Γεννήτρια Hash Διαδικτυακά Δωρεάν",
   "description": "Δημιουργήστε hash SHA-1, SHA-256, SHA-384 και SHA-512 οποιουδήποτε κειμένου διαδικτυακά δωρεάν, υπολογισμένα τοπικά στο πρόγραμμα περιήγησής σας. Χωρίς εγγραφή, τίποτα δεν μεταφορτώνεται.",
-  "id": "/loona-dev-tools/el/hash-generator/",
+  "id": "/el/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

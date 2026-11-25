@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง Unix Timestamp ออนไลน์ฟรี",
   "short_name": "ตัวแปลงการประทับเวลา Unix",
   "description": "แปลง Unix timestamp (วินาทีหรือมิลลิวินาที) เป็นวันที่มนุษย์อ่านได้ใน UTC และเวลาท้องถิ่นของคุณ และวันที่กลับเป็น timestamp เวลาปัจจุบันแบบสด ฟรี",
-  "id": "/loona-dev-tools/th/timestamp-converter/",
+  "id": "/th/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

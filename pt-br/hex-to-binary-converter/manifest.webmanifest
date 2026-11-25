@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Hexadecimal para Binário",
   "short_name": "Hexadecimal para Binário",
   "description": "Converta números hexadecimais para binário online — precisão arbitrária (BigInt), números negativos suportados.",
-  "id": "/loona-dev-tools/pt-br/hex-to-binary-converter/",
+  "id": "/pt-br/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

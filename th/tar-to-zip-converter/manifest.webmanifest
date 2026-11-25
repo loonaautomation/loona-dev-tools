@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง TAR เป็น ZIP ออนไลน์ฟรี",
   "short_name": "ตัวแปลง TAR เป็น ZIP ออนไลน์",
   "description": "แปลงไฟล์บีบอัด TAR (.tar) เป็นไฟล์ ZIP ในเบราว์เซอร์ของคุณเลย ไฟล์ TAR มาจากระบบ Linux และ Unix; ZIP ที่แปลงแล้วเปิดโดยตรงได้บน Windows, macOS และโทรศัพท์ ไม่มีการอัปโหลด",
-  "id": "/loona-dev-tools/th/tar-to-zip-converter/",
+  "id": "/th/tar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

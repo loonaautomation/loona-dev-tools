@@ -2,7 +2,7 @@
   "name": "Loona CSV Pivot / Group-By - Summaries Without a Spreadsheet",
   "short_name": "CSV Pivot / Group-By - Summaries Without a Spreadsheet",
   "description": "Pivot CSV data online for free - group rows by any column and calculate sum, count, average, minimum or maximum of a value column. No sign-up, runs 100% in your browser.",
-  "id": "/loona-dev-tools/en-us/csv-pivot-group-by/",
+  "id": "/en-us/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

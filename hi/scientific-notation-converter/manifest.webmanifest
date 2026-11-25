@@ -2,7 +2,7 @@
   "name": "Loona Scientific Notation कन्वर्टर",
   "short_name": "Scientific Notation कन्वर्टर",
   "description": "संख्याओं को scientific notation में और उससे बदलें: 3200000 ⇄ 3.2 × 10^6, E notation दोनों तरफ़ supported।",
-  "id": "/loona-dev-tools/hi/scientific-notation-converter/",
+  "id": "/hi/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Convertizor CSV în TSV Loona",
   "short_name": "Convertizor CSV în TSV",
   "description": "Convertește CSV în TSV (valori separate prin tab): analiză completă a câmpurilor puse între ghilimele, tab-uri ca delimitatori. Convertizor online gratuit.",
-  "id": "/loona-dev-tools/ro/csv-to-tsv/",
+  "id": "/ro/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

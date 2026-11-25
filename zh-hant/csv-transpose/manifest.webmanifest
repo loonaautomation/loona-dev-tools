@@ -2,7 +2,7 @@
   "name": "Loona CSV 轉置工具 線上免費",
   "short_name": "CSV 轉置工具 線上免費",
   "description": "線上免費轉置 CSV——用一個正確處理帶引號欄位的適當的 RFC 4180 解析器交換行和列。無需註冊，100% 在您的瀏覽器中執行。",
-  "id": "/loona-dev-tools/zh-hant/csv-transpose/",
+  "id": "/zh-hant/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

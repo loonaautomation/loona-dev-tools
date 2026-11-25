@@ -2,7 +2,7 @@
   "name": "Генератор хешів Loona SHA-1",
   "short_name": "Генератор хешів SHA-1",
   "description": "Обчислюйте хеші SHA-1 тексту або файлів онлайн: 160-bit, 40 шістнадцяткових символів. Працює локально у вашому браузері з WebCrypto/чистим JS — файли ніколи не завантажуються на сервер.",
-  "id": "/loona-dev-tools/uk/sha1-hash-generator/",
+  "id": "/uk/sha1-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

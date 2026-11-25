@@ -2,7 +2,7 @@
   "name": "Преводач от текст към Морзов код на Loona",
   "short_name": "Превод от текст към морзов код",
   "description": "Превеждайте текст в морзов код (букви, цифри и често срещана пунктуация), думите разделени с /. Безплатен преводач на морзов код.",
-  "id": "/loona-dev-tools/bg/text-to-morse-code/",
+  "id": "/bg/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

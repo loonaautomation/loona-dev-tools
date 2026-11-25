@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Utoroshaji wa Unicode (\\uXXXX)",
   "short_name": "Kibadilishaji cha Utoroshaji wa Unicode",
   "description": "Torosha maandishi kuwa mifuatano ya utoroshaji ya Unicode (\\uXXXX) kwa JSON, JavaScript, Java na faili za properties. Hushughulikia emoji kwa jozi mbadala.",
-  "id": "/loona-dev-tools/sw/unicode-escape/",
+  "id": "/sw/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

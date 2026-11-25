@@ -2,7 +2,7 @@
   "name": "Loona فاكّ Punycode ‏(xn-- إلى نطاق Unicode)",
   "short_name": "فاكّ Punycode ‏(xn-- إلى",
   "description": "فكّ نطاقات punycode ذات xn-- عودة إلى صيغتها Unicode — وافحص ما يقوله نطاق مدوّل فعلاً.",
-  "id": "/loona-dev-tools/ar/punycode-decode/",
+  "id": "/ar/punycode-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator llms.txt online za darmo",
   "short_name": "Generator llms.txt online za darmo",
   "description": "Generuj poprawny plik llms.txt online za darmo - nazwa witryny, blok cytatu z podsumowaniem, szczegóły i wybrane linki do stron w formacie llms.txt proponowanym dla robotów AI. Bez rejestracji.",
-  "id": "/loona-dev-tools/pl/llms-txt-generator/",
+  "id": "/pl/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

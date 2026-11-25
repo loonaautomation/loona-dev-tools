@@ -2,7 +2,7 @@
   "name": "Convertizor imagine în Base64 Loona",
   "short_name": "Convertizor imagine în Base64",
   "description": "Convertește o imagine (PNG, JPG, GIF, WebP, SVG) într-un URI de date Base64 online — fișier citit local, cu statistici de dimensiuni și mărime.",
-  "id": "/loona-dev-tools/ro/image-to-base64/",
+  "id": "/ro/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

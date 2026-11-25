@@ -2,7 +2,7 @@
   "name": "מקודד Loona טקסט ל-Base64",
   "short_name": "מקודד טקסט ל-Base64",
   "description": "קודדו טקסט ל-Base64 באופן מקוון, בטוח ל-UTF-8 לכל שפה ואימוג'י, עם אלפבית בטוח ל-URL אופציונלי. חינמי, פרטי, בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/text-to-base64/",
+  "id": "/he/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

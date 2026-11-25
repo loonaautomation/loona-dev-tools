@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de fecha a marca de tiempo Unix",
   "short_name": "De fecha a marca de tiempo Unix",
   "description": "Convierte una fecha y hora en su marca de tiempo Unix en segundos y milisegundos, en UTC o en tu zona horaria local.",
-  "id": "/loona-dev-tools/es/date-to-unix-timestamp/",
+  "id": "/es/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

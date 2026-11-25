@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง CSV เป็น TSV",
   "short_name": "ตัวแปลง CSV เป็น TSV",
   "description": "แปลง CSV เป็น TSV (ค่าที่คั่นด้วยแท็บ): การแยกวิเคราะห์ฟิลด์ในเครื่องหมายคำพูดเต็มรูปแบบ แท็บเป็นตัวคั่น ตัวแปลงออนไลน์ฟรี",
-  "id": "/loona-dev-tools/th/csv-to-tsv/",
+  "id": "/th/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

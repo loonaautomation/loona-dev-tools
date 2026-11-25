@@ -2,7 +2,7 @@
   "name": "Loona JSON naar querystring-converter",
   "short_name": "JSON naar querystring-converter",
   "description": "Bouw een URL-querystring uit een JSON-object: geneste objecten gebruiken haakjesnotatie, arrays herhalen de sleutel, alles percent-gecodeerd.",
-  "id": "/loona-dev-tools/nl/json-to-query-string/",
+  "id": "/nl/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

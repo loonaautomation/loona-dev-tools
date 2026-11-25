@@ -2,7 +2,7 @@
   "name": "Convertizor TAR în ZIP Loona online gratuit",
   "short_name": "Convertizor TAR în ZIP online",
   "description": "Convertește o arhivă TAR (.tar) într-un fișier ZIP direct în browserul tău. Fișierele TAR provin din sistemele Linux și Unix; ZIP-ul convertit se deschide nativ pe Windows, macOS și telefoane. Nimic nu este încărcat.",
-  "id": "/loona-dev-tools/ro/tar-to-zip-converter/",
+  "id": "/ro/tar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

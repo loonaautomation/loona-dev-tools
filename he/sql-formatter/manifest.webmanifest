@@ -2,7 +2,7 @@
   "name": "מעצב Loona SQL מקוון בחינם",
   "short_name": "מעצב SQL מקוון בחינם",
   "description": "עצבו SQL באופן מקוון בחינם: מילות מפתח באותיות גדולות, פסקאות SELECT, FROM, WHERE ו-JOIN בשורות משלהן, מחרוזות נשמרות. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/sql-formatter/",
+  "id": "/he/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

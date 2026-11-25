@@ -2,7 +2,7 @@
   "name": "ממיר Loona תמונה ל-Base64",
   "short_name": "ממיר תמונה ל-Base64",
   "description": "המירו תמונה (PNG, JPG, GIF, WebP, SVG) ל-data URI של Base64 באופן מקוון — הקובץ נקרא מקומית, עם ממדים וסטטיסטיקות גודל.",
-  "id": "/loona-dev-tools/he/image-to-base64/",
+  "id": "/he/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

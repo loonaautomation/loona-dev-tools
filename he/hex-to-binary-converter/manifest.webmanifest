@@ -2,7 +2,7 @@
   "name": "ממיר Loona הקסדצימלי לבינארי",
   "short_name": "הקסדצימלי לבינארי",
   "description": "המירו מספרים הקסדצימליים לבינארי באופן מקוון — דיוק שרירותי (BigInt), מספרים שליליים נתמכים.",
-  "id": "/loona-dev-tools/he/hex-to-binary-converter/",
+  "id": "/he/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

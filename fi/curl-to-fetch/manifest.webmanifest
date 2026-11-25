@@ -2,7 +2,7 @@
   "name": "Loona cURL-Fetch-muunnin",
   "short_name": "cURL-Fetch-muunnin",
   "description": "Muunna cURL-komento JavaScript fetch()-koodiksi: otsikot, metodi, data, basic auth ja --json käsiteltynä.",
-  "id": "/loona-dev-tools/fi/curl-to-fetch/",
+  "id": "/fi/curl-to-fetch/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

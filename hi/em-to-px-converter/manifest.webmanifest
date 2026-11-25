@@ -2,7 +2,7 @@
   "name": "Loona Em से Pixels (px) कन्वर्टर",
   "short_name": "Em से Pixels (px) कन्वर्टर",
   "description": "Adjustable base font size (default 16px) और आम values की table के साथ em को px में बदलें।",
-  "id": "/loona-dev-tools/hi/em-to-px-converter/",
+  "id": "/hi/em-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

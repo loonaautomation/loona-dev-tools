@@ -2,7 +2,7 @@
   "name": "Loona HEX سے CMYK کنورٹر",
   "short_name": "HEX سے CMYK کنورٹر",
   "description": "رنگوں کو HEX سے CMYK میں آن لائن بدلیں، ایک لائیو swatch اور تمام دیگر فارمیٹس (HEX, RGB, HSL, HSV, CMYK) بھی دکھائے گئے۔",
-  "id": "/loona-dev-tools/ur/hex-to-cmyk-converter/",
+  "id": "/ur/hex-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

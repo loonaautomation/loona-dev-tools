@@ -2,7 +2,7 @@
   "name": "Loona binair naar hexadecimaal-converter",
   "short_name": "Binair naar hexadecimaal",
   "description": "Converteer binaire getallen online naar hexadecimaal — willekeurige precisie (BigInt), negatieve getallen ondersteund.",
-  "id": "/loona-dev-tools/nl/binary-to-hex-converter/",
+  "id": "/nl/binary-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

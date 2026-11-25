@@ -2,7 +2,7 @@
   "name": "Loona JWT dekódoló online ingyen",
   "short_name": "JWT dekódoló online ingyen",
   "description": "Dekódoljon egy JSON Web Tokent online ingyen - olvassa a fejlécet és a hasznos terhet szép JSON-ként, és lássa a lejáratot közérthető szavakkal. Az aláírás NEM ellenőrzött. A böngészőjében.",
-  "id": "/loona-dev-tools/hu/jwt-decoder/",
+  "id": "/hu/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

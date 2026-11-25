@@ -2,7 +2,7 @@
   "name": "בונה קישורי UTM של Loona מקוון בחינם",
   "short_name": "בונה קישורי UTM מקוון בחינם",
   "description": "בנו כתובות URL של קמפיין עם תגיות UTM באופן מקוון בחינם - מקור, אמצעי, קמפיין, מונח ותוכן מתווספים עם קידוד נכון, פרמטרים קיימים של שאילתה נשמרים, בתוספת היסטוריה שמורה.",
-  "id": "/loona-dev-tools/he/utm-link-builder/",
+  "id": "/he/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi CSV sang YAML của Loona",
   "short_name": "Công cụ chuyển đổi CSV sang YAML",
   "description": "Chuyển đổi bảng CSV sang YAML: hàng tiêu đề trở thành khóa, mỗi hàng là một mục trong danh sách YAML, số được định kiểu.",
-  "id": "/loona-dev-tools/vi/csv-to-yaml/",
+  "id": "/vi/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

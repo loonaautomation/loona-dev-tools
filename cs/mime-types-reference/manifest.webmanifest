@@ -2,7 +2,7 @@
   "name": "Referenční přehled typů Loona MIME (Typy obsahu podle",
   "short_name": "Referenční přehled typů MIME (Obsah",
   "description": "Běžné typy MIME podle přípony souboru: dokumenty, obrázky, zvuk, video, archivy, písma a webové formáty s jejich hodnotami Content-Type.",
-  "id": "/loona-dev-tools/cs/mime-types-reference/",
+  "id": "/cs/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JSON文字列エスケープ",
   "short_name": "JSON文字列エスケープ",
   "description": "JSON内に埋め込むために文字列をエスケープします。引用符、バックスラッシュ、改行、制御文字が \\ シーケンスになります。",
-  "id": "/loona-dev-tools/ja/json-escape/",
+  "id": "/ja/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

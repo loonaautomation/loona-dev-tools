@@ -2,7 +2,7 @@
   "name": "Loona เครื่องคำนวณเช็กซัม CRC32",
   "short_name": "เครื่องคำนวณเช็กซัม CRC32",
   "description": "คำนวณแฮช CRC32 ของข้อความหรือไฟล์ออนไลน์: 32 บิต ตัวอักษรเลขฐานสิบหก 8 ตัว ทำงานภายในเบราว์เซอร์ของคุณด้วย WebCrypto/JS ล้วน — ไฟล์ไม่เคยถูกอัปโหลด",
-  "id": "/loona-dev-tools/th/crc32-calculator/",
+  "id": "/th/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona NATO صوتی حروف تہجی ڈیکوڈر",
   "short_name": "NATO صوتی حروف تہجی ڈیکوڈر",
   "description": "NATO صوتی الفاظ (Alfa, Bravo, Charlie...) کو واپس سادہ حروف اور اعداد میں ڈی کوڈ کریں۔",
-  "id": "/loona-dev-tools/ur/nato-phonetic-decoder/",
+  "id": "/ur/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

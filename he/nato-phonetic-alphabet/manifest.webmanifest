@@ -2,7 +2,7 @@
   "name": "מתרגם אלפבית פונטי NATO של Loona (טקסט",
   "short_name": "אלפבית פונטי NATO",
   "description": "אייתו טקסט באלפבית הפונטי של NATO: ‏A = Alfa,‏ B = Bravo... כולל ספרות. משמש תעופה, צבא ושיחות תמיכה.",
-  "id": "/loona-dev-tools/he/nato-phonetic-alphabet/",
+  "id": "/he/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator Ekspresi Cron Online Gratis",
   "short_name": "Generator Ekspresi Cron",
   "description": "Bangun ekspresi cron dari dropdown dan jelaskan ekspresi cron 5-field apa pun dalam bahasa Indonesia yang sederhana, online secara gratis. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-dev-tools/id/cron-expression-generator/",
+  "id": "/id/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

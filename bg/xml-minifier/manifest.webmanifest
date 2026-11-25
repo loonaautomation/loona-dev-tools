@@ -2,7 +2,7 @@
   "name": "Минифициране на XML на Loona",
   "short_name": "Минифициране на XML",
   "description": "Минифицирайте XML онлайн: премахвайте коментари и празни пространства между тагове в един компактен ред.",
-  "id": "/loona-dev-tools/bg/xml-minifier/",
+  "id": "/bg/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

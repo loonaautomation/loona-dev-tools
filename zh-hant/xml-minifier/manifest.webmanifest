@@ -2,7 +2,7 @@
   "name": "Loona XML 壓縮工具",
   "short_name": "XML 壓縮工具",
   "description": "線上壓縮 XML：把註釋和標籤間空白去掉，形成一個緊湊的單行。",
-  "id": "/loona-dev-tools/zh-hant/xml-minifier/",
+  "id": "/zh-hant/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Справочник за HTTP кодове на състоянието на Loona",
   "short_name": "Справочник за HTTP кодове на състоянието",
   "description": "Всеки общ HTTP код на състоянието с неговото значение: 2xx успех, 3xx пренасочвания, 4xx клиентски грешки, 5xx сървърни грешки — обяснени обикновенно.",
-  "id": "/loona-dev-tools/bg/http-status-codes/",
+  "id": "/bg/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

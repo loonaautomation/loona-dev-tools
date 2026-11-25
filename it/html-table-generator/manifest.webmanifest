@@ -2,7 +2,7 @@
   "name": "Loona Generatore di tabelle HTML online gratuito",
   "short_name": "Generatore di tabelle HTML online",
   "description": "Genera tabelle HTML online gratuitamente - imposta righe e colonne, digita nella griglia e ottieni HTML tabellare pulito con supporto thead, th e caption più un'anteprima live. Nessuna registrazione.",
-  "id": "/loona-dev-tools/it/html-table-generator/",
+  "id": "/it/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kitoaji cha Faili za Hifadhi Bure Mtandaoni",
   "short_name": "Kitoaji cha Faili za Hifadhi Mtandaoni",
   "description": "Kifungua hifadhi kimoja cha ulimwengu: angusha faili yoyote ya ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ au ISO na utoe yaliyomo moja kwa moja kwenye kivinjari chako. Muundo hugunduliwa kiotomatiki; hakuna kinachopakiwa.",
-  "id": "/loona-dev-tools/sw/archive-file-extractor/",
+  "id": "/sw/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

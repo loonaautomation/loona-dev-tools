@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας .env σε JSON",
   "short_name": "Μετατροπέας .env σε JSON",
   "description": "Αναλύστε ένα αρχείο .env σε JSON: γραμμές KEY=value, προθέματα export, σχόλια και τιμές σε εισαγωγικά χειρίζονται.",
-  "id": "/loona-dev-tools/el/env-to-json/",
+  "id": "/el/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

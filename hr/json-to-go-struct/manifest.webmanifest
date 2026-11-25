@@ -2,7 +2,7 @@
   "name": "Loona pretvarač JSON u Go struct",
   "short_name": "Pretvarač JSON u Go struct",
   "description": "Pretvorite JSON u definicije Go struct s json oznakama: int64/float64 razlikovani, omitempty za ključeve koji nedostaju u nekim stavkama polja.",
-  "id": "/loona-dev-tools/hr/json-to-go-struct/",
+  "id": "/hr/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

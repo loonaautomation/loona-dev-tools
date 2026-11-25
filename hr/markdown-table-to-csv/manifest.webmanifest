@@ -2,7 +2,7 @@
   "name": "Loona pretvarač Markdown tablice u CSV",
   "short_name": "Markdown tablica u CSV",
   "description": "Pretvorite Markdown tablicu u CSV: zaglavlje i retci izdvojeni, redak poravnanja uklonjen, ćelije obrezane i ispravno citirane.",
-  "id": "/loona-dev-tools/hr/markdown-table-to-csv/",
+  "id": "/hr/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

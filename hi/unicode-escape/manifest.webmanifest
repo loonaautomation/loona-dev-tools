@@ -2,7 +2,7 @@
   "name": "Loona Unicode Escape कन्वर्टर (\\uXXXX)",
   "short_name": "Unicode Escape कन्वर्टर",
   "description": "Text को Unicode escape sequences (\\uXXXX) में escape करें JSON, JavaScript, Java और properties फ़ाइलों के लिए। Emoji को surrogate pairs से संभालता है।",
-  "id": "/loona-dev-tools/hi/unicode-escape/",
+  "id": "/hi/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

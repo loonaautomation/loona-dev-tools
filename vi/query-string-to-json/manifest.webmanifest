@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi chuỗi truy vấn sang JSON của Loona",
   "short_name": "Công cụ chuyển đổi chuỗi truy vấn sang JSON",
   "description": "Phân tích một chuỗi truy vấn URL thành JSON: ký hiệu ngoặc trở thành đối tượng lồng nhau, khóa lặp lại trở thành mảng, giá trị được định kiểu.",
-  "id": "/loona-dev-tools/vi/query-string-to-json/",
+  "id": "/vi/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

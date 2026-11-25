@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi hình ảnh sang Base64 của Loona",
   "short_name": "Công cụ chuyển đổi hình ảnh sang Base64",
   "description": "Chuyển đổi một hình ảnh (PNG, JPG, GIF, WebP, SVG) thành data URI Base64 trực tuyến — tệp được đọc cục bộ, kèm thống kê kích thước và cỡ.",
-  "id": "/loona-dev-tools/vi/image-to-base64/",
+  "id": "/vi/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

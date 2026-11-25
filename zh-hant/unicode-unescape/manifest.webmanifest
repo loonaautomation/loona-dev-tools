@@ -2,7 +2,7 @@
   "name": "Loona Unicode 取消轉義轉換器（解碼 \\uXXXX）",
   "short_name": "Unicode 取消轉義轉換器",
   "description": "把 Unicode 轉義序列（\\uXXXX、\\u{...}、\\xXX）解碼回真實字元，外加 \\n \\t 和 \\\\ 轉義。",
-  "id": "/loona-dev-tools/zh-hant/unicode-unescape/",
+  "id": "/zh-hant/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

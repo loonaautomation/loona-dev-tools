@@ -2,7 +2,7 @@
   "name": "Loona HTML এনটিটি ডিকোডার",
   "short_name": "HTML এনটিটি ডিকোডার",
   "description": "HTML এনটিটি আবার সাধারণ অক্ষরে ডিকোড করুন: নামযুক্ত, দশমিক ও হেক্স রেফারেন্স (&copy;, &#169;, &#xA9;) সব সমর্থিত।",
-  "id": "/loona-dev-tools/bn/html-entities-decode/",
+  "id": "/bn/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Codificador y decodificador de URL en línea gratis",
   "short_name": "Codificador y decodificador de URL en línea",
   "description": "Codifica y decodifica URL y texto de consulta en línea gratis, con modos de componente y URL completa y un desglose por carácter. Sin registro, en tu navegador.",
-  "id": "/loona-dev-tools/es/url-encoder/",
+  "id": "/es/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

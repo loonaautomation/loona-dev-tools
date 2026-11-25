@@ -2,7 +2,7 @@
   "name": "Loona 羅馬數字轉數字",
   "short_name": "羅馬數字轉數字",
   "description": "把羅馬數字轉換成數字（1–3999），嚴格驗證減法記法（IV、IX、XL、CM）。",
-  "id": "/loona-dev-tools/zh-hant/roman-numerals-converter/",
+  "id": "/zh-hant/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

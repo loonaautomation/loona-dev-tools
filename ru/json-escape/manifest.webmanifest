@@ -2,7 +2,7 @@
   "name": "Loona Экранирование строк JSON",
   "short_name": "Экранирование строк JSON",
   "description": "Экранируйте строку для встраивания внутрь JSON: кавычки, обратные слеши, переносы строк и управляющие символы становятся последовательностями \\.",
-  "id": "/loona-dev-tools/ru/json-escape/",
+  "id": "/ru/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

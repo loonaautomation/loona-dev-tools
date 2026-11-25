@@ -2,7 +2,7 @@
   "name": "Loona HEX-CMYK-muunnin",
   "short_name": "HEX-CMYK-muunnin",
   "description": "Muunna värejä HEX:stä CMYK:hen verkossa, elävällä värimallilla ja kaikilla muilla muodoilla (HEX, RGB, HSL, HSV, CMYK) myös näytettynä.",
-  "id": "/loona-dev-tools/fi/hex-to-cmyk-converter/",
+  "id": "/fi/hex-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

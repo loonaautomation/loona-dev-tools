@@ -2,7 +2,7 @@
   "name": "Công cụ mã hóa văn bản sang Base58 của Loona",
   "short_name": "Công cụ mã hóa văn bản sang Base58",
   "description": "Mã hóa văn bản sang Base58 (bảng chữ cái Bitcoin) trực tuyến — không có 0, O, I hoặc l, mã hóa của địa chỉ Bitcoin và hash IPFS.",
-  "id": "/loona-dev-tools/vi/text-to-base58/",
+  "id": "/vi/text-to-base58/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penjana UUID Dalam Talian Percuma",
   "short_name": "Penjana UUID Dalam Talian Percuma",
   "description": "Buat UUID versi 4 rawak dalam talian secara percuma - tunggal atau pukal hingga 100, pilihan huruf besar dan tanpa tanda hubung. Rawak secara kriptografis, di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/uuid-generator/",
+  "id": "/ms/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

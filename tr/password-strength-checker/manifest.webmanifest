@@ -2,7 +2,7 @@
   "name": "Loona Parola Gücü Denetleyicisi Çevrimiçi Ücretsiz",
   "short_name": "Parola Gücü Denetleyicisi",
   "description": "Parola gücünü çevrimiçi ücretsiz, şeffaf bir entropi tahmini, özel geri bildirim ve bir kırılma süresi tahminiyle kontrol edin. Parola asla tarayıcınızdan ayrılmaz - hiçbir şey gönderilmez veya saklanmaz.",
-  "id": "/loona-dev-tools/tr/password-strength-checker/",
+  "id": "/tr/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

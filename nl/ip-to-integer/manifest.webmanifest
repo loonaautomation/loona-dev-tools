@@ -2,7 +2,7 @@
   "name": "Loona IP-adres naar geheel getal-converter",
   "short_name": "IP-adres naar geheel getal",
   "description": "Converteer een IPv4-adres naar zijn 32-bits integere vorm (192.168.0.1 → 3232235521), gebruikt in databases en bereikcontroles.",
-  "id": "/loona-dev-tools/nl/ip-to-integer/",
+  "id": "/nl/ip-to-integer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

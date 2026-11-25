@@ -2,7 +2,7 @@
   "name": "Loona pretvarač JSON u Markdown tablicu",
   "short_name": "JSON u Markdown tablicu",
   "description": "Pretvorite JSON polje objekata u Markdown tablicu: stupci iz ključeva, okomite crte escapirane, spremno za lijepljenje u README datoteke.",
-  "id": "/loona-dev-tools/hr/json-to-markdown-table/",
+  "id": "/hr/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

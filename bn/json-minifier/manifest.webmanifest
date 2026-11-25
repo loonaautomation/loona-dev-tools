@@ -2,7 +2,7 @@
   "name": "Loona JSON মিনিফায়ার",
   "short_name": "JSON মিনিফায়ার",
   "description": "অনলাইনে JSON মিনিফাই করুন: সব তাৎপর্যহীন হোয়াইটস্পেস একটি একক সংক্ষিপ্ত লাইনে ছাঁটুন, যাচাই ত্রুটি সুনির্দিষ্টভাবে জানানো।",
-  "id": "/loona-dev-tools/bn/json-minifier/",
+  "id": "/bn/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

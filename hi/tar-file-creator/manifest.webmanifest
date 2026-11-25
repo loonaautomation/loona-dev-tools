@@ -2,7 +2,7 @@
   "name": "Loona TAR फ़ाइल क्रिएटर ऑनलाइन मुफ़्त",
   "short_name": "TAR फ़ाइल निर्माता ऑनलाइन मुफ़्त",
   "description": "कई फ़ाइलों से ठीक अपने ब्राउज़र में एक TAR archive (.tar) बनाएँ — एक spec-correct ustar writer, folder विकल्प, असली timestamps। कुछ अपलोड नहीं होता; tarball आपके device पर बनता है और किसी भी tar tool से खुलता है।",
-  "id": "/loona-dev-tools/hi/tar-file-creator/",
+  "id": "/hi/tar-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

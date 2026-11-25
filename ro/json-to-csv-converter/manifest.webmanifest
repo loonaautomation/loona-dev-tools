@@ -2,7 +2,7 @@
   "name": "Convertizor JSON în CSV Loona online gratuit",
   "short_name": "Convertizor JSON în CSV online",
   "description": "Convertește un tablou JSON de obiecte în CSV online gratuit: uniunea cheilor ca coloane, ghilimele și escapare corecte, valori imbricate păstrate ca JSON. Fără înregistrare, rulează 100% în browserul tău.",
-  "id": "/loona-dev-tools/ro/json-to-csv-converter/",
+  "id": "/ro/json-to-csv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona HTML Varlıkları Kod Çözücü",
   "short_name": "HTML Varlıkları Kod Çözücü",
   "description": "HTML varlıklarını düz karakterlere geri çözün: adlandırılmış, ondalık ve hex başvurular (&copy;, &#169;, &#xA9;) hepsi desteklenir.",
-  "id": "/loona-dev-tools/tr/html-entities-decode/",
+  "id": "/tr/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

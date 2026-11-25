@@ -2,7 +2,7 @@
   "name": "Loona GZ Dosya Çıkarıcı Çevrimiçi Ücretsiz",
   "short_name": "GZ Dosya Çıkarıcı Çevrimiçi Ücretsiz",
   "description": "Tek bir .gz dosyasını doğrudan tarayıcınızda açın ve özgün dosyayı indirin - günlükler, veri dışa aktarımları, veritabanı dökümleri. Hiçbir şey yüklenmez; tarayıcınız işi yerel olarak yapar.",
-  "id": "/loona-dev-tools/tr/gz-file-extractor/",
+  "id": "/tr/gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

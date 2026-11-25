@@ -2,7 +2,7 @@
   "name": "Loona Pixels (px) سے Rem کنورٹر",
   "short_name": "Pixels (px) سے Rem کنورٹر",
   "description": "px کو rem میں قابل ترتیب بنیادی فونٹ سائز (ڈیفالٹ 16px) اور عام قدروں کی ٹیبل کے ساتھ بدلیں۔",
-  "id": "/loona-dev-tools/ur/px-to-rem-converter/",
+  "id": "/ur/px-to-rem-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

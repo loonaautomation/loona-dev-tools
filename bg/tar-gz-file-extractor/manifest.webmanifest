@@ -2,7 +2,7 @@
   "name": "Извличане на TAR.GZ файлове на Loona онлайн безплатно",
   "short_name": "Извличане на TAR.GZ файлове онлайн",
   "description": "Отваряйте tar.gz архиви направо във вашия браузър - както .tar.gz, така и краткото име .tgz - вижте всеки файл вътре и изтегляйте отделни файлове или всичко като ZIP. Нищо не се качва.",
-  "id": "/loona-dev-tools/bg/tar-gz-file-extractor/",
+  "id": "/bg/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

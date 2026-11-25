@@ -2,7 +2,7 @@
   "name": "Loona Конвертер экранирования Unicode (\\uXXXX)",
   "short_name": "Конвертер экранирований Unicode",
   "description": "Экранируйте текст в escape-последовательности Unicode (\\uXXXX) для JSON, JavaScript, Java и файлов свойств. Обрабатывает эмодзи через суррогатные пары.",
-  "id": "/loona-dev-tools/ru/unicode-escape/",
+  "id": "/ru/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

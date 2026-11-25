@@ -2,7 +2,7 @@
   "name": "מחולל חתימת דוא\"ל Loona ב-HTML מקוון בחינם",
   "short_name": "חתימת דוא\"ל ב-HTML",
   "description": "צרו חתימת דוא\"ל מקצועית ב-HTML באופן מקוון בחינם - שם, תפקיד, חברה, טלפון, דוא\"ל ואתר ב-HTML של טבלה בטוח לדוא\"ל שעובד ב-Gmail וב-Outlook. בלי הרשמה.",
-  "id": "/loona-dev-tools/he/email-signature-generator/",
+  "id": "/he/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona INI 转 JSON 转换器",
   "short_name": "INI 转 JSON 转换器",
   "description": "把 INI 配置文件转换为 JSON：节成为对象，值在毫不含糊时带类型（数字、布尔值）。",
-  "id": "/loona-dev-tools/zh/ini-to-json/",
+  "id": "/zh/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

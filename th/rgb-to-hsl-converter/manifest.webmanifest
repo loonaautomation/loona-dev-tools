@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง RGB เป็น HSL",
   "short_name": "ตัวแปลง RGB เป็น HSL",
   "description": "แปลงสีจาก RGB เป็น HSL ออนไลน์ พร้อมตัวอย่างสีแบบสดและรูปแบบอื่นทั้งหมด (HEX, RGB, HSL, HSV, CMYK) ที่แสดงด้วย",
-  "id": "/loona-dev-tools/th/rgb-to-hsl-converter/",
+  "id": "/th/rgb-to-hsl-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

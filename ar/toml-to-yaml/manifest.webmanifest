@@ -2,7 +2,7 @@
   "name": "Loona محوّل TOML إلى YAML",
   "short_name": "محوّل TOML إلى YAML",
   "description": "حوّل TOML إلى YAML عبر الإنترنت: الجداول تصبح خرائط متداخلة، جداول المصفوفات تصبح قوائم كائنات.",
-  "id": "/loona-dev-tools/ar/toml-to-yaml/",
+  "id": "/ar/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

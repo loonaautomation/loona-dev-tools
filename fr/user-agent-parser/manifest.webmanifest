@@ -2,7 +2,7 @@
   "name": "Analyseur de chaîne User Agent Loona",
   "short_name": "Analyseur de chaîne User Agent",
   "description": "Analysez une chaîne User-Agent de navigateur en navigateur, moteur, système d’exploitation et type d’appareil avec un analyseur transparent fondé sur des règles.",
-  "id": "/loona-dev-tools/fr/user-agent-parser/",
+  "id": "/fr/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

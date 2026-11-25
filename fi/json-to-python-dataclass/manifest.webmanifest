@@ -2,7 +2,7 @@
   "name": "Loona JSON-Python-dataclass-muunnin",
   "short_name": "JSON-Python-dataclass",
   "description": "Muunna JSON Python-dataclass:eiksi tyyppivihjeillä: sisäkkäiset objektit muuttuvat sisäkkäisiksi dataclass:eiksi, List-tyypit taulukoille.",
-  "id": "/loona-dev-tools/fi/json-to-python-dataclass/",
+  "id": "/fi/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

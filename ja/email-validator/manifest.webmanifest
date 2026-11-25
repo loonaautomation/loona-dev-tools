@@ -2,7 +2,7 @@
   "name": "Loona メールバリデーター 無料オンライン",
   "short_name": "メールバリデーター 無料オンライン",
   "description": "メールアドレスを無料でオンライン検証します。一つずつでも一括でも。アドレスルールに対する完全な構文チェックに加え、gmial.comのような一般的なドメインのタイプミスの検出。登録不要です。",
-  "id": "/loona-dev-tools/ja/email-validator/",
+  "id": "/ja/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

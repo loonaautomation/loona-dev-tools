@@ -2,7 +2,7 @@
   "name": "Loona JSON文字列アンエスケープ",
   "short_name": "JSON文字列アンエスケープ",
   "description": "JSON文字列値を通常のテキストに戻します：\\n、\\t、\\&quot;、\\\\、\\uXXXXシーケンスが実際の文字になります。",
-  "id": "/loona-dev-tools/ja/json-unescape/",
+  "id": "/ja/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

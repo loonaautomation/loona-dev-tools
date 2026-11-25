@@ -2,7 +2,7 @@
   "name": "Loona URL Encoder (Percent Encoding)",
   "short_name": "URL Encoder (Percent Encoding)",
   "description": "Percent-encode text or a full URL online: spaces become %20, reserved characters are escaped per RFC 3986. Component or full-URL mode.",
-  "id": "/loona-dev-tools/en-us/url-encode/",
+  "id": "/en-us/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

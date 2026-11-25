@@ -2,7 +2,7 @@
   "name": "Extractor de fișiere 7Z Loona online gratuit",
   "short_name": "Extractor de fișiere 7Z online gratuit",
   "description": "Deschide arhive 7z chiar în browserul tău - vezi fiecare fișier din interior, descarcă fișiere individuale sau totul ca ZIP. Nimic nu este încărcat; extragerea are loc pe dispozitivul tău cu un motor WebAssembly.",
-  "id": "/loona-dev-tools/ro/7z-file-extractor/",
+  "id": "/ro/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

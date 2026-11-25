@@ -2,7 +2,7 @@
   "name": "Loona RAR فائل ایکسٹریکٹر آن لائن مفت",
   "short_name": "RAR فائل ایکسٹریکٹر آن لائن مفت",
   "description": "RAR فائلیں (RAR4 اور RAR5) عین اپنے براؤزر میں کھولیں - اندر ہر فائل دیکھیں، واحد فائلیں یا سب کچھ بطور ZIP ڈاؤن لوڈ کریں۔ کچھ اپ لوڈ نہیں ہوتا؛ extraction آپ کے آلے پر ہوتا ہے۔",
-  "id": "/loona-dev-tools/ur/rar-file-extractor/",
+  "id": "/ur/rar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

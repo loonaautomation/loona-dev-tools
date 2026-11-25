@@ -2,7 +2,7 @@
   "name": "Loona CSV-zu-TSV-Konverter",
   "short_name": "CSV-zu-TSV-Konverter",
   "description": "Konvertieren Sie CSV zu TSV (tabulatorgetrennte Werte): vollständiges Parsen von Feldern in Anführungszeichen, Tabulatoren als Trennzeichen. Kostenloser Online-Konverter.",
-  "id": "/loona-dev-tools/de/csv-to-tsv/",
+  "id": "/de/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

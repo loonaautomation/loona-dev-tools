@@ -2,7 +2,7 @@
   "name": "Loona JSON→TOML変換ツール",
   "short_name": "JSON→TOML変換ツール",
   "description": "JSONをTOMLにオンライン変換：スカラーを最初に、ネストしたオブジェクトは [tables] として、オブジェクトの配列は [[tables]] として。",
-  "id": "/loona-dev-tools/ja/json-to-toml/",
+  "id": "/ja/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

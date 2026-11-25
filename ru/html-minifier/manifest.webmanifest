@@ -2,7 +2,7 @@
   "name": "Loona Минификатор HTML",
   "short_name": "Минификатор HTML",
   "description": "Минифицируйте HTML онлайн: удаляйте комментарии и сворачивайте пробелы, защищая содержимое pre, textarea, script и style.",
-  "id": "/loona-dev-tools/ru/html-minifier/",
+  "id": "/ru/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona .env से JSON कन्वर्टर",
   "short_name": ".env से JSON कन्वर्टर",
   "description": ".env फ़ाइल को JSON में parse करें: KEY=value lines, export prefixes, comments और quoted values handled।",
-  "id": "/loona-dev-tools/hi/env-to-json/",
+  "id": "/hi/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

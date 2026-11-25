@@ -2,7 +2,7 @@
   "name": "Loona CSV 전치 온라인 무료",
   "short_name": "CSV 전치 온라인 무료",
   "description": "CSV를 온라인에서 무료로 전치하세요 - 따옴표 필드를 올바르게 처리하는 적절한 RFC 4180 파서로 행과 열을 바꾸세요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
-  "id": "/loona-dev-tools/ko/csv-transpose/",
+  "id": "/ko/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

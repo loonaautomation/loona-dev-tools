@@ -2,7 +2,7 @@
   "name": "ממיר Loona תאריך לחותמת זמן של Unix",
   "short_name": "תאריך לחותמת זמן של Unix",
   "description": "המירו תאריך ושעה לחותמת הזמן של Unix שלהם בשניות ובאלפיות שנייה, ב-UTC או באזור הזמן המקומי שלכם.",
-  "id": "/loona-dev-tools/he/date-to-unix-timestamp/",
+  "id": "/he/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

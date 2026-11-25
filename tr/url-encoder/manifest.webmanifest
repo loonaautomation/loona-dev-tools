@@ -2,7 +2,7 @@
   "name": "Loona URL Kodlayıcı ve Kod Çözücü Çevrimiçi Ücretsiz",
   "short_name": "URL Kodlayıcı ve Kod Çözücü Çevrimiçi",
   "description": "URL ve sorgu metnini çevrimiçi ücretsiz, component ve full-URL modları ve karakter başına bir dökümle kodlayın ve çözün. Kayıt gerekmez, tarayıcınızda.",
-  "id": "/loona-dev-tools/tr/url-encoder/",
+  "id": "/tr/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

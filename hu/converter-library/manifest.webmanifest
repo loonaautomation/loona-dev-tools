@@ -2,7 +2,7 @@
   "name": "Loona átalakító és generátor könyvtár",
   "short_name": "Átalakító és generátor könyvtár",
   "description": "Az összes Loona Developer Tools átalakító és generátor jegyzéke: kódolások, adatformátumok, hashek, színek, archívumok, kódgenerátorok és referenciák.",
-  "id": "/loona-dev-tools/hu/converter-library/",
+  "id": "/hu/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

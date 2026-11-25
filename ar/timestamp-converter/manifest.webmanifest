@@ -2,7 +2,7 @@
   "name": "Loona محوّل طوابع Unix الزمنية عبر الإنترنت مجاناً",
   "short_name": "محوّل طوابع Unix الزمنية",
   "description": "حوّل طوابع Unix الزمنية (ثوانٍ أو مللي ثوانٍ) إلى تواريخ بشرية بتوقيت UTC ووقتك المحلي، والتواريخ عودة إلى طوابع زمنية. الوقت الحالي مباشر. مجاني.",
-  "id": "/loona-dev-tools/ar/timestamp-converter/",
+  "id": "/ar/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

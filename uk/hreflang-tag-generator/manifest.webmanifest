@@ -2,7 +2,7 @@
   "name": "Генератор тегів Loona Hreflang онлайн безкоштовно",
   "short_name": "Генератор тегів Hreflang онлайн",
   "description": "Генеруйте теги hreflang онлайн безкоштовно — вставте пари мови та URL, додайте x-default й отримайте повний набір альтернативних посилань із перевірками BCP 47 і абсолютних URL. Без реєстрації.",
-  "id": "/loona-dev-tools/uk/hreflang-tag-generator/",
+  "id": "/uk/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona RAR 转 TAR 转换器",
   "short_name": "RAR 转 TAR 转换器",
   "description": "在您的浏览器中使用 libarchive 在线把 RAR 归档（RAR4 和 RAR5）转换为 TAR。文件保留在您的设备上。",
-  "id": "/loona-dev-tools/zh/rar-to-tar-converter/",
+  "id": "/zh/rar-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

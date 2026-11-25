@@ -2,7 +2,7 @@
   "name": "Loona Chmod計算機 無料オンライン",
   "short_name": "Chmod計算機 無料オンライン",
   "description": "chmod権限を無料でオンライン計算：チェックボックスから八進数（755）と記号表記（rwxr-xr-x）へ、そして八進数から権限へ戻します。登録不要、ブラウザ内で100%動作します。",
-  "id": "/loona-dev-tools/ja/chmod-calculator/",
+  "id": "/ja/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona منشئ جداول HTML عبر الإنترنت مجاناً",
   "short_name": "منشئ جداول HTML عبر الإنترنت",
   "description": "أنشئ جداول HTML عبر الإنترنت مجاناً - عيّن الصفوف والأعمدة، واكتب في الشبكة، واحصل على HTML جدول نظيف مع دعم thead وth وcaption زائد معاينة حية. دون تسجيل.",
-  "id": "/loona-dev-tools/ar/html-table-generator/",
+  "id": "/ar/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

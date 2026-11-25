@@ -2,7 +2,7 @@
   "name": "Loona romertall til tall",
   "short_name": "Romertall til tall",
   "description": "Konverter romertall til tall (1–3999), med streng validering av subtraktiv notasjon (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/nb/roman-numerals-converter/",
+  "id": "/nb/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

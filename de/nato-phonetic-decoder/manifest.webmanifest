@@ -2,7 +2,7 @@
   "name": "Loona NATO-Buchstabieralphabet-Decoder",
   "short_name": "NATO-Buchstabieralphabet-Decoder",
   "description": "Decodieren Sie NATO-Buchstabierwörter (Alfa, Bravo, Charlie...) zurück zu einfachen Buchstaben und Ziffern.",
-  "id": "/loona-dev-tools/de/nato-phonetic-decoder/",
+  "id": "/de/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

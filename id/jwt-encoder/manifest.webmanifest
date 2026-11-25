@@ -2,7 +2,7 @@
   "name": "Loona Encoder JWT (Penandatangan HS256)",
   "short_name": "Encoder JWT (Penandatangan HS256)",
   "description": "Buat dan tandatangani JSON Web Token dengan HS256 di browser Anda: payload JSON ditambah rahasia, atau alg=none. Penandatanganan WebCrypto.",
-  "id": "/loona-dev-tools/id/jwt-encoder/",
+  "id": "/id/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

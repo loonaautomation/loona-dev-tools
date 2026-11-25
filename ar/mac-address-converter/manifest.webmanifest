@@ -2,7 +2,7 @@
   "name": "Loona محوّل صيغة عناوين MAC",
   "short_name": "محوّل صيغة عناوين MAC",
   "description": "حوّل عناوين MAC بين صيغ النقطتين (AA:BB:CC:DD:EE:FF) والشرطة ونقاط Cisco والعادية؛ يتحقق من عنوان 48 بت.",
-  "id": "/loona-dev-tools/ar/mac-address-converter/",
+  "id": "/ar/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Piksel (px) - Em Dönüştürücü",
   "short_name": "Piksel (px) - Em Dönüştürücü",
   "description": "Ayarlanabilir bir temel yazı tipi boyutuyla (varsayılan 16px) ve yaygın değerler tablosuyla px değerini em değerine dönüştürün.",
-  "id": "/loona-dev-tools/tr/px-to-em-converter/",
+  "id": "/tr/px-to-em-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

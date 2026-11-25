@@ -2,7 +2,7 @@
   "name": "Декодувальник Loona Base64 у текст",
   "short_name": "Декодувальник Base64 у текст",
   "description": "Декодуйте Base64 назад у читабельний текст онлайн. Обробляє стандартний і безпечний для URL алфавіти, текст UTF-8 будь-якою мовою. Безкоштовно й конфіденційно.",
-  "id": "/loona-dev-tools/uk/base64-to-text/",
+  "id": "/uk/base64-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penjana Hash SHA-1",
   "short_name": "Penjana Hash SHA-1",
   "description": "Kira hash SHA-1 dari teks atau fail dalam talian: 160-bit, 40 aksara heks. Berjalan secara setempat di pelayar Anda dengan WebCrypto/JS murni — fail tidak pernah dimuat naik.",
-  "id": "/loona-dev-tools/ms/sha1-hash-generator/",
+  "id": "/ms/sha1-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

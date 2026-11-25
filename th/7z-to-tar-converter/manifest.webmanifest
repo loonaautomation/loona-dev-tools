@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง 7Z เป็น TAR",
   "short_name": "ตัวแปลง 7Z เป็น TAR",
   "description": "แปลงไฟล์บีบอัด 7Z เป็น TAR ออนไลน์: libarchive (WebAssembly) อ่าน 7Z ตัวเขียน ustar บรรจุมันใหม่ เป็นส่วนตัวและภายในเครื่อง",
-  "id": "/loona-dev-tools/th/7z-to-tar-converter/",
+  "id": "/th/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

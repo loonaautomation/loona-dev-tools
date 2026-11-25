@@ -2,7 +2,7 @@
   "name": "Loona CSV to JSON Converter - Spreadsheet Data as a Clean JSON Array",
   "short_name": "CSV to JSON Converter - Spreadsheet Data as a Clean JSON Array",
   "description": "Convert CSV to a JSON array of objects online for free, with a proper CSV parser that handles quoted fields, commas inside quotes and escaped quotes. No sign-up, runs 100% in your browser.",
-  "id": "/loona-dev-tools/en-us/csv-to-json-converter/",
+  "id": "/en-us/csv-to-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

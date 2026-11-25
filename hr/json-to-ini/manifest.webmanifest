@@ -2,7 +2,7 @@
   "name": "Loona pretvarač JSON u INI",
   "short_name": "Pretvarač JSON u INI",
   "description": "Pretvorite JSON objekte u INI format: prvo skalari najviše razine, ugniježđeni objekti kao [odjeljci]. Besplatni mrežni pretvarač.",
-  "id": "/loona-dev-tools/hr/json-to-ini/",
+  "id": "/hr/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

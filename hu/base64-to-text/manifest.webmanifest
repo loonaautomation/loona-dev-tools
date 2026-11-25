@@ -2,7 +2,7 @@
   "name": "Loona Base64-ből szöveggé dekódoló",
   "short_name": "Base64–szöveg dekódoló",
   "description": "Dekódolja a Base64-et vissza olvasható szöveggé online. Kezeli a szabványos és az URL-biztonságos ábécéket, az UTF-8 szöveget bármely nyelven. Ingyenes és privát.",
-  "id": "/loona-dev-tools/hu/base64-to-text/",
+  "id": "/hu/base64-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

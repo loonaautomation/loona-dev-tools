@@ -2,7 +2,7 @@
   "name": "Loona Pustaka Konverter & Generator",
   "short_name": "Pustaka Konverter & Generator",
   "description": "Indeks semua konverter dan generator Loona Developer Tools: encoding, format data, hash, warna, arsip, generator kode, dan referensi.",
-  "id": "/loona-dev-tools/id/converter-library/",
+  "id": "/id/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

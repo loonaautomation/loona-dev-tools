@@ -2,7 +2,7 @@
   "name": "Loona Декодировщик Base58 в текст",
   "short_name": "Декодировщик Base58 в текст",
   "description": "Декодируйте строки Base58 обратно в текст (UTF-8). Проверяет по алфавиту Bitcoin и сообщает о недопустимых символах.",
-  "id": "/loona-dev-tools/ru/base58-to-text/",
+  "id": "/ru/base58-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

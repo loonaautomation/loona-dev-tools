@@ -2,7 +2,7 @@
   "name": "Loona Conversor de CSV para TSV",
   "short_name": "Conversor de CSV para TSV",
   "description": "Converta CSV para TSV (valores separados por tabulação): análise completa de campos entre aspas, tabulações como delimitadores. Conversor online grátis.",
-  "id": "/loona-dev-tools/pt-br/csv-to-tsv/",
+  "id": "/pt-br/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

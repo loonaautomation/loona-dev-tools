@@ -2,7 +2,7 @@
   "name": "Loona Pembina Pautan UTM Dalam Talian Percuma",
   "short_name": "Pembina Pautan UTM Dalam Talian Percuma",
   "description": "Bangun URL kampanye bertanda UTM dalam talian secara percuma - source, medium, campaign, term, dan content ditambahkan dengan encoding yang benar, parameter kueri yang sudah ada dipertahankan, ditambah riwayat tersimpan.",
-  "id": "/loona-dev-tools/ms/utm-link-builder/",
+  "id": "/ms/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

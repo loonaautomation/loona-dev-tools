@@ -2,7 +2,7 @@
   "name": "Loona cURL til Fetch-konverterer",
   "short_name": "cURL til Fetch-konverterer",
   "description": "Konverter en cURL-kommando til JavaScript fetch()-kode: topptekster, metode, data, basic auth og --json håndtert.",
-  "id": "/loona-dev-tools/nb/curl-to-fetch/",
+  "id": "/nb/curl-to-fetch/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

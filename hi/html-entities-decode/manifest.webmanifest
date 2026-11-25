@@ -2,7 +2,7 @@
   "name": "Loona HTML Entities डिकोडर",
   "short_name": "HTML Entities डिकोडर",
   "description": "HTML entities को वापस plain characters में decode करें: named, decimal और hex references (&copy;, &#169;, &#xA9;) सभी supported।",
-  "id": "/loona-dev-tools/hi/html-entities-decode/",
+  "id": "/hi/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

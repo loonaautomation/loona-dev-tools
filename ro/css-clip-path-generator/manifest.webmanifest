@@ -2,7 +2,7 @@
   "name": "Generator CSS Clip-Path Loona online gratuit",
   "short_name": "Generator CSS Clip-Path",
   "description": "Generează clip-path CSS online gratuit - presetări de poligon precum stea, hexagon și săgeată cu puncte reglabile, plus forme cerc, elipsă și inset, cu previzualizare în direct. Fără înregistrare.",
-  "id": "/loona-dev-tools/ro/css-clip-path-generator/",
+  "id": "/ro/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

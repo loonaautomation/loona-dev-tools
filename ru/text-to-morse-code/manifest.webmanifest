@@ -2,7 +2,7 @@
   "name": "Loona Переводчик текста в код Морзе",
   "short_name": "Переводчик текста в код Морзе",
   "description": "Переводите текст в код Морзе (буквы, цифры и обычная пунктуация), слова разделяются /. Бесплатный переводчик Морзе.",
-  "id": "/loona-dev-tools/ru/text-to-morse-code/",
+  "id": "/ru/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

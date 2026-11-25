@@ -2,7 +2,7 @@
   "name": "Loona Rem - Piksel (px) Dönüştürücü",
   "short_name": "Rem - Piksel (px) Dönüştürücü",
   "description": "Ayarlanabilir bir temel yazı tipi boyutuyla (varsayılan 16px) ve yaygın değerler tablosuyla rem değerini px değerine dönüştürün.",
-  "id": "/loona-dev-tools/tr/rem-to-px-converter/",
+  "id": "/tr/rem-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

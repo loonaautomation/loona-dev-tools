@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/jwt-decoder/",
+  "id": "/en-gb/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

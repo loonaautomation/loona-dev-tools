@@ -2,7 +2,7 @@
   "name": "Trình tạo hash SHA-512 của Loona",
   "short_name": "Trình tạo hash SHA-512",
   "description": "Tính hash SHA-512 của văn bản hoặc tệp trực tuyến: 512 bit, 128 ký tự hex. Chạy cục bộ trong trình duyệt của bạn bằng WebCrypto/JS thuần — tệp không bao giờ được tải lên.",
-  "id": "/loona-dev-tools/vi/sha512-hash-generator/",
+  "id": "/vi/sha512-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

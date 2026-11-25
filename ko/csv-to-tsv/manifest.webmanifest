@@ -2,7 +2,7 @@
   "name": "Loona CSV를 TSV로 변환",
   "short_name": "CSV를 TSV로 변환",
   "description": "CSV를 TSV(탭으로 구분된 값)로 변환해요: 완전한 따옴표 필드 파싱, 구분자로 탭. 무료 온라인 변환기예요.",
-  "id": "/loona-dev-tools/ko/csv-to-tsv/",
+  "id": "/ko/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

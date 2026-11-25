@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Open Graph na Twitter Card",
   "short_name": "Open Graph na Twitter Card",
   "description": "Zalisha tegi za meta za Open Graph na Twitter Card mtandaoni bure, kwa onyesho la awali la kadi ya kijamii la moja kwa moja - kichwa, maelezo, picha, URL na jina la tovuti. Bila kujisajili, hufanya kazi kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/open-graph-generator/",
+  "id": "/sw/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona MIME 타입 참조 (Content Types by",
   "short_name": "MIME 타입 참조 (Content",
   "description": "파일 확장자별 일반적인 MIME 타입: 문서, 이미지, 오디오, 비디오, 아카이브, 글꼴, 웹 형식과 그 Content-Type 값이에요.",
-  "id": "/loona-dev-tools/ko/mime-types-reference/",
+  "id": "/ko/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 텍스트를 Base32로 인코딩",
   "short_name": "텍스트를 Base32로 인코더",
   "description": "텍스트를 Base32(RFC 4648)로 온라인에서 인코딩해요 — TOTP 비밀과 DNS 안전 식별자에 사용되는 대소문자 구분 없는 인코딩이에요.",
-  "id": "/loona-dev-tools/ko/text-to-base32/",
+  "id": "/ko/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

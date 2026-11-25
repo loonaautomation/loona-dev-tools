@@ -2,7 +2,7 @@
   "name": "Loona ตัวแยกไฟล์ ISO ออนไลน์ฟรี",
   "short_name": "ตัวแยกไฟล์ ISO ออนไลน์ฟรี",
   "description": "เปิดอิมเมจดิสก์ ISO ในเบราว์เซอร์ของคุณเลย - เรียกดูระบบไฟล์ที่เก็บบนแผ่นดิสก์เสมือน และดาวน์โหลดไฟล์เดียวหรือทุกอย่างเป็น ZIP ไม่มีการอัปโหลด",
-  "id": "/loona-dev-tools/th/iso-file-extractor/",
+  "id": "/th/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

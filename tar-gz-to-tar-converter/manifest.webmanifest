@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ to TAR Converter",
   "short_name": "TAR.GZ to TAR Converter",
   "description": "Strip the gzip layer from a .tar.gz / .tgz archive to get the plain TAR, online and locally — no extraction tools needed.",
-  "id": "/loona-dev-tools/tar-gz-to-tar-converter/",
+  "id": "/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

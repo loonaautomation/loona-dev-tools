@@ -2,7 +2,7 @@
   "name": "Loona JSON 축소기",
   "short_name": "JSON 축소기",
   "description": "JSON을 온라인에서 축소해요: 중요하지 않은 모든 공백을 제거해 하나의 간결한 줄로 만들고, 검증 오류는 정확히 보고돼요.",
-  "id": "/loona-dev-tools/ko/json-minifier/",
+  "id": "/ko/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

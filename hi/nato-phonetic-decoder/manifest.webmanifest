@@ -2,7 +2,7 @@
   "name": "Loona NATO Phonetic Alphabet डिकोडर",
   "short_name": "NATO Phonetic Alphabet डिकोडर",
   "description": "NATO phonetic words (Alfa, Bravo, Charlie...) को वापस plain letters और digits में decode करें।",
-  "id": "/loona-dev-tools/hi/nato-phonetic-decoder/",
+  "id": "/hi/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

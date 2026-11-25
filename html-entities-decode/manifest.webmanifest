@@ -2,7 +2,7 @@
   "name": "Loona HTML Entities Decoder",
   "short_name": "HTML Entities Decoder",
   "description": "Decode HTML entities back to plain characters: named, decimal and hex references (&copy;, &#169;, &#xA9;) all supported.",
-  "id": "/loona-dev-tools/html-entities-decode/",
+  "id": "/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

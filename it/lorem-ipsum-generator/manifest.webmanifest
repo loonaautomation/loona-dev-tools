@@ -2,7 +2,7 @@
   "name": "Loona Generatore Lorem Ipsum",
   "short_name": "Generatore Lorem Ipsum",
   "description": "Genera testo segnaposto Lorem Ipsum: scegli paragrafi, frasi o parole, con la classica riga di apertura opzionale.",
-  "id": "/loona-dev-tools/it/lorem-ipsum-generator/",
+  "id": "/it/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

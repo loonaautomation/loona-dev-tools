@@ -2,7 +2,7 @@
   "name": "Loona Konwerter 7Z na ZIP online za darmo",
   "short_name": "Konwerter 7Z na ZIP online",
   "description": "Konwertuj archiwum 7Z (.7z) na standardowy plik ZIP wprost w przeglądarce. Struktura folderów zachowana, nic nie jest przesyłane - a wynikowy ZIP otwiera się natywnie w Windows, macOS, Android i iPhone, bez potrzeby 7-Zip.",
-  "id": "/loona-dev-tools/pl/7z-to-zip-converter/",
+  "id": "/pl/7z-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

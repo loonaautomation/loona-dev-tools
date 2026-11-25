@@ -2,7 +2,7 @@
   "name": "Loona CSV-profilerare online gratis",
   "short_name": "CSV-profilerare online gratis",
   "description": "Profilera en CSV-fil online gratis - typgissningar per kolumn, antal tomma celler, antal unika värden, numeriskt min/max och toppvärden, så att du förstår en fil innan du använder den. Ingen registrering.",
-  "id": "/loona-dev-tools/sv/csv-profiler/",
+  "id": "/sv/csv-profiler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

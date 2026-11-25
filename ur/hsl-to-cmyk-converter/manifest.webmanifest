@@ -2,7 +2,7 @@
   "name": "Loona HSL سے CMYK کنورٹر",
   "short_name": "HSL سے CMYK کنورٹر",
   "description": "رنگوں کو HSL سے CMYK میں آن لائن بدلیں، ایک لائیو swatch اور تمام دیگر فارمیٹس (HEX, RGB, HSL, HSV, CMYK) بھی دکھائے گئے۔",
-  "id": "/loona-dev-tools/ur/hsl-to-cmyk-converter/",
+  "id": "/ur/hsl-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

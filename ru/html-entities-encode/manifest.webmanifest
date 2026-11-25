@@ -2,7 +2,7 @@
   "name": "Loona Кодировщик HTML-сущностей",
   "short_name": "Кодировщик HTML-сущностей",
   "description": "Кодируйте специальные символы как HTML-сущности: именованные (&copy;), десятичные или шестнадцатеричные числовые ссылки. Экранирует разметку, кавычки и текст, не входящий в ASCII.",
-  "id": "/loona-dev-tools/ru/html-entities-encode/",
+  "id": "/ru/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

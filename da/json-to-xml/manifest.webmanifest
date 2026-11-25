@@ -2,7 +2,7 @@
   "name": "Loona JSON til XML-konverter",
   "short_name": "JSON til XML-konverter",
   "description": "Konvertér JSON til XML online med et rodelement, der kan tilpasses: arrays bliver til gentagne elementer, @keys bliver til attributter.",
-  "id": "/loona-dev-tools/da/json-to-xml/",
+  "id": "/da/json-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

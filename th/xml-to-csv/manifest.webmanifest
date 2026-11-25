@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง XML เป็น CSV",
   "short_name": "ตัวแปลง XML เป็น CSV",
   "description": "แปลง XML เป็น CSV: องค์ประกอบที่ซ้ำกันกลายเป็นแถว องค์ประกอบลูกและแอตทริบิวต์ของพวกมันกลายเป็นคอลัมน์ ตัวแปลงออนไลน์ฟรี",
-  "id": "/loona-dev-tools/th/xml-to-csv/",
+  "id": "/th/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

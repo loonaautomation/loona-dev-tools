@@ -2,7 +2,7 @@
   "name": "Конвертор от TOML към YAML на Loona",
   "short_name": "Конвертор от TOML към YAML",
   "description": "Конвертирайте онлайн TOML в YAML: таблиците стават вложени съответствия, таблиците от масиви стават списъци от обекти.",
-  "id": "/loona-dev-tools/bg/toml-to-yaml/",
+  "id": "/bg/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

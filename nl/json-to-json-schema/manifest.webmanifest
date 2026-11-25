@@ -2,7 +2,7 @@
   "name": "Loona JSON naar JSON-schema-generator",
   "short_name": "JSON naar JSON-schema-generator",
   "description": "Genereer een JSON Schema (draft 2020-12) uit een JSON-voorbeeld: typen afgeleid, objecteigenschappen en vereiste sleutels inbegrepen.",
-  "id": "/loona-dev-tools/nl/json-to-json-schema/",
+  "id": "/nl/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

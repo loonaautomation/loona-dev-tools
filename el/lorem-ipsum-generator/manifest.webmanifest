@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Lorem Ipsum",
   "short_name": "Γεννήτρια Lorem Ipsum",
   "description": "Δημιουργήστε κείμενο placeholder Lorem Ipsum: επιλέξτε παραγράφους, προτάσεις ή λέξεις, με την κλασική εναρκτήρια γραμμή προαιρετική.",
-  "id": "/loona-dev-tools/el/lorem-ipsum-generator/",
+  "id": "/el/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

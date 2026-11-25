@@ -2,7 +2,7 @@
   "name": "Loona ตัวแยกวิเคราะห์สตริง User Agent",
   "short_name": "ตัวแยกวิเคราะห์สตริง User Agent",
   "description": "แยกวิเคราะห์สตริง User-Agent ของเบราว์เซอร์เป็นเบราว์เซอร์ กลไก ระบบปฏิบัติการ และประเภทอุปกรณ์ด้วยตัวแยกวิเคราะห์ตามกฎที่โปร่งใส",
-  "id": "/loona-dev-tools/th/user-agent-parser/",
+  "id": "/th/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

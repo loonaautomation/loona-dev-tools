@@ -2,7 +2,7 @@
   "name": "Loona cURL-ból Fetch-be átalakító",
   "short_name": "cURL-ból Fetch-be átalakító",
   "description": "Alakítson egy cURL parancsot JavaScript fetch() kóddá: fejlécek, metódus, adatok, basic auth és --json kezelve.",
-  "id": "/loona-dev-tools/hu/curl-to-fetch/",
+  "id": "/hu/curl-to-fetch/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

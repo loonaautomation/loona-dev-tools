@@ -2,7 +2,7 @@
   "name": "ממיר Loona הקסדצימלי לאוקטלי",
   "short_name": "ממיר הקסדצימלי לאוקטלי",
   "description": "המירו מספרים הקסדצימליים לאוקטלי באופן מקוון — דיוק שרירותי (BigInt), מספרים שליליים נתמכים.",
-  "id": "/loona-dev-tools/he/hex-to-octal-converter/",
+  "id": "/he/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

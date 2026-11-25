@@ -2,7 +2,7 @@
   "name": "Loona সংখ্যা থেকে রোমান সংখ্যা",
   "short_name": "সংখ্যা থেকে রোমান সংখ্যাসূচক",
   "description": "সংখ্যা (1–3999) মানক বিয়োগাত্মক আকারে রোমান সংখ্যায় রূপান্তর করুন। বিনামূল্যে অনলাইন কনভার্টার।",
-  "id": "/loona-dev-tools/bn/number-to-roman-numerals/",
+  "id": "/bn/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

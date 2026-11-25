@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da esadecimale a ottale",
   "short_name": "Convertitore da esadecimale a ottale",
   "description": "Converti numeri esadecimali in ottale online — precisione arbitraria (BigInt), numeri negativi supportati.",
-  "id": "/loona-dev-tools/it/hex-to-octal-converter/",
+  "id": "/it/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

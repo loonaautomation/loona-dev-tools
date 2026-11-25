@@ -2,7 +2,7 @@
   "name": "Тестер на JSONPath на Loona",
   "short_name": "Тестер на JSONPath",
   "description": "Тествайте JSONPath изрази срещу JSON документ: точкова нотация, индекси, заместващи символи и рекурсивно слизане ($..key) се поддържат.",
-  "id": "/loona-dev-tools/bg/jsonpath-tester/",
+  "id": "/bg/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

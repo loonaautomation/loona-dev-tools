@@ -2,7 +2,7 @@
   "name": "Loona Кодировщик &amp; декодировщик шифра Цезаря",
   "short_name": "Кодировщик шифра Цезаря &amp;",
   "description": "Шифр Цезаря с любым сдвигом (1–25) и режимом декодирования: классический шифр подстановки Юлия Цезаря, онлайн.",
-  "id": "/loona-dev-tools/ru/caesar-cipher/",
+  "id": "/ru/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

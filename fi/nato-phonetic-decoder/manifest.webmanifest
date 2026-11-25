@@ -2,7 +2,7 @@
   "name": "Loona NATO-foneettisen aakkoston purkaja",
   "short_name": "NATO-foneettisen aakkoston purkaja",
   "description": "Pura NATO-foneettisia sanoja (Alfa, Bravo, Charlie...) takaisin tavallisiksi kirjaimiksi ja numeroiksi.",
-  "id": "/loona-dev-tools/fi/nato-phonetic-decoder/",
+  "id": "/fi/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

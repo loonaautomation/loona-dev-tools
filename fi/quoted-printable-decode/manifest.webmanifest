@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable-purkaja",
   "short_name": "Quoted-Printable-purkaja",
   "description": "Pura quoted-printable (MIME) -tekstiä takaisin luettavaksi UTF-8:ksi: =XX-pakotukset ja pehmeät rivinvaihdot käsiteltynä RFC 2045:n mukaan.",
-  "id": "/loona-dev-tools/fi/quoted-printable-decode/",
+  "id": "/fi/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

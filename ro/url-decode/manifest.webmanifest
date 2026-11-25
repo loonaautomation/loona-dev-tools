@@ -2,7 +2,7 @@
   "name": "Decodificare URL Loona (decodificare procentuală)",
   "short_name": "Decodificare URL (decodificare procentuală)",
   "description": "Decodifică URL-uri și șiruri de interogare codificate procentual înapoi în text lizibil, inclusiv secvențe UTF-8 și + ca spațiu. Decodor online gratuit.",
-  "id": "/loona-dev-tools/ro/url-decode/",
+  "id": "/ro/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

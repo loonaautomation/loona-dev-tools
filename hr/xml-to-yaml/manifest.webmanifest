@@ -2,7 +2,7 @@
   "name": "Loona pretvarač XML u YAML",
   "short_name": "Pretvarač XML u YAML",
   "description": "Pretvorite XML u YAML: atributi kao @ključevi, ponovljeni elementi kao popisi, vrijednosti tipizirane. Pravi parser, ne regularni izraz.",
-  "id": "/loona-dev-tools/hr/xml-to-yaml/",
+  "id": "/hr/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

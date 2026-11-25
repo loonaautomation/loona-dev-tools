@@ -2,7 +2,7 @@
   "name": "Encodeur de chiffrement Loona A1Z26 (Lettres vers nombres)",
   "short_name": "Encodeur de chiffrement A1Z26 (Lettres",
   "description": "Encodez du texte avec le chiffrement A1Z26 : A=1, B=2 ... Z=26. Le code classique des énigmes et des salles d’évasion.",
-  "id": "/loona-dev-tools/fr/a1z26-cipher-encoder/",
+  "id": "/fr/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

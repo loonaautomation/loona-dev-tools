@@ -2,7 +2,7 @@
   "name": "Loona Generador de tablas HTML en línea gratis",
   "short_name": "Generador de tablas HTML en línea",
   "description": "Genera tablas HTML en línea gratis: define filas y columnas, escribe en la cuadrícula y obtén HTML de tabla limpio con compatibilidad con thead, th y leyenda, más una vista previa en vivo. Sin registro.",
-  "id": "/loona-dev-tools/es/html-table-generator/",
+  "id": "/es/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

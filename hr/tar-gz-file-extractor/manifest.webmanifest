@@ -2,7 +2,7 @@
   "name": "Loona izdvajanje TAR.GZ datoteka na mreži besplatno",
   "short_name": "Izdvajanje TAR.GZ datoteka na mreži",
   "description": "Otvorite tar.gz arhive izravno u pregledniku - i .tar.gz i kratko ime .tgz - pogledajte svaku datoteku unutra i preuzmite pojedinačne datoteke ili sve kao ZIP. Ništa se ne prenosi.",
-  "id": "/loona-dev-tools/hr/tar-gz-file-extractor/",
+  "id": "/hr/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

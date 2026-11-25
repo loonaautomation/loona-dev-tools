@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha JSON kwenda Kiingiliano cha TypeScript",
   "short_name": "JSON kwenda Kiingiliano cha TypeScript",
   "description": "Badilisha JSON kuwa violesura vya TypeScript mtandaoni: vitu vilivyoingiliana huwa violesura vyenye majina, safu za vitu huunganisha funguo zake na sehemu za hiari zimewekewa alama.",
-  "id": "/loona-dev-tools/sw/json-to-typescript/",
+  "id": "/sw/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

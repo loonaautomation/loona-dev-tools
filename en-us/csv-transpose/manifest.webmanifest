@@ -2,7 +2,7 @@
   "name": "Loona CSV Transpose - Swap Rows and Columns",
   "short_name": "CSV Transpose - Swap Rows and Columns",
   "description": "Transpose CSV online for free - swap rows and columns with a proper RFC 4180 parser that handles quoted fields correctly. No sign-up, runs 100% in your browser.",
-  "id": "/loona-dev-tools/en-us/csv-transpose/",
+  "id": "/en-us/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

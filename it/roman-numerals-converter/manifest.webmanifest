@@ -2,7 +2,7 @@
   "name": "Loona Da numeri romani a numeri",
   "short_name": "Da numeri romani a numeri",
   "description": "Converti numeri romani in numeri (1–3999), con convalida rigorosa della notazione sottrattiva (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/it/roman-numerals-converter/",
+  "id": "/it/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

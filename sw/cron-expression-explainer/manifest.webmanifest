@@ -2,7 +2,7 @@
   "name": "Loona Kifafanuzi cha Usemi wa Cron",
   "short_name": "Kifafanuzi cha Misemo ya Cron",
   "description": "Fafanua misemo ya cron kwa Kiingereza wazi: bandika ratiba ya cron ya sehemu 5 na usome inaendeshwa lini, sehemu kwa sehemu.",
-  "id": "/loona-dev-tools/sw/cron-expression-explainer/",
+  "id": "/sw/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

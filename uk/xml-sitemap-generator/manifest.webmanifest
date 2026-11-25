@@ -2,7 +2,7 @@
   "name": "Генератор карти сайту Loona XML онлайн безкоштовно",
   "short_name": "Генератор карт сайтів XML онлайн",
   "description": "Генеруйте дійсну карту сайту XML онлайн безкоштовно зі списку URL, із типовими lastmod, changefreq і priority, правильним екрануванням URL і XML. Без реєстрації, працює у вашому браузері.",
-  "id": "/loona-dev-tools/uk/xml-sitemap-generator/",
+  "id": "/uk/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator podsieci IP online za darmo",
   "short_name": "Kalkulator podsieci IP online",
   "description": "Obliczaj podsieci IPv4 online za darmo - sieć, rozgłoszenie, maska sieci, maska wildcard, pierwszy i ostatni host, liczba użytecznych hostów oraz klasa IP z dowolnego adresu CIDR, plus widok dzielenia podsieci.",
-  "id": "/loona-dev-tools/pl/ip-subnet-calculator/",
+  "id": "/pl/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

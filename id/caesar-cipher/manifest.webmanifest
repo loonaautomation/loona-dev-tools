@@ -2,7 +2,7 @@
   "name": "Loona Encoder & Decoder Sandi Caesar",
   "short_name": "Encoder Sandi Caesar &",
   "description": "Sandi Caesar dengan pergeseran apa pun (1–25) dan mode dekode: sandi substitusi klasik Julius Caesar, online.",
-  "id": "/loona-dev-tools/id/caesar-cipher/",
+  "id": "/id/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Калькулятор контрольной суммы CRC32",
   "short_name": "Калькулятор контрольной суммы CRC32",
   "description": "Вычисляйте хеши CRC32 текста или файлов онлайн: 32-битные, 8 шестнадцатеричных символов. Работает локально в вашем браузере с WebCrypto/чистым JS — файлы никогда не загружаются.",
-  "id": "/loona-dev-tools/ru/crc32-calculator/",
+  "id": "/ru/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

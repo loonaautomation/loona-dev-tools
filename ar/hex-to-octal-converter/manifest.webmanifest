@@ -2,7 +2,7 @@
   "name": "Loona محوّل السداسي العشري إلى الثماني",
   "short_name": "محوّل السداسي العشري إلى الثماني",
   "description": "حوّل الأرقام السداسية العشرية إلى الثماني عبر الإنترنت — دقة تعسّفية (BigInt)، أرقام سالبة مدعومة.",
-  "id": "/loona-dev-tools/ar/hex-to-octal-converter/",
+  "id": "/ar/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

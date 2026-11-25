@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้างนิพจน์ Cron ออนไลน์ฟรี",
   "short_name": "ตัวสร้างนิพจน์ Cron",
   "description": "สร้างนิพจน์ cron จากเมนูดรอปดาวน์และอธิบายนิพจน์ cron แบบ 5 ฟิลด์ใด ๆ เป็นภาษาไทยที่เข้าใจง่าย ออนไลน์ฟรี ไม่ต้องสมัครสมาชิก ทำงาน 100% ในเบราว์เซอร์ของคุณ",
-  "id": "/loona-dev-tools/th/cron-expression-generator/",
+  "id": "/th/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

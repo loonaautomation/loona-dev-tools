@@ -2,7 +2,7 @@
   "name": "ממיר Loona CMYK ל-RGB",
   "short_name": "ממיר CMYK ל-RGB",
   "description": "המירו צבעים מ-CMYK ל-RGB באופן מקוון, עם דוגמית חיה וכל שאר הפורמטים (HEX, RGB, HSL, HSV, CMYK) מוצגים גם כן.",
-  "id": "/loona-dev-tools/he/cmyk-to-rgb-converter/",
+  "id": "/he/cmyk-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

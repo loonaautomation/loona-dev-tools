@@ -2,7 +2,7 @@
   "name": "Loona számokból római számokká átalakító",
   "short_name": "Számokból római számok",
   "description": "Alakítson számokat (1–3999) római számokká szabványos kivonó formában. Ingyenes online átalakító.",
-  "id": "/loona-dev-tools/hu/number-to-roman-numerals/",
+  "id": "/hu/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

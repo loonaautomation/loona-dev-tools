@@ -2,7 +2,7 @@
   "name": "Loona Cron ایکسپریشن وضاحت کنندہ",
   "short_name": "Cron ایکسپریشن وضاحت کنندہ",
   "description": "Cron ایکسپریشنز کی سادہ انگریزی میں وضاحت کریں: ایک 5-فیلڈ Cron شیڈول پیسٹ کریں اور پڑھیں کہ یہ کب چلتا ہے، فیلڈ بہ فیلڈ۔",
-  "id": "/loona-dev-tools/ur/cron-expression-explainer/",
+  "id": "/ur/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

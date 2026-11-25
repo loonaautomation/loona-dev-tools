@@ -2,7 +2,7 @@
   "name": "Loona বাইনারি থেকে টেক্সট কনভার্টার",
   "short_name": "বাইনারি থেকে টেক্সট কনভার্টার",
   "description": "অনলাইনে বাইনারি (8 বিটের গ্রুপ, ফাঁকযুক্ত বা অবিচ্ছিন্ন) আবার UTF-8 টেক্সটে ডিকোড করুন। বিনামূল্যে বাইনারি অনুবাদক।",
-  "id": "/loona-dev-tools/bn/binary-to-text/",
+  "id": "/bn/binary-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

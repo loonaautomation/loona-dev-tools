@@ -2,7 +2,7 @@
   "name": "Парсер рядків User Agent Loona",
   "short_name": "Парсер рядків User Agent",
   "description": "Розберіть рядок User-Agent браузера на браузер, рушій, ОС і тип пристрою прозорим парсером на основі правил.",
-  "id": "/loona-dev-tools/uk/user-agent-parser/",
+  "id": "/uk/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

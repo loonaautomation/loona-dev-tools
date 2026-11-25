@@ -2,7 +2,7 @@
   "name": "Loona Penjana Clip-Path CSS Dalam Talian Percuma",
   "short_name": "Penjana Clip-Path CSS",
   "description": "Buat CSS clip-path dalam talian secara percuma - preset poligon seperti bintang, segi enam, dan panah dengan titik yang dapat disesuaikan, ditambah bentuk lingkaran, elips, dan inset, dengan pratonton langsung. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/ms/css-clip-path-generator/",
+  "id": "/ms/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

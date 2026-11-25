@@ -2,7 +2,7 @@
   "name": "Loona Konverter Em ke Piksel (px)",
   "short_name": "Konverter Em ke Piksel (px)",
   "description": "Konversi em ke px dengan ukuran font dasar yang dapat disesuaikan (default 16px) dan tabel nilai umum.",
-  "id": "/loona-dev-tools/id/em-to-px-converter/",
+  "id": "/id/em-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

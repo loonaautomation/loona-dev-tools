@@ -2,7 +2,7 @@
   "name": "Loona Penukar RGB ke HEX",
   "short_name": "Penukar RGB ke HEX",
   "description": "Penukaran warna dari RGB ke HEX dalam talian, dengan contoh warna langsung dan semua format lain (HEX, RGB, HSL, HSV, CMYK) juga dipaparkan.",
-  "id": "/loona-dev-tools/ms/rgb-to-hex-converter/",
+  "id": "/ms/rgb-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

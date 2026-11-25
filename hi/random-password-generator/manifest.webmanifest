@@ -2,7 +2,7 @@
   "name": "Loona Random पासवर्ड जनरेटर",
   "short_name": "Random पासवर्ड जनरेटर",
   "description": "WebCrypto API के साथ अपने ब्राउज़र में मज़बूत random passwords generate करें: length और character sets adjustable, entropy दिखाई गई।",
-  "id": "/loona-dev-tools/hi/random-password-generator/",
+  "id": "/hi/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

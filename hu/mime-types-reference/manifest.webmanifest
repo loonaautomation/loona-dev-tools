@@ -2,7 +2,7 @@
   "name": "Loona MIME típusok referenciája (tartalomtípusok",
   "short_name": "MIME típusok referenciája (tartalom",
   "description": "Gyakori MIME típusok fájlkiterjesztés szerint: dokumentumok, képek, audio, videó, archívumok, betűtípusok és webes formátumok a Content-Type értékeikkel.",
-  "id": "/loona-dev-tools/hu/mime-types-reference/",
+  "id": "/hu/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

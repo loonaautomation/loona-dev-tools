@@ -2,7 +2,7 @@
   "name": "Loona HTML-entitetsavkodare",
   "short_name": "HTML-entitetsavkodare",
   "description": "Avkoda HTML-entiteter tillbaka till vanliga tecken: namngivna, decimala och hex-referenser (&copy;, &#169;, &#xA9;) stöds alla.",
-  "id": "/loona-dev-tools/sv/html-entities-decode/",
+  "id": "/sv/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

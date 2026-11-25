@@ -2,7 +2,7 @@
   "name": "Loona MAC Address Format कन्वर्टर",
   "short_name": "MAC Address Format कन्वर्टर",
   "description": "MAC addresses को colon (AA:BB:CC:DD:EE:FF), dash, Cisco dot और plain formats के बीच बदलें; 48-bit address को validate करता है।",
-  "id": "/loona-dev-tools/hi/mac-address-converter/",
+  "id": "/hi/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

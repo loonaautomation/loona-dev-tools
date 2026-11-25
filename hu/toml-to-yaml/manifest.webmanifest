@@ -2,7 +2,7 @@
   "name": "Loona TOML-ból YAML-ba átalakító",
   "short_name": "TOML-ból YAML-ba átalakító",
   "description": "Alakítson TOML-t YAML-lá online: a táblázatok beágyazott leképezésekké, a táblatömbök objektumok listáivá válnak.",
-  "id": "/loona-dev-tools/hu/toml-to-yaml/",
+  "id": "/hu/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

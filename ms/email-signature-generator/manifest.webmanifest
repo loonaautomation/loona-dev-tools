@@ -2,7 +2,7 @@
   "name": "Loona Penjana Tanda Tangan Emel HTML Dalam Talian Percuma",
   "short_name": "Tanda Tangan Emel HTML",
   "description": "Buat tandatangan emel HTML profesional dalam talian secara percuma - nama, jabatan, perusahaan, telefon, emel, dan laman web dalam HTML jadual yang selamat untuk emel yang berfungsi di Gmail dan Outlook. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/ms/email-signature-generator/",
+  "id": "/ms/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

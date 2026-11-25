@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Timestamp Unix Online Grátis",
   "short_name": "Conversor de Carimbos Temporais Unix",
   "description": "Converta timestamps Unix (segundos ou milissegundos) para datas legíveis em UTC e na sua hora local, e datas de volta para timestamps. Hora atual em direto. Grátis.",
-  "id": "/loona-dev-tools/pt/timestamp-converter/",
+  "id": "/pt/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

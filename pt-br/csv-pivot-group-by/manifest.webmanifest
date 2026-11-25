@@ -2,7 +2,7 @@
   "name": "Loona CSV Pivot e Agrupar por Online Grátis",
   "short_name": "CSV Pivot e Agrupar por Online",
   "description": "Faça pivot de dados CSV online gratuitamente - agrupe linhas por qualquer coluna e calcule soma, contagem, média, mínimo ou máximo de uma coluna de valores. Sem registro, funciona 100% no seu navegador.",
-  "id": "/loona-dev-tools/pt-br/csv-pivot-group-by/",
+  "id": "/pt-br/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

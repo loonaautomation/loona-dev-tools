@@ -2,7 +2,7 @@
   "name": "Extraktor údajov Loona CSV online zadarmo",
   "short_name": "Extraktor údajov CSV online zadarmo",
   "description": "Extrahujte e-mailové adresy, telefónne čísla a URL z neusporiadaných súborov CSV alebo akéhokoľvek textu online zadarmo - vyčistené zoznamy bez duplicít, ktoré si môžete stiahnuť. Bez registrácie, beží vo vašom prehliadači.",
-  "id": "/loona-dev-tools/sk/csv-data-extractor/",
+  "id": "/sk/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

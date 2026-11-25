@@ -2,7 +2,7 @@
   "name": "ממיר Loona TOML ל-JSON",
   "short_name": "ממיר TOML ל-JSON",
   "description": "המירו TOML ל-JSON באופן מקוון: טבלאות, טבלאות מערכים, מחרוזות, מספרים, בוליאנים, מערכים ותאריכים-שעות (כמחרוזות).",
-  "id": "/loona-dev-tools/he/toml-to-json/",
+  "id": "/he/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "מקודד ומפענח Loona ROT13",
   "short_name": "מקודד ומפענח ROT13",
   "description": "‏ROT13 לכל טקסט: סובבו אותיות ב-13 מקומות. קידוד ופענוח הם אותה פעולה. קלאסי לספוילרים ולחידות.",
-  "id": "/loona-dev-tools/he/rot13-encoder/",
+  "id": "/he/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

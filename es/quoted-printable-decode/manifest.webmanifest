@@ -2,7 +2,7 @@
   "name": "Loona Decodificador quoted-printable",
   "short_name": "Decodificador quoted-printable",
   "description": "Decodifica texto quoted-printable (MIME) de vuelta a UTF-8 legible: escapes =XX y saltos de línea suaves manejados según RFC 2045.",
-  "id": "/loona-dev-tools/es/quoted-printable-decode/",
+  "id": "/es/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

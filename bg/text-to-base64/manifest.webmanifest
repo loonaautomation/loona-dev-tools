@@ -2,7 +2,7 @@
   "name": "Енкодер от текст към Base64 на Loona",
   "short_name": "Кодиране от текст към Base64",
   "description": "Кодирайте онлайн текст в Base64, безопасно за UTF-8 за всеки език и емоджи, с незадължителна URL-безопасна азбука. Безплатно, поверително, в браузъра ви.",
-  "id": "/loona-dev-tools/bg/text-to-base64/",
+  "id": "/bg/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

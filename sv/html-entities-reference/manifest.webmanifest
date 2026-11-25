@@ -2,7 +2,7 @@
   "name": "Loona HTML-entitetsreferenstabell",
   "short_name": "HTML-entitetsreferenstabell",
   "description": "Den väsentliga HTML-entitetstabellen: namngiven entitet, tecken, decimalkod och användningsanteckningar för entiteterna utvecklare faktiskt använder.",
-  "id": "/loona-dev-tools/sv/html-entities-reference/",
+  "id": "/sv/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

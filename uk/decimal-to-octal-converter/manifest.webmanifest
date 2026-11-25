@@ -2,7 +2,7 @@
   "name": "Конвертер Loona десяткової у вісімкову",
   "short_name": "Конвертер десяткової у вісімкову",
   "description": "Конвертуйте десяткові числа у вісімкові онлайн — довільна точність (BigInt), від’ємні числа підтримуються.",
-  "id": "/loona-dev-tools/uk/decimal-to-octal-converter/",
+  "id": "/uk/decimal-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

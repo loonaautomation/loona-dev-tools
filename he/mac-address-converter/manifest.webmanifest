@@ -2,7 +2,7 @@
   "name": "ממיר פורמט כתובות MAC של Loona",
   "short_name": "ממיר פורמט כתובות MAC",
   "description": "המירו כתובות MAC בין פורמט נקודתיים (AA:BB:CC:DD:EE:FF), מקף, נקודת Cisco ופורמט פשוט; מאמת את הכתובת של 48 סיביות.",
-  "id": "/loona-dev-tools/he/mac-address-converter/",
+  "id": "/he/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

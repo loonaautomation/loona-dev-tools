@@ -2,7 +2,7 @@
   "name": "Loona JWTエンコーダー（HS256署名）",
   "short_name": "JWTエンコーダー（HS256署名）",
   "description": "ブラウザ内で HS256 を使って JSON Web Token を作成し署名：ペイロードJSONとシークレット、または alg=none。WebCryptoによる署名。",
-  "id": "/loona-dev-tools/ja/jwt-encoder/",
+  "id": "/ja/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

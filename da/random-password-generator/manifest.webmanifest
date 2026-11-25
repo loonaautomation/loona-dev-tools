@@ -2,7 +2,7 @@
   "name": "Loona tilfældig adgangskodegenerator",
   "short_name": "Tilfældig adgangskodegenerator",
   "description": "Generér stærke tilfældige adgangskoder i din browser med WebCrypto-API'en: længde og tegnsæt kan justeres, entropi vises.",
-  "id": "/loona-dev-tools/da/random-password-generator/",
+  "id": "/da/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

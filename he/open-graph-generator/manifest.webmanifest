@@ -2,7 +2,7 @@
   "name": "מחולל Loona Open Graph וכרטיסי Twitter",
   "short_name": "Open Graph וכרטיס טוויטר",
   "description": "צרו תגיות מטא של Open Graph ו-Twitter Card באופן מקוון בחינם, עם תצוגה מקדימה חיה של כרטיס חברתי - כותרת, תיאור, תמונה, URL ושם אתר. בלי הרשמה, פועל בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/open-graph-generator/",
+  "id": "/he/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

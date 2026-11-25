@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da JSON a INI",
   "short_name": "Convertitore da JSON a INI",
   "description": "Converti oggetti JSON in formato INI: scalari di primo livello prima, oggetti annidati come [sections]. Convertitore online gratuito.",
-  "id": "/loona-dev-tools/it/json-to-ini/",
+  "id": "/it/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

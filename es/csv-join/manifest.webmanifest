@@ -2,7 +2,7 @@
   "name": "Loona Unión de CSV en línea gratis",
   "short_name": "Unión de CSV en línea gratis",
   "description": "Une dos archivos CSV en línea gratis por una columna clave compartida: unión interna o izquierda, claves duplicadas manejadas al estilo de las bases de datos. Sin registro, funciona 100% en tu navegador.",
-  "id": "/loona-dev-tools/es/csv-join/",
+  "id": "/es/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

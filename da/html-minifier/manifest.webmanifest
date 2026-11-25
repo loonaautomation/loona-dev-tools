@@ -2,7 +2,7 @@
   "name": "Loona HTML-minimerer",
   "short_name": "HTML-minimerer",
   "description": "Minimér HTML online: fjern kommentarer og kollaps mellemrum, mens pre-, textarea-, script- og style-indhold beskyttes.",
-  "id": "/loona-dev-tools/da/html-minifier/",
+  "id": "/da/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

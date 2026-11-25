@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ থেকে TAR কনভার্টার",
   "short_name": "TAR.GZ থেকে TAR রূপান্তরকারী",
   "description": "একটি .tar.gz / .tgz আর্কাইভ থেকে gzip স্তর ছাড়িয়ে সাধারণ TAR পান, অনলাইনে ও স্থানীয়ভাবে — কোনো এক্সট্র্যাকশন টুল দরকার নেই।",
-  "id": "/loona-dev-tools/bn/tar-gz-to-tar-converter/",
+  "id": "/bn/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

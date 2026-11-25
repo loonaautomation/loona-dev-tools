@@ -2,7 +2,7 @@
   "name": "Loona منشئ وسوم Meta عبر الإنترنت مجاناً",
   "short_name": "منشئ وسوم Meta عبر الإنترنت مجاناً",
   "description": "أنشئ وسوم HTML الوصفية عبر الإنترنت مجاناً - العنوان، الوصف، الكلمات المفتاحية، المؤلف، الروبوتات والرابط القانوني - مع معاينة SERP حية بأسلوب Google وعدادات أحرف. دون تسجيل.",
-  "id": "/loona-dev-tools/ar/meta-tag-generator/",
+  "id": "/ar/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

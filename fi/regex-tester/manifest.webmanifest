@@ -2,7 +2,7 @@
   "name": "Loona Regex-testaaja verkossa ilmaiseksi",
   "short_name": "Regex-testaaja verkossa ilmaiseksi",
   "description": "Testaa säännöllisiä lausekkeita verkossa ilmaiseksi livenä tapahtuvalla osumien korostuksella, sieppausryhmien tiedoilla ja osumien määrällä. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/regex-tester/",
+  "id": "/fi/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

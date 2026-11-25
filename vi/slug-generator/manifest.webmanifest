@@ -2,7 +2,7 @@
   "name": "Trình tạo slug của Loona (Công cụ tạo slug URL)",
   "short_name": "Trình tạo slug (URL Slug",
   "description": "Tạo URL slug sạch từ tiêu đề: dấu được loại bỏ, chữ thường, dấu cách thành dấu gạch nối (hoặc dấu gạch dưới). Trình tạo slug miễn phí.",
-  "id": "/loona-dev-tools/vi/slug-generator/",
+  "id": "/vi/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

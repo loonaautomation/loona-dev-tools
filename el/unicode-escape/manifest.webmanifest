@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Διαφυγής Unicode (\\uXXXX)",
   "short_name": "Μετατροπέας Διαφυγής Unicode",
   "description": "Διαφύγετε κείμενο σε ακολουθίες διαφυγής Unicode (\\uXXXX) για αρχεία JSON, JavaScript, Java και properties. Χειρίζεται emoji μέσω ζευγών υποκατάστατων.",
-  "id": "/loona-dev-tools/el/unicode-escape/",
+  "id": "/el/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

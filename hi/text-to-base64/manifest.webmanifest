@@ -2,7 +2,7 @@
   "name": "Loona Text से Base64 एनकोडर",
   "short_name": "Text से Base64 एनकोडर",
   "description": "Text को Base64 में ऑनलाइन encode करें, किसी भी भाषा और emoji के लिए UTF-8 सुरक्षित, एक वैकल्पिक URL-safe alphabet के साथ। मुफ़्त, निजी, आपके ब्राउज़र में।",
-  "id": "/loona-dev-tools/hi/text-to-base64/",
+  "id": "/hi/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

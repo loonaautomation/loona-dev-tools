@@ -2,7 +2,7 @@
   "name": "Loona حاسبة المجموع التدققي Adler-32",
   "short_name": "حاسبة المجموع التدققي Adler-32",
   "description": "احسب تجزئات Adler-32 للنص أو الملفات عبر الإنترنت: 32 بت، 8 أحرف سداسية عشرية. يعمل محلياً في متصفحك عبر WebCrypto/JS خالص — لا تُرفع الملفات أبداً.",
-  "id": "/loona-dev-tools/ar/adler32-calculator/",
+  "id": "/ar/adler32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

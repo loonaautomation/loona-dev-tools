@@ -2,7 +2,7 @@
   "name": "Loona cron-expressie-uitlegger",
   "short_name": "Cron-expressie-uitlegger",
   "description": "Leg cron-expressies uit in gewoon Nederlands: plak een cron-schema met 5 velden en lees wanneer het draait, veld voor veld.",
-  "id": "/loona-dev-tools/nl/cron-expression-explainer/",
+  "id": "/nl/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

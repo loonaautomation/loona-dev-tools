@@ -2,7 +2,7 @@
   "name": "Loona Query String से JSON कन्वर्टर",
   "short_name": "Query String से JSON कन्वर्टर",
   "description": "URL query string को JSON में parse करें: bracket notation nested objects बन जाता है, repeated keys arrays, values typed।",
-  "id": "/loona-dev-tools/hi/query-string-to-json/",
+  "id": "/hi/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

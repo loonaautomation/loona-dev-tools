@@ -2,7 +2,7 @@
   "name": "Loona CSS Küçültücü Çevrimiçi Ücretsiz",
   "short_name": "CSS Küçültücü Çevrimiçi Ücretsiz",
   "description": "CSS değerini çevrimiçi ücretsiz küçültün ve ne kadar küçüldüğünü tam olarak görün veya küçültülmüş CSS değerini okunabilir koda geri güzelleştirin. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/css-minifier/",
+  "id": "/tr/css-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

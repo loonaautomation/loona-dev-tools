@@ -2,7 +2,7 @@
   "name": "Loona 北约音标字母翻译器（文本",
   "short_name": "北约音标字母",
   "description": "用北约语音字母表拼读文本：A = Alfa、B = Bravo……包括数字。用于航空、军事和支持通话。",
-  "id": "/loona-dev-tools/zh/nato-phonetic-alphabet/",
+  "id": "/zh/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

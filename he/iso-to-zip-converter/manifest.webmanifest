@@ -2,7 +2,7 @@
   "name": "ממיר Loona ISO ל-ZIP",
   "short_name": "ממיר ISO ל-ZIP",
   "description": "המירו תמונת דיסק ISO ל-ZIP של הקבצים שלה באופן מקוון: libarchive קורא את תוכן ISO9660/Rock Ridge מקומית.",
-  "id": "/loona-dev-tools/he/iso-to-zip-converter/",
+  "id": "/he/iso-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

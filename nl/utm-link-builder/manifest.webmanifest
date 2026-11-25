@@ -2,7 +2,7 @@
   "name": "Loona UTM-linkbuilder online gratis",
   "short_name": "UTM-linkbuilder online gratis",
   "description": "Bouw UTM-gelabelde campagne-URL's online gratis - source, medium, campaign, term en content toegevoegd met correcte codering, bestaande queryparameters behouden, plus een opgeslagen geschiedenis.",
-  "id": "/loona-dev-tools/nl/utm-link-builder/",
+  "id": "/nl/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

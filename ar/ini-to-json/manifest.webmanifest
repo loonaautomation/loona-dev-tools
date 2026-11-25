@@ -2,7 +2,7 @@
   "name": "Loona محوّل INI إلى JSON",
   "short_name": "محوّل INI إلى JSON",
   "description": "حوّل ملفات تهيئة INI إلى JSON: الأقسام تصبح كائنات، والقيم مكتوبة الأنواع (أرقام، قيم منطقية) حيث لا لبس.",
-  "id": "/loona-dev-tools/ar/ini-to-json/",
+  "id": "/ar/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

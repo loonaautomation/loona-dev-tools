@@ -2,7 +2,7 @@
   "name": "ממיר Loona YAML ל-CSV",
   "short_name": "ממיר YAML ל-CSV",
   "description": "המירו רשימת YAML של אובייקטים לטבלת CSV: איחוד המפתחות כעמודות, ערכים מקוננים מוסדרים כ-JSON בתא שלהם.",
-  "id": "/loona-dev-tools/he/yaml-to-csv/",
+  "id": "/he/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

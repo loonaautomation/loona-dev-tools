@@ -2,7 +2,7 @@
   "name": "Loona Base58-zu-Text-Decoder",
   "short_name": "Base58-zu-Text-Decoder",
   "description": "Decodieren Sie Base58-Zeichenfolgen zurück zu Text (UTF-8). Validiert gegen das Bitcoin-Alphabet und meldet ungültige Zeichen.",
-  "id": "/loona-dev-tools/de/base58-to-text/",
+  "id": "/de/base58-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

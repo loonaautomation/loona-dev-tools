@@ -2,7 +2,7 @@
   "name": "Loona HSL→HEX変換ツール",
   "short_name": "HSL→HEX変換ツール",
   "description": "色をHSLからHEXにオンライン変換。ライブのスウォッチと、他のすべての形式（HEX、RGB、HSL、HSV、CMYK）も表示されます。",
-  "id": "/loona-dev-tools/ja/hsl-to-hex-converter/",
+  "id": "/ja/hsl-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

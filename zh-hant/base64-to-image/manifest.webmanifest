@@ -2,7 +2,7 @@
   "name": "Loona Base64 轉影象轉換器",
   "short_name": "Base64 轉影象轉換器",
   "description": "把 Base64 字串或 data URI 解碼回可檢視、可下載的影象。MIME 型別從位元組中檢測。",
-  "id": "/loona-dev-tools/zh-hant/base64-to-image/",
+  "id": "/zh-hant/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

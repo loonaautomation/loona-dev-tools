@@ -2,7 +2,7 @@
   "name": "Loona 密码强度检查器 在线免费",
   "short_name": "密码强度检查器",
   "description": "免费在线检查密码强度，带透明的熵估计、具体的反馈和破解时间估计。密码从不离开您的浏览器——不发送也不存储任何东西。",
-  "id": "/loona-dev-tools/zh/password-strength-checker/",
+  "id": "/zh/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

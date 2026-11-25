@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Timestamp Unix para Data",
   "short_name": "Carimbo Temporal Unix para Data",
   "description": "Converta um timestamp Unix (segundos ou milissegundos) para uma data legível: UTC, a sua hora local, ISO 8601 e tempo relativo.",
-  "id": "/loona-dev-tools/pt/unix-timestamp-to-date/",
+  "id": "/pt/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Parser Header Cookie",
   "short_name": "Parser Header Cookie",
   "description": "Parse header Cookie menjadi daftar yang mudah dibaca: pasangan nama = nilai, nilai terdekode persen ditampilkan, jumlah cookie.",
-  "id": "/loona-dev-tools/id/cookie-parser/",
+  "id": "/id/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

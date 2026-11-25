@@ -2,7 +2,7 @@
   "name": "Loona INI naar JSON-converter",
   "short_name": "INI naar JSON-converter",
   "description": "Converteer INI-configuratiebestanden naar JSON: secties worden objecten, waarden worden getypt (getallen, booleans) waar ondubbelzinnig.",
-  "id": "/loona-dev-tools/nl/ini-to-json/",
+  "id": "/nl/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

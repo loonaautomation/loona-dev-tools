@@ -2,7 +2,7 @@
   "name": "ממיר Loona CSV ל-SQL מקוון בחינם",
   "short_name": "ממיר CSV ל-SQL מקוון",
   "description": "המירו CSV ל-SQL באופן מקוון בחינם - CREATE TABLE עם סוגי עמודות מוסקים בתוספת INSERT אחד לכל שורה, עבור MySQL, PostgreSQL או SQLite. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/csv-to-sql-converter/",
+  "id": "/he/csv-to-sql-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

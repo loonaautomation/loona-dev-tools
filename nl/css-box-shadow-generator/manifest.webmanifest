@@ -2,7 +2,7 @@
   "name": "Loona CSS box-shadow-generator online gratis",
   "short_name": "CSS box-shadow-generator",
   "description": "Genereer CSS box-shadow online gratis - meerdere schaduwlagen, inset-schaduwen, kleur- en dekkingscontrole, met een live voorbeeld en kant-en-klare CSS. Geen registratie, draait in je browser.",
-  "id": "/loona-dev-tools/nl/css-box-shadow-generator/",
+  "id": "/nl/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

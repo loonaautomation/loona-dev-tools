@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Pixels (px) σε Em",
   "short_name": "Μετατροπέας Pixels (px) σε Em",
   "description": "Μετατρέψτε px σε em με ρυθμιζόμενο βασικό μέγεθος γραμματοσειράς (προεπιλογή 16px) και πίνακα κοινών τιμών.",
-  "id": "/loona-dev-tools/el/px-to-em-converter/",
+  "id": "/el/px-to-em-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

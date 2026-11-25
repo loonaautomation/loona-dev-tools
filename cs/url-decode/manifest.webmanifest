@@ -2,7 +2,7 @@
   "name": "Dekódování Loona URL (Procentní dekódování)",
   "short_name": "Dekódování URL (procentní dekódování)",
   "description": "Dekódujte procentně kódované URL a řetězce dotazů zpět na čitelný text, včetně sekvencí UTF-8 a + jako mezery. Bezplatný online dekodér.",
-  "id": "/loona-dev-tools/cs/url-decode/",
+  "id": "/cs/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

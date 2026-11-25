@@ -2,7 +2,7 @@
   "name": "Loona JSON-YAML-muunnin",
   "short_name": "JSON-YAML-muunnin",
   "description": "Muunna JSON YAML:iksi verkossa: siisti sisennys, taulukot ja sisäkkäiset objektit, merkkijonot lainattuina vain, kun YAML sitä tarvitsee.",
-  "id": "/loona-dev-tools/fi/json-to-yaml/",
+  "id": "/fi/json-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

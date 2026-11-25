@@ -2,7 +2,7 @@
   "name": "Loona generator meta oznaka na mreži besplatno",
   "short_name": "Generator meta oznaka na mreži besplatno",
   "description": "Generirajte HTML meta oznake na mreži besplatno - naslov, opis, ključne riječi, autor, roboti i kanonski URL - uz pregled SERP-a u Googleovu stilu uživo i brojače znakova. Bez registracije.",
-  "id": "/loona-dev-tools/hr/meta-tag-generator/",
+  "id": "/hr/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

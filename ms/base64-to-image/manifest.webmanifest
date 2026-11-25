@@ -2,7 +2,7 @@
   "name": "Loona Penukar Base64 ke Imej",
   "short_name": "Penukar Base64 ke Imej",
   "description": "Nyahkod string Base64 atau data URI kembali menjadi imej yang dapat dilihat dan dimuat turun. Tipe MIME terdeteksi dari byte.",
-  "id": "/loona-dev-tools/ms/base64-to-image/",
+  "id": "/ms/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

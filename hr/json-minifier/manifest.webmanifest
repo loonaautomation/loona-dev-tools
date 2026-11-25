@@ -2,7 +2,7 @@
   "name": "Loona sažimanje JSON-a",
   "short_name": "Sažimanje JSON-a",
   "description": "Sažmite JSON na mreži: uklonite sve beznačajne razmake u jednu kompaktnu crtu, uz točno prijavljene pogreške provjere.",
-  "id": "/loona-dev-tools/hr/json-minifier/",
+  "id": "/hr/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

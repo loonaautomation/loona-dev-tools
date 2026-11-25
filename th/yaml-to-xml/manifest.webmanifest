@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง YAML เป็น XML",
   "short_name": "ตัวแปลง YAML เป็น XML",
   "description": "แปลง YAML เป็น XML ออนไลน์: คีย์ระดับบนสุดเดียวกลายเป็นองค์ประกอบรูต @keys กลายเป็นแอตทริบิวต์",
-  "id": "/loona-dev-tools/th/yaml-to-xml/",
+  "id": "/th/yaml-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

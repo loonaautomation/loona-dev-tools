@@ -2,7 +2,7 @@
   "name": "Loona JSON-merkkijonon pakotusten purku",
   "short_name": "JSON-merkkijonon pakotusten purku",
   "description": "Pura JSON-merkkijonoarvo takaisin pelkäksi tekstiksi: \\n, \\t, \\&quot;, \\\\ ja \\uXXXX-sarjat muuttuvat aidoiksi merkeiksi.",
-  "id": "/loona-dev-tools/fi/json-unescape/",
+  "id": "/fi/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

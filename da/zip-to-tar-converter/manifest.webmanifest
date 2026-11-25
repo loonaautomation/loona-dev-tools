@@ -2,7 +2,7 @@
   "name": "Loona ZIP til TAR-konverter",
   "short_name": "ZIP til TAR-konverter",
   "description": "Konvertér ZIP-arkiver til ukomprimeret TAR online: samme filer og mapper, ompakket med en standardoverholdende TAR-skriver. Helt lokalt.",
-  "id": "/loona-dev-tools/da/zip-to-tar-converter/",
+  "id": "/da/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

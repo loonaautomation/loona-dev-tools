@@ -2,7 +2,7 @@
   "name": "Loona CSV-Profiler online kostenlos",
   "short_name": "CSV-Profiler online kostenlos",
   "description": "Profilieren Sie eine CSV-Datei kostenlos online – Typ-Vermutungen pro Spalte, Anzahlen leerer Zellen, Anzahlen eindeutiger Werte, numerisches Min/Max und Top-Werte, damit Sie eine Datei verstehen, bevor Sie sie verwenden. Keine Registrierung.",
-  "id": "/loona-dev-tools/de/csv-profiler/",
+  "id": "/de/csv-profiler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

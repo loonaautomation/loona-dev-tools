@@ -2,7 +2,7 @@
   "name": "Generator de hash MD5 Loona",
   "short_name": "Generator de hash MD5",
   "description": "Calculează hash-uri MD5 ale textului sau fișierelor online: 128 de biți, 32 de caractere hex. Rulează local în browserul tău cu WebCrypto/JS pur — fișierele nu sunt încărcate niciodată.",
-  "id": "/loona-dev-tools/ro/md5-hash-generator/",
+  "id": "/ro/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

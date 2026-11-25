@@ -2,7 +2,7 @@
   "name": "Loona HTML 压缩工具",
   "short_name": "HTML 压缩工具",
   "description": "在线压缩 HTML：移除注释并折叠空白，同时保护 pre、textarea、script 和 style 的内容。",
-  "id": "/loona-dev-tools/zh/html-minifier/",
+  "id": "/zh/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi CSV sang TSV của Loona",
   "short_name": "Công cụ chuyển đổi CSV sang TSV",
   "description": "Chuyển đổi CSV sang TSV (các giá trị phân tách bằng tab): phân tích trường được trích dẫn đầy đủ, các tab làm dấu phân tách. Công cụ chuyển đổi trực tuyến miễn phí.",
-  "id": "/loona-dev-tools/vi/csv-to-tsv/",
+  "id": "/vi/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

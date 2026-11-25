@@ -2,7 +2,7 @@
   "name": "Loona منشئ خريطة موقع XML عبر الإنترنت مجاناً",
   "short_name": "منشئ خريطة موقع XML عبر الإنترنت",
   "description": "أنشئ خريطة موقع XML صالحة عبر الإنترنت مجاناً من قائمة روابط، مع lastmod وchangefreq وأولوية افتراضية، وتهريب صحيح للروابط وXML. دون تسجيل، يعمل في متصفحك.",
-  "id": "/loona-dev-tools/ar/xml-sitemap-generator/",
+  "id": "/ar/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

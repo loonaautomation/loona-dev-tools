@@ -2,7 +2,7 @@
   "name": "Loona Office-dokumentmetadata-viewer online",
   "short_name": "Office-dokumentmetadata",
   "description": "Se Office-dokumentmetadata online gratis - titel, forfatter, firma, oprettelses- og ændringsdatoer, applikation og version for .docx-, .xlsx- og .pptx-filer. Kun visning, intet uploades.",
-  "id": "/loona-dev-tools/da/office-metadata-viewer/",
+  "id": "/da/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

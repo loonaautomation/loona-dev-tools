@@ -2,7 +2,7 @@
   "name": "מפענח Loona Punycode ‏(xn-- ל-דומיין Unicode)",
   "short_name": "מפענח Punycode ‏(xn-- ל-",
   "description": "פענחו דומייני punycode מסוג xn-- בחזרה לצורת ה-Unicode שלהם — בדקו מה דומיין בינלאומי באמת אומר.",
-  "id": "/loona-dev-tools/he/punycode-decode/",
+  "id": "/he/punycode-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

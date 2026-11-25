@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha JSON kwenda INI",
   "short_name": "Kibadilishaji cha JSON kwenda INI",
   "description": "Badilisha vitu vya JSON kuwa muundo wa INI: scalar za kiwango cha juu kwanza, vitu vilivyoingiliana kama [sehemu]. Kibadilishaji cha bure mtandaoni.",
-  "id": "/loona-dev-tools/sw/json-to-ini/",
+  "id": "/sw/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

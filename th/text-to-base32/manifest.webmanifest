@@ -2,7 +2,7 @@
   "name": "Loona ตัวเข้ารหัสข้อความเป็น Base32",
   "short_name": "ตัวเข้ารหัสข้อความเป็น Base32",
   "description": "เข้ารหัสข้อความเป็น Base32 (RFC 4648) ออนไลน์ — การเข้ารหัสแบบไม่คำนึงถึงตัวพิมพ์ที่ใช้ในความลับ TOTP และตัวระบุที่ปลอดภัยสำหรับ DNS",
-  "id": "/loona-dev-tools/th/text-to-base32/",
+  "id": "/th/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

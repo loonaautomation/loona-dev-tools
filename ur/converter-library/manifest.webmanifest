@@ -2,7 +2,7 @@
   "name": "Loona کنورٹر اور جنریٹر لائبریری",
   "short_name": "کنورٹر اور جنریٹر لائبریری",
   "description": "تمام Loona Developer Tools کنورٹرز اور جنریٹرز کا انڈیکس: انکوڈنگز، ڈیٹا فارمیٹس، ہیشز، رنگ، آرکائیوز، کوڈ جنریٹرز اور حوالہ جات۔",
-  "id": "/loona-dev-tools/ur/converter-library/",
+  "id": "/ur/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

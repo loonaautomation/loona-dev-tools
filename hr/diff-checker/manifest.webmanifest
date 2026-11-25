@@ -2,7 +2,7 @@
   "name": "Loona provjera razlika na mreži besplatno",
   "short_name": "Provjera razlika na mreži besplatno",
   "description": "Usporedite dva teksta na mreži besplatno usporedbom redak po redak: dodani retci zeleno, uklonjeni retci crveno, plus sažetak promjena. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/diff-checker/",
+  "id": "/hr/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

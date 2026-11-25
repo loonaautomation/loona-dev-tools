@@ -2,7 +2,7 @@
   "name": "Loona JWT Kod Çözücü Çevrimiçi Ücretsiz",
   "short_name": "JWT Kod Çözücü Çevrimiçi Ücretsiz",
   "description": "Bir JSON Web Token değerini çevrimiçi ücretsiz çözün - başlığı ve yükü güzel JSON olarak okuyun ve sona ermeyi düz sözcüklerle görün. İmza doğrulanmaz. Tarayıcınızda.",
-  "id": "/loona-dev-tools/tr/jwt-decoder/",
+  "id": "/tr/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

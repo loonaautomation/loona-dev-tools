@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona YAML vers JSON en ligne gratuit",
   "short_name": "Convertisseur YAML vers JSON en ligne",
   "description": "Convertissez le YAML en JSON et le JSON en YAML en ligne et gratuitement. Prend en charge le sous-ensemble quotidien : cartes imbriquées, listes et scalaires, avec les limites énoncées honnêtement. Sans inscription, fonctionne à 100 % dans votre navigateur.",
-  "id": "/loona-dev-tools/fr/yaml-json-converter/",
+  "id": "/fr/yaml-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

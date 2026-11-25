@@ -2,7 +2,7 @@
   "name": "Loona Archiv-Datei-Extraktor online kostenlos",
   "short_name": "Archiv-Datei-Extraktor online",
   "description": "Ein universeller Archiv-Öffner: Ziehen Sie eine beliebige ZIP-, RAR-, 7Z-, TAR-, TAR.GZ-, TAR.BZ2-, TAR.XZ- oder ISO-Datei hierher und extrahieren Sie ihren Inhalt direkt in Ihrem Browser. Das Format wird automatisch erkannt; nichts wird hochgeladen.",
-  "id": "/loona-dev-tools/de/archive-file-extractor/",
+  "id": "/de/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

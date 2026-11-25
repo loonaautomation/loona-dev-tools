@@ -2,7 +2,7 @@
   "name": "Generátor náhodných hesiel Loona",
   "short_name": "Generátor náhodných hesiel",
   "description": "Generujte silné náhodné heslá vo svojom prehliadači pomocou API WebCrypto: nastaviteľná dĺžka a sady znakov, zobrazená entropia.",
-  "id": "/loona-dev-tools/sk/random-password-generator/",
+  "id": "/sk/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

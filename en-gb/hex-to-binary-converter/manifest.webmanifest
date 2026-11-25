@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/hex-to-binary-converter/",
+  "id": "/en-gb/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

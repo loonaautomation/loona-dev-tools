@@ -2,7 +2,7 @@
   "name": "Loona تصویر سے Base64 کنورٹر",
   "short_name": "تصویر سے Base64 کنورٹر",
   "description": "ایک تصویر (PNG, JPG, GIF, WebP, SVG) کو Base64 data URI میں آن لائن بدلیں — فائل مقامی طور پر پڑھی گئی، ابعاد اور سائز اعداد کے ساتھ۔",
-  "id": "/loona-dev-tools/ur/image-to-base64/",
+  "id": "/ur/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

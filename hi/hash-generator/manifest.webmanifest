@@ -2,7 +2,7 @@
   "name": "Loona Hash जनरेटर ऑनलाइन मुफ़्त",
   "short_name": "Hash जनरेटर ऑनलाइन मुफ़्त",
   "description": "किसी भी text के SHA-1, SHA-256, SHA-384 और SHA-512 hashes ऑनलाइन मुफ़्त generate करें, आपके ब्राउज़र में locally computed। कोई साइन-अप नहीं, कुछ अपलोड नहीं हुआ।",
-  "id": "/loona-dev-tools/hi/hash-generator/",
+  "id": "/hi/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

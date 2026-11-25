@@ -2,7 +2,7 @@
   "name": "Loona Анализатор строки user-agent",
   "short_name": "Парсер строк User Agent",
   "description": "Разбор строки User-Agent браузера на браузер, движок, ОС и тип устройства с помощью прозрачного парсера на основе правил.",
-  "id": "/loona-dev-tools/ru/user-agent-parser/",
+  "id": "/ru/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

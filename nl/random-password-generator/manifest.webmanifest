@@ -2,7 +2,7 @@
   "name": "Loona willekeurig-wachtwoordgenerator",
   "short_name": "Willekeurig-wachtwoordgenerator",
   "description": "Genereer sterke willekeurige wachtwoorden in je browser met de WebCrypto API: lengte en tekensets instelbaar, entropie getoond.",
-  "id": "/loona-dev-tools/nl/random-password-generator/",
+  "id": "/nl/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

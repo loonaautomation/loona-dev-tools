@@ -2,7 +2,7 @@
   "name": "Prevodník Loona binárnych na osmičkové",
   "short_name": "Prevodník binárnej na osmičkovú sústavu",
   "description": "Preveďte binárne čísla na osmičkové online — ľubovoľná presnosť (BigInt), záporné čísla podporované.",
-  "id": "/loona-dev-tools/sk/binary-to-octal-converter/",
+  "id": "/sk/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

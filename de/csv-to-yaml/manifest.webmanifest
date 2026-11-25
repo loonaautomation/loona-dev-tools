@@ -2,7 +2,7 @@
   "name": "Loona CSV-zu-YAML-Konverter",
   "short_name": "CSV-zu-YAML-Konverter",
   "description": "Konvertieren Sie CSV-Tabellen zu YAML: Die Kopfzeile wird zu Schlüsseln, jede Zeile ein Element in einer YAML-Liste, Zahlen typisiert.",
-  "id": "/loona-dev-tools/de/csv-to-yaml/",
+  "id": "/de/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

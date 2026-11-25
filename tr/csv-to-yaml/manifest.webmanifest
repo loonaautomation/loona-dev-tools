@@ -2,7 +2,7 @@
   "name": "Loona CSV - YAML Dönüştürücü",
   "short_name": "CSV - YAML Dönüştürücü",
   "description": "CSV tablolarını YAML biçimine dönüştürün: başlık satırı anahtarlar olur, her satır bir YAML listesinde bir öğe, sayılar tipli.",
-  "id": "/loona-dev-tools/tr/csv-to-yaml/",
+  "id": "/tr/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

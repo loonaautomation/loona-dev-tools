@@ -2,7 +2,7 @@
   "name": "Loona Tabel Referensi Entitas HTML",
   "short_name": "Tabel Referensi Entitas HTML",
   "description": "Tabel entitas HTML esensial: entitas bernama, karakter, kode desimal, dan catatan penggunaan untuk entitas yang benar-benar digunakan developer.",
-  "id": "/loona-dev-tools/id/html-entities-reference/",
+  "id": "/id/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

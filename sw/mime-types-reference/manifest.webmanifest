@@ -2,7 +2,7 @@
   "name": "Loona Marejeo ya Aina za MIME (Aina za Maudhui kwa",
   "short_name": "Marejeo ya Aina za MIME (Maudhui",
   "description": "Aina za kawaida za MIME kwa kiendelezi cha faili: hati, picha, sauti, video, hifadhi, fonti na miundo ya wavuti na thamani zake za Content-Type.",
-  "id": "/loona-dev-tools/sw/mime-types-reference/",
+  "id": "/sw/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona TAR→ZIP変換ツール 無料オンライン",
   "short_name": "TAR→ZIP変換ツール オンライン",
   "description": "TARアーカイブ（.tar）を、ブラウザの中でそのままZIPファイルに変換します。TARファイルはLinuxやUnixシステムから来ます。変換されたZIPは、Windows、macOS、スマートフォンでネイティブに開きます。何もアップロードされません。",
-  "id": "/loona-dev-tools/ja/tar-to-zip-converter/",
+  "id": "/ja/tar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

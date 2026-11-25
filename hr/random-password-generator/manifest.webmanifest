@@ -2,7 +2,7 @@
   "name": "Loona generator nasumičnih lozinki",
   "short_name": "Generator nasumičnih lozinki",
   "description": "Generirajte jake nasumične lozinke u svom pregledniku WebCrypto API-jem: duljina i skupovi znakova podesivi, entropija prikazana.",
-  "id": "/loona-dev-tools/hr/random-password-generator/",
+  "id": "/hr/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

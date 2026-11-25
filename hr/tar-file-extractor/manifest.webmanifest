@@ -2,7 +2,7 @@
   "name": "Loona izdvajanje TAR datoteka na mreži besplatno",
   "short_name": "Izdvajanje TAR datoteka na mreži besplatno",
   "description": "Otvorite TAR arhive izravno u pregledniku - obični .tar kao i .tar.bz2 i .tar.xz - pogledajte svaku datoteku unutra i preuzmite pojedinačne datoteke ili sve kao ZIP. Ništa se ne prenosi.",
-  "id": "/loona-dev-tools/hr/tar-file-extractor/",
+  "id": "/hr/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

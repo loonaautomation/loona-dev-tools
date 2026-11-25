@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงยกเลิก Escape ของ Unicode (ถอดรหัส \\uXXXX)",
   "short_name": "ตัวแปลงการยกเลิก Escape ของ Unicode",
   "description": "ถอดรหัสลำดับ escape ของ Unicode (\\uXXXX, \\u{...}, \\xXX) กลับเป็นตัวอักษรจริง บวก escape \\n \\t และ \\\\",
-  "id": "/loona-dev-tools/th/unicode-unescape/",
+  "id": "/th/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

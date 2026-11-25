@@ -2,7 +2,7 @@
   "name": "מחולל Loona Robots.txt מקוון בחינם",
   "short_name": "מחולל Robots.txt מקוון",
   "description": "צרו robots.txt תקף באופן מקוון בחינם - הגדרות קבועות, כללי allow ו-disallow לפי סוכן, שורת מפת אתר ובדיקות שפיות תחביר מובנות. בלי הרשמה, פועל בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/robots-txt-generator/",
+  "id": "/he/robots-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

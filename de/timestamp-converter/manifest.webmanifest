@@ -2,7 +2,7 @@
   "name": "Loona Unix-Zeitstempel-Konverter online kostenlos",
   "short_name": "Unix-Zeitstempel-Konverter",
   "description": "Konvertieren Sie Unix-Zeitstempel (Sekunden oder Millisekunden) zu für Menschen lesbaren Daten in UTC und Ihrer lokalen Zeit, und Daten zurück zu Zeitstempeln. Aktuelle Uhrzeit live. Kostenlos.",
-  "id": "/loona-dev-tools/de/timestamp-converter/",
+  "id": "/de/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Konwerter ciągu zapytania na JSON",
   "short_name": "Konwerter ciągu zapytania na JSON",
   "description": "Analizuj ciąg zapytania URL na JSON: notacja nawiasowa staje się obiektami zagnieżdżonymi, powtarzane klucze stają się tablicami, wartości typowane.",
-  "id": "/loona-dev-tools/pl/query-string-to-json/",
+  "id": "/pl/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

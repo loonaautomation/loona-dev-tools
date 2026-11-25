@@ -2,7 +2,7 @@
   "name": "Loona HSV-RGB-muunnin",
   "short_name": "HSV-RGB-muunnin",
   "description": "Muunna värejä HSV:stä RGB:hen verkossa, elävällä värimallilla ja kaikilla muilla muodoilla (HEX, RGB, HSL, HSV, CMYK) myös näytettynä.",
-  "id": "/loona-dev-tools/fi/hsv-to-rgb-converter/",
+  "id": "/fi/hsv-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

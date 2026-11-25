@@ -2,7 +2,7 @@
   "name": "Loona Kifinyaji cha JSON",
   "short_name": "Kifinyaji cha JSON",
   "description": "Finya JSON mtandaoni: ondoa nafasi nyeupe zote zisizo na maana kuwa mstari mmoja uliobanwa, kwa hitilafu za uthibitishaji zinazoripotiwa kwa usahihi.",
-  "id": "/loona-dev-tools/sw/json-minifier/",
+  "id": "/sw/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

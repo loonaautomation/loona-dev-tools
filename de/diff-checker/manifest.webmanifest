@@ -2,7 +2,7 @@
   "name": "Loona Diff-Prüfer online kostenlos",
   "short_name": "Diff-Prüfer online kostenlos",
   "description": "Vergleichen Sie zwei Texte kostenlos online mit einem Diff Zeile für Zeile: hinzugefügte Zeilen in Grün, entfernte Zeilen in Rot, plus eine Änderungszusammenfassung. Keine Registrierung, läuft zu 100 % in Ihrem Browser.",
-  "id": "/loona-dev-tools/de/diff-checker/",
+  "id": "/de/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

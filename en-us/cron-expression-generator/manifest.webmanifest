@@ -2,7 +2,7 @@
   "name": "Loona Cron Expression Generator - Build It, or Have It Explained",
   "short_name": "Cron Expression Generator - Build It, or Have It Explained",
   "description": "Build cron expressions from dropdowns and explain any 5-field cron expression in plain English, online for free. No sign-up, runs 100% in your browser.",
-  "id": "/loona-dev-tools/en-us/cron-expression-generator/",
+  "id": "/en-us/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

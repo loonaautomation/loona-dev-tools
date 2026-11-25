@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Hash SHA-256",
   "short_name": "Gerador de Hash SHA-256",
   "description": "Calcule hashes SHA-256 de texto ou ficheiros online: 256-bit, 64 caracteres hexadecimais. Funciona localmente no seu navegador com WebCrypto/JS puro — os ficheiros nunca são carregados.",
-  "id": "/loona-dev-tools/pt/sha256-hash-generator/",
+  "id": "/pt/sha256-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

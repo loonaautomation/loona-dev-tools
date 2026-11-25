@@ -2,7 +2,7 @@
   "name": "Loona Generatore di hash online gratuito",
   "short_name": "Generatore di hash online gratuito",
   "description": "Genera hash SHA-1, SHA-256, SHA-384 e SHA-512 di qualsiasi testo online gratuitamente, calcolati localmente nel tuo browser. Nessuna registrazione, nulla caricato.",
-  "id": "/loona-dev-tools/it/hash-generator/",
+  "id": "/it/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

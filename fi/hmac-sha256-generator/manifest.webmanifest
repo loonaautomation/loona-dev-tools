@@ -2,7 +2,7 @@
   "name": "Loona HMAC-SHA256-generaattori",
   "short_name": "HMAC-SHA256-generaattori",
   "description": "Luo HMAC-SHA256-allekirjoituksia verkossa: syötä avain ja viesti, saat heksa-MACin. WebCrypto, täysin paikallinen.",
-  "id": "/loona-dev-tools/fi/hmac-sha256-generator/",
+  "id": "/fi/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

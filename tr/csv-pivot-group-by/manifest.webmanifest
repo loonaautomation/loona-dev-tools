@@ -2,7 +2,7 @@
   "name": "Loona CSV Pivot ve Gruplandırma Çevrimiçi Ücretsiz",
   "short_name": "CSV Pivot ve Gruplandırma Çevrimiçi",
   "description": "CSV verisini çevrimiçi ücretsiz pivotlaştırın - satırları herhangi bir sütuna göre gruplandırın ve bir değer sütununun toplamını, sayısını, ortalamasını, minimumunu veya maksimumunu hesaplayın. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/csv-pivot-group-by/",
+  "id": "/tr/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

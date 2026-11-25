@@ -2,7 +2,7 @@
   "name": "Loona Kiundaji cha Faili cha TAR Bure Mtandaoni",
   "short_name": "Kiundaji cha Faili cha TAR Bure Mtandaoni",
   "description": "Unda hifadhi ya TAR (.tar) kutoka faili nyingi moja kwa moja kwenye kivinjari chako - mwandishi wa ustar sahihi kwa vipimo, chaguo la folda, mihuri halisi ya muda. Hakuna kinachopakiwa; tarball hujengwa kwenye kifaa chako na hufunguka kwa zana yoyote ya tar.",
-  "id": "/loona-dev-tools/sw/tar-file-creator/",
+  "id": "/sw/tar-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

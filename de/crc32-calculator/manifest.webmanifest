@@ -2,7 +2,7 @@
   "name": "Loona CRC32-Prüfsummen-Rechner",
   "short_name": "CRC32-Prüfsummen-Rechner",
   "description": "Berechnen Sie CRC32-Hashes von Text oder Dateien online: 32-Bit, 8 Hex-Zeichen. Läuft lokal in Ihrem Browser mit WebCrypto/reinem JS — Dateien werden niemals hochgeladen.",
-  "id": "/loona-dev-tools/de/crc32-calculator/",
+  "id": "/de/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

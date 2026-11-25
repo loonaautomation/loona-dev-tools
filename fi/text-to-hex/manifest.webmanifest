@@ -2,7 +2,7 @@
   "name": "Loona Teksti-heksamuunnin",
   "short_name": "Teksti-heksamuunnin",
   "description": "Muunna tekstiä heksadesimaaliksi (UTF-8-tavut) verkossa, tavujen välillä välilyönneillä tai ilman. Ilmainen kehittäjämuunnin.",
-  "id": "/loona-dev-tools/fi/text-to-hex/",
+  "id": "/fi/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

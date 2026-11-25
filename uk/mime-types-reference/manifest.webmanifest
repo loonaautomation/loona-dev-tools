@@ -2,7 +2,7 @@
   "name": "Довідник типів Loona MIME (типи вмісту за",
   "short_name": "Довідник типів MIME (Content",
   "description": "Поширені типи MIME за розширенням файлу: документи, зображення, аудіо, відео, архіви, шрифти й вебформати з їхніми значеннями Content-Type.",
-  "id": "/loona-dev-tools/uk/mime-types-reference/",
+  "id": "/uk/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

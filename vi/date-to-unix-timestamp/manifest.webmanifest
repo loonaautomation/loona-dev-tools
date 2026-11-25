@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi ngày sang Unix Timestamp của Loona",
   "short_name": "Ngày sang timestamp Unix",
   "description": "Chuyển đổi một ngày và giờ thành Unix timestamp của nó theo giây và mili giây, theo UTC hoặc múi giờ địa phương của bạn.",
-  "id": "/loona-dev-tools/vi/date-to-unix-timestamp/",
+  "id": "/vi/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

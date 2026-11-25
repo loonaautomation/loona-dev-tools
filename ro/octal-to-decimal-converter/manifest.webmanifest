@@ -2,7 +2,7 @@
   "name": "Convertizor octal în zecimal Loona",
   "short_name": "Convertizor octal în zecimal",
   "description": "Convertește numere octale în zecimal online — precizie arbitrară (BigInt), numere negative acceptate.",
-  "id": "/loona-dev-tools/ro/octal-to-decimal-converter/",
+  "id": "/ro/octal-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

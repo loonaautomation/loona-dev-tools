@@ -2,7 +2,7 @@
   "name": "Loona CSV-SQL-muunnin verkossa ilmaiseksi",
   "short_name": "CSV-SQL-muunnin verkossa",
   "description": "Muunna CSV SQL:ksi verkossa ilmaiseksi — CREATE TABLE päätellyillä saraketyypeillä sekä yksi INSERT riviä kohden, MySQL:lle, PostgreSQL:lle tai SQLite:lle. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/csv-to-sql-converter/",
+  "id": "/fi/csv-to-sql-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

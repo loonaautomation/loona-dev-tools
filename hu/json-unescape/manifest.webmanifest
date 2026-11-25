@@ -2,7 +2,7 @@
   "name": "Loona JSON karakterlánc escape-feloldás",
   "short_name": "JSON karakterlánc visszafejtés",
   "description": "Egy JSON karakterlánc érték visszaalakítása egyszerű szöveggé: a \\n, \\t, \\&quot;, \\\\ és \\uXXXX sorozatok valódi karakterekké válnak.",
-  "id": "/loona-dev-tools/hu/json-unescape/",
+  "id": "/hu/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

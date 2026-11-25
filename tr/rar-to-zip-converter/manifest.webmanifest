@@ -2,7 +2,7 @@
   "name": "Loona RAR - ZIP Dönüştürücü Çevrimiçi Ücretsiz",
   "short_name": "RAR - ZIP Dönüştürücü Çevrimiçi",
   "description": "Bir RAR arşivini (.rar) doğrudan tarayıcınızda standart bir ZIP dosyasına dönüştürün. Klasör yapısı korunur, hiçbir şey yüklenmez ve ZIP her yerde açılır - Windows, macOS, Android ve iPhone hepsi ZIP değerini yerel olarak açar.",
-  "id": "/loona-dev-tools/tr/rar-to-zip-converter/",
+  "id": "/tr/rar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

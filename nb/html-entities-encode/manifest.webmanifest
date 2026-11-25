@@ -2,7 +2,7 @@
   "name": "Loona HTML-entitetskoder",
   "short_name": "HTML-entitetskoder",
   "description": "Kod spesialtegn som HTML-entiteter: navngitte (&copy;), desimale eller heks numeriske referanser. Escaper markup, anførselstegn og ikke-ASCII-tekst.",
-  "id": "/loona-dev-tools/nb/html-entities-encode/",
+  "id": "/nb/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

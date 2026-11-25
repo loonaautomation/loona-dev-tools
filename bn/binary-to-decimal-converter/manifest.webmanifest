@@ -2,7 +2,7 @@
   "name": "Loona বাইনারি থেকে দশমিক কনভার্টার",
   "short_name": "বাইনারি থেকে দশমিক কনভার্টার",
   "description": "অনলাইনে বাইনারি সংখ্যা দশমিকে রূপান্তর করুন — নির্বিচারে নির্ভুলতা (BigInt), ঋণাত্মক সংখ্যা সমর্থিত।",
-  "id": "/loona-dev-tools/bn/binary-to-decimal-converter/",
+  "id": "/bn/binary-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

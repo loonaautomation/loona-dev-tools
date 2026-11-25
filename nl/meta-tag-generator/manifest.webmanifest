@@ -2,7 +2,7 @@
   "name": "Loona metatag-generator online gratis",
   "short_name": "Metatag-generator online gratis",
   "description": "Genereer HTML-metatags online gratis - titel, beschrijving, trefwoorden, auteur, robots en canonical - met een live SERP-voorbeeld in Google-stijl en tekentellingen. Geen registratie.",
-  "id": "/loona-dev-tools/nl/meta-tag-generator/",
+  "id": "/nl/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

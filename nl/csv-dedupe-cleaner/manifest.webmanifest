@@ -2,7 +2,7 @@
   "name": "Loona CSV ontdubbelen & opschonen online gratis",
   "short_name": "CSV ontdubbelen & opschonen online",
   "description": "Verwijder dubbele rijen uit CSV online gratis - op hele rij of op sleutelkolommen - plus trim witruimte, verwijder lege rijen en normaliseer regeleinden, met aantallen voor/na. Geen registratie.",
-  "id": "/loona-dev-tools/nl/csv-dedupe-cleaner/",
+  "id": "/nl/csv-dedupe-cleaner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

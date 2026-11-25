@@ -2,7 +2,7 @@
   "name": "Loona CSS clip-path generátor online ingyen",
   "short_name": "CSS Clip-Path generátor",
   "description": "Generáljon CSS clip-path-ot online ingyen - sokszög előbeállítások, mint a csillag, hatszög és nyíl, állítható pontokkal, plusz kör, ellipszis és inset alakzatok, élő előnézettel. Regisztráció nélkül.",
-  "id": "/loona-dev-tools/hu/css-clip-path-generator/",
+  "id": "/hu/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

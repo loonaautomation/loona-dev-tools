@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona octal vers décimal",
   "short_name": "Convertisseur octal vers décimal",
   "description": "Convertissez les nombres octaux en décimal en ligne — précision arbitraire (BigInt), nombres négatifs pris en charge.",
-  "id": "/loona-dev-tools/fr/octal-to-decimal-converter/",
+  "id": "/fr/octal-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

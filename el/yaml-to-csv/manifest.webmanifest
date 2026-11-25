@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας YAML σε CSV",
   "short_name": "Μετατροπέας YAML σε CSV",
   "description": "Μετατρέψτε μια λίστα αντικειμένων YAML σε πίνακα CSV: ένωση κλειδιών ως στήλες, ένθετες τιμές σειριοποιημένες ως JSON στο κελί τους.",
-  "id": "/loona-dev-tools/el/yaml-to-csv/",
+  "id": "/el/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

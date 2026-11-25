@@ -2,7 +2,7 @@
   "name": "Loona CSV डुप्लिकेट हटाएँ और साफ़ करें ऑनलाइन मुफ़्त",
   "short_name": "CSV डुप्लिकेट हटाएँ और साफ़ करें ऑनलाइन",
   "description": "CSV से duplicate rows ऑनलाइन मुफ़्त हटाएँ — पूरी row से या key columns से — साथ में whitespace trim करें, empty rows हटाएँ और line endings normalise करें, before/after counts के साथ। कोई साइन-अप नहीं।",
-  "id": "/loona-dev-tools/hi/csv-dedupe-cleaner/",
+  "id": "/hi/csv-dedupe-cleaner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

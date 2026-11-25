@@ -2,7 +2,7 @@
   "name": "Loona Dzielenie i łączenie CSV online za darmo",
   "short_name": "Dzielenie i łączenie CSV online za darmo",
   "description": "Podziel CSV na części według liczby wierszy lub połącz kilka plików CSV w jeden, online za darmo - nagłówki obsługiwane poprawnie, właściwe parsowanie CSV. Bez rejestracji, działa w 100% w przeglądarce.",
-  "id": "/loona-dev-tools/pl/csv-split-merge/",
+  "id": "/pl/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

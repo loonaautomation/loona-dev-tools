@@ -2,7 +2,7 @@
   "name": "Loona URL Parser & Builder - See Every Part, Edit the Query",
   "short_name": "URL Parser & Builder - See Every Part, Edit the Query",
   "description": "Parse any URL online for free into protocol, host, port, path, query parameters and hash - edit the parameters and rebuild the URL. No sign-up, runs 100% in your browser.",
-  "id": "/loona-dev-tools/en-us/url-parser/",
+  "id": "/en-us/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

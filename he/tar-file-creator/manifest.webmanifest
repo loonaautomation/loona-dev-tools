@@ -2,7 +2,7 @@
   "name": "יוצר קבצי Loona TAR מקוון בחינם",
   "short_name": "יוצר קבצי TAR מקוון בחינם",
   "description": "צרו ארכיון TAR ‏(.tar) מקבצים מרובים ממש בדפדפן שלכם - כותב ustar תקין לפי מפרט, אפשרות תיקייה, חותמות זמן אמיתיות. שום דבר לא מועלה; ה-tarball נבנה על המכשיר שלכם ונפתח עם כל כלי tar.",
-  "id": "/loona-dev-tools/he/tar-file-creator/",
+  "id": "/he/tar-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

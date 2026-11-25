@@ -2,7 +2,7 @@
   "name": "Loona Chiffres romains vers nombres",
   "short_name": "Chiffres romains vers nombres",
   "description": "Convertissez les chiffres romains en nombres (1–3999), avec une validation stricte de la notation soustractive (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/fr/roman-numerals-converter/",
+  "id": "/fr/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

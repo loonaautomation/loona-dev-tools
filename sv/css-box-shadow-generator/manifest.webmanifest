@@ -2,7 +2,7 @@
   "name": "Loona CSS Box Shadow-generator online gratis",
   "short_name": "CSS Box Shadow-generator",
   "description": "Generera CSS box-shadow online gratis - flera skugglager, inset-skuggor, färg- och opacitetskontroll, med en liveförhandsgranskning och färdig CSS. Ingen registrering, körs i din webbläsare.",
-  "id": "/loona-dev-tools/sv/css-box-shadow-generator/",
+  "id": "/sv/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

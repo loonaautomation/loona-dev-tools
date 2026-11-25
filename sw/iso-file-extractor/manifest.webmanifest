@@ -2,7 +2,7 @@
   "name": "Loona Kitoaji cha Faili cha ISO Bure Mtandaoni",
   "short_name": "Kitoaji cha Faili cha ISO Bure Mtandaoni",
   "description": "Fungua picha za diski za ISO moja kwa moja kwenye kivinjari chako - vinjari mfumo wa faili uliohifadhiwa kwenye diski pepe na upakue faili moja moja au kila kitu kama ZIP. Hakuna kinachopakiwa.",
-  "id": "/loona-dev-tools/sw/iso-file-extractor/",
+  "id": "/sw/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

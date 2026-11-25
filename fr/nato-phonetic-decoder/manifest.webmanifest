@@ -2,7 +2,7 @@
   "name": "Décodeur de l’alphabet phonétique OTAN Loona",
   "short_name": "Décodeur de l’alphabet phonétique OTAN",
   "description": "Décodez les mots phonétiques OTAN (Alfa, Bravo, Charlie...) en lettres et chiffres simples.",
-  "id": "/loona-dev-tools/fr/nato-phonetic-decoder/",
+  "id": "/fr/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

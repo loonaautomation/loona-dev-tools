@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da JSON a dataclass Python",
   "short_name": "Da JSON a dataclass Python",
   "description": "Converti JSON in dataclass Python con suggerimenti di tipo: gli oggetti annidati diventano dataclass annidate, tipi List per gli array.",
-  "id": "/loona-dev-tools/it/json-to-python-dataclass/",
+  "id": "/it/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

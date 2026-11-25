@@ -2,7 +2,7 @@
   "name": "Loona szövegből Base58 kódoló",
   "short_name": "Szövegből Base58 kódoló",
   "description": "Kódoljon szöveget Base58-ra (Bitcoin ábécé) online — 0, O, I vagy l nélkül, a Bitcoin címek és IPFS hashek kódolása.",
-  "id": "/loona-dev-tools/hu/text-to-base58/",
+  "id": "/hu/text-to-base58/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

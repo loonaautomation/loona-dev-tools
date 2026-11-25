@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de cadena de consulta a JSON",
   "short_name": "Convertidor de cadena de consulta a JSON",
   "description": "Analiza una cadena de consulta de URL a JSON: la notación de corchetes se convierte en objetos anidados, las claves repetidas en arrays, los valores tipados.",
-  "id": "/loona-dev-tools/es/query-string-to-json/",
+  "id": "/es/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

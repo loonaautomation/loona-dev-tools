@@ -2,7 +2,7 @@
   "name": "Loona Εξαγωγέας Αρχείων TAR.GZ Διαδικτυακά Δωρεάν",
   "short_name": "Εξαγωγέας Αρχείων TAR.GZ Διαδικτυακά",
   "description": "Ανοίξτε αρχειοθήκες tar.gz κατευθείαν στο πρόγραμμα περιήγησής σας - τόσο το .tar.gz όσο και το σύντομο όνομα .tgz - δείτε κάθε αρχείο μέσα και κατεβάστε μεμονωμένα αρχεία ή τα πάντα ως ZIP. Τίποτα δεν ανεβαίνει.",
-  "id": "/loona-dev-tools/el/tar-gz-file-extractor/",
+  "id": "/el/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

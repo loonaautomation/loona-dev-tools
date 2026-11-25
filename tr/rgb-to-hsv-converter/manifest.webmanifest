@@ -2,7 +2,7 @@
   "name": "Loona RGB - HSV Dönüştürücü",
   "short_name": "RGB - HSV Dönüştürücü",
   "description": "Renkleri RGB değerinden çevrimiçi HSV değerine dönüştürün, canlı bir renk örneği ve diğer tüm biçimler (HEX, RGB, HSL, HSV, CMYK) de gösterilerek.",
-  "id": "/loona-dev-tools/tr/rgb-to-hsv-converter/",
+  "id": "/tr/rgb-to-hsv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

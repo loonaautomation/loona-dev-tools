@@ -2,7 +2,7 @@
   "name": "ממיר Loona INI ל-JSON",
   "short_name": "ממיר INI ל-JSON",
   "description": "המירו קבצי תצורה INI ל-JSON: חתכים הופכים לאובייקטים, ערכים מוקלדים (מספרים, בוליאנים) היכן שחד-משמעי.",
-  "id": "/loona-dev-tools/he/ini-to-json/",
+  "id": "/he/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

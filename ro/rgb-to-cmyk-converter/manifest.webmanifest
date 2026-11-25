@@ -2,7 +2,7 @@
   "name": "Convertizor RGB în CMYK Loona",
   "short_name": "Convertizor RGB în CMYK",
   "description": "Convertește culori din RGB în CMYK online, cu un eșantion în direct și toate celelalte formate (HEX, RGB, HSL, HSV, CMYK) afișate și ele.",
-  "id": "/loona-dev-tools/ro/rgb-to-cmyk-converter/",
+  "id": "/ro/rgb-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

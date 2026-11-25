@@ -2,7 +2,7 @@
   "name": "Loona HTTP Durum Kodları Başvurusu",
   "short_name": "HTTP Durum Kodları Başvurusu",
   "description": "Her yaygın HTTP durum kodu anlamıyla: 2xx başarı, 3xx yönlendirmeler, 4xx istemci hataları, 5xx sunucu hataları — düz şekilde açıklanmış.",
-  "id": "/loona-dev-tools/tr/http-status-codes/",
+  "id": "/tr/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Descodificador de Base32 para Texto",
   "short_name": "Descodificador de Base32 para Texto",
   "description": "Descodifique Base32 (RFC 4648) de volta para texto — insensível a maiúsculas/minúsculas, preenchimento opcional. Recupere strings codificadas em estilo TOTP.",
-  "id": "/loona-dev-tools/pt-pt/base32-to-text/",
+  "id": "/pt-pt/base32-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

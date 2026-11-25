@@ -2,7 +2,7 @@
   "name": "Převodník Loona obrázku na Base64",
   "short_name": "Převodník obrázku na Base64",
   "description": "Převeďte obrázek (PNG, JPG, GIF, WebP, SVG) na datové URI Base64 online — soubor se čte lokálně, s rozměry a statistikami velikosti.",
-  "id": "/loona-dev-tools/cs/image-to-base64/",
+  "id": "/cs/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

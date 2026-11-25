@@ -2,7 +2,7 @@
   "name": "Loona JSON till frågesträng-konverterare",
   "short_name": "JSON till frågesträng-konverterare",
   "description": "Bygg en URL-frågesträng från ett JSON-objekt: nästlade objekt använder hakparentesnotation, arrayer upprepar nyckeln, allt procentkodat.",
-  "id": "/loona-dev-tools/sv/json-to-query-string/",
+  "id": "/sv/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

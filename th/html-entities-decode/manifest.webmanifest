@@ -2,7 +2,7 @@
   "name": "Loona ตัวถอดรหัส HTML Entities",
   "short_name": "ตัวถอดรหัส HTML Entities",
   "description": "ถอดรหัส HTML entity กลับเป็นตัวอักษรธรรมดา: การอ้างอิงแบบมีชื่อ แบบเลขฐานสิบ และแบบเลขฐานสิบหก (&copy;, &#169;, &#xA9;) รองรับทั้งหมด",
-  "id": "/loona-dev-tools/th/html-entities-decode/",
+  "id": "/th/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

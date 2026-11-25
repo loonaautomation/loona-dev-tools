@@ -2,7 +2,7 @@
   "name": "Loona Regex tesztelő online ingyen",
   "short_name": "Regex tesztelő online ingyen",
   "description": "Reguláris kifejezések tesztelése online ingyen élő találati kiemeléssel, rögzítési csoport részletekkel és találati számmal. Nincs regisztráció, 100%-ban a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/regex-tester/",
+  "id": "/hu/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

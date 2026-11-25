@@ -2,7 +2,7 @@
   "name": "Loona NATO صوتی حروف تہجی مترجم (متن",
   "short_name": "NATO صوتی حروف تہجی",
   "description": "متن کو NATO صوتی حروف تہجی میں لکھیں: A = Alfa, B = Bravo... اعداد شامل۔ ہوا بازی، فوج اور سپورٹ کالز استعمال کرتے ہیں۔",
-  "id": "/loona-dev-tools/ur/nato-phonetic-alphabet/",
+  "id": "/ur/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

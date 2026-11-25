@@ -2,7 +2,7 @@
   "name": "Trình tạo thẻ meta trực tuyến miễn phí của Loona",
   "short_name": "Trình tạo thẻ meta trực tuyến miễn phí",
   "description": "Tạo thẻ meta HTML trực tuyến miễn phí - tiêu đề, mô tả, từ khóa, tác giả, robots và canonical - với bản xem trước SERP kiểu Google trực tiếp và số lượng ký tự. Không đăng ký.",
-  "id": "/loona-dev-tools/vi/meta-tag-generator/",
+  "id": "/vi/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

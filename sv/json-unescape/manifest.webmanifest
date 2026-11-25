@@ -2,7 +2,7 @@
   "name": "Loona JSON-strängavescape",
   "short_name": "JSON-strängavescape",
   "description": "Avescapa ett JSON-strängvärde tillbaka till vanlig text: sekvenserna \\n, \\t, \\&quot;, \\\\ och \\uXXXX blir verkliga tecken.",
-  "id": "/loona-dev-tools/sv/json-unescape/",
+  "id": "/sv/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

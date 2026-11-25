@@ -2,7 +2,7 @@
   "name": "Loona usporedba semantičkih verzija",
   "short_name": "Usporedba semantičkih verzija",
   "description": "Provjerite i usporedite semantičke verzije (MAJOR.MINOR.PATCH): koja je novija i kakva ih vrsta promjene razdvaja.",
-  "id": "/loona-dev-tools/hr/semver-comparator/",
+  "id": "/hr/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

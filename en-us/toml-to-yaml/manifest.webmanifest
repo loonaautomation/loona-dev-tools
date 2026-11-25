@@ -2,7 +2,7 @@
   "name": "Loona TOML to YAML Converter",
   "short_name": "TOML to YAML Converter",
   "description": "Convert TOML to YAML online: tables become nested mappings, array tables become lists of objects.",
-  "id": "/loona-dev-tools/en-us/toml-to-yaml/",
+  "id": "/en-us/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

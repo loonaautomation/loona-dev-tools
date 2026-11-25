@@ -2,7 +2,7 @@
   "name": "Loona Penerjemah Alfabet Fonetik NATO (Teks",
   "short_name": "Alfabet Fonetik NATO",
   "description": "Eja teks dalam alfabet fonetik NATO: A = Alfa, B = Bravo... Termasuk digit. Digunakan oleh penerbangan, militer, dan panggilan dukungan.",
-  "id": "/loona-dev-tools/id/nato-phonetic-alphabet/",
+  "id": "/id/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

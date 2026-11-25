@@ -2,7 +2,7 @@
   "name": "Loona CSV 轉 YAML 轉換器",
   "short_name": "CSV 轉 YAML 轉換器",
   "description": "把 CSV 表格轉換成 YAML：標題行變成鍵，每一行成為 YAML 列表中的一項，數字帶型別。",
-  "id": "/loona-dev-tools/zh-hant/csv-to-yaml/",
+  "id": "/zh-hant/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

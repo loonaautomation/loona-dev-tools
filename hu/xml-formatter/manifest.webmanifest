@@ -2,7 +2,7 @@
   "name": "Loona XML formázó és érvényesítő online ingyen",
   "short_name": "XML formázó és érvényesítő",
   "description": "Formázzon, szépítsen, tömörítsen és ellenőrizzen XML-t online ingyen - kiegyensúlyozott címkés jólformáltsági ellenőrzés világos hibaüzenetekkel, szép formázás behúzással. Regisztráció nélkül.",
-  "id": "/loona-dev-tools/hu/xml-formatter/",
+  "id": "/hu/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Vizualizator de metadate ale documentelor Office Loona online",
   "short_name": "Metadatele documentelor Office",
   "description": "Vizualizează metadatele documentelor Office online gratuit - titlu, autor, companie, date de creare și modificare, aplicație și versiune pentru fișiere .docx, .xlsx și .pptx. Doar vizualizare, nimic încărcat.",
-  "id": "/loona-dev-tools/ro/office-metadata-viewer/",
+  "id": "/ro/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

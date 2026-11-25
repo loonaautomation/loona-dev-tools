@@ -2,7 +2,7 @@
   "name": "מחולל Loona JSON ל-SQL INSERT",
   "short_name": "מחולל JSON ל-SQL INSERT",
   "description": "צרו משפטי SQL INSERT ממערך JSON של אובייקטים: מחרוזות מבורחות, NULL-ים ובוליאנים מטופלים, שם טבלה מותאם.",
-  "id": "/loona-dev-tools/he/json-to-sql-insert/",
+  "id": "/he/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona HTML-entitetsdekoder",
   "short_name": "HTML-entitetsdekoder",
   "description": "Dekod HTML-entiteter tilbake til vanlige tegn: navngitte, desimale og heksreferanser (&copy;, &#169;, &#xA9;) støttes alle.",
-  "id": "/loona-dev-tools/nb/html-entities-decode/",
+  "id": "/nb/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Convertizor ZIP în TAR Loona",
   "short_name": "Convertizor ZIP în TAR",
   "description": "Convertește arhive ZIP în TAR necomprimat online: aceleași fișiere și foldere, reîmpachetate cu un scriitor TAR conform standardelor. Complet local.",
-  "id": "/loona-dev-tools/ro/zip-to-tar-converter/",
+  "id": "/ro/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

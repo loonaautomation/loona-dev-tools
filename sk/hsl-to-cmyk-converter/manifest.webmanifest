@@ -2,7 +2,7 @@
   "name": "Prevodník Loona HSL na CMYK",
   "short_name": "Prevodník HSL na CMYK",
   "description": "Prevádzajte farby z HSL na CMYK online, so živým vzorkovníkom a zobrazenými aj všetkými ostatnými formátmi (HEX, RGB, HSL, HSV, CMYK).",
-  "id": "/loona-dev-tools/sk/hsl-to-cmyk-converter/",
+  "id": "/sk/hsl-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

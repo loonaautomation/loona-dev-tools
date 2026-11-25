@@ -2,7 +2,7 @@
   "name": "Převodník Loona YAML na CSV",
   "short_name": "Převodník YAML na CSV",
   "description": "Převeďte seznam objektů YAML na tabulku CSV: sjednocení klíčů jako sloupce, vnořené hodnoty serializované jako JSON ve své buňce.",
-  "id": "/loona-dev-tools/cs/yaml-to-csv/",
+  "id": "/cs/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

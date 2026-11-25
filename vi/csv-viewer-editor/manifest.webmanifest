@@ -2,7 +2,7 @@
   "name": "Trình xem & soạn thảo CSV trực tuyến miễn phí của Loona",
   "short_name": "Trình xem & chỉnh sửa CSV trực tuyến",
   "description": "Xem và chỉnh sửa các tệp CSV trực tuyến miễn phí trong một lưới bảng có thể chỉnh sửa - sửa ô, sắp xếp cột, thêm hoặc xóa hàng và cột, rồi tải xuống CSV đã sửa. Không đăng ký, chạy trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/csv-viewer-editor/",
+  "id": "/vi/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

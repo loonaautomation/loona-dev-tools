@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/caesar-cipher/",
+  "id": "/en-gb/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

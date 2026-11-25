@@ -2,7 +2,7 @@
   "name": "Loona pretvarač teksta u heksadekadski zapis",
   "short_name": "Pretvarač teksta u heksadekadski zapis",
   "description": "Pretvorite tekst u heksadekadski zapis (bajtovi UTF-8) na mreži, s razmacima između bajtova ili bez njih. Besplatni pretvarač za razvojne programere.",
-  "id": "/loona-dev-tools/hr/text-to-hex/",
+  "id": "/hr/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

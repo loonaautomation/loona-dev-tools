@@ -2,7 +2,7 @@
   "name": "Loona TOML-zu-JSON-Konverter",
   "short_name": "TOML-zu-JSON-Konverter",
   "description": "Konvertieren Sie TOML online zu JSON: Tabellen, Array-Tabellen, Zeichenfolgen, Zahlen, Booleans, Arrays und Datetimes (als Zeichenfolgen).",
-  "id": "/loona-dev-tools/de/toml-to-json/",
+  "id": "/de/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona adgangskodestyrkekontrol online gratis",
   "short_name": "Adgangskodestyrkekontrol",
   "description": "Tjek adgangskodestyrke online gratis med et gennemsigtigt entropiestimat, konkret feedback og et estimat over knæktid. Adgangskoden forlader aldrig din browser – intet sendes eller gemmes.",
-  "id": "/loona-dev-tools/da/password-strength-checker/",
+  "id": "/da/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

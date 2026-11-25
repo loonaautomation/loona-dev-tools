@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/css-minifier/",
+  "id": "/en-gb/css-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

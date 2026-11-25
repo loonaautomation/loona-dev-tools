@@ -2,7 +2,7 @@
   "name": "Loona Regex Tester Online Free",
   "short_name": "Regex Tester Online Free",
   "description": "Test regular expressions online for free with live match highlighting, capture group details and a match count. No sign-up, runs 100% in your browser.",
-  "id": "/loona-dev-tools/regex-tester/",
+  "id": "/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

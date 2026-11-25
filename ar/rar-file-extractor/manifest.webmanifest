@@ -2,7 +2,7 @@
   "name": "Loona مستخرج ملفات RAR عبر الإنترنت مجاناً",
   "short_name": "مستخرج ملفات RAR عبر الإنترنت مجاناً",
   "description": "افتح ملفات RAR ‏(RAR4 وRAR5) في متصفحك مباشرة - اطّلع على كل ملف بداخلها، نزّل ملفات مفردة أو كل شيء كـ ZIP. لا يُرفع شيء؛ الاستخراج يحدث على جهازك.",
-  "id": "/loona-dev-tools/ar/rar-file-extractor/",
+  "id": "/ar/rar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

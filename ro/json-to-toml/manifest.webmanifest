@@ -2,7 +2,7 @@
   "name": "Convertizor JSON în TOML Loona",
   "short_name": "Convertizor JSON în TOML",
   "description": "Convertește JSON în TOML online: scalari mai întâi, obiecte imbricate ca [tabele], tablouri de obiecte ca [[tabele]].",
-  "id": "/loona-dev-tools/ro/json-to-toml/",
+  "id": "/ro/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

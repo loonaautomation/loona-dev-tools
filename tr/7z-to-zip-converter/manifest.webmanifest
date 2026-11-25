@@ -2,7 +2,7 @@
   "name": "Loona 7Z - ZIP Dönüştürücü Çevrimiçi Ücretsiz",
   "short_name": "7Z - ZIP Dönüştürücü Çevrimiçi",
   "description": "Bir 7Z arşivini (.7z) doğrudan tarayıcınızda standart bir ZIP dosyasına dönüştürün. Klasör yapısı korunur, hiçbir şey yüklenmez - ve sonuç ZIP, Windows, macOS, Android ve iPhone üzerinde yerel olarak açılır, 7-Zip gerekmez.",
-  "id": "/loona-dev-tools/tr/7z-to-zip-converter/",
+  "id": "/tr/7z-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

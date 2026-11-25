@@ -2,7 +2,7 @@
   "name": "Loona Dekoder szyfru A1Z26 (Liczby na litery)",
   "short_name": "Dekoder szyfru A1Z26 (Liczby",
   "description": "Dekoduj kody liczbowe A1Z26 z powrotem na litery: 1=A, 2=B ... 26=Z. Rozdzielane myślnikiem, przecinkiem lub spacją.",
-  "id": "/loona-dev-tools/pl/a1z26-cipher-decoder/",
+  "id": "/pl/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

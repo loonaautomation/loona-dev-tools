@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona RAR vers TAR",
   "short_name": "Convertisseur RAR vers TAR",
   "description": "Convertissez les archives RAR (RAR4 et RAR5) en TAR en ligne avec libarchive dans votre navigateur. Les fichiers restent sur votre appareil.",
-  "id": "/loona-dev-tools/fr/rar-to-tar-converter/",
+  "id": "/fr/rar-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

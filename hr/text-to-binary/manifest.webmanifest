@@ -2,7 +2,7 @@
   "name": "Loona pretvarač teksta u binarno",
   "short_name": "Pretvarač teksta u binarno",
   "description": "Pretvorite tekst u binarno: svaki znak kao 8-bitne binarne skupine svojih bajtova UTF-8. Besplatni mrežni pretvarač.",
-  "id": "/loona-dev-tools/hr/text-to-binary/",
+  "id": "/hr/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

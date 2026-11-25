@@ -2,7 +2,7 @@
   "name": "Loona Pemformat & Validator XML Online Gratis",
   "short_name": "Pemformat & Validator XML",
   "description": "Format, percantik, minifikasi, dan validasi XML online secara gratis - pemeriksaan well-formedness tag seimbang dengan pesan kesalahan yang jelas, pencetakan rapi dengan indentasi. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/id/xml-formatter/",
+  "id": "/id/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

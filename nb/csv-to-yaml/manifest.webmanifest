@@ -2,7 +2,7 @@
   "name": "Loona CSV til YAML-konverterer",
   "short_name": "CSV til YAML-konverterer",
   "description": "Konverter CSV-tabeller til YAML: topptekstraden blir nøkler, hver rad et element i en YAML-liste, tall typet.",
-  "id": "/loona-dev-tools/nb/csv-to-yaml/",
+  "id": "/nb/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

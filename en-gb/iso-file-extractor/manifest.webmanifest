@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/iso-file-extractor/",
+  "id": "/en-gb/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

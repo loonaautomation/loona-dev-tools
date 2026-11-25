@@ -2,7 +2,7 @@
   "name": "Loona ตัวเข้ารหัสข้อความเป็น Base58",
   "short_name": "ตัวเข้ารหัสข้อความเป็น Base58",
   "description": "เข้ารหัสข้อความเป็น Base58 (ชุดตัวอักษร Bitcoin) ออนไลน์ — ไม่มี 0, O, I หรือ l การเข้ารหัสของที่อยู่ Bitcoin และแฮช IPFS",
-  "id": "/loona-dev-tools/th/text-to-base58/",
+  "id": "/th/text-to-base58/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

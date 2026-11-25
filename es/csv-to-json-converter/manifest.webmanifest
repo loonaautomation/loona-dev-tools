@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de CSV a JSON en línea gratis",
   "short_name": "Convertidor de CSV a JSON en línea",
   "description": "Convierte CSV en un array JSON de objetos en línea gratis, con un analizador CSV adecuado que maneja campos entrecomillados, comas dentro de comillas y comillas escapadas. Sin registro, funciona 100% en tu navegador.",
-  "id": "/loona-dev-tools/es/csv-to-json-converter/",
+  "id": "/es/csv-to-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

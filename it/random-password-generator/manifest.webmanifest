@@ -2,7 +2,7 @@
   "name": "Loona Generatore di password casuali",
   "short_name": "Generatore di password casuali",
   "description": "Genera password casuali forti nel tuo browser con l'API WebCrypto: lunghezza e set di caratteri regolabili, entropia mostrata.",
-  "id": "/loona-dev-tools/it/random-password-generator/",
+  "id": "/it/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مشفّر وفاكّ تشفير شيفرة قيصر",
   "short_name": "مشفّر شيفرة قيصر و",
   "description": "شيفرة قيصر بأي إزاحة (1–25) ووضع فكّ تشفير: شيفرة الاستبدال الكلاسيكية ليوليوس قيصر، عبر الإنترنت.",
-  "id": "/loona-dev-tools/ar/caesar-cipher/",
+  "id": "/ar/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

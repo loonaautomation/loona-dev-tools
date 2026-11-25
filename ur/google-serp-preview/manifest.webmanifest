@@ -2,7 +2,7 @@
   "name": "Loona Google SERP پیش منظر ٹول آن لائن مفت",
   "short_name": "Google SERP پیش منظر ٹول",
   "description": "دیکھیں کہ آپ کا صفحہ عنوان اور میٹا تفصیل Google تلاش نتائج میں آن لائن مفت کیسے لگیں گے، desktop اور موبائل مناظر اور pixel-چوڑائی کٹاؤ انتباہات کے ساتھ۔ کوئی سائن اپ نہیں۔",
-  "id": "/loona-dev-tools/ur/google-serp-preview/",
+  "id": "/ur/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona lekérdezési karaktersorozatból JSON-ba átalakító",
   "short_name": "Lekérdezési karaktersorozatból JSON-ba átalakító",
   "description": "Egy URL lekérdezési karaktersorozat elemzése JSON-ba: a szögletes zárójeles jelölés beágyazott objektumokká válik, az ismétlődő kulcsok tömbökké, az értékek típusosak.",
-  "id": "/loona-dev-tools/hu/query-string-to-json/",
+  "id": "/hu/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

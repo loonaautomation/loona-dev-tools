@@ -2,7 +2,7 @@
   "name": "Bộ giải mã bảng chữ cái phiên âm NATO của Loona",
   "short_name": "Công cụ giải mã bảng chữ cái phiên âm NATO",
   "description": "Giải mã các từ phiên âm NATO (Alfa, Bravo, Charlie...) trở lại thành chữ cái và chữ số thuần.",
-  "id": "/loona-dev-tools/vi/nato-phonetic-decoder/",
+  "id": "/vi/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

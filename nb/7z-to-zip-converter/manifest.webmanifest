@@ -2,7 +2,7 @@
   "name": "Loona 7Z til ZIP-konverterer på nett gratis",
   "short_name": "7Z til ZIP-konverterer på nett",
   "description": "Konverter et 7Z-arkiv (.7z) til en standard ZIP-fil rett i nettleseren din. Mappestruktur bevart, ingenting lastet opp - og den resulterende ZIP-en åpnes innebygd på Windows, macOS, Android og iPhone, ingen 7-Zip trengs.",
-  "id": "/loona-dev-tools/nb/7z-to-zip-converter/",
+  "id": "/nb/7z-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

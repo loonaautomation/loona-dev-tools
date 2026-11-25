@@ -2,7 +2,7 @@
   "name": "Encodeur et décodeur de chiffrement de César Loona",
   "short_name": "Encodeur de chiffrement de César et",
   "description": "Chiffrement de César avec n’importe quel décalage (1–25) et un mode de décodage : le chiffrement par substitution classique de Jules César, en ligne.",
-  "id": "/loona-dev-tools/fr/caesar-cipher/",
+  "id": "/fr/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

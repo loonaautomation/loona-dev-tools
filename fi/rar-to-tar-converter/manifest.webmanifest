@@ -2,7 +2,7 @@
   "name": "Loona RAR-TAR-muunnin",
   "short_name": "RAR-TAR-muunnin",
   "description": "Muunna RAR-arkistoja (RAR4 ja RAR5) TAR:iksi verkossa libarchivella selaimessasi. Tiedostot pysyvät laitteellasi.",
-  "id": "/loona-dev-tools/fi/rar-to-tar-converter/",
+  "id": "/fi/rar-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

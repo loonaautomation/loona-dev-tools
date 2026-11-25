@@ -2,7 +2,7 @@
   "name": "Конвертор от JSON към Python Dataclass на Loona",
   "short_name": "JSON към Python Dataclass",
   "description": "Конвертирайте JSON в Python dataclasses с подсказки за типове: вложените обекти стават вложени dataclasses, List типове за масиви.",
-  "id": "/loona-dev-tools/bg/json-to-python-dataclass/",
+  "id": "/bg/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

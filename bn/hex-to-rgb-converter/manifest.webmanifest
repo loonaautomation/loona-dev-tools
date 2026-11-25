@@ -2,7 +2,7 @@
   "name": "Loona HEX থেকে RGB কনভার্টার",
   "short_name": "HEX থেকে RGB কনভার্টার",
   "description": "অনলাইনে HEX থেকে RGB-তে রঙ রূপান্তর করুন, একটি লাইভ সোয়াচ ও অন্য সব ফরম্যাট (HEX, RGB, HSL, HSV, CMYK) দেখানোসহ।",
-  "id": "/loona-dev-tools/bn/hex-to-rgb-converter/",
+  "id": "/bn/hex-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

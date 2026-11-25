@@ -2,7 +2,7 @@
   "name": "Loona Konverter Integer ke Alamat IP",
   "short_name": "Integer ke Alamat IP",
   "description": "Konversi integer 32-bit kembali ke alamat IPv4 bertitik (3232235521 → 192.168.0.1).",
-  "id": "/loona-dev-tools/id/integer-to-ip/",
+  "id": "/id/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

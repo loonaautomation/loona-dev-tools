@@ -2,7 +2,7 @@
   "name": "Loona Ekstraktor plików ISO online za darmo",
   "short_name": "Ekstraktor plików ISO online za darmo",
   "description": "Otwieraj obrazy dysków ISO wprost w przeglądarce - przeglądaj system plików przechowywany na wirtualnym dysku i pobieraj pojedyncze pliki lub wszystko jako ZIP. Nic nie jest przesyłane.",
-  "id": "/loona-dev-tools/pl/iso-file-extractor/",
+  "id": "/pl/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penukar Timestamp Unix ke Tarikh",
   "short_name": "Timestamp Unix ke Tarikh",
   "description": "Penukaran timestamp Unix (saat atau milidetik) ke tarikh yang dapat dibaca manusia: UTC, waktu setempat Anda, ISO 8601, dan waktu relatif.",
-  "id": "/loona-dev-tools/ms/unix-timestamp-to-date/",
+  "id": "/ms/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

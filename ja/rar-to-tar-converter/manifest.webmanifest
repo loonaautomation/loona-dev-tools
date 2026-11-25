@@ -2,7 +2,7 @@
   "name": "Loona RAR→TAR変換ツール",
   "short_name": "RAR→TAR変換ツール",
   "description": "RARアーカイブ（RAR4とRAR5）を、ブラウザ内のlibarchiveでオンラインでTARに変換します。ファイルはあなたのデバイスに残ります。",
-  "id": "/loona-dev-tools/ja/rar-to-tar-converter/",
+  "id": "/ja/rar-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

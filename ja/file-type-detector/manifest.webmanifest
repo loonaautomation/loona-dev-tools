@@ -2,7 +2,7 @@
   "name": "Loona ファイルタイプ検出ツール 無料オンライン",
   "short_name": "ファイルタイプ検出ツール 無料オンライン",
   "description": "ファイルの本当の種類を、そのマジックバイトのヘッダーシグネチャから無料でオンライン検出 — PNG、PDF、ZIP、MP4、EXE、30以上の形式 — 拡張子が一致しないときは警告を受けます。何もアップロードされません。",
-  "id": "/loona-dev-tools/ja/file-type-detector/",
+  "id": "/ja/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

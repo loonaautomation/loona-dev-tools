@@ -2,7 +2,7 @@
   "name": "Loona JSON-JSON-skeemageneraattori",
   "short_name": "JSON-JSON-skeemageneraattori",
   "description": "Luo JSON-skeema (luonnos 2020-12) JSON-näytteestä: tyypit pääteltynä, objektien ominaisuudet ja pakolliset avaimet mukana.",
-  "id": "/loona-dev-tools/fi/json-to-json-schema/",
+  "id": "/fi/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

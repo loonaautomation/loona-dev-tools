@@ -2,7 +2,7 @@
   "name": "Loona Pengekstrak Fail Arkib Dalam Talian Percuma",
   "short_name": "Pengekstrak Fail Arkib Dalam Talian",
   "description": "Satu pembuka arkib universal: jatuhkan fail ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ, atau ISO apa pun dan ekstrak isinya langsung di pelayar Anda. Format terdeteksi automatik; tidak ada yang dimuat naik.",
-  "id": "/loona-dev-tools/ms/archive-file-extractor/",
+  "id": "/ms/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

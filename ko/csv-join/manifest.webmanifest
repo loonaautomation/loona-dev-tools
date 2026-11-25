@@ -2,7 +2,7 @@
   "name": "Loona CSV 조인 온라인 무료",
   "short_name": "CSV 조인 온라인 무료",
   "description": "공유 키 열로 두 CSV 파일을 온라인에서 무료로 조인해요 - inner join 또는 left join, 중복 키는 데이터베이스 방식으로 처리돼요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
-  "id": "/loona-dev-tools/ko/csv-join/",
+  "id": "/ko/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

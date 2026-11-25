@@ -2,7 +2,7 @@
   "name": "Loona উদ্ধৃত-মুদ্রণযোগ্য ডিকোডার",
   "short_name": "উদ্ধৃত-মুদ্রণযোগ্য ডিকোডার",
   "description": "উদ্ধৃত-মুদ্রণযোগ্য (MIME) টেক্সট আবার পাঠযোগ্য UTF-8-তে ডিকোড করুন: =XX এস্কেপ ও নরম লাইন বিরতি RFC 2045 অনুযায়ী পরিচালিত।",
-  "id": "/loona-dev-tools/bn/quoted-printable-decode/",
+  "id": "/bn/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

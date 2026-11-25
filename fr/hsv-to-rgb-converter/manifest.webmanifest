@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona TSV vers RVB",
   "short_name": "Convertisseur TSV vers RVB",
   "description": "Convertissez les couleurs de TSV vers RVB en ligne, avec un échantillon en direct et tous les autres formats (HEX, RVB, TSL, TSV, CMJN) affichés aussi.",
-  "id": "/loona-dev-tools/fr/hsv-to-rgb-converter/",
+  "id": "/fr/hsv-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

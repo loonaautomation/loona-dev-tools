@@ -2,7 +2,7 @@
   "name": "Loona CSS-Box-Shadow-Generator online kostenlos",
   "short_name": "CSS-Box-Shadow-Generator",
   "description": "Generieren Sie CSS-box-shadow kostenlos online – mehrere Schattenebenen, Inset-Schatten, Farb- und Deckkraftsteuerung, mit einer Live-Vorschau und fertigem CSS. Keine Registrierung, läuft in Ihrem Browser.",
-  "id": "/loona-dev-tools/de/css-box-shadow-generator/",
+  "id": "/de/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

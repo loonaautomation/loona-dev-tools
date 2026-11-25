@@ -2,7 +2,7 @@
   "name": "Loona JSON-ból TypeScript felületté átalakító",
   "short_name": "JSON-ból TypeScript felület",
   "description": "Alakítson JSON-t TypeScript interfészekké online: a beágyazott objektumok nevesített interfészekké válnak, az objektumok tömbjei egyesítik a kulcsaikat, az opcionális mezők megjelölve.",
-  "id": "/loona-dev-tools/hu/json-to-typescript/",
+  "id": "/hu/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

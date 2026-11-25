@@ -2,7 +2,7 @@
   "name": "Loona Penukar JSON ke .env",
   "short_name": "Penukar JSON ke .env",
   "description": "Penukaran konfigurasi JSON ke format .env: objek bersarang diratakan dengan jalur UNDERSCORE, nilai dikutip ketika mengandung ruang atau #.",
-  "id": "/loona-dev-tools/ms/json-to-env/",
+  "id": "/ms/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

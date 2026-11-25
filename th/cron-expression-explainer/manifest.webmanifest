@@ -2,7 +2,7 @@
   "name": "Loona ตัวอธิบายนิพจน์ Cron",
   "short_name": "ตัวอธิบายนิพจน์ Cron",
   "description": "อธิบายนิพจน์ cron เป็นภาษาไทยที่เข้าใจง่าย: วางกำหนดการ cron แบบ 5 ฟิลด์แล้วอ่านว่ามันทำงานเมื่อใด ทีละฟิลด์",
-  "id": "/loona-dev-tools/th/cron-expression-explainer/",
+  "id": "/th/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

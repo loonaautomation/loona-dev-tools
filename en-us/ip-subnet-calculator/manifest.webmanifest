@@ -2,7 +2,7 @@
   "name": "Loona IP Subnet Calculator - Network, Broadcast and Hosts From Any CIDR",
   "short_name": "IP Subnet Calculator - Network, Broadcast and Hosts From Any CIDR",
   "description": "Calculate IPv4 subnets online for free - network, broadcast, netmask, wildcard, first and last host, usable host count and IP class from any CIDR address, plus a subnet splitting view.",
-  "id": "/loona-dev-tools/en-us/ip-subnet-calculator/",
+  "id": "/en-us/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

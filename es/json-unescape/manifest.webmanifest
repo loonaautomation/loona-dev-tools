@@ -2,7 +2,7 @@
   "name": "Loona Desescape de cadenas JSON",
   "short_name": "Desescape de cadenas JSON",
   "description": "Desescapa un valor de cadena JSON a texto simple: las secuencias \\n, \\t, \\&quot;, \\\\ y \\uXXXX se convierten en caracteres reales.",
-  "id": "/loona-dev-tools/es/json-unescape/",
+  "id": "/es/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

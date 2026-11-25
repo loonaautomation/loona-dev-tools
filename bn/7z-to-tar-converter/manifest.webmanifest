@@ -2,7 +2,7 @@
   "name": "Loona 7Z থেকে TAR কনভার্টার",
   "short_name": "7Z থেকে TAR কনভার্টার",
   "description": "অনলাইনে 7Z আর্কাইভ TAR-এ রূপান্তর করুন: libarchive (WebAssembly) 7Z পড়ে, একটি ustar লেখক এটি আবার প্যাক করে। ব্যক্তিগত ও স্থানীয়।",
-  "id": "/loona-dev-tools/bn/7z-to-tar-converter/",
+  "id": "/bn/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

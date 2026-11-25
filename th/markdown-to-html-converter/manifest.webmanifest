@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง Markdown เป็น HTML ออนไลน์ฟรี",
   "short_name": "ตัวแปลง Markdown เป็น HTML",
   "description": "แปลง Markdown เป็น HTML ออนไลน์ฟรี - หัวเรื่อง ตัวหนา ตัวเอียง ลิงก์ รูปภาพ รายการ blockquote บล็อกโค้ด และอื่น ๆ พร้อมตัวอย่างที่เรนเดอร์แบบสด ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-dev-tools/th/markdown-to-html-converter/",
+  "id": "/th/markdown-to-html-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

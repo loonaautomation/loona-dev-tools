@@ -2,7 +2,7 @@
   "name": "Конвертер Loona двійкової у вісімкову",
   "short_name": "Конвертер двійкової у вісімкову",
   "description": "Конвертуйте двійкові числа у вісімкові онлайн — довільна точність (BigInt), від’ємні числа підтримуються.",
-  "id": "/loona-dev-tools/uk/binary-to-octal-converter/",
+  "id": "/uk/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona binær til heksadesimal-konverterer",
   "short_name": "Binær til heksadesimal",
   "description": "Konverter binære tall til heksadesimal på nett — vilkårlig presisjon (BigInt), negative tall støttes.",
-  "id": "/loona-dev-tools/nb/binary-to-hex-converter/",
+  "id": "/nb/binary-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Convertitore di base numerica online gratuito",
   "short_name": "Convertitore di base numerica online",
   "description": "Converti numeri tra binario, ottale, decimale ed esadecimale online gratuitamente, con precisione BigInt per valori oltre 2^53 e convalida per cifra. Nessuna registrazione, funziona al 100% nel tuo browser.",
-  "id": "/loona-dev-tools/it/number-base-converter/",
+  "id": "/it/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

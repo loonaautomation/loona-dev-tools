@@ -2,7 +2,7 @@
   "name": "Loona Punycode Kod Çözücü (xn-- - Unicode Alan Adı)",
   "short_name": "Punycode Kod Çözücü (xn-- -",
   "description": "xn-- punycode alan adlarını Unicode biçimlerine geri çözün — uluslararasılaştırılmış bir alan adının gerçekte ne dediğini kontrol edin.",
-  "id": "/loona-dev-tools/tr/punycode-decode/",
+  "id": "/tr/punycode-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

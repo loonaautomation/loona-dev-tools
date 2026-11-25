@@ -2,7 +2,7 @@
   "name": "Loona Email Validator Online Free",
   "short_name": "Email Validator Online Free",
   "description": "Validate email addresses online for free, one or in bulk - full syntax checks against the address rules plus detection of common domain typos like gmial.com. No sign-up.",
-  "id": "/loona-dev-tools/email-validator/",
+  "id": "/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generator de hash SHA-384 Loona",
   "short_name": "Generator de hash SHA-384",
   "description": "Calculează hash-uri SHA-384 ale textului sau fișierelor online: 384 de biți, 96 de caractere hex. Rulează local în browserul tău cu WebCrypto/JS pur — fișierele nu sunt încărcate niciodată.",
-  "id": "/loona-dev-tools/ro/sha384-hash-generator/",
+  "id": "/ro/sha384-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

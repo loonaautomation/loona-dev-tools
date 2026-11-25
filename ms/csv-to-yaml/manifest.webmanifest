@@ -2,7 +2,7 @@
   "name": "Loona Penukar CSV ke YAML",
   "short_name": "Penukar CSV ke YAML",
   "description": "Penukaran jadual CSV ke YAML: baris header menjadi kunci, setiap baris menjadi item dalam senarai YAML, angka bertipe.",
-  "id": "/loona-dev-tools/ms/csv-to-yaml/",
+  "id": "/ms/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

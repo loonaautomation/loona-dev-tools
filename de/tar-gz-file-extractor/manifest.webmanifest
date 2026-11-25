@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ-Datei-Extraktor online kostenlos",
   "short_name": "TAR.GZ-Datei-Extraktor online",
   "description": "Öffnen Sie tar.gz-Archive direkt in Ihrem Browser – sowohl .tar.gz als auch den kurzen .tgz-Namen – sehen Sie jede Datei darin und laden Sie einzelne Dateien oder alles als ZIP herunter. Nichts wird hochgeladen.",
-  "id": "/loona-dev-tools/de/tar-gz-file-extractor/",
+  "id": "/de/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

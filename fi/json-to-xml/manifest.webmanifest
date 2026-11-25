@@ -2,7 +2,7 @@
   "name": "Loona JSON-XML-muunnin",
   "short_name": "JSON-XML-muunnin",
   "description": "Muunna JSON XML:ksi verkossa muokattavalla juurielementillä: taulukot muuttuvat toistuviksi elementeiksi, @avaimet attribuuteiksi.",
-  "id": "/loona-dev-tools/fi/json-to-xml/",
+  "id": "/fi/json-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

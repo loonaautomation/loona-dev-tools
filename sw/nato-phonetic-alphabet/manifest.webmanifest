@@ -2,7 +2,7 @@
   "name": "Loona Mtafsiri wa Alfabeti ya Fonetiki ya NATO (Maandishi",
   "short_name": "Alfabeti ya Fonetiki ya NATO",
   "description": "Tamka maandishi kwa alfabeti ya fonetiki ya NATO: A = Alfa, B = Bravo... Inajumuisha tarakimu. Hutumiwa na usafiri wa anga, jeshi na simu za usaidizi.",
-  "id": "/loona-dev-tools/sw/nato-phonetic-alphabet/",
+  "id": "/sw/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

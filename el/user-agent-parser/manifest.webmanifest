@@ -2,7 +2,7 @@
   "name": "Loona Αναλυτής Συμβολοσειράς User Agent",
   "short_name": "Αναλυτής Συμβολοσειράς User Agent",
   "description": "Αναλύστε μια συμβολοσειρά User-Agent προγράμματος περιήγησης σε πρόγραμμα περιήγησης, μηχανή, λειτουργικό σύστημα και τύπο συσκευής με έναν διαφανή αναλυτή βασισμένο σε κανόνες.",
-  "id": "/loona-dev-tools/el/user-agent-parser/",
+  "id": "/el/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

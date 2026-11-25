@@ -2,7 +2,7 @@
   "name": "Loona XML til YAML-konverter",
   "short_name": "XML til YAML-konverter",
   "description": "Konvertér XML til YAML: attributter som @keys, gentagne elementer som lister, værdier typede. Ægte parser, ikke regex.",
-  "id": "/loona-dev-tools/da/xml-to-yaml/",
+  "id": "/da/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

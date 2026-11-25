@@ -2,7 +2,7 @@
   "name": "Loona 십진수를 팔진수로 변환",
   "short_name": "십진수를 팔진수로 변환",
   "description": "십진수를 팔진수로 온라인 변환해요 — 임의 정밀도(BigInt), 음수 지원해요.",
-  "id": "/loona-dev-tools/ko/decimal-to-octal-converter/",
+  "id": "/ko/decimal-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

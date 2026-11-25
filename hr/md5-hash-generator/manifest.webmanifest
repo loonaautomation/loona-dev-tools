@@ -2,7 +2,7 @@
   "name": "Loona generator MD5 hasha",
   "short_name": "Generator MD5 hasha",
   "description": "Izračunajte MD5 hasheve teksta ili datoteka na mreži: 128-bitni, 32 heksadekadska znaka. Radi lokalno u vašem pregledniku s WebCryptom/čistim JS-om — datoteke se nikada ne prenose.",
-  "id": "/loona-dev-tools/hr/md5-hash-generator/",
+  "id": "/hr/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

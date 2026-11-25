@@ -2,7 +2,7 @@
   "name": "Minifieur HTML Loona",
   "short_name": "Minifieur HTML",
   "description": "Minifiez le HTML en ligne : supprimez les commentaires et condensez les espaces tout en protégeant les contenus pre, textarea, script et style.",
-  "id": "/loona-dev-tools/fr/html-minifier/",
+  "id": "/fr/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

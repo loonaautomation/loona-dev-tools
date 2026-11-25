@@ -2,7 +2,7 @@
   "name": "Loona ZIP 转 TAR 转换器",
   "short_name": "ZIP 转 TAR 转换器",
   "description": "在线把 ZIP 归档转换为未压缩的 TAR：相同的文件和文件夹，用符合标准的 TAR 写入器重新打包。完全本地。",
-  "id": "/loona-dev-tools/zh/zip-to-tar-converter/",
+  "id": "/zh/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

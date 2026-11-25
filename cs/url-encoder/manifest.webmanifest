@@ -2,7 +2,7 @@
   "name": "Kodér a dekodér Loona URL online zdarma",
   "short_name": "Kodér a dekodér URL online",
   "description": "Kódujte a dekódujte URL a text dotazů online zdarma, s režimy komponenty a úplné URL a rozpisy po jednotlivých znacích. Bez registrace, ve vašem prohlížeči.",
-  "id": "/loona-dev-tools/cs/url-encoder/",
+  "id": "/cs/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 7Z-bestandsextractor online gratis",
   "short_name": "7Z-bestandsextractor online gratis",
   "description": "Open 7z-archieven direct in je browser - zie elk bestand erin, download losse bestanden of alles als ZIP. Niets wordt geüpload; extractie gebeurt op je apparaat met een WebAssembly-engine.",
-  "id": "/loona-dev-tools/nl/7z-file-extractor/",
+  "id": "/nl/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 정규식 테스터 온라인 무료",
   "short_name": "정규식 테스터 온라인 무료",
   "description": "실시간 일치 강조, 캡처 그룹 세부 정보, 일치 개수와 함께 정규식을 온라인에서 무료로 테스트하세요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
-  "id": "/loona-dev-tools/ko/regex-tester/",
+  "id": "/ko/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Trasposizione CSV online gratuito",
   "short_name": "Trasposizione CSV online gratuito",
   "description": "Trasponi CSV online gratuitamente - scambia righe e colonne con un parser RFC 4180 corretto che gestisce i campi tra virgolette correttamente. Nessuna registrazione, funziona al 100% nel tuo browser.",
-  "id": "/loona-dev-tools/it/csv-transpose/",
+  "id": "/it/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

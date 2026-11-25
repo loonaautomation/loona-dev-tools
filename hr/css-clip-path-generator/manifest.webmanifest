@@ -2,7 +2,7 @@
   "name": "Loona generator CSS clip-patha na mreži besplatno",
   "short_name": "Generator CSS clip-patha",
   "description": "Generirajte CSS clip-path na mreži besplatno - unaprijed postavljeni poligoni poput zvijezde, šesterokuta i strelice s podesivim točkama, plus oblici kruga, elipse i inseta, uz pregled uživo. Bez registracije.",
-  "id": "/loona-dev-tools/hr/css-clip-path-generator/",
+  "id": "/hr/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

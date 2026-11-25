@@ -2,7 +2,7 @@
   "name": "Loona különbség-ellenőrző online ingyen",
   "short_name": "Különbség-ellenőrző online ingyen",
   "description": "Hasonlítson össze két szöveget online ingyen soronkénti különbséggel: a hozzáadott sorok zölden, az eltávolított sorok pirosan, plusz egy változás-összefoglaló. Regisztráció nélkül, 100%-ban a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/diff-checker/",
+  "id": "/hu/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

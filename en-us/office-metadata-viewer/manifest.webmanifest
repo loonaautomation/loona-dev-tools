@@ -2,7 +2,7 @@
   "name": "Loona Office Document Metadata Viewer - See the Properties Hidden in Your Files",
   "short_name": "Office Document Metadata Viewer - See the Properties Hidden in Your Files",
   "description": "View Office document metadata online for free - title, author, company, creation and modification dates, application and version for .docx, .xlsx and .pptx files. View-only, nothing uploaded.",
-  "id": "/loona-dev-tools/en-us/office-metadata-viewer/",
+  "id": "/en-us/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ROT13 인코더 & 디코더",
   "short_name": "ROT13 인코더 & 디코더",
   "description": "모든 텍스트를 ROT13하세요: 문자를 13자리 회전하세요. 인코딩과 디코딩은 같은 연산이에요. 스포일러와 퍼즐의 고전이에요.",
-  "id": "/loona-dev-tools/ko/rot13-encoder/",
+  "id": "/ko/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

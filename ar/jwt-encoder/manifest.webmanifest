@@ -2,7 +2,7 @@
   "name": "Loona مشفّر JWT ‏(موقّع HS256)",
   "short_name": "مشفّر JWT ‏(موقّع HS256)",
   "description": "أنشئ ووقّع رموز JSON Web Tokens عبر HS256 في متصفحك: JSON الحمولة زائد سر، أو alg=none. توقيع WebCrypto.",
-  "id": "/loona-dev-tools/ar/jwt-encoder/",
+  "id": "/ar/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona XML Küçültücü",
   "short_name": "XML Küçültücü",
   "description": "XML değerini çevrimiçi küçültün: yorumları ve etiketler arası boşluğu tek bir kompakt satıra sıyırın.",
-  "id": "/loona-dev-tools/tr/xml-minifier/",
+  "id": "/tr/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

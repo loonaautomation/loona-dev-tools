@@ -2,7 +2,7 @@
   "name": "Générateur de clip-path Loona CSS en ligne gratuit",
   "short_name": "Générateur de clip-path CSS",
   "description": "Générez du CSS clip-path en ligne et gratuitement - préréglages de polygones comme étoile, hexagone et flèche avec des points ajustables, plus des formes circulaires, elliptiques et inset, avec un aperçu en direct. Sans inscription.",
-  "id": "/loona-dev-tools/fr/css-clip-path-generator/",
+  "id": "/fr/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penjana INSERT SQL dari JSON",
   "short_name": "Penjana INSERT SQL dari JSON",
   "description": "Buat pernyataan INSERT SQL dari array objek JSON: string di-escape, NULL dan boolean ditangani, nama jadual kustom.",
-  "id": "/loona-dev-tools/ms/json-to-sql-insert/",
+  "id": "/ms/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

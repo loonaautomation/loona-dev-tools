@@ -2,7 +2,7 @@
   "name": "Loona cookie-topptekstparser",
   "short_name": "Cookie-topptekstparser",
   "description": "Parse en Cookie-topptekst til en lesbar liste: navn = verdi-par, prosentdekodede verdier vist, cookie-telling.",
-  "id": "/loona-dev-tools/nb/cookie-parser/",
+  "id": "/nb/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

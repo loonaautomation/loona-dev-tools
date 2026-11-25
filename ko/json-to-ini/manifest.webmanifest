@@ -2,7 +2,7 @@
   "name": "Loona JSON을 INI로 변환",
   "short_name": "JSON을 INI로 변환",
   "description": "JSON 객체를 INI 형식으로 변환해요: 최상위 스칼라가 먼저, 중첩 객체는 [sections]로요. 무료 온라인 변환기예요.",
-  "id": "/loona-dev-tools/ko/json-to-ini/",
+  "id": "/ko/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

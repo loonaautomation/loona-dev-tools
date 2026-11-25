@@ -2,7 +2,7 @@
   "name": "Loona منشئ توقيع بريد HTML عبر الإنترنت مجاناً",
   "short_name": "توقيع بريد HTML",
   "description": "أنشئ توقيع بريد HTML مهنياً عبر الإنترنت مجاناً - الاسم، المسمى، الشركة، الهاتف، البريد والموقع في HTML جدول آمن للبريد يعمل في Gmail وOutlook. دون تسجيل.",
-  "id": "/loona-dev-tools/ar/email-signature-generator/",
+  "id": "/ar/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

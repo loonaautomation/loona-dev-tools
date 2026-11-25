@@ -2,7 +2,7 @@
   "name": "Loona JSON স্ট্রিং এস্কেপ",
   "short_name": "JSON স্ট্রিং এস্কেপ",
   "description": "JSON-এর ভিতরে এমবেড করার জন্য একটি স্ট্রিং এস্কেপ করুন: উদ্ধৃতি, ব্যাকস্ল্যাশ, নতুন লাইন ও নিয়ন্ত্রণ অক্ষর \\ সিকোয়েন্স হয়ে যায়।",
-  "id": "/loona-dev-tools/bn/json-escape/",
+  "id": "/bn/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

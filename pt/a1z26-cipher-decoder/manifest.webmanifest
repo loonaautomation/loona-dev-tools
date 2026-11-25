@@ -2,7 +2,7 @@
   "name": "Loona Descodificador de Cifra A1Z26 (Números para Letras)",
   "short_name": "Descodificador de Cifra A1Z26 (Números",
   "description": "Descodifique códigos numéricos A1Z26 de volta para letras: 1=A, 2=B ... 26=Z. Separados por hífen, vírgula ou espaço.",
-  "id": "/loona-dev-tools/pt/a1z26-cipher-decoder/",
+  "id": "/pt/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

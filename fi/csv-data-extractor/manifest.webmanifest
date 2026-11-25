@@ -2,7 +2,7 @@
   "name": "Loona CSV-tietojen poimija verkossa ilmaiseksi",
   "short_name": "CSV-datanpoimija verkossa ilmaiseksi",
   "description": "Poimi sähköpostiosoitteita, puhelinnumeroita ja URL-osoitteita sotkuisista CSV-tiedostoista tai mistä tahansa tekstistä verkossa ilmaiseksi - siistittyjä, kaksoiskappaleettomia luetteloita, jotka voit ladata. Ei rekisteröitymistä, toimii selaimessasi.",
-  "id": "/loona-dev-tools/fi/csv-data-extractor/",
+  "id": "/fi/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

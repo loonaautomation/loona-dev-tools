@@ -2,7 +2,7 @@
   "name": "Loona Chmod کیلکولیٹر آن لائن مفت",
   "short_name": "Chmod کیلکولیٹر آن لائن مفت",
   "description": "chmod اجازتیں آن لائن مفت گنیں: چیک باکسز سے octal (755) اور symbolic (rwxr-xr-x)، اور octal واپس اجازتوں میں۔ کوئی سائن اپ نہیں، 100% آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-dev-tools/ur/chmod-calculator/",
+  "id": "/ur/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

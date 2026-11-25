@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi TOML sang JSON của Loona",
   "short_name": "Công cụ chuyển đổi TOML sang JSON",
   "description": "Chuyển đổi TOML sang JSON trực tuyến: bảng, bảng mảng, chuỗi, số, boolean, mảng và datetime (dưới dạng chuỗi).",
-  "id": "/loona-dev-tools/vi/toml-to-json/",
+  "id": "/vi/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

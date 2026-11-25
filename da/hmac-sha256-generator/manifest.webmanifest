@@ -2,7 +2,7 @@
   "name": "Loona HMAC-SHA256-generator",
   "short_name": "HMAC-SHA256-generator",
   "description": "Generér HMAC-SHA256-signaturer online: indtast en nøgle og en besked, få hex-MAC'en. WebCrypto, helt lokalt.",
-  "id": "/loona-dev-tools/da/hmac-sha256-generator/",
+  "id": "/da/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

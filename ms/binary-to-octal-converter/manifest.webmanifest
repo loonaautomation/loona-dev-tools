@@ -2,7 +2,7 @@
   "name": "Loona Penukar Binari ke Oktal",
   "short_name": "Penukar Binari ke Oktal",
   "description": "Penukaran angka binari ke oktal dalam talian — presisi arbitrer (BigInt), angka negatif didukung.",
-  "id": "/loona-dev-tools/ms/binary-to-octal-converter/",
+  "id": "/ms/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

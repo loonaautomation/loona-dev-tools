@@ -2,7 +2,7 @@
   "name": "Loona TSV से CSV कन्वर्टर",
   "short_name": "TSV से CSV कन्वर्टर",
   "description": "TSV (tab-separated values) को CSV में बदलें: Excel या Sheets से copy किया data paste करें और properly quoted CSV पाएँ।",
-  "id": "/loona-dev-tools/hi/tsv-to-csv/",
+  "id": "/hi/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

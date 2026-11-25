@@ -2,7 +2,7 @@
   "name": "Loona JSON से Python Dataclass कन्वर्टर",
   "short_name": "JSON से Python Dataclass",
   "description": "JSON को type hints के साथ Python dataclasses में बदलें: nested objects nested dataclasses बन जाते हैं, arrays के लिए List types।",
-  "id": "/loona-dev-tools/hi/json-to-python-dataclass/",
+  "id": "/hi/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

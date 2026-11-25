@@ -2,7 +2,7 @@
   "name": "Loona Formatador e Validador XML Online Grátis",
   "short_name": "Formatador e Validador XML",
   "description": "Formate, embeleze, minifique e valide XML online grátis - verificação de boa formação com tags equilibradas e mensagens de erro claras, impressão bonita com indentação. Sem registro.",
-  "id": "/loona-dev-tools/pt-br/xml-formatter/",
+  "id": "/pt-br/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

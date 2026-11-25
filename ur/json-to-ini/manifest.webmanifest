@@ -2,7 +2,7 @@
   "name": "Loona JSON سے INI کنورٹر",
   "short_name": "JSON سے INI کنورٹر",
   "description": "JSON آبجیکٹس کو INI فارمیٹ میں بدلیں: پہلے اعلیٰ سطحی scalars، نیسٹڈ آبجیکٹس [sections] کے طور پر۔ مفت آن لائن کنورٹر۔",
-  "id": "/loona-dev-tools/ur/json-to-ini/",
+  "id": "/ur/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

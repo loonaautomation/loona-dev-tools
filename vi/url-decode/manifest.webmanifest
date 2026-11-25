@@ -2,7 +2,7 @@
   "name": "Giải mã URL của Loona (giải mã phần trăm)",
   "short_name": "Giải mã URL (giải mã phần trăm)",
   "description": "Giải mã các URL và chuỗi truy vấn được mã hóa phần trăm trở lại thành văn bản dễ đọc, bao gồm các chuỗi UTF-8 và + thành dấu cách. Công cụ giải mã trực tuyến miễn phí.",
-  "id": "/loona-dev-tools/vi/url-decode/",
+  "id": "/vi/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

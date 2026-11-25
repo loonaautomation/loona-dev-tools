@@ -2,7 +2,7 @@
   "name": "Loona kalkulator IP podmreže na mreži besplatno",
   "short_name": "Kalkulator IP podmreže na mreži",
   "description": "Izračunajte IPv4 podmreže na mreži besplatno - mreža, broadcast, mrežna maska, wildcard, prvi i zadnji host, broj upotrebljivih hostova i klasa IP-a iz bilo koje CIDR adrese, plus prikaz dijeljenja podmreža.",
-  "id": "/loona-dev-tools/hr/ip-subnet-calculator/",
+  "id": "/hr/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

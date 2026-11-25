@@ -2,7 +2,7 @@
   "name": "Loona GZ-filudpakker online gratis",
   "short_name": "GZ-filudpakker online gratis",
   "description": "Dekomprimér en enkelt .gz-fil direkte i din browser, og download den oprindelige fil – logge, dataeksporter, databasedumps. Intet uploades; din browser udfører arbejdet direkte.",
-  "id": "/loona-dev-tools/da/gz-file-extractor/",
+  "id": "/da/gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

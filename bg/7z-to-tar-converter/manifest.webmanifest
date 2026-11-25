@@ -2,7 +2,7 @@
   "name": "Конвертор от 7Z към TAR на Loona",
   "short_name": "Конвертор от 7Z към TAR",
   "description": "Конвертирайте 7Z архиви в TAR онлайн: libarchive (WebAssembly) чете 7Z, ustar записващо устройство го препакетира. Поверително и локално.",
-  "id": "/loona-dev-tools/bg/7z-to-tar-converter/",
+  "id": "/bg/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

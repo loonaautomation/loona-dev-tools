@@ -2,7 +2,7 @@
   "name": "Loona مكتبة المحوّلات والمنشئات",
   "short_name": "مكتبة المحوّلات والمنشئات",
   "description": "فهرس كل محوّلات ومنشئات Loona Developer Tools: الترميزات، تنسيقات البيانات، التجزئات، الألوان، الأرشيفات، منشئات الكود والمراجع.",
-  "id": "/loona-dev-tools/ar/converter-library/",
+  "id": "/ar/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Konverter Notasi Ilmiah",
   "short_name": "Konverter Notasi Ilmiah",
   "description": "Konversi angka ke dan dari notasi ilmiah: 3200000 ⇄ 3.2 × 10^6, notasi E didukung dua arah.",
-  "id": "/loona-dev-tools/id/scientific-notation-converter/",
+  "id": "/id/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona RGB - CMYK Dönüştürücü",
   "short_name": "RGB - CMYK Dönüştürücü",
   "description": "Renkleri RGB değerinden çevrimiçi CMYK değerine dönüştürün, canlı bir renk örneği ve diğer tüm biçimler (HEX, RGB, HSL, HSV, CMYK) de gösterilerek.",
-  "id": "/loona-dev-tools/tr/rgb-to-cmyk-converter/",
+  "id": "/tr/rgb-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

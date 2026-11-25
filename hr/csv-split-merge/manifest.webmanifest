@@ -2,7 +2,7 @@
   "name": "Loona dijeljenje i spajanje CSV-a na mreži besplatno",
   "short_name": "Dijeljenje i spajanje CSV-a na mreži besplatno",
   "description": "Podijelite CSV na dijelove po broju redaka ili spojite nekoliko CSV datoteka u jednu, na mreži besplatno - zaglavlja ispravno obrađena, ispravno raščlanjivanje CSV-a. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/csv-split-merge/",
+  "id": "/hr/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

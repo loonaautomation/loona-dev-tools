@@ -2,7 +2,7 @@
   "name": "Loona llms.txt generátor online ingyen",
   "short_name": "llms.txt generátor online ingyen",
   "description": "Generáljon érvényes llms.txt fájlt online ingyen - webhelynév, összefoglaló idézetblokk, részletek és válogatott oldallinkek az MI feltérképezők számára javasolt llms.txt formátumban. Regisztráció nélkül.",
-  "id": "/loona-dev-tools/hu/llms-txt-generator/",
+  "id": "/hu/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

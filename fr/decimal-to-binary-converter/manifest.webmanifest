@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona décimal vers binaire",
   "short_name": "Convertisseur décimal vers binaire",
   "description": "Convertissez les nombres décimaux en binaire en ligne — précision arbitraire (BigInt), nombres négatifs pris en charge.",
-  "id": "/loona-dev-tools/fr/decimal-to-binary-converter/",
+  "id": "/fr/decimal-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

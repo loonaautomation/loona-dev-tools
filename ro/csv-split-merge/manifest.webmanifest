@@ -2,7 +2,7 @@
   "name": "Împărțire și îmbinare CSV Loona online gratuit",
   "short_name": "Împărțire și îmbinare CSV online gratuit",
   "description": "Împarte un CSV în părți după numărul de rânduri sau îmbină mai multe fișiere CSV într-unul singur, online gratuit - anteturi gestionate corect, analiză CSV adecvată. Fără înregistrare, rulează 100% în browserul tău.",
-  "id": "/loona-dev-tools/ro/csv-split-merge/",
+  "id": "/ro/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

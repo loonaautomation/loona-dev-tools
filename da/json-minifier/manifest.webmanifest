@@ -2,7 +2,7 @@
   "name": "Loona JSON-minimerer",
   "short_name": "JSON-minimerer",
   "description": "Minimér JSON online: fjern alt ubetydeligt mellemrum til en enkelt kompakt linje, med valideringsfejl rapporteret præcist.",
-  "id": "/loona-dev-tools/da/json-minifier/",
+  "id": "/da/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

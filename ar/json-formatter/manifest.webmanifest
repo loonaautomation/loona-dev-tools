@@ -2,7 +2,7 @@
   "name": "Loona منسّق JSON عبر الإنترنت مجاناً",
   "short_name": "منسّق JSON عبر الإنترنت مجاناً",
   "description": "نسّق وتحقّق وصغّر JSON عبر الإنترنت مجاناً، مع السطر والعمود الدقيقين لأي خطأ. دون تسجيل، يعمل 100% في متصفحك.",
-  "id": "/loona-dev-tools/ar/json-formatter/",
+  "id": "/ar/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

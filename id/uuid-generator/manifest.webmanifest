@@ -2,7 +2,7 @@
   "name": "Loona Generator UUID Online Gratis",
   "short_name": "Generator UUID Online Gratis",
   "description": "Buat UUID versi 4 acak online secara gratis - tunggal atau massal hingga 100, opsi huruf besar dan tanpa tanda hubung. Acak secara kriptografis, di browser Anda.",
-  "id": "/loona-dev-tools/id/uuid-generator/",
+  "id": "/id/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

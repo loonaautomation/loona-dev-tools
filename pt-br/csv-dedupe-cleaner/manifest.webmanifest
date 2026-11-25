@@ -2,7 +2,7 @@
   "name": "Loona Remoção de Duplicados e Limpeza de CSV Online Grátis",
   "short_name": "Remoção de Duplicados e Limpeza de CSV Online",
   "description": "Remova linhas duplicadas do CSV online gratuitamente - por linha inteira ou por colunas-chave - mais corte de espaços, eliminação de linhas vazias e normalização de fins de linha, com contagens antes/depois. Sem registro.",
-  "id": "/loona-dev-tools/pt-br/csv-dedupe-cleaner/",
+  "id": "/pt-br/csv-dedupe-cleaner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

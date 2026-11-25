@@ -2,7 +2,7 @@
   "name": "Déséchappement de chaîne JSON Loona",
   "short_name": "Déséchappement de chaîne JSON",
   "description": "Déséchappez une valeur de chaîne JSON en texte simple : \\n, \\t, \\&quot;, \\\\ et \\uXXXX deviennent de vrais caractères.",
-  "id": "/loona-dev-tools/fr/json-unescape/",
+  "id": "/fr/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

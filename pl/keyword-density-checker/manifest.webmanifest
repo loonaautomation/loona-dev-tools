@@ -2,7 +2,7 @@
   "name": "Loona Sprawdzanie zagęszczenia słów kluczowych online za darmo",
   "short_name": "Sprawdzanie zagęszczenia słów kluczowych",
   "description": "Sprawdzaj zagęszczenie słów kluczowych online za darmo - najczęstsze pojedyncze słowa plus frazy 2-wyrazowe i 3-wyrazowe z liczbami i zagęszczeniem procentowym, z filtrowaniem słów stopujących. Bez rejestracji.",
-  "id": "/loona-dev-tools/pl/keyword-density-checker/",
+  "id": "/pl/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

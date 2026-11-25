@@ -2,7 +2,7 @@
   "name": "Loona JSON से TOML कन्वर्टर",
   "short_name": "JSON से TOML कन्वर्टर",
   "description": "JSON को TOML में ऑनलाइन बदलें: scalars पहले, nested objects [tables] के रूप में, objects के arrays [[tables]] के रूप में।",
-  "id": "/loona-dev-tools/hi/json-to-toml/",
+  "id": "/hi/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

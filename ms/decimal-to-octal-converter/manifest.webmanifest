@@ -2,7 +2,7 @@
   "name": "Loona Penukar Desimal ke Oktal",
   "short_name": "Penukar Desimal ke Oktal",
   "description": "Penukaran angka desimal ke oktal dalam talian — presisi arbitrer (BigInt), angka negatif didukung.",
-  "id": "/loona-dev-tools/ms/decimal-to-octal-converter/",
+  "id": "/ms/decimal-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

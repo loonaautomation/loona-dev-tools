@@ -2,7 +2,7 @@
   "name": "Loona JSON-merkkijonon pakotus",
   "short_name": "JSON-merkkijonon pakotus",
   "description": "Pakota merkkijono upotettavaksi JSON:in sisään: lainausmerkit, kenoviivat, rivinvaihdot ja ohjausmerkit muuttuvat \\-sarjoiksi.",
-  "id": "/loona-dev-tools/fi/json-escape/",
+  "id": "/fi/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

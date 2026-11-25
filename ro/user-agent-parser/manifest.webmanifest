@@ -2,7 +2,7 @@
   "name": "Analizator de șir User Agent Loona",
   "short_name": "Analizator de șir User Agent",
   "description": "Analizează un șir User-Agent de browser în browser, motor, SO și tip de dispozitiv cu un analizator transparent bazat pe reguli.",
-  "id": "/loona-dev-tools/ro/user-agent-parser/",
+  "id": "/ro/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

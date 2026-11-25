@@ -2,7 +2,7 @@
   "name": "Generator de umbre CSS Box Shadow Loona online gratuit",
   "short_name": "Generator de umbre CSS Box Shadow",
   "description": "Generează box-shadow CSS online gratuit - straturi multiple de umbră, umbre interioare, control al culorii și opacității, cu previzualizare în direct și CSS gata. Fără înregistrare, rulează în browserul tău.",
-  "id": "/loona-dev-tools/ro/css-box-shadow-generator/",
+  "id": "/ro/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona NATO Fonetik Alfabesi Kod Çözücü",
   "short_name": "NATO Fonetik Alfabesi Kod Çözücü",
   "description": "NATO fonetik sözcüklerini (Alfa, Bravo, Charlie...) düz harf ve rakamlara geri çözün.",
-  "id": "/loona-dev-tools/tr/nato-phonetic-decoder/",
+  "id": "/tr/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Конвертер двоичной системы в восьмеричную",
   "short_name": "Конвертер двоичной системы в восьмеричную",
   "description": "Преобразуйте двоичные числа в восьмеричные онлайн — произвольная точность (BigInt), поддерживаются отрицательные числа.",
-  "id": "/loona-dev-tools/ru/binary-to-octal-converter/",
+  "id": "/ru/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

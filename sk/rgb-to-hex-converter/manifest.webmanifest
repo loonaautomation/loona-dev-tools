@@ -2,7 +2,7 @@
   "name": "Prevodník Loona RGB na HEX",
   "short_name": "Prevodník RGB na HEX",
   "description": "Prevádzajte farby z RGB na HEX online, so živým vzorkovníkom a zobrazenými aj všetkými ostatnými formátmi (HEX, RGB, HSL, HSV, CMYK).",
-  "id": "/loona-dev-tools/sk/rgb-to-hex-converter/",
+  "id": "/sk/rgb-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

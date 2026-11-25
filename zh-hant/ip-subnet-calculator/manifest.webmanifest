@@ -2,7 +2,7 @@
   "name": "Loona IP 子網計算器 線上免費",
   "short_name": "IP 子網計算器 線上版",
   "description": "免費線上計算 IPv4 子網——從任何 CIDR 地址得出網路、廣播、網路掩碼、萬用字元、第一個和最後一個主機、可用主機數和 IP 類別，外加子網劃分檢視。",
-  "id": "/loona-dev-tools/zh-hant/ip-subnet-calculator/",
+  "id": "/zh-hant/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV→TSV変換ツール",
   "short_name": "CSV→TSV変換ツール",
   "description": "CSVをTSV（タブ区切り値）に変換：クォートされたフィールドの完全な解析、区切りとしてのタブ。無料のオンライン変換ツール。",
-  "id": "/loona-dev-tools/ja/csv-to-tsv/",
+  "id": "/ja/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

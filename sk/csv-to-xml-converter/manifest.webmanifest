@@ -2,7 +2,7 @@
   "name": "Prevodník Loona CSV na XML online zadarmo",
   "short_name": "Prevodník CSV na XML online",
   "description": "Preveďte CSV na XML online zadarmo s konfigurovateľnými názvami koreňového a riadkového prvku a správnym escapovaním XML. Bez registrácie, beží 100% vo vašom prehliadači.",
-  "id": "/loona-dev-tools/sk/csv-to-xml-converter/",
+  "id": "/sk/csv-to-xml-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

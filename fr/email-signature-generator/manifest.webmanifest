@@ -2,7 +2,7 @@
   "name": "Générateur de signatures d’e-mail HTML Loona en ligne gratuit",
   "short_name": "Signature d’e-mail HTML",
   "description": "Créez une signature d’e-mail HTML professionnelle en ligne et gratuitement - nom, titre, entreprise, téléphone, e-mail et site web dans un HTML de tableau sûr pour les e-mails qui fonctionne dans Gmail et Outlook. Sans inscription.",
-  "id": "/loona-dev-tools/fr/email-signature-generator/",
+  "id": "/fr/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Meta Tag जनरेटर ऑनलाइन मुफ़्त",
   "short_name": "Meta Tag जनरेटर ऑनलाइन मुफ़्त",
   "description": "HTML meta tags ऑनलाइन मुफ़्त generate करें — title, description, keywords, author, robots और canonical — एक live Google-style SERP preview और character counts के साथ। कोई साइन-अप नहीं।",
-  "id": "/loona-dev-tools/hi/meta-tag-generator/",
+  "id": "/hi/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

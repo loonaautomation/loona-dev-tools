@@ -2,7 +2,7 @@
   "name": "Loona TSV to CSV Converter",
   "short_name": "TSV to CSV Converter",
   "description": "Convert TSV (tab-separated values) to CSV: paste data copied from Excel or Sheets and get properly quoted CSV.",
-  "id": "/loona-dev-tools/tsv-to-csv/",
+  "id": "/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

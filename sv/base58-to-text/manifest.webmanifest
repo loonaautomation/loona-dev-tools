@@ -2,7 +2,7 @@
   "name": "Loona Base58 till text-avkodare",
   "short_name": "Base58 till text-avkodare",
   "description": "Avkoda Base58-strängar tillbaka till text (UTF-8). Validerar mot Bitcoin-alfabetet och rapporterar ogiltiga tecken.",
-  "id": "/loona-dev-tools/sv/base58-to-text/",
+  "id": "/sv/base58-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

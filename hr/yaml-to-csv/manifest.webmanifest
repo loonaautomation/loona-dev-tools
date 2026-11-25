@@ -2,7 +2,7 @@
   "name": "Loona pretvarač YAML u CSV",
   "short_name": "Pretvarač YAML u CSV",
   "description": "Pretvorite YAML popis objekata u CSV tablicu: unija ključeva kao stupci, ugniježđene vrijednosti serijalizirane kao JSON u njihovoj ćeliji.",
-  "id": "/loona-dev-tools/hr/yaml-to-csv/",
+  "id": "/hr/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

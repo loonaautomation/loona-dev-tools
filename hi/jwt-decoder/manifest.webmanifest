@@ -2,7 +2,7 @@
   "name": "Loona JWT डिकोडर ऑनलाइन मुफ़्त",
   "short_name": "JWT डिकोडर ऑनलाइन मुफ़्त",
   "description": "JSON Web Token ऑनलाइन मुफ़्त decode करें — header और payload को pretty JSON के रूप में पढ़ें और expiry सादे शब्दों में देखें। Signature verify नहीं हुआ। आपके ब्राउज़र में।",
-  "id": "/loona-dev-tools/hi/jwt-decoder/",
+  "id": "/hi/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

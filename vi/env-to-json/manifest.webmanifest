@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi .env sang JSON của Loona",
   "short_name": "Công cụ chuyển đổi .env sang JSON",
   "description": "Phân tích một tệp .env thành JSON: các dòng KEY=value, tiền tố export, bình luận và giá trị được trích dẫn được xử lý.",
-  "id": "/loona-dev-tools/vi/env-to-json/",
+  "id": "/vi/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

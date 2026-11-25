@@ -2,7 +2,7 @@
   "name": "Loona pretvarač TAR u ZIP na mreži besplatno",
   "short_name": "Pretvarač TAR u ZIP na mreži",
   "description": "Pretvorite TAR arhivu (.tar) u ZIP datoteku izravno u vašem pregledniku. TAR datoteke dolaze iz Linux i Unix sustava; pretvoreni ZIP izvorno se otvara na Windowsu, macOS-u i telefonima. Ništa se ne prenosi.",
-  "id": "/loona-dev-tools/hr/tar-to-zip-converter/",
+  "id": "/hr/tar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

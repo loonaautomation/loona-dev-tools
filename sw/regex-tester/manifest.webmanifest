@@ -2,7 +2,7 @@
   "name": "Loona Kijaribu cha Regex Bure Mtandaoni",
   "short_name": "Kijaribu cha Regex Bure Mtandaoni",
   "description": "Jaribu misemo ya kawaida mtandaoni bure kwa uangazaji wa ulinganifu wa moja kwa moja, maelezo ya makundi ya kunasa na hesabu ya ulinganifu. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/regex-tester/",
+  "id": "/sw/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

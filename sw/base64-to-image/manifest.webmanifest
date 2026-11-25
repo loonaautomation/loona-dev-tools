@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Base64 kwenda Picha",
   "short_name": "Kibadilishaji cha Base64 kwenda Picha",
   "description": "Simbua mfululizo wa Base64 au URI ya data kurudi kuwa picha inayoweza kuonekana, kupakuliwa. Aina ya MIME imegunduliwa kutoka baiti.",
-  "id": "/loona-dev-tools/sw/base64-to-image/",
+  "id": "/sw/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona TAR-filoppretter på nett gratis",
   "short_name": "TAR-filoppretter på nett gratis",
   "description": "Opprett et TAR-arkiv (.tar) fra flere filer rett i nettleseren din - en spesifikasjonskorrekt ustar-skriver, mappevalg, virkelige tidsstempler. Ingenting lastes opp; tarballen bygges på enheten din og åpnes med ethvert tar-verktøy.",
-  "id": "/loona-dev-tools/nb/tar-file-creator/",
+  "id": "/nb/tar-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

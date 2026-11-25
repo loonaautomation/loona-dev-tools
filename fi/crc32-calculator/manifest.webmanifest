@@ -2,7 +2,7 @@
   "name": "Loona CRC32-tarkistussummalaskin",
   "short_name": "CRC32-tarkistussummalaskuri",
   "description": "Laske tekstien tai tiedostojen CRC32-tiiviisteitä verkossa: 32-bittinen, 8 heksamerkkiä. Toimii paikallisesti selaimessasi WebCryptolla / puhtaalla JS:llä — tiedostoja ei koskaan lähetetä palvelimelle.",
-  "id": "/loona-dev-tools/fi/crc32-calculator/",
+  "id": "/fi/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

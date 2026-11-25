@@ -2,7 +2,7 @@
   "name": "Loona IP Alt Ağ Hesaplayıcı Çevrimiçi Ücretsiz",
   "short_name": "IP Alt Ağ Hesaplayıcı Çevrimiçi",
   "description": "IPv4 alt ağlarını çevrimiçi ücretsiz hesaplayın - herhangi bir CIDR adresinden ağ, yayın, ağ maskesi, wildcard, ilk ve son host, kullanılabilir host sayısı ve IP sınıfı, artı bir alt ağ bölme görünümü.",
-  "id": "/loona-dev-tools/tr/ip-subnet-calculator/",
+  "id": "/tr/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

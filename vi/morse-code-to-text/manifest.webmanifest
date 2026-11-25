@@ -2,7 +2,7 @@
   "name": "Trình dịch mã Morse sang văn bản của Loona",
   "short_name": "Trình dịch mã Morse sang văn bản",
   "description": "Giải mã mã Morse trở lại thành văn bản: dán các chấm và gạch (chữ cái phân tách bằng dấu cách, / giữa các từ) và đọc thông điệp.",
-  "id": "/loona-dev-tools/vi/morse-code-to-text/",
+  "id": "/vi/morse-code-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Slug-Generator (URL Slug Maker)",
   "short_name": "Slug-Generator (URL Slug",
   "description": "Generieren Sie saubere URL-Slugs aus Titeln: Akzente entfernt, Kleinschreibung, Leerzeichen zu Bindestrichen (oder Unterstrichen). Kostenloser Slug-Maker.",
-  "id": "/loona-dev-tools/de/slug-generator/",
+  "id": "/de/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

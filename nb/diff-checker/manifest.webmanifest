@@ -2,7 +2,7 @@
   "name": "Loona diff-sjekker på nett gratis",
   "short_name": "Diff-sjekker på nett gratis",
   "description": "Sammenlign to tekster på nett gratis med en linje-for-linje-diff: lagt til linjer i grønt, fjernede linjer i rødt, pluss et endringssammendrag. Ingen registrering, kjører 100 % i nettleseren din.",
-  "id": "/loona-dev-tools/nb/diff-checker/",
+  "id": "/nb/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

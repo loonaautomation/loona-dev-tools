@@ -2,7 +2,7 @@
   "name": "Loona UUID جنریٹر آن لائن مفت",
   "short_name": "UUID جنریٹر آن لائن مفت",
   "description": "بے ترتیب ورژن 4 UUIDs آن لائن مفت بنائیں - واحد یا بڑی تعداد میں 100 تک، بڑے حروف اور بغیر-ہائفن آپشنز۔ کرپٹوگرافی طور پر بے ترتیب، آپ کے براؤزر میں۔",
-  "id": "/loona-dev-tools/ur/uuid-generator/",
+  "id": "/ur/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

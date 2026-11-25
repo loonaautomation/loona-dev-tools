@@ -2,7 +2,7 @@
   "name": "Loona Konverter 7Z ke TAR",
   "short_name": "Konverter 7Z ke TAR",
   "description": "Konversi arsip 7Z ke TAR online: libarchive (WebAssembly) membaca 7Z, penulis ustar mengemasnya ulang. Privat dan lokal.",
-  "id": "/loona-dev-tools/id/7z-to-tar-converter/",
+  "id": "/id/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

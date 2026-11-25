@@ -2,7 +2,7 @@
   "name": "Loona Meta Tag Generator Online Free",
   "short_name": "Meta Tag Generator Online Free",
   "description": "Generate HTML meta tags online for free - title, description, keywords, author, robots and canonical - with a live Google-style SERP preview and character counts. No sign-up.",
-  "id": "/loona-dev-tools/meta-tag-generator/",
+  "id": "/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

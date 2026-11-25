@@ -2,7 +2,7 @@
   "name": "Генератор Loona JSON у схему JSON",
   "short_name": "Генератор JSON у схему JSON",
   "description": "Генеруйте схему JSON (проєкт 2020-12) зі зразка JSON: типи виведено, властивості об’єктів і обов’язкові ключі включено.",
-  "id": "/loona-dev-tools/uk/json-to-json-schema/",
+  "id": "/uk/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

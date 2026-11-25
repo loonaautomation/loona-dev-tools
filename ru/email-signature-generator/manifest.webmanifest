@@ -2,7 +2,7 @@
   "name": "Loona Генератор HTML-подписей для электронной почты онлайн бесплатно",
   "short_name": "Подпись для электронной почты HTML",
   "description": "Создайте профессиональную HTML-подпись для электронной почты онлайн бесплатно — имя, должность, компания, телефон, email и веб-сайт в безопасном для почты табличном HTML, который работает в Gmail и Outlook. Без регистрации.",
-  "id": "/loona-dev-tools/ru/email-signature-generator/",
+  "id": "/ru/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

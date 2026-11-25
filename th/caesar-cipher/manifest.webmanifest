@@ -2,7 +2,7 @@
   "name": "Loona ตัวเข้ารหัสและถอดรหัสรหัสซีซาร์",
   "short_name": "ตัวเข้ารหัสและถอดรหัสซีซาร์ &",
   "description": "รหัสซีซาร์ที่มีระยะเลื่อนใดก็ได้ (1–25) และโหมดถอดรหัส: รหัสแทนที่แบบคลาสสิกของ Julius Caesar ออนไลน์",
-  "id": "/loona-dev-tools/th/caesar-cipher/",
+  "id": "/th/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

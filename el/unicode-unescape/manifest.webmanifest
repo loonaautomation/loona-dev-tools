@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Αποδιαφυγής Unicode (Αποκωδικοποίηση \\uXXXX)",
   "short_name": "Μετατροπέας Αποδιαφυγής Unicode",
   "description": "Αποκωδικοποιήστε ακολουθίες διαφυγής Unicode (\\uXXXX, \\u{...}, \\xXX) πίσω σε πραγματικούς χαρακτήρες, συν διαφυγές \\n \\t και \\\\ .",
-  "id": "/loona-dev-tools/el/unicode-unescape/",
+  "id": "/el/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

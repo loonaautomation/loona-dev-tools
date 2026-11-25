@@ -2,7 +2,7 @@
   "name": "Loona Calcolatore di sottoreti IP online gratuito",
   "short_name": "Calcolatore di sottoreti IP online",
   "description": "Calcola sottoreti IPv4 online gratuitamente - rete, broadcast, netmask, wildcard, primo e ultimo host, conteggio host utilizzabili e classe IP da qualsiasi indirizzo CIDR, più una vista di divisione sottoreti.",
-  "id": "/loona-dev-tools/it/ip-subnet-calculator/",
+  "id": "/it/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

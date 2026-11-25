@@ -2,7 +2,7 @@
   "name": "Loona CRC32 校验和计算器",
   "short_name": "CRC32 校验和计算器",
   "description": "在线计算文本或文件的 CRC32 哈希：32 位，8 个十六进制字符。使用 WebCrypto/纯 JS 在您的浏览器中本地运行——文件从不上传。",
-  "id": "/loona-dev-tools/zh/crc32-calculator/",
+  "id": "/zh/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

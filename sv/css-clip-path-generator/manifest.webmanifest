@@ -2,7 +2,7 @@
   "name": "Loona CSS Clip-Path-generator online gratis",
   "short_name": "CSS Clip-Path-generator",
   "description": "Generera CSS clip-path online gratis - polygonförinställningar som stjärna, hexagon och pil med justerbara punkter, plus cirkel-, ellips- och inset-former, med en liveförhandsgranskning. Ingen registrering.",
-  "id": "/loona-dev-tools/sv/css-clip-path-generator/",
+  "id": "/sv/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

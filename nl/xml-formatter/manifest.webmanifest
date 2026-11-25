@@ -2,7 +2,7 @@
   "name": "Loona XML-formatter & validator online gratis",
   "short_name": "XML-formatter & validator",
   "description": "Maak XML online gratis op, verfraai, minificeer en valideer het - well-formedness-controle met gebalanceerde tags en duidelijke foutmeldingen, mooi afdrukken met inspringing. Geen registratie.",
-  "id": "/loona-dev-tools/nl/xml-formatter/",
+  "id": "/nl/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

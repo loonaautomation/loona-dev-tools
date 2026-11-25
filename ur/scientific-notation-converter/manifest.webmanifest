@@ -2,7 +2,7 @@
   "name": "Loona سائنسی اشارے کنورٹر",
   "short_name": "سائنسی اشارے کنورٹر",
   "description": "اعداد کو سائنسی نوٹیشن میں اور اس سے بدلیں: 3200000 ⇄ 3.2 × 10^6، E نوٹیشن دونوں طرف سپورٹ۔",
-  "id": "/loona-dev-tools/ur/scientific-notation-converter/",
+  "id": "/ur/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

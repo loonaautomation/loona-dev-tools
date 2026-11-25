@@ -2,7 +2,7 @@
   "name": "Loona Transpozycja CSV online za darmo",
   "short_name": "Transpozycja CSV online za darmo",
   "description": "Transponuj CSV online za darmo - zamieniaj wiersze i kolumny właściwym parserem RFC 4180, który poprawnie obsługuje pola w cudzysłowie. Bez rejestracji, działa w 100% w przeglądarce.",
-  "id": "/loona-dev-tools/pl/csv-transpose/",
+  "id": "/pl/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

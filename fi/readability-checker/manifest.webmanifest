@@ -2,7 +2,7 @@
   "name": "Loona SEO-luettavuuden tarkistin verkossa ilmaiseksi",
   "short_name": "SEO-luettavuuden tarkistin",
   "description": "Tarkista sisällön luettavuus SEO:a varten verkossa ilmaiseksi — Flesch-, Flesch-Kincaid-, Gunning Fog-, Coleman-Liau-, SMOG- ja ARI-pisteet sekä lausepituustilastot verkkotekstille. Ei rekisteröitymistä.",
-  "id": "/loona-dev-tools/fi/readability-checker/",
+  "id": "/fi/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

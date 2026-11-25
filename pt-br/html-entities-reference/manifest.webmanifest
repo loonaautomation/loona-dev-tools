@@ -2,7 +2,7 @@
   "name": "Loona Tabela de Referência de Entidades HTML",
   "short_name": "Tabela de Referência de Entidades HTML",
   "description": "A tabela essencial de entidades HTML: entidade nomeada, carácter, código decimal e notas de utilização para as entidades que os programadores realmente utilizam.",
-  "id": "/loona-dev-tools/pt-br/html-entities-reference/",
+  "id": "/pt-br/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

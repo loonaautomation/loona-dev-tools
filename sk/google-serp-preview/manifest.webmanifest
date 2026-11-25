@@ -2,7 +2,7 @@
   "name": "Nástroj Loona na náhľad Google SERP online zadarmo",
   "short_name": "Nástroj Náhľad Google SERP",
   "description": "Prezrite si, ako budú názov vašej stránky a meta popis vyzerať vo výsledkoch vyhľadávania Google online zadarmo, s pohľadmi pre počítače a mobily a varovaniami o skracovaní podľa šírky v pixeloch. Bez registrácie.",
-  "id": "/loona-dev-tools/sk/google-serp-preview/",
+  "id": "/sk/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

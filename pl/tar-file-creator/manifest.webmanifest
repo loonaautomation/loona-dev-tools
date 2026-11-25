@@ -2,7 +2,7 @@
   "name": "Loona Kreator plików TAR online za darmo",
   "short_name": "Kreator plików TAR online za darmo",
   "description": "Utwórz archiwum TAR (.tar) z wielu plików wprost w przeglądarce - zgodny ze specyfikacją zapisujący ustar, opcja folderu, prawdziwe znaczniki czasu. Nic nie jest przesyłane; tarball jest budowany na urządzeniu i otwiera się każdym narzędziem tar.",
-  "id": "/loona-dev-tools/pl/tar-file-creator/",
+  "id": "/pl/tar-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

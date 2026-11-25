@@ -2,7 +2,7 @@
   "name": "Extraktor souborů Loona ISO online zdarma",
   "short_name": "Extraktor souborů ISO online zdarma",
   "description": "Otevírejte obrazy disků ISO přímo ve svém prohlížeči - procházejte souborový systém uložený na virtuálním disku a stahujte jednotlivé soubory nebo vše jako ZIP. Nic se nenahrává.",
-  "id": "/loona-dev-tools/cs/iso-file-extractor/",
+  "id": "/cs/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

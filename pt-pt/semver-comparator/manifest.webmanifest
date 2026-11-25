@@ -2,7 +2,7 @@
   "name": "Loona Comparador de Versões Semânticas",
   "short_name": "Comparador de Versões Semânticas",
   "description": "Valide e compare versões semânticas (MAJOR.MINOR.PATCH): qual é mais recente, e que tipo de alteração as separa.",
-  "id": "/loona-dev-tools/pt-pt/semver-comparator/",
+  "id": "/pt-pt/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

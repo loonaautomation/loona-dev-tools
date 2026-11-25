@@ -2,7 +2,7 @@
   "name": "Loona Probador de JSONPath",
   "short_name": "Probador de JSONPath",
   "description": "Prueba expresiones JSONPath contra un documento JSON: notación de puntos, índices, comodines y descenso recursivo ($..key) admitidos.",
-  "id": "/loona-dev-tools/es/jsonpath-tester/",
+  "id": "/es/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Outil d’aperçu Loona Google SERP en ligne gratuit",
   "short_name": "Outil d’aperçu Google SERP",
   "description": "Prévisualisez l’apparence du titre de votre page et de votre méta-description dans les résultats de recherche Google en ligne et gratuitement, avec des vues bureau et mobile et des avertissements de troncature par largeur en pixels. Sans inscription.",
-  "id": "/loona-dev-tools/fr/google-serp-preview/",
+  "id": "/fr/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

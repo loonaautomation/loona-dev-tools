@@ -2,7 +2,7 @@
   "name": "Loona Kifinyaji cha CSS Bure Mtandaoni",
   "short_name": "Kifinyaji cha CSS Bure Mtandaoni",
   "description": "Finya CSS mtandaoni bure na uone hasa inakuwa ndogo kiasi gani, au pamba CSS iliyofinywa irudi kuwa msimbo unaosomeka. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/css-minifier/",
+  "id": "/sw/css-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

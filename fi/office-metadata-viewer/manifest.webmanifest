@@ -2,7 +2,7 @@
   "name": "Loona Office-dokumenttien metatietojen katselin verkossa",
   "short_name": "Office-dokumenttien metatiedot",
   "description": "Katso Office-asiakirjojen metatietoja verkossa ilmaiseksi - otsikko, tekijä, yritys, luonti- ja muokkauspäivämäärät, sovellus ja versio .docx-, .xlsx- ja .pptx-tiedostoille. Vain katselu, mitään ei lähetetä.",
-  "id": "/loona-dev-tools/fi/office-metadata-viewer/",
+  "id": "/fi/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

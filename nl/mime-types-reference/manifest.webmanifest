@@ -2,7 +2,7 @@
   "name": "Loona referentie van MIME-typen (Content Types per",
   "short_name": "Referentie van MIME-typen (Content",
   "description": "Gangbare MIME-typen per bestandsextensie: documenten, afbeeldingen, audio, video, archieven, lettertypen en webformaten met hun Content-Type-waarden.",
-  "id": "/loona-dev-tools/nl/mime-types-reference/",
+  "id": "/nl/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

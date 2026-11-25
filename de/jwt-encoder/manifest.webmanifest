@@ -2,7 +2,7 @@
   "name": "Loona JWT-Encoder (HS256-Signierer)",
   "short_name": "JWT-Encoder (HS256-Signierer)",
   "description": "Erstellen und signieren Sie JSON Web Tokens mit HS256 in Ihrem Browser: Payload-JSON plus ein Geheimnis, oder alg=none. WebCrypto-Signierung.",
-  "id": "/loona-dev-tools/de/jwt-encoder/",
+  "id": "/de/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

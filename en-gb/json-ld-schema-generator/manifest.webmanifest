@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/json-ld-schema-generator/",
+  "id": "/en-gb/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

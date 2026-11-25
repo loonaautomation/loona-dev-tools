@@ -2,7 +2,7 @@
   "name": "Convertizor JSON în structuri Go Loona",
   "short_name": "Convertizor JSON în structuri Go",
   "description": "Convertește JSON în definiții de structuri Go cu etichete json: int64/float64 deosebite, omitempty pentru cheile lipsă în unele elemente ale tabloului.",
-  "id": "/loona-dev-tools/ro/json-to-go-struct/",
+  "id": "/ro/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

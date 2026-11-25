@@ -2,7 +2,7 @@
   "name": "Loona Codificatore di cifrario A1Z26 (da lettere a numeri)",
   "short_name": "Codificatore di cifrario A1Z26 (Lettere",
   "description": "Codifica testo con il cifrario A1Z26: A=1, B=2 ... Z=26. Il classico codice da puzzle ed escape room.",
-  "id": "/loona-dev-tools/it/a1z26-cipher-encoder/",
+  "id": "/it/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

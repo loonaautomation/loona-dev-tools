@@ -2,7 +2,7 @@
   "name": "Loona Ekstraktor danych CSV online za darmo",
   "short_name": "Ekstraktor danych CSV online za darmo",
   "description": "Wyodrębniaj adresy e-mail, numery telefonów i adresy URL z nieuporządkowanych plików CSV lub dowolnego tekstu online za darmo - wyczyszczone, zdeduplikowane listy, które możesz pobrać. Bez rejestracji, działa w przeglądarce.",
-  "id": "/loona-dev-tools/pl/csv-data-extractor/",
+  "id": "/pl/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona pretvarač CSV u Markdown tablicu na mreži",
   "short_name": "CSV u Markdown tablicu",
   "description": "Pretvorite CSV u Markdown tablicu na mreži besplatno - numerički stupci automatski poravnati udesno, a znakovi okomite crte ispravno escapirani. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/csv-to-markdown-converter/",
+  "id": "/hr/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

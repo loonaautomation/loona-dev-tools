@@ -2,7 +2,7 @@
   "name": "בודק צפיפות מילות מפתח של Loona מקוון בחינם",
   "short_name": "בודק צפיפות מילות מפתח",
   "description": "בדקו צפיפות מילות מפתח באופן מקוון בחינם - מילים בודדות מובילות בתוספת ביטויים של 2 מילים ו-3 מילים עם ספירות וצפיפות באחוזים, כולל סינון מילות עצירה. בלי הרשמה.",
-  "id": "/loona-dev-tools/he/keyword-density-checker/",
+  "id": "/he/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

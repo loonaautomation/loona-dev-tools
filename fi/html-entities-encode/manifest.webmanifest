@@ -2,7 +2,7 @@
   "name": "Loona HTML-entiteettikooderi",
   "short_name": "HTML-entiteettikooderi",
   "description": "Koodaa erikoismerkkejä HTML-entiteeteiksi: nimetyt (&copy;), desimaali- tai heksanumeeriset viittaukset. Pakottaa merkinnän, lainausmerkit ja ei-ASCII-tekstin.",
-  "id": "/loona-dev-tools/fi/html-entities-encode/",
+  "id": "/fi/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

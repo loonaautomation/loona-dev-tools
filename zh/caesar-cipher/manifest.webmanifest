@@ -2,7 +2,7 @@
   "name": "Loona 凯撒密码编码器与解码器",
   "short_name": "凯撒密码编码器与",
   "description": "带任意移位（1–25）和解码模式的凯撒密码：尤利乌斯·凯撒的经典替换密码，在线使用。",
-  "id": "/loona-dev-tools/zh/caesar-cipher/",
+  "id": "/zh/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

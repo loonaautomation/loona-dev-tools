@@ -2,7 +2,7 @@
   "name": "Loona JWT ডিকোডার অনলাইন বিনামূল্যে",
   "short_name": "JWT ডিকোডার অনলাইন বিনামূল্যে",
   "description": "বিনামূল্যে অনলাইনে একটি JSON Web Token ডিকোড করুন - হেডার ও পেলোড সুন্দর JSON হিসেবে পড়ুন এবং মেয়াদ সরল ভাষায় দেখুন। স্বাক্ষর যাচাই করা হয় না। আপনার ব্রাউজারে।",
-  "id": "/loona-dev-tools/bn/jwt-decoder/",
+  "id": "/bn/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

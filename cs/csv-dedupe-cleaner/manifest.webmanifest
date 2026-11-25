@@ -2,7 +2,7 @@
   "name": "Čistič a odstraňovač duplicit Loona CSV online zdarma",
   "short_name": "Čistič a odstraňovač duplicit CSV online",
   "description": "Odstraňujte duplicitní řádky z CSV online zdarma - podle celého řádku nebo podle klíčových sloupců - plus ořezávání bílých znaků, zahazování prázdných řádků a normalizace konců řádků, s počty před/po. Bez registrace.",
-  "id": "/loona-dev-tools/cs/csv-dedupe-cleaner/",
+  "id": "/cs/csv-dedupe-cleaner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

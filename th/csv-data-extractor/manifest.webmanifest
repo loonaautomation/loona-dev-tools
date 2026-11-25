@@ -2,7 +2,7 @@
   "name": "Loona ตัวดึงข้อมูล CSV ออนไลน์ฟรี",
   "short_name": "ตัวดึงข้อมูล CSV ออนไลน์ฟรี",
   "description": "ดึงที่อยู่อีเมล เบอร์โทรศัพท์ และ URL จากไฟล์ CSV ที่ยุ่งเหยิงหรือข้อความใด ๆ ออนไลน์ฟรี - รายการที่ล้างและลบซ้ำแล้วซึ่งคุณดาวน์โหลดได้ ไม่ต้องสมัครสมาชิก ทำงานในเบราว์เซอร์ของคุณ",
-  "id": "/loona-dev-tools/th/csv-data-extractor/",
+  "id": "/th/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

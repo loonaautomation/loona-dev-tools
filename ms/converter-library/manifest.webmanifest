@@ -2,7 +2,7 @@
   "name": "Loona Pustaka Penukar & Penjana",
   "short_name": "Pustaka Penukar & Penjana",
   "description": "Indeks semua penukar dan penjana Loona Developer Tools: encoding, format data, hash, warna, arkib, penjana kode, dan referensi.",
-  "id": "/loona-dev-tools/ms/converter-library/",
+  "id": "/ms/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

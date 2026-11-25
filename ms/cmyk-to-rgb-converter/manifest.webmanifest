@@ -2,7 +2,7 @@
   "name": "Loona Penukar CMYK ke RGB",
   "short_name": "Penukar CMYK ke RGB",
   "description": "Penukaran warna dari CMYK ke RGB dalam talian, dengan contoh warna langsung dan semua format lain (HEX, RGB, HSL, HSV, CMYK) juga dipaparkan.",
-  "id": "/loona-dev-tools/ms/cmyk-to-rgb-converter/",
+  "id": "/ms/cmyk-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

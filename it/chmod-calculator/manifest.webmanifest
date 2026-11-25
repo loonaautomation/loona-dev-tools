@@ -2,7 +2,7 @@
   "name": "Loona Calcolatore Chmod online gratuito",
   "short_name": "Calcolatore Chmod online gratuito",
   "description": "Calcola i permessi chmod online gratuitamente: caselle di controllo in ottale (755) e simbolico (rwxr-xr-x), e ottale di nuovo in permessi. Nessuna registrazione, funziona al 100% nel tuo browser.",
-  "id": "/loona-dev-tools/it/chmod-calculator/",
+  "id": "/it/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

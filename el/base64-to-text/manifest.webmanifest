@@ -2,7 +2,7 @@
   "name": "Loona Αποκωδικοποιητής Base64 σε Κείμενο",
   "short_name": "Αποκωδικοποιητής Base64 σε Κείμενο",
   "description": "Αποκωδικοποιήστε Base64 πίσω σε αναγνώσιμο κείμενο διαδικτυακά. Χειρίζεται τυπικά και ασφαλή για URL αλφάβητα, κείμενο UTF-8 σε οποιαδήποτε γλώσσα. Δωρεάν και ιδιωτικό.",
-  "id": "/loona-dev-tools/el/base64-to-text/",
+  "id": "/el/base64-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

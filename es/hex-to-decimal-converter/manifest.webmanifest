@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de hexadecimal a decimal",
   "short_name": "De hexadecimal a decimal",
   "description": "Convierte números hexadecimales a decimal en línea: precisión arbitraria (BigInt), números negativos admitidos.",
-  "id": "/loona-dev-tools/es/hex-to-decimal-converter/",
+  "id": "/es/hex-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

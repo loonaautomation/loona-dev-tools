@@ -2,7 +2,7 @@
   "name": "Loona JSON til Go Struct-konverter",
   "short_name": "JSON til Go Struct-konverter",
   "description": "Konvertér JSON til Go-struct-definitioner med json-tags: int64/float64 skelnes, omitempty til nøgler, der mangler i nogle array-elementer.",
-  "id": "/loona-dev-tools/da/json-to-go-struct/",
+  "id": "/da/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

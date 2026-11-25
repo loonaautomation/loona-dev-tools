@@ -2,7 +2,7 @@
   "name": "Loona izdvajanje RAR datoteka na mreži besplatno",
   "short_name": "Izdvajanje RAR datoteka na mreži besplatno",
   "description": "Otvorite RAR datoteke (RAR4 i RAR5) izravno u pregledniku - pogledajte svaku datoteku unutra, preuzmite pojedinačne datoteke ili sve kao ZIP. Ništa se ne prenosi; izdvajanje se događa na vašem uređaju.",
-  "id": "/loona-dev-tools/hr/rar-file-extractor/",
+  "id": "/hr/rar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV-ből TSV-be átalakító",
   "short_name": "CSV–TSV átalakító",
   "description": "Alakítson CSV-t TSV-vé (tabulátorral elválasztott értékek): teljes idézettmező-elemzés, tabulátorok elválasztóként. Ingyenes online átalakító.",
-  "id": "/loona-dev-tools/hu/csv-to-tsv/",
+  "id": "/hu/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวเลขเป็นเลขโรมัน",
   "short_name": "ตัวเลขเป็นเลขโรมัน",
   "description": "แปลงตัวเลข (1–3999) เป็นเลขโรมันในรูปแบบการลบมาตรฐาน ตัวแปลงออนไลน์ฟรี",
-  "id": "/loona-dev-tools/th/number-to-roman-numerals/",
+  "id": "/th/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

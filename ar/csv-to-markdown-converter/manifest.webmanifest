@@ -2,7 +2,7 @@
   "name": "Loona محوّل CSV إلى جدول Markdown عبر الإنترنت",
   "short_name": "CSV إلى جدول Markdown",
   "description": "حوّل CSV إلى جدول Markdown عبر الإنترنت مجاناً - أعمدة رقمية محاذاة تلقائياً لليمين وأحرف الخط العمودي مهرّبة بشكل صحيح. دون تسجيل، يعمل 100% في متصفحك.",
-  "id": "/loona-dev-tools/ar/csv-to-markdown-converter/",
+  "id": "/ar/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

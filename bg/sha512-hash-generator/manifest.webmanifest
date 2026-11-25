@@ -2,7 +2,7 @@
   "name": "Генератор на SHA-512 хешове на Loona",
   "short_name": "Генератор на SHA-512 хешове",
   "description": "Изчислявайте онлайн хешове SHA-512 на текст или файлове: 512-битови, 128 шестнадесетични символа. Работи локално в браузъра ви с WebCrypto/чист JS — файловете никога не се качват.",
-  "id": "/loona-dev-tools/bg/sha512-hash-generator/",
+  "id": "/bg/sha512-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

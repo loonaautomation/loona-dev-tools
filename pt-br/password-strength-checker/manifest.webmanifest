@@ -2,7 +2,7 @@
   "name": "Loona Verificador de Força da Senha Online Grátis",
   "short_name": "Verificador de Força de Senhas",
   "description": "Verifique a força da senha online grátis com uma estimativa de entropia transparente, feedback específico e uma estimativa de tempo de quebra. A senha nunca sai do seu navegador - nada é enviado nem salvo.",
-  "id": "/loona-dev-tools/pt-br/password-strength-checker/",
+  "id": "/pt-br/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

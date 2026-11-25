@@ -2,7 +2,7 @@
   "name": "Loona منشئ ظل صندوق CSS عبر الإنترنت مجاناً",
   "short_name": "منشئ ظل صندوق CSS",
   "description": "أنشئ ظل صندوق CSS عبر الإنترنت مجاناً - طبقات ظل متعددة، ظلال داخلية، تحكّم في اللون والعتامة، مع معاينة حية وCSS جاهز. دون تسجيل، يعمل في متصفحك.",
-  "id": "/loona-dev-tools/ar/css-box-shadow-generator/",
+  "id": "/ar/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

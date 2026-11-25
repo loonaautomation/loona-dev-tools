@@ -2,7 +2,7 @@
   "name": "Loona CSV kimutatás és csoportosítás online ingyen",
   "short_name": "CSV kimutatás és csoportosítás online",
   "description": "CSV adatok kimutatása online ingyen - csoportosítsa a sorokat bármely oszlop szerint, és számítsa ki egy értékoszlop összegét, darabszámát, átlagát, minimumát vagy maximumát. Nincs regisztráció, 100%-ban a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/csv-pivot-group-by/",
+  "id": "/hu/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

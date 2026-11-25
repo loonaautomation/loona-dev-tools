@@ -2,7 +2,7 @@
   "name": "Loona HSL-ből HEX-be átalakító",
   "short_name": "HSL–HEX átalakító",
   "description": "Alakítson színeket HSL-ből HEX-szé online, élő színmintával, és az összes többi formátummal (HEX, RGB, HSL, HSV, CMYK) is megjelenítve.",
-  "id": "/loona-dev-tools/hu/hsl-to-hex-converter/",
+  "id": "/hu/hsl-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

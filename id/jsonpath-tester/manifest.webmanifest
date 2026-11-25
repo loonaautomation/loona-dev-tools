@@ -2,7 +2,7 @@
   "name": "Loona Penguji JSONPath",
   "short_name": "Penguji JSONPath",
   "description": "Uji ekspresi JSONPath terhadap dokumen JSON: notasi titik, indeks, wildcard, dan descent rekursif ($..key) didukung.",
-  "id": "/loona-dev-tools/id/jsonpath-tester/",
+  "id": "/id/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

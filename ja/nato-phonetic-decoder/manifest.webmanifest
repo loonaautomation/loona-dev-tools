@@ -2,7 +2,7 @@
   "name": "Loona NATOフォネティックアルファベットデコーダー",
   "short_name": "NATOフォネティックアルファベットデコーダー",
   "description": "NATOフォネティックの単語（Alfa、Bravo、Charlie...）を、通常の文字と数字にデコードして戻します。",
-  "id": "/loona-dev-tools/ja/nato-phonetic-decoder/",
+  "id": "/ja/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

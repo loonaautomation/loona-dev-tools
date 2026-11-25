@@ -2,7 +2,7 @@
   "name": "Loona 二進数→十進数変換ツール",
   "short_name": "二進数→十進数変換ツール",
   "description": "二進数を十進数にオンライン変換 — 任意精度（BigInt）、負の数に対応。",
-  "id": "/loona-dev-tools/ja/binary-to-decimal-converter/",
+  "id": "/ja/binary-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

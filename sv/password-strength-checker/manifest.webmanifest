@@ -2,7 +2,7 @@
   "name": "Loona Lösenordsstyrkekontroll online gratis",
   "short_name": "Lösenordsstyrkekontroll",
   "description": "Kontrollera lösenordsstyrka online gratis med en transparent entropiuppskattning, specifik återkoppling och en krackningstidsuppskattning. Lösenordet lämnar aldrig din webbläsare - ingenting skickas eller lagras.",
-  "id": "/loona-dev-tools/sv/password-strength-checker/",
+  "id": "/sv/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

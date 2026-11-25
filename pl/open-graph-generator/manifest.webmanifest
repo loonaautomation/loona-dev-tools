@@ -2,7 +2,7 @@
   "name": "Loona Generator Open Graph i Twitter Card",
   "short_name": "Open Graph i Twitter Card",
   "description": "Generuj metatagi Open Graph i Twitter Card online za darmo, z podglądem karty społecznościowej na żywo - tytuł, opis, obraz, URL i nazwa witryny. Bez rejestracji, działa w przeglądarce.",
-  "id": "/loona-dev-tools/pl/open-graph-generator/",
+  "id": "/pl/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

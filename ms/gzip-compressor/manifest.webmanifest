@@ -2,7 +2,7 @@
   "name": "Loona Kompresor GZIP Dalam Talian Percuma",
   "short_name": "Kompresor GZIP Dalam Talian Percuma",
   "description": "Kompres fail tunggal apa pun menjadi .gz menggunakan enjin gzip bawaan pelayar Anda. Saiz sebelum/selepas seketika, tidak ada yang dimuat naik - fail dimampatan di peranti Anda. Berfungsi untuk log, CSV, fail TAR, dan lain-lain.",
-  "id": "/loona-dev-tools/ms/gzip-compressor/",
+  "id": "/ms/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

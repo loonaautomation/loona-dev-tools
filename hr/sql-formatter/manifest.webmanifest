@@ -2,7 +2,7 @@
   "name": "Loona formatiranje SQL-a na mreži besplatno",
   "short_name": "Formatiranje SQL-a na mreži besplatno",
   "description": "Formatirajte SQL na mreži besplatno: ključne riječi velikim slovima, klauzule SELECT, FROM, WHERE i JOIN u vlastitim retcima, nizovi sačuvani. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/sql-formatter/",
+  "id": "/hr/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

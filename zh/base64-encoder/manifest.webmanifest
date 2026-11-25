@@ -2,7 +2,7 @@
   "name": "Loona Base64 编码器与解码器 在线免费",
   "short_name": "Base64 编码器与解码器",
   "description": "把文本或文件编码为 Base64 并把 Base64 解码回来，对任何语言和 emoji 都 UTF-8 安全，带 URL 安全选项。免费，无需注册，在您的浏览器中完成。",
-  "id": "/loona-dev-tools/zh/base64-encoder/",
+  "id": "/zh/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

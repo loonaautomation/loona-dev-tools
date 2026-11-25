@@ -2,7 +2,7 @@
   "name": "Loona Punycode dekódoló (xn-- Unicode domainné)",
   "short_name": "Punycode dekódoló (xn-- ebből:",
   "description": "Dekódolja az xn-- punycode domaineket vissza az Unicode formájukra — ellenőrizze, mit mond valójában egy nemzetköziesített domain.",
-  "id": "/loona-dev-tools/hu/punycode-decode/",
+  "id": "/hu/punycode-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

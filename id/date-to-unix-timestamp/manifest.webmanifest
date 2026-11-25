@@ -2,7 +2,7 @@
   "name": "Loona Konverter Tanggal ke Timestamp Unix",
   "short_name": "Tanggal ke Timestamp Unix",
   "description": "Konversi tanggal dan waktu ke timestamp Unix-nya dalam detik dan milidetik, dalam UTC atau zona waktu lokal Anda.",
-  "id": "/loona-dev-tools/id/date-to-unix-timestamp/",
+  "id": "/id/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

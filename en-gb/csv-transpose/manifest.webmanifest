@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/csv-transpose/",
+  "id": "/en-gb/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

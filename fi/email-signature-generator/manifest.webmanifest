@@ -2,7 +2,7 @@
   "name": "Loona HTML-sähköpostiallekirjoitusgeneraattori verkossa ilmaiseksi",
   "short_name": "HTML-sähköpostiallekirjoitus",
   "description": "Luo ammattimainen HTML-sähköpostiallekirjoitus verkossa ilmaiseksi — nimi, nimike, yritys, puhelin, sähköposti ja verkkosivusto sähköpostiturvallisena taulukko-HTML:nä, joka toimii Gmailissa ja Outlookissa. Ei rekisteröitymistä.",
-  "id": "/loona-dev-tools/fi/email-signature-generator/",
+  "id": "/fi/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας TAR.GZ σε TAR",
   "short_name": "Μετατροπέας TAR.GZ σε TAR",
   "description": "Αφαιρέστε το στρώμα gzip από μια αρχειοθήκη .tar.gz / .tgz για να πάρετε το απλό TAR, διαδικτυακά και τοπικά — δεν χρειάζονται εργαλεία εξαγωγής.",
-  "id": "/loona-dev-tools/el/tar-gz-to-tar-converter/",
+  "id": "/el/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

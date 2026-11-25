@@ -2,7 +2,7 @@
   "name": "Loona SEO Readability Checker - Six Scores for Web Copy",
   "short_name": "SEO Readability Checker - Six Scores for Web Copy",
   "description": "Check content readability for SEO online for free - Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG and ARI scores plus sentence-length stats for web copy. No sign-up.",
-  "id": "/loona-dev-tools/en-us/readability-checker/",
+  "id": "/en-us/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

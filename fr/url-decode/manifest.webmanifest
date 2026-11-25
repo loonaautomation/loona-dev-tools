@@ -2,7 +2,7 @@
   "name": "Décodage d’URL Loona (décodage en pourcentage)",
   "short_name": "Décodage d’URL (décodage en pourcentage)",
   "description": "Décodez les URL et les chaînes de requête encodées en pourcentage en texte lisible, y compris les séquences UTF-8 et le + comme espace. Décodeur en ligne gratuit.",
-  "id": "/loona-dev-tools/fr/url-decode/",
+  "id": "/fr/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

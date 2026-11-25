@@ -2,7 +2,7 @@
   "name": "Loona الأرقام الرومانية إلى الأرقام",
   "short_name": "الأرقام الرومانية إلى أرقام",
   "description": "حوّل الأرقام الرومانية إلى أرقام (1–3999)، مع تحقق صارم من الترميز الطرحي (IV، IX، XL، CM).",
-  "id": "/loona-dev-tools/ar/roman-numerals-converter/",
+  "id": "/ar/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

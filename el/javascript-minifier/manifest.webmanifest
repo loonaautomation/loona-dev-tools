@@ -2,7 +2,7 @@
   "name": "Loona Συμπιεστής JavaScript Διαδικτυακά Δωρεάν",
   "short_name": "Συμπιεστής JavaScript Διαδικτυακά",
   "description": "Συμπιέστε JavaScript διαδικτυακά δωρεάν με έναν συντηρητικό tokenizer που προστατεύει συμβολοσειρές, κυριολεκτικά προτύπων και κανονικές εκφράσεις. Χωρίς εγγραφή, τρέχει 100% στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-dev-tools/el/javascript-minifier/",
+  "id": "/el/javascript-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

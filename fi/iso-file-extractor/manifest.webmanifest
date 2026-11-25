@@ -2,7 +2,7 @@
   "name": "Loona ISO-tiedostopurkaja verkossa ilmaiseksi",
   "short_name": "ISO-tiedostopurkaja verkossa ilmaiseksi",
   "description": "Avaa ISO-levyimaget suoraan selaimessasi - selaa virtuaalilevylle tallennettua tiedostojärjestelmää ja lataa yksittäisiä tiedostoja tai kaikki ZIPinä. Mitään ei lähetetä palvelimelle.",
-  "id": "/loona-dev-tools/fi/iso-file-extractor/",
+  "id": "/fi/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

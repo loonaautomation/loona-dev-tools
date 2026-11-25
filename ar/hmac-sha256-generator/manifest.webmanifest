@@ -2,7 +2,7 @@
   "name": "Loona منشئ HMAC-SHA256",
   "short_name": "منشئ HMAC-SHA256",
   "description": "أنشئ توقيعات HMAC-SHA256 عبر الإنترنت: أدخل مفتاحاً ورسالة، واحصل على MAC السداسي العشري. WebCrypto، محلي بالكامل.",
-  "id": "/loona-dev-tools/ar/hmac-sha256-generator/",
+  "id": "/ar/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

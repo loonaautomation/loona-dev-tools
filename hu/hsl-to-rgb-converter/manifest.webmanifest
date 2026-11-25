@@ -2,7 +2,7 @@
   "name": "Loona HSL-ből RGB-be átalakító",
   "short_name": "HSL–RGB átalakító",
   "description": "Alakítson színeket HSL-ből RGB-vé online, élő színmintával, és az összes többi formátummal (HEX, RGB, HSL, HSV, CMYK) is megjelenítve.",
-  "id": "/loona-dev-tools/hu/hsl-to-rgb-converter/",
+  "id": "/hu/hsl-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

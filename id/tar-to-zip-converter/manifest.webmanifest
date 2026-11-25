@@ -2,7 +2,7 @@
   "name": "Loona Konverter TAR ke ZIP Online Gratis",
   "short_name": "Konverter TAR ke ZIP Online",
   "description": "Konversi arsip TAR (.tar) menjadi file ZIP langsung di browser Anda. File TAR berasal dari sistem Linux dan Unix; ZIP yang dikonversi terbuka secara bawaan di Windows, macOS, dan ponsel. Tidak ada yang diunggah.",
-  "id": "/loona-dev-tools/id/tar-to-zip-converter/",
+  "id": "/id/tar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

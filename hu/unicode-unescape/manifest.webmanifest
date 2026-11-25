@@ -2,7 +2,7 @@
   "name": "Loona Unicode unescape átalakító (\\uXXXX dekódolása)",
   "short_name": "Unicode visszaalakító átalakító",
   "description": "Dekódolja a Unicode escape sorozatokat (\\uXXXX, \\u{...}, \\xXX) vissza valódi karakterekké, plusz a \\n \\t és a \\\\ escape-eket.",
-  "id": "/loona-dev-tools/hu/unicode-unescape/",
+  "id": "/hu/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

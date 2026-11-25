@@ -2,7 +2,7 @@
   "name": "Loona فاكّ Quoted-Printable",
   "short_name": "فاكّ Quoted-Printable",
   "description": "فكّ نص quoted-printable ‏(MIME) عودة إلى UTF-8 قابل للقراءة: تهريبات =XX وفواصل الأسطر الخفيفة معالجة حسب RFC 2045.",
-  "id": "/loona-dev-tools/ar/quoted-printable-decode/",
+  "id": "/ar/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

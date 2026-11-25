@@ -2,7 +2,7 @@
   "name": "Loona JSON-ból CSV-be átalakító online ingyen",
   "short_name": "JSON-ból CSV-be átalakító online",
   "description": "Alakítson egy objektumokból álló JSON tömböt CSV-vé online ingyen: a kulcsok uniója oszlopokként, helyes idézés és escape-elés, a beágyazott értékek JSON-ként tartva. Regisztráció nélkül, 100%-ban a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/json-to-csv-converter/",
+  "id": "/hu/json-to-csv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

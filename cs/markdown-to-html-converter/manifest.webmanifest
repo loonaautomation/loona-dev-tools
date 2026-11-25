@@ -2,7 +2,7 @@
   "name": "Převodník Loona Markdown na HTML online zdarma",
   "short_name": "Převodník Markdown na HTML",
   "description": "Převádějte Markdown na HTML online zdarma - nadpisy, tučné, kurzíva, odkazy, obrázky, seznamy, citace, bloky kódu a další, s živým vykresleným náhledem. Bez registrace.",
-  "id": "/loona-dev-tools/cs/markdown-to-html-converter/",
+  "id": "/cs/markdown-to-html-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

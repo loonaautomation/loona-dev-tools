@@ -2,7 +2,7 @@
   "name": "Minifikátor Loona HTML",
   "short_name": "Minifikátor HTML",
   "description": "Minifikujte HTML online: odstráňte komentáre a zbaľte medzery, pričom chránite obsahy pre, textarea, script a style.",
-  "id": "/loona-dev-tools/sk/html-minifier/",
+  "id": "/sk/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

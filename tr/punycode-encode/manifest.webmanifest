@@ -2,7 +2,7 @@
   "name": "Loona Punycode Kodlayıcı (IDN Alan Adı Dönüştürücü)",
   "short_name": "Punycode Kodlayıcı (IDN Alan Adı",
   "description": "Uluslararasılaştırılmış alan adlarını (IDN) punycode xn-- biçimine dönüştürün: bücher.example, xn--bcher-kva.example olur. Etiket başına kodlama.",
-  "id": "/loona-dev-tools/tr/punycode-encode/",
+  "id": "/tr/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Base32 转文本解码器",
   "short_name": "Base32 转文本解码器",
   "description": "把 Base32（RFC 4648）解码回文本——不区分大小写，填充可选。恢复 TOTP 风格的编码字符串。",
-  "id": "/loona-dev-tools/zh/base32-to-text/",
+  "id": "/zh/base32-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

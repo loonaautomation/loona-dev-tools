@@ -2,7 +2,7 @@
   "name": "Loona ZIP-filopretter online gratis",
   "short_name": "ZIP-filopretter online gratis",
   "description": "Opret en ZIP-fil ud fra flere filer direkte i din browser – tilføj filer, navngiv arkivet og download én .zip. Intet uploades; alt bliver på din enhed.",
-  "id": "/loona-dev-tools/da/zip-file-creator/",
+  "id": "/da/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

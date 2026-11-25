@@ -2,7 +2,7 @@
   "name": "Loona pretvarač CSV u XML na mreži besplatno",
   "short_name": "Pretvarač CSV u XML na mreži",
   "description": "Pretvorite CSV u XML na mreži besplatno s podesivim nazivima korijenskog i rednog elementa i ispravnim XML escapeom. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/csv-to-xml-converter/",
+  "id": "/hr/csv-to-xml-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

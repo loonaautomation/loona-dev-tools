@@ -2,7 +2,7 @@
   "name": "Loona A1Z26-Chiffre-Decoder (Zahlen zu Buchstaben)",
   "short_name": "A1Z26-Chiffre-Decoder (Zahlen",
   "description": "Decodieren Sie A1Z26-Zahlencodes zurück zu Buchstaben: 1=A, 2=B ... 26=Z. Durch Bindestrich, Komma oder Leerzeichen getrennt.",
-  "id": "/loona-dev-tools/de/a1z26-cipher-decoder/",
+  "id": "/de/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

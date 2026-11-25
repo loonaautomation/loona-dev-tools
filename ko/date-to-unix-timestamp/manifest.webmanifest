@@ -2,7 +2,7 @@
   "name": "Loona 날짜를 Unix 타임스탬프로 변환",
   "short_name": "날짜를 Unix 타임스탬프로",
   "description": "날짜와 시간을 초와 밀리초 단위 Unix 타임스탬프로 변환해요, UTC 또는 로컬 시간대로요.",
-  "id": "/loona-dev-tools/ko/date-to-unix-timestamp/",
+  "id": "/ko/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

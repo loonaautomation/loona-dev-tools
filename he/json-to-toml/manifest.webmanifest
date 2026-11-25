@@ -2,7 +2,7 @@
   "name": "ממיר Loona JSON ל-TOML",
   "short_name": "ממיר JSON ל-TOML",
   "description": "המירו JSON ל-TOML באופן מקוון: סקלרים קודם, אובייקטים מקוננים כ-[tables], מערכים של אובייקטים כ-[[tables]].",
-  "id": "/loona-dev-tools/he/json-to-toml/",
+  "id": "/he/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

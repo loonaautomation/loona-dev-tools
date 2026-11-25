@@ -2,7 +2,7 @@
   "name": "Loona XML 축소기",
   "short_name": "XML 축소기",
   "description": "XML을 온라인에서 축소해요: 주석과 태그 사이의 공백을 제거해 하나의 간결한 줄로 만들어요.",
-  "id": "/loona-dev-tools/ko/xml-minifier/",
+  "id": "/ko/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

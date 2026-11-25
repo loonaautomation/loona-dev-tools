@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de desescape Unicode (decodificar \\uXXXX)",
   "short_name": "Convertidor de desescape Unicode",
   "description": "Decodifica secuencias de escape Unicode (\\uXXXX, \\u{...}, \\xXX) de vuelta a caracteres reales, más los escapes \\n \\t y \\\\ .",
-  "id": "/loona-dev-tools/es/unicode-unescape/",
+  "id": "/es/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Jedwali la Markdown kwenda CSV",
   "short_name": "Jedwali la Markdown kwenda CSV",
   "description": "Badilisha jedwali la Markdown kuwa CSV: kichwa na safu mlalo vimetolewa, safu mlalo ya mpangilio imeondolewa, seli zimenyoshwa na kunukuliwa vizuri.",
-  "id": "/loona-dev-tools/sw/markdown-table-to-csv/",
+  "id": "/sw/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

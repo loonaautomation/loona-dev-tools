@@ -2,7 +2,7 @@
   "name": "Loona Verifica della sicurezza delle password online gratuito",
   "short_name": "Verifica della sicurezza delle password",
   "description": "Controlla la sicurezza della password online gratuitamente con una stima di entropia trasparente, feedback specifico e una stima del tempo di violazione. La password non lascia mai il tuo browser - nulla viene inviato o memorizzato.",
-  "id": "/loona-dev-tools/it/password-strength-checker/",
+  "id": "/it/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

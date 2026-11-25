@@ -2,7 +2,7 @@
   "name": "Loona ตัวทดสอบ JSONPath",
   "short_name": "ตัวทดสอบ JSONPath",
   "description": "ทดสอบนิพจน์ JSONPath กับเอกสาร JSON: รองรับสัญลักษณ์จุด ดัชนี ไวลด์การ์ด และการค้นหาแบบเรียกซ้ำ ($..key)",
-  "id": "/loona-dev-tools/th/jsonpath-tester/",
+  "id": "/th/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

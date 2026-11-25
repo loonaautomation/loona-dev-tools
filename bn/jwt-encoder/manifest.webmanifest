@@ -2,7 +2,7 @@
   "name": "Loona JWT এনকোডার (HS256 স্বাক্ষরকারী)",
   "short_name": "JWT এনকোডার (HS256 স্বাক্ষরকারী)",
   "description": "আপনার ব্রাউজারে HS256 দিয়ে JSON Web Tokens তৈরি ও স্বাক্ষর করুন: পেলোড JSON যোগ একটি সিক্রেট, বা alg=none। WebCrypto স্বাক্ষর।",
-  "id": "/loona-dev-tools/bn/jwt-encoder/",
+  "id": "/bn/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

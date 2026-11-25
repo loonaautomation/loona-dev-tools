@@ -2,7 +2,7 @@
   "name": "Loona A1Z26-cijferencoder (letters naar getallen)",
   "short_name": "A1Z26-cijferencoder (letters",
   "description": "Codeer tekst met het A1Z26-cijfer: A=1, B=2 ... Z=26. De klassieke puzzel- en escape-roomcode.",
-  "id": "/loona-dev-tools/nl/a1z26-cipher-encoder/",
+  "id": "/nl/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

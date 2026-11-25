@@ -2,7 +2,7 @@
   "name": "Loona متن سے Base32 انکوڈر",
   "short_name": "متن سے Base32 انکوڈر",
   "description": "متن کو Base32 (RFC 4648) میں آن لائن انکوڈ کریں — کیس-غیر حساس انکوڈنگ جو TOTP رازوں اور DNS-محفوظ شناخت کنندگان میں استعمال ہوتی ہے۔",
-  "id": "/loona-dev-tools/ur/text-to-base32/",
+  "id": "/ur/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Převodník Loona JSON na řetězec dotazu",
   "short_name": "Převodník JSON na řetězec dotazu",
   "description": "Vytvořte řetězec dotazu URL z objektu JSON: vnořené objekty používají závorkovou notaci, pole opakují klíč, vše je procentně kódováno.",
-  "id": "/loona-dev-tools/cs/json-to-query-string/",
+  "id": "/cs/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

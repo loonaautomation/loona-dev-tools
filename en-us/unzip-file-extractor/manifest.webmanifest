@@ -2,7 +2,7 @@
   "name": "Loona Unzip File Extractor - Open and Extract ZIP Files",
   "short_name": "Unzip File Extractor - Open and Extract ZIP Files",
   "description": "Open a ZIP file in your browser, see every file inside with its size, and extract single files or all of them. Nothing is uploaded; extraction happens on your device.",
-  "id": "/loona-dev-tools/en-us/unzip-file-extractor/",
+  "id": "/en-us/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

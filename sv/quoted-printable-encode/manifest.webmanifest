@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable-kodare",
   "short_name": "Quoted-Printable-kodare",
   "description": "Koda text som quoted-printable (MIME) online: UTF-8-bytes som =XX-escapes, mjuka radbrytningar vid 76 tecken, enligt RFC 2045.",
-  "id": "/loona-dev-tools/sv/quoted-printable-encode/",
+  "id": "/sv/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

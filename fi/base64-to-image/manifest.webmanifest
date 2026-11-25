@@ -2,7 +2,7 @@
   "name": "Loona Base64-kuvamuunnin",
   "short_name": "Base64-kuvamuunnin",
   "description": "Pura Base64-merkkijono tai data-URI takaisin katseltavaksi, ladattavaksi kuvaksi. MIME-tyyppi tunnistetaan tavuista.",
-  "id": "/loona-dev-tools/fi/base64-to-image/",
+  "id": "/fi/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

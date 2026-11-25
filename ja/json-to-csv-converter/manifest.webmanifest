@@ -2,7 +2,7 @@
   "name": "Loona JSON→CSV変換ツール 無料オンライン",
   "short_name": "JSON→CSV変換ツール オンライン",
   "description": "オブジェクトのJSON配列をCSVに無料でオンライン変換：キーの和集合を列として、正しいクォートとエスケープ、ネストした値はJSONとして保持。登録不要、ブラウザ内で100%動作します。",
-  "id": "/loona-dev-tools/ja/json-to-csv-converter/",
+  "id": "/ja/json-to-csv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

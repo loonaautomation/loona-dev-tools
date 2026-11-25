@@ -2,7 +2,7 @@
   "name": "Loona Romerska siffror till tal",
   "short_name": "Romerska Siffror till Tal",
   "description": "Konvertera romerska siffror till tal (1–3999), med strikt validering av subtraktiv notation (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/sv/roman-numerals-converter/",
+  "id": "/sv/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

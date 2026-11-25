@@ -2,7 +2,7 @@
   "name": "Конвертер Loona двійкової у текст",
   "short_name": "Конвертер двійкової у текст",
   "description": "Декодуйте двійковий код (групи по 8 бітів, із пробілами або неперервно) назад у текст UTF-8 онлайн. Безкоштовний двійковий перекладач.",
-  "id": "/loona-dev-tools/uk/binary-to-text/",
+  "id": "/uk/binary-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

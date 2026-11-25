@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha ISO kwenda ZIP",
   "short_name": "Kibadilishaji cha ISO kwenda ZIP",
   "description": "Badilisha picha ya diski ya ISO kuwa ZIP ya faili zake mtandaoni: libarchive husoma yaliyomo ya ISO9660/Rock Ridge ndani ya kifaa.",
-  "id": "/loona-dev-tools/sw/iso-to-zip-converter/",
+  "id": "/sw/iso-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

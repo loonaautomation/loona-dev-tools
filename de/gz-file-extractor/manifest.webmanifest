@@ -2,7 +2,7 @@
   "name": "Loona GZ-Datei-Extraktor online kostenlos",
   "short_name": "GZ-Datei-Extraktor online kostenlos",
   "description": "Dekomprimieren Sie eine einzelne .gz-Datei direkt in Ihrem Browser und laden Sie die Originaldatei herunter – Protokolle, Datenexporte, Datenbank-Dumps. Nichts wird hochgeladen; Ihr Browser erledigt die Arbeit nativ.",
-  "id": "/loona-dev-tools/de/gz-file-extractor/",
+  "id": "/de/gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

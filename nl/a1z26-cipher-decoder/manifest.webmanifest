@@ -2,7 +2,7 @@
   "name": "Loona A1Z26-cijferdecoder (getallen naar letters)",
   "short_name": "A1Z26-cijferdecoder (getallen",
   "description": "Decodeer A1Z26-getalcodes terug naar letters: 1=A, 2=B ... 26=Z. Gescheiden door koppelteken, komma of spatie.",
-  "id": "/loona-dev-tools/nl/a1z26-cipher-decoder/",
+  "id": "/nl/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Robots.txt Test Aracı Çevrimiçi Ücretsiz",
   "short_name": "Robots.txt Test Aracı Çevrimiçi Ücretsiz",
   "description": "Bir robots.txt değerini çevrimiçi ücretsiz test edin - dosyayı, bir URL değerini ve bir user-agent değerini yapıştırın ve gösterilen tam eşleşen kuralla izinli veya engelli bir karar alın. Kayıt gerekmez, tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/robots-txt-tester/",
+  "id": "/tr/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Decoder Quoted-Printable",
   "short_name": "Decoder Quoted-Printable",
   "description": "Dekode teks quoted-printable (MIME) kembali ke UTF-8 yang dapat dibaca: escape =XX dan jeda baris lunak ditangani menurut RFC 2045.",
-  "id": "/loona-dev-tools/id/quoted-printable-decode/",
+  "id": "/id/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

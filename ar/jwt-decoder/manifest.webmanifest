@@ -2,7 +2,7 @@
   "name": "Loona فاكّ تشفير JWT عبر الإنترنت مجاناً",
   "short_name": "فاكّ تشفير JWT عبر الإنترنت مجاناً",
   "description": "فكّ رمز JSON Web Token عبر الإنترنت مجاناً - اقرأ الترويسة والحمولة كـ JSON جميل واطّلع على الانتهاء بكلمات بسيطة. التوقيع غير موثّق. في متصفحك.",
-  "id": "/loona-dev-tools/ar/jwt-decoder/",
+  "id": "/ar/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

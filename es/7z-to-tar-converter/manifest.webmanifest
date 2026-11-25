@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de 7Z a TAR",
   "short_name": "Convertidor de 7Z a TAR",
   "description": "Convierte archivos 7Z a TAR en línea: libarchive (WebAssembly) lee el 7Z y un escritor ustar lo reempaqueta. Privado y local.",
-  "id": "/loona-dev-tools/es/7z-to-tar-converter/",
+  "id": "/es/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

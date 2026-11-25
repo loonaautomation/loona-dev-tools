@@ -2,7 +2,7 @@
   "name": "Loona ตัวถอดรหัสตัวอักษรสัทศาสตร์ NATO",
   "short_name": "ตัวถอดรหัสตัวอักษรสัทศาสตร์ NATO",
   "description": "ถอดรหัสคำสัทศาสตร์ NATO (Alfa, Bravo, Charlie...) กลับเป็นตัวอักษรและตัวเลขธรรมดา",
-  "id": "/loona-dev-tools/th/nato-phonetic-decoder/",
+  "id": "/th/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

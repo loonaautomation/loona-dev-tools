@@ -2,7 +2,7 @@
   "name": "Loona Open Graph＆Twitterカード生成ツール",
   "short_name": "Open Graph＆Twitterカード",
   "description": "Open GraphとTwitter Cardのメタタグを無料でオンライン生成できます。ソーシャルカードのライブプレビュー付き（タイトル、説明、画像、URL、サイト名）です。登録不要、ブラウザで動作します。",
-  "id": "/loona-dev-tools/ja/open-graph-generator/",
+  "id": "/ja/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

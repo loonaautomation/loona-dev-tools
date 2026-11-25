@@ -2,7 +2,7 @@
   "name": "Calculateur Loona Chmod en ligne gratuit",
   "short_name": "Calculateur Chmod en ligne gratuit",
   "description": "Calculez les autorisations chmod en ligne et gratuitement : cases à cocher vers octal (755) et symbolique (rwxr-xr-x), et octal vers autorisations. Sans inscription, fonctionne à 100 % dans votre navigateur.",
-  "id": "/loona-dev-tools/fr/chmod-calculator/",
+  "id": "/fr/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

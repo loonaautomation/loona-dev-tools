@@ -2,7 +2,7 @@
   "name": "Loona A1Z26 rejtjel dekódoló (számokból betűk)",
   "short_name": "A1Z26 rejtjel dekódoló (Számok",
   "description": "Dekódolja az A1Z26 számkódokat vissza betűkké: 1=A, 2=B ... 26=Z. Kötőjellel, vesszővel vagy szóközzel elválasztva.",
-  "id": "/loona-dev-tools/hu/a1z26-cipher-decoder/",
+  "id": "/hu/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

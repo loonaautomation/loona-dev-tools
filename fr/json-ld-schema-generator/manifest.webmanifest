@@ -2,7 +2,7 @@
   "name": "Générateur de schémas JSON-LD Loona en ligne gratuit",
   "short_name": "Générateur de schémas JSON-LD",
   "description": "Générez des données structurées schema.org JSON-LD en ligne et gratuitement - Article, LocalBusiness, Product, Event, Recipe, Person, Organization et WebSite - sous forme d’un bloc script prêt. Sans inscription.",
-  "id": "/loona-dev-tools/fr/json-ld-schema-generator/",
+  "id": "/fr/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวแยกไฟล์ GZ ออนไลน์ฟรี",
   "short_name": "ตัวแยกไฟล์ GZ ออนไลน์ฟรี",
   "description": "คลายการบีบอัดไฟล์ .gz เดียวในเบราว์เซอร์ของคุณเลยและดาวน์โหลดไฟล์ต้นฉบับ - ล็อก การส่งออกข้อมูล ดัมป์ฐานข้อมูล ไม่มีการอัปโหลด; เบราว์เซอร์ของคุณทำงานโดยตรง",
-  "id": "/loona-dev-tools/th/gz-file-extractor/",
+  "id": "/th/gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

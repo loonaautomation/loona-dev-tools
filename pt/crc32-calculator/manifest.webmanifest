@@ -2,7 +2,7 @@
   "name": "Loona Calculadora de Soma de Verificação CRC32",
   "short_name": "Calculadora de Soma de Verificação CRC32",
   "description": "Calcule hashes CRC32 de texto ou ficheiros online: 32-bit, 8 caracteres hexadecimais. Funciona localmente no seu navegador com WebCrypto/JS puro — os ficheiros nunca são carregados.",
-  "id": "/loona-dev-tools/pt/crc32-calculator/",
+  "id": "/pt/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

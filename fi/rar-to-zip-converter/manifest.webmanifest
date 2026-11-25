@@ -2,7 +2,7 @@
   "name": "Loona RAR-ZIP-muunnin verkossa ilmaiseksi",
   "short_name": "RAR-ZIP-muunnin verkossa",
   "description": "Muunna RAR-arkisto (.rar) tavalliseksi ZIP-tiedostoksi suoraan selaimessasi. Kansiorakenne säilytetään, mitään ei lähetetä palvelimelle, ja ZIP aukeaa kaikkialla — Windows, macOS, Android ja iPhone avaavat kaikki ZIP:in natiivisti.",
-  "id": "/loona-dev-tools/fi/rar-to-zip-converter/",
+  "id": "/fi/rar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

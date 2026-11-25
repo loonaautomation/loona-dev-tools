@@ -2,7 +2,7 @@
   "name": "ממיר Loona TOML ל-YAML",
   "short_name": "ממיר TOML ל-YAML",
   "description": "המירו TOML ל-YAML באופן מקוון: טבלאות הופכות למיפויים מקוננים, טבלאות מערכים הופכות לרשימות של אובייקטים.",
-  "id": "/loona-dev-tools/he/toml-to-yaml/",
+  "id": "/he/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

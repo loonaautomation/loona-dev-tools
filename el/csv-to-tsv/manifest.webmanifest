@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας CSV σε TSV",
   "short_name": "Μετατροπέας CSV σε TSV",
   "description": "Μετατρέψτε CSV σε TSV (τιμές χωρισμένες με tab): πλήρης ανάλυση πεδίων με εισαγωγικά, tab ως διαχωριστικά. Δωρεάν διαδικτυακός μετατροπέας.",
-  "id": "/loona-dev-tools/el/csv-to-tsv/",
+  "id": "/el/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

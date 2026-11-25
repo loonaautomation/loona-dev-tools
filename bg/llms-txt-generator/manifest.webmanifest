@@ -2,7 +2,7 @@
   "name": "Генератор на llms.txt на Loona онлайн безплатно",
   "short_name": "Генератор на llms.txt онлайн безплатно",
   "description": "Генерирайте безплатно онлайн валиден llms.txt файл - име на сайта, блок с резюме, подробности и подбрани връзки към страници във формата llms.txt, предложен за ИИ обхождачи. Без регистрация.",
-  "id": "/loona-dev-tools/bg/llms-txt-generator/",
+  "id": "/bg/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

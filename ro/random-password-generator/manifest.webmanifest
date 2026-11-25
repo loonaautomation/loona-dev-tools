@@ -2,7 +2,7 @@
   "name": "Generator de parole aleatorii Loona",
   "short_name": "Generator de parole aleatorii",
   "description": "Generează parole aleatorii puternice în browserul tău cu API-ul WebCrypto: lungime și seturi de caractere reglabile, entropie afișată.",
-  "id": "/loona-dev-tools/ro/random-password-generator/",
+  "id": "/ro/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

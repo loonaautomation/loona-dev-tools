@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας HSV σε RGB",
   "short_name": "Μετατροπέας HSV σε RGB",
   "description": "Μετατρέψτε χρώματα από HSV σε RGB διαδικτυακά, με ζωντανό δείγμα και όλες τις άλλες μορφές (HEX, RGB, HSL, HSV, CMYK) να εμφανίζονται επίσης.",
-  "id": "/loona-dev-tools/el/hsv-to-rgb-converter/",
+  "id": "/el/hsv-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

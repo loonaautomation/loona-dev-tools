@@ -2,7 +2,7 @@
   "name": "Loona Dezimal-zu-Binär-Konverter",
   "short_name": "Dezimal-zu-Binär-Konverter",
   "description": "Konvertieren Sie Dezimalzahlen online zu Binär — beliebige Genauigkeit (BigInt), negative Zahlen unterstützt.",
-  "id": "/loona-dev-tools/de/decimal-to-binary-converter/",
+  "id": "/de/decimal-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

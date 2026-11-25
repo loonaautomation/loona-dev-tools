@@ -2,7 +2,7 @@
   "name": "Loona محوّل JSON إلى جدول Markdown",
   "short_name": "JSON إلى جدول Markdown",
   "description": "حوّل مصفوفة JSON من الكائنات إلى جدول Markdown: أعمدة من المفاتيح، خطوط عمودية مهرّبة، جاهز للصق في ملفات README.",
-  "id": "/loona-dev-tools/ar/json-to-markdown-table/",
+  "id": "/ar/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

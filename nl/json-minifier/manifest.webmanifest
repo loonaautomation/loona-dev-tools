@@ -2,7 +2,7 @@
   "name": "Loona JSON-minifier",
   "short_name": "JSON-minifier",
   "description": "Minificeer JSON online: strip alle onbelangrijke witruimte tot één compacte regel, met validatiefouten nauwkeurig gemeld.",
-  "id": "/loona-dev-tools/nl/json-minifier/",
+  "id": "/nl/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

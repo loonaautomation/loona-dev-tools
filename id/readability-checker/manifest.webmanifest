@@ -2,7 +2,7 @@
   "name": "Loona Pemeriksa Keterbacaan SEO Online Gratis",
   "short_name": "Pemeriksa Keterbacaan SEO",
   "description": "Periksa keterbacaan konten untuk SEO online secara gratis - skor Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG, dan ARI ditambah statistik panjang kalimat untuk naskah web. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/id/readability-checker/",
+  "id": "/id/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

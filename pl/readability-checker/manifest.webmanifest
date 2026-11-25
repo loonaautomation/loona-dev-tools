@@ -2,7 +2,7 @@
   "name": "Loona Sprawdzanie czytelności SEO online za darmo",
   "short_name": "Sprawdzanie czytelności SEO",
   "description": "Sprawdzaj czytelność treści dla SEO online za darmo - wyniki Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG i ARI plus statystyki długości zdań dla tekstów internetowych. Bez rejestracji.",
-  "id": "/loona-dev-tools/pl/readability-checker/",
+  "id": "/pl/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

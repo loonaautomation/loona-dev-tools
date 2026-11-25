@@ -2,7 +2,7 @@
   "name": "Loona CRC32 ellenőrzőösszeg-kalkulátor",
   "short_name": "CRC32 ellenőrzőösszeg-kalkulátor",
   "description": "Számítson CRC32 hasheket szövegből vagy fájlokból online: 32 bites, 8 hexadecimális karakter. Helyben fut a böngészőjében WebCrypto/tiszta JS segítségével — a fájlok soha nem töltődnek fel.",
-  "id": "/loona-dev-tools/hu/crc32-calculator/",
+  "id": "/hu/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

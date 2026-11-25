@@ -2,7 +2,7 @@
   "name": "Loona JSON-TypeScript-rajapintamuunnin",
   "short_name": "JSON-TypeScript-rajapinta",
   "description": "Muunna JSON TypeScript-rajapinnoiksi verkossa: sisäkkäiset objektit muuttuvat nimetyiksi rajapinnoiksi, objektitaulukot yhdistävät avaimensa valinnaiset kentät merkittyinä.",
-  "id": "/loona-dev-tools/fi/json-to-typescript/",
+  "id": "/fi/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

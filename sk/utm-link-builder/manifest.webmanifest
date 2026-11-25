@@ -2,7 +2,7 @@
   "name": "Tvorca odkazov Loona UTM online zadarmo",
   "short_name": "Tvorca odkazov UTM online zadarmo",
   "description": "Vytvárajte online zadarmo URL kampaní s označeniami UTM – zdroj, médium, kampaň, pojem a obsah pridané so správnym kódovaním, existujúce parametre dopytu zachované, plus uložená história.",
-  "id": "/loona-dev-tools/sk/utm-link-builder/",
+  "id": "/sk/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

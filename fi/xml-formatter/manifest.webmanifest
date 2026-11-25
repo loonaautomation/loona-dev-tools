@@ -2,7 +2,7 @@
   "name": "Loona XML-muotoilija ja -tarkistin verkossa ilmaiseksi",
   "short_name": "XML-muotoilija & tarkistin",
   "description": "Muotoile, kaunista, minimoi ja vahvista XML verkossa ilmaiseksi - tasapainotettujen tunnisteiden hyvinmuodostuneisuuden tarkistus selkeillä virheilmoituksilla, nätti tulostus sisennyksellä. Ei rekisteröitymistä.",
-  "id": "/loona-dev-tools/fi/xml-formatter/",
+  "id": "/fi/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Αποκωδικοποιητής Φωνητικού Αλφαβήτου NATO Loona",
   "short_name": "Αποκωδικοποιητής Φωνητικού Αλφαβήτου NATO",
   "description": "Αποκωδικοποιήστε φωνητικές λέξεις NATO (Alfa, Bravo, Charlie...) πίσω σε απλά γράμματα και ψηφία.",
-  "id": "/loona-dev-tools/el/nato-phonetic-decoder/",
+  "id": "/el/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Конвертер изображения в Base64",
   "short_name": "Конвертер изображения в Base64",
   "description": "Преобразуйте изображение (PNG, JPG, GIF, WebP, SVG) в Base64 data URI онлайн — файл читается локально, с указанием размеров и объёма.",
-  "id": "/loona-dev-tools/ru/image-to-base64/",
+  "id": "/ru/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

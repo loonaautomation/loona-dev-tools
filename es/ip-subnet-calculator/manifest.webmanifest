@@ -2,7 +2,7 @@
   "name": "Loona Calculadora de subredes IP en línea gratis",
   "short_name": "Calculadora de subredes IP en línea",
   "description": "Calcula subredes IPv4 en línea gratis: red, difusión, máscara de red, wildcard, primer y último host, número de hosts utilizables y clase IP desde cualquier dirección CIDR, más una vista de división de subredes.",
-  "id": "/loona-dev-tools/es/ip-subnet-calculator/",
+  "id": "/es/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

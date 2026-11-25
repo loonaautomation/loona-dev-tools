@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Πινάκων HTML Διαδικτυακά Δωρεάν",
   "short_name": "Γεννήτρια Πινάκων HTML Διαδικτυακά",
   "description": "Δημιουργήστε πίνακες HTML διαδικτυακά δωρεάν - ορίστε γραμμές και στήλες, πληκτρολογήστε στο πλέγμα και πάρτε καθαρό HTML πίνακα με υποστήριξη thead, th και λεζάντας συν ζωντανή προεπισκόπηση. Χωρίς εγγραφή.",
-  "id": "/loona-dev-tools/el/html-table-generator/",
+  "id": "/el/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

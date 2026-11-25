@@ -2,7 +2,7 @@
   "name": "Loona pretvarač CSV u JSON na mreži besplatno",
   "short_name": "Pretvarač CSV u JSON na mreži",
   "description": "Pretvorite CSV u JSON polje objekata na mreži besplatno, ispravnim CSV parserom koji obrađuje polja u navodnicima, zareze unutar navodnika i escapirane navodnike. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/csv-to-json-converter/",
+  "id": "/hr/csv-to-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

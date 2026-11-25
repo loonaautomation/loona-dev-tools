@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Muhuri wa Muda wa Unix Bure Mtandaoni",
   "short_name": "Kibadilishaji cha Muhuri wa Muda wa Unix",
   "description": "Badilisha mihuri ya muda ya Unix (sekunde au milisekunde) kuwa tarehe za kibinadamu kwa UTC na muda wako wa ndani, na tarehe kurudi kuwa mihuri ya muda. Muda wa sasa wa moja kwa moja. Bure.",
-  "id": "/loona-dev-tools/sw/timestamp-converter/",
+  "id": "/sw/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

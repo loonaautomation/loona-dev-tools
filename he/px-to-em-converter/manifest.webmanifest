@@ -2,7 +2,7 @@
   "name": "ממיר Loona פיקסלים (px) ל-Em",
   "short_name": "ממיר פיקסלים (px) ל-Em",
   "description": "המירו px ל-em עם גודל גופן בסיס מתכוונן (ברירת מחדל 16px) וטבלה של ערכים נפוצים.",
-  "id": "/loona-dev-tools/he/px-to-em-converter/",
+  "id": "/he/px-to-em-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

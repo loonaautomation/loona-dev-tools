@@ -2,7 +2,7 @@
   "name": "Loona generator SHA-1 hasha",
   "short_name": "Generator SHA-1 hasha",
   "description": "Izračunajte SHA-1 hasheve teksta ili datoteka na mreži: 160-bitni, 40 heksadekadskih znakova. Radi lokalno u vašem pregledniku s WebCryptom/čistim JS-om — datoteke se nikada ne prenose.",
-  "id": "/loona-dev-tools/hr/sha1-hash-generator/",
+  "id": "/hr/sha1-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

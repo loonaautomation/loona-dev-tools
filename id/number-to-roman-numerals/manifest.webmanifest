@@ -2,7 +2,7 @@
   "name": "Loona Angka ke Angka Romawi",
   "short_name": "Angka ke Angka Romawi",
   "description": "Konversi angka (1–3999) ke angka Romawi dalam bentuk subtraktif standar. Konverter online gratis.",
-  "id": "/loona-dev-tools/id/number-to-roman-numerals/",
+  "id": "/id/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pengekod Sifer A1Z26 (Huruf ke Angka)",
   "short_name": "Pengekod Sifer A1Z26 (Huruf",
   "description": "Encode teks dengan sifer A1Z26: A=1, B=2 ... Z=26. Kode teka-teki dan escape room klasik.",
-  "id": "/loona-dev-tools/ms/a1z26-cipher-encoder/",
+  "id": "/ms/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ganzzahl-zu-IP-Adresse-Konverter",
   "short_name": "Ganzzahl zu IP-Adresse",
   "description": "Konvertieren Sie eine 32-Bit-Ganzzahl zurück zu einer gepunkteten IPv4-Adresse (3232235521 → 192.168.0.1).",
-  "id": "/loona-dev-tools/de/integer-to-ip/",
+  "id": "/de/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

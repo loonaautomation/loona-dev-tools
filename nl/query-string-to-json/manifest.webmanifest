@@ -2,7 +2,7 @@
   "name": "Loona querystring naar JSON-converter",
   "short_name": "Querystring naar JSON-converter",
   "description": "Parseer een URL-querystring naar JSON: haakjesnotatie wordt geneste objecten, herhaalde sleutels worden arrays, waarden getypt.",
-  "id": "/loona-dev-tools/nl/query-string-to-json/",
+  "id": "/nl/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generátor Loona JSON na SQL INSERT",
   "short_name": "Generátor JSON na SQL INSERT",
   "description": "Generujte příkazy INSERT SQL z pole objektů JSON: řetězce escapované, hodnoty NULL a booleovské hodnoty zvládnuty, vlastní název tabulky.",
-  "id": "/loona-dev-tools/cs/json-to-sql-insert/",
+  "id": "/cs/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

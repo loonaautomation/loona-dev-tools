@@ -2,7 +2,7 @@
   "name": "Loona Pemformat JSON Dalam Talian Percuma",
   "short_name": "Pemformat JSON Dalam Talian Percuma",
   "description": "Format, pengesahan, dan minifikasi JSON dalam talian secara percuma, dengan baris dan lajur tepat dari ralat apa pun. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/json-formatter/",
+  "id": "/ms/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

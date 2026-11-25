@@ -2,7 +2,7 @@
   "name": "Tabel de referință al entităților HTML Loona",
   "short_name": "Tabel de referință al entităților HTML",
   "description": "Tabelul esențial al entităților HTML: entitatea numită, caracterul, codul zecimal și note de utilizare pentru entitățile pe care dezvoltatorii le folosesc cu adevărat.",
-  "id": "/loona-dev-tools/ro/html-entities-reference/",
+  "id": "/ro/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

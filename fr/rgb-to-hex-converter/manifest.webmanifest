@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona RVB vers HEX",
   "short_name": "Convertisseur RVB vers HEX",
   "description": "Convertissez les couleurs de RVB vers HEX en ligne, avec un échantillon en direct et tous les autres formats (HEX, RVB, TSL, TSV, CMJN) affichés aussi.",
-  "id": "/loona-dev-tools/fr/rgb-to-hex-converter/",
+  "id": "/fr/rgb-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

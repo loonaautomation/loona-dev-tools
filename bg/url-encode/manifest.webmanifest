@@ -2,7 +2,7 @@
   "name": "URL кодиране на Loona (процентно кодиране)",
   "short_name": "Кодиране на URL (процентно кодиране)",
   "description": "Кодирайте процентно текст или пълен URL онлайн: интервалите стават %20, запазените символи се екранират по RFC 3986. Режим за компонент или за пълен URL.",
-  "id": "/loona-dev-tools/bg/url-encode/",
+  "id": "/bg/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

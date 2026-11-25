@@ -2,7 +2,7 @@
   "name": "Генератор виразів Cron Loona онлайн безкоштовно",
   "short_name": "Генератор виразів Cron",
   "description": "Створюйте вирази cron зі спадних списків і пояснюйте будь-який вираз cron із 5 полів простою мовою, онлайн безкоштовно. Без реєстрації, працює на 100% у вашому браузері.",
-  "id": "/loona-dev-tools/uk/cron-expression-generator/",
+  "id": "/uk/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

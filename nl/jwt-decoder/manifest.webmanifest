@@ -2,7 +2,7 @@
   "name": "Loona JWT-decoder online gratis",
   "short_name": "JWT-decoder online gratis",
   "description": "Decodeer een JSON Web Token online gratis - lees de header en payload als mooie JSON en zie het verloop in gewone woorden. Handtekening NIET geverifieerd. In je browser.",
-  "id": "/loona-dev-tools/nl/jwt-decoder/",
+  "id": "/nl/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

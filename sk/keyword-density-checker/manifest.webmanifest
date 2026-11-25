@@ -2,7 +2,7 @@
   "name": "Kontrolór hustoty kľúčových slov Loona online zadarmo",
   "short_name": "Kontrolór hustoty kľúčových slov",
   "description": "Kontrolujte hustotu kľúčových slov online zadarmo – najčastejšie jednotlivé slová plus 2-slovné a 3-slovné frázy s počtami a percentuálnou hustotou, vrátane filtrovania stop-slov. Bez registrácie.",
-  "id": "/loona-dev-tools/sk/keyword-density-checker/",
+  "id": "/sk/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

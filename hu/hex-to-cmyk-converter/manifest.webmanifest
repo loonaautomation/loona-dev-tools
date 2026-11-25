@@ -2,7 +2,7 @@
   "name": "Loona HEX-ből CMYK-ba átalakító",
   "short_name": "HEX–CMYK átalakító",
   "description": "Alakítson színeket HEX-ből CMYK-ká online, élő színmintával, és az összes többi formátummal (HEX, RGB, HSL, HSV, CMYK) is megjelenítve.",
-  "id": "/loona-dev-tools/hu/hex-to-cmyk-converter/",
+  "id": "/hu/hex-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

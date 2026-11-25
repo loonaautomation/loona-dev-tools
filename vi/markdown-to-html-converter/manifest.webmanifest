@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi Markdown sang HTML của Loona trực tuyến miễn phí",
   "short_name": "Công cụ chuyển đổi Markdown sang HTML",
   "description": "Chuyển đổi Markdown sang HTML trực tuyến miễn phí - tiêu đề, in đậm, in nghiêng, liên kết, hình ảnh, danh sách, trích dẫn khối, khối mã và hơn nữa, với một bản xem trước trực tiếp đã hiển thị. Không đăng ký.",
-  "id": "/loona-dev-tools/vi/markdown-to-html-converter/",
+  "id": "/vi/markdown-to-html-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

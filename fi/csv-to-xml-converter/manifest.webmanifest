@@ -2,7 +2,7 @@
   "name": "Loona CSV-XML-muunnin verkossa ilmaiseksi",
   "short_name": "CSV-XML-muunnin verkossa",
   "description": "Muunna CSV XML:ksi verkossa ilmaiseksi määritettävillä juuri- ja rivielementtien nimillä ja kunnollisella XML-pakotuksella. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/csv-to-xml-converter/",
+  "id": "/fi/csv-to-xml-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

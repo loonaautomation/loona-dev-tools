@@ -2,7 +2,7 @@
   "name": "Loona JSON-zu-.env-Konverter",
   "short_name": "JSON-zu-.env-Konverter",
   "description": "Konvertieren Sie JSON-Konfigurationen in das .env-Format: verschachtelte Objekte mit UNDERSCORE-Pfaden abgeflacht, Werte in Anführungszeichen, wenn sie Leerzeichen oder # enthalten.",
-  "id": "/loona-dev-tools/de/json-to-env/",
+  "id": "/de/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

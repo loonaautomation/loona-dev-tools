@@ -2,7 +2,7 @@
   "name": "Loona TAR File Creator - Make a .tar Archive from Your Files",
   "short_name": "TAR File Creator - Make a .tar Archive from Your Files",
   "description": "Create a TAR archive (.tar) from multiple files right in your browser - a spec-correct ustar writer, folder option, real timestamps. Nothing is uploaded; the tarball is built on your device and opens with any tar tool.",
-  "id": "/loona-dev-tools/en-us/tar-file-creator/",
+  "id": "/en-us/tar-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

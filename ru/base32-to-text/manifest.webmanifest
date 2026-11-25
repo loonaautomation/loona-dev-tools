@@ -2,7 +2,7 @@
   "name": "Loona Декодировщик Base32 в текст",
   "short_name": "Декодировщик Base32 в текст",
   "description": "Декодируйте Base32 (RFC 4648) обратно в текст — без учёта регистра, дополнение необязательно. Восстанавливайте строки, закодированные в стиле TOTP.",
-  "id": "/loona-dev-tools/ru/base32-to-text/",
+  "id": "/ru/base32-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

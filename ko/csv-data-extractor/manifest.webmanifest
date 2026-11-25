@@ -2,7 +2,7 @@
   "name": "Loona CSV 데이터 추출기 온라인 무료",
   "short_name": "CSV 데이터 추출기 온라인 무료",
   "description": "지저분한 CSV 파일이나 모든 텍스트에서 이메일 주소, 전화번호, URL을 온라인에서 무료로 추출해요 - 다운로드할 수 있는 정리되고 중복이 제거된 목록이에요. 회원가입 없음, 브라우저에서 실행돼요.",
-  "id": "/loona-dev-tools/ko/csv-data-extractor/",
+  "id": "/ko/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

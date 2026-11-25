@@ -2,7 +2,7 @@
   "name": "Loona YAML naar TOML-converter",
   "short_name": "YAML naar TOML-converter",
   "description": "Converteer YAML online naar TOML (via het gedeelde datamodel): tabellen, scalars en arrays gemapt naar TOML-layoutregels.",
-  "id": "/loona-dev-tools/nl/yaml-to-toml/",
+  "id": "/nl/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

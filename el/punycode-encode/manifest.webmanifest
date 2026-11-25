@@ -2,7 +2,7 @@
   "name": "Κωδικοποιητής Punycode Loona (Μετατροπέας Τομέων IDN)",
   "short_name": "Κωδικοποιητής Punycode (Τομέας IDN",
   "description": "Μετατρέψτε διεθνοποιημένα ονόματα τομέων (IDN) σε μορφή punycode xn--: το bücher.example γίνεται xn--bcher-kva.example. Κωδικοποίηση ανά ετικέτα.",
-  "id": "/loona-dev-tools/el/punycode-encode/",
+  "id": "/el/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

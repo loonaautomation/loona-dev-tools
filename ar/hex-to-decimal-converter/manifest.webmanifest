@@ -2,7 +2,7 @@
   "name": "Loona محوّل السداسي العشري إلى العشري",
   "short_name": "السداسي العشري إلى العشري",
   "description": "حوّل الأرقام السداسية العشرية إلى العشري عبر الإنترنت — دقة تعسّفية (BigInt)، أرقام سالبة مدعومة.",
-  "id": "/loona-dev-tools/ar/hex-to-decimal-converter/",
+  "id": "/ar/hex-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

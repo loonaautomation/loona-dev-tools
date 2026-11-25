@@ -2,7 +2,7 @@
   "name": "Minificator JSON Loona",
   "short_name": "Minificator JSON",
   "description": "Minifică JSON online: elimină toate spațiile albe nesemnificative într-o singură linie compactă, cu erorile de validare raportate precis.",
-  "id": "/loona-dev-tools/ro/json-minifier/",
+  "id": "/ro/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

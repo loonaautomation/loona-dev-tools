@@ -2,7 +2,7 @@
   "name": "פיצול ומיזוג Loona CSV מקוון בחינם",
   "short_name": "פיצול ומיזוג CSV מקוון בחינם",
   "description": "פצלו CSV לחלקים לפי ספירת שורות או מזגו מספר קבצי CSV לאחד, מקוון בחינם - כותרות מטופלות נכון, ניתוח CSV מתאים. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/csv-split-merge/",
+  "id": "/he/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

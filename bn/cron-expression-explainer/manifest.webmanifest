@@ -2,7 +2,7 @@
   "name": "Loona Cron এক্সপ্রেশন এক্সপ্লেইনার",
   "short_name": "Cron এক্সপ্রেশন এক্সপ্লেইনার",
   "description": "সরল ইংরেজিতে cron এক্সপ্রেশন ব্যাখ্যা করুন: একটি 5-ফিল্ড cron সময়সূচি পেস্ট করুন ও পড়ুন এটি কখন চলে, ফিল্ড অনুযায়ী।",
-  "id": "/loona-dev-tools/bn/cron-expression-explainer/",
+  "id": "/bn/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

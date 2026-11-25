@@ -2,7 +2,7 @@
   "name": "Loona CSS Clip-Path Generator - Shape Your Elements Visually",
   "short_name": "CSS Clip-Path Generator - Shape Your Elements Visually",
   "description": "Generate CSS clip-path online for free - polygon presets like star, hexagon and arrow with adjustable points, plus circle, ellipse and inset shapes, with a live preview. No sign-up.",
-  "id": "/loona-dev-tools/en-us/css-clip-path-generator/",
+  "id": "/en-us/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

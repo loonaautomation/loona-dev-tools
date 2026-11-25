@@ -2,7 +2,7 @@
   "name": "Loona ตัวเข้ารหัสข้อความเป็น Base64",
   "short_name": "ตัวเข้ารหัสข้อความเป็น Base64",
   "description": "เข้ารหัสข้อความเป็น Base64 ออนไลน์ ปลอดภัยกับ UTF-8 สำหรับทุกภาษาและอีโมจิ พร้อมชุดตัวอักษรแบบปลอดภัยสำหรับ URL ที่เป็นทางเลือก ฟรี เป็นส่วนตัว ในเบราว์เซอร์ของคุณ",
-  "id": "/loona-dev-tools/th/text-to-base64/",
+  "id": "/th/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

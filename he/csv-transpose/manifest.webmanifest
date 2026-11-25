@@ -2,7 +2,7 @@
   "name": "שחלוף Loona CSV מקוון בחינם",
   "short_name": "שחלוף CSV מקוון בחינם",
   "description": "החליפו CSV מקוון בחינם - החליפו שורות ועמודות עם מנתח RFC 4180 מתאים המטפל בשדות ממוסגרים נכון. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/csv-transpose/",
+  "id": "/he/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

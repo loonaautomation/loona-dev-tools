@@ -2,7 +2,7 @@
   "name": "Loona Robots.txt Oluşturucu Çevrimiçi Ücretsiz",
   "short_name": "Robots.txt Oluşturucu Çevrimiçi",
   "description": "Geçerli bir robots.txt dosyasını çevrimiçi ücretsiz oluşturun - ön ayarlar, aracı başına izin ve yasak kuralları, site haritası satırı ve yerleşik sözdizimi akıl kontrolleri. Kayıt gerekmez, tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/robots-txt-generator/",
+  "id": "/tr/robots-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

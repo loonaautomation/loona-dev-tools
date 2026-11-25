@@ -2,7 +2,7 @@
   "name": "Loona RGB থেকে HSV কনভার্টার",
   "short_name": "RGB থেকে HSV রূপান্তরকারী",
   "description": "অনলাইনে RGB থেকে HSV-তে রঙ রূপান্তর করুন, একটি লাইভ সোয়াচ ও অন্য সব ফরম্যাট (HEX, RGB, HSL, HSV, CMYK) দেখানোসহ।",
-  "id": "/loona-dev-tools/bn/rgb-to-hsv-converter/",
+  "id": "/bn/rgb-to-hsv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

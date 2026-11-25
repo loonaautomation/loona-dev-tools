@@ -2,7 +2,7 @@
   "name": "Loona IP Subnet कैलकुलेटर ऑनलाइन मुफ़्त",
   "short_name": "IP Subnet कैलकुलेटर ऑनलाइन",
   "description": "IPv4 subnets ऑनलाइन मुफ़्त calculate करें — किसी भी CIDR address से network, broadcast, netmask, wildcard, first और last host, usable host count और IP class, साथ में एक subnet splitting view भी।",
-  "id": "/loona-dev-tools/hi/ip-subnet-calculator/",
+  "id": "/hi/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

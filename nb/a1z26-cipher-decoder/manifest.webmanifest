@@ -2,7 +2,7 @@
   "name": "Loona A1Z26-chifferdekoder (Tall til bokstaver)",
   "short_name": "A1Z26-chifferdekoder (Tall",
   "description": "Dekod A1Z26-tallkoder tilbake til bokstaver: 1=A, 2=B ... 26=Z. Skilt med bindestrek, komma eller mellomrom.",
-  "id": "/loona-dev-tools/nb/a1z26-cipher-decoder/",
+  "id": "/nb/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

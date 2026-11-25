@@ -2,7 +2,7 @@
   "name": "Convertizor CSV în tabel Markdown Loona online",
   "short_name": "CSV în tabel Markdown",
   "description": "Convertește CSV într-un tabel Markdown online gratuit - coloane numerice aliniate la dreapta automat și caractere pipe escapate corect. Fără înregistrare, rulează 100% în browserul tău.",
-  "id": "/loona-dev-tools/ro/csv-to-markdown-converter/",
+  "id": "/ro/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

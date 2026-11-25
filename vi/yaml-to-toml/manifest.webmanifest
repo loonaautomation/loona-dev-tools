@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi YAML sang TOML của Loona",
   "short_name": "Công cụ chuyển đổi YAML sang TOML",
   "description": "Chuyển đổi YAML sang TOML trực tuyến (qua mô hình dữ liệu dùng chung): bảng, vô hướng và mảng được ánh xạ theo quy tắc bố cục TOML.",
-  "id": "/loona-dev-tools/vi/yaml-to-toml/",
+  "id": "/vi/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

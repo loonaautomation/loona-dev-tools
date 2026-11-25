@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Ετικετών Meta Διαδικτυακά Δωρεάν",
   "short_name": "Γεννήτρια Ετικετών Meta Διαδικτυακά",
   "description": "Δημιουργήστε ετικέτες meta HTML διαδικτυακά δωρεάν - τίτλος, περιγραφή, λέξεις-κλειδιά, συγγραφέας, robots και κανονικό - με ζωντανή προεπισκόπηση SERP σε στυλ Google και μετρήσεις χαρακτήρων. Χωρίς εγγραφή.",
-  "id": "/loona-dev-tools/el/meta-tag-generator/",
+  "id": "/el/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

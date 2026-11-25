@@ -2,7 +2,7 @@
   "name": "Loona محوّل JSON إلى YAML",
   "short_name": "محوّل JSON إلى YAML",
   "description": "حوّل JSON إلى YAML عبر الإنترنت: مسافات بادئة نظيفة، مصفوفات وكائنات متداخلة، سلاسل مقتبسة فقط عندما يحتاج YAML ذلك.",
-  "id": "/loona-dev-tools/ar/json-to-yaml/",
+  "id": "/ar/json-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona quoted-printable enkoder",
   "short_name": "Quoted-Printable enkoder",
   "description": "Kodirajte tekst kao quoted-printable (MIME) na mreži: UTF-8 bajtovi kao =XX escapei, meki prijelomi redaka na 76 znakova, prema RFC 2045.",
-  "id": "/loona-dev-tools/hr/quoted-printable-encode/",
+  "id": "/hr/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

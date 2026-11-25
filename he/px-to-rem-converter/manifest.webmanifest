@@ -2,7 +2,7 @@
   "name": "ממיר Loona פיקסלים (px) ל-Rem",
   "short_name": "ממיר פיקסלים (px) ל-Rem",
   "description": "המירו px ל-rem עם גודל גופן בסיס מתכוונן (ברירת מחדל 16px) וטבלה של ערכים נפוצים.",
-  "id": "/loona-dev-tools/he/px-to-rem-converter/",
+  "id": "/he/px-to-rem-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

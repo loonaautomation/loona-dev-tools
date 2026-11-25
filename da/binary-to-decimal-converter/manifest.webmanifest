@@ -2,7 +2,7 @@
   "name": "Loona binær til decimal-konverter",
   "short_name": "Binær til decimal-konverter",
   "description": "Konvertér binære tal til decimal online — vilkårlig præcision (BigInt), negative tal understøttet.",
-  "id": "/loona-dev-tools/da/binary-to-decimal-converter/",
+  "id": "/da/binary-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

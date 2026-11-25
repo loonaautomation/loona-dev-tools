@@ -2,7 +2,7 @@
   "name": "Decodor JWT Loona online gratuit",
   "short_name": "Decodor JWT online gratuit",
   "description": "Decodifică un JSON Web Token online gratuit - citește antetul și payload-ul ca JSON frumos și vezi expirarea în cuvinte simple. Semnătura NU este verificată. În browserul tău.",
-  "id": "/loona-dev-tools/ro/jwt-decoder/",
+  "id": "/ro/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

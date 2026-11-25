@@ -2,7 +2,7 @@
   "name": "Loona Unicode-pakonpurkumuunnin (Pura \\uXXXX)",
   "short_name": "Unicode-pakotuksen purkumuunnin",
   "description": "Pura Unicode-pakosarjoja (\\uXXXX, \\u{...}, \\xXX) takaisin aidoiksi merkeiksi, sekä \\n \\t- ja \\\\ -pakotuksia.",
-  "id": "/loona-dev-tools/fi/unicode-unescape/",
+  "id": "/fi/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

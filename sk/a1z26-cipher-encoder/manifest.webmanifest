@@ -2,7 +2,7 @@
   "name": "Kodér šifry Loona A1Z26 (Písmená na čísla)",
   "short_name": "Kodér šifry A1Z26 (Písmená",
   "description": "Kódujte text šifrou A1Z26: A=1, B=2 ... Z=26. Klasický kód hádaniek a únikových miestností.",
-  "id": "/loona-dev-tools/sk/a1z26-cipher-encoder/",
+  "id": "/sk/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

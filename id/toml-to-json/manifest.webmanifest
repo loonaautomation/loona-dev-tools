@@ -2,7 +2,7 @@
   "name": "Loona Konverter TOML ke JSON",
   "short_name": "Konverter TOML ke JSON",
   "description": "Konversi TOML ke JSON online: table, array table, string, angka, boolean, array, dan datetime (sebagai string).",
-  "id": "/loona-dev-tools/id/toml-to-json/",
+  "id": "/id/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

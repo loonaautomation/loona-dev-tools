@@ -2,7 +2,7 @@
   "name": "Loona Penukar Unescape Unicode (Nyahkod \\uXXXX)",
   "short_name": "Penukar Unescape Unicode",
   "description": "Nyahkod urutan escape Unicode (\\uXXXX, \\u{...}, \\xXX) kembali ke aksara nyata, ditambah escape \\n \\t dan \\\\.",
-  "id": "/loona-dev-tools/ms/unicode-unescape/",
+  "id": "/ms/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

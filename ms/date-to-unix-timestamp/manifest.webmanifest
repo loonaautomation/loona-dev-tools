@@ -2,7 +2,7 @@
   "name": "Loona Penukar Tarikh ke Timestamp Unix",
   "short_name": "Tarikh ke Timestamp Unix",
   "description": "Penukaran tarikh dan waktu ke timestamp Unix-nya dalam saat dan milidetik, dalam UTC atau zon waktu setempat Anda.",
-  "id": "/loona-dev-tools/ms/date-to-unix-timestamp/",
+  "id": "/ms/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

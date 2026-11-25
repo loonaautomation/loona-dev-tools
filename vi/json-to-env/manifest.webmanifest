@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi JSON sang .env của Loona",
   "short_name": "Công cụ chuyển đổi JSON sang .env",
   "description": "Chuyển đổi cấu hình JSON sang định dạng .env: các đối tượng lồng nhau được làm phẳng bằng đường dẫn UNDERSCORE, giá trị được trích dẫn khi chúng chứa dấu cách hoặc #.",
-  "id": "/loona-dev-tools/vi/json-to-env/",
+  "id": "/vi/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

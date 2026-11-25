@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Robots.txt Bure Mtandaoni",
   "short_name": "Kizalishaji cha Robots.txt Mtandaoni",
   "description": "Zalisha robots.txt halali mtandaoni bure - mipangilio tayari, kanuni za ruhusa na katazo kwa kila wakala, mstari wa ramani ya tovuti na ukaguzi wa akili wa sintaksia uliojengewa. Bila kujisajili, hufanya kazi kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/robots-txt-generator/",
+  "id": "/sw/robots-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

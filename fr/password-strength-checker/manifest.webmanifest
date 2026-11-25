@@ -2,7 +2,7 @@
   "name": "Vérificateur de force de mot de passe Loona en ligne gratuit",
   "short_name": "Vérificateur de force de mot de passe",
   "description": "Vérifiez la force des mots de passe en ligne et gratuitement avec une estimation d’entropie transparente, des retours précis et une estimation du temps de craquage. Le mot de passe ne quitte jamais votre navigateur - rien n’est envoyé ni stocké.",
-  "id": "/loona-dev-tools/fr/password-strength-checker/",
+  "id": "/fr/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

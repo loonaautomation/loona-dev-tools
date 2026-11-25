@@ -2,7 +2,7 @@
   "name": "Loona Lorem-Ipsum-Generator",
   "short_name": "Lorem-Ipsum-Generator",
   "description": "Generieren Sie Lorem-Ipsum-Platzhaltertext: Wählen Sie Absätze, Sätze oder Wörter, mit der klassischen Eröffnungszeile optional.",
-  "id": "/loona-dev-tools/de/lorem-ipsum-generator/",
+  "id": "/de/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

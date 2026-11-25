@@ -2,7 +2,7 @@
   "name": "Loona Open Graph & Twitter-kaart-generator",
   "short_name": "Open Graph & Twitter-kaart",
   "description": "Genereer Open Graph- en Twitter Card-metatags online gratis, met een live sociaal kaartvoorbeeld - titel, beschrijving, afbeelding, URL en sitenaam. Geen registratie, draait in je browser.",
-  "id": "/loona-dev-tools/nl/open-graph-generator/",
+  "id": "/nl/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

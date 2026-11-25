@@ -2,7 +2,7 @@
   "name": "Převodník Loona 7Z na ZIP online zdarma",
   "short_name": "Převodník 7Z na ZIP online",
   "description": "Převeďte archiv 7Z (.7z) na standardní soubor ZIP přímo ve vašem prohlížeči. Struktura složek zachována, nic se nenahrává - a výsledný ZIP se nativně otevře na Windows, macOS, Androidu a iPhonu, 7-Zip není potřeba.",
-  "id": "/loona-dev-tools/cs/7z-to-zip-converter/",
+  "id": "/cs/7z-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

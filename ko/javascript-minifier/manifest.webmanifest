@@ -2,7 +2,7 @@
   "name": "Loona JavaScript 축소기 온라인 무료",
   "short_name": "JavaScript 축소기 온라인",
   "description": "문자열, 템플릿 리터럴, 정규식을 보호하는 보수적인 토크나이저로 JavaScript를 온라인에서 무료로 축소해요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
-  "id": "/loona-dev-tools/ko/javascript-minifier/",
+  "id": "/ko/javascript-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

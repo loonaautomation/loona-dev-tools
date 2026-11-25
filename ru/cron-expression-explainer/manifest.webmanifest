@@ -2,7 +2,7 @@
   "name": "Loona Объяснение выражений cron",
   "short_name": "Объяснение выражений Cron",
   "description": "Объясняйте выражения cron простым языком: вставьте расписание cron из 5 полей и прочитайте, когда оно выполняется, поле за полем.",
-  "id": "/loona-dev-tools/ru/cron-expression-explainer/",
+  "id": "/ru/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kisimbaji na Kisimbuaji cha URL Bure Mtandaoni",
   "short_name": "Kisimbaji & Kisimbuaji cha URL Mtandaoni",
   "description": "Simba na simbua URL na maandishi ya hoja mtandaoni bure, kwa hali za kipengele na URL kamili na uchanganuzi wa kila herufi. Bila kujisajili, kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/url-encoder/",
+  "id": "/sw/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

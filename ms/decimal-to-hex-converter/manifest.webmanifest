@@ -2,7 +2,7 @@
   "name": "Loona Penukar Desimal ke Heksadesimal",
   "short_name": "Desimal ke Heksadesimal",
   "description": "Penukaran angka desimal ke heksadesimal dalam talian — presisi arbitrer (BigInt), angka negatif didukung.",
-  "id": "/loona-dev-tools/ms/decimal-to-hex-converter/",
+  "id": "/ms/decimal-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

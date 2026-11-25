@@ -2,7 +2,7 @@
   "name": "Loona slug-generator (URL-slugmaker)",
   "short_name": "Slug-generator (URL-slug",
   "description": "Genereer schone URL-slugs uit titels: accenten gestript, kleine letters, spaties naar koppeltekens (of underscores). Gratis slugmaker.",
-  "id": "/loona-dev-tools/nl/slug-generator/",
+  "id": "/nl/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

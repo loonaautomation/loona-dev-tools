@@ -2,7 +2,7 @@
   "name": "Loona CRC32 چیک سم کیلکولیٹر",
   "short_name": "CRC32 چیک سم کیلکولیٹر",
   "description": "متن یا فائلوں کے CRC32 ہیشز آن لائن گنیں: 32-bit, 8 ہیکس حروف۔ آپ کے براؤزر میں WebCrypto/pure JS کے ساتھ مقامی طور پر چلتا ہے — فائلیں کبھی اپ لوڈ نہیں ہوتیں۔",
-  "id": "/loona-dev-tools/ur/crc32-calculator/",
+  "id": "/ur/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

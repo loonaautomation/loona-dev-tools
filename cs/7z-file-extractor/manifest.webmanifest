@@ -2,7 +2,7 @@
   "name": "Loona Extraktor souborů 7Z online zdarma",
   "short_name": "Extraktor souborů 7Z online zdarma",
   "description": "Otevírejte archivy 7z přímo ve svém prohlížeči - uvidíte každý soubor uvnitř, stáhnete jednotlivé soubory nebo vše jako ZIP. Nic se nenahrává; extrakce se děje na vašem zařízení enginem WebAssembly.",
-  "id": "/loona-dev-tools/cs/7z-file-extractor/",
+  "id": "/cs/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

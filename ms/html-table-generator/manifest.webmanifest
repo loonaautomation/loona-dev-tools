@@ -2,7 +2,7 @@
   "name": "Loona Penjana Jadual HTML Dalam Talian Percuma",
   "short_name": "Penjana Jadual HTML Dalam Talian",
   "description": "Buat jadual HTML dalam talian secara percuma - atur baris dan lajur, taip ke dalam grid, dan dapatkan HTML jadual yang bersih dengan sokongan thead, th, dan caption ditambah pratonton langsung. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/ms/html-table-generator/",
+  "id": "/ms/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

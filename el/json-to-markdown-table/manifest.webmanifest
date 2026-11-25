@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας JSON σε Πίνακα Markdown",
   "short_name": "JSON σε Πίνακα Markdown",
   "description": "Μετατρέψτε έναν πίνακα αντικειμένων JSON σε πίνακα Markdown: στήλες από τα κλειδιά, κάθετοι χαρακτήρες διαφευγμένοι, έτοιμο για επικόλληση σε README.",
-  "id": "/loona-dev-tools/el/json-to-markdown-table/",
+  "id": "/el/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

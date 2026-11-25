@@ -2,7 +2,7 @@
   "name": "Loona Binääri-oktaalimuunnin",
   "short_name": "Binääri-oktaalimuunnin",
   "description": "Muunna binäärilukuja oktaaliksi verkossa — mielivaltainen tarkkuus (BigInt), negatiiviset luvut tuettuna.",
-  "id": "/loona-dev-tools/fi/binary-to-octal-converter/",
+  "id": "/fi/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

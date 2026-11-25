@@ -2,7 +2,7 @@
   "name": "Extraktor souborů Loona Unzip online zdarma",
   "short_name": "Extraktor souborů Unzip online",
   "description": "Otevřete soubor ZIP ve svém prohlížeči, uvidíte každý soubor uvnitř s jeho velikostí a extrahujete jednotlivé soubory nebo všechny. Nic se nenahrává; extrakce se děje na vašem zařízení.",
-  "id": "/loona-dev-tools/cs/unzip-file-extractor/",
+  "id": "/cs/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

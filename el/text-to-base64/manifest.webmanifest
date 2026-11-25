@@ -2,7 +2,7 @@
   "name": "Loona Κωδικοποιητής Κειμένου σε Base64",
   "short_name": "Κωδικοποιητής Κειμένου σε Base64",
   "description": "Κωδικοποιήστε κείμενο σε Base64 διαδικτυακά, ασφαλές για UTF-8 για οποιαδήποτε γλώσσα και emoji, με προαιρετικό αλφάβητο ασφαλές για URL. Δωρεάν, ιδιωτικό, στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-dev-tools/el/text-to-base64/",
+  "id": "/el/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

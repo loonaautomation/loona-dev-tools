@@ -2,7 +2,7 @@
   "name": "Loona SHA-384-tiivistegeneraattori",
   "short_name": "SHA-384-tiivistegeneraattori",
   "description": "Laske tekstien tai tiedostojen SHA-384-tiiviisteitä verkossa: 384-bittinen, 96 heksamerkkiä. Toimii paikallisesti selaimessasi WebCryptolla / puhtaalla JS:llä — tiedostoja ei koskaan lähetetä palvelimelle.",
-  "id": "/loona-dev-tools/fi/sha384-hash-generator/",
+  "id": "/fi/sha384-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha CSV kwenda Jedwali la Markdown Mtandaoni",
   "short_name": "CSV kwenda Jedwali la Markdown",
   "description": "Badilisha CSV kuwa jedwali la Markdown mtandaoni bure - safu wima za nambari zimepangwa kulia kiotomatiki na herufi za neli zimetoroshwa vizuri. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/csv-to-markdown-converter/",
+  "id": "/sw/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

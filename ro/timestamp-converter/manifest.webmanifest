@@ -2,7 +2,7 @@
   "name": "Convertizor de marcaje temporale Unix Loona online gratuit",
   "short_name": "Convertizor de marcaje temporale Unix",
   "description": "Convertește marcaje temporale Unix (secunde sau milisecunde) în date umane în UTC și ora ta locală și date înapoi în marcaje temporale. Ora curentă în direct. Gratuit.",
-  "id": "/loona-dev-tools/ro/timestamp-converter/",
+  "id": "/ro/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Transpor CSV Online Grátis",
   "short_name": "Transpor CSV Online Grátis",
   "description": "Transponha CSV online gratuitamente - troque linhas e colunas com um analisador RFC 4180 adequado que trata campos entre aspas corretamente. Sem registo, funciona 100% no seu navegador.",
-  "id": "/loona-dev-tools/pt-pt/csv-transpose/",
+  "id": "/pt-pt/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

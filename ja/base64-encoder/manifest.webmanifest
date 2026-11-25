@@ -2,7 +2,7 @@
   "name": "Loona Base64エンコーダー＆デコーダー 無料オンライン",
   "short_name": "Base64エンコーダー＆デコーダー",
   "description": "テキストやファイルをBase64にエンコードし、Base64をデコードして戻せます。あらゆる言語と絵文字に対応したUTF-8セーフ、URLセーフオプション付きです。無料、登録不要、ブラウザで完結します。",
-  "id": "/loona-dev-tools/ja/base64-encoder/",
+  "id": "/ja/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

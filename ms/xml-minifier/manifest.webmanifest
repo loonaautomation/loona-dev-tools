@@ -2,7 +2,7 @@
   "name": "Loona Minifier XML",
   "short_name": "Minifier XML",
   "description": "Minifikasi XML dalam talian: buang komentar dan whitespace antar-tag menjadi satu baris ringkas.",
-  "id": "/loona-dev-tools/ms/xml-minifier/",
+  "id": "/ms/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

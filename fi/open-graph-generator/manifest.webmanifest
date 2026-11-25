@@ -2,7 +2,7 @@
   "name": "Loona Open Graph- ja Twitter Card -generaattori",
   "short_name": "Open Graph ja Twitter Card",
   "description": "Luo Open Graph- ja Twitter Card -meta-tunnisteita verkossa ilmaiseksi, elävällä sosiaalisen median korttiesikatselulla - otsikko, kuvaus, kuva, URL ja sivuston nimi. Ei rekisteröitymistä, toimii selaimessasi.",
-  "id": "/loona-dev-tools/fi/open-graph-generator/",
+  "id": "/fi/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

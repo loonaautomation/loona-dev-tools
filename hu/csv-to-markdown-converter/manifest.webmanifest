@@ -2,7 +2,7 @@
   "name": "Loona CSV-ből Markdown táblázattá átalakító online",
   "short_name": "CSV–Markdown táblázat",
   "description": "Alakítson CSV-t Markdown táblázattá online ingyen - a numerikus oszlopok automatikusan jobbra igazítva, a függőleges vonal karakterek helyesen escape-elve. Regisztráció nélkül, 100%-ban a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/csv-to-markdown-converter/",
+  "id": "/hu/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona HTML Varlık Kodlayıcı ve Kod Çözücü Çevrimiçi Ücretsiz",
   "short_name": "HTML Varlık Kodlayıcı ve Kod Çözücü",
   "description": "Metni HTML varlıklarına kodlayın (&amp;copy; gibi adlandırılmış veya &amp;#169; gibi numaralı) ve varlıkları düz metne geri çözün. Ücretsiz, kayıt gerekmez, tarayıcınızda.",
-  "id": "/loona-dev-tools/tr/html-entity-encoder/",
+  "id": "/tr/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV Pivot और Group-By ऑनलाइन मुफ़्त",
   "short_name": "CSV Pivot और Group-By ऑनलाइन",
   "description": "CSV data ऑनलाइन मुफ़्त pivot करें — rows को किसी column से group करें और value column का sum, count, average, minimum या maximum calculate करें। कोई साइन-अप नहीं, 100% आपके ब्राउज़र में चलता है।",
-  "id": "/loona-dev-tools/hi/csv-pivot-group-by/",
+  "id": "/hi/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

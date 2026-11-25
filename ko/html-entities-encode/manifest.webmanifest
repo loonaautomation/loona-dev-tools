@@ -2,7 +2,7 @@
   "name": "Loona HTML 엔터티 인코더",
   "short_name": "HTML 엔터티 인코더",
   "description": "특수 문자를 HTML 엔터티로 인코딩해요: 이름(&copy;), 십진수 또는 십육진수 숫자 참조예요. 마크업, 따옴표, 비 ASCII 텍스트를 이스케이프해요.",
-  "id": "/loona-dev-tools/ko/html-entities-encode/",
+  "id": "/ko/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

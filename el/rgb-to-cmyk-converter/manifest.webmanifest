@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας RGB σε CMYK",
   "short_name": "Μετατροπέας RGB σε CMYK",
   "description": "Μετατρέψτε χρώματα από RGB σε CMYK διαδικτυακά, με ζωντανό δείγμα και όλες τις άλλες μορφές (HEX, RGB, HSL, HSV, CMYK) να εμφανίζονται επίσης.",
-  "id": "/loona-dev-tools/el/rgb-to-cmyk-converter/",
+  "id": "/el/rgb-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

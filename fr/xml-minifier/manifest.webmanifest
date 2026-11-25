@@ -2,7 +2,7 @@
   "name": "Minifieur XML Loona",
   "short_name": "Minifieur XML",
   "description": "Minifiez le XML en ligne : retirez les commentaires et les espaces entre balises en une seule ligne compacte.",
-  "id": "/loona-dev-tools/fr/xml-minifier/",
+  "id": "/fr/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

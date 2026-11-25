@@ -2,7 +2,7 @@
   "name": "Loona JSON থেকে .env কনভার্টার",
   "short_name": "JSON থেকে .env কনভার্টার",
   "description": "JSON কনফিগ .env ফরম্যাটে রূপান্তর করুন: UNDERSCORE পথ দিয়ে নেস্টেড অবজেক্ট সমতল, মান স্পেস বা # ধারণ করলে উদ্ধৃত।",
-  "id": "/loona-dev-tools/bn/json-to-env/",
+  "id": "/bn/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

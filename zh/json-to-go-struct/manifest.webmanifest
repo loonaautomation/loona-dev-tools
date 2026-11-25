@@ -2,7 +2,7 @@
   "name": "Loona JSON 转 Go 结构体转换器",
   "short_name": "JSON 转 Go 结构体转换器",
   "description": "把 JSON 转换成带 json 标签的 Go 结构体定义：区分 int64/float64，对在某些数组项中缺失的键使用 omitempty。",
-  "id": "/loona-dev-tools/zh/json-to-go-struct/",
+  "id": "/zh/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

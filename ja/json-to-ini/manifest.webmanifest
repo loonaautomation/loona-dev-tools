@@ -2,7 +2,7 @@
   "name": "Loona JSON→INI変換ツール",
   "short_name": "JSON→INI変換ツール",
   "description": "JSONオブジェクトをINI形式に変換：トップレベルのスカラーを最初に、ネストしたオブジェクトは [sections] として。無料のオンライン変換ツール。",
-  "id": "/loona-dev-tools/ja/json-to-ini/",
+  "id": "/ja/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

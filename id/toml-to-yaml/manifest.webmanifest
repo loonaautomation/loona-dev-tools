@@ -2,7 +2,7 @@
   "name": "Loona Konverter TOML ke YAML",
   "short_name": "Konverter TOML ke YAML",
   "description": "Konversi TOML ke YAML online: table menjadi pemetaan bersarang, array table menjadi daftar objek.",
-  "id": "/loona-dev-tools/id/toml-to-yaml/",
+  "id": "/id/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Parser ciągu User Agent",
   "short_name": "Parser ciągu User Agent",
   "description": "Analizuj ciąg User-Agent przeglądarki na przeglądarkę, silnik, system operacyjny i typ urządzenia przy przejrzystym parserze opartym na regułach.",
-  "id": "/loona-dev-tools/pl/user-agent-parser/",
+  "id": "/pl/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Convertizor tabel Markdown în CSV Loona",
   "short_name": "Tabel Markdown în CSV",
   "description": "Convertește un tabel Markdown în CSV: antet și rânduri extrase, rândul de aliniere eliminat, celule tăiate și puse între ghilimele corect.",
-  "id": "/loona-dev-tools/ro/markdown-table-to-csv/",
+  "id": "/ro/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

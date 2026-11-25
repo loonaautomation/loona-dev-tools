@@ -2,7 +2,7 @@
   "name": "Loona Punycode kódoló (IDN domain átalakító)",
   "short_name": "Punycode kódoló (IDN domain",
   "description": "Alakítson nemzetköziesített domain neveket (IDN) punycode xn-- formára: a bücher.example ebből lesz xn--bcher-kva.example. Címkénkénti kódolás.",
-  "id": "/loona-dev-tools/hu/punycode-encode/",
+  "id": "/hu/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

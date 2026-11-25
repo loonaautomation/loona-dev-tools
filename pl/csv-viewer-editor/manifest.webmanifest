@@ -2,7 +2,7 @@
   "name": "Loona Przeglądarka i edytor CSV online za darmo",
   "short_name": "Przeglądarka i edytor CSV online",
   "description": "Przeglądaj i edytuj pliki CSV online za darmo w edytowalnej siatce tabeli - edytuj komórki, sortuj kolumny, dodawaj lub usuwaj wiersze i kolumny, a potem pobierz edytowany CSV. Bez rejestracji, działa w przeglądarce.",
-  "id": "/loona-dev-tools/pl/csv-viewer-editor/",
+  "id": "/pl/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

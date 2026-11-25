@@ -2,7 +2,7 @@
   "name": "Loona Cron-Ausdruck-Erklärer",
   "short_name": "Cron-Ausdruck-Erklärer",
   "description": "Erklären Sie Cron-Ausdrücke in einfachem Englisch: Fügen Sie einen Cron-Zeitplan mit 5 Feldern ein und lesen Sie, wann er läuft, Feld für Feld.",
-  "id": "/loona-dev-tools/de/cron-expression-explainer/",
+  "id": "/de/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

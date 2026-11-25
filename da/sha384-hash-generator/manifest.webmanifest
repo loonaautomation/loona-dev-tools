@@ -2,7 +2,7 @@
   "name": "Loona SHA-384 Hash-generator",
   "short_name": "SHA-384 Hash-generator",
   "description": "Beregn SHA-384-hashes af tekst eller filer online: 384-bit, 96 hex-tegn. Kører lokalt i din browser med WebCrypto/ren JS — filer uploades aldrig.",
-  "id": "/loona-dev-tools/da/sha384-hash-generator/",
+  "id": "/da/sha384-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

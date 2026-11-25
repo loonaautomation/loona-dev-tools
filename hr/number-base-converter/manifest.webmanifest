@@ -2,7 +2,7 @@
   "name": "Loona pretvarač brojevnih sustava na mreži besplatno",
   "short_name": "Pretvarač brojevnih sustava na mreži",
   "description": "Pretvorite brojeve između binarnog, oktalnog, decimalnog i heksadekadskog sustava na mreži besplatno, uz BigInt preciznost za vrijednosti iza 2^53 i provjeru po znamenki. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/number-base-converter/",
+  "id": "/hr/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

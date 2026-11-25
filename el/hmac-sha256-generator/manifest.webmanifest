@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια HMAC-SHA256",
   "short_name": "Γεννήτρια HMAC-SHA256",
   "description": "Δημιουργήστε υπογραφές HMAC-SHA256 διαδικτυακά: εισαγάγετε ένα κλειδί και ένα μήνυμα, πάρτε το MAC σε δεκαεξαδικό. WebCrypto, εντελώς τοπικά.",
-  "id": "/loona-dev-tools/el/hmac-sha256-generator/",
+  "id": "/el/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

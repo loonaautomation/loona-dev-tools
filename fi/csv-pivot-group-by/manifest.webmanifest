@@ -2,7 +2,7 @@
   "name": "Loona CSV-pivot & ryhmittely verkossa ilmaiseksi",
   "short_name": "CSV-pivot & ryhmittely verkossa",
   "description": "Pivotoi CSV-dataa verkossa ilmaiseksi - ryhmittele rivit minkä tahansa sarakkeen mukaan ja laske arvosarakkeen summa, määrä, keskiarvo, minimi tai maksimi. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/csv-pivot-group-by/",
+  "id": "/fi/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

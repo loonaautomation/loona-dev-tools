@@ -2,7 +2,7 @@
   "name": "Loona UTM linképítő online ingyen",
   "short_name": "UTM linképítő online ingyen",
   "description": "Építsen UTM-címkézett kampány URL-eket online ingyen - forrás, médium, kampány, kifejezés és tartalom helyes kódolással hozzáadva, a meglévő lekérdezési paraméterek megőrizve, plusz mentett előzmények.",
-  "id": "/loona-dev-tools/hu/utm-link-builder/",
+  "id": "/hu/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

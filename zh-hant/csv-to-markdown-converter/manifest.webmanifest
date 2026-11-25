@@ -2,7 +2,7 @@
   "name": "Loona CSV 轉 Markdown 表格轉換器 線上版",
   "short_name": "CSV 轉 Markdown 表格",
   "description": "免費線上把 CSV 轉換成 Markdown 表格——數字列自動右對齊，豎線字元正確轉義。無需註冊，100% 在您的瀏覽器中執行。",
-  "id": "/loona-dev-tools/zh-hant/csv-to-markdown-converter/",
+  "id": "/zh-hant/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

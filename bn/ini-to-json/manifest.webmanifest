@@ -2,7 +2,7 @@
   "name": "Loona INI থেকে JSON কনভার্টার",
   "short_name": "INI থেকে JSON কনভার্টার",
   "description": "INI কনফিগারেশন ফাইল JSON-এ রূপান্তর করুন: বিভাগ অবজেক্ট হয়, মান অস্পষ্ট না হলে টাইপ করা হয় (সংখ্যা, বুলিয়ান)।",
-  "id": "/loona-dev-tools/bn/ini-to-json/",
+  "id": "/bn/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

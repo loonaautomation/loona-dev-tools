@@ -2,7 +2,7 @@
   "name": "Loona مختبِر JSONPath",
   "short_name": "مختبِر JSONPath",
   "description": "اختبر تعبيرات JSONPath مقابل مستند JSON: ترميز النقطة، الفهارس، أحرف البدل والنزول المتكرر ($..key) مدعومة.",
-  "id": "/loona-dev-tools/ar/jsonpath-tester/",
+  "id": "/ar/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

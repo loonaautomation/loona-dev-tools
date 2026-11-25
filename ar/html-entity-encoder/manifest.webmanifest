@@ -2,7 +2,7 @@
   "name": "Loona مشفّر وفاكّ تشفير كيان HTML عبر الإنترنت مجاناً",
   "short_name": "مشفّر وفاكّ تشفير كيان HTML",
   "description": "رمّز النص إلى كيانات HTML (مسمّاة مثل &amp;copy; أو مرقّمة مثل &amp;#169;) وفكّ الكيانات عودة إلى نص عادي. مجاني، دون تسجيل، في متصفحك.",
-  "id": "/loona-dev-tools/ar/html-entity-encoder/",
+  "id": "/ar/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

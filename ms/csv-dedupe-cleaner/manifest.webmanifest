@@ -2,7 +2,7 @@
   "name": "Loona Dedupe & Pembersih CSV Dalam Talian Percuma",
   "short_name": "Dedupe & Pembersih CSV Dalam Talian",
   "description": "Padam baris duplikat dari CSV dalam talian percuma - berdasarkan seluruh baris atau lajur kunci - plus pangkas whitespace, buang baris kosong, dan normalkan akhir baris, dengan kiraan sebelum/selepas. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/ms/csv-dedupe-cleaner/",
+  "id": "/ms/csv-dedupe-cleaner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generátor hashov Loona MD5",
   "short_name": "Generátor hashov MD5",
   "description": "Vypočítajte hashe MD5 textu alebo súborov online: 128-bitové, 32 hexadecimálnych znakov. Beží lokálne vo vašom prehliadači pomocou WebCrypto/čistého JS — súbory sa nikdy nenahrávajú.",
-  "id": "/loona-dev-tools/sk/md5-hash-generator/",
+  "id": "/sk/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

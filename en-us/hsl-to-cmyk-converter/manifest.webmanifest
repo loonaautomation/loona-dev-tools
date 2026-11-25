@@ -2,7 +2,7 @@
   "name": "Loona HSL to CMYK Converter",
   "short_name": "HSL to CMYK Converter",
   "description": "Convert colors from HSL to CMYK online, with a live swatch and all other formats (HEX, RGB, HSL, HSV, CMYK) shown too.",
-  "id": "/loona-dev-tools/en-us/hsl-to-cmyk-converter/",
+  "id": "/en-us/hsl-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

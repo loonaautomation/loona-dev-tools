@@ -2,7 +2,7 @@
   "name": "Loona Konverter XML ke YAML",
   "short_name": "Konverter XML ke YAML",
   "description": "Konversi XML ke YAML: atribut sebagai @key, elemen berulang sebagai daftar, nilai bertipe. Parser sungguhan, bukan regex.",
-  "id": "/loona-dev-tools/id/xml-to-yaml/",
+  "id": "/id/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

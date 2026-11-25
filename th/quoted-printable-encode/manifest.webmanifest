@@ -2,7 +2,7 @@
   "name": "Loona ตัวเข้ารหัส Quoted-Printable",
   "short_name": "ตัวเข้ารหัส Quoted-Printable",
   "description": "เข้ารหัสข้อความเป็น quoted-printable (MIME) ออนไลน์: ไบต์ UTF-8 เป็น escape =XX การตัดบรรทัดแบบอ่อนที่ 76 ตัวอักษร ตาม RFC 2045",
-  "id": "/loona-dev-tools/th/quoted-printable-encode/",
+  "id": "/th/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

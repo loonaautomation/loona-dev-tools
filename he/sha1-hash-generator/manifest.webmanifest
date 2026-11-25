@@ -2,7 +2,7 @@
   "name": "מחולל גיבוב Loona SHA-1",
   "short_name": "מחולל גיבוב SHA-1",
   "description": "חשבו גיבובי SHA-1 של טקסט או קבצים באופן מקוון: 160 סיביות, 40 תווי hex. פועל מקומית בדפדפן שלכם עם WebCrypto/JS טהור — קבצים לעולם לא מועלים.",
-  "id": "/loona-dev-tools/he/sha1-hash-generator/",
+  "id": "/he/sha1-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

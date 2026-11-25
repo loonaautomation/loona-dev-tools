@@ -2,7 +2,7 @@
   "name": "Loona CSS मिनिफ़ायर ऑनलाइन मुफ़्त",
   "short_name": "CSS मिनिफ़ायर ऑनलाइन मुफ़्त",
   "description": "CSS ऑनलाइन मुफ़्त minify करें और ठीक देखें यह कितना छोटा हो जाता है, या minified CSS को वापस पठनीय code में beautify करें। कोई साइन-अप नहीं, 100% आपके ब्राउज़र में चलता है।",
-  "id": "/loona-dev-tools/hi/css-minifier/",
+  "id": "/hi/css-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

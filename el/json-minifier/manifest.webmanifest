@@ -2,7 +2,7 @@
   "name": "Loona Συμπιεστής JSON",
   "short_name": "Συμπιεστής JSON",
   "description": "Συμπιέστε JSON διαδικτυακά: αφαιρέστε όλα τα ασήμαντα κενά σε μία συμπαγή γραμμή, με τα σφάλματα επικύρωσης να αναφέρονται με ακρίβεια.",
-  "id": "/loona-dev-tools/el/json-minifier/",
+  "id": "/el/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

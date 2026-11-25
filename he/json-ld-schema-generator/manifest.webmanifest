@@ -2,7 +2,7 @@
   "name": "מחולל סכמות Loona JSON-LD מקוון בחינם",
   "short_name": "מחולל סכמות JSON-LD",
   "description": "צרו נתונים מובנים של schema.org JSON-LD באופן מקוון בחינם - Article, LocalBusiness, Product, Event, Recipe, Person, Organization ו-WebSite - כבלוק סקריפט מוכן. בלי הרשמה.",
-  "id": "/loona-dev-tools/he/json-ld-schema-generator/",
+  "id": "/he/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

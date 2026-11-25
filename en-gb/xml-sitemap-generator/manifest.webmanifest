@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/xml-sitemap-generator/",
+  "id": "/en-gb/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง Pixels (px) เป็น Rem",
   "short_name": "ตัวแปลงพิกเซล (px) เป็น Rem",
   "description": "แปลง px เป็น rem ด้วยขนาดฟอนต์ฐานที่ปรับได้ (ค่าเริ่มต้น 16px) และตารางค่าทั่วไป",
-  "id": "/loona-dev-tools/th/px-to-rem-converter/",
+  "id": "/th/px-to-rem-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

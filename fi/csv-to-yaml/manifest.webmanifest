@@ -2,7 +2,7 @@
   "name": "Loona CSV-YAML-muunnin",
   "short_name": "CSV-YAML-muunnin",
   "description": "Muunna CSV-taulukoita YAML:iksi: otsikkorivistä tulee avaimet, jokainen rivi YAML-luettelon alkio, luvut tyypitettyinä.",
-  "id": "/loona-dev-tools/fi/csv-to-yaml/",
+  "id": "/fi/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

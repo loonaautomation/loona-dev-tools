@@ -2,7 +2,7 @@
   "name": "Loona Справочник типов MIME (типы содержимого по",
   "short_name": "Справочник типов MIME (содержимое",
   "description": "Обычные типы MIME по расширению файла: документы, изображения, аудио, видео, архивы, шрифты и веб-форматы с их значениями Content-Type.",
-  "id": "/loona-dev-tools/ru/mime-types-reference/",
+  "id": "/ru/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

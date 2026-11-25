@@ -2,7 +2,7 @@
   "name": "Генератор на CSS Box Shadow на Loona онлайн безплатно",
   "short_name": "Генератор на CSS Box Shadow",
   "description": "Генерирайте безплатно онлайн CSS box-shadow - множество слоеве сенки, вътрешни сенки, контрол на цвета и непрозрачността, с преглед на живо и готов CSS. Без регистрация, работи в браузъра ви.",
-  "id": "/loona-dev-tools/bg/css-box-shadow-generator/",
+  "id": "/bg/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Convertizor JSON în interfață TypeScript Loona",
   "short_name": "JSON în interfață TypeScript",
   "description": "Convertește JSON în interfețe TypeScript online: obiectele imbricate devin interfețe numite, tablourile de obiecte își îmbină cheile cu câmpuri opționale marcate.",
-  "id": "/loona-dev-tools/ro/json-to-typescript/",
+  "id": "/ro/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

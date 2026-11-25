@@ -2,7 +2,7 @@
   "name": "Loona মেটা ট্যাগ জেনারেটর অনলাইন বিনামূল্যে",
   "short_name": "মেটা ট্যাগ জেনারেটর অনলাইন বিনামূল্যে",
   "description": "বিনামূল্যে অনলাইনে HTML মেটা ট্যাগ তৈরি করুন - শিরোনাম, বর্ণনা, কীওয়ার্ড, লেখক, robots ও canonical - একটি লাইভ Google-ধরনের SERP প্রিভিউ ও অক্ষর গণনাসহ। কোনো সাইন-আপ নয়।",
-  "id": "/loona-dev-tools/bn/meta-tag-generator/",
+  "id": "/bn/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

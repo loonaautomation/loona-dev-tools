@@ -2,7 +2,7 @@
   "name": "Конвертер Loona CSV у YAML",
   "short_name": "Конвертер CSV у YAML",
   "description": "Конвертуйте таблиці CSV у YAML: рядок заголовка стає ключами, кожен рядок — елемент списку YAML, числа типізовано.",
-  "id": "/loona-dev-tools/uk/csv-to-yaml/",
+  "id": "/uk/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

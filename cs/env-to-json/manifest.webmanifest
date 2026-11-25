@@ -2,7 +2,7 @@
   "name": "Převodník Loona .env na JSON",
   "short_name": "Převodník .env na JSON",
   "description": "Analyzujte soubor .env na JSON: řádky KEY=value, předpony export, komentáře a hodnoty v uvozovkách zvládnuty.",
-  "id": "/loona-dev-tools/cs/env-to-json/",
+  "id": "/cs/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

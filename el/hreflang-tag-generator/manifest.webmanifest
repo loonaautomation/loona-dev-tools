@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Ετικετών Hreflang Διαδικτυακά Δωρεάν",
   "short_name": "Γεννήτρια Ετικετών Hreflang Διαδικτυακά",
   "description": "Δημιουργήστε ετικέτες hreflang διαδικτυακά δωρεάν - επικολλήστε ζεύγη γλώσσας και URL, προσθέστε ένα x-default και πάρτε το πλήρες σύνολο εναλλακτικών συνδέσμων με ελέγχους BCP 47 και απόλυτων URL. Χωρίς εγγραφή.",
-  "id": "/loona-dev-tools/el/hreflang-tag-generator/",
+  "id": "/el/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Αποκωδικοποιητής Quoted-Printable",
   "short_name": "Αποκωδικοποιητής Quoted-Printable",
   "description": "Αποκωδικοποιήστε κείμενο quoted-printable (MIME) πίσω σε αναγνώσιμο UTF-8: διαφυγές =XX και μαλακές αλλαγές γραμμής χειρίζονται κατά RFC 2045.",
-  "id": "/loona-dev-tools/el/quoted-printable-decode/",
+  "id": "/el/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

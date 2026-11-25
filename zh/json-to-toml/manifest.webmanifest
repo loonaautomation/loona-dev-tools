@@ -2,7 +2,7 @@
   "name": "Loona JSON 转 TOML 转换器",
   "short_name": "JSON 转 TOML 转换器",
   "description": "在线把 JSON 转换成 TOML：标量在前，嵌套对象写为 [表]，对象数组写为 [[表]]。",
-  "id": "/loona-dev-tools/zh/json-to-toml/",
+  "id": "/zh/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

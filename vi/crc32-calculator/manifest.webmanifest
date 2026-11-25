@@ -2,7 +2,7 @@
   "name": "Công cụ tính checksum CRC32 của Loona",
   "short_name": "Công cụ tính checksum CRC32",
   "description": "Tính hash CRC32 của văn bản hoặc tệp trực tuyến: 32 bit, 8 ký tự hex. Chạy cục bộ trong trình duyệt của bạn bằng WebCrypto/JS thuần — tệp không bao giờ được tải lên.",
-  "id": "/loona-dev-tools/vi/crc32-calculator/",
+  "id": "/vi/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

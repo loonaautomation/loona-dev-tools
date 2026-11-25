@@ -2,7 +2,7 @@
   "name": "Loona Regex Tester - Live Matches, Groups and Highlights",
   "short_name": "Regex Tester - Live Matches, Groups and Highlights",
   "description": "Test regular expressions online for free with live match highlighting, capture group details and a match count. No sign-up, runs 100% in your browser.",
-  "id": "/loona-dev-tools/en-us/regex-tester/",
+  "id": "/en-us/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

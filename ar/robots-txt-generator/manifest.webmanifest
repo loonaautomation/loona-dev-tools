@@ -2,7 +2,7 @@
   "name": "Loona منشئ Robots.txt عبر الإنترنت مجاناً",
   "short_name": "منشئ Robots.txt عبر الإنترنت",
   "description": "أنشئ robots.txt صالحاً عبر الإنترنت مجاناً - إعدادات مسبقة، قواعد سماح وحظر لكل وكيل، سطر خريطة موقع وفحوص سلامة بنية مدمجة. دون تسجيل، يعمل في متصفحك.",
-  "id": "/loona-dev-tools/ar/robots-txt-generator/",
+  "id": "/ar/robots-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

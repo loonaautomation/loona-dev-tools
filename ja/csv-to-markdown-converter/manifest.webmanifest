@@ -2,7 +2,7 @@
   "name": "Loona CSV→Markdown表変換ツール オンライン",
   "short_name": "CSV→Markdown表",
   "description": "CSVをMarkdown表に無料でオンライン変換 — 数値の列は自動的に右揃え、パイプ文字は正しくエスケープ。登録不要、ブラウザ内で100%動作します。",
-  "id": "/loona-dev-tools/ja/csv-to-markdown-converter/",
+  "id": "/ja/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

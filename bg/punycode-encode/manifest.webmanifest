@@ -2,7 +2,7 @@
   "name": "Енкодер на Punycode на Loona (конвертор на IDN домейни)",
   "short_name": "Кодиране на Punycode (IDN домейн",
   "description": "Конвертирайте интернационализирани имена на домейни (IDN) във форма punycode xn--: bücher.example става xn--bcher-kva.example. Кодиране по етикет.",
-  "id": "/loona-dev-tools/bg/punycode-encode/",
+  "id": "/bg/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

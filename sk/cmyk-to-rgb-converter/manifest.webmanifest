@@ -2,7 +2,7 @@
   "name": "Prevodník Loona CMYK na RGB",
   "short_name": "Prevodník CMYK na RGB",
   "description": "Prevádzajte farby z CMYK na RGB online, so živým vzorkovníkom a zobrazenými aj všetkými ostatnými formátmi (HEX, RGB, HSL, HSV, CMYK).",
-  "id": "/loona-dev-tools/sk/cmyk-to-rgb-converter/",
+  "id": "/sk/cmyk-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

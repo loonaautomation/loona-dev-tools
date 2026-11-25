@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi 7Z sang ZIP trực tuyến miễn phí của Loona",
   "short_name": "Công cụ chuyển đổi 7Z sang ZIP trực tuyến",
   "description": "Chuyển đổi một tệp lưu trữ 7Z (.7z) thành một tệp ZIP chuẩn ngay trong trình duyệt của bạn. Cấu trúc thư mục được giữ nguyên, không có gì được tải lên - và ZIP kết quả mở nguyên bản trên Windows, macOS, Android và iPhone, không cần 7-Zip.",
-  "id": "/loona-dev-tools/vi/7z-to-zip-converter/",
+  "id": "/vi/7z-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

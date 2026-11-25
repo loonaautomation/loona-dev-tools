@@ -2,7 +2,7 @@
   "name": "Loona Unicode escape átalakító (\\uXXXX)",
   "short_name": "Unicode escape átalakító",
   "description": "Escape-eljen szöveget Unicode escape sorozatokba (\\uXXXX) JSON, JavaScript, Java és properties fájlokhoz. Az emojikat helyettesítő párokkal kezeli.",
-  "id": "/loona-dev-tools/hu/unicode-escape/",
+  "id": "/hu/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

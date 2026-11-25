@@ -2,7 +2,7 @@
   "name": "Loona Penukar Heksadesimal ke Binari",
   "short_name": "Heksadesimal ke Binari",
   "description": "Penukaran angka heksadesimal ke binari dalam talian — presisi arbitrer (BigInt), angka negatif didukung.",
-  "id": "/loona-dev-tools/ms/hex-to-binary-converter/",
+  "id": "/ms/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

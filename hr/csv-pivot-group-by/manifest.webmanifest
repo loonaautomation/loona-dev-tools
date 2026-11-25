@@ -2,7 +2,7 @@
   "name": "Loona CSV pivot i grupiranje na mreži besplatno",
   "short_name": "CSV Pivot i grupiranje na mreži",
   "description": "Pivotirajte CSV podatke na mreži besplatno - grupirajte retke po bilo kojem stupcu i izračunajte zbroj, broj, prosjek, minimum ili maksimum stupca vrijednosti. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/csv-pivot-group-by/",
+  "id": "/hr/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

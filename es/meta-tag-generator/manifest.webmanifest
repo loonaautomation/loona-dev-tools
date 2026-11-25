@@ -2,7 +2,7 @@
   "name": "Loona Generador de metaetiquetas en línea gratis",
   "short_name": "Generador de metaetiquetas en línea gratis",
   "description": "Genera metaetiquetas HTML en línea gratis: título, descripción, palabras clave, autor, robots y canónica, con una vista previa SERP estilo Google en vivo y conteos de caracteres. Sin registro.",
-  "id": "/loona-dev-tools/es/meta-tag-generator/",
+  "id": "/es/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

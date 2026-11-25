@@ -2,7 +2,7 @@
   "name": "Loona CMYK-zu-RGB-Konverter",
   "short_name": "CMYK-zu-RGB-Konverter",
   "description": "Konvertieren Sie Farben online von CMYK zu RGB, mit einer Live-Farbprobe und allen anderen Formaten (HEX, RGB, HSL, HSV, CMYK) ebenfalls angezeigt.",
-  "id": "/loona-dev-tools/de/cmyk-to-rgb-converter/",
+  "id": "/de/cmyk-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

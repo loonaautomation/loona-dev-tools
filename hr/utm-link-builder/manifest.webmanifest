@@ -2,7 +2,7 @@
   "name": "Loona alat za izradu UTM poveznica na mreži besplatno",
   "short_name": "Alat za izradu UTM poveznica na mreži besplatno",
   "description": "Izrađujte URL-ove kampanja označene UTM-om na mreži besplatno - izvor, medij, kampanja, pojam i sadržaj dodani uz ispravno kodiranje, postojeći parametri upita sačuvani, plus spremljena povijest.",
-  "id": "/loona-dev-tools/hr/utm-link-builder/",
+  "id": "/hr/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Công cụ mã hóa JWT của Loona (ký HS256)",
   "short_name": "Công cụ mã hóa JWT (ký HS256)",
   "description": "Tạo và ký JSON Web Token bằng HS256 trong trình duyệt của bạn: payload JSON cộng một khóa bí mật, hoặc alg=none. Ký bằng WebCrypto.",
-  "id": "/loona-dev-tools/vi/jwt-encoder/",
+  "id": "/vi/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

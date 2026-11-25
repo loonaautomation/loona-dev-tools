@@ -2,7 +2,7 @@
   "name": "Loona parser URL-a na mreži besplatno",
   "short_name": "Parser URL-a na mreži besplatno",
   "description": "Raščlanite bilo koji URL na mreži besplatno u protokol, host, port, putanju, parametre upita i hash - uredite parametre i ponovno izgradite URL. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/url-parser/",
+  "id": "/hr/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

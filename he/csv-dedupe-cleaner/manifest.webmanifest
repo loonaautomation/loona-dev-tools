@@ -2,7 +2,7 @@
   "name": "מנקה ומסיר כפילויות Loona CSV מקוון בחינם",
   "short_name": "מנקה ומסיר כפילויות CSV מקוון",
   "description": "הסירו שורות כפולות מ-CSV מקוון בחינם - לפי שורה שלמה או לפי עמודות מפתח - ובנוסף קצצו רווחים, השליכו שורות ריקות וסטנדרטו סיומי שורה, עם ספירות לפני/אחרי. בלי הרשמה.",
-  "id": "/loona-dev-tools/he/csv-dedupe-cleaner/",
+  "id": "/he/csv-dedupe-cleaner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

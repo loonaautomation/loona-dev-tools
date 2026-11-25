@@ -2,7 +2,7 @@
   "name": "Loona JSON-zu-YAML-Konverter",
   "short_name": "JSON-zu-YAML-Konverter",
   "description": "Konvertieren Sie JSON online zu YAML: saubere Einrückung, Arrays und verschachtelte Objekte, Zeichenfolgen nur in Anführungszeichen, wenn YAML es braucht.",
-  "id": "/loona-dev-tools/de/json-to-yaml/",
+  "id": "/de/json-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

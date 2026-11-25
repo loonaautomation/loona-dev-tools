@@ -2,7 +2,7 @@
   "name": "Loona SQL-formatter online gratis",
   "short_name": "SQL-formatter online gratis",
   "description": "Maak SQL online gratis op: trefwoorden in hoofdletters, SELECT-, FROM-, WHERE- en JOIN-clausules op hun eigen regels, strings behouden. Geen registratie, draait 100% in je browser.",
-  "id": "/loona-dev-tools/nl/sql-formatter/",
+  "id": "/nl/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

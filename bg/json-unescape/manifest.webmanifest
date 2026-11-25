@@ -2,7 +2,7 @@
   "name": "Деекраниране на JSON низ на Loona",
   "short_name": "Деекраниране на JSON низ",
   "description": "Деекранирайте стойност на JSON низ обратно в обикновен текст: \\n, \\t, \\&quot;, \\\\ и \\uXXXX последователности стават истински символи.",
-  "id": "/loona-dev-tools/bg/json-unescape/",
+  "id": "/bg/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

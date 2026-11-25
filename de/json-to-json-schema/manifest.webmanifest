@@ -2,7 +2,7 @@
   "name": "Loona JSON-zu-JSON-Schema-Generator",
   "short_name": "JSON-zu-JSON-Schema-Generator",
   "description": "Generieren Sie ein JSON Schema (Draft 2020-12) aus einer JSON-Stichprobe: Typen abgeleitet, Objekt-Eigenschaften und erforderliche Schlüssel enthalten.",
-  "id": "/loona-dev-tools/de/json-to-json-schema/",
+  "id": "/de/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

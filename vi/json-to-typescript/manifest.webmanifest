@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi JSON sang TypeScript Interface của Loona",
   "short_name": "JSON sang TypeScript Interface",
   "description": "Chuyển đổi JSON sang interface TypeScript trực tuyến: các đối tượng lồng nhau trở thành interface có tên, mảng các đối tượng gộp các khóa của chúng với các trường tùy chọn được đánh dấu.",
-  "id": "/loona-dev-tools/vi/json-to-typescript/",
+  "id": "/vi/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

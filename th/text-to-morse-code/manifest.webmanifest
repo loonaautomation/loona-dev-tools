@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลข้อความเป็นรหัสมอร์ส",
   "short_name": "ตัวแปลข้อความเป็นรหัสมอร์ส",
   "description": "แปลข้อความเป็นรหัสมอร์ส (ตัวอักษร ตัวเลข และเครื่องหมายวรรคตอนทั่วไป) คำคั่นด้วย / ตัวแปลรหัสมอร์สฟรี",
-  "id": "/loona-dev-tools/th/text-to-morse-code/",
+  "id": "/th/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

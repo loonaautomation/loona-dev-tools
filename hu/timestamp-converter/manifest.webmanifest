@@ -2,7 +2,7 @@
   "name": "Loona Unix időbélyeg átalakító online ingyen",
   "short_name": "Unix időbélyeg átalakító",
   "description": "Alakítson Unix időbélyegeket (másodperc vagy ezredmásodperc) emberi dátumokká UTC-ben és a helyi idejében, és dátumokat vissza időbélyegekké. Élő aktuális idő. Ingyen.",
-  "id": "/loona-dev-tools/hu/timestamp-converter/",
+  "id": "/hu/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

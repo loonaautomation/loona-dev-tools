@@ -2,7 +2,7 @@
   "name": "מעצב ומאמת Loona XML מקוון בחינם",
   "short_name": "מעצב ומאמת XML",
   "description": "עצבו, ייפו, מזערו ואמתו XML באופן מקוון בחינם - בדיקת תקינות של תגיות מאוזנות עם הודעות שגיאה ברורות, הדפסה יפה עם הזחה. בלי הרשמה.",
-  "id": "/loona-dev-tools/he/xml-formatter/",
+  "id": "/he/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

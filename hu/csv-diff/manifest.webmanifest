@@ -2,7 +2,7 @@
   "name": "Loona CSV különbség és összehasonlítás online ingyen",
   "short_name": "CSV különbség és összehasonlítás online ingyen",
   "description": "Hasonlítson össze két CSV fájlt online ingyen - a sorok egy kulcsoszlop alapján párosítva, és hozzáadott, eltávolított, megváltozott (a pontos cellákkal) vagy változatlan kategóriába sorolva. Regisztráció nélkül, a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/csv-diff/",
+  "id": "/hu/csv-diff/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

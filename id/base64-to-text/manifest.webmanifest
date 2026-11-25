@@ -2,7 +2,7 @@
   "name": "Loona Decoder Base64 ke Teks",
   "short_name": "Decoder Base64 ke Teks",
   "description": "Dekode Base64 kembali ke teks yang dapat dibaca online. Menangani alfabet standar dan aman-URL, teks UTF-8 dalam bahasa apa pun. Gratis dan privat.",
-  "id": "/loona-dev-tools/id/base64-to-text/",
+  "id": "/id/base64-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

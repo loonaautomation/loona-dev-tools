@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ fájlkibontó online ingyen",
   "short_name": "TAR.GZ fájlkibontó online",
   "description": "Nyisson meg tar.gz archívumokat közvetlenül a böngészőjében - a .tar.gz-t és a rövid .tgz nevet is - nézze meg minden fájlt belül, és töltsön le egyetlen fájlt vagy mindent ZIP-ként. Semmi nem töltődik fel.",
-  "id": "/loona-dev-tools/hu/tar-gz-file-extractor/",
+  "id": "/hu/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

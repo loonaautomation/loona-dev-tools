@@ -2,7 +2,7 @@
   "name": "Loona 北約音標字母解碼器",
   "short_name": "北約音標字母解碼器",
   "description": "把北約音標字母詞（Alfa、Bravo、Charlie...）解碼回普通字母和數字。",
-  "id": "/loona-dev-tools/zh-hant/nato-phonetic-decoder/",
+  "id": "/zh-hant/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona UTM-linkbygger online gratis",
   "short_name": "UTM-linkbygger online gratis",
   "description": "Byg UTM-taggede kampagne-URL'er online gratis – source, medium, campaign, term og content tilføjet med korrekt kodning, eksisterende query-parametre bevaret, plus en gemt historik.",
-  "id": "/loona-dev-tools/da/utm-link-builder/",
+  "id": "/da/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

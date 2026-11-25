@@ -2,7 +2,7 @@
   "name": "Công cụ rút gọn JSON Loona",
   "short_name": "Công cụ rút gọn JSON",
   "description": "Rút gọn JSON trực tuyến: loại bỏ mọi khoảng trắng không quan trọng thành một dòng gọn duy nhất, với lỗi kiểm tra hợp lệ được báo cáo chính xác.",
-  "id": "/loona-dev-tools/vi/json-minifier/",
+  "id": "/vi/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

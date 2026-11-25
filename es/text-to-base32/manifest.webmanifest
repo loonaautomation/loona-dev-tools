@@ -2,7 +2,7 @@
   "name": "Loona Codificador de texto a Base32",
   "short_name": "Codificador de texto a Base32",
   "description": "Codifica texto a Base32 (RFC 4648) en línea: la codificación sin distinción de mayúsculas usada en secretos TOTP e identificadores seguros para DNS.",
-  "id": "/loona-dev-tools/es/text-to-base32/",
+  "id": "/es/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona A1Z26 সাইফার এনকোডার (অক্ষর থেকে সংখ্যা)",
   "short_name": "A1Z26 সাইফার এনকোডার (অক্ষর",
   "description": "A1Z26 সাইফার দিয়ে টেক্সট এনকোড করুন: A=1, B=2 ... Z=26। ধ্রুপদি ধাঁধা ও এস্কেপ-রুম কোড।",
-  "id": "/loona-dev-tools/bn/a1z26-cipher-encoder/",
+  "id": "/bn/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

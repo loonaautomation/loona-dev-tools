@@ -2,7 +2,7 @@
   "name": "Loona 로마 숫자를 숫자로",
   "short_name": "로마 숫자를 숫자로",
   "description": "로마 숫자를 숫자(1–3999)로 변환해요, 감산 표기(IV, IX, XL, CM)의 엄격한 검증과 함께요.",
-  "id": "/loona-dev-tools/ko/roman-numerals-converter/",
+  "id": "/ko/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

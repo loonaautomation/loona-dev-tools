@@ -2,7 +2,7 @@
   "name": "Loona Penukar Alamat IP ke Integer",
   "short_name": "Alamat IP ke Integer",
   "description": "Penukaran alamat IPv4 ke bentuk integer 32-bit-nya (192.168.0.1 → 3232235521), digunakan dalam database dan penyemakan rentang.",
-  "id": "/loona-dev-tools/ms/ip-to-integer/",
+  "id": "/ms/ip-to-integer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

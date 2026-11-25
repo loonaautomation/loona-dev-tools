@@ -2,7 +2,7 @@
   "name": "Loona SEO خواندگی چیکر آن لائن مفت",
   "short_name": "SEO خواندگی چیکر",
   "description": "SEO کے لیے مواد کی خواندگی آن لائن مفت جانچیں - ویب کاپی کے لیے Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG اور ARI اسکورز علاوہ جملہ لمبائی کے اعداد۔ کوئی سائن اپ نہیں۔",
-  "id": "/loona-dev-tools/ur/readability-checker/",
+  "id": "/ur/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

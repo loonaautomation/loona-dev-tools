@@ -2,7 +2,7 @@
   "name": "Traducteur de l’alphabet phonétique OTAN Loona (Texte",
   "short_name": "Alphabet phonétique OTAN",
   "description": "Épelez du texte dans l’alphabet phonétique OTAN : A = Alfa, B = Bravo... Comprend les chiffres. Utilisé par l’aviation, l’armée et les appels d’assistance.",
-  "id": "/loona-dev-tools/fr/nato-phonetic-alphabet/",
+  "id": "/fr/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

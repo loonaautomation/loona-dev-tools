@@ -2,7 +2,7 @@
   "name": "Loona JSON til .env-konverterer",
   "short_name": "JSON til .env-konverterer",
   "description": "Konverter JSON-konfigurasjon til .env-format: nøstede objekter flatet ut med UNDERSCORE-baner, verdier i anførselstegn når de inneholder mellomrom eller #.",
-  "id": "/loona-dev-tools/nb/json-to-env/",
+  "id": "/nb/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

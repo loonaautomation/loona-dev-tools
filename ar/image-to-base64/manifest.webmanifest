@@ -2,7 +2,7 @@
   "name": "Loona محوّل الصورة إلى Base64",
   "short_name": "محوّل الصورة إلى Base64",
   "description": "حوّل صورة (PNG، JPG، GIF، WebP، SVG) إلى URI بيانات Base64 عبر الإنترنت — يُقرأ الملف محلياً، مع إحصاءات الأبعاد والحجم.",
-  "id": "/loona-dev-tools/ar/image-to-base64/",
+  "id": "/ar/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

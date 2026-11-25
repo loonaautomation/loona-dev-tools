@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable 인코더",
   "short_name": "Quoted-Printable 인코더",
   "description": "텍스트를 quoted-printable(MIME)로 온라인에서 인코딩해요: UTF-8 바이트를 =XX 이스케이프로, 76자에서 소프트 줄바꿈, RFC 2045에 따라요.",
-  "id": "/loona-dev-tools/ko/quoted-printable-encode/",
+  "id": "/ko/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona URL coderen (percent-encoding)",
   "short_name": "URL coderen (percent-encoding)",
   "description": "Percent-codeer tekst of een volledige URL online: spaties worden %20, gereserveerde tekens worden geëscaped volgens RFC 3986. Component- of volledige-URL-modus.",
-  "id": "/loona-dev-tools/nl/url-encode/",
+  "id": "/nl/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

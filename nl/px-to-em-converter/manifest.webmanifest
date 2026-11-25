@@ -2,7 +2,7 @@
   "name": "Loona pixels (px) naar Em-converter",
   "short_name": "Pixels (px) naar Em-converter",
   "description": "Converteer px naar em met een instelbare basispuntgrootte (standaard 16px) en een tabel met gangbare waarden.",
-  "id": "/loona-dev-tools/nl/px-to-em-converter/",
+  "id": "/nl/px-to-em-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona cURL을 Fetch로 변환",
   "short_name": "cURL을 Fetch로 변환",
   "description": "cURL 명령을 JavaScript fetch() 코드로 변환해요: 헤더, 메서드, 데이터, 기본 인증, --json이 처리돼요.",
-  "id": "/loona-dev-tools/ko/curl-to-fetch/",
+  "id": "/ko/curl-to-fetch/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

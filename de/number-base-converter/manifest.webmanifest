@@ -2,7 +2,7 @@
   "name": "Loona Zahlenbasis-Konverter online kostenlos",
   "short_name": "Zahlenbasis-Konverter online",
   "description": "Konvertieren Sie Zahlen kostenlos online zwischen Binär, Oktal, Dezimal und Hexadezimal, mit BigInt-Genauigkeit für Werte jenseits von 2^53 und Validierung pro Ziffer. Keine Registrierung, läuft zu 100 % in Ihrem Browser.",
-  "id": "/loona-dev-tools/de/number-base-converter/",
+  "id": "/de/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

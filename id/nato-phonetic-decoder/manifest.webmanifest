@@ -2,7 +2,7 @@
   "name": "Loona Decoder Alfabet Fonetik NATO",
   "short_name": "Decoder Alfabet Fonetik NATO",
   "description": "Dekode kata fonetik NATO (Alfa, Bravo, Charlie...) kembali ke huruf dan digit polos.",
-  "id": "/loona-dev-tools/id/nato-phonetic-decoder/",
+  "id": "/id/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

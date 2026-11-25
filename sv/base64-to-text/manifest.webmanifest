@@ -2,7 +2,7 @@
   "name": "Loona Base64 till text-avkodare",
   "short_name": "Base64 till text-avkodare",
   "description": "Avkoda Base64 tillbaka till läsbar text online. Hanterar standard- och URL-säkra alfabet, UTF-8-text på vilket språk som helst. Gratis och privat.",
-  "id": "/loona-dev-tools/sv/base64-to-text/",
+  "id": "/sv/base64-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona NATO fonetikus ábécé dekódoló",
   "short_name": "NATO fonetikus ábécé dekódoló",
   "description": "Dekódolja a NATO fonetikus szavakat (Alfa, Bravo, Charlie...) vissza sima betűkké és számjegyekké.",
-  "id": "/loona-dev-tools/hu/nato-phonetic-decoder/",
+  "id": "/hu/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

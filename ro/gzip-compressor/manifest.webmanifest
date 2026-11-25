@@ -2,7 +2,7 @@
   "name": "Compresor GZIP Loona online gratuit",
   "short_name": "Compresor GZIP online gratuit",
   "description": "Comprimă orice fișier unic într-un .gz folosind motorul gzip încorporat al browserului tău. Dimensiuni înainte/după instant, nimic încărcat - fișierul este comprimat pe dispozitivul tău. Funcționează pentru jurnale, CSV-uri, fișiere TAR și multe altele.",
-  "id": "/loona-dev-tools/ro/gzip-compressor/",
+  "id": "/ro/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

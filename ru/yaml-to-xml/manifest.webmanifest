@@ -2,7 +2,7 @@
   "name": "Loona Конвертер YAML в XML",
   "short_name": "Конвертер YAML в XML",
   "description": "Преобразуйте YAML в XML онлайн: один ключ верхнего уровня становится корневым элементом, @keys становятся атрибутами.",
-  "id": "/loona-dev-tools/ru/yaml-to-xml/",
+  "id": "/ru/yaml-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

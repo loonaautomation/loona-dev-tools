@@ -2,7 +2,7 @@
   "name": "Loona Hreflang Etiketi Oluşturucu Çevrimiçi Ücretsiz",
   "short_name": "Hreflang Etiketi Oluşturucu Çevrimiçi",
   "description": "hreflang etiketlerini çevrimiçi ücretsiz oluşturun - dil ve URL çiftlerini yapıştırın, bir x-default ekleyin ve BCP 47 ve mutlak URL kontrolleriyle tam alternatif bağlantı kümesini alın. Kayıt gerekmez.",
-  "id": "/loona-dev-tools/tr/hreflang-tag-generator/",
+  "id": "/tr/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

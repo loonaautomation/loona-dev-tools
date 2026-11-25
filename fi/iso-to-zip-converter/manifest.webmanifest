@@ -2,7 +2,7 @@
   "name": "Loona ISO-ZIP-muunnin",
   "short_name": "ISO-ZIP-muunnin",
   "description": "Muunna ISO-levykuva sen tiedostojen ZIP:iksi verkossa: libarchive lukee ISO9660/Rock Ridge -sisällön paikallisesti.",
-  "id": "/loona-dev-tools/fi/iso-to-zip-converter/",
+  "id": "/fi/iso-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

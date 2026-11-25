@@ -2,7 +2,7 @@
   "name": "Loona JSON-kyselyjonon muunnin",
   "short_name": "JSON-kyselyjonon muunnin",
   "description": "Rakenna URL-kyselyjono JSON-objektista: sisäkkäiset objektit käyttävät hakasulkumerkintää, taulukot toistavat avaimen, kaikki prosenttikoodattuna.",
-  "id": "/loona-dev-tools/fi/json-to-query-string/",
+  "id": "/fi/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

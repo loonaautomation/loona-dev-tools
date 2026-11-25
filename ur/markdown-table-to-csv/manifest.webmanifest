@@ -2,7 +2,7 @@
   "name": "Loona Markdown ٹیبل سے CSV کنورٹر",
   "short_name": "Markdown ٹیبل سے CSV",
   "description": "ایک Markdown ٹیبل کو CSV میں بدلیں: ہیڈر اور قطاریں نکالی گئیں، صف بندی قطار ہٹائی گئی، خانے تراشے گئے اور درست کوٹ کیے گئے۔",
-  "id": "/loona-dev-tools/ur/markdown-table-to-csv/",
+  "id": "/ur/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

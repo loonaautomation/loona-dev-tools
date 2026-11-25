@@ -2,7 +2,7 @@
   "name": "Loona テキスト→Base64エンコーダー",
   "short_name": "テキスト→Base64エンコーダー",
   "description": "テキストをBase64にオンラインでエンコードします。あらゆる言語と絵文字に対応したUTF-8セーフ、任意のURLセーフアルファベット付きです。無料、プライベート、ブラウザで完結します。",
-  "id": "/loona-dev-tools/ja/text-to-base64/",
+  "id": "/ja/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

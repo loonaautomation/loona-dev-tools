@@ -2,7 +2,7 @@
   "name": "Кодувальник Loona JWT (підписувач HS256)",
   "short_name": "Кодувальник JWT (підписувач HS256)",
   "description": "Створюйте й підписуйте JSON Web Tokens за допомогою HS256 у вашому браузері: JSON вмісту плюс секрет, або alg=none. Підписання WebCrypto.",
-  "id": "/loona-dev-tools/uk/jwt-encoder/",
+  "id": "/uk/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

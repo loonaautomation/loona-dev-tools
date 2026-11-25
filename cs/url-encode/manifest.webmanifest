@@ -2,7 +2,7 @@
   "name": "Kódování Loona URL (Procentní kódování)",
   "short_name": "Kódování URL (procentní kódování)",
   "description": "Procentně kódujte text nebo úplnou URL online: mezery se stanou %20, vyhrazené znaky se escapují podle RFC 3986. Režim komponenty nebo úplné URL.",
-  "id": "/loona-dev-tools/cs/url-encode/",
+  "id": "/cs/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV를 XML로 변환 온라인 무료",
   "short_name": "CSV를 XML로 변환 온라인",
   "description": "CSV를 XML로 온라인에서 무료로 변환해요. 구성 가능한 루트 및 행 요소 이름과 올바른 XML 이스케이프와 함께요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
-  "id": "/loona-dev-tools/ko/csv-to-xml-converter/",
+  "id": "/ko/csv-to-xml-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

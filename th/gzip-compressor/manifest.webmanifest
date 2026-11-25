@@ -2,7 +2,7 @@
   "name": "Loona ตัวบีบอัด GZIP ออนไลน์ฟรี",
   "short_name": "ตัวบีบอัด GZIP ออนไลน์ฟรี",
   "description": "บีบอัดไฟล์เดียวใด ๆ เป็น .gz โดยใช้กลไก gzip ในตัวของเบราว์เซอร์ของคุณ ขนาดก่อน/หลังทันที ไม่มีการอัปโหลด - ไฟล์ถูกบีบอัดบนอุปกรณ์ของคุณ ใช้งานได้กับล็อก, CSV, ไฟล์ TAR และอื่น ๆ",
-  "id": "/loona-dev-tools/th/gzip-compressor/",
+  "id": "/th/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

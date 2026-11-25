@@ -2,7 +2,7 @@
   "name": "Конвертор от десетична към осмична на Loona",
   "short_name": "Конвертор от десетична към осмична",
   "description": "Конвертирайте онлайн десетични числа в осмични — произволна точност (BigInt), отрицателните числа се поддържат.",
-  "id": "/loona-dev-tools/bg/decimal-to-octal-converter/",
+  "id": "/bg/decimal-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

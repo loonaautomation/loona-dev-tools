@@ -2,7 +2,7 @@
   "name": "Loona enkoder i dekoder HTML entiteta na mreži besplatno",
   "short_name": "Enkoder i dekoder HTML entiteta",
   "description": "Kodirajte tekst u HTML entitete (imenovane poput &amp;copy; ili numerirane poput &amp;#169;) i dekodirajte entitete natrag u običan tekst. Besplatno, bez registracije, u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/html-entity-encoder/",
+  "id": "/hr/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

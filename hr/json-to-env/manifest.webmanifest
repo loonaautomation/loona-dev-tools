@@ -2,7 +2,7 @@
   "name": "Loona pretvarač JSON u .env",
   "short_name": "Pretvarač JSON u .env",
   "description": "Pretvorite JSON konfiguraciju u format .env: ugniježđeni objekti spljošteni UNDERSCORE putanjama, vrijednosti u navodnicima kad sadrže razmake ili #.",
-  "id": "/loona-dev-tools/hr/json-to-env/",
+  "id": "/hr/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

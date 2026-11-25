@@ -2,7 +2,7 @@
   "name": "Loona Regex tester na mreži besplatno",
   "short_name": "Regex tester na mreži besplatno",
   "description": "Testirajte regularne izraze na mreži besplatno s isticanjem podudaranja uživo, detaljima skupina hvatanja i brojem podudaranja. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/regex-tester/",
+  "id": "/hr/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

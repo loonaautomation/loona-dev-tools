@@ -2,7 +2,7 @@
   "name": "Loona File Type Detector Online Free",
   "short_name": "File Type Detector Online Free",
   "description": "Detect a file's real type online for free from its magic-byte header signature - PNG, PDF, ZIP, MP4, EXE and 30+ formats - and get a warning when the extension disagrees. Nothing uploaded.",
-  "id": "/loona-dev-tools/file-type-detector/",
+  "id": "/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

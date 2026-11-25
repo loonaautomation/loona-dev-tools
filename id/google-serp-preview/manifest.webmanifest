@@ -2,7 +2,7 @@
   "name": "Loona Alat Pratinjau SERP Google Online Gratis",
   "short_name": "Alat Pratinjau SERP Google",
   "description": "Pratinjau bagaimana judul halaman dan meta description Anda akan tampak di hasil pencarian Google online gratis, dengan tampilan desktop dan seluler serta peringatan pemotongan lebar piksel. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/id/google-serp-preview/",
+  "id": "/id/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona HTML entitások dekódolója",
   "short_name": "HTML entitás dekódoló",
   "description": "Dekódolja a HTML entitásokat vissza sima karakterekké: a nevesített, decimális és hexadecimális hivatkozások (&copy;, &#169;, &#xA9;) mind támogatva.",
-  "id": "/loona-dev-tools/hu/html-entities-decode/",
+  "id": "/hu/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

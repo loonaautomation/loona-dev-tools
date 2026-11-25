@@ -2,7 +2,7 @@
   "name": "Convertizor XML în CSV Loona",
   "short_name": "Convertizor XML în CSV",
   "description": "Convertește XML în CSV: elementele repetate devin rânduri, copiii și atributele lor devin coloane. Convertizor online gratuit.",
-  "id": "/loona-dev-tools/ro/xml-to-csv/",
+  "id": "/ro/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV pivot & groeperen op online gratis",
   "short_name": "CSV pivot & groeperen op online",
   "description": "Draai CSV-data online gratis - groepeer rijen op een kolom en bereken som, aantal, gemiddelde, minimum of maximum van een waardekolom. Geen registratie, draait 100% in je browser.",
-  "id": "/loona-dev-tools/nl/csv-pivot-group-by/",
+  "id": "/nl/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

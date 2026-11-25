@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator Chmod Online Gratis",
   "short_name": "Kalkulator Chmod Online Gratis",
   "description": "Hitung izin chmod online secara gratis: kotak centang ke oktal (755) dan simbolik (rwxr-xr-x), dan oktal kembali ke izin. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-dev-tools/id/chmod-calculator/",
+  "id": "/id/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

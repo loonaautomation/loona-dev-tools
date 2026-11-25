@@ -2,7 +2,7 @@
   "name": "Loona Metin - Base64 Kodlayıcı",
   "short_name": "Metin - Base64 Kodlayıcı",
   "description": "Metni çevrimiçi Base64 olarak kodlayın, her dil ve emoji için UTF-8 güvenli, isteğe bağlı bir URL güvenli alfabeyle. Ücretsiz, gizli, tarayıcınızda.",
-  "id": "/loona-dev-tools/tr/text-to-base64/",
+  "id": "/tr/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

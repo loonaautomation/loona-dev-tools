@@ -2,7 +2,7 @@
   "name": "Calculator Chmod Loona online gratuit",
   "short_name": "Calculator Chmod online gratuit",
   "description": "Calculează permisiuni chmod online gratuit: casete de bifat în octal (755) și simbolic (rwxr-xr-x) și octal înapoi în permisiuni. Fără înregistrare, rulează 100% în browserul tău.",
-  "id": "/loona-dev-tools/ro/chmod-calculator/",
+  "id": "/ro/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

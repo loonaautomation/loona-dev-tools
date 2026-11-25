@@ -2,7 +2,7 @@
   "name": "Loona Римские цифры в числа",
   "short_name": "Римские цифры в числа",
   "description": "Преобразуйте римские цифры в числа (1–3999), со строгой проверкой вычитательной нотации (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/ru/roman-numerals-converter/",
+  "id": "/ru/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

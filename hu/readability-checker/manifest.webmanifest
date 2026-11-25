@@ -2,7 +2,7 @@
   "name": "Loona SEO olvashatósági ellenőrző online ingyen",
   "short_name": "SEO olvashatósági ellenőrző",
   "description": "Ellenőrizze a tartalom olvashatóságát SEO-hoz online ingyen - Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG és ARI pontszámok plusz mondathossz-statisztikák webszövegekhez. Regisztráció nélkül.",
-  "id": "/loona-dev-tools/hu/readability-checker/",
+  "id": "/hu/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

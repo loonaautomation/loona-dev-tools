@@ -2,7 +2,7 @@
   "name": "Loona XML tömörítő",
   "short_name": "XML tömörítő",
   "description": "XML tömörítése online: szűkítse a megjegyzéseket és a címkék közötti szóközöket egyetlen kompakt sorrá.",
-  "id": "/loona-dev-tools/hu/xml-minifier/",
+  "id": "/hu/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Koder i dekoder szyfru Cezara",
   "short_name": "Koder szyfru Cezara i",
   "description": "Szyfr Cezara z dowolnym przesunięciem (1–25) i trybem dekodowania: klasyczny szyfr podstawieniowy Juliusza Cezara, online.",
-  "id": "/loona-dev-tools/pl/caesar-cipher/",
+  "id": "/pl/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

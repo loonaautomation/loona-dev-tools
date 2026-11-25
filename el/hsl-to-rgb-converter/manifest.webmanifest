@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας HSL σε RGB",
   "short_name": "Μετατροπέας HSL σε RGB",
   "description": "Μετατρέψτε χρώματα από HSL σε RGB διαδικτυακά, με ζωντανό δείγμα και όλες τις άλλες μορφές (HEX, RGB, HSL, HSV, CMYK) να εμφανίζονται επίσης.",
-  "id": "/loona-dev-tools/el/hsl-to-rgb-converter/",
+  "id": "/el/hsl-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

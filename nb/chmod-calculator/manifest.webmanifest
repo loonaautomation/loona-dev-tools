@@ -2,7 +2,7 @@
   "name": "Loona chmod-kalkulator på nett gratis",
   "short_name": "Chmod-kalkulator på nett gratis",
   "description": "Beregn chmod-tillatelser på nett gratis: avkrysningsbokser til oktalt (755) og symbolsk (rwxr-xr-x), og oktalt tilbake til tillatelser. Ingen registrering, kjører 100 % i nettleseren din.",
-  "id": "/loona-dev-tools/nb/chmod-calculator/",
+  "id": "/nb/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

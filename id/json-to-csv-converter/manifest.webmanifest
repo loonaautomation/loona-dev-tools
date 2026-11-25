@@ -2,7 +2,7 @@
   "name": "Loona Konverter JSON ke CSV Online Gratis",
   "short_name": "Konverter JSON ke CSV Online",
   "description": "Konversi array objek JSON ke CSV online secara gratis: gabungan kunci sebagai kolom, pengutipan dan escape yang benar, nilai bersarang dipertahankan sebagai JSON. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-dev-tools/id/json-to-csv-converter/",
+  "id": "/id/json-to-csv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

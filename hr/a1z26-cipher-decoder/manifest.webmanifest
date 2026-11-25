@@ -2,7 +2,7 @@
   "name": "Loona A1Z26 dekoder šifre (brojevi u slova)",
   "short_name": "A1Z26 dekoder šifre (brojevi",
   "description": "Dekodirajte A1Z26 kodove brojeva natrag u slova: 1=A, 2=B ... 26=Z. Odvojeno crticama, zarezima ili razmacima.",
-  "id": "/loona-dev-tools/hr/a1z26-cipher-decoder/",
+  "id": "/hr/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

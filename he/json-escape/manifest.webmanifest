@@ -2,7 +2,7 @@
   "name": "בריחת מחרוזת Loona JSON",
   "short_name": "בריחת מחרוזת JSON",
   "description": "ברחו מחרוזת להטמעה בתוך JSON: מרכאות, קווים נטויים אחוריים, שורות חדשות ותווי בקרה הופכים לרצפי \\.",
-  "id": "/loona-dev-tools/he/json-escape/",
+  "id": "/he/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

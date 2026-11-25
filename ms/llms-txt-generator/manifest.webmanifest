@@ -2,7 +2,7 @@
   "name": "Loona Penjana llms.txt Dalam Talian Percuma",
   "short_name": "Penjana llms.txt Dalam Talian Percuma",
   "description": "Buat fail llms.txt yang valid dalam talian secara percuma - nama laman web, blockquote ringkasan, butiran, dan pautan halaman pilihan dalam format llms.txt yang diusulkan untuk crawler AI. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/ms/llms-txt-generator/",
+  "id": "/ms/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

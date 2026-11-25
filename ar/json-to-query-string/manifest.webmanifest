@@ -2,7 +2,7 @@
   "name": "Loona محوّل JSON إلى سلسلة استعلام",
   "short_name": "محوّل JSON إلى سلسلة استعلام",
   "description": "ابنِ سلسلة استعلام URL من كائن JSON: الكائنات المتداخلة تستخدم ترميز الأقواس، والمصفوفات تكرّر المفتاح، وكل شيء مُرمَّز نسبياً.",
-  "id": "/loona-dev-tools/ar/json-to-query-string/",
+  "id": "/ar/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

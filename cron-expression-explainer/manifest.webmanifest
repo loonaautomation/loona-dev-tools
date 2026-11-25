@@ -2,7 +2,7 @@
   "name": "Loona Cron Expression Explainer",
   "short_name": "Cron Expression Explainer",
   "description": "Explain cron expressions in plain English: paste a 5-field cron schedule and read when it runs, field by field.",
-  "id": "/loona-dev-tools/cron-expression-explainer/",
+  "id": "/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

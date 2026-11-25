@@ -2,7 +2,7 @@
   "name": "Конвертор от CSV към JSON на Loona онлайн безплатно",
   "short_name": "Конвертор от CSV към JSON онлайн",
   "description": "Конвертирайте безплатно онлайн CSV в JSON масив от обекти, с подходящ CSV парсър, който обработва полета в кавички, запетаи в кавички и екранирани кавички. Без регистрация, работи 100% във вашия браузър.",
-  "id": "/loona-dev-tools/bg/csv-to-json-converter/",
+  "id": "/bg/csv-to-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

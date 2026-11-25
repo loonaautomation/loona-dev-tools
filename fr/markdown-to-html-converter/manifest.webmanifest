@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona Markdown vers HTML en ligne gratuit",
   "short_name": "Convertisseur Markdown vers HTML",
   "description": "Convertissez le Markdown en HTML en ligne et gratuitement - titres, gras, italique, liens, images, listes, citations, blocs de code et plus, avec un aperçu rendu en direct. Sans inscription.",
-  "id": "/loona-dev-tools/fr/markdown-to-html-converter/",
+  "id": "/fr/markdown-to-html-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

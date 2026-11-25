@@ -2,7 +2,7 @@
   "name": "Loona URL-analys online gratis",
   "short_name": "URL-tolkare Online Gratis",
   "description": "Tolka vilken URL som helst online gratis till protokoll, värd, port, sökväg, frågeparametrar och hash - redigera parametrarna och bygg URL:en igen. Ingen registrering, körs 100% i din webbläsare.",
-  "id": "/loona-dev-tools/sv/url-parser/",
+  "id": "/sv/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

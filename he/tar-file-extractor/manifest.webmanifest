@@ -2,7 +2,7 @@
   "name": "מחלץ קבצי Loona TAR מקוון בחינם",
   "short_name": "מחלץ קבצי TAR מקוון בחינם",
   "description": "פתחו ארכיוני TAR ישר בדפדפן שלכם - ‎.tar פשוט וגם ‎.tar.bz2 ו-‎.tar.xz - ראו כל קובץ בפנים והורידו קבצים בודדים או הכול כ-ZIP. שום דבר לא מועלה.",
-  "id": "/loona-dev-tools/he/tar-file-extractor/",
+  "id": "/he/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

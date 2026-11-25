@@ -2,7 +2,7 @@
   "name": "Loona JSONPath 테스터",
   "short_name": "JSONPath 테스터",
   "description": "JSON 문서에 대해 JSONPath 식을 테스트하세요: 점 표기법, 인덱스, 와일드카드, 재귀 하강($..key)이 지원돼요.",
-  "id": "/loona-dev-tools/ko/jsonpath-tester/",
+  "id": "/ko/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

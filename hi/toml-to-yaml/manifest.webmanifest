@@ -2,7 +2,7 @@
   "name": "Loona TOML से YAML कन्वर्टर",
   "short_name": "TOML से YAML कन्वर्टर",
   "description": "TOML को YAML में ऑनलाइन बदलें: tables nested mappings बन जाते हैं, array tables objects की lists बन जाती हैं।",
-  "id": "/loona-dev-tools/hi/toml-to-yaml/",
+  "id": "/hi/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

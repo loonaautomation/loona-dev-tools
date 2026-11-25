@@ -2,7 +2,7 @@
   "name": "Minifikátor Loona XML",
   "short_name": "Minifikátor XML",
   "description": "Minifikujte XML online: odstráňte komentáre a medzery medzi značkami do jedného kompaktného riadka.",
-  "id": "/loona-dev-tools/sk/xml-minifier/",
+  "id": "/sk/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

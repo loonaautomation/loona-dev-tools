@@ -2,7 +2,7 @@
   "name": "Codificator de entități HTML Loona",
   "short_name": "Codificator de entități HTML",
   "description": "Codifică caracterele speciale ca entități HTML: referințe numite (&copy;), zecimale sau hex numerice. Escapează marcajul, ghilimelele și textul non-ASCII.",
-  "id": "/loona-dev-tools/ro/html-entities-encode/",
+  "id": "/ro/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

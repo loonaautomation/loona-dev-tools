@@ -2,7 +2,7 @@
   "name": "Loona generator UUID-a na mreži besplatno",
   "short_name": "Generator UUID-a na mreži besplatno",
   "description": "Generirajte nasumične UUID-ove verzije 4 na mreži besplatno - pojedinačno ili u skupini do 100, opcije velikih slova i bez crtica. Kriptografski nasumično, u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/uuid-generator/",
+  "id": "/hr/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

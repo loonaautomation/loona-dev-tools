@@ -2,7 +2,7 @@
   "name": "Loona .env থেকে JSON কনভার্টার",
   "short_name": ".env থেকে JSON কনভার্টার",
   "description": "একটি .env ফাইল JSON-এ পার্স করুন: KEY=value লাইন, export প্রেফিক্স, মন্তব্য ও উদ্ধৃত মান পরিচালনা করে।",
-  "id": "/loona-dev-tools/bn/env-to-json/",
+  "id": "/bn/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona RAR-filutpakker på nett gratis",
   "short_name": "RAR-filutpakker på nett gratis",
   "description": "Åpne RAR-filer (RAR4 og RAR5) rett i nettleseren din - se hver fil inne, last ned enkeltfiler eller alt som en ZIP. Ingenting lastes opp; utpakking skjer på enheten din.",
-  "id": "/loona-dev-tools/nb/rar-file-extractor/",
+  "id": "/nb/rar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

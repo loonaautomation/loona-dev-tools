@@ -2,7 +2,7 @@
   "name": "Loona Simbua URL (Usimbuaji wa Asilimia)",
   "short_name": "Kisimbuaji cha URL (Kusimbua Asilimia)",
   "description": "Simbua URL na mifululizo ya maswali iliyosimbwa kwa asilimia kurudi kuwa maandishi yanayosomeka, pamoja na mifuatano ya UTF-8 na + kama nafasi. Kisimbuaji cha bure mtandaoni.",
-  "id": "/loona-dev-tools/sw/url-decode/",
+  "id": "/sw/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

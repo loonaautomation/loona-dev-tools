@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงที่อยู่ IP เป็นจำนวนเต็ม",
   "short_name": "ที่อยู่ IP เป็นจำนวนเต็ม",
   "description": "แปลงที่อยู่ IPv4 เป็นรูปแบบจำนวนเต็ม 32 บิต (192.168.0.1 → 3232235521) ใช้ในฐานข้อมูลและการตรวจสอบช่วง",
-  "id": "/loona-dev-tools/th/ip-to-integer/",
+  "id": "/th/ip-to-integer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

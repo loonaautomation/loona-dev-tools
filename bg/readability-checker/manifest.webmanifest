@@ -2,7 +2,7 @@
   "name": "SEO проверка на четивността на Loona онлайн безплатно",
   "short_name": "SEO проверка на четивността",
   "description": "Проверявайте безплатно онлайн четивността на съдържанието за SEO - оценки Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG и ARI плюс статистика за дължината на изреченията за уеб текстове. Без регистрация.",
-  "id": "/loona-dev-tools/bg/readability-checker/",
+  "id": "/bg/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

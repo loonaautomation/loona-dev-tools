@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้าง JSON เป็น SQL INSERT",
   "short_name": "ตัวสร้าง JSON เป็น SQL INSERT",
   "description": "สร้างคำสั่ง SQL INSERT จากอาร์เรย์ JSON ของออบเจ็กต์: สตริงถูก escape, NULL และบูลีนถูกจัดการ ชื่อตารางกำหนดเอง",
-  "id": "/loona-dev-tools/th/json-to-sql-insert/",
+  "id": "/th/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

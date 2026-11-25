@@ -2,7 +2,7 @@
   "name": "Loona Diff-tarkistin verkossa ilmaiseksi",
   "short_name": "Diff-vertailija verkossa ilmaiseksi",
   "description": "Vertaa kahta tekstiä verkossa ilmaiseksi rivi riviltä -vertailulla: lisätyt rivit vihreinä, poistetut punaisina, sekä muutosyhteenveto. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/diff-checker/",
+  "id": "/fi/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

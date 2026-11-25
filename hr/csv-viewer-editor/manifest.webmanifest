@@ -2,7 +2,7 @@
   "name": "Loona preglednik i uređivač CSV-a na mreži besplatno",
   "short_name": "Preglednik i uređivač CSV-a na mreži",
   "description": "Pregledavajte i uređujte CSV datoteke na mreži besplatno u mreži tablice koju je moguće uređivati - uređujte ćelije, sortirajte stupce, dodajte ili uklonite retke i stupce, zatim preuzmite uređeni CSV. Bez registracije, radi u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/csv-viewer-editor/",
+  "id": "/hr/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

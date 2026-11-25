@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/user-agent-parser/",
+  "id": "/en-gb/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

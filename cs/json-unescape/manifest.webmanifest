@@ -2,7 +2,7 @@
   "name": "Odescapování řetězců Loona JSON",
   "short_name": "Odescapování řetězců JSON",
   "description": "Převeďte escapovanou hodnotu řetězce JSON zpět na prostý text: sekvence \\n, \\t, \\&quot;, \\\\ a \\uXXXX se stanou skutečnými znaky.",
-  "id": "/loona-dev-tools/cs/json-unescape/",
+  "id": "/cs/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

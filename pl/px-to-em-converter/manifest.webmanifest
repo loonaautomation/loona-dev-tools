@@ -2,7 +2,7 @@
   "name": "Loona Konwerter pikseli (px) na Em",
   "short_name": "Konwerter pikseli (px) na Em",
   "description": "Konwertuj px na em przy regulowanym bazowym rozmiarze czcionki (domyślnie 16px) i tabeli popularnych wartości.",
-  "id": "/loona-dev-tools/pl/px-to-em-converter/",
+  "id": "/pl/px-to-em-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

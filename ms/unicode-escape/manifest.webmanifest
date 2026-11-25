@@ -2,7 +2,7 @@
   "name": "Loona Penukar Escape Unicode (\\uXXXX)",
   "short_name": "Penukar Escape Unicode",
   "description": "Escape teks ke urutan escape Unicode (\\uXXXX) untuk JSON, JavaScript, Java, dan fail properties. Menangani emoji melalui pasangan surrogate.",
-  "id": "/loona-dev-tools/ms/unicode-escape/",
+  "id": "/ms/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generátor hashov Loona SHA-256",
   "short_name": "Generátor hashov SHA-256",
   "description": "Vypočítajte hashe SHA-256 textu alebo súborov online: 256-bitové, 64 hexadecimálnych znakov. Beží lokálne vo vašom prehliadači pomocou WebCrypto/čistého JS — súbory sa nikdy nenahrávajú.",
-  "id": "/loona-dev-tools/sk/sha256-hash-generator/",
+  "id": "/sk/sha256-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

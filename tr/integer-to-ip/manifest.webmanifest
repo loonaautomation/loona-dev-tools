@@ -2,7 +2,7 @@
   "name": "Loona Tamsayı - IP Adresi Dönüştürücü",
   "short_name": "Tamsayıdan IP Adresine",
   "description": "32 bit bir tamsayıyı noktalı bir IPv4 adresine geri dönüştürün (3232235521 → 192.168.0.1).",
-  "id": "/loona-dev-tools/tr/integer-to-ip/",
+  "id": "/tr/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

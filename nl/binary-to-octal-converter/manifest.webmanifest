@@ -2,7 +2,7 @@
   "name": "Loona binair naar octaal-converter",
   "short_name": "Binair naar octaal-converter",
   "description": "Converteer binaire getallen online naar octaal — willekeurige precisie (BigInt), negatieve getallen ondersteund.",
-  "id": "/loona-dev-tools/nl/binary-to-octal-converter/",
+  "id": "/nl/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

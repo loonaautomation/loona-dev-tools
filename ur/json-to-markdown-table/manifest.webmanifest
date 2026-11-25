@@ -2,7 +2,7 @@
   "name": "Loona JSON سے Markdown ٹیبل کنورٹر",
   "short_name": "JSON سے Markdown ٹیبل",
   "description": "آبجیکٹس کی JSON ارے کو Markdown ٹیبل میں بدلیں: کنجیوں سے کالم، pipes escaped، READMEs میں پیسٹ کرنے کے لیے تیار۔",
-  "id": "/loona-dev-tools/ur/json-to-markdown-table/",
+  "id": "/ur/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

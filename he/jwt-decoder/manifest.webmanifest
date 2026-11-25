@@ -2,7 +2,7 @@
   "name": "מפענח Loona JWT מקוון בחינם",
   "short_name": "מפענח JWT מקוון בחינם",
   "description": "פענחו JSON Web Token באופן מקוון בחינם - קראו את הכותרת והמטען כ-JSON יפה וראו תפוגה במילים פשוטות. החתימה לא מאומתת. בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/jwt-decoder/",
+  "id": "/he/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

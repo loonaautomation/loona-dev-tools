@@ -2,7 +2,7 @@
   "name": "Loona cURL سے Fetch کنورٹر",
   "short_name": "cURL سے Fetch کنورٹر",
   "description": "ایک cURL کمانڈ کو JavaScript fetch() کوڈ میں بدلیں: ہیڈرز، طریقہ، ڈیٹا، basic auth اور --json سنبھالا گیا۔",
-  "id": "/loona-dev-tools/ur/curl-to-fetch/",
+  "id": "/ur/curl-to-fetch/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

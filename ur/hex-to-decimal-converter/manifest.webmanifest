@@ -2,7 +2,7 @@
   "name": "Loona ہیکساڈیسیمل سے اعشاریہ کنورٹر",
   "short_name": "ہیکساڈیسیمل سے اعشاریہ",
   "description": "ہیکساڈیسیمل اعداد کو اعشاریہ میں آن لائن بدلیں — arbitrary precision (BigInt)، منفی اعداد سپورٹ۔",
-  "id": "/loona-dev-tools/ur/hex-to-decimal-converter/",
+  "id": "/ur/hex-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Extracteur de fichiers ZIP Loona en ligne gratuit",
   "short_name": "Extracteur de fichiers ZIP (dézippeur) en ligne",
   "description": "Ouvrez un fichier ZIP dans votre navigateur, voyez chaque fichier à l’intérieur avec sa taille, et extrayez des fichiers uniques ou tous. Rien n’est téléversé ; l’extraction se passe sur votre appareil.",
-  "id": "/loona-dev-tools/fr/unzip-file-extractor/",
+  "id": "/fr/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

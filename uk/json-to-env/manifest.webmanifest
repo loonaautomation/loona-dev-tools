@@ -2,7 +2,7 @@
   "name": "Конвертер Loona JSON у .env",
   "short_name": "Конвертер JSON у .env",
   "description": "Конвертуйте конфігурацію JSON у формат .env: вкладені об’єкти зводяться зі шляхами через ПІДКРЕСЛЕННЯ, значення беруться в лапки, коли містять пробіли або #.",
-  "id": "/loona-dev-tools/uk/json-to-env/",
+  "id": "/uk/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

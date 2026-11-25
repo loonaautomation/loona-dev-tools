@@ -2,7 +2,7 @@
   "name": "Loona Konwerter dziesiętny na binarny",
   "short_name": "Konwerter dziesiętny na binarny",
   "description": "Konwertuj liczby dziesiętne na binarne online — dowolna precyzja (BigInt), liczby ujemne obsługiwane.",
-  "id": "/loona-dev-tools/pl/decimal-to-binary-converter/",
+  "id": "/pl/decimal-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

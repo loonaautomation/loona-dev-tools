@@ -2,7 +2,7 @@
   "name": "Analizator de antet Cookie Loona",
   "short_name": "Analizator de antet Cookie",
   "description": "Analizează un antet Cookie într-o listă lizibilă: perechi nume = valoare, valori decodificate procentual afișate, numărătoare de cookie-uri.",
-  "id": "/loona-dev-tools/ro/cookie-parser/",
+  "id": "/ro/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

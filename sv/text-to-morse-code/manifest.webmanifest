@@ -2,7 +2,7 @@
   "name": "Loona Text till morsekod-översättare",
   "short_name": "Text till Morsekod-översättare",
   "description": "Översätt text till morsekod (bokstäver, siffror och vanlig interpunktion), ord avgränsade med /. Gratis Morse-översättare.",
-  "id": "/loona-dev-tools/sv/text-to-morse-code/",
+  "id": "/sv/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

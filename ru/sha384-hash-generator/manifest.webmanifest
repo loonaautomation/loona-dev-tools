@@ -2,7 +2,7 @@
   "name": "Loona Генератор хешей SHA-384",
   "short_name": "Генератор хэшей SHA-384",
   "description": "Вычисляйте хеши SHA-384 текста или файлов онлайн: 384-битные, 96 шестнадцатеричных символов. Работает локально в вашем браузере с WebCrypto/чистым JS — файлы никогда не загружаются.",
-  "id": "/loona-dev-tools/ru/sha384-hash-generator/",
+  "id": "/ru/sha384-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

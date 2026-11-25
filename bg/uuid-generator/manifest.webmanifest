@@ -2,7 +2,7 @@
   "name": "Генератор на UUID на Loona онлайн безплатно",
   "short_name": "Генератор на UUID онлайн безплатно",
   "description": "Генерирайте безплатно онлайн произволни UUID версия 4 - единични или масови до 100, опции за главни букви и без тирета. Криптографски произволни, в браузъра ви.",
-  "id": "/loona-dev-tools/bg/uuid-generator/",
+  "id": "/bg/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

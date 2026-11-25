@@ -2,7 +2,7 @@
   "name": "Loona XML을 CSV로 변환",
   "short_name": "XML을 CSV로 변환",
   "description": "XML을 CSV로 변환해요: 반복 요소는 행이 되고, 그 자식과 속성은 열이 돼요. 무료 온라인 변환기예요.",
-  "id": "/loona-dev-tools/ko/xml-to-csv/",
+  "id": "/ko/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona XML Biçimlendirici ve Doğrulayıcı Çevrimiçi Ücretsiz",
   "short_name": "XML Biçimlendirici ve Doğrulayıcı",
   "description": "XML değerini çevrimiçi ücretsiz biçimlendirin, güzelleştirin, küçültün ve doğrulayın - net hata mesajlarıyla dengeli etiket iyi biçimlilik kontrolü, girintiyle güzel yazdırma. Kayıt gerekmez.",
-  "id": "/loona-dev-tools/tr/xml-formatter/",
+  "id": "/tr/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Бібліотека конвертерів і генераторів Loona",
   "short_name": "Бібліотека конвертерів і генераторів",
   "description": "Індекс усіх конвертерів і генераторів Loona Developer Tools: кодування, формати даних, хеші, кольори, архіви, генератори коду та довідники.",
-  "id": "/loona-dev-tools/uk/converter-library/",
+  "id": "/uk/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

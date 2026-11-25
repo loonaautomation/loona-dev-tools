@@ -2,7 +2,7 @@
   "name": "Kontrolór sily hesla Loona online zadarmo",
   "short_name": "Kontrolór sily hesla",
   "description": "Kontrolujte silu hesla online zadarmo s transparentným odhadom entropie, konkrétnou spätnou väzbou a odhadom času prelomenia. Heslo nikdy neopustí váš prehliadač – nič sa neodosiela ani neukladá.",
-  "id": "/loona-dev-tools/sk/password-strength-checker/",
+  "id": "/sk/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

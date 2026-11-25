@@ -2,7 +2,7 @@
   "name": "Loona ROT13 Kodlayıcı ve Kod Çözücü",
   "short_name": "ROT13 Kodlayıcı ve Kod Çözücü",
   "description": "Herhangi bir metni ROT13 yapın: harfleri 13 yer döndürün. Kodlama ve kod çözme aynı işlemdir. Spoiler ve bulmacalar için klasik.",
-  "id": "/loona-dev-tools/tr/rot13-encoder/",
+  "id": "/tr/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

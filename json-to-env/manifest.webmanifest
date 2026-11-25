@@ -2,7 +2,7 @@
   "name": "Loona JSON to .env Converter",
   "short_name": "JSON to .env Converter",
   "description": "Convert JSON config to .env format: nested objects flattened with UNDERSCORE paths, values quoted when they contain spaces or #.",
-  "id": "/loona-dev-tools/json-to-env/",
+  "id": "/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

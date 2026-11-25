@@ -2,7 +2,7 @@
   "name": "Loona 텍스트를 십육진수로 변환",
   "short_name": "텍스트를 십육진수로 변환",
   "description": "텍스트를 십육진수(UTF-8 바이트)로 온라인 변환해요, 바이트 사이에 공백이 있거나 없이요. 무료 개발자 변환기예요.",
-  "id": "/loona-dev-tools/ko/text-to-hex/",
+  "id": "/ko/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 7Z fájlkibontó online ingyen",
   "short_name": "7Z fájlkibontó online ingyen",
   "description": "Nyisson meg 7z archívumokat közvetlenül a böngészőjében - nézze meg minden fájlt belül, töltsön le egyetlen fájlt vagy mindent ZIP-ként. Semmi nem töltődik fel; a kibontás az eszközén történik egy WebAssembly motorral.",
-  "id": "/loona-dev-tools/hu/7z-file-extractor/",
+  "id": "/hu/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

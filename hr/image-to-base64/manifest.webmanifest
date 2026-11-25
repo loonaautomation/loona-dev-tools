@@ -2,7 +2,7 @@
   "name": "Loona pretvarač slike u Base64",
   "short_name": "Pretvarač slike u Base64",
   "description": "Pretvorite sliku (PNG, JPG, GIF, WebP, SVG) u Base64 data URI na mreži — datoteka se čita lokalno, sa statistikom dimenzija i veličine.",
-  "id": "/loona-dev-tools/hr/image-to-base64/",
+  "id": "/hr/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

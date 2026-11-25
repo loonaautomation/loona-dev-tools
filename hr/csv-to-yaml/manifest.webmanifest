@@ -2,7 +2,7 @@
   "name": "Loona pretvarač CSV u YAML",
   "short_name": "Pretvarač CSV u YAML",
   "description": "Pretvorite CSV tablice u YAML: redak zaglavlja postaje ključevi, svaki redak stavka u YAML popisu, brojevi tipizirani.",
-  "id": "/loona-dev-tools/hr/csv-to-yaml/",
+  "id": "/hr/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

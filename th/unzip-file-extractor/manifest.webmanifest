@@ -2,7 +2,7 @@
   "name": "Loona ตัวเปิดไฟล์ ZIP ออนไลน์ฟรี",
   "short_name": "ตัวแยกไฟล์แบบเปิด zip ออนไลน์",
   "description": "เปิดไฟล์ ZIP ในเบราว์เซอร์ของคุณ ดูทุกไฟล์ภายในพร้อมขนาดของมัน และแยกไฟล์เดียวหรือทั้งหมด ไม่มีการอัปโหลด; การแยกไฟล์เกิดขึ้นบนอุปกรณ์ของคุณ",
-  "id": "/loona-dev-tools/th/unzip-file-extractor/",
+  "id": "/th/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

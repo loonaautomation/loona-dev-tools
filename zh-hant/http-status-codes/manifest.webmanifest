@@ -2,7 +2,7 @@
   "name": "Loona HTTP 狀態程式碼參考",
   "short_name": "HTTP 狀態程式碼參考",
   "description": "每個常見 HTTP 狀態程式碼及其含義：2xx 成功、3xx 重定向、4xx 客戶端錯誤、5xx 伺服器錯誤——通俗解釋。",
-  "id": "/loona-dev-tools/zh-hant/http-status-codes/",
+  "id": "/zh-hant/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

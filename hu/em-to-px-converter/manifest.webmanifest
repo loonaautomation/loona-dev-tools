@@ -2,7 +2,7 @@
   "name": "Loona Em–pixel (px) átalakító",
   "short_name": "Em–pixel (px) átalakító",
   "description": "Alakítson em-et px-ré állítható alap betűmérettel (alapértelmezett 16px) és gyakori értékek táblázatával.",
-  "id": "/loona-dev-tools/hu/em-to-px-converter/",
+  "id": "/hu/em-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

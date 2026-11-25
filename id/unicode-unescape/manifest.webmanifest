@@ -2,7 +2,7 @@
   "name": "Loona Konverter Unescape Unicode (Dekode \\uXXXX)",
   "short_name": "Konverter Unescape Unicode",
   "description": "Dekode urutan escape Unicode (\\uXXXX, \\u{...}, \\xXX) kembali ke karakter nyata, ditambah escape \\n \\t dan \\\\.",
-  "id": "/loona-dev-tools/id/unicode-unescape/",
+  "id": "/id/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

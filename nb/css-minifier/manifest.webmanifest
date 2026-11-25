@@ -2,7 +2,7 @@
   "name": "Loona CSS-minimerer på nett gratis",
   "short_name": "CSS-minimerer på nett gratis",
   "description": "Minimer CSS på nett gratis og se nøyaktig hvor mye mindre den blir, eller forskjønn minimert CSS tilbake til lesbar kode. Ingen registrering, kjører 100 % i nettleseren din.",
-  "id": "/loona-dev-tools/nb/css-minifier/",
+  "id": "/nb/css-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

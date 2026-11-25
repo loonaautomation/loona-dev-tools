@@ -2,7 +2,7 @@
   "name": "Loona Калькулятор chmod онлайн бесплатно",
   "short_name": "Калькулятор chmod онлайн бесплатно",
   "description": "Рассчитывайте разрешения chmod онлайн бесплатно: флажки в восьмеричное (755) и символическое (rwxr-xr-x), и восьмеричное обратно в разрешения. Без регистрации, работает на 100% в вашем браузере.",
-  "id": "/loona-dev-tools/ru/chmod-calculator/",
+  "id": "/ru/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

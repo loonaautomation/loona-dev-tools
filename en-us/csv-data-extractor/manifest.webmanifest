@@ -2,7 +2,7 @@
   "name": "Loona CSV Data Extractor - Pull Contact Details Out of Messy Data",
   "short_name": "CSV Data Extractor - Pull Contact Details Out of Messy Data",
   "description": "Extract email addresses, phone numbers and URLs from messy CSV files or any text online for free - cleaned, de-duplicated lists you can download. No sign-up, runs in your browser.",
-  "id": "/loona-dev-tools/en-us/csv-data-extractor/",
+  "id": "/en-us/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

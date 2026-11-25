@@ -2,7 +2,7 @@
   "name": "Convertizor de dezescape Unicode Loona (decodifică \\uXXXX)",
   "short_name": "Convertizor de dezescape Unicode",
   "description": "Decodifică secvențe de escape Unicode (\\uXXXX, \\u{...}, \\xXX) înapoi în caractere reale, plus escape-uri \\n, \\t și \\\\.",
-  "id": "/loona-dev-tools/ro/unicode-unescape/",
+  "id": "/ro/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

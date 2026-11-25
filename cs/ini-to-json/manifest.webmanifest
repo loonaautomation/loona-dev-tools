@@ -2,7 +2,7 @@
   "name": "Převodník Loona INI na JSON",
   "short_name": "Převodník INI na JSON",
   "description": "Převádějte konfigurační soubory INI na JSON: sekce se stanou objekty, hodnoty se typují (čísla, booleany), kde je to jednoznačné.",
-  "id": "/loona-dev-tools/cs/ini-to-json/",
+  "id": "/cs/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

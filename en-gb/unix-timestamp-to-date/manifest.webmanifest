@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/unix-timestamp-to-date/",
+  "id": "/en-gb/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

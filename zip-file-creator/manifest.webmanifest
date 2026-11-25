@@ -2,7 +2,7 @@
   "name": "Loona ZIP File Creator Online Free",
   "short_name": "ZIP File Creator Online Free",
   "description": "Create a ZIP file from multiple files right in your browser - add files, name the archive and download one .zip. Nothing is uploaded; everything stays on your device.",
-  "id": "/loona-dev-tools/zip-file-creator/",
+  "id": "/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

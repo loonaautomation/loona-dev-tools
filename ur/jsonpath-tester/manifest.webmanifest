@@ -2,7 +2,7 @@
   "name": "Loona JSONPath ٹیسٹر",
   "short_name": "JSONPath ٹیسٹر",
   "description": "JSONPath expressions ایک JSON دستاویز کے خلاف ٹیسٹ کریں: نقطہ اشارہ، انڈیکسز، wildcards اور تکرار نزول ($..key) حمایت یافتہ۔",
-  "id": "/loona-dev-tools/ur/jsonpath-tester/",
+  "id": "/ur/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

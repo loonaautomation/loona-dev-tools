@@ -2,7 +2,7 @@
   "name": "Loona pretvarač Unicode escapea (\\uXXXX)",
   "short_name": "Pretvarač Unicode escapea",
   "description": "Escape tekst u Unicode escape nizove (\\uXXXX) za JSON, JavaScript, Javu i properties datoteke. Obrađuje emoji putem surogatnih parova.",
-  "id": "/loona-dev-tools/hr/unicode-escape/",
+  "id": "/hr/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

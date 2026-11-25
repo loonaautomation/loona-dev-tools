@@ -2,7 +2,7 @@
   "name": "Loona Penukar RAR ke ZIP Dalam Talian Percuma",
   "short_name": "Penukar RAR ke ZIP Dalam Talian",
   "description": "Penukaran arkib RAR (.rar) menjadi fail ZIP standard langsung di pelayar Anda. Struktur folder dipertahankan, tidak ada yang dimuat naik, dan ZIP terbuka di mana pun - Windows, macOS, Android, dan iPhone semuanya membuka ZIP secara lalai.",
-  "id": "/loona-dev-tools/ms/rar-to-zip-converter/",
+  "id": "/ms/rar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

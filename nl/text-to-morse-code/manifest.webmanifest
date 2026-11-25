@@ -2,7 +2,7 @@
   "name": "Loona tekst naar morsecode-vertaler",
   "short_name": "Tekst naar morsecode-vertaler",
   "description": "Vertaal tekst naar morsecode (letters, cijfers en gangbare leestekens), woorden gescheiden door /. Gratis morsevertaler.",
-  "id": "/loona-dev-tools/nl/text-to-morse-code/",
+  "id": "/nl/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

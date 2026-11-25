@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας TAR.GZ σε ZIP Διαδικτυακά Δωρεάν",
   "short_name": "Μετατροπέας TAR.GZ σε ZIP",
   "description": "Μετατρέψτε μια αρχειοθήκη TAR.GZ (.tar.gz ή .tgz) σε αρχείο ZIP ακριβώς στο πρόγραμμα περιήγησής σας. Και τα δύο στρώματα - gzip και tar - ξετυλίγονται στη συσκευή σας και τα αρχεία επανασυσκευάζονται ως ένα ZIP. Τίποτα δεν μεταφορτώνεται.",
-  "id": "/loona-dev-tools/el/tar-gz-to-zip-converter/",
+  "id": "/el/tar-gz-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

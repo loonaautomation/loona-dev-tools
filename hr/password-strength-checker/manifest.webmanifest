@@ -2,7 +2,7 @@
   "name": "Loona provjera jačine lozinke na mreži besplatno",
   "short_name": "Provjera jačine lozinke",
   "description": "Provjerite jačinu lozinke na mreži besplatno transparentnom procjenom entropije, konkretnim povratnim informacijama i procjenom vremena probijanja. Lozinka nikada ne napušta vaš preglednik - ništa se ne šalje ni pohranjuje.",
-  "id": "/loona-dev-tools/hr/password-strength-checker/",
+  "id": "/hr/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

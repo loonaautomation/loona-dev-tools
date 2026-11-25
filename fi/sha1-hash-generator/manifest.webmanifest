@@ -2,7 +2,7 @@
   "name": "Loona SHA-1-tiivistegeneraattori",
   "short_name": "SHA-1-tiivistegeneraattori",
   "description": "Laske tekstien tai tiedostojen SHA-1-tiiviisteitä verkossa: 160-bittinen, 40 heksamerkkiä. Toimii paikallisesti selaimessasi WebCryptolla / puhtaalla JS:llä — tiedostoja ei koskaan lähetetä palvelimelle.",
-  "id": "/loona-dev-tools/fi/sha1-hash-generator/",
+  "id": "/fi/sha1-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generator de slug-uri Loona (creator de slug-uri URL)",
   "short_name": "Generator de slug-uri (Slug URL",
   "description": "Generează slug-uri URL curate din titluri: accente eliminate, litere mici, spații în cratime (sau underscore-uri). Creator de slug-uri gratuit.",
-  "id": "/loona-dev-tools/ro/slug-generator/",
+  "id": "/ro/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

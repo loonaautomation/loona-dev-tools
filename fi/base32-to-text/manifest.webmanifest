@@ -2,7 +2,7 @@
   "name": "Loona Base32-tekstipurku",
   "short_name": "Base32-tekstipurku",
   "description": "Pura Base32 (RFC 4648) takaisin tekstiksi — kirjainkokoa erottelematon, täyte valinnainen. Palauta TOTP-tyyppisesti koodattuja merkkijonoja.",
-  "id": "/loona-dev-tools/fi/base32-to-text/",
+  "id": "/fi/base32-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

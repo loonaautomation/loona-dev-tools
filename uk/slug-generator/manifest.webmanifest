@@ -2,7 +2,7 @@
   "name": "Генератор слагів Loona (творець слагів URL)",
   "short_name": "Генератор Slug (Slug URL",
   "description": "Генеруйте чисті слаги URL із заголовків: діакритику знято, малі літери, пробіли в дефіси (або підкреслення). Безкоштовний творець слагів.",
-  "id": "/loona-dev-tools/uk/slug-generator/",
+  "id": "/uk/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

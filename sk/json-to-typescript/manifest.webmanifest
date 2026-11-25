@@ -2,7 +2,7 @@
   "name": "Prevodník Loona JSON na rozhranie TypeScript",
   "short_name": "JSON na rozhranie TypeScript",
   "description": "Preveďte JSON na rozhrania TypeScript online: vnorené objekty sa stávajú pomenovanými rozhraniami, polia objektov zlučujú svoje kľúče s označenými voliteľnými poľami.",
-  "id": "/loona-dev-tools/sk/json-to-typescript/",
+  "id": "/sk/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

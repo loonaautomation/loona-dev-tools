@@ -2,7 +2,7 @@
   "name": "Generátor tieňov rámčeka Loona CSS online zadarmo",
   "short_name": "Generátor tieňov rámčeka CSS",
   "description": "Generujte CSS box-shadow online zadarmo - viac vrstiev tieňov, vnútorné tiene, ovládanie farby a nepriehľadnosti, so živým náhľadom a hotovým CSS. Bez registrácie, beží vo vašom prehliadači.",
-  "id": "/loona-dev-tools/sk/css-box-shadow-generator/",
+  "id": "/sk/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

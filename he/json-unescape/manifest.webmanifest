@@ -2,7 +2,7 @@
   "name": "ביטול בריחת מחרוזת Loona JSON",
   "short_name": "ביטול בריחת מחרוזת JSON",
   "description": "בטלו בריחה של ערך מחרוזת JSON בחזרה לטקסט רגיל: \\n, \\t, \\&quot;, \\\\ ורצפי \\uXXXX הופכים לתווים אמיתיים.",
-  "id": "/loona-dev-tools/he/json-unescape/",
+  "id": "/he/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona felhasználói ügynök karaktersorozat elemző",
   "short_name": "User Agent karaktersorozat elemző",
   "description": "Egy böngésző User-Agent karaktersorozat elemzése böngészővé, motorrá, operációs rendszerré és eszköztípussá egy átlátható, szabályalapú elemzővel.",
-  "id": "/loona-dev-tools/hu/user-agent-parser/",
+  "id": "/hu/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

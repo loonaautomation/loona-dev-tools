@@ -2,7 +2,7 @@
   "name": "Loona URL ڈی کوڈ (فیصد ڈی کوڈنگ)",
   "short_name": "URL ڈی کوڈ (فیصد ڈی کوڈنگ)",
   "description": "فیصد-انکوڈ شدہ URLs اور query اسٹرنگز کو واپس پڑھنے کے قابل متن میں ڈی کوڈ کریں، بشمول UTF-8 ترتیبیں اور + بطور اسپیس۔ مفت آن لائن ڈیکوڈر۔",
-  "id": "/loona-dev-tools/ur/url-decode/",
+  "id": "/ur/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

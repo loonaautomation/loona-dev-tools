@@ -2,7 +2,7 @@
   "name": "Loona Cookie fejléc elemző",
   "short_name": "Cookie fejléc elemző",
   "description": "Egy Cookie fejléc elemzése olvasható listává: név = érték párok, százalékosan dekódolt értékek megjelenítve, sütik száma.",
-  "id": "/loona-dev-tools/hu/cookie-parser/",
+  "id": "/hu/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

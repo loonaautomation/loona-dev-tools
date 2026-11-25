@@ -2,7 +2,7 @@
   "name": "Loona Morsecode-zu-Text-Übersetzer",
   "short_name": "Morsecode-zu-Text-Übersetzer",
   "description": "Decodieren Sie Morsecode zurück zu Text: Fügen Sie Punkte und Striche ein (Buchstaben durch Leerzeichen getrennt, / zwischen Wörtern) und lesen Sie die Nachricht.",
-  "id": "/loona-dev-tools/de/morse-code-to-text/",
+  "id": "/de/morse-code-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

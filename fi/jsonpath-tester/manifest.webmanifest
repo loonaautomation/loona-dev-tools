@@ -2,7 +2,7 @@
   "name": "Loona JSONPath-testaaja",
   "short_name": "JSONPath-testaaja",
   "description": "Testaa JSONPath-lausekkeita JSON-asiakirjaa vasten: pistenotaatio, indeksit, jokerimerkit ja rekursiivinen laskeutuminen ($..key) tuettuna.",
-  "id": "/loona-dev-tools/fi/jsonpath-tester/",
+  "id": "/fi/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

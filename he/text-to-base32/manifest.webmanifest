@@ -2,7 +2,7 @@
   "name": "מקודד Loona טקסט ל-Base32",
   "short_name": "מקודד טקסט ל-Base32",
   "description": "קודדו טקסט ל-Base32 ‏(RFC 4648) באופן מקוון — הקידוד הלא-רגיש לאותיות המשמש בסודות TOTP ובמזהים בטוחים ל-DNS.",
-  "id": "/loona-dev-tools/he/text-to-base32/",
+  "id": "/he/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

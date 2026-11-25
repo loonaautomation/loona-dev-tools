@@ -2,7 +2,7 @@
   "name": "Loona JSON-strängescape",
   "short_name": "JSON-strängescape",
   "description": "Escapa en sträng för inbäddning inuti JSON: citattecken, bakstreck, nya rader och kontrolltecken blir \\-sekvenser.",
-  "id": "/loona-dev-tools/sv/json-escape/",
+  "id": "/sv/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

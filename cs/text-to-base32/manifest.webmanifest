@@ -2,7 +2,7 @@
   "name": "Kodér Loona textu na Base32",
   "short_name": "Kodér textu na Base32",
   "description": "Kódujte text na Base32 (RFC 4648) online — kódování bez ohledu na velikost písmen používané v tajemstvích TOTP a identifikátorech bezpečných pro DNS.",
-  "id": "/loona-dev-tools/cs/text-to-base32/",
+  "id": "/cs/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

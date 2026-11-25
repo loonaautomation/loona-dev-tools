@@ -2,7 +2,7 @@
   "name": "Loona ランダムパスワード生成ツール",
   "short_name": "ランダムパスワード生成ツール",
   "description": "WebCrypto APIを使って、ブラウザで強力なランダムパスワードを生成します。長さと文字セットは調整可能、エントロピーも表示されます。",
-  "id": "/loona-dev-tools/ja/random-password-generator/",
+  "id": "/ja/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

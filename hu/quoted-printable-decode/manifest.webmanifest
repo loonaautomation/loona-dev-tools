@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable dekódoló",
   "short_name": "Quoted-Printable dekódoló",
   "description": "Dekódolja a quoted-printable (MIME) szöveget vissza olvasható UTF-8-tá: =XX escape-ek és lágy sortörések az RFC 2045 szerint kezelve.",
-  "id": "/loona-dev-tools/hu/quoted-printable-decode/",
+  "id": "/hu/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

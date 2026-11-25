@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας CSV σε YAML",
   "short_name": "Μετατροπέας CSV σε YAML",
   "description": "Μετατρέψτε πίνακες CSV σε YAML: η γραμμή κεφαλίδας γίνεται κλειδιά, κάθε γραμμή ένα στοιχείο σε μια λίστα YAML, οι αριθμοί με τύπους.",
-  "id": "/loona-dev-tools/el/csv-to-yaml/",
+  "id": "/el/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi TAR.GZ sang TAR của Loona",
   "short_name": "Công cụ chuyển đổi TAR.GZ sang TAR",
   "description": "Lột bỏ lớp gzip khỏi một tệp lưu trữ .tar.gz / .tgz để nhận TAR thuần, trực tuyến và cục bộ — không cần công cụ giải nén.",
-  "id": "/loona-dev-tools/vi/tar-gz-to-tar-converter/",
+  "id": "/vi/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

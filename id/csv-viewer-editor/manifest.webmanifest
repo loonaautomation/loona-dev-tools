@@ -2,7 +2,7 @@
   "name": "Loona Penampil & Editor CSV Online Gratis",
   "short_name": "Penampil & Editor CSV Online",
   "description": "Lihat dan edit file CSV online gratis dalam grid tabel yang dapat diedit - edit sel, urutkan kolom, tambah atau hapus baris dan kolom, lalu unduh CSV yang diedit. Tanpa pendaftaran, berjalan di browser Anda.",
-  "id": "/loona-dev-tools/id/csv-viewer-editor/",
+  "id": "/id/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penukar Jadual Markdown ke CSV",
   "short_name": "Jadual Markdown ke CSV",
   "description": "Penukaran jadual Markdown ke CSV: header dan baris diekstrak, baris perataan dipadam, sel dipangkas dan dikutip dengan benar.",
-  "id": "/loona-dev-tools/ms/markdown-table-to-csv/",
+  "id": "/ms/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

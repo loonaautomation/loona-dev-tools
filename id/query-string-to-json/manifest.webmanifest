@@ -2,7 +2,7 @@
   "name": "Loona Konverter Query String ke JSON",
   "short_name": "Konverter String Kueri ke JSON",
   "description": "Parse string kueri URL menjadi JSON: notasi kurung menjadi objek bersarang, kunci berulang menjadi array, nilai diberi tipe.",
-  "id": "/loona-dev-tools/id/query-string-to-json/",
+  "id": "/id/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

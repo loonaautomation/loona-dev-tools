@@ -2,7 +2,7 @@
   "name": "Loona JSON-LD Schema-generator online gratis",
   "short_name": "JSON-LD Schema-generator",
   "description": "Generér schema.org-JSON-LD-strukturerede data online gratis – Article, LocalBusiness, Product, Event, Recipe, Person, Organization og WebSite – som en klar scriptblok. Ingen tilmelding.",
-  "id": "/loona-dev-tools/da/json-ld-schema-generator/",
+  "id": "/da/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

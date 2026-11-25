@@ -2,7 +2,7 @@
   "name": "Loona Penukar XML ke YAML",
   "short_name": "Penukar XML ke YAML",
   "description": "Penukaran XML ke YAML: atribut sebagai @key, elemen berulang sebagai senarai, nilai bertipe. Penghurai sungguhan, bukan regex.",
-  "id": "/loona-dev-tools/ms/xml-to-yaml/",
+  "id": "/ms/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

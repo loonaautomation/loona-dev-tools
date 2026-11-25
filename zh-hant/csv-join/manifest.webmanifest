@@ -2,7 +2,7 @@
   "name": "Loona CSV 合併工具 線上免費",
   "short_name": "CSV 合併工具 線上免費",
   "description": "免費線上在一個共享鍵列上合併兩個 CSV 檔案——內連線或左連線，重複鍵按資料庫的方式處理。無需註冊，100% 在您的瀏覽器中執行。",
-  "id": "/loona-dev-tools/zh-hant/csv-join/",
+  "id": "/zh-hant/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

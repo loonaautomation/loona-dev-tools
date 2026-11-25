@@ -2,7 +2,7 @@
   "name": "Công cụ giải mã thực thể HTML của Loona",
   "short_name": "Công cụ giải mã thực thể HTML",
   "description": "Giải mã thực thể HTML trở lại thành ký tự thuần: các tham chiếu dạng tên, thập phân và hex (&copy;, &#169;, &#xA9;) đều được hỗ trợ.",
-  "id": "/loona-dev-tools/vi/html-entities-decode/",
+  "id": "/vi/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

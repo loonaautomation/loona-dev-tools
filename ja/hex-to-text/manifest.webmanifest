@@ -2,7 +2,7 @@
   "name": "Loona Hex→テキスト変換ツール",
   "short_name": "Hex→テキスト変換ツール",
   "description": "十六進数をテキストに戻します：hexバイトを貼り付け（スペース区切りでも連続でも、0x があってもなくても）、UTF-8テキストを読みます。",
-  "id": "/loona-dev-tools/ja/hex-to-text/",
+  "id": "/ja/hex-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงตาราง Markdown เป็น CSV",
   "short_name": "ตาราง Markdown เป็น CSV",
   "description": "แปลงตาราง Markdown เป็น CSV: ส่วนหัวและแถวถูกดึงออกมา แถวการจัดแนวถูกลบ เซลล์ถูกตัดแต่งและใส่เครื่องหมายคำพูดอย่างเหมาะสม",
-  "id": "/loona-dev-tools/th/markdown-table-to-csv/",
+  "id": "/th/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ελεγκτής JSONPath",
   "short_name": "Ελεγκτής JSONPath",
   "description": "Δοκιμάστε εκφράσεις JSONPath έναντι ενός εγγράφου JSON: σημειογραφία με τελείες, ευρετήρια, μπαλαντέρ και αναδρομική κάθοδος ($..key) υποστηρίζονται.",
-  "id": "/loona-dev-tools/el/jsonpath-tester/",
+  "id": "/el/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

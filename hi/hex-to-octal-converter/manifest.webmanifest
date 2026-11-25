@@ -2,7 +2,7 @@
   "name": "Loona Hexadecimal से Octal कन्वर्टर",
   "short_name": "Hexadecimal से Octal कन्वर्टर",
   "description": "Hexadecimal संख्याओं को octal में ऑनलाइन बदलें — arbitrary precision (BigInt), negative numbers supported।",
-  "id": "/loona-dev-tools/hi/hex-to-octal-converter/",
+  "id": "/hi/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

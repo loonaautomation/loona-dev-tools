@@ -2,7 +2,7 @@
   "name": "Loona HTTP-Statuscodes-Referenz",
   "short_name": "HTTP-Statuscodes-Referenz",
   "description": "Jeder übliche HTTP-Statuscode mit seiner Bedeutung: 2xx Erfolg, 3xx Weiterleitungen, 4xx Client-Fehler, 5xx Server-Fehler — einfach erklärt.",
-  "id": "/loona-dev-tools/de/http-status-codes/",
+  "id": "/de/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

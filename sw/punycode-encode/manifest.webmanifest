@@ -2,7 +2,7 @@
   "name": "Loona Kisimbaji cha Punycode (Kibadilishaji cha Kikoa cha IDN)",
   "short_name": "Kisimbaji cha Punycode (Kikoa cha IDN",
   "description": "Badilisha majina ya vikoa yaliyogeuzwa kimataifa (IDN) kuwa muundo wa punycode wa xn--: bücher.example huwa xn--bcher-kva.example. Usimbaji kwa kila lebo.",
-  "id": "/loona-dev-tools/sw/punycode-encode/",
+  "id": "/sw/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Calcolatore di checksum Adler-32",
   "short_name": "Calcolatore di checksum Adler-32",
   "description": "Calcola hash Adler-32 di testo o file online: 32-bit, 8 caratteri esadecimali. Funziona localmente nel tuo browser con WebCrypto/pure JS — i file non vengono mai caricati.",
-  "id": "/loona-dev-tools/it/adler32-calculator/",
+  "id": "/it/adler32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

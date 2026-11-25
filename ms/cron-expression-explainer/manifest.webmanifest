@@ -2,7 +2,7 @@
   "name": "Loona Penjelas Ungkapan Cron",
   "short_name": "Penjelas Ungkapan Cron",
   "description": "Jelaskan ungkapan cron dalam bahasa Indonesia yang sederhana: tampal jadwal cron 5-medan dan baca bila ia berjalan, medan per medan.",
-  "id": "/loona-dev-tools/ms/cron-expression-explainer/",
+  "id": "/ms/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

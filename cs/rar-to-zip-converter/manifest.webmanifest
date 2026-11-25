@@ -2,7 +2,7 @@
   "name": "Převodník Loona RAR na ZIP online zdarma",
   "short_name": "Převodník RAR na ZIP online",
   "description": "Převeďte archiv RAR (.rar) na standardní soubor ZIP přímo ve vašem prohlížeči. Struktura složek je zachována, nic se nenahrává a ZIP se otevře kdekoli - Windows, macOS, Android a iPhone všechny ZIP otevírají nativně.",
-  "id": "/loona-dev-tools/cs/rar-to-zip-converter/",
+  "id": "/cs/rar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

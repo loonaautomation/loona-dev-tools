@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας 7Z σε ZIP Διαδικτυακά Δωρεάν",
   "short_name": "Μετατροπέας 7Z σε ZIP Διαδικτυακά",
   "description": "Μετατρέψτε μια αρχειοθήκη 7Z (.7z) σε τυπικό αρχείο ZIP ακριβώς στο πρόγραμμα περιήγησής σας. Η δομή φακέλων διατηρείται, τίποτα δεν μεταφορτώνεται - και το ZIP που προκύπτει ανοίγει εγγενώς σε Windows, macOS, Android και iPhone, χωρίς να χρειάζεται 7-Zip.",
-  "id": "/loona-dev-tools/el/7z-to-zip-converter/",
+  "id": "/el/7z-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

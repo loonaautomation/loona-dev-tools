@@ -2,7 +2,7 @@
   "name": "Generátor značiek Loona Hreflang online zadarmo",
   "short_name": "Generátor značiek Hreflang online",
   "description": "Generujte značky hreflang online zadarmo - vložte dvojice jazyka a URL, pridajte x-default a získajte úplnú sadu alternatívnych odkazov s kontrolami BCP 47 a absolútnych URL. Bez registrácie.",
-  "id": "/loona-dev-tools/sk/hreflang-tag-generator/",
+  "id": "/sk/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

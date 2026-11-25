@@ -2,7 +2,7 @@
   "name": "Loona 罗马数字转数字",
   "short_name": "罗马数字转数字",
   "description": "把罗马数字转换成数字（1–3999），严格验证减法记法（IV、IX、XL、CM）。",
-  "id": "/loona-dev-tools/zh/roman-numerals-converter/",
+  "id": "/zh/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

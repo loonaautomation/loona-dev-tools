@@ -2,7 +2,7 @@
   "name": "Генератор на мета тагове на Loona онлайн безплатно",
   "short_name": "Генератор на мета тагове онлайн безплатно",
   "description": "Генерирайте безплатно онлайн HTML мета тагове - заглавие, описание, ключови думи, автор, роботи и каноничен - с преглед на Google SERP на живо и брой символи. Без регистрация.",
-  "id": "/loona-dev-tools/bg/meta-tag-generator/",
+  "id": "/bg/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

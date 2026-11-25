@@ -2,7 +2,7 @@
   "name": "Loona Pengekstrak Fail RAR Dalam Talian Percuma",
   "short_name": "Pengekstrak Fail RAR Dalam Talian Percuma",
   "description": "Buka fail RAR (RAR4 dan RAR5) langsung di pelayar Anda - lihat setiap fail di dalamnya, muat turun fail tunggal atau semuanya sebagai ZIP. Tidak ada yang dimuat naik; ekstraksi terjadi di peranti Anda.",
-  "id": "/loona-dev-tools/ms/rar-file-extractor/",
+  "id": "/ms/rar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

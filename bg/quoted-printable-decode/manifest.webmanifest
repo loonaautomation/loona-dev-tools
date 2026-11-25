@@ -2,7 +2,7 @@
   "name": "Декодер на Quoted-Printable на Loona",
   "short_name": "Декодиране на Quoted-Printable",
   "description": "Декодирайте quoted-printable (MIME) текст обратно в четим UTF-8: =XX екранирания и меки прекъсвания на редове, обработени по RFC 2045.",
-  "id": "/loona-dev-tools/bg/quoted-printable-decode/",
+  "id": "/bg/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงเลขฐานสองเป็นเลขฐานแปด",
   "short_name": "ตัวแปลงเลขฐานสองเป็นเลขฐานแปด",
   "description": "แปลงตัวเลขฐานสองเป็นเลขฐานแปดออนไลน์ — ความแม่นยำไม่จำกัด (BigInt) รองรับจำนวนลบ",
-  "id": "/loona-dev-tools/th/binary-to-octal-converter/",
+  "id": "/th/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

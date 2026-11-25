@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha CSV kwenda YAML",
   "short_name": "Kibadilishaji cha CSV kwenda YAML",
   "description": "Badilisha majedwali ya CSV kuwa YAML: safu mlalo ya kichwa huwa funguo, kila safu mlalo ni kipengee katika orodha ya YAML, nambari zimeainishwa.",
-  "id": "/loona-dev-tools/sw/csv-to-yaml/",
+  "id": "/sw/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

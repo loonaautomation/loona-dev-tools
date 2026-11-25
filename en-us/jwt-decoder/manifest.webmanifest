@@ -2,7 +2,7 @@
   "name": "Loona JWT Decoder - Read Header & Payload, Check Expiry",
   "short_name": "JWT Decoder - Read Header & Payload, Check Expiry",
   "description": "Decode a JSON Web Token online for free - read the header and payload as pretty JSON and see expiry in plain words. Signature NOT verified. In your browser.",
-  "id": "/loona-dev-tools/en-us/jwt-decoder/",
+  "id": "/en-us/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

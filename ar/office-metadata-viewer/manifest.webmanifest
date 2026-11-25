@@ -2,7 +2,7 @@
   "name": "Loona عارض البيانات الوصفية لمستندات Office عبر الإنترنت",
   "short_name": "بيانات مستند Office الوصفية",
   "description": "اعرض بيانات مستند Office الوصفية عبر الإنترنت مجاناً - العنوان، المؤلف، الشركة، تواريخ الإنشاء والتعديل، التطبيق والإصدار لملفات .docx و.xlsx و.pptx. للعرض فقط، لا يُرفع شيء.",
-  "id": "/loona-dev-tools/ar/office-metadata-viewer/",
+  "id": "/ar/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

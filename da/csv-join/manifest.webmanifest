@@ -2,7 +2,7 @@
   "name": "Loona CSV-fletning online gratis",
   "short_name": "CSV-sammenføjning online gratis",
   "description": "Flet to CSV-filer online gratis på en fælles nøglekolonne - inner join eller left join, dubletnøgler håndteret på databasemåden. Ingen tilmelding, kører 100 % i din browser.",
-  "id": "/loona-dev-tools/da/csv-join/",
+  "id": "/da/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

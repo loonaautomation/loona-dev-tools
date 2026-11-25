@@ -2,7 +2,7 @@
   "name": "Loona Simba URL (Usimbaji wa Asilimia)",
   "short_name": "Kisimbaji cha URL (Usimbaji wa Asilimia)",
   "description": "Simba maandishi au URL kamili kwa asilimia mtandaoni: nafasi huwa %20, herufi zilizohifadhiwa hutoroshwa kwa mujibu wa RFC 3986. Hali ya kipengele au URL kamili.",
-  "id": "/loona-dev-tools/sw/url-encode/",
+  "id": "/sw/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

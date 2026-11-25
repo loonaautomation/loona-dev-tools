@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona de chaîne de requête vers JSON",
   "short_name": "Convertisseur de chaîne de requête vers JSON",
   "description": "Analysez une chaîne de requête d’URL en JSON : la notation entre crochets devient des objets imbriqués, les clés répétées deviennent des tableaux, les valeurs sont typées.",
-  "id": "/loona-dev-tools/fr/query-string-to-json/",
+  "id": "/fr/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

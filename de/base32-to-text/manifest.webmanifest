@@ -2,7 +2,7 @@
   "name": "Loona Base32-zu-Text-Decoder",
   "short_name": "Base32-zu-Text-Decoder",
   "description": "Decodieren Sie Base32 (RFC 4648) zurück zu Text — ohne Groß-/Kleinschreibung, Padding optional. Stellen Sie TOTP-artig codierte Zeichenfolgen wieder her.",
-  "id": "/loona-dev-tools/de/base32-to-text/",
+  "id": "/de/base32-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας TAR σε ZIP Διαδικτυακά Δωρεάν",
   "short_name": "Μετατροπέας TAR σε ZIP Διαδικτυακά",
   "description": "Μετατρέψτε μια αρχειοθήκη TAR (.tar) σε αρχείο ZIP ακριβώς στο πρόγραμμα περιήγησής σας. Τα αρχεία TAR προέρχονται από συστήματα Linux και Unix· το μετατραπέν ZIP ανοίγει εγγενώς σε Windows, macOS και τηλέφωνα. Τίποτα δεν μεταφορτώνεται.",
-  "id": "/loona-dev-tools/el/tar-to-zip-converter/",
+  "id": "/el/tar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

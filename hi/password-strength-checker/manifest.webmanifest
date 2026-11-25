@@ -2,7 +2,7 @@
   "name": "Loona पासवर्ड मज़बूती चेकर ऑनलाइन मुफ़्त",
   "short_name": "पासवर्ड मज़बूती चेकर",
   "description": "पासवर्ड मज़बूती ऑनलाइन मुफ़्त check करें एक transparent entropy estimate, specific feedback और crack-time estimate के साथ। पासवर्ड कभी आपके ब्राउज़र से बाहर नहीं जाता — कुछ भी भेजा या रखा नहीं जाता।",
-  "id": "/loona-dev-tools/hi/password-strength-checker/",
+  "id": "/hi/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

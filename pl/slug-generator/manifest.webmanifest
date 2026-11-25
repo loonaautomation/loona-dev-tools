@@ -2,7 +2,7 @@
   "name": "Loona Generator slugów (twórca slugów URL)",
   "short_name": "Generator slugów (twórca slugów URL",
   "description": "Generuj czyste slugi URL z tytułów: akcenty usunięte, małe litery, spacje na myślniki (lub podkreślenia). Bezpłatny twórca slugów.",
-  "id": "/loona-dev-tools/pl/slug-generator/",
+  "id": "/pl/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

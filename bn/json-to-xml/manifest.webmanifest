@@ -2,7 +2,7 @@
   "name": "Loona JSON থেকে XML কনভার্টার",
   "short_name": "JSON থেকে XML কনভার্টার",
   "description": "কাস্টমাইজযোগ্য রুট উপাদানসহ অনলাইনে JSON XML-এ রূপান্তর করুন: অ্যারে পুনরাবৃত্ত উপাদান হয়, @keys অ্যাট্রিবিউট হয়।",
-  "id": "/loona-dev-tools/bn/json-to-xml/",
+  "id": "/bn/json-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

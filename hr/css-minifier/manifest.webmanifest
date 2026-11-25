@@ -2,7 +2,7 @@
   "name": "Loona sažimanje CSS-a na mreži besplatno",
   "short_name": "Sažimanje CSS-a na mreži besplatno",
   "description": "Sažmite CSS na mreži besplatno i vidite točno koliko se manjim čini, ili minificirani CSS uljepšajte natrag u čitljiv kod. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/css-minifier/",
+  "id": "/hr/css-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

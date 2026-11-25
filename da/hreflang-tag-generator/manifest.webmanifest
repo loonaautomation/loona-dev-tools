@@ -2,7 +2,7 @@
   "name": "Loona Hreflang-tag-generator online gratis",
   "short_name": "Hreflang-taggenerator online",
   "description": "Generér hreflang-tags online gratis – indsæt sprog- og URL-par, tilføj en x-default, og få det fulde alternative linksæt med BCP 47- og absolut-URL-tjek. Ingen tilmelding.",
-  "id": "/loona-dev-tools/da/hreflang-tag-generator/",
+  "id": "/da/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

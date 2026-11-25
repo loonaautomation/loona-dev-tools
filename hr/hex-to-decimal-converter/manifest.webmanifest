@@ -2,7 +2,7 @@
   "name": "Loona pretvarač heksadekadskog u decimalni sustav",
   "short_name": "Heksadekadsko u decimalno",
   "description": "Pretvorite heksadekadske brojeve u decimalne na mreži — proizvoljna preciznost (BigInt), negativni brojevi podržani.",
-  "id": "/loona-dev-tools/hr/hex-to-decimal-converter/",
+  "id": "/hr/hex-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

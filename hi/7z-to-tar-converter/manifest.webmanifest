@@ -2,7 +2,7 @@
   "name": "Loona 7Z से TAR कन्वर्टर",
   "short_name": "7Z से TAR कन्वर्टर",
   "description": "7Z archives को TAR में ऑनलाइन बदलें: libarchive (WebAssembly) 7Z को पढ़ता है, एक ustar writer उसे repack करता है। Private और local।",
-  "id": "/loona-dev-tools/hi/7z-to-tar-converter/",
+  "id": "/hi/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

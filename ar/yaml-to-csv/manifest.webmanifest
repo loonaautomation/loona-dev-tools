@@ -2,7 +2,7 @@
   "name": "Loona محوّل YAML إلى CSV",
   "short_name": "محوّل YAML إلى CSV",
   "description": "حوّل قائمة YAML من الكائنات إلى جدول CSV: اتحاد المفاتيح كأعمدة، قيم متداخلة مُسلسلة كـ JSON في خليتها.",
-  "id": "/loona-dev-tools/ar/yaml-to-csv/",
+  "id": "/ar/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

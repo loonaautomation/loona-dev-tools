@@ -2,7 +2,7 @@
   "name": "Loona Kisimbuaji cha Alfabeti ya Fonetiki ya NATO",
   "short_name": "Kisimbuaji cha Alfabeti ya Fonetiki ya NATO",
   "description": "Simbua maneno ya kifonetiki ya NATO (Alfa, Bravo, Charlie...) kurudi kuwa herufi wazi na tarakimu.",
-  "id": "/loona-dev-tools/sw/nato-phonetic-decoder/",
+  "id": "/sw/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

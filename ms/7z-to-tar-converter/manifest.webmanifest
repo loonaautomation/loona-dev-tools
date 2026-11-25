@@ -2,7 +2,7 @@
   "name": "Loona Penukar 7Z ke TAR",
   "short_name": "Penukar 7Z ke TAR",
   "description": "Penukaran arkib 7Z ke TAR dalam talian: libarchive (WebAssembly) membaca 7Z, penulis ustar mengemasnya ulang. Peribadi dan setempat.",
-  "id": "/loona-dev-tools/ms/7z-to-tar-converter/",
+  "id": "/ms/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

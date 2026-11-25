@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้างลิงก์ UTM ออนไลน์ฟรี",
   "short_name": "ตัวสร้างลิงก์ UTM ออนไลน์ฟรี",
   "description": "สร้าง URL แคมเปญที่ติดแท็ก UTM ออนไลน์ฟรี - source, medium, campaign, term และ content ถูกเพิ่มด้วยการเข้ารหัสที่ถูกต้อง พารามิเตอร์คิวรีที่มีอยู่ถูกเก็บไว้ พร้อมประวัติที่บันทึกไว้",
-  "id": "/loona-dev-tools/th/utm-link-builder/",
+  "id": "/th/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

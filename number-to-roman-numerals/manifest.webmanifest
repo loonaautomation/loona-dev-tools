@@ -2,7 +2,7 @@
   "name": "Loona Numbers to Roman Numerals",
   "short_name": "Numbers to Roman Numerals",
   "description": "Convert numbers (1–3999) to Roman numerals in standard subtractive form. Free online converter.",
-  "id": "/loona-dev-tools/number-to-roman-numerals/",
+  "id": "/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

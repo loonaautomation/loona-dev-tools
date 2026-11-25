@@ -2,7 +2,7 @@
   "name": "Loona CSV to TSV Converter",
   "short_name": "CSV to TSV Converter",
   "description": "Convert CSV to TSV (tab-separated values): full quoted-field parsing, tabs as delimiters. Free online converter.",
-  "id": "/loona-dev-tools/csv-to-tsv/",
+  "id": "/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

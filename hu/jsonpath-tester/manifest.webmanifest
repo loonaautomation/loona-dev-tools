@@ -2,7 +2,7 @@
   "name": "Loona JSONPath tesztelő",
   "short_name": "JSONPath tesztelő",
   "description": "JSONPath kifejezések tesztelése egy JSON dokumentummal szemben: pontjelölés, indexek, helyettesítő karakterek és rekurzív leszállás ($..key) támogatva.",
-  "id": "/loona-dev-tools/hu/jsonpath-tester/",
+  "id": "/hu/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

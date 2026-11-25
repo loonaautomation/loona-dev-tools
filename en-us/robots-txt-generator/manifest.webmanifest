@@ -2,7 +2,7 @@
   "name": "Loona Robots.txt Generator - Crawler Rules Without the Syntax Traps",
   "short_name": "Robots.txt Generator - Crawler Rules Without the Syntax Traps",
   "description": "Generate a valid robots.txt online for free - presets, per-agent allow and disallow rules, sitemap line and built-in syntax sanity checks. No sign-up, runs in your browser.",
-  "id": "/loona-dev-tools/en-us/robots-txt-generator/",
+  "id": "/en-us/robots-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

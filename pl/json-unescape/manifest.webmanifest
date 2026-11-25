@@ -2,7 +2,7 @@
   "name": "Loona Odescapowanie ciągu JSON",
   "short_name": "Odescapowanie ciągu JSON",
   "description": "Odescapuj wartość ciągu JSON z powrotem do zwykłego tekstu: sekwencje \\n, \\t, \\\", \\\\ oraz \\uXXXX stają się prawdziwymi znakami.",
-  "id": "/loona-dev-tools/pl/json-unescape/",
+  "id": "/pl/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

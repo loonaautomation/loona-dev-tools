@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum-generator",
   "short_name": "Lorem Ipsum-generator",
   "description": "Genereer Lorem Ipsum-placeholdertekst: kies alinea's, zinnen of woorden, met de klassieke openingsregel optioneel.",
-  "id": "/loona-dev-tools/nl/lorem-ipsum-generator/",
+  "id": "/nl/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

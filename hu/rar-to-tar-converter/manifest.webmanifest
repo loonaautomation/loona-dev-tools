@@ -2,7 +2,7 @@
   "name": "Loona RAR-ból TAR-ba átalakító",
   "short_name": "RAR-ból TAR-ba átalakító",
   "description": "Alakítson RAR archívumokat (RAR4 és RAR5) TAR-rá online a libarchive-val a böngészőjében. A fájlok az eszközén maradnak.",
-  "id": "/loona-dev-tools/hu/rar-to-tar-converter/",
+  "id": "/hu/rar-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Extractor de fișiere ISO Loona online gratuit",
   "short_name": "Extractor de fișiere ISO online gratuit",
   "description": "Deschide imagini de disc ISO chiar în browserul tău - răsfoiește sistemul de fișiere stocat pe discul virtual și descarcă fișiere individuale sau totul ca ZIP. Nimic nu este încărcat.",
-  "id": "/loona-dev-tools/ro/iso-file-extractor/",
+  "id": "/ro/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

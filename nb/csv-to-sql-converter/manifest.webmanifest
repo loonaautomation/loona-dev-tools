@@ -2,7 +2,7 @@
   "name": "Loona CSV til SQL-konverterer på nett gratis",
   "short_name": "CSV til SQL-konverterer på nett",
   "description": "Konverter CSV til SQL på nett gratis - CREATE TABLE med utledede kolonnetyper pluss én INSERT per rad, for MySQL, PostgreSQL eller SQLite. Ingen registrering, kjører 100 % i nettleseren din.",
-  "id": "/loona-dev-tools/nb/csv-to-sql-converter/",
+  "id": "/nb/csv-to-sql-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

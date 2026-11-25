@@ -2,7 +2,7 @@
   "name": "Loona JSON-string unescapen",
   "short_name": "JSON-string unescapen",
   "description": "Unescape een JSON-stringwaarde terug naar platte tekst: \\n, \\t, \\&quot;, \\\\ en \\uXXXX-reeksen worden echte tekens.",
-  "id": "/loona-dev-tools/nl/json-unescape/",
+  "id": "/nl/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

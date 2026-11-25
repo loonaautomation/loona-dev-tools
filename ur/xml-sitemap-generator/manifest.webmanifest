@@ -2,7 +2,7 @@
   "name": "Loona XML سائٹ میپ جنریٹر آن لائن مفت",
   "short_name": "XML سائٹ میپ جنریٹر آن لائن",
   "description": "ایک درست XML سائٹ میپ URLs کی فہرست سے آن لائن مفت بنائیں، ڈیفالٹ lastmod, changefreq اور priority، درست URL اور XML escaping کے ساتھ۔ کوئی سائن اپ نہیں، آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-dev-tools/ur/xml-sitemap-generator/",
+  "id": "/ur/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

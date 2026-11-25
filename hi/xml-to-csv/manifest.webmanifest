@@ -2,7 +2,7 @@
   "name": "Loona XML से CSV कन्वर्टर",
   "short_name": "XML से CSV कन्वर्टर",
   "description": "XML को CSV में बदलें: repeated elements rows बन जाते हैं, उनके children और attributes columns बन जाते हैं। मुफ़्त ऑनलाइन converter।",
-  "id": "/loona-dev-tools/hi/xml-to-csv/",
+  "id": "/hi/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

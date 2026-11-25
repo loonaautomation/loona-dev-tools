@@ -2,7 +2,7 @@
   "name": "Loona Unix-timestamp naar datum-converter",
   "short_name": "Unix-timestamp naar datum",
   "description": "Converteer een Unix-timestamp (seconden of milliseconden) naar een menselijke datum: UTC, je lokale tijd, ISO 8601 en relatieve tijd.",
-  "id": "/loona-dev-tools/nl/unix-timestamp-to-date/",
+  "id": "/nl/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

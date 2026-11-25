@@ -2,7 +2,7 @@
   "name": "Loona JSON-SQL INSERT -generaattori",
   "short_name": "JSON-SQL INSERT -generaattori",
   "description": "Luo SQL INSERT -lauseita JSON-objektitaulukosta: merkkijonot pakotettuina, NULLit ja totuusarvot käsiteltynä, mukautettu taulukon nimi.",
-  "id": "/loona-dev-tools/fi/json-to-sql-insert/",
+  "id": "/fi/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

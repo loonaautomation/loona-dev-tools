@@ -2,7 +2,7 @@
   "name": "Loona Teksti-Base64-kooderi",
   "short_name": "Teksti-Base64-kooderi",
   "description": "Koodaa tekstiä Base64:ksi verkossa, UTF-8-turvallinen mille tahansa kielelle ja emojille, valinnaisella URL-turvallisella aakkostolla. Ilmainen, yksityinen, selaimessasi.",
-  "id": "/loona-dev-tools/fi/text-to-base64/",
+  "id": "/fi/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

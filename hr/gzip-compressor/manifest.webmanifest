@@ -2,7 +2,7 @@
   "name": "Loona sažimanje GZIP-a na mreži besplatno",
   "short_name": "Sažimanje GZIP-a na mreži besplatno",
   "description": "Sažmite bilo koju jednu datoteku u .gz ugrađenim gzip mehanizmom vašeg preglednika. Trenutačne veličine prije/poslije, ništa se ne prenosi - datoteka se sažima na vašem uređaju. Radi za zapisnike, CSV-ove, TAR datoteke i još mnogo toga.",
-  "id": "/loona-dev-tools/hr/gzip-compressor/",
+  "id": "/hr/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

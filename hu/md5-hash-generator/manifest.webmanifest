@@ -2,7 +2,7 @@
   "name": "Loona MD5 hash generátor",
   "short_name": "MD5 hash generátor",
   "description": "Számítson MD5 hasheket szövegből vagy fájlokból online: 128 bites, 32 hexadecimális karakter. Helyben fut a böngészőjében WebCrypto/tiszta JS segítségével — a fájlok soha nem töltődnek fel.",
-  "id": "/loona-dev-tools/hu/md5-hash-generator/",
+  "id": "/hu/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

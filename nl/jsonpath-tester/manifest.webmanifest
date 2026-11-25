@@ -2,7 +2,7 @@
   "name": "Loona JSONPath-tester",
   "short_name": "JSONPath-tester",
   "description": "Test JSONPath-expressies tegen een JSON-document: puntnotatie, indexen, wildcards en recursieve afdaling ($..key) ondersteund.",
-  "id": "/loona-dev-tools/nl/jsonpath-tester/",
+  "id": "/nl/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

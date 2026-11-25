@@ -2,7 +2,7 @@
   "name": "Loona JSON - TOML Dönüştürücü",
   "short_name": "JSON - TOML Dönüştürücü",
   "description": "JSON değerini çevrimiçi TOML biçimine dönüştürün: önce skalerler, iç içe nesneler [tables] olarak, nesne dizileri [[tables]] olarak.",
-  "id": "/loona-dev-tools/tr/json-to-toml/",
+  "id": "/tr/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "מחולל Loona JSON ל-JSON Schema",
   "short_name": "מחולל JSON ל-JSON Schema",
   "description": "צרו סכמת JSON (טיוטה 2020-12) מדוגמת JSON: סוגים מוסקים, תכונות אובייקט ומפתחות נדרשים כלולים.",
-  "id": "/loona-dev-tools/he/json-to-json-schema/",
+  "id": "/he/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

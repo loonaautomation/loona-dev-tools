@@ -2,7 +2,7 @@
   "name": "Loona generator Lorem Ipsum",
   "short_name": "Generator Lorem Ipsum",
   "description": "Generirajte tekst zamjene Lorem Ipsum: odaberite odlomke, rečenice ili riječi, s klasičnim početnim retkom kao opcijom.",
-  "id": "/loona-dev-tools/hr/lorem-ipsum-generator/",
+  "id": "/hr/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

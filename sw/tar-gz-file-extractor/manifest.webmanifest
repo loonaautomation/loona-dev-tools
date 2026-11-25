@@ -2,7 +2,7 @@
   "name": "Loona Kitoaji cha Faili cha TAR.GZ Bure Mtandaoni",
   "short_name": "Kitoaji cha Faili cha TAR.GZ Mtandaoni",
   "description": "Fungua hifadhi za tar.gz moja kwa moja kwenye kivinjari chako - .tar.gz na jina fupi la .tgz - tazama kila faili ndani na upakue faili moja moja au kila kitu kama ZIP. Hakuna kinachopakiwa.",
-  "id": "/loona-dev-tools/sw/tar-gz-file-extractor/",
+  "id": "/sw/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

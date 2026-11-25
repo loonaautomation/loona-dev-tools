@@ -2,7 +2,7 @@
   "name": "Loona HTML Entities Reference Table",
   "short_name": "HTML Entities Reference Table",
   "description": "Essential HTML entities table: named entity, character, decimal code और usage notes उन entities के लिए जो developers सच में उपयोग करते हैं।",
-  "id": "/loona-dev-tools/hi/html-entities-reference/",
+  "id": "/hi/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

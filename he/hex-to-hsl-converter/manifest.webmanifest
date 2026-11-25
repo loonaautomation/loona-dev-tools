@@ -2,7 +2,7 @@
   "name": "ממיר Loona HEX ל-HSL",
   "short_name": "ממיר HEX ל-HSL",
   "description": "המירו צבעים מ-HEX ל-HSL באופן מקוון, עם דוגמית חיה וכל שאר הפורמטים (HEX, RGB, HSL, HSV, CMYK) מוצגים גם כן.",
-  "id": "/loona-dev-tools/he/hex-to-hsl-converter/",
+  "id": "/he/hex-to-hsl-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

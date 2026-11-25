@@ -2,7 +2,7 @@
   "name": "Loona Kigawaji na Kiunganishaji cha CSV Bure Mtandaoni",
   "short_name": "Kigawaji na Kiunganishaji cha CSV Bure Mtandaoni",
   "description": "Gawanya CSV kuwa sehemu kwa hesabu ya safu mlalo au unganisha faili kadhaa za CSV kuwa moja, mtandaoni bure - vichwa vimeshughulikiwa kwa usahihi, uchanganuzi sahihi wa CSV. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/csv-split-merge/",
+  "id": "/sw/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

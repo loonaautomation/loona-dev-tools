@@ -2,7 +2,7 @@
   "name": "Loona CSV Diff और तुलना ऑनलाइन मुफ़्त",
   "short_name": "CSV Diff और तुलना ऑनलाइन मुफ़्त",
   "description": "दो CSV फ़ाइलों की ऑनलाइन मुफ़्त तुलना करें — rows एक key column से matched और added, removed, changed (सटीक cells के साथ) या unchanged के रूप में classified। कोई sign-up नहीं, आपके ब्राउज़र में चलता है।",
-  "id": "/loona-dev-tools/hi/csv-diff/",
+  "id": "/hi/csv-diff/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

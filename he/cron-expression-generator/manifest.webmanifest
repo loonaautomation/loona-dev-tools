@@ -2,7 +2,7 @@
   "name": "מחולל ביטויי Cron של Loona מקוון בחינם",
   "short_name": "מחולל ביטויי Cron",
   "description": "בנו ביטויי cron מתפריטים נפתחים והסבירו כל ביטוי cron של 5 שדות בעברית פשוטה, באופן מקוון בחינם. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/cron-expression-generator/",
+  "id": "/he/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

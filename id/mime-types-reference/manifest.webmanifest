@@ -2,7 +2,7 @@
   "name": "Loona Referensi Tipe MIME (Tipe Konten berdasarkan",
   "short_name": "Referensi Tipe MIME (Konten",
   "description": "Tipe MIME umum berdasarkan ekstensi file: dokumen, gambar, audio, video, arsip, font, dan format web beserta nilai Content-Type-nya.",
-  "id": "/loona-dev-tools/id/mime-types-reference/",
+  "id": "/id/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

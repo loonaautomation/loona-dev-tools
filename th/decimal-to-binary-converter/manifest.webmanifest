@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงเลขฐานสิบเป็นเลขฐานสอง",
   "short_name": "ตัวแปลงเลขฐานสิบเป็นเลขฐานสอง",
   "description": "แปลงตัวเลขฐานสิบเป็นเลขฐานสองออนไลน์ — ความแม่นยำไม่จำกัด (BigInt) รองรับจำนวนลบ",
-  "id": "/loona-dev-tools/th/decimal-to-binary-converter/",
+  "id": "/th/decimal-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

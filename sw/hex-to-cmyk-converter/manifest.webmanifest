@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha HEX kwenda CMYK",
   "short_name": "Kibadilishaji cha HEX kwenda CMYK",
   "description": "Badilisha rangi kutoka HEX kuwa CMYK mtandaoni, na sampuli ya moja kwa moja na miundo mingine yote (HEX, RGB, HSL, HSV, CMYK) ikionyeshwa pia.",
-  "id": "/loona-dev-tools/sw/hex-to-cmyk-converter/",
+  "id": "/sw/hex-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

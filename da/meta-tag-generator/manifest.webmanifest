@@ -2,7 +2,7 @@
   "name": "Loona Meta Tag-generator online gratis",
   "short_name": "Meta Tag-generator online gratis",
   "description": "Generér HTML-metatags online gratis – titel, beskrivelse, søgeord, forfatter, robots og canonical – med en live SERP-forhåndsvisning i Google-stil og tegnoptællinger. Ingen tilmelding.",
-  "id": "/loona-dev-tools/da/meta-tag-generator/",
+  "id": "/da/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

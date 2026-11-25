@@ -2,7 +2,7 @@
   "name": "Convertizor număr întreg în adresă IP Loona",
   "short_name": "Număr întreg în adresă IP",
   "description": "Convertește un număr întreg de 32 de biți înapoi într-o adresă IPv4 cu puncte (3232235521 → 192.168.0.1).",
-  "id": "/loona-dev-tools/ro/integer-to-ip/",
+  "id": "/ro/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

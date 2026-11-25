@@ -2,7 +2,7 @@
   "name": "Loona Hexadecimal से Binary कन्वर्टर",
   "short_name": "Hexadecimal से Binary",
   "description": "Hexadecimal संख्याओं को binary में ऑनलाइन बदलें — arbitrary precision (BigInt), negative numbers supported।",
-  "id": "/loona-dev-tools/hi/hex-to-binary-converter/",
+  "id": "/hi/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

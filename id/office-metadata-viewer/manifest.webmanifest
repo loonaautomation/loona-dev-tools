@@ -2,7 +2,7 @@
   "name": "Loona Penampil Metadata Dokumen Office Online",
   "short_name": "Metadata Dokumen Office",
   "description": "Lihat metadata dokumen Office online gratis - judul, penulis, perusahaan, tanggal pembuatan dan modifikasi, aplikasi dan versi untuk file .docx, .xlsx, dan .pptx. Hanya lihat, tidak ada yang diunggah.",
-  "id": "/loona-dev-tools/id/office-metadata-viewer/",
+  "id": "/id/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

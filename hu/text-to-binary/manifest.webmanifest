@@ -2,7 +2,7 @@
   "name": "Loona szövegből binárissá átalakító",
   "short_name": "Szövegből binárissá átalakító",
   "description": "Alakítson szöveget binárissá: minden karakter az UTF-8 bájtjainak 8 bites bináris csoportjaiként. Ingyenes online átalakító.",
-  "id": "/loona-dev-tools/hu/text-to-binary/",
+  "id": "/hu/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

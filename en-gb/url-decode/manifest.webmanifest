@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/url-decode/",
+  "id": "/en-gb/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona képből Base64-be átalakító",
   "short_name": "Képből Base64 átalakító",
   "description": "Alakítson egy képet (PNG, JPG, GIF, WebP, SVG) Base64 data URI-vá online — a fájl helyben olvasódik, méretekkel és méretstatisztikákkal.",
-  "id": "/loona-dev-tools/hu/image-to-base64/",
+  "id": "/hu/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

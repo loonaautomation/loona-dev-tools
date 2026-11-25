@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้าง UUID ออนไลน์ฟรี",
   "short_name": "ตัวสร้าง UUID ออนไลน์ฟรี",
   "description": "สร้าง UUID เวอร์ชัน 4 แบบสุ่มออนไลน์ฟรี - ตัวเดียวหรือจำนวนมากสูงสุด 100 ตัวเลือกตัวพิมพ์ใหญ่และไม่มียัติภังค์ สุ่มเชิงการเข้ารหัส ในเบราว์เซอร์ของคุณ",
-  "id": "/loona-dev-tools/th/uuid-generator/",
+  "id": "/th/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

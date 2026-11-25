@@ -2,7 +2,7 @@
   "name": "Loona CSS tömörítő online ingyen",
   "short_name": "CSS tömörítő online ingyen",
   "description": "Tömörítse a CSS-t online ingyen, és nézze meg pontosan, mennyivel lesz kisebb, vagy szépítse vissza a tömörített CSS-t olvasható kóddá. Nincs regisztráció, 100%-ban a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/css-minifier/",
+  "id": "/hu/css-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

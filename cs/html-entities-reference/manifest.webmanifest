@@ -2,7 +2,7 @@
   "name": "Referenční tabulka entit Loona HTML",
   "short_name": "Referenční tabulka entit HTML",
   "description": "Základní tabulka entit HTML: pojmenovaná entita, znak, desítkový kód a poznámky k použití pro entity, které vývojáři skutečně používají.",
-  "id": "/loona-dev-tools/cs/html-entities-reference/",
+  "id": "/cs/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

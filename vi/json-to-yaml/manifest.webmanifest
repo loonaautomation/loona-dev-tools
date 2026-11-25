@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi JSON sang YAML của Loona",
   "short_name": "Công cụ chuyển đổi JSON sang YAML",
   "description": "Chuyển đổi JSON sang YAML trực tuyến: thụt lề sạch, mảng và đối tượng lồng nhau, chuỗi chỉ được trích dẫn khi YAML cần.",
-  "id": "/loona-dev-tools/vi/json-to-yaml/",
+  "id": "/vi/json-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

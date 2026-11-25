@@ -2,7 +2,7 @@
   "name": "Loona Генератор метатегов онлайн бесплатно",
   "short_name": "Генератор метатегов онлайн бесплатно",
   "description": "Генерируйте метатеги HTML онлайн бесплатно — заголовок, описание, ключевые слова, автор, robots и canonical — с живым предпросмотром выдачи в стиле Google и подсчётом символов. Без регистрации.",
-  "id": "/loona-dev-tools/ru/meta-tag-generator/",
+  "id": "/ru/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

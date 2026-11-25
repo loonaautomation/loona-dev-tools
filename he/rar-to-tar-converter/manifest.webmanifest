@@ -2,7 +2,7 @@
   "name": "ממיר Loona RAR ל-TAR",
   "short_name": "ממיר RAR ל-TAR",
   "description": "המירו ארכיוני RAR (RAR4 ו-RAR5) ל-TAR באופן מקוון עם libarchive בדפדפן שלכם. קבצים נשארים על המכשיר שלכם.",
-  "id": "/loona-dev-tools/he/rar-to-tar-converter/",
+  "id": "/he/rar-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

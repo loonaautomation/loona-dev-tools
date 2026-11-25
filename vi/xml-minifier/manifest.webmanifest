@@ -2,7 +2,7 @@
   "name": "Công cụ rút gọn XML Loona",
   "short_name": "Công cụ rút gọn XML",
   "description": "Rút gọn XML trực tuyến: loại bỏ bình luận và khoảng trắng giữa các thẻ thành một dòng gọn.",
-  "id": "/loona-dev-tools/vi/xml-minifier/",
+  "id": "/vi/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

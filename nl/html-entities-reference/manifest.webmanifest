@@ -2,7 +2,7 @@
   "name": "Loona referentietabel van HTML-entiteiten",
   "short_name": "Referentietabel van HTML-entiteiten",
   "description": "De essentiële HTML-entiteitentabel: benoemde entiteit, teken, decimale code en gebruiknotities voor de entiteiten die developers echt gebruiken.",
-  "id": "/loona-dev-tools/nl/html-entities-reference/",
+  "id": "/nl/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

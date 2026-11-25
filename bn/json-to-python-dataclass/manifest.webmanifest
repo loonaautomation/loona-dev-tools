@@ -2,7 +2,7 @@
   "name": "Loona JSON থেকে Python Dataclass কনভার্টার",
   "short_name": "JSON থেকে Python Dataclass",
   "description": "টাইপ হিন্টসহ JSON Python dataclass-এ রূপান্তর করুন: নেস্টেড অবজেক্ট নেস্টেড dataclass হয়, অ্যারের জন্য List টাইপ।",
-  "id": "/loona-dev-tools/bn/json-to-python-dataclass/",
+  "id": "/bn/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

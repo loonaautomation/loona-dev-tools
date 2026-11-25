@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Texto para Binário",
   "short_name": "Conversor de Texto para Binário",
   "description": "Converta texto para binário: cada carácter como grupos binários de 8-bit dos seus bytes UTF-8. Conversor online grátis.",
-  "id": "/loona-dev-tools/pt-pt/text-to-binary/",
+  "id": "/pt-pt/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

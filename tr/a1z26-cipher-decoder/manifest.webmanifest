@@ -2,7 +2,7 @@
   "name": "Loona A1Z26 Şifre Kod Çözücü (Sayılardan Harflere)",
   "short_name": "A1Z26 Şifre Kod Çözücü (Sayılar",
   "description": "A1Z26 sayı kodlarını harflere geri çözün: 1=A, 2=B ... 26=Z. Tire, virgül veya boşlukla ayrılmış.",
-  "id": "/loona-dev-tools/tr/a1z26-cipher-decoder/",
+  "id": "/tr/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

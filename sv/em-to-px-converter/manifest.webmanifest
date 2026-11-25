@@ -2,7 +2,7 @@
   "name": "Loona Em till pixlar (px)-konverterare",
   "short_name": "Em till pixlar (px)-konverterare",
   "description": "Konvertera em till px med en justerbar basteckenstorlek (standard 16px) och en tabell med vanliga värden.",
-  "id": "/loona-dev-tools/sv/em-to-px-converter/",
+  "id": "/sv/em-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

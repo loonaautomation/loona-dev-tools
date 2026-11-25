@@ -2,7 +2,7 @@
   "name": "Loona Nambari kwenda Nambari za Kirumi",
   "short_name": "Nambari kwenda Nambari za Kirumi",
   "description": "Badilisha nambari (1–3999) kuwa nambari za Kirumi kwa muundo wa kawaida wa kutoa. Kibadilishaji cha bure mtandaoni.",
-  "id": "/loona-dev-tools/sw/number-to-roman-numerals/",
+  "id": "/sw/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

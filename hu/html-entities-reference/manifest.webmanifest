@@ -2,7 +2,7 @@
   "name": "Loona HTML entitások referenciatáblázata",
   "short_name": "HTML entitás referenciatáblázat",
   "description": "Az alapvető HTML entitások táblázata: nevesített entitás, karakter, decimális kód és használati megjegyzések azokhoz az entitásokhoz, amelyeket a fejlesztők ténylegesen használnak.",
-  "id": "/loona-dev-tools/hu/html-entities-reference/",
+  "id": "/hu/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

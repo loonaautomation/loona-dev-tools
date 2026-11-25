@@ -2,7 +2,7 @@
   "name": "Công cụ giải mã Quoted-Printable của Loona",
   "short_name": "Công cụ giải mã Quoted-Printable",
   "description": "Giải mã văn bản quoted-printable (MIME) trở lại thành UTF-8 dễ đọc: các escape =XX và ngắt dòng mềm được xử lý theo RFC 2045.",
-  "id": "/loona-dev-tools/vi/quoted-printable-decode/",
+  "id": "/vi/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

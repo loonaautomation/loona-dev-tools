@@ -2,7 +2,7 @@
   "name": "Loona SQL-formaterer på nett gratis",
   "short_name": "SQL-formaterer på nett gratis",
   "description": "Formater SQL på nett gratis: nøkkelord i store bokstaver, SELECT-, FROM-, WHERE- og JOIN-ledd på egne linjer, strenger bevart. Ingen registrering, kjører 100 % i nettleseren din.",
-  "id": "/loona-dev-tools/nb/sql-formatter/",
+  "id": "/nb/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

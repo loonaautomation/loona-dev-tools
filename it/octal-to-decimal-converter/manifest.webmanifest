@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da ottale a decimale",
   "short_name": "Convertitore da ottale a decimale",
   "description": "Converti numeri ottali in decimale online — precisione arbitraria (BigInt), numeri negativi supportati.",
-  "id": "/loona-dev-tools/it/octal-to-decimal-converter/",
+  "id": "/it/octal-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

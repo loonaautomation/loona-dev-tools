@@ -2,7 +2,7 @@
   "name": "Trình tạo hash SHA-384 của Loona",
   "short_name": "Trình tạo hash SHA-384",
   "description": "Tính hash SHA-384 của văn bản hoặc tệp trực tuyến: 384 bit, 96 ký tự hex. Chạy cục bộ trong trình duyệt của bạn bằng WebCrypto/JS thuần — tệp không bao giờ được tải lên.",
-  "id": "/loona-dev-tools/vi/sha384-hash-generator/",
+  "id": "/vi/sha384-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

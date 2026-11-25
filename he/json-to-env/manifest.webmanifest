@@ -2,7 +2,7 @@
   "name": "ממיר Loona JSON ל-.env",
   "short_name": "ממיר JSON ל-.env",
   "description": "המירו תצורת JSON לפורמט .env: אובייקטים מקוננים משוטחים עם נתיבי UNDERSCORE, ערכים במרכאות כשהם מכילים רווחים או #.",
-  "id": "/loona-dev-tools/he/json-to-env/",
+  "id": "/he/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

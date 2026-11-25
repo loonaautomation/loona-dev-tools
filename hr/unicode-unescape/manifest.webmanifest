@@ -2,7 +2,7 @@
   "name": "Loona pretvarač uklanjanja Unicode escapea (dekodiraj \\uXXXX)",
   "short_name": "Pretvarač uklanjanja Unicode escapea",
   "description": "Dekodirajte Unicode escape nizove (\\uXXXX, \\u{...}, \\xXX) natrag u prave znakove, plus \\n \\t i \\\\ escapee.",
-  "id": "/loona-dev-tools/hr/unicode-unescape/",
+  "id": "/hr/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

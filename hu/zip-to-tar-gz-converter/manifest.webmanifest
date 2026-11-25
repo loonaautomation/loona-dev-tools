@@ -2,7 +2,7 @@
   "name": "Loona ZIP-ből TAR.GZ-be átalakító online ingyen",
   "short_name": "ZIP-ből TAR.GZ-be átalakító",
   "description": "Alakítson egy ZIP archívumot TAR.GZ tarball-lá (.tar.gz) közvetlenül a böngészőjében - a formátum, amelyet a Linux szerverek, a Docker és az építőeszközök várnak. A mappaszerkezet megőrizve, semmi sem töltődik fel.",
-  "id": "/loona-dev-tools/hu/zip-to-tar-gz-converter/",
+  "id": "/hu/zip-to-tar-gz-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

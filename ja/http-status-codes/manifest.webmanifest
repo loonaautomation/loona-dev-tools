@@ -2,7 +2,7 @@
   "name": "Loona HTTPステータスコードリファレンス",
   "short_name": "HTTPステータスコードリファレンス",
   "description": "すべての一般的なHTTPステータスコードとその意味です。2xx成功、3xxリダイレクト、4xxクライアントエラー、5xxサーバーエラーを分かりやすく説明します。",
-  "id": "/loona-dev-tools/ja/http-status-codes/",
+  "id": "/ja/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

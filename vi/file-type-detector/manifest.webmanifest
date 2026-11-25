@@ -2,7 +2,7 @@
   "name": "Công cụ phát hiện loại tệp trực tuyến miễn phí của Loona",
   "short_name": "Công cụ phát hiện loại tệp trực tuyến miễn phí",
   "description": "Phát hiện loại thật của một tệp trực tuyến miễn phí từ chữ ký header magic-byte của nó - PNG, PDF, ZIP, MP4, EXE và 30+ định dạng - và nhận cảnh báo khi phần mở rộng không khớp. Không có gì được tải lên.",
-  "id": "/loona-dev-tools/vi/file-type-detector/",
+  "id": "/vi/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

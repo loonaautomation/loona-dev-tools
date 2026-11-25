@@ -2,7 +2,7 @@
   "name": "מחולל תגיות Hreflang של Loona מקוון בחינם",
   "short_name": "מחולל תגיות Hreflang מקוון",
   "description": "צרו תגיות hreflang באופן מקוון בחינם - הדביקו זוגות שפה ו-URL, הוסיפו x-default, וקבלו את סט קישורי החלופה המלא עם בדיקות BCP 47 ו-URL מוחלט. בלי הרשמה.",
-  "id": "/loona-dev-tools/he/hreflang-tag-generator/",
+  "id": "/he/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

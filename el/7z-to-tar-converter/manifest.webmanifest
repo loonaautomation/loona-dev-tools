@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας 7Z σε TAR",
   "short_name": "Μετατροπέας 7Z σε TAR",
   "description": "Μετατρέψτε αρχειοθήκες 7Z σε TAR διαδικτυακά: το libarchive (WebAssembly) διαβάζει το 7Z, ένας εγγραφέας ustar το επανασυσκευάζει. Ιδιωτικό και τοπικό.",
-  "id": "/loona-dev-tools/el/7z-to-tar-converter/",
+  "id": "/el/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

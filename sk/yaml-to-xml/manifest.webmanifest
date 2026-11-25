@@ -2,7 +2,7 @@
   "name": "Prevodník Loona YAML na XML",
   "short_name": "Prevodník YAML na XML",
   "description": "Preveďte YAML na XML online: jeden kľúč najvyššej úrovne sa stane koreňovým prvkom, @kľúče sa stanú atribútmi.",
-  "id": "/loona-dev-tools/sk/yaml-to-xml/",
+  "id": "/sk/yaml-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

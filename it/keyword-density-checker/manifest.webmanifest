@@ -2,7 +2,7 @@
   "name": "Loona Verifica della densità delle parole chiave online gratuito",
   "short_name": "Verifica della densità delle parole chiave",
   "description": "Controlla la densità delle parole chiave online gratuitamente - principali parole singole più frasi da 2 e 3 parole con conteggi e densità percentuale, filtro stopword incluso. Nessuna registrazione.",
-  "id": "/loona-dev-tools/it/keyword-density-checker/",
+  "id": "/it/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

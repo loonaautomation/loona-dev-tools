@@ -2,7 +2,7 @@
   "name": "Loona JWT kódoló (HS256 aláíró)",
   "short_name": "JWT kódoló (HS256 aláíró)",
   "description": "Hozzon létre és írjon alá JSON Web Tokeneket HS256-tal a böngészőjében: payload JSON plusz egy titok, vagy alg=none. WebCrypto aláírás.",
-  "id": "/loona-dev-tools/hu/jwt-encoder/",
+  "id": "/hu/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

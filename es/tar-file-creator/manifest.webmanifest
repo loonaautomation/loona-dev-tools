@@ -2,7 +2,7 @@
   "name": "Loona Creador de archivos TAR en línea gratis",
   "short_name": "Creador de archivos TAR en línea gratis",
   "description": "Crea un archivo TAR (.tar) desde varios archivos directamente en tu navegador: un escritor ustar correcto según la especificación, opción de carpeta, marcas de tiempo reales. Nada se sube; el tarball se construye en tu dispositivo y se abre con cualquier herramienta tar.",
-  "id": "/loona-dev-tools/es/tar-file-creator/",
+  "id": "/es/tar-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JSON til YAML-konverter",
   "short_name": "JSON til YAML-konverter",
   "description": "Konvertér JSON til YAML online: ren indrykning, arrays og indlejrede objekter, strenge kun i anførselstegn, når YAML har brug for det.",
-  "id": "/loona-dev-tools/da/json-to-yaml/",
+  "id": "/da/json-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

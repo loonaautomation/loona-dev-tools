@@ -2,7 +2,7 @@
   "name": "Loona منشئ تجزئة SHA-1",
   "short_name": "منشئ تجزئة SHA-1",
   "description": "احسب تجزئات SHA-1 للنص أو الملفات عبر الإنترنت: 160 بت، 40 حرفاً سداسياً عشرياً. يعمل محلياً في متصفحك عبر WebCrypto/JS خالص — لا تُرفع الملفات أبداً.",
-  "id": "/loona-dev-tools/ar/sha1-hash-generator/",
+  "id": "/ar/sha1-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

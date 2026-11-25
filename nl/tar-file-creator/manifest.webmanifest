@@ -2,7 +2,7 @@
   "name": "Loona TAR-bestandsmaker online gratis",
   "short_name": "TAR-bestandsmaker online gratis",
   "description": "Maak een TAR-archief (.tar) van meerdere bestanden direct in je browser - een spec-correcte ustar-writer, mapoptie, echte timestamps. Niets wordt geüpload; de tarball wordt op je apparaat gebouwd en opent met elke tar-tool.",
-  "id": "/loona-dev-tools/nl/tar-file-creator/",
+  "id": "/nl/tar-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

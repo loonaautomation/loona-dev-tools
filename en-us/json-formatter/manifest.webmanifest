@@ -2,7 +2,7 @@
   "name": "Loona JSON Formatter & Validator - Pretty Print and Minify JSON",
   "short_name": "JSON Formatter & Validator - Pretty Print and Minify JSON",
   "description": "Format, validate and minify JSON online for free, with the exact line and column of any error. No sign-up, runs 100% in your browser.",
-  "id": "/loona-dev-tools/en-us/json-formatter/",
+  "id": "/en-us/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

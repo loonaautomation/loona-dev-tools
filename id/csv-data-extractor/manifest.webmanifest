@@ -2,7 +2,7 @@
   "name": "Loona Ekstraktor Data CSV Online Gratis",
   "short_name": "Ekstraktor Data CSV Online Gratis",
   "description": "Ekstrak alamat email, nomor telepon, dan URL dari file CSV berantakan atau teks apa pun online secara gratis - daftar yang dibersihkan dan dideduplikasi yang dapat Anda unduh. Tanpa pendaftaran, berjalan di browser Anda.",
-  "id": "/loona-dev-tools/id/csv-data-extractor/",
+  "id": "/id/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

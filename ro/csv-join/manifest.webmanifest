@@ -2,7 +2,7 @@
   "name": "Unire CSV Loona online gratuit",
   "short_name": "Unire CSV online gratuit",
   "description": "Unește două fișiere CSV online gratuit după o coloană cheie partajată - unire interioară sau la stânga, chei duplicate gestionate ca în bazele de date. Fără înregistrare, rulează 100% în browserul tău.",
-  "id": "/loona-dev-tools/ro/csv-join/",
+  "id": "/ro/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

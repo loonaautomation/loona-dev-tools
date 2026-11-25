@@ -2,7 +2,7 @@
   "name": "Loona generator Open Graph i Twitter Card oznaka",
   "short_name": "Open Graph i Twitter Card",
   "description": "Generirajte Open Graph i Twitter Card meta oznake na mreži besplatno, uz pregled društvene kartice uživo - naslov, opis, slika, URL i naziv stranice. Bez registracije, radi u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/open-graph-generator/",
+  "id": "/hr/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

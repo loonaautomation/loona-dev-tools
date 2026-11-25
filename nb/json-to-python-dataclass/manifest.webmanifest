@@ -2,7 +2,7 @@
   "name": "Loona JSON til Python Dataclass-konverterer",
   "short_name": "JSON til Python Dataclass",
   "description": "Konverter JSON til Python dataclasses med typehint: nøstede objekter blir nøstede dataclasses, List-typer for matriser.",
-  "id": "/loona-dev-tools/nb/json-to-python-dataclass/",
+  "id": "/nb/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

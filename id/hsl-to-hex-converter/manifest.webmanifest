@@ -2,7 +2,7 @@
   "name": "Loona Konverter HSL ke HEX",
   "short_name": "Konverter HSL ke HEX",
   "description": "Konversi warna dari HSL ke HEX online, dengan contoh warna langsung dan semua format lain (HEX, RGB, HSL, HSV, CMYK) juga ditampilkan.",
-  "id": "/loona-dev-tools/id/hsl-to-hex-converter/",
+  "id": "/id/hsl-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

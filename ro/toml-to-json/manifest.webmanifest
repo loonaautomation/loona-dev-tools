@@ -2,7 +2,7 @@
   "name": "Convertizor TOML în JSON Loona",
   "short_name": "Convertizor TOML în JSON",
   "description": "Convertește TOML în JSON online: tabele, tabele de tablouri, șiruri, numere, booleni, tablouri și date cu oră (ca șiruri).",
-  "id": "/loona-dev-tools/ro/toml-to-json/",
+  "id": "/ro/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Hash-generator online gratis",
   "short_name": "Hash-generator online gratis",
   "description": "Generér SHA-1-, SHA-256-, SHA-384- og SHA-512-hashes af enhver tekst online gratis, beregnet lokalt i din browser. Ingen tilmelding, intet uploadet.",
-  "id": "/loona-dev-tools/da/hash-generator/",
+  "id": "/da/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

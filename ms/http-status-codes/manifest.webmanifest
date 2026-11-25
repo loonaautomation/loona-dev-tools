@@ -2,7 +2,7 @@
   "name": "Loona Referensi Kode Status HTTP",
   "short_name": "Referensi Kode Status HTTP",
   "description": "Setiap kode status HTTP umum beserta maknanya: 2xx keberjayaan, 3xx lencongan, 4xx ralat klien, 5xx ralat pelayan — dijelaskan dengan sederhana.",
-  "id": "/loona-dev-tools/ms/http-status-codes/",
+  "id": "/ms/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

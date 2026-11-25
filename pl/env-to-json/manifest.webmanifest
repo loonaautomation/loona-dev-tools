@@ -2,7 +2,7 @@
   "name": "Loona Konwerter .env na JSON",
   "short_name": "Konwerter .env na JSON",
   "description": "Analizuj plik .env na JSON: linie KEY=value, prefiksy export, komentarze i wartości w cudzysłowie obsłużone.",
-  "id": "/loona-dev-tools/pl/env-to-json/",
+  "id": "/pl/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

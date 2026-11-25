@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/csv-viewer-editor/",
+  "id": "/en-gb/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

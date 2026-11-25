@@ -2,7 +2,7 @@
   "name": "Loona Text till Base32-kodare",
   "short_name": "Text till Base32-kodare",
   "description": "Koda text till Base32 (RFC 4648) online — den skiftlägesokänsliga kodningen som används i TOTP-hemligheter och DNS-säkra identifierare.",
-  "id": "/loona-dev-tools/sv/text-to-base32/",
+  "id": "/sv/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

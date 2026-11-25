@@ -2,7 +2,7 @@
   "name": "Loona JSON Dize Kaçışı",
   "short_name": "JSON Dize Kaçışı",
   "description": "Bir dizeyi JSON içine gömmek için kaçışlayın: tırnaklar, ters eğik çizgiler, satır sonları ve kontrol karakterleri \\ dizileri olur.",
-  "id": "/loona-dev-tools/tr/json-escape/",
+  "id": "/tr/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "ממיר Loona YAML ל-TOML",
   "short_name": "ממיר YAML ל-TOML",
   "description": "המירו YAML ל-TOML באופן מקוון (דרך מודל הנתונים המשותף): טבלאות, סקלרים ומערכים ממופים לכללי הפריסה של TOML.",
-  "id": "/loona-dev-tools/he/yaml-to-toml/",
+  "id": "/he/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

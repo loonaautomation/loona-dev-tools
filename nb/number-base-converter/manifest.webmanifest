@@ -2,7 +2,7 @@
   "name": "Loona tallsystemkonverterer på nett gratis",
   "short_name": "Tallsystemkonverterer på nett",
   "description": "Konverter tall mellom binær, oktal, desimal og heksadesimal på nett gratis, med BigInt-presisjon for verdier forbi 2^53 og validering per siffer. Ingen registrering, kjører 100 % i nettleseren din.",
-  "id": "/loona-dev-tools/nb/number-base-converter/",
+  "id": "/nb/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

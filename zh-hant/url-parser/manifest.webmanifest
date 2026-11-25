@@ -2,7 +2,7 @@
   "name": "Loona URL 解析器 線上免費",
   "short_name": "URL 解析器 線上免費",
   "description": "線上免費把任何 URL 解析為協議、主機、埠、路徑、查詢引數和雜湊——編輯引數並重建 URL。無需註冊，100% 在您的瀏覽器中執行。",
-  "id": "/loona-dev-tools/zh-hant/url-parser/",
+  "id": "/zh-hant/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

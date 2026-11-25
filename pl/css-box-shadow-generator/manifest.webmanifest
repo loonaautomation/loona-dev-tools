@@ -2,7 +2,7 @@
   "name": "Loona Generator box-shadow CSS online za darmo",
   "short_name": "Generator box-shadow CSS",
   "description": "Generuj CSS box-shadow online za darmo - wiele warstw cieni, cienie wewnętrzne (inset), kontrola koloru i krycia, z podglądem na żywo i gotowym CSS. Bez rejestracji, działa w przeglądarce.",
-  "id": "/loona-dev-tools/pl/css-box-shadow-generator/",
+  "id": "/pl/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona محوّل .env إلى JSON",
   "short_name": "محوّل .env إلى JSON",
   "description": "حلّل ملف .env إلى JSON: أسطر KEY=value، بادئات export، التعليقات والقيم المقتبسة معالجة.",
-  "id": "/loona-dev-tools/ar/env-to-json/",
+  "id": "/ar/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

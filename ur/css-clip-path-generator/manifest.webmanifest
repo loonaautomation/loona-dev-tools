@@ -2,7 +2,7 @@
   "name": "Loona CSS کلپ پاتھ جنریٹر آن لائن مفت",
   "short_name": "CSS کلپ پاتھ جنریٹر",
   "description": "CSS clip-path آن لائن مفت بنائیں - polygon presets جیسے ستارہ، hexagon اور تیر قابل ترتیب نقاط کے ساتھ، علاوہ دائرہ، ellipse اور inset شکلیں، ایک لائیو پیش منظر کے ساتھ۔ کوئی سائن اپ نہیں۔",
-  "id": "/loona-dev-tools/ur/css-clip-path-generator/",
+  "id": "/ur/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

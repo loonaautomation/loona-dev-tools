@@ -2,7 +2,7 @@
   "name": "Loona passordstyrkesjekker på nett gratis",
   "short_name": "Passordstyrkesjekker",
   "description": "Sjekk passordstyrke på nett gratis med et gjennomsiktig entropiestimat, konkrete tilbakemeldinger og et knekketidsestimat. Passordet forlater aldri nettleseren din - ingenting sendes eller lagres.",
-  "id": "/loona-dev-tools/nb/password-strength-checker/",
+  "id": "/nb/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Konwerter JSON na TOML",
   "short_name": "Konwerter JSON na TOML",
   "description": "Konwertuj JSON na TOML online: najpierw skalary, obiekty zagnieżdżone jako [tabele], tablice obiektów jako [[tabele]].",
-  "id": "/loona-dev-tools/pl/json-to-toml/",
+  "id": "/pl/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

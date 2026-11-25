@@ -2,7 +2,7 @@
   "name": "Loona SHA-256 Hash-generator",
   "short_name": "SHA-256 Hash-generator",
   "description": "Beregn SHA-256-hashes af tekst eller filer online: 256-bit, 64 hex-tegn. Kører lokalt i din browser med WebCrypto/ren JS — filer uploades aldrig.",
-  "id": "/loona-dev-tools/da/sha256-hash-generator/",
+  "id": "/da/sha256-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

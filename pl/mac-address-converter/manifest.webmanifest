@@ -2,7 +2,7 @@
   "name": "Loona Konwerter formatu adresów MAC",
   "short_name": "Konwerter formatu adresów MAC",
   "description": "Konwertuj adresy MAC między formatami z dwukropkiem (AA:BB:CC:DD:EE:FF), myślnikiem, kropką Cisco i zwykłym; waliduje adres 48-bitowy.",
-  "id": "/loona-dev-tools/pl/mac-address-converter/",
+  "id": "/pl/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

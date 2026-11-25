@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Εκφράσεων Cron Διαδικτυακά Δωρεάν",
   "short_name": "Γεννήτρια Εκφράσεων Cron",
   "description": "Δημιουργήστε εκφράσεις cron από αναπτυσσόμενα μενού και επεξηγήστε οποιαδήποτε έκφραση cron 5 πεδίων σε απλά ελληνικά, διαδικτυακά δωρεάν. Χωρίς εγγραφή, εκτελείται 100% στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-dev-tools/el/cron-expression-generator/",
+  "id": "/el/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

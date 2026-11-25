@@ -2,7 +2,7 @@
   "name": "Générateur de Robots.txt Loona en ligne gratuit",
   "short_name": "Générateur de Robots.txt en ligne",
   "description": "Générez un robots.txt valide en ligne et gratuitement - préréglages, règles d’autorisation et d’interdiction par agent, ligne de sitemap et contrôles de cohérence de syntaxe intégrés. Sans inscription, fonctionne dans votre navigateur.",
-  "id": "/loona-dev-tools/fr/robots-txt-generator/",
+  "id": "/fr/robots-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

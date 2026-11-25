@@ -2,7 +2,7 @@
   "name": "Loona sažimanje HTML-a",
   "short_name": "Sažimanje HTML-a",
   "description": "Sažmite HTML na mreži: uklonite komentare i sažmite razmake, štiteći sadržaje pre, textarea, script i style.",
-  "id": "/loona-dev-tools/hr/html-minifier/",
+  "id": "/hr/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

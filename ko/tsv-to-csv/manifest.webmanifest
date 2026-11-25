@@ -2,7 +2,7 @@
   "name": "Loona TSV를 CSV로 변환",
   "short_name": "TSV를 CSV로 변환",
   "description": "TSV(탭으로 구분된 값)를 CSV로 변환해요: Excel이나 Sheets에서 복사한 데이터를 붙여넣고 올바르게 따옴표로 감싼 CSV를 얻으세요.",
-  "id": "/loona-dev-tools/ko/tsv-to-csv/",
+  "id": "/ko/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

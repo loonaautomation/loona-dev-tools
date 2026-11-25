@@ -2,7 +2,7 @@
   "name": "Tester regulárních výrazů Loona online zdarma",
   "short_name": "Tester regulárních výrazů online zdarma",
   "description": "Testujte regulární výrazy online zdarma s živým zvýrazňováním shod, podrobnostmi zachycených skupin a počtem shod. Bez registrace, běží 100% ve vašem prohlížeči.",
-  "id": "/loona-dev-tools/cs/regex-tester/",
+  "id": "/cs/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha TAR.GZ kwenda TAR",
   "short_name": "Kibadilishaji cha TAR.GZ kwenda TAR",
   "description": "Ondoa tabaka la gzip kutoka hifadhi ya .tar.gz / .tgz kupata TAR wazi, mtandaoni na ndani — hakuna zana za utoaji zinazohitajika.",
-  "id": "/loona-dev-tools/sw/tar-gz-to-tar-converter/",
+  "id": "/sw/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

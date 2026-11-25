@@ -2,7 +2,7 @@
   "name": "Loona スラッグ生成ツール（URLスラッグメーカー）",
   "short_name": "スラッグ生成ツール（URLスラッグ",
   "description": "タイトルからきれいなURLスラッグを生成します。アクセント除去、小文字化、スペースをハイフン（またはアンダースコア）に変換します。無料のスラッグメーカーです。",
-  "id": "/loona-dev-tools/ja/slug-generator/",
+  "id": "/ja/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

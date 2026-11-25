@@ -2,7 +2,7 @@
   "name": "Loona TAR-filextraherare online gratis",
   "short_name": "TAR-filextraherare Online Gratis",
   "description": "Öppna TAR-arkiv direkt i din webbläsare - vanlig .tar såväl som .tar.bz2 och .tar.xz - se varje fil inuti och ladda ner enstaka filer eller allt som en ZIP. Ingenting laddas upp.",
-  "id": "/loona-dev-tools/sv/tar-file-extractor/",
+  "id": "/sv/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

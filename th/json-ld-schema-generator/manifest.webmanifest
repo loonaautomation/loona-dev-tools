@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้างสคีมา JSON-LD ออนไลน์ฟรี",
   "short_name": "ตัวสร้างสคีมา JSON-LD",
   "description": "สร้างข้อมูลที่มีโครงสร้าง JSON-LD ของ schema.org ออนไลน์ฟรี - Article, LocalBusiness, Product, Event, Recipe, Person, Organization และ WebSite - เป็นบล็อกสคริปต์ที่พร้อมใช้ ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-dev-tools/th/json-ld-schema-generator/",
+  "id": "/th/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

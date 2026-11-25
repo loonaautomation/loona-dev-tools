@@ -2,7 +2,7 @@
   "name": "Loona مستخرج ملفات 7Z عبر الإنترنت مجاناً",
   "short_name": "مستخرج ملفات 7Z عبر الإنترنت مجاناً",
   "description": "افتح أرشيفات 7z في متصفحك مباشرة - اطّلع على كل ملف بداخلها، نزّل ملفات مفردة أو كل شيء كـ ZIP. لا يُرفع شيء؛ الاستخراج يحدث على جهازك عبر محرّك WebAssembly.",
-  "id": "/loona-dev-tools/ar/7z-file-extractor/",
+  "id": "/ar/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

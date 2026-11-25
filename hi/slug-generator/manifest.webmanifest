@@ -2,7 +2,7 @@
   "name": "Loona Slug जनरेटर (URL Slug Maker)",
   "short_name": "Slug जनरेटर (URL Slug",
   "description": "Titles से साफ़ URL slugs generate करें: accents stripped, lowercase, spaces से hyphens (या underscores)। मुफ़्त slug maker।",
-  "id": "/loona-dev-tools/hi/slug-generator/",
+  "id": "/hi/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

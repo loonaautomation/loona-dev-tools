@@ -2,7 +2,7 @@
   "name": "Převodník Loona XML na YAML",
   "short_name": "Převodník XML na YAML",
   "description": "Převádějte XML na YAML: atributy jako @klíče, opakované prvky jako seznamy, hodnoty typovány. Skutečný analyzátor, ne regex.",
-  "id": "/loona-dev-tools/cs/xml-to-yaml/",
+  "id": "/cs/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

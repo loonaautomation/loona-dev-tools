@@ -2,7 +2,7 @@
   "name": "Vysvětlovač výrazů Cron Loona",
   "short_name": "Vysvětlovač výrazů Cron",
   "description": "Vysvětlujte výrazy cron srozumitelnou angličtinou: vložte plán cron o 5 polích a přečtěte si, kdy běží, pole po poli.",
-  "id": "/loona-dev-tools/cs/cron-expression-explainer/",
+  "id": "/cs/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

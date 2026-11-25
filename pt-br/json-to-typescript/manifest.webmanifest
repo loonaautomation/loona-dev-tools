@@ -2,7 +2,7 @@
   "name": "Loona Conversor de JSON para Interface TypeScript",
   "short_name": "JSON para Interface TypeScript",
   "description": "Converta JSON para interfaces TypeScript online: objetos aninhados tornam-se interfaces nomeadas, arrays de objetos fundem as suas chaves com campos opcionais marcados.",
-  "id": "/loona-dev-tools/pt-br/json-to-typescript/",
+  "id": "/pt-br/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

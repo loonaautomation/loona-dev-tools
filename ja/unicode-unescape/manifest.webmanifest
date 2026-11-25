@@ -2,7 +2,7 @@
   "name": "Loona Unicodeアンエスケープ変換ツール（\\uXXXXをデコード）",
   "short_name": "Unicodeアンエスケープ変換ツール",
   "description": "Unicodeエスケープシーケンス（\\uXXXX、\\u{...}、\\xXX）を本物の文字にデコードして戻します。\\n \\t と \\\\ のエスケープも含みます。",
-  "id": "/loona-dev-tools/ja/unicode-unescape/",
+  "id": "/ja/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

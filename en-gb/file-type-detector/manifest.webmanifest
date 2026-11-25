@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/file-type-detector/",
+  "id": "/en-gb/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

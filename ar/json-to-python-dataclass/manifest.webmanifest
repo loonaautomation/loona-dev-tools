@@ -2,7 +2,7 @@
   "name": "Loona محوّل JSON إلى فئة بيانات Python",
   "short_name": "JSON إلى فئة بيانات Python",
   "description": "حوّل JSON إلى فئات بيانات Python مع تلميحات أنواع: الكائنات المتداخلة تصبح فئات بيانات متداخلة، وأنواع List للمصفوفات.",
-  "id": "/loona-dev-tools/ar/json-to-python-dataclass/",
+  "id": "/ar/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

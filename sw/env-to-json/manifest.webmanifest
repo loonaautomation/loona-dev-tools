@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha .env kwenda JSON",
   "short_name": ".env kwenda Kibadilishaji cha JSON",
   "description": "Changanua faili ya .env kuwa JSON: mistari ya KEY=value, viambishi awali vya export, maoni na thamani zilizonukuliwa hushughulikiwa.",
-  "id": "/loona-dev-tools/sw/env-to-json/",
+  "id": "/sw/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

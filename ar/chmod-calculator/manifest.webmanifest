@@ -2,7 +2,7 @@
   "name": "Loona حاسبة Chmod عبر الإنترنت مجاناً",
   "short_name": "حاسبة Chmod عبر الإنترنت مجاناً",
   "description": "احسب أذونات chmod عبر الإنترنت مجاناً: مربعات اختيار إلى النظام الثماني (755) والرمزي (rwxr-xr-x)، والنظام الثماني عودة إلى الأذونات. دون تسجيل، يعمل 100% في متصفحك.",
-  "id": "/loona-dev-tools/ar/chmod-calculator/",
+  "id": "/ar/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

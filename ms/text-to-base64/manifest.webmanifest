@@ -2,7 +2,7 @@
   "name": "Loona Pengekod Teks ke Base64",
   "short_name": "Pengekod Teks ke Base64",
   "description": "Encode teks ke Base64 dalam talian, selamat UTF-8 untuk bahasa dan emoji apa pun, dengan abjad selamat-URL pilihan. Percuma, peribadi, di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/text-to-base64/",
+  "id": "/ms/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

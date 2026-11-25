@@ -2,7 +2,7 @@
   "name": "Prevodník Loona unixovej časovej značky na dátum",
   "short_name": "Unixová časová značka na dátum",
   "description": "Preveďte unixovú časovú značku (sekundy alebo milisekundy) na čitateľný dátum: UTC, váš miestny čas, ISO 8601 a relatívny čas.",
-  "id": "/loona-dev-tools/sk/unix-timestamp-to-date/",
+  "id": "/sk/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

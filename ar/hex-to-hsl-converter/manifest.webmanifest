@@ -2,7 +2,7 @@
   "name": "Loona محوّل HEX إلى HSL",
   "short_name": "محوّل HEX إلى HSL",
   "description": "حوّل الألوان من HEX إلى HSL عبر الإنترنت، مع عيّنة حية وكل التنسيقات الأخرى (HEX، RGB، HSL، HSV، CMYK) معروضة أيضاً.",
-  "id": "/loona-dev-tools/ar/hex-to-hsl-converter/",
+  "id": "/ar/hex-to-hsl-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

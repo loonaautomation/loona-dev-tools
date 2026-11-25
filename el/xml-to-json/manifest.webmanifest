@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας XML σε JSON",
   "short_name": "Μετατροπέας XML σε JSON",
   "description": "Μετατρέψτε XML σε JSON διαδικτυακά: ιδιότητες ως @keys, επαναλαμβανόμενα στοιχεία ως πίνακες, κείμενο ως τιμές με αριθμούς με τύπους.",
-  "id": "/loona-dev-tools/el/xml-to-json/",
+  "id": "/el/xml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

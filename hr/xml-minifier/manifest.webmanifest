@@ -2,7 +2,7 @@
   "name": "Loona sažimanje XML-a",
   "short_name": "Sažimanje XML-a",
   "description": "Sažmite XML na mreži: uklonite komentare i razmake između oznaka u jednu kompaktnu crtu.",
-  "id": "/loona-dev-tools/hr/xml-minifier/",
+  "id": "/hr/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

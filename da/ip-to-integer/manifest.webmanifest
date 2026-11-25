@@ -2,7 +2,7 @@
   "name": "Loona IP-adresse til heltal-konverter",
   "short_name": "IP-adresse til heltal",
   "description": "Konvertér en IPv4-adresse til dens 32-bit-heltalsform (192.168.0.1 → 3232235521), brugt i databaser og intervaltjek.",
-  "id": "/loona-dev-tools/da/ip-to-integer/",
+  "id": "/da/ip-to-integer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

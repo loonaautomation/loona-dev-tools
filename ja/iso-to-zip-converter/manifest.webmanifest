@@ -2,7 +2,7 @@
   "name": "Loona ISO→ZIP変換ツール",
   "short_name": "ISO→ZIP変換ツール",
   "description": "ISOディスクイメージを、そのファイルのZIPにオンライン変換：libarchiveが ISO9660／Rock Ridge の内容をローカルで読み取ります。",
-  "id": "/loona-dev-tools/ja/iso-to-zip-converter/",
+  "id": "/ja/iso-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

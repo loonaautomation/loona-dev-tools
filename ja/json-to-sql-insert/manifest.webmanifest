@@ -2,7 +2,7 @@
   "name": "Loona JSON→SQL INSERT生成ツール",
   "short_name": "JSON→SQL INSERT生成ツール",
   "description": "オブジェクトのJSON配列からSQL INSERT文を生成します。文字列はエスケープされ、NULLとブール値も処理され、テーブル名はカスタム可能です。",
-  "id": "/loona-dev-tools/ja/json-to-sql-insert/",
+  "id": "/ja/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

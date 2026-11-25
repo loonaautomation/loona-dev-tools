@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Maandishi kwenda Jozi",
   "short_name": "Kibadilishaji cha Maandishi kwenda Jozi",
   "description": "Badilisha maandishi kuwa jozi: kila herufi kama vikundi vya jozi vya biti 8 vya baiti zake za UTF-8. Kibadilishaji cha bure mtandaoni.",
-  "id": "/loona-dev-tools/sw/text-to-binary/",
+  "id": "/sw/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

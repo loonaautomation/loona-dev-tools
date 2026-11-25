@@ -2,7 +2,7 @@
   "name": "Loona Generador de JSON a esquema JSON",
   "short_name": "Generador de JSON a esquema JSON",
   "description": "Genera un esquema JSON (borrador 2020-12) desde una muestra JSON: tipos inferidos, propiedades de objeto y claves obligatorias incluidas.",
-  "id": "/loona-dev-tools/es/json-to-json-schema/",
+  "id": "/es/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

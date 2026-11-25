@@ -2,7 +2,7 @@
   "name": "Loona Teksti-morsekoodikääntäjä",
   "short_name": "Teksti-morsekoodikääntäjä",
   "description": "Käännä tekstiä morsekoodiksi (kirjaimet, numerot ja yleinen välimerkistö), sanat erotettuna merkillä /. Ilmainen morsekääntäjä.",
-  "id": "/loona-dev-tools/fi/text-to-morse-code/",
+  "id": "/fi/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

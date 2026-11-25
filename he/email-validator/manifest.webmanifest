@@ -2,7 +2,7 @@
   "name": "מאמת דוא\"ל של Loona מקוון בחינם",
   "short_name": "מאמת דוא\"ל מקוון בחינם",
   "description": "אמתו כתובות דוא\"ל מקוון בחינם, אחת או בצובר - בדיקות תחביר מלאות מול כללי הכתובות ובנוסף זיהוי שגיאות הקלדה נפוצות בדומיין כמו gmial.com. בלי הרשמה.",
-  "id": "/loona-dev-tools/he/email-validator/",
+  "id": "/he/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

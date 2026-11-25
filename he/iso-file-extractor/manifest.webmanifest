@@ -2,7 +2,7 @@
   "name": "מחלץ קבצי Loona ISO מקוון בחינם",
   "short_name": "מחלץ קבצי ISO מקוון בחינם",
   "description": "פתחו תמונות דיסק ISO ישר בדפדפן שלכם - גלשו במערכת הקבצים המאוחסנת על הדיסק הווירטואלי והורידו קבצים בודדים או הכול כ-ZIP. שום דבר לא מועלה.",
-  "id": "/loona-dev-tools/he/iso-file-extractor/",
+  "id": "/he/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

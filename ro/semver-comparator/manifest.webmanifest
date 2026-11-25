@@ -2,7 +2,7 @@
   "name": "Comparator de versiuni semantice Loona",
   "short_name": "Comparator de versiuni semantice",
   "description": "Validează și compară versiuni semantice (MAJOR.MINOR.PATCH): care este mai nouă și ce fel de modificare le separă.",
-  "id": "/loona-dev-tools/ro/semver-comparator/",
+  "id": "/ro/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

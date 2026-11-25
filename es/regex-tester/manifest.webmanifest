@@ -2,7 +2,7 @@
   "name": "Loona Probador de expresiones regulares en línea gratis",
   "short_name": "Probador de expresiones regulares en línea gratis",
   "description": "Prueba expresiones regulares en línea gratis con resaltado de coincidencias en vivo, detalles de grupos de captura y un conteo de coincidencias. Sin registro, funciona 100% en tu navegador.",
-  "id": "/loona-dev-tools/es/regex-tester/",
+  "id": "/es/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

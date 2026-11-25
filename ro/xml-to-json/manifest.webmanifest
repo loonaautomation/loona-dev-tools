@@ -2,7 +2,7 @@
   "name": "Convertizor XML în JSON Loona",
   "short_name": "Convertizor XML în JSON",
   "description": "Convertește XML în JSON online: atribute ca @chei, elemente repetate ca tablouri, text ca valori cu numere tipizate.",
-  "id": "/loona-dev-tools/ro/xml-to-json/",
+  "id": "/ro/xml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

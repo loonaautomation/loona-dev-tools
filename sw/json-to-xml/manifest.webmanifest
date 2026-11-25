@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha JSON kwenda XML",
   "short_name": "Kibadilishaji cha JSON kwenda XML",
   "description": "Badilisha JSON kuwa XML mtandaoni na kipengee cha mzizi kinachoweza kubinafsishwa: safu huwa vipengee vinavyorudiwa, @funguo huwa sifa.",
-  "id": "/loona-dev-tools/sw/json-to-xml/",
+  "id": "/sw/json-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona pretvarač JSON u Python Dataclass",
   "short_name": "JSON u Python Dataclass",
   "description": "Pretvorite JSON u Python dataclassove s naznakama tipova: ugniježđeni objekti postaju ugniježđeni dataclassovi, List vrste za polja.",
-  "id": "/loona-dev-tools/hr/json-to-python-dataclass/",
+  "id": "/hr/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

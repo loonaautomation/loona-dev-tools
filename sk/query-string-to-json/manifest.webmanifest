@@ -2,7 +2,7 @@
   "name": "Prevodník Loona dopytovacieho reťazca na JSON",
   "short_name": "Prevodník dopytovacieho reťazca na JSON",
   "description": "Analyzujte dopytovací reťazec URL na JSON: zátvorková notácia sa stane vnorenými objektmi, opakované kľúče sa stanú poľami, hodnoty typované.",
-  "id": "/loona-dev-tools/sk/query-string-to-json/",
+  "id": "/sk/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

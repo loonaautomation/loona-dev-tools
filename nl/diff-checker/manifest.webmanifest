@@ -2,7 +2,7 @@
   "name": "Loona diff-checker online gratis",
   "short_name": "Diff-checker online gratis",
   "description": "Vergelijk twee teksten online gratis met een diff per regel: toegevoegde regels in groen, verwijderde regels in rood, plus een wijzigingssamenvatting. Geen registratie, draait 100% in je browser.",
-  "id": "/loona-dev-tools/nl/diff-checker/",
+  "id": "/nl/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

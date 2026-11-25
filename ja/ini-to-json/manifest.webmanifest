@@ -2,7 +2,7 @@
   "name": "Loona INI→JSON変換ツール",
   "short_name": "INI→JSON変換ツール",
   "description": "INI設定ファイルをJSONに変換：セクションがオブジェクトになり、値は曖昧でない場所では型が付きます（数値、真偽値）。",
-  "id": "/loona-dev-tools/ja/ini-to-json/",
+  "id": "/ja/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

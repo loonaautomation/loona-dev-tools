@@ -2,7 +2,7 @@
   "name": "Loona ZIP سے TAR کنورٹر",
   "short_name": "ZIP سے TAR کنورٹر",
   "description": "ZIP آرکائیوز کو غیر کمپریس شدہ TAR میں آن لائن بدلیں: وہی فائلیں اور فولڈرز، ایک معیارات کے مطابق TAR مصنف کے ساتھ دوبارہ پیک۔ مکمل مقامی۔",
-  "id": "/loona-dev-tools/ur/zip-to-tar-converter/",
+  "id": "/ur/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

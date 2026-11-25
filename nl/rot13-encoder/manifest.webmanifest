@@ -2,7 +2,7 @@
   "name": "Loona ROT13-encoder & decoder",
   "short_name": "ROT13-encoder & decoder",
   "description": "ROT13 elke tekst: roteer letters 13 plaatsen. Coderen en decoderen zijn dezelfde bewerking. Klassiek voor spoilers en puzzels.",
-  "id": "/loona-dev-tools/nl/rot13-encoder/",
+  "id": "/nl/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "בודק Loona JSONPath",
   "short_name": "בודק JSONPath",
   "description": "בדקו ביטויי JSONPath מול מסמך JSON: סימון נקודה, אינדקסים, תווי כללי וירידה רקורסיבית ($..key) נתמכים.",
-  "id": "/loona-dev-tools/he/jsonpath-tester/",
+  "id": "/he/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

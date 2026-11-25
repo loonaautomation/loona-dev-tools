@@ -2,7 +2,7 @@
   "name": "מחלץ קבצי ארכיון Loona מקוון בחינם",
   "short_name": "מחלץ קבצי ארכיון מקוון",
   "description": "פותח ארכיונים אוניברסלי אחד: שחררו כל קובץ ZIP, ‏RAR, ‏7Z, ‏TAR, ‏TAR.GZ, ‏TAR.BZ2, ‏TAR.XZ או ISO וחלצו את תוכנו ישר בדפדפן שלכם. הפורמט מזוהה אוטומטית; שום דבר לא מועלה.",
-  "id": "/loona-dev-tools/he/archive-file-extractor/",
+  "id": "/he/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

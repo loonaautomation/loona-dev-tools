@@ -2,7 +2,7 @@
   "name": "Loona Base58 转文本解码器",
   "short_name": "Base58 转文本解码器",
   "description": "把 Base58 字符串解码回文本（UTF-8）。根据比特币字母表验证，并报告无效字符。",
-  "id": "/loona-dev-tools/zh/base58-to-text/",
+  "id": "/zh/base58-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

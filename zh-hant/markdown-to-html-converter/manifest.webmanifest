@@ -2,7 +2,7 @@
   "name": "Loona Markdown 轉 HTML 轉換器 線上免費",
   "short_name": "Markdown 轉 HTML 轉換器",
   "description": "免費線上把 Markdown 轉換成 HTML——標題、粗體、斜體、連結、影象、列表、引用塊、程式碼塊等，帶實時渲染預覽。無需註冊。",
-  "id": "/loona-dev-tools/zh-hant/markdown-to-html-converter/",
+  "id": "/zh-hant/markdown-to-html-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

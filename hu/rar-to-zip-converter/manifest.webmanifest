@@ -2,7 +2,7 @@
   "name": "Loona RAR-ból ZIP-be átalakító online ingyen",
   "short_name": "RAR-ból ZIP-be átalakító online",
   "description": "Alakítson egy RAR archívumot (.rar) szabványos ZIP fájllá közvetlenül a böngészőjében. A mappaszerkezet megőrződik, semmi sem töltődik fel, és a ZIP bárhol nyílik - a Windows, a macOS, az Android és az iPhone mind gyárilag nyitják a ZIP-et.",
-  "id": "/loona-dev-tools/hu/rar-to-zip-converter/",
+  "id": "/hu/rar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

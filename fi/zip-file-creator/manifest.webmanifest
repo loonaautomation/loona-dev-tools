@@ -2,7 +2,7 @@
   "name": "Loona ZIP-tiedoston luoja verkossa ilmaiseksi",
   "short_name": "ZIP-tiedoston luoja verkossa ilmaiseksi",
   "description": "Luo ZIP-tiedosto useista tiedostoista suoraan selaimessasi — lisää tiedostot, nimeä arkisto ja lataa yksi .zip. Mitään ei lähetetä palvelimelle; kaikki pysyy laitteellasi.",
-  "id": "/loona-dev-tools/fi/zip-file-creator/",
+  "id": "/fi/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

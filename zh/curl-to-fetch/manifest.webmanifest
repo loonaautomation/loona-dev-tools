@@ -2,7 +2,7 @@
   "name": "Loona cURL 转 Fetch 转换器",
   "short_name": "cURL 转 Fetch 转换器",
   "description": "把 cURL 命令转换成 JavaScript fetch() 代码：处理标头、方法、数据、基本身份验证和 --json。",
-  "id": "/loona-dev-tools/zh/curl-to-fetch/",
+  "id": "/zh/curl-to-fetch/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

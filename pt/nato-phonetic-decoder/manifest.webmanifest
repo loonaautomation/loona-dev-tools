@@ -2,7 +2,7 @@
   "name": "Loona Descodificador do Alfabeto Fonético NATO",
   "short_name": "Descodificador do Alfabeto Fonético NATO",
   "description": "Descodifique palavras fonéticas NATO (Alfa, Bravo, Charlie...) de volta para letras e dígitos simples.",
-  "id": "/loona-dev-tools/pt/nato-phonetic-decoder/",
+  "id": "/pt/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

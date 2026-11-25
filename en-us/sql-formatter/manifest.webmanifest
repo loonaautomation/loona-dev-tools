@@ -2,7 +2,7 @@
   "name": "Loona SQL Formatter - Readable Queries, One Clause Per Line",
   "short_name": "SQL Formatter - Readable Queries, One Clause Per Line",
   "description": "Format SQL online for free: keywords uppercased, SELECT, FROM, WHERE and JOIN clauses on their own lines, strings preserved. No sign-up, runs 100% in your browser.",
-  "id": "/loona-dev-tools/en-us/sql-formatter/",
+  "id": "/en-us/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

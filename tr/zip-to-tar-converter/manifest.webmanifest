@@ -2,7 +2,7 @@
   "name": "Loona ZIP - TAR Dönüştürücü",
   "short_name": "ZIP - TAR Dönüştürücü",
   "description": "ZIP arşivlerini çevrimiçi sıkıştırılmamış TAR biçimine dönüştürün: aynı dosyalar ve klasörler, standartlara uygun bir TAR yazıcıyla yeniden paketlendi. Tamamen yerel.",
-  "id": "/loona-dev-tools/tr/zip-to-tar-converter/",
+  "id": "/tr/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

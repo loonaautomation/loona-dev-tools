@@ -2,7 +2,7 @@
   "name": "Loona JSON سے TypeScript Interface کنورٹر",
   "short_name": "JSON سے TypeScript Interface",
   "description": "JSON کو TypeScript interfaces میں آن لائن بدلیں: نیسٹڈ آبجیکٹس نامزد interfaces بن جاتے ہیں، آبجیکٹس کی ارے اپنی کنجیاں ملاتی ہیں اختیاری فیلڈز نشان زد کر کے۔",
-  "id": "/loona-dev-tools/ur/json-to-typescript/",
+  "id": "/ur/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Chmod-laskuri verkossa ilmaiseksi",
   "short_name": "Chmod-laskuri verkossa ilmaiseksi",
   "description": "Laske chmod-käyttöoikeudet verkossa ilmaiseksi: valintaruudut oktaaliksi (755) ja symboliseksi (rwxr-xr-x), ja oktaali takaisin käyttöoikeuksiksi. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/chmod-calculator/",
+  "id": "/fi/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

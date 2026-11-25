@@ -2,7 +2,7 @@
   "name": "Loona Tiivistegeneraattori verkossa ilmaiseksi",
   "short_name": "Tiivistegeneraattori verkossa ilmaiseksi",
   "description": "Luo minkä tahansa tekstin SHA-1-, SHA-256-, SHA-384- ja SHA-512-tiivisteitä verkossa ilmaiseksi, laskettuna paikallisesti selaimessasi. Ei rekisteröitymistä, mitään ei lähetetä.",
-  "id": "/loona-dev-tools/fi/hash-generator/",
+  "id": "/fi/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

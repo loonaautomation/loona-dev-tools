@@ -2,7 +2,7 @@
   "name": "Loona SHA-1 হ্যাশ জেনারেটর",
   "short_name": "SHA-1 হ্যাশ জেনারেটর",
   "description": "অনলাইনে টেক্সট বা ফাইলের SHA-1 হ্যাশ হিসাব করুন: 160-বিট, 40 হেক্স অক্ষর। WebCrypto/খাঁটি JS দিয়ে আপনার ব্রাউজারে স্থানীয়ভাবে চলে — ফাইল কখনও আপলোড হয় না।",
-  "id": "/loona-dev-tools/bn/sha1-hash-generator/",
+  "id": "/bn/sha1-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

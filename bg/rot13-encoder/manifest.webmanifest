@@ -2,7 +2,7 @@
   "name": "Кодиране и декодиране на ROT13 на Loona",
   "short_name": "Кодиране и декодиране на ROT13",
   "description": "ROT13 на всеки текст: завъртете буквите с 13 места. Кодирането и декодирането са една и съща операция. Класика за спойлери и пъзели.",
-  "id": "/loona-dev-tools/bg/rot13-encoder/",
+  "id": "/bg/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Convertizor JSON în .env Loona",
   "short_name": "Convertizor JSON în .env",
   "description": "Convertește configurația JSON în format .env: obiecte imbricate aplatizate cu căi UNDERSCORE, valori puse între ghilimele când conțin spații sau #.",
-  "id": "/loona-dev-tools/ro/json-to-env/",
+  "id": "/ro/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

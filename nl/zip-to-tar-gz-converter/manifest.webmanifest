@@ -2,7 +2,7 @@
   "name": "Loona ZIP naar TAR.GZ-converter online gratis",
   "short_name": "ZIP naar TAR.GZ-converter",
   "description": "Converteer een ZIP-archief naar een TAR.GZ-tarball (.tar.gz) direct in je browser - het formaat dat Linux-servers, Docker en buildtools verwachten. Mappenstructuur behouden, niets geüpload.",
-  "id": "/loona-dev-tools/nl/zip-to-tar-gz-converter/",
+  "id": "/nl/zip-to-tar-gz-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

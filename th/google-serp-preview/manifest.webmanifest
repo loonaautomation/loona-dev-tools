@@ -2,7 +2,7 @@
   "name": "Loona เครื่องมือแสดงตัวอย่าง SERP ของ Google ออนไลน์ฟรี",
   "short_name": "เครื่องมือแสดงตัวอย่าง SERP ของ Google",
   "description": "ดูตัวอย่างว่าชื่อเรื่องของหน้าและคำอธิบายเมตาของคุณจะดูเป็นอย่างไรในผลการค้นหาของ Google ออนไลน์ฟรี พร้อมมุมมองเดสก์ท็อปและมือถือ และคำเตือนการตัดตามความกว้างพิกเซล ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-dev-tools/th/google-serp-preview/",
+  "id": "/th/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

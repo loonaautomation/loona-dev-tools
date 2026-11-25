@@ -2,7 +2,7 @@
   "name": "Loona generator HTML tablica na mreži besplatno",
   "short_name": "Generator HTML tablica na mreži",
   "description": "Generirajte HTML tablice na mreži besplatno - postavite retke i stupce, tipkajte u mrežu i dobijte čist HTML tablice s podrškom za thead, th i caption plus pregled uživo. Bez registracije.",
-  "id": "/loona-dev-tools/hr/html-table-generator/",
+  "id": "/hr/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

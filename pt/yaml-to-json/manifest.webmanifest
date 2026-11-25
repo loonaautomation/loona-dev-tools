@@ -2,7 +2,7 @@
   "name": "Loona Conversor de YAML para JSON",
   "short_name": "Conversor de YAML para JSON",
   "description": "Converta YAML para JSON online: mapeamentos e sequências de bloco, escalares citados e simples, coleções de fluxo. Subconjunto documentado honestamente.",
-  "id": "/loona-dev-tools/pt/yaml-to-json/",
+  "id": "/pt/yaml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

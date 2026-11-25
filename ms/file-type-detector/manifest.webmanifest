@@ -2,7 +2,7 @@
   "name": "Loona Detektor Jenis Fail Dalam Talian Percuma",
   "short_name": "Detektor Jenis Fail Dalam Talian Percuma",
   "description": "Deteksi tipe sebenarnya fail dalam talian secara percuma dari tandatangan header magic-byte-nya - PNG, PDF, ZIP, MP4, EXE, dan 30+ format - dan dapatkan amaran ketika ekstensinya tidak sepakat. Tidak ada yang dimuat naik.",
-  "id": "/loona-dev-tools/ms/file-type-detector/",
+  "id": "/ms/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

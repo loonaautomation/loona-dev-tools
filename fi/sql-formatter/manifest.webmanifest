@@ -2,7 +2,7 @@
   "name": "Loona SQL-muotoilija verkossa ilmaiseksi",
   "short_name": "SQL-muotoilija verkossa ilmaiseksi",
   "description": "Muotoile SQL verkossa ilmaiseksi: avainsanat suuraakkosina, SELECT-, FROM-, WHERE- ja JOIN-lauseet omilla riveillään, merkkijonot säilytettyinä. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/sql-formatter/",
+  "id": "/fi/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

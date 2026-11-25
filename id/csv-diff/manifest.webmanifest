@@ -2,7 +2,7 @@
   "name": "Loona Diff & Perbandingan CSV Online Gratis",
   "short_name": "Diff & Perbandingan CSV Online Gratis",
   "description": "Bandingkan dua file CSV online secara gratis - baris dicocokkan dengan kolom kunci dan diklasifikasikan sebagai ditambahkan, dihapus, diubah (dengan sel yang tepat) atau tidak berubah. Tanpa pendaftaran, berjalan di browser Anda.",
-  "id": "/loona-dev-tools/id/csv-diff/",
+  "id": "/id/csv-diff/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

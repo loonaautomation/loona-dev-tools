@@ -2,7 +2,7 @@
   "name": "Loona HTML e-mail aláírás generátor online ingyen",
   "short_name": "HTML e-mail aláírás",
   "description": "Készítsen professzionális HTML e-mail aláírást online ingyen - név, beosztás, cég, telefon, e-mail és webhely e-mailbiztos táblázat HTML-ben, amely működik Gmailben és Outlookban. Regisztráció nélkül.",
-  "id": "/loona-dev-tools/hu/email-signature-generator/",
+  "id": "/hu/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

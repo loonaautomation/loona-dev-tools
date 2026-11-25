@@ -2,7 +2,7 @@
   "name": "Prevodník Loona YAML na JSON online zadarmo",
   "short_name": "Prevodník YAML na JSON online",
   "description": "Preveďte YAML na JSON a JSON na YAML online zadarmo. Podporuje každodennú podmnožinu: vnorené mapy, zoznamy a skaláry, s úprimne uvedenými limitmi. Bez registrácie, beží 100% vo vašom prehliadači.",
-  "id": "/loona-dev-tools/sk/yaml-json-converter/",
+  "id": "/sk/yaml-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

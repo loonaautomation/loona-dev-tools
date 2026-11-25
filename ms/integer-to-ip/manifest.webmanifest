@@ -2,7 +2,7 @@
   "name": "Loona Penukar Integer ke Alamat IP",
   "short_name": "Integer ke Alamat IP",
   "description": "Penukaran integer 32-bit kembali ke alamat IPv4 bertitik (3232235521 → 192.168.0.1).",
-  "id": "/loona-dev-tools/ms/integer-to-ip/",
+  "id": "/ms/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

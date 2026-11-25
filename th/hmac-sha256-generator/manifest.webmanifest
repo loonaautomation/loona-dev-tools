@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้าง HMAC-SHA256",
   "short_name": "ตัวสร้าง HMAC-SHA256",
   "description": "สร้างลายเซ็น HMAC-SHA256 ออนไลน์: ป้อนคีย์และข้อความ รับ MAC แบบเลขฐานสิบหก WebCrypto ภายในเครื่องทั้งหมด",
-  "id": "/loona-dev-tools/th/hmac-sha256-generator/",
+  "id": "/th/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

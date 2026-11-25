@@ -2,7 +2,7 @@
   "name": "Loona GZIP-kompressor online gratis",
   "short_name": "GZIP-kompressor online gratis",
   "description": "Komprimér enhver enkelt fil til en .gz med din browsers indbyggede gzip-motor. Øjeblikkelige før/efter-størrelser, intet uploadet – filen komprimeres på din enhed. Virker til logge, CSV'er, TAR-filer og mere.",
-  "id": "/loona-dev-tools/da/gzip-compressor/",
+  "id": "/da/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

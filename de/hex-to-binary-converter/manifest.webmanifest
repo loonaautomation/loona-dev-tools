@@ -2,7 +2,7 @@
   "name": "Loona Hexadezimal-zu-Binär-Konverter",
   "short_name": "Hexadezimal zu Binär",
   "description": "Konvertieren Sie Hexadezimalzahlen online zu Binär — beliebige Genauigkeit (BigInt), negative Zahlen unterstützt.",
-  "id": "/loona-dev-tools/de/hex-to-binary-converter/",
+  "id": "/de/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

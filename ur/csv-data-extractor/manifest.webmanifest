@@ -2,7 +2,7 @@
   "name": "Loona CSV ڈیٹا ایکسٹریکٹر آن لائن مفت",
   "short_name": "CSV ڈیٹا ایکسٹریکٹر آن لائن مفت",
   "description": "ای میل ایڈریسز، فون نمبرز اور URLs بے ترتیب CSV فائلوں یا کسی بھی متن سے آن لائن مفت نکالیں - صاف، ڈی ڈپلیکیٹ شدہ فہرستیں جو آپ ڈاؤن لوڈ کر سکتے ہیں۔ کوئی سائن اپ نہیں، آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-dev-tools/ur/csv-data-extractor/",
+  "id": "/ur/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

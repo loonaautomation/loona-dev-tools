@@ -2,7 +2,7 @@
   "name": "Loona ISO-bestandsextractor online gratis",
   "short_name": "ISO-bestandsextractor online gratis",
   "description": "Open ISO-schijfafbeeldingen direct in je browser - blader door het bestandssysteem op de virtuele schijf en download losse bestanden of alles als ZIP. Niets wordt geüpload.",
-  "id": "/loona-dev-tools/nl/iso-file-extractor/",
+  "id": "/nl/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

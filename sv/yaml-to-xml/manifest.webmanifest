@@ -2,7 +2,7 @@
   "name": "Loona YAML till XML-konverterare",
   "short_name": "YAML till XML-konverterare",
   "description": "Konvertera YAML till XML online: en enda toppnivånyckel blir rotelementet, @keys blir attribut.",
-  "id": "/loona-dev-tools/sv/yaml-to-xml/",
+  "id": "/sv/yaml-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

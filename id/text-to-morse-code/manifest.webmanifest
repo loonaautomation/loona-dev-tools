@@ -2,7 +2,7 @@
   "name": "Loona Penerjemah Teks ke Kode Morse",
   "short_name": "Penerjemah Teks ke Kode Morse",
   "description": "Terjemahkan teks ke kode Morse (huruf, digit, dan tanda baca umum), kata dipisahkan oleh /. Penerjemah Morse gratis.",
-  "id": "/loona-dev-tools/id/text-to-morse-code/",
+  "id": "/id/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

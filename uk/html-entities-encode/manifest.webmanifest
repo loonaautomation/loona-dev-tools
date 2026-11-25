@@ -2,7 +2,7 @@
   "name": "Кодувальник сутностей Loona HTML",
   "short_name": "Кодувальник сутностей HTML",
   "description": "Кодуйте спеціальні символи як сутності HTML: іменовані (&copy;), десяткові або шістнадцяткові числові посилання. Екранує розмітку, лапки й не-ASCII текст.",
-  "id": "/loona-dev-tools/uk/html-entities-encode/",
+  "id": "/uk/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/text-to-base32/",
+  "id": "/en-gb/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

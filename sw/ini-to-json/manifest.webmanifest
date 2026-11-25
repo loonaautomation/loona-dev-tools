@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha INI kwenda JSON",
   "short_name": "Kibadilishaji cha INI kwenda JSON",
   "description": "Badilisha faili za usanidi za INI kuwa JSON: sehemu huwa vitu, thamani huainishwa (nambari, boolean) pale pasipo na utata.",
-  "id": "/loona-dev-tools/sw/ini-to-json/",
+  "id": "/sw/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

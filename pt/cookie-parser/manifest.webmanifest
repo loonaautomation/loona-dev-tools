@@ -2,7 +2,7 @@
   "name": "Loona Analisador de Cabeçalhos Cookie",
   "short_name": "Analisador de Cabeçalhos Cookie",
   "description": "Analise um cabeçalho Cookie para uma lista legível: pares name = value, valores descodificados por percentagem mostrados, contagem de cookies.",
-  "id": "/loona-dev-tools/pt/cookie-parser/",
+  "id": "/pt/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

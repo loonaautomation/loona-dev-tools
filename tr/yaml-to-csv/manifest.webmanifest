@@ -2,7 +2,7 @@
   "name": "Loona YAML - CSV Dönüştürücü",
   "short_name": "YAML - CSV Dönüştürücü",
   "description": "Nesnelerin bir YAML listesini bir CSV tablosuna dönüştürün: anahtarların birleşimi sütunlar olarak, iç içe değerler hücrelerinde JSON olarak serileştirilir.",
-  "id": "/loona-dev-tools/tr/yaml-to-csv/",
+  "id": "/tr/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

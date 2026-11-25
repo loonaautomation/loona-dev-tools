@@ -2,7 +2,7 @@
   "name": "Công cụ mã hóa Punycode của Loona (chuyển đổi tên miền IDN)",
   "short_name": "Công cụ mã hóa Punycode (tên miền IDN",
   "description": "Chuyển đổi tên miền quốc tế hóa (IDN) sang dạng punycode xn--: bücher.example trở thành xn--bcher-kva.example. Mã hóa theo từng nhãn.",
-  "id": "/loona-dev-tools/vi/punycode-encode/",
+  "id": "/vi/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

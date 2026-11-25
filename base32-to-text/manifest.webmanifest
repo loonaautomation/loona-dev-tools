@@ -2,7 +2,7 @@
   "name": "Loona Base32 to Text Decoder",
   "short_name": "Base32 to Text Decoder",
   "description": "Decode Base32 (RFC 4648) back to text — case-insensitive, padding optional. Recover TOTP-style encoded strings.",
-  "id": "/loona-dev-tools/base32-to-text/",
+  "id": "/base32-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

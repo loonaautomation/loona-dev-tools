@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας ZIP σε TAR",
   "short_name": "Μετατροπέας ZIP σε TAR",
   "description": "Μετατρέψτε αρχειοθήκες ZIP σε ασυμπίεστο TAR διαδικτυακά: ίδια αρχεία και φάκελοι, επανασυσκευασμένα με έναν εγγραφέα TAR σύμφωνο με τα πρότυπα. Εντελώς τοπικά.",
-  "id": "/loona-dev-tools/el/zip-to-tar-converter/",
+  "id": "/el/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

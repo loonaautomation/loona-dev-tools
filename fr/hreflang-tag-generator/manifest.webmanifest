@@ -2,7 +2,7 @@
   "name": "Générateur de balises Hreflang Loona en ligne gratuit",
   "short_name": "Générateur de balises Hreflang en ligne",
   "description": "Générez des balises hreflang en ligne et gratuitement - collez des paires langue et URL, ajoutez un x-default, et obtenez l’ensemble complet de liens alternatifs avec des contrôles BCP 47 et d’URL absolues. Sans inscription.",
-  "id": "/loona-dev-tools/fr/hreflang-tag-generator/",
+  "id": "/fr/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

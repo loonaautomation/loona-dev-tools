@@ -2,7 +2,7 @@
   "name": "Loona ตัวเข้ารหัส URL (การเข้ารหัสเปอร์เซ็นต์)",
   "short_name": "ตัวเข้ารหัส URL (การเข้ารหัสเปอร์เซ็นต์)",
   "description": "เข้ารหัสเปอร์เซ็นต์ข้อความหรือ URL แบบเต็มออนไลน์: ช่องว่างกลายเป็น %20 ตัวอักษรสงวนถูก escape ตาม RFC 3986 โหมดคอมโพเนนต์หรือ URL แบบเต็ม",
-  "id": "/loona-dev-tools/th/url-encode/",
+  "id": "/th/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

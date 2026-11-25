@@ -2,7 +2,7 @@
   "name": "Loona SEO-Lesbarkeits-Prüfer online kostenlos",
   "short_name": "SEO-Lesbarkeits-Prüfer",
   "description": "Prüfen Sie die Lesbarkeit von Inhalten für SEO kostenlos online – Flesch-, Flesch-Kincaid-, Gunning-Fog-, Coleman-Liau-, SMOG- und ARI-Werte plus Satzlängen-Statistiken für Webtexte. Keine Registrierung.",
-  "id": "/loona-dev-tools/de/readability-checker/",
+  "id": "/de/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

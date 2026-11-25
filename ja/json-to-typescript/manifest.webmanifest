@@ -2,7 +2,7 @@
   "name": "Loona JSON→TypeScriptインターフェース変換ツール",
   "short_name": "JSON→TypeScriptインターフェース",
   "description": "JSONをTypeScriptインターフェースにオンライン変換：ネストしたオブジェクトは名前付きインターフェースになり、オブジェクトの配列はキーを統合し、任意フィールドに印が付きます。",
-  "id": "/loona-dev-tools/ja/json-to-typescript/",
+  "id": "/ja/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

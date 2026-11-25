@@ -2,7 +2,7 @@
   "name": "Loona uklanjanje escapea JSON niza",
   "short_name": "Uklanjanje escapea JSON niza",
   "description": "Uklonite escape vrijednosti JSON niza natrag u običan tekst: nizovi \\n, \\t, \\&quot;, \\\\ i \\uXXXX postaju pravi znakovi.",
-  "id": "/loona-dev-tools/hr/json-unescape/",
+  "id": "/hr/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona SHA-384 哈希生成器",
   "short_name": "SHA-384 哈希生成器",
   "description": "在线计算文本或文件的 SHA-384 哈希：384 位，96 个十六进制字符。使用 WebCrypto/纯 JS 在您的浏览器中本地运行——文件从不上传。",
-  "id": "/loona-dev-tools/zh/sha384-hash-generator/",
+  "id": "/zh/sha384-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

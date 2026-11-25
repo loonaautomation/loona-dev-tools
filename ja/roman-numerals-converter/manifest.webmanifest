@@ -2,7 +2,7 @@
   "name": "Loona ローマ数字→数字変換ツール",
   "short_name": "ローマ数字→数字",
   "description": "ローマ数字を数値に変換（1–3999）。減算表記（IV、IX、XL、CM）の厳密な検証付き。",
-  "id": "/loona-dev-tools/ja/roman-numerals-converter/",
+  "id": "/ja/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

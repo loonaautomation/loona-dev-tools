@@ -2,7 +2,7 @@
   "name": "Convertizor binar în hexazecimal Loona",
   "short_name": "Binar în hexazecimal",
   "description": "Convertește numere binare în hexazecimal online — precizie arbitrară (BigInt), numere negative acceptate.",
-  "id": "/loona-dev-tools/ro/binary-to-hex-converter/",
+  "id": "/ro/binary-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona MD5-hashgenerator",
   "short_name": "MD5-hashgenerator",
   "description": "Beräkna MD5-hashar av text eller filer online: 128-bitars, 32 hextecken. Körs lokalt i din webbläsare med WebCrypto/ren JS — filer laddas aldrig upp.",
-  "id": "/loona-dev-tools/sv/md5-hash-generator/",
+  "id": "/sv/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

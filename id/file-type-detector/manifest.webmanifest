@@ -2,7 +2,7 @@
   "name": "Loona Detektor Jenis File Online Gratis",
   "short_name": "Detektor Jenis File Online Gratis",
   "description": "Deteksi tipe sebenarnya file online secara gratis dari tanda tangan header magic-byte-nya - PNG, PDF, ZIP, MP4, EXE, dan 30+ format - dan dapatkan peringatan ketika ekstensinya tidak sepakat. Tidak ada yang diunggah.",
-  "id": "/loona-dev-tools/id/file-type-detector/",
+  "id": "/id/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

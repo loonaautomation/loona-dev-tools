@@ -2,7 +2,7 @@
   "name": "Formator și validator XML Loona online gratuit",
   "short_name": "Formator și validator XML",
   "description": "Formatează, înfrumusețează, minifică și validează XML online gratuit - verificarea bunei formări cu etichete echilibrate și mesaje de eroare clare, printare frumoasă cu indentare. Fără înregistrare.",
-  "id": "/loona-dev-tools/ro/xml-formatter/",
+  "id": "/ro/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

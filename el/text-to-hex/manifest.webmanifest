@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Κειμένου σε Δεκαεξαδικό",
   "short_name": "Μετατροπέας Κειμένου σε Δεκαεξαδικό",
   "description": "Μετατρέψτε κείμενο σε δεκαεξαδικό (byte UTF-8) διαδικτυακά, με ή χωρίς κενά ανάμεσα στα byte. Δωρεάν μετατροπέας για προγραμματιστές.",
-  "id": "/loona-dev-tools/el/text-to-hex/",
+  "id": "/el/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

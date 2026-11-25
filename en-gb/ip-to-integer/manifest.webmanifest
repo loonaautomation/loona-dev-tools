@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/ip-to-integer/",
+  "id": "/en-gb/ip-to-integer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

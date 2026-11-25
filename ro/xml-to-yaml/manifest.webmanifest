@@ -2,7 +2,7 @@
   "name": "Convertizor XML în YAML Loona",
   "short_name": "Convertizor XML în YAML",
   "description": "Convertește XML în YAML: atribute ca @chei, elemente repetate ca liste, valori tipizate. Analizator real, nu expresii regulate.",
-  "id": "/loona-dev-tools/ro/xml-to-yaml/",
+  "id": "/ro/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kikokotoo cha Chmod Bure Mtandaoni",
   "short_name": "Kikokotoo cha Chmod Bure Mtandaoni",
   "description": "Kokotoa ruhusa za chmod mtandaoni bure: visanduku vya tiki kwenda oktali (755) na alama (rwxr-xr-x), na oktali kurudi kwenye ruhusa. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/chmod-calculator/",
+  "id": "/sw/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Escape pentru șiruri JSON Loona",
   "short_name": "Escape pentru șiruri JSON",
   "description": "Escapează un șir pentru încorporare în JSON: ghilimelele, barele oblice inverse, liniile noi și caracterele de control devin secvențe \\.",
-  "id": "/loona-dev-tools/ro/json-escape/",
+  "id": "/ro/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generátor meta značiek Loona online zadarmo",
   "short_name": "Generátor meta značiek online zadarmo",
   "description": "Generujte meta značky HTML online zadarmo - názov, popis, kľúčové slová, autor, robots a canonical - so živým náhľadom SERP v štýle Google a počtami znakov. Bez registrácie.",
-  "id": "/loona-dev-tools/sk/meta-tag-generator/",
+  "id": "/sk/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

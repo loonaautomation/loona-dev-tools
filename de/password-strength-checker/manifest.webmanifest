@@ -2,7 +2,7 @@
   "name": "Loona Passwortstärke-Prüfer online kostenlos",
   "short_name": "Passwortstärke-Prüfer",
   "description": "Prüfen Sie die Passwortstärke kostenlos online mit einer transparenten Entropie-Schätzung, konkretem Feedback und einer Schätzung der Knackzeit. Das Passwort verlässt Ihren Browser nie – nichts wird gesendet oder gespeichert.",
-  "id": "/loona-dev-tools/de/password-strength-checker/",
+  "id": "/de/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

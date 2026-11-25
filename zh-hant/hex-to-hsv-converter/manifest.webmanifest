@@ -2,7 +2,7 @@
   "name": "Loona HEX 轉 HSV 轉換器",
   "short_name": "HEX 轉 HSV 轉換器",
   "description": "線上把顏色從 HEX 轉換成 HSV，帶實時色板，並同時顯示所有其他格式（HEX、RGB、HSL、HSV、CMYK）。",
-  "id": "/loona-dev-tools/zh-hant/hex-to-hsv-converter/",
+  "id": "/zh-hant/hex-to-hsv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

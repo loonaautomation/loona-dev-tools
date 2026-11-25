@@ -2,7 +2,7 @@
   "name": "Loona Oktaali-desimaalimuunnin",
   "short_name": "Oktaali-desimaalimuunnin",
   "description": "Muunna oktaalilukuja desimaaliksi verkossa — mielivaltainen tarkkuus (BigInt), negatiiviset luvut tuettuna.",
-  "id": "/loona-dev-tools/fi/octal-to-decimal-converter/",
+  "id": "/fi/octal-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

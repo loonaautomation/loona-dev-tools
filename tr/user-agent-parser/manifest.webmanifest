@@ -2,7 +2,7 @@
   "name": "Loona User Agent Dizesi Ayrıştırıcı",
   "short_name": "User Agent Dizesi Ayrıştırıcı",
   "description": "Bir tarayıcı User-Agent dizesini, şeffaf, kural tabanlı bir ayrıştırıcıyla tarayıcı, motor, işletim sistemi ve cihaz türüne ayrıştırın.",
-  "id": "/loona-dev-tools/tr/user-agent-parser/",
+  "id": "/tr/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

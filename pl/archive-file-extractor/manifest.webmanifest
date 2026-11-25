@@ -2,7 +2,7 @@
   "name": "Loona Ekstraktor plików archiwów online za darmo",
   "short_name": "Ekstraktor plików archiwów online",
   "description": "Jeden uniwersalny otwieracz archiwów: upuść dowolny plik ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ lub ISO i wyodrębnij jego zawartość wprost w przeglądarce. Format jest wykrywany automatycznie; nic nie jest przesyłane.",
-  "id": "/loona-dev-tools/pl/archive-file-extractor/",
+  "id": "/pl/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

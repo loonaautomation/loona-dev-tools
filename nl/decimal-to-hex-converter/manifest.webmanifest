@@ -2,7 +2,7 @@
   "name": "Loona decimaal naar hexadecimaal-converter",
   "short_name": "Decimaal naar hexadecimaal",
   "description": "Converteer decimale getallen online naar hexadecimaal — willekeurige precisie (BigInt), negatieve getallen ondersteund.",
-  "id": "/loona-dev-tools/nl/decimal-to-hex-converter/",
+  "id": "/nl/decimal-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

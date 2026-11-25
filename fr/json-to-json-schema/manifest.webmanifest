@@ -2,7 +2,7 @@
   "name": "Générateur Loona JSON vers schéma JSON",
   "short_name": "Générateur JSON vers schéma JSON",
   "description": "Générez un schéma JSON (draft 2020-12) à partir d’un échantillon JSON : types déduits, propriétés d’objets et clés requises incluses.",
-  "id": "/loona-dev-tools/fr/json-to-json-schema/",
+  "id": "/fr/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

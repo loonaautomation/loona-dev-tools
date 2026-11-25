@@ -2,7 +2,7 @@
   "name": "Loona HTML Küçültücü",
   "short_name": "HTML Küçültücü",
   "description": "HTML değerini çevrimiçi küçültün: pre, textarea, script ve style içeriklerini korurken yorumları kaldırın ve boşluğu daraltın.",
-  "id": "/loona-dev-tools/tr/html-minifier/",
+  "id": "/tr/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

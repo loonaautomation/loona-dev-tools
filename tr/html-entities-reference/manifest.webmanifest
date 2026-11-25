@@ -2,7 +2,7 @@
   "name": "Loona HTML Varlıkları Başvuru Tablosu",
   "short_name": "HTML Varlıkları Başvuru Tablosu",
   "description": "Temel HTML varlıkları tablosu: adlandırılmış varlık, karakter, ondalık kod ve geliştiricilerin gerçekten kullandığı varlıklar için kullanım notları.",
-  "id": "/loona-dev-tools/tr/html-entities-reference/",
+  "id": "/tr/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generátor Loona llms.txt online zadarmo",
   "short_name": "Generátor llms.txt online zadarmo",
   "description": "Generujte platný súbor llms.txt online zadarmo - názov stránky, súhrnný blockquote, podrobnosti a vybrané odkazy na stránky vo formáte llms.txt navrhnutom pre prehľadávače AI. Bez registrácie.",
-  "id": "/loona-dev-tools/sk/llms-txt-generator/",
+  "id": "/sk/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

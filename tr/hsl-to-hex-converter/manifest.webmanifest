@@ -2,7 +2,7 @@
   "name": "Loona HSL - HEX Dönüştürücü",
   "short_name": "HSL - HEX Dönüştürücü",
   "description": "Renkleri HSL değerinden çevrimiçi HEX değerine dönüştürün, canlı bir renk örneği ve diğer tüm biçimler (HEX, RGB, HSL, HSV, CMYK) de gösterilerek.",
-  "id": "/loona-dev-tools/tr/hsl-to-hex-converter/",
+  "id": "/tr/hsl-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

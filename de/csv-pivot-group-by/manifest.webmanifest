@@ -2,7 +2,7 @@
   "name": "Loona CSV-Pivot & Group-By online kostenlos",
   "short_name": "CSV Pivot & Gruppierung online",
   "description": "Pivotieren Sie CSV-Daten kostenlos online – gruppieren Sie Zeilen nach einer beliebigen Spalte und berechnen Sie Summe, Anzahl, Durchschnitt, Minimum oder Maximum einer Wertespalte. Keine Registrierung, läuft zu 100 % in Ihrem Browser.",
-  "id": "/loona-dev-tools/de/csv-pivot-group-by/",
+  "id": "/de/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Konwerter szesnastkowy na binarny",
   "short_name": "Szesnastkowy na binarny",
   "description": "Konwertuj liczby szesnastkowe na binarne online — dowolna precyzja (BigInt), liczby ujemne obsługiwane.",
-  "id": "/loona-dev-tools/pl/hex-to-binary-converter/",
+  "id": "/pl/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

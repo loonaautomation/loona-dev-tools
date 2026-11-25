@@ -2,7 +2,7 @@
   "name": "Loona JSON से INI कन्वर्टर",
   "short_name": "JSON से INI कन्वर्टर",
   "description": "JSON objects को INI format में बदलें: top-level scalars पहले, nested objects [sections] के रूप में। मुफ़्त ऑनलाइन converter।",
-  "id": "/loona-dev-tools/hi/json-to-ini/",
+  "id": "/hi/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

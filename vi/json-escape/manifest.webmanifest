@@ -2,7 +2,7 @@
   "name": "Escape chuỗi JSON Loona",
   "short_name": "Escape chuỗi JSON",
   "description": "Escape một chuỗi để nhúng bên trong JSON: các dấu ngoặc kép, dấu gạch chéo ngược, ngắt dòng và các ký tự điều khiển trở thành các dãy \\.",
-  "id": "/loona-dev-tools/vi/json-escape/",
+  "id": "/vi/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dönüştürücü ve Oluşturucu Kitaplığı",
   "short_name": "Dönüştürücü ve Oluşturucu Kitaplığı",
   "description": "Tüm Loona Developer Tools dönüştürücü ve oluşturucularının dizini: kodlamalar, veri biçimleri, hash değerleri, renkler, arşivler, kod oluşturucular ve başvurular.",
-  "id": "/loona-dev-tools/tr/converter-library/",
+  "id": "/tr/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

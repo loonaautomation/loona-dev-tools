@@ -2,7 +2,7 @@
   "name": "Loona JSON سے YAML کنورٹر",
   "short_name": "JSON سے YAML کنورٹر",
   "description": "JSON کو YAML میں آن لائن بدلیں: صاف indentation، ارے اور نیسٹڈ آبجیکٹس، اسٹرنگز صرف اس وقت کوٹ جب YAML کو ضرورت ہو۔",
-  "id": "/loona-dev-tools/ur/json-to-yaml/",
+  "id": "/ur/json-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

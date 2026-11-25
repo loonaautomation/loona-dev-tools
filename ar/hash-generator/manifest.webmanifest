@@ -2,7 +2,7 @@
   "name": "Loona منشئ التجزئة عبر الإنترنت مجاناً",
   "short_name": "منشئ التجزئة عبر الإنترنت مجاناً",
   "description": "أنشئ تجزئات SHA-1 وSHA-256 وSHA-384 وSHA-512 لأي نص عبر الإنترنت مجاناً، محسوبة محلياً في متصفحك. دون تسجيل، لا يُرفع شيء.",
-  "id": "/loona-dev-tools/ar/hash-generator/",
+  "id": "/ar/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

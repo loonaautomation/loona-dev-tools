@@ -2,7 +2,7 @@
   "name": "Loona Rem-zu-Pixel-(px)-Konverter",
   "short_name": "Rem-zu-Pixel-(px)-Konverter",
   "description": "Konvertieren Sie rem zu px mit einer einstellbaren Basis-Schriftgröße (Standard 16px) und einer Tabelle üblicher Werte.",
-  "id": "/loona-dev-tools/de/rem-to-px-converter/",
+  "id": "/de/rem-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

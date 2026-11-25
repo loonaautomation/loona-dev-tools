@@ -2,7 +2,7 @@
   "name": "Loona Codificador y decodificador de entidades HTML en línea gratis",
   "short_name": "Codificador y decodificador de entidades HTML",
   "description": "Codifica texto en entidades HTML (con nombre como &amp;copy; o numeradas como &amp;#169;) y decodifica las entidades de vuelta a texto simple. Gratis, sin registro, en tu navegador.",
-  "id": "/loona-dev-tools/es/html-entity-encoder/",
+  "id": "/es/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona referentna tablica HTML entiteta",
   "short_name": "Referentna tablica HTML entiteta",
   "description": "Tablica bitnih HTML entiteta: imenovani entitet, znak, decimalni kod i bilješke o uporabi za entitete koje programeri doista koriste.",
-  "id": "/loona-dev-tools/hr/html-entities-reference/",
+  "id": "/hr/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

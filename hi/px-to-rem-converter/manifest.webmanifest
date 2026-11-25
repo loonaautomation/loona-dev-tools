@@ -2,7 +2,7 @@
   "name": "Loona Pixels (px) से Rem कन्वर्टर",
   "short_name": "Pixels (px) से Rem कन्वर्टर",
   "description": "Adjustable base font size (default 16px) और आम values की table के साथ px को rem में बदलें।",
-  "id": "/loona-dev-tools/hi/px-to-rem-converter/",
+  "id": "/hi/px-to-rem-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

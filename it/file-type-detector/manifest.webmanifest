@@ -2,7 +2,7 @@
   "name": "Loona Rilevatore del tipo di file online gratuito",
   "short_name": "Rilevatore del tipo di file online gratuito",
   "description": "Rileva il vero tipo di un file online gratuitamente dalla sua firma di intestazione magic-byte - PNG, PDF, ZIP, MP4, EXE e oltre 30 formati - e ricevi un avviso quando l'estensione non concorda. Nulla caricato.",
-  "id": "/loona-dev-tools/it/file-type-detector/",
+  "id": "/it/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

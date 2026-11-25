@@ -2,7 +2,7 @@
   "name": "Loona Konwerter daty na uniksowy znacznik czasu",
   "short_name": "Data na uniksowy znacznik czasu",
   "description": "Konwertuj datę i godzinę na jej uniksowy znacznik czasu w sekundach i milisekundach, w UTC lub lokalnej strefie czasowej.",
-  "id": "/loona-dev-tools/pl/date-to-unix-timestamp/",
+  "id": "/pl/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penguji Robots.txt Dalam Talian Percuma",
   "short_name": "Penguji Robots.txt Dalam Talian Percuma",
   "description": "Uji robots.txt dalam talian percuma - tampal fail, URL, dan user-agent, dan dapatkan putusan diizinkan atau diblokir dengan aturan pencocokan yang tepat dipaparkan. Tanpa pendaftaran, berjalan di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/robots-txt-tester/",
+  "id": "/ms/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

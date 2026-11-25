@@ -2,7 +2,7 @@
   "name": "Loona CSV Profilleyici Çevrimiçi Ücretsiz",
   "short_name": "CSV Profilleyici Çevrimiçi Ücretsiz",
   "description": "Bir CSV dosyasını çevrimiçi ücretsiz profilleyin - sütun başına tür tahminleri, boş hücre sayımları, benzersiz değer sayımları, sayısal min/maks ve üst değerler, yani bir dosyayı kullanmadan önce anlarsınız. Kayıt gerekmez.",
-  "id": "/loona-dev-tools/tr/csv-profiler/",
+  "id": "/tr/csv-profiler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona GZ फ़ाइल एक्सट्रैक्टर ऑनलाइन मुफ़्त",
   "short_name": "GZ फ़ाइल एक्सट्रैक्टर ऑनलाइन मुफ़्त",
   "description": "एक single .gz फ़ाइल को ठीक अपने ब्राउज़र में decompress करें और मूल फ़ाइल download करें — logs, data exports, database dumps। कुछ अपलोड नहीं होता; आपका ब्राउज़र काम natively करता है।",
-  "id": "/loona-dev-tools/hi/gz-file-extractor/",
+  "id": "/hi/gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

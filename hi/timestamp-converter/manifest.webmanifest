@@ -2,7 +2,7 @@
   "name": "Loona Unix Timestamp कन्वर्टर ऑनलाइन मुफ़्त",
   "short_name": "Unix Timestamp कन्वर्टर",
   "description": "Unix timestamps (seconds या milliseconds) को UTC और आपके local time में human dates में बदलें, और dates को वापस timestamps में। Live current time। मुफ़्त।",
-  "id": "/loona-dev-tools/hi/timestamp-converter/",
+  "id": "/hi/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

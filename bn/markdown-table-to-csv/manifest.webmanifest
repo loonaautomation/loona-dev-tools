@@ -2,7 +2,7 @@
   "name": "Loona Markdown টেবিল থেকে CSV কনভার্টার",
   "short_name": "Markdown টেবিল থেকে CSV",
   "description": "একটি Markdown টেবিল CSV-তে রূপান্তর করুন: হেডার ও সারি বের করা, সারিবদ্ধতা সারি সরানো, সেল ছাঁটা ও সঠিকভাবে উদ্ধৃত।",
-  "id": "/loona-dev-tools/bn/markdown-table-to-csv/",
+  "id": "/bn/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

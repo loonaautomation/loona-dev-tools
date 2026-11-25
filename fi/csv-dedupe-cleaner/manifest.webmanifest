@@ -2,7 +2,7 @@
   "name": "Loona CSV-kaksoiskappaleiden poisto & puhdistus verkossa ilmaiseksi",
   "short_name": "CSV-kopioiden poisto & siistiminen verkossa",
   "description": "Poista kaksoisrivit CSV:stä verkossa ilmaiseksi - koko rivin tai avainsarakkeiden mukaan - sekä siisti välilyönnit, pudota tyhjät rivit ja normalisoi rivinpäätteet, ennen/jälkeen-määrien kera. Ei rekisteröitymistä.",
-  "id": "/loona-dev-tools/fi/csv-dedupe-cleaner/",
+  "id": "/fi/csv-dedupe-cleaner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

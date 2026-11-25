@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Píxeis (px) para Em",
   "short_name": "Conversor de Pixels (px) para Em",
   "description": "Converta px para em com um tamanho base de tipo de letra ajustável (predefinição 16px) e uma tabela de valores comuns.",
-  "id": "/loona-dev-tools/pt-br/px-to-em-converter/",
+  "id": "/pt-br/px-to-em-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

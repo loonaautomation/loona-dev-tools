@@ -2,7 +2,7 @@
   "name": "Loona Μεταφραστής Κειμένου σε Κώδικα Μορς",
   "short_name": "Μεταφραστής Κειμένου σε Κώδικα Μορς",
   "description": "Μεταφράστε κείμενο σε κώδικα Μορς (γράμματα, ψηφία και κοινή στίξη), λέξεις χωρισμένες με /. Δωρεάν μεταφραστής Μορς.",
-  "id": "/loona-dev-tools/el/text-to-morse-code/",
+  "id": "/el/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

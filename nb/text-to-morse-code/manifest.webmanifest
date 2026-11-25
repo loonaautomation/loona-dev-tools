@@ -2,7 +2,7 @@
   "name": "Loona tekst til morsekode-oversetter",
   "short_name": "Tekst til morsekode-oversetter",
   "description": "Oversett tekst til morsekode (bokstaver, sifre og vanlig tegnsetting), ord skilt med /. Gratis morseoversetter.",
-  "id": "/loona-dev-tools/nb/text-to-morse-code/",
+  "id": "/nb/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona HTML منی فائر",
   "short_name": "HTML منی فائر",
   "description": "HTML آن لائن منی فائی کریں: تبصرے ہٹائیں اور اسپیس سمیٹیں جبکہ pre، textarea، script اور style مواد کی حفاظت کریں۔",
-  "id": "/loona-dev-tools/ur/html-minifier/",
+  "id": "/ur/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

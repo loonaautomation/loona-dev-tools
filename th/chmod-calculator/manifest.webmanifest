@@ -2,7 +2,7 @@
   "name": "Loona เครื่องคำนวณ Chmod ออนไลน์ฟรี",
   "short_name": "เครื่องคำนวณ Chmod ออนไลน์ฟรี",
   "description": "คำนวณสิทธิ์ chmod ออนไลน์ฟรี: ช่องทำเครื่องหมายเป็นเลขฐานแปด (755) และแบบสัญลักษณ์ (rwxr-xr-x) และเลขฐานแปดกลับเป็นสิทธิ์ ไม่ต้องสมัครสมาชิก ทำงาน 100% ในเบราว์เซอร์ของคุณ",
-  "id": "/loona-dev-tools/th/chmod-calculator/",
+  "id": "/th/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

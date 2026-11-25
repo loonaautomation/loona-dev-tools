@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha JSON kwenda SQL INSERT",
   "short_name": "Kizalishaji cha JSON kwenda SQL INSERT",
   "description": "Zalisha taarifa za INSERT za SQL kutoka safu ya JSON ya vitu: mifululizo imetoroshwa, NULL na boolean hushughulikiwa, jina la jedwali maalum.",
-  "id": "/loona-dev-tools/sw/json-to-sql-insert/",
+  "id": "/sw/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

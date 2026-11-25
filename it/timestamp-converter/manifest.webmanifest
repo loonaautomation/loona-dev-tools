@@ -2,7 +2,7 @@
   "name": "Loona Convertitore di timestamp Unix online gratuito",
   "short_name": "Convertitore di timestamp Unix",
   "description": "Converti timestamp Unix (secondi o millisecondi) in date leggibili in UTC e nella tua ora locale, e date di nuovo in timestamp. Ora attuale live. Gratuito.",
-  "id": "/loona-dev-tools/it/timestamp-converter/",
+  "id": "/it/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

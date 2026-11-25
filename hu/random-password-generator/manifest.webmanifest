@@ -2,7 +2,7 @@
   "name": "Loona véletlenszerű jelszógenerátor",
   "short_name": "Véletlenszerű jelszógenerátor",
   "description": "Generáljon erős véletlen jelszavakat a böngészőjében a WebCrypto API-val: a hossz és a karakterkészletek állíthatók, az entrópia megjelenik.",
-  "id": "/loona-dev-tools/hu/random-password-generator/",
+  "id": "/hu/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

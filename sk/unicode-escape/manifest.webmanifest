@@ -2,7 +2,7 @@
   "name": "Prevodník Loona Unicode Escape (\\uXXXX)",
   "short_name": "Prevodník Unicode Escape",
   "description": "Escapujte text do únikových sekvencií Unicode (\\uXXXX) pre JSON, JavaScript, Javu a súbory properties. Zvláda emoji cez náhradné páry.",
-  "id": "/loona-dev-tools/sk/unicode-escape/",
+  "id": "/sk/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

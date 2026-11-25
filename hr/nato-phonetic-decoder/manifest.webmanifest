@@ -2,7 +2,7 @@
   "name": "Loona dekoder NATO fonetske abecede",
   "short_name": "Dekoder NATO fonetske abecede",
   "description": "Dekodirajte NATO fonetske riječi (Alfa, Bravo, Charlie...) natrag u obična slova i znamenke.",
-  "id": "/loona-dev-tools/hr/nato-phonetic-decoder/",
+  "id": "/hr/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

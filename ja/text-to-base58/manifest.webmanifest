@@ -2,7 +2,7 @@
   "name": "Loona テキスト→Base58エンコーダー",
   "short_name": "テキスト→Base58エンコーダー",
   "description": "テキストをBase58（Bitcoinアルファベット）にオンラインでエンコードします。0、O、I、lを含まない、BitcoinアドレスとIPFSハッシュのエンコーディングです。",
-  "id": "/loona-dev-tools/ja/text-to-base58/",
+  "id": "/ja/text-to-base58/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

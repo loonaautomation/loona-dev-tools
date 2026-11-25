@@ -2,7 +2,7 @@
   "name": "Loona منشئ مخطط JSON-LD عبر الإنترنت مجاناً",
   "short_name": "منشئ مخطط JSON-LD",
   "description": "أنشئ بيانات schema.org JSON-LD المنظمة عبر الإنترنت مجاناً - Article، LocalBusiness، Product، Event، Recipe، Person، Organization، WebSite - ككتلة سكربت جاهزة. دون تسجيل.",
-  "id": "/loona-dev-tools/ar/json-ld-schema-generator/",
+  "id": "/ar/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

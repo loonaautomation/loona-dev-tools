@@ -2,7 +2,7 @@
   "name": "Loona Hexadecimal till decimal-konverterare",
   "short_name": "Hexadecimal till decimal",
   "description": "Konvertera hexadecimala tal till decimalt online — godtycklig precision (BigInt), negativa tal stöds.",
-  "id": "/loona-dev-tools/sv/hex-to-decimal-converter/",
+  "id": "/sv/hex-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

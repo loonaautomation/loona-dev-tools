@@ -2,7 +2,7 @@
   "name": "Loona prevoditelj teksta u Morseov kod",
   "short_name": "Prevoditelj teksta u Morseov kod",
   "description": "Prevedite tekst u Morseov kod (slova, znamenke i uobičajena interpunkcija), riječi odvojene s /. Besplatni prevoditelj Morsea.",
-  "id": "/loona-dev-tools/hr/text-to-morse-code/",
+  "id": "/hr/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

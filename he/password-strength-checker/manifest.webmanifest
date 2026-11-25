@@ -2,7 +2,7 @@
   "name": "בודק חוזק סיסמה של Loona מקוון בחינם",
   "short_name": "בודק חוזק סיסמה",
   "description": "בדקו חוזק סיסמה באופן מקוון בחינם עם אומדן אנטרופיה שקוף, משוב ספציפי ואומדן זמן פריצה. הסיסמה לעולם לא עוזבת את הדפדפן שלכם - שום דבר לא נשלח או נשמר.",
-  "id": "/loona-dev-tools/he/password-strength-checker/",
+  "id": "/he/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

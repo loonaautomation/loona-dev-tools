@@ -2,7 +2,7 @@
   "name": "Loona Generador de esquemas JSON-LD en línea gratis",
   "short_name": "Generador de esquemas JSON-LD",
   "description": "Genera datos estructurados JSON-LD de schema.org en línea gratis (Article, LocalBusiness, Product, Event, Recipe, Person, Organization y WebSite) como un bloque de script listo. Sin registro.",
-  "id": "/loona-dev-tools/es/json-ld-schema-generator/",
+  "id": "/es/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

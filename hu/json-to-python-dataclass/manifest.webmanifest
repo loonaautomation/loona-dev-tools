@@ -2,7 +2,7 @@
   "name": "Loona JSON-ból Python dataclass átalakító",
   "short_name": "JSON-ból Python dataclass",
   "description": "Alakítson JSON-t Python dataclass-okká típustippekkel: a beágyazott objektumok beágyazott dataclass-okká válnak, List típusok a tömbökhöz.",
-  "id": "/loona-dev-tools/hu/json-to-python-dataclass/",
+  "id": "/hu/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

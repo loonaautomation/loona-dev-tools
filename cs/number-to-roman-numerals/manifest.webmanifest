@@ -2,7 +2,7 @@
   "name": "Loona Čísla na římské číslice",
   "short_name": "Čísla na římské číslice",
   "description": "Převádějte čísla (1–3999) na římské číslice ve standardním subtraktivním tvaru. Bezplatný online převodník.",
-  "id": "/loona-dev-tools/cs/number-to-roman-numerals/",
+  "id": "/cs/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

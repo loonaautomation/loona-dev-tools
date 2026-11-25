@@ -2,7 +2,7 @@
   "name": "Loona GZ-tiedostopurkaja verkossa ilmaiseksi",
   "short_name": "GZ-tiedostopurkaja verkossa ilmaiseksi",
   "description": "Pura yksittäinen .gz-tiedosto suoraan selaimessasi ja lataa alkuperäinen tiedosto — lokit, dataviennit, tietokantavedokset. Mitään ei lähetetä palvelimelle; selaimesi tekee työn natiivisti.",
-  "id": "/loona-dev-tools/fi/gz-file-extractor/",
+  "id": "/fi/gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

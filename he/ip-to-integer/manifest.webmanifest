@@ -2,7 +2,7 @@
   "name": "ממיר Loona כתובת IP למספר שלם",
   "short_name": "כתובת IP למספר שלם",
   "description": "המירו כתובת IPv4 לצורת המספר השלם של 32 סיביות שלה (192.168.0.1 → 3232235521), המשמשת במסדי נתונים ובבדיקות טווח.",
-  "id": "/loona-dev-tools/he/ip-to-integer/",
+  "id": "/he/ip-to-integer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

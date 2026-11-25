@@ -2,7 +2,7 @@
   "name": "Loona Hreflang címkegenerátor online ingyen",
   "short_name": "Hreflang címkegenerátor online",
   "description": "Generáljon hreflang címkéket online ingyen - illesszen be nyelv- és URL-párokat, adjon hozzá egy x-default értéket, és kapja meg a teljes alternatív linkkészletet BCP 47 és abszolút URL ellenőrzésekkel. Regisztráció nélkül.",
-  "id": "/loona-dev-tools/hu/hreflang-tag-generator/",
+  "id": "/hu/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

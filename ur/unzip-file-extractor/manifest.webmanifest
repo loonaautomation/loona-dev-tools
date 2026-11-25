@@ -2,7 +2,7 @@
   "name": "Loona ان زِپ فائل ایکسٹریکٹر آن لائن مفت",
   "short_name": "ان زِپ فائل ایکسٹریکٹر آن لائن",
   "description": "اپنے براؤزر میں ایک ZIP فائل کھولیں، اندر ہر فائل اس کے سائز کے ساتھ دیکھیں، اور واحد فائلیں یا ان سب کو نکالیں۔ کچھ اپ لوڈ نہیں ہوتا؛ extraction آپ کے آلے پر ہوتا ہے۔",
-  "id": "/loona-dev-tools/ur/unzip-file-extractor/",
+  "id": "/ur/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง Escape ของ Unicode (\\uXXXX)",
   "short_name": "ตัวแปลงการ Escape ของ Unicode",
   "description": "Escape ข้อความเป็นลำดับ escape ของ Unicode (\\uXXXX) สำหรับ JSON, JavaScript, Java และไฟล์ properties จัดการอีโมจิผ่านคู่ surrogate",
-  "id": "/loona-dev-tools/th/unicode-escape/",
+  "id": "/th/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

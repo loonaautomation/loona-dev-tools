@@ -2,7 +2,7 @@
   "name": "Loona CSV分割＆結合 無料オンライン",
   "short_name": "CSV分割＆結合 無料オンライン",
   "description": "CSVを行数で分割したり、複数のCSVファイルを一つに結合したりできます。無料でオンライン、ヘッダーは正しく処理され、適切なCSV解析です。登録不要、ブラウザで100%動作します。",
-  "id": "/loona-dev-tools/ja/csv-split-merge/",
+  "id": "/ja/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

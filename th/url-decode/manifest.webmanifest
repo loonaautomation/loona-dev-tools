@@ -2,7 +2,7 @@
   "name": "Loona ตัวถอดรหัส URL (การถอดรหัสเปอร์เซ็นต์)",
   "short_name": "ตัวถอดรหัส URL (การถอดรหัสเปอร์เซ็นต์)",
   "description": "ถอดรหัส URL และ query string ที่เข้ารหัสเปอร์เซ็นต์กลับเป็นข้อความที่อ่านได้ รวมถึงลำดับ UTF-8 และ + เป็นช่องว่าง ตัวถอดรหัสออนไลน์ฟรี",
-  "id": "/loona-dev-tools/th/url-decode/",
+  "id": "/th/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

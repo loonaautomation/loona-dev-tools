@@ -2,7 +2,7 @@
   "name": "Loona JSON سے Query String کنورٹر",
   "short_name": "JSON سے Query String کنورٹر",
   "description": "ایک query اسٹرنگ JSON آبجیکٹ سے بنائیں: نیسٹڈ آبجیکٹس بریکٹ نوٹیشن استعمال کرتے ہیں، ارے کنجی دہراتی ہیں، سب کچھ فیصد-انکوڈ شدہ۔",
-  "id": "/loona-dev-tools/ur/json-to-query-string/",
+  "id": "/ur/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 进制转换器 在线免费",
   "short_name": "进制转换器 在线版",
   "description": "免费在线在二进制、八进制、十进制和十六进制之间转换数字，对超过 2^53 的值使用 BigInt 精度，并逐位验证。无需注册，100% 在您的浏览器中运行。",
-  "id": "/loona-dev-tools/zh/number-base-converter/",
+  "id": "/zh/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

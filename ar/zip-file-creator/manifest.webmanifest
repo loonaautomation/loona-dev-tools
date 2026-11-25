@@ -2,7 +2,7 @@
   "name": "Loona منشئ ملفات ZIP عبر الإنترنت مجاناً",
   "short_name": "منشئ ملفات ZIP عبر الإنترنت مجاناً",
   "description": "أنشئ ملف ZIP من ملفات متعددة في متصفحك مباشرة - أضف ملفات، سمِّ الأرشيف ونزّل .zip واحداً. لا يُرفع شيء؛ كل شيء يبقى على جهازك.",
-  "id": "/loona-dev-tools/ar/zip-file-creator/",
+  "id": "/ar/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

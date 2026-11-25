@@ -2,7 +2,7 @@
   "name": "השוואת Loona CSV ו-Diff מקוון בחינם",
   "short_name": "השוואת CSV ו-Diff מקוון בחינם",
   "description": "השוו שני קבצי CSV באופן מקוון בחינם - שורות מותאמות לפי עמודת מפתח ומסווגות כנוספו, הוסרו, שונו (עם התאים המדויקים) או לא שונו. בלי הרשמה, פועל בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/csv-diff/",
+  "id": "/he/csv-diff/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

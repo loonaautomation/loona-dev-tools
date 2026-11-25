@@ -2,7 +2,7 @@
   "name": "Loona Συμπιεστής HTML",
   "short_name": "Συμπιεστής HTML",
   "description": "Συμπιέστε HTML διαδικτυακά: αφαιρέστε σχόλια και συμπτύξτε τα κενά προστατεύοντας τα περιεχόμενα των pre, textarea, script και style.",
-  "id": "/loona-dev-tools/el/html-minifier/",
+  "id": "/el/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

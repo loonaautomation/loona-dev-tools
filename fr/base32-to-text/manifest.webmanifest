@@ -2,7 +2,7 @@
   "name": "Décodeur Loona Base32 vers texte",
   "short_name": "Décodeur Base32 vers texte",
   "description": "Décodez Base32 (RFC 4648) en texte — insensible à la casse, remplissage facultatif. Récupérez les chaînes encodées de style TOTP.",
-  "id": "/loona-dev-tools/fr/base32-to-text/",
+  "id": "/fr/base32-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

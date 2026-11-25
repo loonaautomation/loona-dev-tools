@@ -2,7 +2,7 @@
   "name": "Loona ISO-Datei-Extraktor online kostenlos",
   "short_name": "ISO-Datei-Extraktor online kostenlos",
   "description": "Öffnen Sie ISO-Disc-Images direkt in Ihrem Browser – durchsuchen Sie das auf der virtuellen Disc gespeicherte Dateisystem und laden Sie einzelne Dateien oder alles als ZIP herunter. Nichts wird hochgeladen.",
-  "id": "/loona-dev-tools/de/iso-file-extractor/",
+  "id": "/de/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

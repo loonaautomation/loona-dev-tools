@@ -2,7 +2,7 @@
   "name": "Loona Generator Open Graph & Twitter Card",
   "short_name": "Open Graph & Kartu Twitter",
   "description": "Buat meta tag Open Graph dan Twitter Card online secara gratis, dengan pratinjau kartu sosial langsung - judul, deskripsi, gambar, URL, dan nama situs. Tanpa pendaftaran, berjalan di browser Anda.",
-  "id": "/loona-dev-tools/id/open-graph-generator/",
+  "id": "/id/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

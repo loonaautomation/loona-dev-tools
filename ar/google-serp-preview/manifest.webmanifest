@@ -2,7 +2,7 @@
   "name": "Loona أداة معاينة نتائج بحث Google عبر الإنترنت مجاناً",
   "short_name": "أداة معاينة نتائج بحث Google",
   "description": "عاين كيف سيبدو عنوان صفحتك ووصف meta في نتائج بحث Google عبر الإنترنت مجاناً، مع عروض سطح المكتب والهاتف وتحذيرات قصّ عرض البكسل. دون تسجيل.",
-  "id": "/loona-dev-tools/ar/google-serp-preview/",
+  "id": "/ar/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

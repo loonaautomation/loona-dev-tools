@@ -2,7 +2,7 @@
   "name": "Loona RGB-HSL-muunnin",
   "short_name": "RGB-HSL-muunnin",
   "description": "Muunna värejä RGB:stä HSL:ään verkossa, elävällä värimallilla ja kaikilla muilla muodoilla (HEX, RGB, HSL, HSV, CMYK) myös näytettynä.",
-  "id": "/loona-dev-tools/fi/rgb-to-hsl-converter/",
+  "id": "/fi/rgb-to-hsl-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

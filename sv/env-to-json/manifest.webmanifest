@@ -2,7 +2,7 @@
   "name": "Loona .env till JSON-konverterare",
   "short_name": ".env till JSON-konverterare",
   "description": "Tolka en .env-fil till JSON: KEY=value-rader, export-prefix, kommentarer och citerade värden hanteras.",
-  "id": "/loona-dev-tools/sv/env-to-json/",
+  "id": "/sv/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

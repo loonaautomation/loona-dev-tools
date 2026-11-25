@@ -2,7 +2,7 @@
   "name": "Loona JSON-LD اسکیما جنریٹر آن لائن مفت",
   "short_name": "JSON-LD اسکیما جنریٹر",
   "description": "schema.org JSON-LD ساختی ڈیٹا آن لائن مفت بنائیں - Article, LocalBusiness, Product, Event, Recipe, Person, Organization اور WebSite - ایک تیار script بلاک کے طور پر۔ کوئی سائن اپ نہیں۔",
-  "id": "/loona-dev-tools/ur/json-ld-schema-generator/",
+  "id": "/ur/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

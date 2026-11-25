@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ فائل ایکسٹریکٹر آن لائن مفت",
   "short_name": "TAR.GZ فائل ایکسٹریکٹر آن لائن",
   "description": "tar.gz آرکائیوز عین اپنے براؤزر میں کھولیں - .tar.gz اور مختصر .tgz نام دونوں - اندر ہر فائل دیکھیں اور واحد فائلیں یا سب کچھ بطور ZIP ڈاؤن لوڈ کریں۔ کچھ اپ لوڈ نہیں ہوتا۔",
-  "id": "/loona-dev-tools/ur/tar-gz-file-extractor/",
+  "id": "/ur/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

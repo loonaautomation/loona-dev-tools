@@ -2,7 +2,7 @@
   "name": "Loona Text to Hex Converter",
   "short_name": "Text to Hex Converter",
   "description": "Convert text to hexadecimal (UTF-8 bytes) online, with or without spaces between bytes. Free developer converter.",
-  "id": "/loona-dev-tools/en-us/text-to-hex/",
+  "id": "/en-us/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

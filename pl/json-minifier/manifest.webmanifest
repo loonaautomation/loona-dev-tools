@@ -2,7 +2,7 @@
   "name": "Loona Minifikator JSON",
   "short_name": "Minifikator JSON",
   "description": "Minifikuj JSON online: usuń wszystkie nieistotne białe znaki do jednej zwartej linii, z błędami walidacji raportowanymi dokładnie.",
-  "id": "/loona-dev-tools/pl/json-minifier/",
+  "id": "/pl/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

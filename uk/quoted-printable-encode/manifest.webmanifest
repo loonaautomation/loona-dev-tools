@@ -2,7 +2,7 @@
   "name": "Кодувальник Loona Quoted-Printable",
   "short_name": "Кодувальник Quoted-Printable",
   "description": "Кодуйте текст як quoted-printable (MIME) онлайн: байти UTF-8 як екранування =XX, м’які розриви рядків на 76 символах, згідно з RFC 2045.",
-  "id": "/loona-dev-tools/uk/quoted-printable-encode/",
+  "id": "/uk/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Convertizor TSV în CSV Loona",
   "short_name": "Convertizor TSV în CSV",
   "description": "Convertește TSV (valori separate prin tab) în CSV: lipește date copiate din Excel sau Sheets și obține CSV corect pus între ghilimele.",
-  "id": "/loona-dev-tools/ro/tsv-to-csv/",
+  "id": "/ro/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

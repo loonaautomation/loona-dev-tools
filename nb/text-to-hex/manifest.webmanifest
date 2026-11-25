@@ -2,7 +2,7 @@
   "name": "Loona tekst til heks-konverterer",
   "short_name": "Tekst til heks-konverterer",
   "description": "Konverter tekst til heksadesimal (UTF-8-bytes) på nett, med eller uten mellomrom mellom bytes. Gratis utviklerkonverterer.",
-  "id": "/loona-dev-tools/nb/text-to-hex/",
+  "id": "/nb/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

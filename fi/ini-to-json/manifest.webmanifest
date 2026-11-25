@@ -2,7 +2,7 @@
   "name": "Loona INI-JSON-muunnin",
   "short_name": "INI-JSON-muunnin",
   "description": "Muunna INI-määritystiedostoja JSON:iksi: osiot muuttuvat objekteiksi, arvot tyypitetään (luvut, totuusarvot), kun se on yksiselitteistä.",
-  "id": "/loona-dev-tools/fi/ini-to-json/",
+  "id": "/fi/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

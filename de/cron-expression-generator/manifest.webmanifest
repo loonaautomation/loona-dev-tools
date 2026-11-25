@@ -2,7 +2,7 @@
   "name": "Loona Cron-Ausdruck-Generator online kostenlos",
   "short_name": "Cron-Ausdruck-Generator",
   "description": "Erstellen Sie Cron-Ausdrücke aus Dropdowns und lassen Sie sich jeden Cron-Ausdruck mit 5 Feldern in einfachem Englisch erklären, kostenlos online. Keine Registrierung, läuft zu 100 % in Ihrem Browser.",
-  "id": "/loona-dev-tools/de/cron-expression-generator/",
+  "id": "/de/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ہیش جنریٹر آن لائن مفت",
   "short_name": "ہیش جنریٹر آن لائن مفت",
   "description": "کسی بھی متن کے SHA-1, SHA-256, SHA-384 اور SHA-512 ہیشز آن لائن مفت بنائیں، اپنے براؤزر میں مقامی طور پر گنے گئے۔ کوئی سائن اپ نہیں، کچھ اپ لوڈ نہیں۔",
-  "id": "/loona-dev-tools/ur/hash-generator/",
+  "id": "/ur/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

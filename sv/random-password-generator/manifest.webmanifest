@@ -2,7 +2,7 @@
   "name": "Loona Slumpmässig lösenordsgenerator",
   "short_name": "Slumpmässig Lösenordsgenerator",
   "description": "Generera starka slumpmässiga lösenord i din webbläsare med WebCrypto API: längd och teckenuppsättningar justerbara, entropi visas.",
-  "id": "/loona-dev-tools/sv/random-password-generator/",
+  "id": "/sv/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

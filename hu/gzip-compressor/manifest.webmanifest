@@ -2,7 +2,7 @@
   "name": "Loona GZIP tömörítő online ingyen",
   "short_name": "GZIP tömörítő online ingyen",
   "description": "Tömörítsen bármilyen egyetlen fájlt .gz-be a böngészője beépített gzip motorjával. Azonnali előtte/utána méretek, semmi sem töltődik fel - a fájl az eszközén tömörödik. Naplókhoz, CSV-khez, TAR fájlokhoz és még többhöz működik.",
-  "id": "/loona-dev-tools/hu/gzip-compressor/",
+  "id": "/hu/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JSON سے JSON Schema جنریٹر",
   "short_name": "JSON سے JSON Schema جنریٹر",
   "description": "ایک JSON نمونے سے JSON Schema (draft 2020-12) بنائیں: اقسام اخذ شدہ، آبجیکٹ خصوصیات اور required کنجیاں شامل۔",
-  "id": "/loona-dev-tools/ur/json-to-json-schema/",
+  "id": "/ur/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

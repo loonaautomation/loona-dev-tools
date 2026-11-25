@@ -2,7 +2,7 @@
   "name": "Loona CSV-profilerer på nett gratis",
   "short_name": "CSV-profilerer på nett gratis",
   "description": "Profiler en CSV-fil på nett gratis - per-kolonne typegjett, tomme-celle-tellinger, unike verditellinger, numerisk min/maks og toppverdier, slik at du forstår en fil før du bruker den. Ingen registrering.",
-  "id": "/loona-dev-tools/nb/csv-profiler/",
+  "id": "/nb/csv-profiler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

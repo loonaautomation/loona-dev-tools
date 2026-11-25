@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/hex-to-hsl-converter/",
+  "id": "/en-gb/hex-to-hsl-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

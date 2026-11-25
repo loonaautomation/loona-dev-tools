@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable Kod Çözücü",
   "short_name": "Quoted-Printable Kod Çözücü",
   "description": "Quoted-printable (MIME) metnini okunabilir UTF-8 değerine geri çözün: =XX kaçışları ve yumuşak satır sonları RFC 2045 uyarınca işlenir.",
-  "id": "/loona-dev-tools/tr/quoted-printable-decode/",
+  "id": "/tr/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

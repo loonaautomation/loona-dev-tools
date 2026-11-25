@@ -2,7 +2,7 @@
   "name": "Loona TAR File Extractor Online Free",
   "short_name": "TAR File Extractor Online Free",
   "description": "Open TAR archives right in your browser - plain .tar as well as .tar.bz2 and .tar.xz - see every file inside and download single files or everything as a ZIP. Nothing is uploaded.",
-  "id": "/loona-dev-tools/tar-file-extractor/",
+  "id": "/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

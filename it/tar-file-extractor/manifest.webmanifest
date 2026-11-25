@@ -2,7 +2,7 @@
   "name": "Loona Estrattore di file TAR online gratuito",
   "short_name": "Estrattore di file TAR online gratuito",
   "description": "Apri archivi TAR direttamente nel tuo browser - .tar semplice così come .tar.bz2 e .tar.xz - vedi ogni file dentro e scarica singoli file o tutto come ZIP. Nulla viene caricato.",
-  "id": "/loona-dev-tools/it/tar-file-extractor/",
+  "id": "/it/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona pretvarač YAML u TOML",
   "short_name": "Pretvarač YAML u TOML",
   "description": "Pretvorite YAML u TOML na mreži (putem zajedničkog podatkovnog modela): tablice, skalari i polja preslikani na pravila rasporeda TOML-a.",
-  "id": "/loona-dev-tools/hr/yaml-to-toml/",
+  "id": "/hr/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

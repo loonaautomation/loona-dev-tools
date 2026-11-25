@@ -2,7 +2,7 @@
   "name": "Loona sluggenerator (URL-slugmaker)",
   "short_name": "Sluggenerator (URL-slug",
   "description": "Generer rene URL-slugg-er fra titler: aksenter fjernet, små bokstaver, mellomrom til bindestreker (eller understreker). Gratis slug-maker.",
-  "id": "/loona-dev-tools/nb/slug-generator/",
+  "id": "/nb/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

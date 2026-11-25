@@ -2,7 +2,7 @@
   "name": "Loona JSON-Formatierer online kostenlos",
   "short_name": "JSON-Formatierer online kostenlos",
   "description": "Formatieren, validieren und minifizieren Sie JSON kostenlos online, mit der exakten Zeile und Spalte jedes Fehlers. Keine Registrierung, läuft zu 100 % in Ihrem Browser.",
-  "id": "/loona-dev-tools/de/json-formatter/",
+  "id": "/de/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

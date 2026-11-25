@@ -2,7 +2,7 @@
   "name": "Loona filtypedetektor på nett gratis",
   "short_name": "Filtypedetektor på nett gratis",
   "description": "Oppdag en fils virkelige type på nett gratis fra topptekstsignaturen av magiske bytes - PNG, PDF, ZIP, MP4, EXE og 30+ formater - og få en advarsel når filendelsen er uenig. Ingenting lastet opp.",
-  "id": "/loona-dev-tools/nb/file-type-detector/",
+  "id": "/nb/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

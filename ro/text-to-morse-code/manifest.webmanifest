@@ -2,7 +2,7 @@
   "name": "Traducător text în cod Morse Loona",
   "short_name": "Traducător text în cod Morse",
   "description": "Tradu text în cod Morse (litere, cifre și punctuație comună), cuvintele separate prin /. Traducător Morse gratuit.",
-  "id": "/loona-dev-tools/ro/text-to-morse-code/",
+  "id": "/ro/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

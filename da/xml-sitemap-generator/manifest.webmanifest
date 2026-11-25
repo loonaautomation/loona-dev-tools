@@ -2,7 +2,7 @@
   "name": "Loona XML-sitemapgenerator online gratis",
   "short_name": "XML-sitemapgenerator online",
   "description": "Generér et gyldigt XML-sitemap online gratis ud fra en liste af URL'er, med standard lastmod, changefreq og priority, korrekt URL- og XML-escaping. Ingen tilmelding, kører i din browser.",
-  "id": "/loona-dev-tools/da/xml-sitemap-generator/",
+  "id": "/da/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

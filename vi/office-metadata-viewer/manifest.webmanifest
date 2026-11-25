@@ -2,7 +2,7 @@
   "name": "Trình xem siêu dữ liệu tài liệu Office của Loona trực tuyến",
   "short_name": "Siêu dữ liệu tài liệu Office",
   "description": "Xem siêu dữ liệu tài liệu Office trực tuyến miễn phí - tiêu đề, tác giả, công ty, ngày tạo và ngày sửa đổi, ứng dụng và phiên bản cho các tệp .docx, .xlsx và .pptx. Chỉ xem, không có gì được tải lên.",
-  "id": "/loona-dev-tools/vi/office-metadata-viewer/",
+  "id": "/vi/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

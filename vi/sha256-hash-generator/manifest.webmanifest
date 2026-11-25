@@ -2,7 +2,7 @@
   "name": "Trình tạo hash SHA-256 của Loona",
   "short_name": "Trình tạo hash SHA-256",
   "description": "Tính hash SHA-256 của văn bản hoặc tệp trực tuyến: 256 bit, 64 ký tự hex. Chạy cục bộ trong trình duyệt của bạn bằng WebCrypto/JS thuần — tệp không bao giờ được tải lên.",
-  "id": "/loona-dev-tools/vi/sha256-hash-generator/",
+  "id": "/vi/sha256-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

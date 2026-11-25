@@ -2,7 +2,7 @@
   "name": "Loona YAML til JSON-konverterer på nett gratis",
   "short_name": "YAML til JSON-konverterer på nett",
   "description": "Konverter YAML til JSON og JSON til YAML på nett gratis. Støtter den hverdagslige delmengden: nøstede kart, lister og skalarer, med grensene oppgitt ærlig. Ingen registrering, kjører 100 % i nettleseren din.",
-  "id": "/loona-dev-tools/nb/yaml-json-converter/",
+  "id": "/nb/yaml-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

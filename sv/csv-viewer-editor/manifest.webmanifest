@@ -2,7 +2,7 @@
   "name": "Loona CSV-visare och redigerare online gratis",
   "short_name": "CSV-visare och redigerare online",
   "description": "Visa och redigera CSV-filer online gratis i ett redigerbart tabellrutnät - redigera celler, sortera kolumner, lägg till eller ta bort rader och kolumner, och ladda sedan ner den redigerade CSV:n. Ingen registrering, körs i din webbläsare.",
-  "id": "/loona-dev-tools/sv/csv-viewer-editor/",
+  "id": "/sv/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Referensi Kode Status HTTP",
   "short_name": "Referensi Kode Status HTTP",
   "description": "Setiap kode status HTTP umum beserta maknanya: 2xx keberhasilan, 3xx pengalihan, 4xx kesalahan klien, 5xx kesalahan server — dijelaskan dengan sederhana.",
-  "id": "/loona-dev-tools/id/http-status-codes/",
+  "id": "/id/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

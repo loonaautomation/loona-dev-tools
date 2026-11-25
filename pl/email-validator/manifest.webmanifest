@@ -2,7 +2,7 @@
   "name": "Loona Walidator adresów e-mail online za darmo",
   "short_name": "Walidator adresów e-mail online za darmo",
   "description": "Waliduj adresy e-mail online za darmo, pojedynczo lub hurtowo - pełne kontrole składni względem reguł adresów plus wykrywanie popularnych literówek w domenach, takich jak gmial.com. Bez rejestracji.",
-  "id": "/loona-dev-tools/pl/email-validator/",
+  "id": "/pl/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

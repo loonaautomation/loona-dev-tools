@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha ZIP kwenda TAR",
   "short_name": "Kibadilishaji cha ZIP kwenda TAR",
   "description": "Badilisha hifadhi za ZIP kuwa TAR isiyobanwa mtandaoni: faili na folda zile zile, zimepakiwa upya kwa mwandishi wa TAR anayezingatia viwango. Ya ndani kabisa.",
-  "id": "/loona-dev-tools/sw/zip-to-tar-converter/",
+  "id": "/sw/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

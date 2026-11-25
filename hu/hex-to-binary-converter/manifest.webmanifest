@@ -2,7 +2,7 @@
   "name": "Loona hexadecimálisból binárissá átalakító",
   "short_name": "Hexadecimálisból binárisba",
   "description": "Alakítson hexadecimális számokat binárissá online — tetszőleges pontosság (BigInt), negatív számok támogatva.",
-  "id": "/loona-dev-tools/hu/hex-to-binary-converter/",
+  "id": "/hu/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

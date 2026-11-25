@@ -2,7 +2,7 @@
   "name": "Loona JSON से JSON Schema जनरेटर",
   "short_name": "JSON से JSON Schema जनरेटर",
   "description": "JSON sample से एक JSON Schema (draft 2020-12) generate करें: types inferred, object properties और required keys शामिल।",
-  "id": "/loona-dev-tools/hi/json-to-json-schema/",
+  "id": "/hi/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

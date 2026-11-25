@@ -2,7 +2,7 @@
   "name": "Loona Calculadora Chmod Online Grátis",
   "short_name": "Calculadora Chmod Online Grátis",
   "description": "Calcule permissões chmod online grátis: caixas de verificação para octal (755) e simbólico (rwxr-xr-x), e octal de volta para permissões. Sem registro, funciona 100% no seu navegador.",
-  "id": "/loona-dev-tools/pt-br/chmod-calculator/",
+  "id": "/pt-br/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

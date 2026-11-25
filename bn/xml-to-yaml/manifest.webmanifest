@@ -2,7 +2,7 @@
   "name": "Loona XML থেকে YAML কনভার্টার",
   "short_name": "XML থেকে YAML কনভার্টার",
   "description": "XML YAML-এ রূপান্তর করুন: অ্যাট্রিবিউট @keys হিসেবে, পুনরাবৃত্ত উপাদান তালিকা হিসেবে, মান টাইপ করা। আসল পার্সার, রেজেক্স নয়।",
-  "id": "/loona-dev-tools/bn/xml-to-yaml/",
+  "id": "/bn/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

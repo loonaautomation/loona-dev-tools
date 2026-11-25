@@ -2,7 +2,7 @@
   "name": "Loona محوّل الترميز العلمي",
   "short_name": "محوّل الترميز العلمي",
   "description": "حوّل الأرقام إلى الترميز العلمي ومنه: 3200000 ⇄ 3.2 × 10^6، وترميز E مدعوم في كلا الاتجاهين.",
-  "id": "/loona-dev-tools/ar/scientific-notation-converter/",
+  "id": "/ar/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

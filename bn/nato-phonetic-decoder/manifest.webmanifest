@@ -2,7 +2,7 @@
   "name": "Loona NATO ধ্বনিগত বর্ণমালা ডিকোডার",
   "short_name": "NATO ধ্বনিগত বর্ণমালা ডিকোডার",
   "description": "NATO ধ্বনিগত শব্দ (Alfa, Bravo, Charlie...) আবার সাধারণ অক্ষর ও সংখ্যায় ডিকোড করুন।",
-  "id": "/loona-dev-tools/bn/nato-phonetic-decoder/",
+  "id": "/bn/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona hexadecimálisból oktálissá átalakító",
   "short_name": "Hexadecimális–oktális átalakító",
   "description": "Alakítson hexadecimális számokat oktálissá online — tetszőleges pontosság (BigInt), negatív számok támogatva.",
-  "id": "/loona-dev-tools/hu/hex-to-octal-converter/",
+  "id": "/hu/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

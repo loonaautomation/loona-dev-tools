@@ -2,7 +2,7 @@
   "name": "Loona مستخرج بيانات CSV عبر الإنترنت مجاناً",
   "short_name": "مستخرج بيانات CSV عبر الإنترنت مجاناً",
   "description": "استخرج عناوين البريد وأرقام الهواتف وعناوين URL من ملفات CSV فوضوية أو أي نص عبر الإنترنت مجاناً - قوائم منظّفة ومزالة التكرار يمكنك تنزيلها. دون تسجيل، يعمل في متصفحك.",
-  "id": "/loona-dev-tools/ar/csv-data-extractor/",
+  "id": "/ar/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

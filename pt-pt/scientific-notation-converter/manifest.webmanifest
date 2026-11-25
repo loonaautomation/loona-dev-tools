@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Notação Científica",
   "short_name": "Conversor de Notação Científica",
   "description": "Converta números para e a partir de notação científica: 3200000 ⇄ 3.2 × 10^6, notação E suportada nos dois sentidos.",
-  "id": "/loona-dev-tools/pt-pt/scientific-notation-converter/",
+  "id": "/pt-pt/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Extractor de archivos ISO en línea gratis",
   "short_name": "Extractor de archivos ISO en línea gratis",
   "description": "Abre imágenes de disco ISO directamente en tu navegador: explora el sistema de archivos guardado en el disco virtual y descarga archivos individuales o todo como un ZIP. Nada se sube.",
-  "id": "/loona-dev-tools/es/iso-file-extractor/",
+  "id": "/es/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

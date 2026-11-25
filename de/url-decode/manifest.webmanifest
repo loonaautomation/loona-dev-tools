@@ -2,7 +2,7 @@
   "name": "Loona URL-Decodierung (Prozentdecodierung)",
   "short_name": "URL-Decodierung (Prozentdecodierung)",
   "description": "Decodieren Sie prozentcodierte URLs und Query-Strings zurück zu lesbarem Text, einschließlich UTF-8-Sequenzen und + als Leerzeichen. Kostenloser Online-Decoder.",
-  "id": "/loona-dev-tools/de/url-decode/",
+  "id": "/de/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

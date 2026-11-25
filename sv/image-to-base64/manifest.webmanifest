@@ -2,7 +2,7 @@
   "name": "Loona Bild till Base64-konverterare",
   "short_name": "Bild till Base64-konverterare",
   "description": "Konvertera en bild (PNG, JPG, GIF, WebP, SVG) till en Base64-data-URI online — filen läses lokalt, med dimensioner och storleksstatistik.",
-  "id": "/loona-dev-tools/sv/image-to-base64/",
+  "id": "/sv/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

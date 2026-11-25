@@ -2,7 +2,7 @@
   "name": "Loona Markdown-tabell till CSV-konverterare",
   "short_name": "Markdown-tabell till CSV",
   "description": "Konvertera en Markdown-tabell till CSV: rubrik och rader extraherade, justeringsrad borttagen, celler trimmade och korrekt citerade.",
-  "id": "/loona-dev-tools/sv/markdown-table-to-csv/",
+  "id": "/sv/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JSON मिनिफ़ायर",
   "short_name": "JSON मिनिफ़ायर",
   "description": "JSON ऑनलाइन minify करें: सभी insignificant whitespace को एक single compact line में strip करें, validation errors ठीक बताए गए।",
-  "id": "/loona-dev-tools/hi/json-minifier/",
+  "id": "/hi/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

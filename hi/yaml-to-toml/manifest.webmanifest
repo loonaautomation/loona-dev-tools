@@ -2,7 +2,7 @@
   "name": "Loona YAML से TOML कन्वर्टर",
   "short_name": "YAML से TOML कन्वर्टर",
   "description": "YAML को TOML में ऑनलाइन बदलें (shared data model के ज़रिए): tables, scalars और arrays TOML layout rules पर mapped।",
-  "id": "/loona-dev-tools/hi/yaml-to-toml/",
+  "id": "/hi/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

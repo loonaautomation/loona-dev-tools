@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator Checksum CRC32",
   "short_name": "Kalkulator Checksum CRC32",
   "description": "Kira hash CRC32 dari teks atau fail dalam talian: 32-bit, 8 aksara heks. Berjalan secara setempat di pelayar Anda dengan WebCrypto/JS murni — fail tidak pernah dimuat naik.",
-  "id": "/loona-dev-tools/ms/crc32-calculator/",
+  "id": "/ms/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

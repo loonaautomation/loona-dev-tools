@@ -2,7 +2,7 @@
   "name": "Loona Generador de etiquetas hreflang en línea gratis",
   "short_name": "Generador de etiquetas hreflang en línea",
   "description": "Genera etiquetas hreflang en línea gratis: pega pares de idioma y URL, añade un x-default y obtén el conjunto completo de enlaces alternativos con comprobaciones BCP 47 y de URL absolutas. Sin registro.",
-  "id": "/loona-dev-tools/es/hreflang-tag-generator/",
+  "id": "/es/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

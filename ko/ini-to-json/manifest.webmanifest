@@ -2,7 +2,7 @@
   "name": "Loona INI를 JSON으로 변환",
   "short_name": "INI를 JSON으로 변환",
   "description": "INI 구성 파일을 JSON으로 변환해요: 섹션은 객체가 되고, 값은 모호하지 않은 곳에서 타입이 부여돼요(숫자, 불리언).",
-  "id": "/loona-dev-tools/ko/ini-to-json/",
+  "id": "/ko/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

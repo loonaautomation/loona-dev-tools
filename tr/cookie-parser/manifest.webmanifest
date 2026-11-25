@@ -2,7 +2,7 @@
   "name": "Loona Çerez Başlığı Ayrıştırıcı",
   "short_name": "Çerez Başlığı Ayrıştırıcı",
   "description": "Bir Cookie başlığını okunabilir bir listeye ayrıştırın: ad = değer çiftleri, yüzde çözülmüş değerler gösterilir, çerez sayısı.",
-  "id": "/loona-dev-tools/tr/cookie-parser/",
+  "id": "/tr/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

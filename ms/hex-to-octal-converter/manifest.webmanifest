@@ -2,7 +2,7 @@
   "name": "Loona Penukar Heksadesimal ke Oktal",
   "short_name": "Penukar Heksadesimal ke Oktal",
   "description": "Penukaran angka heksadesimal ke oktal dalam talian — presisi arbitrer (BigInt), angka negatif didukung.",
-  "id": "/loona-dev-tools/ms/hex-to-octal-converter/",
+  "id": "/ms/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

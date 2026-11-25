@@ -2,7 +2,7 @@
   "name": "Loona IP-undernetberegner online gratis",
   "short_name": "IP-undernetberegner online",
   "description": "Beregn IPv4-undernet online gratis – netværk, broadcast, netmaske, wildcard, første og sidste vært, antal brugbare værter og IP-klasse ud fra enhver CIDR-adresse, plus en visning til undernetopdeling.",
-  "id": "/loona-dev-tools/da/ip-subnet-calculator/",
+  "id": "/da/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Vizualizator și editor CSV Loona online gratuit",
   "short_name": "Vizualizator și editor CSV online",
   "description": "Vizualizează și editează fișiere CSV online gratuit într-o grilă de tabel editabilă - editează celule, sortează coloane, adaugă sau elimină rânduri și coloane, apoi descarcă CSV-ul editat. Fără înregistrare, rulează în browserul tău.",
-  "id": "/loona-dev-tools/ro/csv-viewer-editor/",
+  "id": "/ro/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

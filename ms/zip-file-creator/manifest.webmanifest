@@ -2,7 +2,7 @@
   "name": "Loona Pembina Fail ZIP Dalam Talian Percuma",
   "short_name": "Pembina Fail ZIP Dalam Talian Percuma",
   "description": "Buat fail ZIP dari beberapa fail langsung di pelayar Anda - tambahkan fail, beri nama arkib, dan muat turun satu .zip. Tidak ada yang dimuat naik; semuanya tetap berada di peranti Anda.",
-  "id": "/loona-dev-tools/ms/zip-file-creator/",
+  "id": "/ms/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

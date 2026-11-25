@@ -2,7 +2,7 @@
   "name": "Loona XML-sivustokarttageneraattori verkossa ilmaiseksi",
   "short_name": "XML-sivustokarttageneraattori verkossa",
   "description": "Luo kelvollinen XML-sivustokartta verkossa ilmaiseksi URL-luettelosta, oletusarvoilla lastmod, changefreq ja priority, oikealla URL- ja XML-pakotuksella. Ei rekisteröitymistä, toimii selaimessasi.",
-  "id": "/loona-dev-tools/fi/xml-sitemap-generator/",
+  "id": "/fi/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

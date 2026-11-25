@@ -2,7 +2,7 @@
   "name": "Loona JSONPath-testare",
   "short_name": "JSONPath-testare",
   "description": "Testa JSONPath-uttryck mot ett JSON-dokument: punktnotation, index, jokertecken och rekursiv nedstigning ($..key) stöds.",
-  "id": "/loona-dev-tools/sv/jsonpath-tester/",
+  "id": "/sv/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

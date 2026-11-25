@@ -2,7 +2,7 @@
   "name": "Prevodník Loona TAR na ZIP online zadarmo",
   "short_name": "Prevodník TAR na ZIP online",
   "description": "Preveďte archív TAR (.tar) na súbor ZIP priamo vo svojom prehliadači. Súbory TAR pochádzajú zo systémov Linux a Unix; prevedený ZIP sa natívne otvorí vo Windows, macOS a telefónoch. Nič sa nenahráva.",
-  "id": "/loona-dev-tools/sk/tar-to-zip-converter/",
+  "id": "/sk/tar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

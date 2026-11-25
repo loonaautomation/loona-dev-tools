@@ -2,7 +2,7 @@
   "name": "Loona محوّل JSON إلى CSV عبر الإنترنت مجاناً",
   "short_name": "محوّل JSON إلى CSV عبر الإنترنت",
   "description": "حوّل مصفوفة JSON من الكائنات إلى CSV عبر الإنترنت مجاناً: اتحاد المفاتيح كأعمدة، اقتباس وتهريب صحيحان، قيم متداخلة محفوظة كـ JSON. دون تسجيل، يعمل 100% في متصفحك.",
-  "id": "/loona-dev-tools/ar/json-to-csv-converter/",
+  "id": "/ar/json-to-csv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

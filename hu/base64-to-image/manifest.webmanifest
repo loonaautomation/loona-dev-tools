@@ -2,7 +2,7 @@
   "name": "Loona Base64-ből képpé átalakító",
   "short_name": "Base64–kép átalakító",
   "description": "Dekódoljon egy Base64 karakterláncot vagy data URI-t vissza megtekinthető, letölthető képpé. A MIME típus a bájtokból felismerve.",
-  "id": "/loona-dev-tools/hu/base64-to-image/",
+  "id": "/hu/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

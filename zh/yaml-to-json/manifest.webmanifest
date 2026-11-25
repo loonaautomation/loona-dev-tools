@@ -2,7 +2,7 @@
   "name": "Loona YAML 转 JSON 转换器",
   "short_name": "YAML 转 JSON 转换器",
   "description": "在线把 YAML 转换成 JSON：块映射和序列、带引号和普通标量、流式集合。子集诚实记录。",
-  "id": "/loona-dev-tools/zh/yaml-to-json/",
+  "id": "/zh/yaml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

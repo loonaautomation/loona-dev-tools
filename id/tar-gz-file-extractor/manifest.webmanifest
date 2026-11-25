@@ -2,7 +2,7 @@
   "name": "Loona Ekstraktor File TAR.GZ Online Gratis",
   "short_name": "Ekstraktor File TAR.GZ Online",
   "description": "Buka arsip tar.gz langsung di browser Anda - baik .tar.gz maupun nama singkat .tgz - lihat setiap file di dalamnya dan unduh file tunggal atau semuanya sebagai ZIP. Tidak ada yang diunggah.",
-  "id": "/loona-dev-tools/id/tar-gz-file-extractor/",
+  "id": "/id/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

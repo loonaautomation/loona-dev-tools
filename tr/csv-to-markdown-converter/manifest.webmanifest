@@ -2,7 +2,7 @@
   "name": "Loona CSV - Markdown Tablo Dönüştürücü Çevrimiçi",
   "short_name": "CSV - Markdown Tablo",
   "description": "CSV değerini çevrimiçi ücretsiz bir Markdown tablosuna dönüştürün - sayısal sütunlar otomatik sağa hizalı ve boru karakterleri doğru kaçışlı. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/csv-to-markdown-converter/",
+  "id": "/tr/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

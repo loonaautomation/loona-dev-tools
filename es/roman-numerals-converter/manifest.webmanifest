@@ -2,7 +2,7 @@
   "name": "Loona De números romanos a números",
   "short_name": "De números romanos a números",
   "description": "Convierte números romanos a números (1–3999), con validación estricta de la notación sustractiva (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/es/roman-numerals-converter/",
+  "id": "/es/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

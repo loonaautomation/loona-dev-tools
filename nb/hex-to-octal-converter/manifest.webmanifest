@@ -2,7 +2,7 @@
   "name": "Loona heksadesimal til oktal-konverterer",
   "short_name": "Heksadesimal til oktal-konverterer",
   "description": "Konverter heksadesimale tall til oktal på nett — vilkårlig presisjon (BigInt), negative tall støttes.",
-  "id": "/loona-dev-tools/nb/hex-to-octal-converter/",
+  "id": "/nb/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

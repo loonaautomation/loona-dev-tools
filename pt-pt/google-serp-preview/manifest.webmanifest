@@ -2,7 +2,7 @@
   "name": "Loona Ferramenta de Pré-visualização Google SERP Online Grátis",
   "short_name": "Ferramenta de Pré-visualização Google SERP",
   "description": "Pré-visualize como o título da sua página e a meta description ficarão nos resultados de pesquisa do Google online gratuitamente, com vistas de ambiente de trabalho e telemóvel e avisos de truncamento por largura em píxeis. Sem registo.",
-  "id": "/loona-dev-tools/pt-pt/google-serp-preview/",
+  "id": "/pt-pt/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

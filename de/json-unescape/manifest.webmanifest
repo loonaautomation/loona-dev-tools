@@ -2,7 +2,7 @@
   "name": "Loona JSON-String-Unescape",
   "short_name": "JSON-String-Unescape",
   "description": "Escapen Sie einen JSON-String-Wert zurück zu einfachem Text aufheben: \\n, \\t, \\&quot;, \\\\ und \\uXXXX-Sequenzen werden zu echten Zeichen.",
-  "id": "/loona-dev-tools/de/json-unescape/",
+  "id": "/de/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

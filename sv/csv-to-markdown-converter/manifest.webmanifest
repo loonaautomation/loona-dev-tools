@@ -2,7 +2,7 @@
   "name": "Loona CSV till Markdown-tabellkonverterare online",
   "short_name": "CSV till Markdown-tabell",
   "description": "Konvertera CSV till en Markdown-tabell online gratis - numeriska kolumner högerjusterade automatiskt och pipetecken korrekt escapade. Ingen registrering, körs 100% i din webbläsare.",
-  "id": "/loona-dev-tools/sv/csv-to-markdown-converter/",
+  "id": "/sv/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

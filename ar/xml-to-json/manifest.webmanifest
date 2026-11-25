@@ -2,7 +2,7 @@
   "name": "Loona محوّل XML إلى JSON",
   "short_name": "محوّل XML إلى JSON",
   "description": "حوّل XML إلى JSON عبر الإنترنت: السمات كـ @keys، العناصر المكرّرة كمصفوفات، النص كقيم مع أرقام مكتوبة الأنواع.",
-  "id": "/loona-dev-tools/ar/xml-to-json/",
+  "id": "/ar/xml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

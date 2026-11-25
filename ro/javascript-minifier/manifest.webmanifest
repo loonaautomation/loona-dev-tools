@@ -2,7 +2,7 @@
   "name": "Minificator JavaScript Loona online gratuit",
   "short_name": "Minificator JavaScript online",
   "description": "Minifică JavaScript online gratuit cu un tokenizator conservator care protejează șirurile, literele șablon și expresiile regulate. Fără înregistrare, rulează 100% în browserul tău.",
-  "id": "/loona-dev-tools/ro/javascript-minifier/",
+  "id": "/ro/javascript-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

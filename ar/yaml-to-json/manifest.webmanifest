@@ -2,7 +2,7 @@
   "name": "Loona محوّل YAML إلى JSON",
   "short_name": "محوّل YAML إلى JSON",
   "description": "حوّل YAML إلى JSON عبر الإنترنت: خرائط وتسلسلات كتلية، قياسات مقتبسة وعادية، مجموعات تدفق. مجموعة فرعية موثّقة بصراحة.",
-  "id": "/loona-dev-tools/ar/yaml-to-json/",
+  "id": "/ar/yaml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

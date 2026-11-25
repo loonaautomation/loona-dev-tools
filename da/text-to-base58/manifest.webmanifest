@@ -2,7 +2,7 @@
   "name": "Loona tekst til Base58-koder",
   "short_name": "Tekst til Base58-koder",
   "description": "Kod tekst til Base58 (Bitcoin-alfabetet) online — ingen 0, O, I eller l, kodningen i Bitcoin-adresser og IPFS-hashes.",
-  "id": "/loona-dev-tools/da/text-to-base58/",
+  "id": "/da/text-to-base58/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

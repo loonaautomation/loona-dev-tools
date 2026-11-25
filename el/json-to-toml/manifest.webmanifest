@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας JSON σε TOML",
   "short_name": "Μετατροπέας JSON σε TOML",
   "description": "Μετατρέψτε JSON σε TOML διαδικτυακά: πρώτα οι βαθμωτές τιμές, τα ένθετα αντικείμενα ως [πίνακες], οι πίνακες αντικειμένων ως [[πίνακες]].",
-  "id": "/loona-dev-tools/el/json-to-toml/",
+  "id": "/el/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

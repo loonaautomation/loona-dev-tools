@@ -2,7 +2,7 @@
   "name": "Loona テキスト→二進数変換ツール",
   "short_name": "テキスト→二進数変換ツール",
   "description": "テキストを二進数に変換：すべての文字を、そのUTF-8バイトの8ビット二進数グループとして。無料のオンライン変換ツール。",
-  "id": "/loona-dev-tools/ja/text-to-binary/",
+  "id": "/ja/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

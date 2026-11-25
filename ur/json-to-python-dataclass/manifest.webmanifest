@@ -2,7 +2,7 @@
   "name": "Loona JSON سے Python Dataclass کنورٹر",
   "short_name": "JSON سے Python Dataclass",
   "description": "JSON کو Python dataclasses میں type hints کے ساتھ بدلیں: نیسٹڈ آبجیکٹس نیسٹڈ dataclasses بن جاتے ہیں، ارے کے لیے List اقسام۔",
-  "id": "/loona-dev-tools/ur/json-to-python-dataclass/",
+  "id": "/ur/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

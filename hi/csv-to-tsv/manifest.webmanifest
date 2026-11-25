@@ -2,7 +2,7 @@
   "name": "Loona CSV से TSV कन्वर्टर",
   "short_name": "CSV से TSV कन्वर्टर",
   "description": "CSV को TSV (tab-separated values) में बदलें: full quoted-field parsing, delimiters के रूप में tabs। मुफ़्त ऑनलाइन converter।",
-  "id": "/loona-dev-tools/hi/csv-to-tsv/",
+  "id": "/hi/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CRC32 Checksum Calculator",
   "short_name": "CRC32 Checksum Calculator",
   "description": "Compute CRC32 hashes of text or files online: 32-bit, 8 hex characters. Runs locally in your browser with WebCrypto/pure JS — files are never uploaded.",
-  "id": "/loona-dev-tools/en-us/crc32-calculator/",
+  "id": "/en-us/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

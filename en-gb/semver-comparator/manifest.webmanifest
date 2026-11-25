@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/semver-comparator/",
+  "id": "/en-gb/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

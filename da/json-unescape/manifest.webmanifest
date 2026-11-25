@@ -2,7 +2,7 @@
   "name": "Loona JSON-streng-afescape",
   "short_name": "JSON-streng-afescape",
   "description": "Afescape en JSON-strengværdi tilbage til almindelig tekst: \\n-, \\t-, \\&quot;-, \\\\- og \\uXXXX-sekvenser bliver til ægte tegn.",
-  "id": "/loona-dev-tools/da/json-unescape/",
+  "id": "/da/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona স্লাগ জেনারেটর (URL স্লাগ নির্মাতা)",
   "short_name": "স্লাগ জেনারেটর (URL স্লাগ",
   "description": "শিরোনাম থেকে পরিষ্কার URL স্লাগ তৈরি করুন: উচ্চারণ ছাঁটা, ছোট হাতের, স্পেস হাইফেনে (বা আন্ডারস্কোর)। বিনামূল্যে স্লাগ নির্মাতা।",
-  "id": "/loona-dev-tools/bn/slug-generator/",
+  "id": "/bn/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

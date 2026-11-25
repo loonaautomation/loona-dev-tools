@@ -2,7 +2,7 @@
   "name": "Loona JSON→Pythonデータクラス変換ツール",
   "short_name": "JSON→Pythonデータクラス",
   "description": "JSONを型ヒント付きのPythonデータクラスに変換：ネストしたオブジェクトはネストしたデータクラスになり、配列には List 型。",
-  "id": "/loona-dev-tools/ja/json-to-python-dataclass/",
+  "id": "/ja/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

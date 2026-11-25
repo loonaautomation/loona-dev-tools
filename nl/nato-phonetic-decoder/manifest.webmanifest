@@ -2,7 +2,7 @@
   "name": "Loona NAVO-spelalfabet-decoder",
   "short_name": "NAVO-spelalfabet-decoder",
   "description": "Decodeer NAVO-spelalfabetwoorden (Alfa, Bravo, Charlie...) terug naar gewone letters en cijfers.",
-  "id": "/loona-dev-tools/nl/nato-phonetic-decoder/",
+  "id": "/nl/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

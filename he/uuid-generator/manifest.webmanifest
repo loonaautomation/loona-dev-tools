@@ -2,7 +2,7 @@
   "name": "מחולל UUID של Loona מקוון בחינם",
   "short_name": "מחולל UUID מקוון בחינם",
   "description": "צרו UUID-ים אקראיים גרסה 4 באופן מקוון בחינם - בודד או בכמות עד 100, אפשרויות אותיות גדולות ובלי מקפים. אקראי קריפטוגרפית, בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/uuid-generator/",
+  "id": "/he/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

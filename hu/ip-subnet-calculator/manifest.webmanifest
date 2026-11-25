@@ -2,7 +2,7 @@
   "name": "Loona IP alhálózati kalkulátor online ingyen",
   "short_name": "IP alhálózati kalkulátor online",
   "description": "Számítson IPv4 alhálózatokat online ingyen - hálózat, szórás, hálózati maszk, wildcard, első és utolsó host, használható hostok száma és IP osztály bármely CIDR címből, plusz egy alhálózat-bontási nézet.",
-  "id": "/loona-dev-tools/hu/ip-subnet-calculator/",
+  "id": "/hu/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

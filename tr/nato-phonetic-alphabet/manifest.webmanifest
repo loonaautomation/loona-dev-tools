@@ -2,7 +2,7 @@
   "name": "Loona NATO Fonetik Alfabesi Çevirici (Metin",
   "short_name": "NATO Fonetik Alfabesi",
   "description": "Metni NATO fonetik alfabesinde heceleyin: A = Alfa, B = Bravo... Rakamları içerir. Havacılık, askeri ve destek çağrıları tarafından kullanılır.",
-  "id": "/loona-dev-tools/tr/nato-phonetic-alphabet/",
+  "id": "/tr/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

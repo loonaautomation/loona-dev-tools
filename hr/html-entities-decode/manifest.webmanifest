@@ -2,7 +2,7 @@
   "name": "Loona dekoder HTML entiteta",
   "short_name": "Dekoder HTML entiteta",
   "description": "Dekodirajte HTML entitete natrag u obične znakove: podržane su imenovane, decimalne i heksadekadske reference (&copy;, &#169;, &#xA9;).",
-  "id": "/loona-dev-tools/hr/html-entities-decode/",
+  "id": "/hr/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

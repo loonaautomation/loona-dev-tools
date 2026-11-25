@@ -2,7 +2,7 @@
   "name": "Trình tạo UUID của Loona trực tuyến miễn phí",
   "short_name": "Trình tạo UUID trực tuyến miễn phí",
   "description": "Tạo UUID phiên bản 4 ngẫu nhiên trực tuyến miễn phí - đơn lẻ hoặc hàng loạt lên đến 100, tùy chọn chữ hoa và không dấu gạch nối. Ngẫu nhiên mật mã, trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/uuid-generator/",
+  "id": "/vi/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

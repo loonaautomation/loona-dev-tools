@@ -2,7 +2,7 @@
   "name": "Loona alat za pregled Google SERP rezultata na mreži besplatno",
   "short_name": "Alat za pregled Google SERP rezultata",
   "description": "Pregledajte kako će naslov vaše stranice i meta opis izgledati u Googleovim rezultatima pretraživanja na mreži besplatno, s prikazima za stolna računala i mobilne uređaje i upozorenjima o skraćivanju po širini piksela. Bez registracije.",
-  "id": "/loona-dev-tools/hr/google-serp-preview/",
+  "id": "/hr/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

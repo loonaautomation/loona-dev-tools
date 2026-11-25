@@ -2,7 +2,7 @@
   "name": "Loona Cæsar-chifferkoder og -dekoder",
   "short_name": "Caesar-chifferkoder og",
   "description": "Caesar-chiffer med ethvert skift (1–25) og en dekodemodus: Julius Caesars klassiske substitusjonschiffer, på nett.",
-  "id": "/loona-dev-tools/nb/caesar-cipher/",
+  "id": "/nb/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Форматувальник Loona JSON онлайн безкоштовно",
   "short_name": "Форматувальник JSON онлайн безкоштовно",
   "description": "Форматуйте, перевіряйте й мінімізуйте JSON онлайн безкоштовно, із точним рядком і стовпцем будь-якої помилки. Без реєстрації, працює на 100% у вашому браузері.",
-  "id": "/loona-dev-tools/uk/json-formatter/",
+  "id": "/uk/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

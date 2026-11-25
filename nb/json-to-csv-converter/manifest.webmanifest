@@ -2,7 +2,7 @@
   "name": "Loona JSON til CSV-konverterer på nett gratis",
   "short_name": "JSON til CSV-konverterer på nett",
   "description": "Konverter en JSON-matrise av objekter til CSV på nett gratis: union av nøkler som kolonner, riktig anførselstegnsetting og escaping, nøstede verdier beholdt som JSON. Ingen registrering, kjører 100 % i nettleseren din.",
-  "id": "/loona-dev-tools/nb/json-to-csv-converter/",
+  "id": "/nb/json-to-csv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

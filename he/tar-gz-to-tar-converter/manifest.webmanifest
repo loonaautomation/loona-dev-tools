@@ -2,7 +2,7 @@
   "name": "ממיר Loona TAR.GZ ל-TAR",
   "short_name": "ממיר TAR.GZ ל-TAR",
   "description": "פשטו את שכבת ה-gzip מארכיון ‎.tar.gz / ‎.tgz כדי לקבל את ה-TAR הרגיל, מקוון ומקומית — אין צורך בכלי חילוץ.",
-  "id": "/loona-dev-tools/he/tar-gz-to-tar-converter/",
+  "id": "/he/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

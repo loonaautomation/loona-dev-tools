@@ -2,7 +2,7 @@
   "name": "Loona Generator llms.txt Online Gratis",
   "short_name": "Generator llms.txt Online Gratis",
   "description": "Buat file llms.txt yang valid online secara gratis - nama situs, blockquote ringkasan, detail, dan tautan halaman pilihan dalam format llms.txt yang diusulkan untuk crawler AI. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/id/llms-txt-generator/",
+  "id": "/id/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

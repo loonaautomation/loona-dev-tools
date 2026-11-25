@@ -2,7 +2,7 @@
   "name": "Конвертор от XML към YAML на Loona",
   "short_name": "Конвертор от XML към YAML",
   "description": "Конвертирайте XML в YAML: атрибутите като @ключове, повтарящите се елементи като списъци, стойностите типизирани. Истински парсър, не регулярен израз.",
-  "id": "/loona-dev-tools/bg/xml-to-yaml/",
+  "id": "/bg/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

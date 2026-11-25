@@ -2,7 +2,7 @@
   "name": "Loona RAR fájlkibontó online ingyen",
   "short_name": "RAR fájlkibontó online ingyen",
   "description": "Nyisson meg RAR fájlokat (RAR4 és RAR5) közvetlenül a böngészőjében - nézze meg minden fájlt belül, töltsön le egyetlen fájlt vagy mindent ZIP-ként. Semmi nem töltődik fel; a kibontás az eszközén történik.",
-  "id": "/loona-dev-tools/hu/rar-file-extractor/",
+  "id": "/hu/rar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JSON-Markdown-taulukkomuunnin",
   "short_name": "JSON-Markdown-taulukko",
   "description": "Muunna JSON-objektitaulukko Markdown-taulukoksi: sarakkeet avaimista, pystyviivat pakotettuina, valmis liitettäväksi README-tiedostoihin.",
-  "id": "/loona-dev-tools/fi/json-to-markdown-table/",
+  "id": "/fi/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

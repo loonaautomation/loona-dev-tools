@@ -2,7 +2,7 @@
   "name": "Loona CSV ٹرانسپوز آن لائن مفت",
   "short_name": "CSV ٹرانسپوز آن لائن مفت",
   "description": "CSV آن لائن مفت transpose کریں - قطاریں اور کالم ایک درست RFC 4180 پارسر سے بدلیں جو کوٹ شدہ فیلڈز درست سنبھالتا ہے۔ کوئی سائن اپ نہیں، 100% آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-dev-tools/ur/csv-transpose/",
+  "id": "/ur/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

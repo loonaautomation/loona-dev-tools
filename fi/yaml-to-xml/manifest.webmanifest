@@ -2,7 +2,7 @@
   "name": "Loona YAML-XML-muunnin",
   "short_name": "YAML-XML-muunnin",
   "description": "Muunna YAML XML:ksi verkossa: yksi ylimmän tason avain muuttuu juurielementiksi, @avaimet attribuuteiksi.",
-  "id": "/loona-dev-tools/fi/yaml-to-xml/",
+  "id": "/fi/yaml-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

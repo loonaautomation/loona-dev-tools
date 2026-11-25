@@ -2,7 +2,7 @@
   "name": "Loona Anahtar Kelime Yoğunluğu Denetleyicisi Çevrimiçi Ücretsiz",
   "short_name": "Anahtar Kelime Yoğunluğu Denetleyicisi",
   "description": "Anahtar kelime yoğunluğunu çevrimiçi ücretsiz kontrol edin - en üst tek sözcükler artı sayılar ve yüzde yoğunlukla 2 sözcüklü ve 3 sözcüklü ifadeler, stopword filtreleme dahil. Kayıt gerekmez.",
-  "id": "/loona-dev-tools/tr/keyword-density-checker/",
+  "id": "/tr/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

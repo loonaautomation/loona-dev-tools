@@ -2,7 +2,7 @@
   "name": "Loona Konverter CSV ke SQL Online Gratis",
   "short_name": "Konverter CSV ke SQL Online",
   "description": "Konversi CSV ke SQL online secara gratis - CREATE TABLE dengan tipe kolom yang disimpulkan ditambah satu INSERT per baris, untuk MySQL, PostgreSQL, atau SQLite. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-dev-tools/id/csv-to-sql-converter/",
+  "id": "/id/csv-to-sql-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

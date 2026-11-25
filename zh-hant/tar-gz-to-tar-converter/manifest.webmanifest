@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ 轉 TAR 轉換器",
   "short_name": "TAR.GZ 轉 TAR 轉換器",
   "description": "從 .tar.gz / .tgz 歸檔中剝離 gzip 層以得到普通的 TAR，線上和本地完成——不需要解壓工具。",
-  "id": "/loona-dev-tools/zh-hant/tar-gz-to-tar-converter/",
+  "id": "/zh-hant/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

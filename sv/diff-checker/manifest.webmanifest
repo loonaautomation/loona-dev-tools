@@ -2,7 +2,7 @@
   "name": "Loona Diff-kontroll online gratis",
   "short_name": "Diff-kontroll online gratis",
   "description": "Jämför två texter online gratis med en diff rad för rad: tillagda rader i grönt, borttagna rader i rött, plus en ändringssammanfattning. Ingen registrering, körs 100% i din webbläsare.",
-  "id": "/loona-dev-tools/sv/diff-checker/",
+  "id": "/sv/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

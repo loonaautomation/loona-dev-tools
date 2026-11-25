@@ -2,7 +2,7 @@
   "name": "Loona Penukar Heks ke Teks",
   "short_name": "Penukar Heks ke Teks",
   "description": "Penukaran heksadesimal kembali ke teks: tampal byte heks (berjarak atau berkesinambungan, dengan atau tanpa 0x) dan baca teks UTF-8-nya.",
-  "id": "/loona-dev-tools/ms/hex-to-text/",
+  "id": "/ms/hex-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

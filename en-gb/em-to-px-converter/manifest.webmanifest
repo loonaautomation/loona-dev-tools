@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/em-to-px-converter/",
+  "id": "/en-gb/em-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

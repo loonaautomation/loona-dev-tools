@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง JSON เป็น Go Struct",
   "short_name": "ตัวแปลง JSON เป็น Go Struct",
   "description": "แปลง JSON เป็นนิยาม struct ของ Go พร้อมแท็ก json: แยก int64/float64 ออกจากกัน, omitempty สำหรับคีย์ที่ขาดในบางรายการของอาร์เรย์",
-  "id": "/loona-dev-tools/th/json-to-go-struct/",
+  "id": "/th/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

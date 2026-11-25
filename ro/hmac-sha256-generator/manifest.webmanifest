@@ -2,7 +2,7 @@
   "name": "Generator HMAC-SHA256 Loona",
   "short_name": "Generator HMAC-SHA256",
   "description": "Generează semnături HMAC-SHA256 online: introdu o cheie și un mesaj, obține MAC-ul hex. WebCrypto, complet local.",
-  "id": "/loona-dev-tools/ro/hmac-sha256-generator/",
+  "id": "/ro/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Profiler Loona CSV online zdarma",
   "short_name": "Profiler CSV online zdarma",
   "description": "Profilujte soubor CSV online zdarma - odhadované typy pro jednotlivé sloupce, počty prázdných buněk, počty unikátních hodnot, číselné min/max a nejčastější hodnoty, abyste souboru rozuměli před jeho použitím. Bez registrace.",
-  "id": "/loona-dev-tools/cs/csv-profiler/",
+  "id": "/cs/csv-profiler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

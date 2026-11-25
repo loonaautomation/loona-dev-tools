@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง JSON เป็น TOML",
   "short_name": "ตัวแปลง JSON เป็น TOML",
   "description": "แปลง JSON เป็น TOML ออนไลน์: ค่าสเกลาร์ก่อน ออบเจ็กต์ที่ซ้อนกันเป็น [tables] อาร์เรย์ของออบเจ็กต์เป็น [[tables]]",
-  "id": "/loona-dev-tools/th/json-to-toml/",
+  "id": "/th/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona فاكّ كيانات HTML",
   "short_name": "فاكّ كيانات HTML",
   "description": "فكّ كيانات HTML عودة إلى أحرف عادية: المراجع المسماة والعشرية والسداسية العشرية (&copy;، &#169;، &#xA9;) كلها مدعومة.",
-  "id": "/loona-dev-tools/ar/html-entities-decode/",
+  "id": "/ar/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

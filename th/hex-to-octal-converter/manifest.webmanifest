@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงเลขฐานสิบหกเป็นเลขฐานแปด",
   "short_name": "ตัวแปลงเลขฐานสิบหกเป็นเลขฐานแปด",
   "description": "แปลงตัวเลขฐานสิบหกเป็นเลขฐานแปดออนไลน์ — ความแม่นยำไม่จำกัด (BigInt) รองรับจำนวนลบ",
-  "id": "/loona-dev-tools/th/hex-to-octal-converter/",
+  "id": "/th/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

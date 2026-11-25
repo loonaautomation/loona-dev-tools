@@ -2,7 +2,7 @@
   "name": "Loona SHA-1 Hash Oluşturucu",
   "short_name": "SHA-1 Hash Oluşturucu",
   "description": "Metin veya dosyaların SHA-1 hash değerlerini çevrimiçi hesaplayın: 160 bit, 40 hex karakter. WebCrypto/saf JS ile tarayıcınızda yerel olarak çalışır — dosyalar asla yüklenmez.",
-  "id": "/loona-dev-tools/tr/sha1-hash-generator/",
+  "id": "/tr/sha1-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

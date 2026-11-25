@@ -2,7 +2,7 @@
   "name": "Loona CSV Split & Merge - Break Big Files Apart, Join Small Ones Together",
   "short_name": "CSV Split & Merge - Break Big Files Apart, Join Small Ones Together",
   "description": "Split a CSV into parts by row count or merge several CSV files into one, online for free - headers handled correctly, proper CSV parsing. No sign-up, runs 100% in your browser.",
-  "id": "/loona-dev-tools/en-us/csv-split-merge/",
+  "id": "/en-us/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

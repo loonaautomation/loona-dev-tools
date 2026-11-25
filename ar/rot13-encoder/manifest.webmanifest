@@ -2,7 +2,7 @@
   "name": "Loona مشفّر وفاكّ تشفير ROT13",
   "short_name": "مشفّر وفاكّ تشفير ROT13",
   "description": "رمّز أي نص بـ ROT13: دوّر الأحرف بمقدار 13 موضعاً. الترميز والفكّ نفس العملية. كلاسيكي للمفسدين والألغاز.",
-  "id": "/loona-dev-tools/ar/rot13-encoder/",
+  "id": "/ar/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

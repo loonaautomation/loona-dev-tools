@@ -2,7 +2,7 @@
   "name": "מקודד ומפענח ישויות HTML של Loona מקוון בחינם",
   "short_name": "מקודד ומפענח ישויות HTML",
   "description": "קודדו טקסט לישויות HTML (בעלות שם כמו &amp;copy; או ממוספרות כמו &amp;#169;) ופענחו ישויות בחזרה לטקסט פשוט. חינמי, בלי הרשמה, בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/html-entity-encoder/",
+  "id": "/he/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

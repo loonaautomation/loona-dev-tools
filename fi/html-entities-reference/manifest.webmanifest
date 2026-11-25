@@ -2,7 +2,7 @@
   "name": "Loona HTML-entiteettien viitetaulukko",
   "short_name": "HTML-entiteettiviitetaulukko",
   "description": "Olennainen HTML-entiteettitaulukko: nimetty entiteetti, merkki, desimaalikoodi ja käyttöhuomautukset entiteeteille, joita kehittäjät todella käyttävät.",
-  "id": "/loona-dev-tools/fi/html-entities-reference/",
+  "id": "/fi/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

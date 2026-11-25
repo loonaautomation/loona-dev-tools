@@ -2,7 +2,7 @@
   "name": "Loona SHA-512-tiivistegeneraattori",
   "short_name": "SHA-512-tiivistegeneraattori",
   "description": "Laske tekstien tai tiedostojen SHA-512-tiiviisteitä verkossa: 512-bittinen, 128 heksamerkkiä. Toimii paikallisesti selaimessasi WebCryptolla / puhtaalla JS:llä — tiedostoja ei koskaan lähetetä palvelimelle.",
-  "id": "/loona-dev-tools/fi/sha512-hash-generator/",
+  "id": "/fi/sha512-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

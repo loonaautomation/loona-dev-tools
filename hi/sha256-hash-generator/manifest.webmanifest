@@ -2,7 +2,7 @@
   "name": "Loona SHA-256 Hash जनरेटर",
   "short_name": "SHA-256 Hash जनरेटर",
   "description": "Text या files के SHA-256 hashes ऑनलाइन compute करें: 256-bit, 64 hex characters। WebCrypto/pure JS के साथ आपके ब्राउज़र में locally चलता है — files कभी upload नहीं होतीं।",
-  "id": "/loona-dev-tools/hi/sha256-hash-generator/",
+  "id": "/hi/sha256-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

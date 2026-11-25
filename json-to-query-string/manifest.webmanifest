@@ -2,7 +2,7 @@
   "name": "Loona JSON to Query String Converter",
   "short_name": "JSON to Query String Converter",
   "description": "Build a URL query string from a JSON object: nested objects use bracket notation, arrays repeat the key, everything percent-encoded.",
-  "id": "/loona-dev-tools/json-to-query-string/",
+  "id": "/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

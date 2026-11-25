@@ -2,7 +2,7 @@
   "name": "Loona Pengekod & Penyahkod URL Dalam Talian Percuma",
   "short_name": "Pengekod & Penyahkod URL Dalam Talian",
   "description": "Encode dan nyahkod URL dan teks kueri dalam talian secara percuma, dengan mod komponen dan URL lengkap serta rincian per aksara. Tanpa pendaftaran, di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/url-encoder/",
+  "id": "/ms/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

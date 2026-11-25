@@ -2,7 +2,7 @@
   "name": "Loona URLエンコード（パーセントエンコーディング）",
   "short_name": "URLエンコード（パーセントエンコーディング）",
   "description": "テキストまたは完全なURLをオンラインでパーセントエンコードします。スペースは %20 になり、予約文字はRFC 3986に従ってエスケープされます。コンポーネントモードまたは完全URLモードです。",
-  "id": "/loona-dev-tools/ja/url-encode/",
+  "id": "/ja/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

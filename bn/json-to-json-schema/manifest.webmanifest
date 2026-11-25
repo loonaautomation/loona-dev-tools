@@ -2,7 +2,7 @@
   "name": "Loona JSON থেকে JSON Schema জেনারেটর",
   "short_name": "JSON থেকে JSON Schema জেনারেটর",
   "description": "একটি JSON নমুনা থেকে একটি JSON Schema (draft 2020-12) তৈরি করুন: টাইপ অনুমান করা, অবজেক্ট বৈশিষ্ট্য ও প্রয়োজনীয় কী অন্তর্ভুক্ত।",
-  "id": "/loona-dev-tools/bn/json-to-json-schema/",
+  "id": "/bn/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

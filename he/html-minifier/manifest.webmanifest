@@ -2,7 +2,7 @@
   "name": "ממזער HTML של Loona",
   "short_name": "ממזער HTML",
   "description": "מזערו HTML באופן מקוון: הסירו הערות וכווצו רווחים תוך הגנה על תוכן pre, textarea, script ו-style.",
-  "id": "/loona-dev-tools/he/html-minifier/",
+  "id": "/he/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

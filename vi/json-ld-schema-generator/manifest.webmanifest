@@ -2,7 +2,7 @@
   "name": "Trình tạo Schema JSON-LD của Loona trực tuyến miễn phí",
   "short_name": "Trình tạo Schema JSON-LD",
   "description": "Tạo dữ liệu có cấu trúc JSON-LD của schema.org trực tuyến miễn phí - Article, LocalBusiness, Product, Event, Recipe, Person, Organization và WebSite - dưới dạng một khối script sẵn sàng. Không đăng ký.",
-  "id": "/loona-dev-tools/vi/json-ld-schema-generator/",
+  "id": "/vi/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

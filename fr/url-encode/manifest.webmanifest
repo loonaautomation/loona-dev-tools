@@ -2,7 +2,7 @@
   "name": "Encodage d’URL Loona (encodage en pourcentage)",
   "short_name": "Encodage d’URL (encodage en pourcentage)",
   "description": "Encodez en pourcentage du texte ou une URL complète en ligne : les espaces deviennent %20, les caractères réservés sont échappés selon la RFC 3986. Mode composant ou URL complète.",
-  "id": "/loona-dev-tools/fr/url-encode/",
+  "id": "/fr/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

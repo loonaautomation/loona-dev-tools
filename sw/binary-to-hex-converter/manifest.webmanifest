@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Jozi kwenda Heksadesimali",
   "short_name": "Jozi kwenda Heksadesimali",
   "description": "Badilisha nambari za jozi kuwa heksadesimali mtandaoni — usahihi wa kiholela (BigInt), nambari hasi zinaungwa mkono.",
-  "id": "/loona-dev-tools/sw/binary-to-hex-converter/",
+  "id": "/sw/binary-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

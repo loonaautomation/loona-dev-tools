@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ-ZIP-muunnin verkossa ilmaiseksi",
   "short_name": "TAR.GZ-ZIP-muunnin",
   "description": "Muunna TAR.GZ-arkisto (.tar.gz tai .tgz) ZIP-tiedostoksi suoraan selaimessasi. Molemmat kerrokset — gzip ja tar — puretaan laitteellasi ja tiedostot pakataan uudelleen yhdeksi ZIP:iksi. Mitään ei lähetetä palvelimelle.",
-  "id": "/loona-dev-tools/fi/tar-gz-to-zip-converter/",
+  "id": "/fi/tar-gz-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

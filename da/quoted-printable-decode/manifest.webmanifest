@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable-dekoder",
   "short_name": "Quoted-Printable-dekoder",
   "description": "Afkod quoted-printable (MIME)-tekst tilbage til læsbar UTF-8: =XX-escapes og bløde linjeskift håndteret efter RFC 2045.",
-  "id": "/loona-dev-tools/da/quoted-printable-decode/",
+  "id": "/da/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

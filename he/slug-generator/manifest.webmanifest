@@ -2,7 +2,7 @@
   "name": "מחולל Slug של Loona (יוצר Slug ל-URL)",
   "short_name": "מחולל Slug (יוצר Slug כתובת",
   "description": "צרו slugs נקיים של URL מכותרות: ניבים מוסרים, אותיות קטנות, רווחים למקפים (או קווים תחתונים). יוצר slug בחינם.",
-  "id": "/loona-dev-tools/he/slug-generator/",
+  "id": "/he/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

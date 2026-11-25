@@ -2,7 +2,7 @@
   "name": "Loona শব্দার্থিক সংস্করণ তুলনাকারী",
   "short_name": "শব্দার্থিক সংস্করণ তুলনাকারী",
   "description": "শব্দার্থিক সংস্করণ যাচাই এবং তুলনা করুন (MAJOR.MINOR.PATCH): কোনটি নতুন, এবং কী ধরনের পরিবর্তন তাদের আলাদা করে।",
-  "id": "/loona-dev-tools/bn/semver-comparator/",
+  "id": "/bn/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

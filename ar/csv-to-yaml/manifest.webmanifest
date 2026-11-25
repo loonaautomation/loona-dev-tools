@@ -2,7 +2,7 @@
   "name": "Loona محوّل CSV إلى YAML",
   "short_name": "محوّل CSV إلى YAML",
   "description": "حوّل جداول CSV إلى YAML: صف الترويسة يصبح مفاتيح، كل صف عنصر في قائمة YAML، الأرقام مكتوبة الأنواع.",
-  "id": "/loona-dev-tools/ar/csv-to-yaml/",
+  "id": "/ar/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

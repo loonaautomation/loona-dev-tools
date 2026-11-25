@@ -2,7 +2,7 @@
   "name": "Loona tekst til binær-konverter",
   "short_name": "Tekst til binær-konverter",
   "description": "Konvertér tekst til binær: hvert tegn som 8-bit binære grupper af dets UTF-8-bytes. Gratis online konverter.",
-  "id": "/loona-dev-tools/da/text-to-binary/",
+  "id": "/da/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

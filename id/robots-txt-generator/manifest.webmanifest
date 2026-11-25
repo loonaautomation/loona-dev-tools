@@ -2,7 +2,7 @@
   "name": "Loona Generator Robots.txt Online Gratis",
   "short_name": "Generator Robots.txt Online",
   "description": "Buat robots.txt yang valid online secara gratis - preset, aturan allow dan disallow per agen, baris sitemap, dan pemeriksaan kewajaran sintaks bawaan. Tanpa pendaftaran, berjalan di browser Anda.",
-  "id": "/loona-dev-tools/id/robots-txt-generator/",
+  "id": "/id/robots-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

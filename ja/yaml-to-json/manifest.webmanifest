@@ -2,7 +2,7 @@
   "name": "Loona YAML→JSON変換ツール",
   "short_name": "YAML→JSON変換ツール",
   "description": "YAMLをJSONにオンライン変換：ブロックマッピングとシーケンス、クォートされたスカラーと通常のスカラー、フローコレクション。サブセットは正直に文書化されています。",
-  "id": "/loona-dev-tools/ja/yaml-to-json/",
+  "id": "/ja/yaml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

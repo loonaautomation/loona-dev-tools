@@ -2,7 +2,7 @@
   "name": "Loona URL-kodning (procentkodning)",
   "short_name": "URL-kodning (Procentkodning)",
   "description": "Procentkoda text eller en fullständig URL online: mellanslag blir %20, reserverade tecken escapas enligt RFC 3986. Komponent- eller full-URL-läge.",
-  "id": "/loona-dev-tools/sv/url-encode/",
+  "id": "/sv/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

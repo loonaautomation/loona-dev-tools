@@ -2,7 +2,7 @@
   "name": "מחולל גיבוב Loona SHA-256",
   "short_name": "מחולל גיבוב SHA-256",
   "description": "חשבו גיבובי SHA-256 של טקסט או קבצים באופן מקוון: 256 סיביות, 64 תווי hex. פועל מקומית בדפדפן שלכם עם WebCrypto/JS טהור — קבצים לעולם לא מועלים.",
-  "id": "/loona-dev-tools/he/sha256-hash-generator/",
+  "id": "/he/sha256-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

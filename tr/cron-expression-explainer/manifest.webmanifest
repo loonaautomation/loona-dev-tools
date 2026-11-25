@@ -2,7 +2,7 @@
   "name": "Loona Cron İfadesi Açıklayıcı",
   "short_name": "Cron İfadesi Açıklayıcı",
   "description": "Cron ifadelerini sade bir dille açıklayın: 5 alanlı bir cron zamanlaması yapıştırın ve alan alan ne zaman çalıştığını okuyun.",
-  "id": "/loona-dev-tools/tr/cron-expression-explainer/",
+  "id": "/tr/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

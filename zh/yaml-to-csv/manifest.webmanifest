@@ -2,7 +2,7 @@
   "name": "Loona YAML 转 CSV 转换器",
   "short_name": "YAML 转 CSV 转换器",
   "description": "把由对象组成的 YAML 列表转换成 CSV 表格：键的并集作为列，嵌套值在其单元格中序列化为 JSON。",
-  "id": "/loona-dev-tools/zh/yaml-to-csv/",
+  "id": "/zh/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona morsekode til tekst-oversetter",
   "short_name": "Morsekode til tekst-oversetter",
   "description": "Dekod morsekode tilbake til tekst: lim inn prikker og streker (bokstaver skilt med mellomrom, / mellom ord) og les meldingen.",
-  "id": "/loona-dev-tools/nb/morse-code-to-text/",
+  "id": "/nb/morse-code-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

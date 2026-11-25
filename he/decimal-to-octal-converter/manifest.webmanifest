@@ -2,7 +2,7 @@
   "name": "ממיר Loona עשרוני לאוקטלי",
   "short_name": "ממיר עשרוני לאוקטלי",
   "description": "המירו מספרים עשרוניים לאוקטלי באופן מקוון — דיוק שרירותי (BigInt), מספרים שליליים נתמכים.",
-  "id": "/loona-dev-tools/he/decimal-to-octal-converter/",
+  "id": "/he/decimal-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

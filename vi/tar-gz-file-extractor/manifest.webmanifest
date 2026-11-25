@@ -2,7 +2,7 @@
   "name": "Công cụ giải nén tệp TAR.GZ của Loona trực tuyến miễn phí",
   "short_name": "Công cụ giải nén tệp TAR.GZ trực tuyến",
   "description": "Mở các tệp lưu trữ tar.gz ngay trong trình duyệt của bạn - cả .tar.gz và tên ngắn .tgz - xem mọi tệp bên trong và tải xuống các tệp đơn lẻ hoặc mọi thứ dưới dạng ZIP. Không có gì được tải lên.",
-  "id": "/loona-dev-tools/vi/tar-gz-file-extractor/",
+  "id": "/vi/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

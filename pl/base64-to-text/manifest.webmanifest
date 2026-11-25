@@ -2,7 +2,7 @@
   "name": "Loona Dekoder Base64 na tekst",
   "short_name": "Dekoder Base64 na tekst",
   "description": "Dekoduj Base64 z powrotem na czytelny tekst online. Obsługuje alfabety standardowy i bezpieczny dla URL, tekst UTF-8 w każdym języku. Za darmo i prywatnie.",
-  "id": "/loona-dev-tools/pl/base64-to-text/",
+  "id": "/pl/base64-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

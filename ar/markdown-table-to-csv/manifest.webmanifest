@@ -2,7 +2,7 @@
   "name": "Loona محوّل جدول Markdown إلى CSV",
   "short_name": "جدول Markdown إلى CSV",
   "description": "حوّل جدول Markdown إلى CSV: الترويسة والصفوف مستخرجة، صف المحاذاة مزال، الخلايا مقطّعة ومقتبسة بشكل صحيح.",
-  "id": "/loona-dev-tools/ar/markdown-table-to-csv/",
+  "id": "/ar/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

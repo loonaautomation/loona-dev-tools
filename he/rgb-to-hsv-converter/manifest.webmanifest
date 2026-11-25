@@ -2,7 +2,7 @@
   "name": "ממיר Loona RGB ל-HSV",
   "short_name": "ממיר RGB ל-HSV",
   "description": "המירו צבעים מ-RGB ל-HSV באופן מקוון, עם דוגמית חיה וכל שאר הפורמטים (HEX, RGB, HSL, HSV, CMYK) מוצגים גם כן.",
-  "id": "/loona-dev-tools/he/rgb-to-hsv-converter/",
+  "id": "/he/rgb-to-hsv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

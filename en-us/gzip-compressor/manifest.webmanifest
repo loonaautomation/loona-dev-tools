@@ -2,7 +2,7 @@
   "name": "Loona GZIP Compressor - Squeeze One File into a .gz",
   "short_name": "GZIP Compressor - Squeeze One File into a .gz",
   "description": "Compress any single file into a .gz using your browser's built-in gzip engine. Instant before/after sizes, nothing uploaded - the file is compressed on your device. Works for logs, CSVs, TAR files and more.",
-  "id": "/loona-dev-tools/en-us/gzip-compressor/",
+  "id": "/en-us/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

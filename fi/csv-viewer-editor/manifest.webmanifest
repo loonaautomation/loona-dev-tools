@@ -2,7 +2,7 @@
   "name": "Loona CSV-katselin & -editori verkossa ilmaiseksi",
   "short_name": "CSV-katselin & -editori verkossa",
   "description": "Katso ja muokkaa CSV-tiedostoja verkossa ilmaiseksi muokattavassa taulukkoruudukossa - muokkaa soluja, lajittele sarakkeita, lisää tai poista rivejä ja sarakkeita, lataa sitten muokattu CSV. Ei rekisteröitymistä, toimii selaimessasi.",
-  "id": "/loona-dev-tools/fi/csv-viewer-editor/",
+  "id": "/fi/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

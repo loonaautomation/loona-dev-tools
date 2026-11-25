@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Rem kwenda Pikseli (px)",
   "short_name": "Kibadilishaji cha Rem kwenda Pikseli (px)",
   "description": "Badilisha rem kuwa px kwa ukubwa wa fonti ya msingi unaoweza kurekebishwa (chaguo-msingi 16px) na jedwali la thamani za kawaida.",
-  "id": "/loona-dev-tools/sw/rem-to-px-converter/",
+  "id": "/sw/rem-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

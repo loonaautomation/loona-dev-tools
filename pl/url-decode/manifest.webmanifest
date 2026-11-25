@@ -2,7 +2,7 @@
   "name": "Loona Dekodowanie URL (dekodowanie procentowe)",
   "short_name": "Dekodowanie URL (dekodowanie procentowe)",
   "description": "Dekoduj adresy URL i ciągi zapytań zakodowane procentowo z powrotem na czytelny tekst, w tym sekwencje UTF-8 oraz + jako spacja. Bezpłatny dekoder online.",
-  "id": "/loona-dev-tools/pl/url-decode/",
+  "id": "/pl/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

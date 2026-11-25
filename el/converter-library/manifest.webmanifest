@@ -2,7 +2,7 @@
   "name": "Loona Βιβλιοθήκη Μετατροπέων & Γεννητριών",
   "short_name": "Βιβλιοθήκη Μετατροπέων & Γεννητριών",
   "description": "Ευρετήριο όλων των μετατροπέων και γεννητριών του Loona Developer Tools: κωδικοποιήσεις, μορφές δεδομένων, hash, χρώματα, αρχειοθήκες, γεννήτριες κώδικα και αναφορές.",
-  "id": "/loona-dev-tools/el/converter-library/",
+  "id": "/el/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

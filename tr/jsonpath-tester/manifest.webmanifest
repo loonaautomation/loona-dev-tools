@@ -2,7 +2,7 @@
   "name": "Loona JSONPath Test Aracı",
   "short_name": "JSONPath Test Aracı",
   "description": "JSONPath ifadelerini bir JSON belgesine karşı test edin: nokta gösterimi, dizinler, jokerler ve özyinelemeli iniş ($..key) desteklenir.",
-  "id": "/loona-dev-tools/tr/jsonpath-tester/",
+  "id": "/tr/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

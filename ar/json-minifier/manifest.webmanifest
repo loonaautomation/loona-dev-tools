@@ -2,7 +2,7 @@
   "name": "Loona مصغّر JSON",
   "short_name": "مصغّر JSON",
   "description": "صغّر JSON عبر الإنترنت: جرّد كل المسافات البيضاء غير المهمة إلى سطر واحد مدمج، مع الإبلاغ عن أخطاء التحقق بدقة.",
-  "id": "/loona-dev-tools/ar/json-minifier/",
+  "id": "/ar/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

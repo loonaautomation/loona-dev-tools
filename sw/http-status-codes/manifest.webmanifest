@@ -2,7 +2,7 @@
   "name": "Loona Marejeo ya Misimbo ya Hali ya HTTP",
   "short_name": "Marejeo ya Misimbo ya Hali ya HTTP",
   "description": "Kila msimbo wa hali wa HTTP wa kawaida na maana yake: mafanikio ya 2xx, uelekezaji upya wa 3xx, hitilafu za mteja za 4xx, hitilafu za seva za 5xx — imefafanuliwa kwa uwazi.",
-  "id": "/loona-dev-tools/sw/http-status-codes/",
+  "id": "/sw/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

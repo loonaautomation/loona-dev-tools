@@ -2,7 +2,7 @@
   "name": "Loona HTML اینٹیٹیز حوالہ ٹیبل",
   "short_name": "HTML اینٹیٹیز حوالہ ٹیبل",
   "description": "ضروری HTML اینٹیٹیز ٹیبل: نامزد اینٹیٹی، حرف، اعشاریہ کوڈ اور استعمال نوٹس ان اینٹیٹیز کے لیے جو ڈویلپرز اصل میں استعمال کرتے ہیں۔",
-  "id": "/loona-dev-tools/ur/html-entities-reference/",
+  "id": "/ur/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

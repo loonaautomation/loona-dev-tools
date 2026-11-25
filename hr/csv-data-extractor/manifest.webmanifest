@@ -2,7 +2,7 @@
   "name": "Loona izdvajanje podataka iz CSV-a na mreži besplatno",
   "short_name": "Izdvajanje podataka iz CSV-a na mreži besplatno",
   "description": "Izdvojite adrese e-pošte, telefonske brojeve i URL-ove iz neurednih CSV datoteka ili bilo kojeg teksta na mreži besplatno - očišćene, deduplicirane popise koje možete preuzeti. Bez registracije, radi u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/csv-data-extractor/",
+  "id": "/hr/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

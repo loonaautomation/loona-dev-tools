@@ -2,7 +2,7 @@
   "name": "Loona TSV→CSV変換ツール",
   "short_name": "TSV→CSV変換ツール",
   "description": "TSV（タブ区切り値）をCSVに変換：Excelやスプレッドシートからコピーしたデータを貼り付けると、適切にクォートされたCSVが得られます。",
-  "id": "/loona-dev-tools/ja/tsv-to-csv/",
+  "id": "/ja/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

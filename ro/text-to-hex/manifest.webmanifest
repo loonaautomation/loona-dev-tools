@@ -2,7 +2,7 @@
   "name": "Convertizor text în hexazecimal Loona",
   "short_name": "Convertizor text în hexazecimal",
   "description": "Convertește text în hexazecimal (octeți UTF-8) online, cu sau fără spații între octeți. Convertizor gratuit pentru dezvoltatori.",
-  "id": "/loona-dev-tools/ro/text-to-hex/",
+  "id": "/ro/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

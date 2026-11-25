@@ -2,7 +2,7 @@
   "name": "Loona Penjana Slug (Pembina Slug URL)",
   "short_name": "Penjana Slug (Slug URL",
   "description": "Buat slug URL yang bersih dari judul: aksen dibuang, huruf kecil, ruang menjadi tanda hubung (atau garis bawah). Pembina slug percuma.",
-  "id": "/loona-dev-tools/ms/slug-generator/",
+  "id": "/ms/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

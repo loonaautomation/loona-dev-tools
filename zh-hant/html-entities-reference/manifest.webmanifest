@@ -2,7 +2,7 @@
   "name": "Loona HTML 實體參考表",
   "short_name": "HTML 實體參考表",
   "description": "必備的 HTML 實體表：開發者實際使用的實體的命名實體、字元、十進位制程式碼和使用說明。",
-  "id": "/loona-dev-tools/zh-hant/html-entities-reference/",
+  "id": "/zh-hant/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

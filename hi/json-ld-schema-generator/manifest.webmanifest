@@ -2,7 +2,7 @@
   "name": "Loona JSON-LD Schema जनरेटर ऑनलाइन मुफ़्त",
   "short_name": "JSON-LD Schema जनरेटर",
   "description": "Schema.org JSON-LD structured data ऑनलाइन मुफ़्त generate करें — Article, LocalBusiness, Product, Event, Recipe, Person, Organization और WebSite — एक तैयार script block के रूप में। कोई साइन-अप नहीं।",
-  "id": "/loona-dev-tools/hi/json-ld-schema-generator/",
+  "id": "/hi/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

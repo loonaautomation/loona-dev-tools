@@ -2,7 +2,7 @@
   "name": "Loona Генератор хешей MD5",
   "short_name": "Генератор хешей MD5",
   "description": "Вычисляйте хеши MD5 текста или файлов онлайн: 128-битные, 32 шестнадцатеричных символа. Работает локально в вашем браузере с WebCrypto/чистым JS — файлы никогда не загружаются.",
-  "id": "/loona-dev-tools/ru/md5-hash-generator/",
+  "id": "/ru/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

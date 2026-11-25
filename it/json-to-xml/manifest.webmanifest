@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da JSON a XML",
   "short_name": "Convertitore da JSON a XML",
   "description": "Converti JSON in XML online con un elemento radice personalizzabile: gli array diventano elementi ripetuti, le @keys diventano attributi.",
-  "id": "/loona-dev-tools/it/json-to-xml/",
+  "id": "/it/json-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

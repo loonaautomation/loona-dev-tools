@@ -2,7 +2,7 @@
   "name": "Loona ตัวเข้ารหัสและถอดรหัส ROT13",
   "short_name": "ตัวเข้ารหัสและถอดรหัส ROT13",
   "description": "ROT13 ข้อความใดก็ได้: หมุนตัวอักษรไป 13 ตำแหน่ง การเข้ารหัสและการถอดรหัสคือการดำเนินการเดียวกัน คลาสสิกสำหรับสปอยเลอร์และปริศนา",
-  "id": "/loona-dev-tools/th/rot13-encoder/",
+  "id": "/th/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

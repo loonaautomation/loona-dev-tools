@@ -2,7 +2,7 @@
   "name": "Loona CRC32 চেকসাম ক্যালকুলেটর",
   "short_name": "CRC32 চেকসাম ক্যালকুলেটর",
   "description": "অনলাইনে টেক্সট বা ফাইলের CRC32 হ্যাশ হিসাব করুন: 32-বিট, 8 হেক্স অক্ষর। WebCrypto/খাঁটি JS দিয়ে আপনার ব্রাউজারে স্থানীয়ভাবে চলে — ফাইল কখনও আপলোড হয় না।",
-  "id": "/loona-dev-tools/bn/crc32-calculator/",
+  "id": "/bn/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

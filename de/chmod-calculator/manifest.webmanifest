@@ -2,7 +2,7 @@
   "name": "Loona Chmod-Rechner online kostenlos",
   "short_name": "Chmod-Rechner online kostenlos",
   "description": "Berechnen Sie chmod-Berechtigungen kostenlos online: Kontrollkästchen zu Oktal (755) und Symbolisch (rwxr-xr-x), und Oktal zurück zu Berechtigungen. Keine Registrierung, läuft zu 100 % in Ihrem Browser.",
-  "id": "/loona-dev-tools/de/chmod-calculator/",
+  "id": "/de/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

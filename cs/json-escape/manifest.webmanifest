@@ -2,7 +2,7 @@
   "name": "Escapování řetězců Loona JSON",
   "short_name": "Escapování řetězců JSON",
   "description": "Escapujte řetězec pro vložení dovnitř JSON: uvozovky, zpětná lomítka, nové řádky a řídicí znaky se stanou sekvencemi \\.",
-  "id": "/loona-dev-tools/cs/json-escape/",
+  "id": "/cs/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV-viewer og -editor online gratis",
   "short_name": "CSV-viewer og -editor online",
   "description": "Se og redigér CSV-filer online gratis i et redigerbart tabelgitter - redigér celler, sortér kolonner, tilføj eller fjern rækker og kolonner, og download derefter den redigerede CSV. Ingen tilmelding, kører i din browser.",
-  "id": "/loona-dev-tools/da/csv-viewer-editor/",
+  "id": "/da/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

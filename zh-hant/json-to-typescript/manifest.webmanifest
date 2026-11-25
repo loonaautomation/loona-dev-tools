@@ -2,7 +2,7 @@
   "name": "Loona JSON 轉 TypeScript 介面轉換器",
   "short_name": "JSON 轉 TypeScript 介面",
   "description": "線上把 JSON 轉換成 TypeScript 介面：巢狀物件成為命名介面，物件陣列合並它們的鍵並標記可選欄位。",
-  "id": "/loona-dev-tools/zh-hant/json-to-typescript/",
+  "id": "/zh-hant/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

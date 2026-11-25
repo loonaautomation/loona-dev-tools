@@ -2,7 +2,7 @@
   "name": "Loona RGB→HSV変換ツール",
   "short_name": "RGB→HSV変換ツール",
   "description": "色をRGBからHSVにオンライン変換。ライブのスウォッチと、他のすべての形式（HEX、RGB、HSL、HSV、CMYK）も表示されます。",
-  "id": "/loona-dev-tools/ja/rgb-to-hsv-converter/",
+  "id": "/ja/rgb-to-hsv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

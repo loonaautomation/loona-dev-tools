@@ -2,7 +2,7 @@
   "name": "Loona HTMLミニファイア",
   "short_name": "HTMLミニファイア",
   "description": "HTMLをオンラインミニファイします。pre、textarea、script、styleの内容を保護しながら、コメントを除去し空白を圧縮します。",
-  "id": "/loona-dev-tools/ja/html-minifier/",
+  "id": "/ja/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

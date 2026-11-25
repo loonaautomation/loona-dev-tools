@@ -2,7 +2,7 @@
   "name": "Loona Penukar JSON ke CSV Dalam Talian Percuma",
   "short_name": "Penukar JSON ke CSV Dalam Talian",
   "description": "Penukaran array objek JSON ke CSV dalam talian secara percuma: gabungan kunci sebagai lajur, pengutipan dan escape yang benar, nilai bersarang dipertahankan sebagai JSON. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/json-to-csv-converter/",
+  "id": "/ms/json-to-csv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

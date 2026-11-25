@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona CMJN vers RVB",
   "short_name": "Convertisseur CMJN vers RVB",
   "description": "Convertissez les couleurs de CMJN vers RVB en ligne, avec un échantillon en direct et tous les autres formats (HEX, RVB, TSL, TSV, CMJN) affichés aussi.",
-  "id": "/loona-dev-tools/fr/cmyk-to-rgb-converter/",
+  "id": "/fr/cmyk-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

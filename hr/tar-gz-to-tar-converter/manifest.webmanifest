@@ -2,7 +2,7 @@
   "name": "Loona pretvarač TAR.GZ u TAR",
   "short_name": "Pretvarač TAR.GZ u TAR",
   "description": "Skinite gzip sloj s .tar.gz / .tgz arhive da dobijete obični TAR, na mreži i lokalno — nisu potrebni alati za izdvajanje.",
-  "id": "/loona-dev-tools/hr/tar-gz-to-tar-converter/",
+  "id": "/hr/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

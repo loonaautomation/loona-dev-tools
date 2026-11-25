@@ -2,7 +2,7 @@
   "name": "Loona Minifier HTML",
   "short_name": "Minifier HTML",
   "description": "Minifikasi HTML dalam talian: padam komentar dan runtuhkan whitespace sambil melindungi isi pre, textarea, script, dan style.",
-  "id": "/loona-dev-tools/ms/html-minifier/",
+  "id": "/ms/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

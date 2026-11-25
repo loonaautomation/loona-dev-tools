@@ -2,7 +2,7 @@
   "name": "Loona YAML থেকে TOML কনভার্টার",
   "short_name": "YAML থেকে TOML কনভার্টার",
   "description": "অনলাইনে YAML TOML-এ রূপান্তর করুন (ভাগ করা ডেটা মডেলের মাধ্যমে): টেবিল, স্কেলার ও অ্যারে TOML বিন্যাস নিয়মে ম্যাপ করা।",
-  "id": "/loona-dev-tools/bn/yaml-to-toml/",
+  "id": "/bn/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

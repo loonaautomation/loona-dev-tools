@@ -2,7 +2,7 @@
   "name": "Kodér Loona JWT (Podpisovač HS256)",
   "short_name": "Kodér JWT (Podpisovač HS256)",
   "description": "Vytvárajte a podpisujte JSON Web Tokens pomocou HS256 vo svojom prehliadači: telo JSON plus tajomstvo, alebo alg=none. Podpisovanie WebCrypto.",
-  "id": "/loona-dev-tools/sk/jwt-encoder/",
+  "id": "/sk/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

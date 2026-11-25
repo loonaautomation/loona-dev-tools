@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้างแผนผังเว็บไซต์ XML ออนไลน์ฟรี",
   "short_name": "ตัวสร้างแผนผังเว็บไซต์ XML ออนไลน์",
   "description": "สร้างแผนผังเว็บไซต์ XML ที่ถูกต้องออนไลน์ฟรีจากรายการ URL พร้อม lastmod, changefreq และ priority ค่าเริ่มต้น การ escape URL และ XML ที่ถูกต้อง ไม่ต้องสมัครสมาชิก ทำงานในเบราว์เซอร์ของคุณ",
-  "id": "/loona-dev-tools/th/xml-sitemap-generator/",
+  "id": "/th/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

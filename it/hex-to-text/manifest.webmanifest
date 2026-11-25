@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da Hex a testo",
   "short_name": "Convertitore da Hex a testo",
   "description": "Converti esadecimale di nuovo in testo: incolla byte hex (con spazi o continui, con o senza 0x) e leggi il testo UTF-8.",
-  "id": "/loona-dev-tools/it/hex-to-text/",
+  "id": "/it/hex-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

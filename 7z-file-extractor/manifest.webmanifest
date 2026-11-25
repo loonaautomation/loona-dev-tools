@@ -2,7 +2,7 @@
   "name": "Loona 7Z File Extractor Online Free",
   "short_name": "7Z File Extractor Online Free",
   "description": "Open 7z archives right in your browser - see every file inside, download single files or everything as a ZIP. Nothing is uploaded; extraction happens on your device with a WebAssembly engine.",
-  "id": "/loona-dev-tools/7z-file-extractor/",
+  "id": "/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Extraktor súborov Loona GZ online zadarmo",
   "short_name": "Extraktor súborov GZ online zadarmo",
   "description": "Dekomprimujte jeden súbor .gz priamo vo svojom prehliadači a stiahnite si pôvodný súbor - protokoly, exporty údajov, výpisy databáz. Nič sa nenahráva; váš prehliadač robí prácu natívne.",
-  "id": "/loona-dev-tools/sk/gz-file-extractor/",
+  "id": "/sk/gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona كاشف نوع الملف عبر الإنترنت مجاناً",
   "short_name": "كاشف نوع الملف عبر الإنترنت مجاناً",
   "description": "اكتشف النوع الحقيقي لملف عبر الإنترنت مجاناً من توقيع ترويسة بايتاته السحرية - PNG، PDF، ZIP، MP4، EXE وأكثر من 30 تنسيقاً - واحصل على تحذير عندما يختلف الامتداد. لا يُرفع شيء.",
-  "id": "/loona-dev-tools/ar/file-type-detector/",
+  "id": "/ar/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona রোমান সংখ্যা থেকে সংখ্যা",
   "short_name": "রোমান সংখ্যাসূচক থেকে সংখ্যা",
   "description": "রোমান সংখ্যা সংখ্যায় রূপান্তর করুন (1–3999), বিয়োগাত্মক চিহ্নের কঠোর যাচাইসহ (IV, IX, XL, CM)।",
-  "id": "/loona-dev-tools/bn/roman-numerals-converter/",
+  "id": "/bn/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

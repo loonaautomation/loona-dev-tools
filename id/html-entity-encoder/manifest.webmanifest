@@ -2,7 +2,7 @@
   "name": "Loona Encoder & Decoder Entitas HTML Online Gratis",
   "short_name": "Encoder & Decoder Entitas HTML",
   "description": "Encode teks menjadi entitas HTML (bernama seperti &amp;copy; atau bernomor seperti &amp;#169;) dan dekode entitas kembali ke teks polos. Gratis, tanpa pendaftaran, di browser Anda.",
-  "id": "/loona-dev-tools/id/html-entity-encoder/",
+  "id": "/id/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

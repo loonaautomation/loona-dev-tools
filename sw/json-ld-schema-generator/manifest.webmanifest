@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Schema ya JSON-LD Bure Mtandaoni",
   "short_name": "Kizalishaji cha Schema ya JSON-LD",
   "description": "Zalisha data ya muundo ya schema.org ya JSON-LD mtandaoni bure - Article, LocalBusiness, Product, Event, Recipe, Person, Organization na WebSite - kama kizuizi cha hati tayari. Bila kujisajili.",
-  "id": "/loona-dev-tools/sw/json-ld-schema-generator/",
+  "id": "/sw/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

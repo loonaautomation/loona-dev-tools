@@ -2,7 +2,7 @@
   "name": "Loona คลังตัวแปลงและตัวสร้าง",
   "short_name": "คลังตัวแปลงและตัวสร้าง",
   "description": "ดัชนีของตัวแปลงและตัวสร้างทั้งหมดของ Loona Developer Tools: การเข้ารหัส รูปแบบข้อมูล แฮช สี ไฟล์บีบอัด ตัวสร้างโค้ด และข้อมูลอ้างอิง",
-  "id": "/loona-dev-tools/th/converter-library/",
+  "id": "/th/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

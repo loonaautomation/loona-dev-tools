@@ -2,7 +2,7 @@
   "name": "Loona JSON - Markdown Tablo Dönüştürücü",
   "short_name": "JSON - Markdown Tablo",
   "description": "Nesnelerin bir JSON dizisini bir Markdown tablosuna dönüştürün: anahtarlardan sütunlar, borular kaçışlı, README dosyalarına yapıştırmaya hazır.",
-  "id": "/loona-dev-tools/tr/json-to-markdown-table/",
+  "id": "/tr/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

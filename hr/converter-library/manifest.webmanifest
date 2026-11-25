@@ -2,7 +2,7 @@
   "name": "Loona knjižnica pretvarača i generatora",
   "short_name": "Knjižnica pretvarača i generatora",
   "description": "Indeks svih pretvarača i generatora Loona Developer Tools: kodiranja, formati podataka, hashevi, boje, arhive, generatori koda i priručnici.",
-  "id": "/loona-dev-tools/hr/converter-library/",
+  "id": "/hr/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

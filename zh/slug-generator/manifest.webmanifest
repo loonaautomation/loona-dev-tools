@@ -2,7 +2,7 @@
   "name": "Loona Slug 生成器（URL Slug 制作工具）",
   "short_name": "Slug 生成器（URL Slug",
   "description": "从标题生成干净的 URL slug：去掉重音、小写、空格变成连字符（或下划线）。免费的 slug 制作工具。",
-  "id": "/loona-dev-tools/zh/slug-generator/",
+  "id": "/zh/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

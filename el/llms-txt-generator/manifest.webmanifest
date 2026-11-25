@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια llms.txt Διαδικτυακά Δωρεάν",
   "short_name": "Γεννήτρια llms.txt Διαδικτυακά Δωρεάν",
   "description": "Δημιουργήστε ένα έγκυρο αρχείο llms.txt διαδικτυακά δωρεάν - όνομα ιστότοπου, απόσπασμα μπλοκ περίληψης, λεπτομέρειες και επιμελημένοι σύνδεσμοι σελίδων στη μορφή llms.txt που προτείνεται για ανιχνευτές AI. Χωρίς εγγραφή.",
-  "id": "/loona-dev-tools/el/llms-txt-generator/",
+  "id": "/el/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

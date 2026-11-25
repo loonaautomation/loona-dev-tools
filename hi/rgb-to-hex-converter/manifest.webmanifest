@@ -2,7 +2,7 @@
   "name": "Loona RGB से HEX कन्वर्टर",
   "short_name": "RGB से HEX कन्वर्टर",
   "description": "रंगों को RGB से HEX में ऑनलाइन बदलें, एक live swatch के साथ और सभी अन्य formats (HEX, RGB, HSL, HSV, CMYK) भी दिखाए गए।",
-  "id": "/loona-dev-tools/hi/rgb-to-hex-converter/",
+  "id": "/hi/rgb-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

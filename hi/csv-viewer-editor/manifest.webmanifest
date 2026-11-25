@@ -2,7 +2,7 @@
   "name": "Loona CSV व्यूअर और एडिटर ऑनलाइन मुफ़्त",
   "short_name": "CSV व्यूअर और एडिटर ऑनलाइन",
   "description": "CSV फ़ाइलें ऑनलाइन मुफ़्त editable table grid में देखें और edit करें — cells edit करें, columns sort करें, rows और columns जोड़ें या हटाएँ, फिर edited CSV download करें। कोई साइन-अप नहीं, आपके ब्राउज़र में चलता है।",
-  "id": "/loona-dev-tools/hi/csv-viewer-editor/",
+  "id": "/hi/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

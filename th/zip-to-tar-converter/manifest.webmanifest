@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง ZIP เป็น TAR",
   "short_name": "ตัวแปลง ZIP เป็น TAR",
   "description": "แปลงไฟล์บีบอัด ZIP เป็น TAR ที่ไม่บีบอัดออนไลน์: ไฟล์และโฟลเดอร์เดียวกัน บรรจุใหม่ด้วยตัวเขียน TAR ที่สอดคล้องกับมาตรฐาน ภายในเครื่องทั้งหมด",
-  "id": "/loona-dev-tools/th/zip-to-tar-converter/",
+  "id": "/th/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

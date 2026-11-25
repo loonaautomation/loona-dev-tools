@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de RAR a ZIP en línea gratis",
   "short_name": "Convertidor de RAR a ZIP en línea",
   "description": "Convierte un archivo RAR (.rar) en un archivo ZIP estándar directamente en tu navegador. La estructura de carpetas se conserva, nada se sube, y el ZIP se abre en cualquier parte: Windows, macOS, Android y iPhone abren ZIP de forma nativa.",
-  "id": "/loona-dev-tools/es/rar-to-zip-converter/",
+  "id": "/es/rar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

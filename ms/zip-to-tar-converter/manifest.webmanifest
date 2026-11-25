@@ -2,7 +2,7 @@
   "name": "Loona Penukar ZIP ke TAR",
   "short_name": "Penukar ZIP ke TAR",
   "description": "Penukaran arkib ZIP ke TAR tanpa mampatan dalam talian: fail dan folder yang sama, dikemas ulang dengan penulis TAR yang patuh standard. Sepenuhnya setempat.",
-  "id": "/loona-dev-tools/ms/zip-to-tar-converter/",
+  "id": "/ms/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

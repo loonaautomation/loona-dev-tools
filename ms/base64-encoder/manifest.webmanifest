@@ -2,7 +2,7 @@
   "name": "Loona Pengekod & Penyahkod Base64 Dalam Talian Percuma",
   "short_name": "Pengekod & Penyahkod Base64",
   "description": "Encode teks atau fail ke Base64 dan nyahkod Base64 kembali, selamat UTF-8 untuk bahasa dan emoji apa pun, dengan pilihan selamat-URL. Percuma, tanpa pendaftaran, di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/base64-encoder/",
+  "id": "/ms/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

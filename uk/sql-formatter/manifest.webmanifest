@@ -2,7 +2,7 @@
   "name": "Форматувальник Loona SQL онлайн безкоштовно",
   "short_name": "Форматувальник SQL онлайн безкоштовно",
   "description": "Форматуйте SQL онлайн безкоштовно: ключові слова великими літерами, речення SELECT, FROM, WHERE і JOIN на окремих рядках, рядки збережено. Без реєстрації, працює на 100% у вашому браузері.",
-  "id": "/loona-dev-tools/uk/sql-formatter/",
+  "id": "/uk/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

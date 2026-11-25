@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας JSON σε Struct Go",
   "short_name": "Μετατροπέας JSON σε Struct Go",
   "description": "Μετατρέψτε JSON σε ορισμούς struct Go με ετικέτες json: διάκριση int64/float64, omitempty για κλειδιά που λείπουν σε μερικά στοιχεία πίνακα.",
-  "id": "/loona-dev-tools/el/json-to-go-struct/",
+  "id": "/el/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

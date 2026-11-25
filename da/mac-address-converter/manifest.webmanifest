@@ -2,7 +2,7 @@
   "name": "Loona MAC-adresseformatkonverter",
   "short_name": "MAC-adresseformatkonverter",
   "description": "Konvertér MAC-adresser mellem kolon- (AA:BB:CC:DD:EE:FF), bindestreg-, Cisco-prik- og almindelige formater; validerer 48-bit-adressen.",
-  "id": "/loona-dev-tools/da/mac-address-converter/",
+  "id": "/da/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

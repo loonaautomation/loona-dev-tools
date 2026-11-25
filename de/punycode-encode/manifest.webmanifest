@@ -2,7 +2,7 @@
   "name": "Loona Punycode-Encoder (IDN-Domain-Konverter)",
   "short_name": "Punycode-Encoder (IDN-Domain",
   "description": "Konvertieren Sie internationalisierte Domainnamen (IDN) zur Punycode-Form xn--: bücher.example wird zu xn--bcher-kva.example. Codierung pro Label.",
-  "id": "/loona-dev-tools/de/punycode-encode/",
+  "id": "/de/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Minifieur Loona CSS en ligne gratuit",
   "short_name": "Minifieur CSS en ligne gratuit",
   "description": "Minifiez le CSS en ligne et gratuitement et voyez exactement de combien il rétrécit, ou embellissez le CSS minifié en code lisible. Sans inscription, fonctionne à 100 % dans votre navigateur.",
-  "id": "/loona-dev-tools/fr/css-minifier/",
+  "id": "/fr/css-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

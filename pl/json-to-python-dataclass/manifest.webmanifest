@@ -2,7 +2,7 @@
   "name": "Loona Konwerter JSON na klasę danych Pythona",
   "short_name": "JSON na klasę danych Pythona",
   "description": "Konwertuj JSON na klasy danych (dataclasses) Pythona z podpowiedziami typów: obiekty zagnieżdżone stają się zagnieżdżonymi dataclasses, typy List dla tablic.",
-  "id": "/loona-dev-tools/pl/json-to-python-dataclass/",
+  "id": "/pl/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ISOファイル抽出ツール 無料オンライン",
   "short_name": "ISOファイル抽出ツール 無料オンライン",
   "description": "ISOディスクイメージをブラウザでそのまま開きます。仮想ディスクに保存されたファイルシステムを閲覧し、個別のファイルまたはすべてをZIPとしてダウンロードしてください。何もアップロードされません。",
-  "id": "/loona-dev-tools/ja/iso-file-extractor/",
+  "id": "/ja/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

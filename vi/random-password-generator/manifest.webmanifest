@@ -2,7 +2,7 @@
   "name": "Trình tạo mật khẩu ngẫu nhiên của Loona",
   "short_name": "Trình tạo mật khẩu ngẫu nhiên",
   "description": "Tạo mật khẩu ngẫu nhiên mạnh trong trình duyệt của bạn bằng WebCrypto API: độ dài và tập ký tự có thể điều chỉnh, entropy được hiển thị.",
-  "id": "/loona-dev-tools/vi/random-password-generator/",
+  "id": "/vi/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

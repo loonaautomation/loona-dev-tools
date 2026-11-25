@@ -2,7 +2,7 @@
   "name": "Loona Heksadesimaali-binäärimuunnin",
   "short_name": "Heksadesimaalista binääriksi",
   "description": "Muunna heksadesimaalilukuja binääriksi verkossa — mielivaltainen tarkkuus (BigInt), negatiiviset luvut tuettuna.",
-  "id": "/loona-dev-tools/fi/hex-to-binary-converter/",
+  "id": "/fi/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

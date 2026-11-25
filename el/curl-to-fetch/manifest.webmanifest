@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας cURL σε Fetch",
   "short_name": "Μετατροπέας cURL σε Fetch",
   "description": "Μετατρέψτε μια εντολή cURL σε κώδικα JavaScript fetch(): κεφαλίδες, μέθοδος, δεδομένα, βασικός έλεγχος ταυτότητας και --json χειρίζονται.",
-  "id": "/loona-dev-tools/el/curl-to-fetch/",
+  "id": "/el/curl-to-fetch/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

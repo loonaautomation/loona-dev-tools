@@ -2,7 +2,7 @@
   "name": "Loona بائنری سے آکٹل کنورٹر",
   "short_name": "بائنری سے آکٹل کنورٹر",
   "description": "بائنری اعداد کو آکٹل میں آن لائن بدلیں — arbitrary precision (BigInt)، منفی اعداد سپورٹ۔",
-  "id": "/loona-dev-tools/ur/binary-to-octal-converter/",
+  "id": "/ur/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

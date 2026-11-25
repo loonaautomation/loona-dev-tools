@@ -2,7 +2,7 @@
   "name": "Loona trefwoorddichtheid-checker online gratis",
   "short_name": "Trefwoorddichtheid-checker",
   "description": "Controleer trefwoorddichtheid online gratis - top losse woorden plus zinnen van 2 en 3 woorden met aantallen en procentuele dichtheid, stopwoordfiltering inbegrepen. Geen registratie.",
-  "id": "/loona-dev-tools/nl/keyword-density-checker/",
+  "id": "/nl/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

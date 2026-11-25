@@ -2,7 +2,7 @@
   "name": "Převodník Loona desítkové na hexadecimální",
   "short_name": "Desítková na hexadecimální",
   "description": "Převádějte desítková čísla na hexadecimální online — libovolná přesnost (BigInt), záporná čísla podporována.",
-  "id": "/loona-dev-tools/cs/decimal-to-hex-converter/",
+  "id": "/cs/decimal-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

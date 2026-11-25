@@ -2,7 +2,7 @@
   "name": "Loona Encoder & Decoder Base64 Online Gratis",
   "short_name": "Encoder & Decoder Base64",
   "description": "Encode teks atau file ke Base64 dan dekode Base64 kembali, aman UTF-8 untuk bahasa dan emoji apa pun, dengan opsi aman-URL. Gratis, tanpa pendaftaran, di browser Anda.",
-  "id": "/loona-dev-tools/id/base64-encoder/",
+  "id": "/id/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

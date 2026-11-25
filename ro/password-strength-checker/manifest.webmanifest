@@ -2,7 +2,7 @@
   "name": "Verificator de putere a parolei Loona online gratuit",
   "short_name": "Verificator de putere a parolei",
   "description": "Verifică puterea parolei online gratuit cu o estimare transparentă a entropiei, feedback specific și o estimare a timpului de spargere. Parola nu părăsește niciodată browserul tău - nimic nu este trimis sau stocat.",
-  "id": "/loona-dev-tools/ro/password-strength-checker/",
+  "id": "/ro/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

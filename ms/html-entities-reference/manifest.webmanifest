@@ -2,7 +2,7 @@
   "name": "Loona Jadual Referensi Entitas HTML",
   "short_name": "Jadual Referensi Entitas HTML",
   "description": "Jadual entitas HTML esensial: entitas bernama, aksara, kode desimal, dan nota penggunaan untuk entitas yang benar-benar digunakan developer.",
-  "id": "/loona-dev-tools/ms/html-entities-reference/",
+  "id": "/ms/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

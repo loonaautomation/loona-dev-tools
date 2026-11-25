@@ -2,7 +2,7 @@
   "name": "Loona TAR-bestandsextractor online gratis",
   "short_name": "TAR-bestandsextractor online gratis",
   "description": "Open TAR-archieven direct in je browser - gewone .tar en ook .tar.bz2 en .tar.xz - zie elk bestand erin en download losse bestanden of alles als ZIP. Niets wordt geüpload.",
-  "id": "/loona-dev-tools/nl/tar-file-extractor/",
+  "id": "/nl/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona منشئ كلمات المرور العشوائية",
   "short_name": "منشئ كلمات مرور عشوائية",
   "description": "أنشئ كلمات مرور عشوائية قوية في متصفحك عبر WebCrypto API: الطول ومجموعات الأحرف قابلة للتعديل، الإنتروبيا معروضة.",
-  "id": "/loona-dev-tools/ar/random-password-generator/",
+  "id": "/ar/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "ממיר חותמות זמן של Loona Unix מקוון בחינם",
   "short_name": "ממיר חותמות זמן Unix",
   "description": "המירו חותמות זמן של Unix (שניות או אלפיות שנייה) לתאריכים אנושיים ב-UTC ובשעה המקומית שלכם, ותאריכים בחזרה לחותמות זמן. שעה נוכחית חיה. בחינם.",
-  "id": "/loona-dev-tools/he/timestamp-converter/",
+  "id": "/he/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Hash MD5",
   "short_name": "Gerador de Hash MD5",
   "description": "Calcule hashes MD5 de texto ou ficheiros online: 128-bit, 32 caracteres hexadecimais. Funciona localmente no seu navegador com WebCrypto/JS puro — os ficheiros nunca são carregados.",
-  "id": "/loona-dev-tools/pt-pt/md5-hash-generator/",
+  "id": "/pt-pt/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Convertizor JSON în YAML Loona",
   "short_name": "Convertizor JSON în YAML",
   "description": "Convertește JSON în YAML online: indentare curată, tablouri și obiecte imbricate, șiruri puse între ghilimele doar când YAML are nevoie.",
-  "id": "/loona-dev-tools/ro/json-to-yaml/",
+  "id": "/ro/json-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

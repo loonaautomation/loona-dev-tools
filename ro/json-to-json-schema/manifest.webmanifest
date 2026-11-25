@@ -2,7 +2,7 @@
   "name": "Generator de scheme JSON din JSON Loona",
   "short_name": "Generator de scheme JSON din JSON",
   "description": "Generează o schemă JSON (schița 2020-12) dintr-un exemplu JSON: tipuri deduse, proprietăți de obiect și chei obligatorii incluse.",
-  "id": "/loona-dev-tools/ro/json-to-json-schema/",
+  "id": "/ro/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

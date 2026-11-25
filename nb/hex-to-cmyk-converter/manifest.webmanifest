@@ -2,7 +2,7 @@
   "name": "Loona HEX til CMYK-konverterer",
   "short_name": "HEX til CMYK-konverterer",
   "description": "Konverter farger fra HEX til CMYK på nett, med et direkte fargefelt og alle andre formater (HEX, RGB, HSL, HSV, CMYK) vist også.",
-  "id": "/loona-dev-tools/nb/hex-to-cmyk-converter/",
+  "id": "/nb/hex-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

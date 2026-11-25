@@ -2,7 +2,7 @@
   "name": "Loona Konverter Timestamp Unix Online Gratis",
   "short_name": "Konverter Timestamp Unix",
   "description": "Konversi timestamp Unix (detik atau milidetik) ke tanggal yang dapat dibaca manusia dalam UTC dan waktu lokal Anda, dan tanggal kembali ke timestamp. Waktu saat ini langsung. Gratis.",
-  "id": "/loona-dev-tools/id/timestamp-converter/",
+  "id": "/id/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

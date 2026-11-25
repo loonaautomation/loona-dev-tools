@@ -2,7 +2,7 @@
   "name": "Loona تاریخ سے Unix ٹائم اسٹیمپ کنورٹر",
   "short_name": "تاریخ سے Unix ٹائم اسٹیمپ",
   "description": "ایک تاریخ اور وقت کو اس کے Unix ٹائم اسٹیمپ میں سیکنڈز اور ملی سیکنڈز میں بدلیں، UTC یا اپنے مقامی ٹائم زون میں۔",
-  "id": "/loona-dev-tools/ur/date-to-unix-timestamp/",
+  "id": "/ur/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

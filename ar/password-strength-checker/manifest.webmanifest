@@ -2,7 +2,7 @@
   "name": "Loona فاحص قوة كلمة المرور عبر الإنترنت مجاناً",
   "short_name": "فاحص قوة كلمة المرور",
   "description": "افحص قوة كلمة المرور عبر الإنترنت مجاناً بتقدير إنتروبيا شفاف، وملاحظات محددة، وتقدير وقت اختراق. كلمة المرور لا تغادر متصفحك أبداً - لا يُرسل شيء ولا يُخزَّن.",
-  "id": "/loona-dev-tools/ar/password-strength-checker/",
+  "id": "/ar/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

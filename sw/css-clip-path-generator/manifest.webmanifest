@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Clip-Path ya CSS Bure Mtandaoni",
   "short_name": "Kizalishaji cha Clip-Path ya CSS",
   "description": "Zalisha clip-path ya CSS mtandaoni bure - mipangilio tayari ya poligoni kama nyota, heksagoni na mshale yenye nukta zinazoweza kurekebishwa, pamoja na maumbo ya duara, duaradufu na ya ndani, kwa onyesho la awali la moja kwa moja. Bila kujisajili.",
-  "id": "/loona-dev-tools/sw/css-clip-path-generator/",
+  "id": "/sw/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

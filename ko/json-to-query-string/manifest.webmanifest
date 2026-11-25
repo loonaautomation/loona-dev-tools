@@ -2,7 +2,7 @@
   "name": "Loona JSON을 쿼리 문자열로 변환",
   "short_name": "JSON을 쿼리 문자열로 변환",
   "description": "JSON 객체로 URL 쿼리 문자열을 만드세요: 중첩 객체는 대괄호 표기를 쓰고, 배열은 키를 반복하며, 모든 것이 퍼센트 인코딩돼요.",
-  "id": "/loona-dev-tools/ko/json-to-query-string/",
+  "id": "/ko/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

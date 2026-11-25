@@ -2,7 +2,7 @@
   "name": "ממיר Loona Hex לטקסט",
   "short_name": "ממיר Hex לטקסט",
   "description": "המירו הקסדצימלי בחזרה לטקסט: הדביקו בתי hex (עם רווחים או רצופים, עם או בלי 0x) וקראו את טקסט ה-UTF-8.",
-  "id": "/loona-dev-tools/he/hex-to-text/",
+  "id": "/he/hex-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

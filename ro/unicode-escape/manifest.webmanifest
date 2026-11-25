@@ -2,7 +2,7 @@
   "name": "Convertizor de escape Unicode Loona (\\uXXXX)",
   "short_name": "Convertizor de escape Unicode",
   "description": "Escapează textul în secvențe de escape Unicode (\\uXXXX) pentru JSON, JavaScript, Java și fișiere properties. Gestionează emoji prin perechi surogat.",
-  "id": "/loona-dev-tools/ro/unicode-escape/",
+  "id": "/ro/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

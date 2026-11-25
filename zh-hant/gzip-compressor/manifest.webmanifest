@@ -2,7 +2,7 @@
   "name": "Loona GZIP 壓縮工具 線上免費",
   "short_name": "GZIP 壓縮工具 線上免費",
   "description": "使用您瀏覽器內建的 gzip 引擎把任何單個檔案壓縮成 .gz。即時顯示前後的大小，不上傳任何東西——檔案在您的裝置上壓縮。適用於日誌、CSV、TAR 檔案等。",
-  "id": "/loona-dev-tools/zh-hant/gzip-compressor/",
+  "id": "/zh-hant/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

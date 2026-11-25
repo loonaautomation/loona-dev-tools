@@ -2,7 +2,7 @@
   "name": "Loona Penyemak Kepadatan Kata Kunci Dalam Talian Percuma",
   "short_name": "Penyemak Kepadatan Kata Kunci",
   "description": "Semak kepadatan kata kunci dalam talian secara percuma - kata tunggal teratas ditambah frasa 2-kata dan 3-kata dengan jumlah dan peratusan kepadatan, termasuk penyaringan stopword. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/ms/keyword-density-checker/",
+  "id": "/ms/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

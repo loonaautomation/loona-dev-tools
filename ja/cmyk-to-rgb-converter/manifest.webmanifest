@@ -2,7 +2,7 @@
   "name": "Loona CMYK→RGB変換ツール",
   "short_name": "CMYK→RGB変換ツール",
   "description": "色をCMYKからRGBにオンライン変換。ライブのスウォッチと、他のすべての形式（HEX、RGB、HSL、HSV、CMYK）も表示されます。",
-  "id": "/loona-dev-tools/ja/cmyk-to-rgb-converter/",
+  "id": "/ja/cmyk-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

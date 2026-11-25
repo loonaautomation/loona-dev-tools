@@ -2,7 +2,7 @@
   "name": "Loona HTML-entitetskodare och avkodare online gratis",
   "short_name": "HTML-entitetskodare och avkodare",
   "description": "Koda text till HTML-entiteter (namngivna som &amp;copy; eller numrerade som &amp;#169;) och avkoda entiteter tillbaka till ren text. Gratis, ingen registrering, i din webbläsare.",
-  "id": "/loona-dev-tools/sv/html-entity-encoder/",
+  "id": "/sv/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

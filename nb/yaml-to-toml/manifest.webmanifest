@@ -2,7 +2,7 @@
   "name": "Loona YAML til TOML-konverterer",
   "short_name": "YAML til TOML-konverterer",
   "description": "Konverter YAML til TOML på nett (via den delte datamodellen): tabeller, skalarer og matriser tilordnet TOML-oppsettsregler.",
-  "id": "/loona-dev-tools/nb/yaml-to-toml/",
+  "id": "/nb/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "ממיר Loona RGB ל-HEX",
   "short_name": "ממיר RGB ל-HEX",
   "description": "המירו צבעים מ-RGB ל-HEX באופן מקוון, עם דוגמית חיה וכל שאר הפורמטים (HEX, RGB, HSL, HSV, CMYK) מוצגים גם כן.",
-  "id": "/loona-dev-tools/he/rgb-to-hex-converter/",
+  "id": "/he/rgb-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

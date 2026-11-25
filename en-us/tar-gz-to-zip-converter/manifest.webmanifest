@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ to ZIP Converter - Turn .tar.gz and .tgz into .zip",
   "short_name": "TAR.GZ to ZIP Converter - Turn .tar.gz and .tgz into .zip",
   "description": "Convert a TAR.GZ (.tar.gz or .tgz) archive into a ZIP file right in your browser. Both layers - gzip and tar - are unwrapped on your device and the files are repacked as one ZIP. Nothing is uploaded.",
-  "id": "/loona-dev-tools/en-us/tar-gz-to-zip-converter/",
+  "id": "/en-us/tar-gz-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

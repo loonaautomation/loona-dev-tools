@@ -2,7 +2,7 @@
   "name": "Конвертер Loona двійкової у шістнадцяткову",
   "short_name": "Двійкова у шістнадцяткову",
   "description": "Конвертуйте двійкові числа в шістнадцяткові онлайн — довільна точність (BigInt), від’ємні числа підтримуються.",
-  "id": "/loona-dev-tools/uk/binary-to-hex-converter/",
+  "id": "/uk/binary-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

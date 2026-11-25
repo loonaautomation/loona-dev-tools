@@ -2,7 +2,7 @@
   "name": "Loona SQL 格式化工具 在线免费",
   "short_name": "SQL 格式化工具 在线免费",
   "description": "免费在线格式化 SQL：关键字大写，SELECT、FROM、WHERE 和 JOIN 子句各占一行，字符串得以保留。无需注册，100% 在您的浏览器中运行。",
-  "id": "/loona-dev-tools/zh/sql-formatter/",
+  "id": "/zh/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

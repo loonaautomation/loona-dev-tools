@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum Oluşturucu",
   "short_name": "Lorem Ipsum Oluşturucu",
   "description": "Lorem Ipsum yer tutucu metni oluşturun: paragraflar, cümleler veya sözcükler seçin, klasik açılış satırı isteğe bağlı.",
-  "id": "/loona-dev-tools/tr/lorem-ipsum-generator/",
+  "id": "/tr/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

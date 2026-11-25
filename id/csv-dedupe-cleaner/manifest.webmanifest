@@ -2,7 +2,7 @@
   "name": "Loona Dedupe & Pembersih CSV Online Gratis",
   "short_name": "Dedupe & Pembersih CSV Online",
   "description": "Hapus baris duplikat dari CSV online gratis - berdasarkan seluruh baris atau kolom kunci - plus pangkas whitespace, buang baris kosong, dan normalkan akhir baris, dengan hitungan sebelum/sesudah. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/id/csv-dedupe-cleaner/",
+  "id": "/id/csv-dedupe-cleaner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

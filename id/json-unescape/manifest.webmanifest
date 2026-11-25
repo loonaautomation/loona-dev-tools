@@ -2,7 +2,7 @@
   "name": "Loona Unescape String JSON",
   "short_name": "Unescape String JSON",
   "description": "Unescape nilai string JSON kembali ke teks polos: urutan \\n, \\t, \\&quot;, \\\\, dan \\uXXXX menjadi karakter nyata.",
-  "id": "/loona-dev-tools/id/json-unescape/",
+  "id": "/id/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

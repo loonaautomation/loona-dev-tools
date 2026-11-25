@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้างแท็ก Hreflang ออนไลน์ฟรี",
   "short_name": "ตัวสร้างแท็ก Hreflang ออนไลน์",
   "description": "สร้างแท็ก hreflang ออนไลน์ฟรี - วางคู่ภาษาและ URL เพิ่ม x-default แล้วรับชุดลิงก์สำรองเต็มรูปแบบพร้อมการตรวจสอบ BCP 47 และ URL แบบสัมบูรณ์ ไม่ต้องสมัครสมาชิก",
-  "id": "/loona-dev-tools/th/hreflang-tag-generator/",
+  "id": "/th/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

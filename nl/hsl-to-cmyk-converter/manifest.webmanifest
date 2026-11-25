@@ -2,7 +2,7 @@
   "name": "Loona HSL naar CMYK-converter",
   "short_name": "HSL naar CMYK-converter",
   "description": "Converteer kleuren online van HSL naar CMYK, met een live staal en alle andere formaten (HEX, RGB, HSL, HSV, CMYK) ook getoond.",
-  "id": "/loona-dev-tools/nl/hsl-to-cmyk-converter/",
+  "id": "/nl/hsl-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

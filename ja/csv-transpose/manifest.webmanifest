@@ -2,7 +2,7 @@
   "name": "Loona CSV転置 無料オンライン",
   "short_name": "CSV行列入れ替え 無料オンライン",
   "description": "CSVを無料でオンライン転置します。引用符付きフィールドを正しく処理する適切なRFC 4180パーサーで行と列を入れ替えます。登録不要、ブラウザで100%動作します。",
-  "id": "/loona-dev-tools/ja/csv-transpose/",
+  "id": "/ja/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

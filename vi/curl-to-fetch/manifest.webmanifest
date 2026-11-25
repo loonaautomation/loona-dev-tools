@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi cURL sang Fetch của Loona",
   "short_name": "Công cụ chuyển đổi cURL sang Fetch",
   "description": "Chuyển đổi một lệnh cURL thành mã JavaScript fetch(): header, phương thức, dữ liệu, basic auth và --json được xử lý.",
-  "id": "/loona-dev-tools/vi/curl-to-fetch/",
+  "id": "/vi/curl-to-fetch/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

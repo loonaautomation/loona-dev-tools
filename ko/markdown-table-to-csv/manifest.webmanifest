@@ -2,7 +2,7 @@
   "name": "Loona Markdown 표를 CSV로 변환",
   "short_name": "Markdown 표를 CSV로",
   "description": "Markdown 표를 CSV로 변환해요: 헤더와 행이 추출되고, 정렬 행은 제거되며, 셀은 다듬어지고 올바르게 따옴표로 감싸요.",
-  "id": "/loona-dev-tools/ko/markdown-table-to-csv/",
+  "id": "/ko/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

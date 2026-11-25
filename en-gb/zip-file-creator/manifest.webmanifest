@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/zip-file-creator/",
+  "id": "/en-gb/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

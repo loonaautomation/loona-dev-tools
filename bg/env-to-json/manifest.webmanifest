@@ -2,7 +2,7 @@
   "name": "Конвертор от .env към JSON на Loona",
   "short_name": "Конвертор от .env към JSON",
   "description": "Анализирайте .env файл в JSON: редове KEY=value, префикси export, коментари и цитирани стойности се обработват.",
-  "id": "/loona-dev-tools/bg/env-to-json/",
+  "id": "/bg/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

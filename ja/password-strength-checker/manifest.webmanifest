@@ -2,7 +2,7 @@
   "name": "Loona パスワード強度チェッカー 無料オンライン",
   "short_name": "パスワード強度チェッカー",
   "description": "パスワードの強度を無料でオンラインチェック。透明なエントロピー推定、具体的なフィードバック、解読時間の推定付き。パスワードがブラウザを離れることは決してありません — 何も送信も保存もされません。",
-  "id": "/loona-dev-tools/ja/password-strength-checker/",
+  "id": "/ja/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Конвертер Loona TOML у JSON",
   "short_name": "Конвертер TOML у JSON",
   "description": "Конвертуйте TOML у JSON онлайн: таблиці, таблиці масивів, рядки, числа, логічні значення, масиви й дати-час (як рядки).",
-  "id": "/loona-dev-tools/uk/toml-to-json/",
+  "id": "/uk/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

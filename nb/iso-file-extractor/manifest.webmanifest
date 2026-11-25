@@ -2,7 +2,7 @@
   "name": "Loona ISO-filutpakker på nett gratis",
   "short_name": "ISO-filutpakker på nett gratis",
   "description": "Åpne ISO-platebilder rett i nettleseren din - bla gjennom filsystemet lagret på den virtuelle platen og last ned enkeltfiler eller alt som en ZIP. Ingenting lastes opp.",
-  "id": "/loona-dev-tools/nb/iso-file-extractor/",
+  "id": "/nb/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

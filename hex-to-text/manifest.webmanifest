@@ -2,7 +2,7 @@
   "name": "Loona Hex to Text Converter",
   "short_name": "Hex to Text Converter",
   "description": "Convert hexadecimal back to text: paste hex bytes (spaced or continuous, with or without 0x) and read the UTF-8 text.",
-  "id": "/loona-dev-tools/hex-to-text/",
+  "id": "/hex-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

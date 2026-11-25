@@ -2,7 +2,7 @@
   "name": "Loona Penukar TAR.GZ ke ZIP Dalam Talian Percuma",
   "short_name": "Penukar TAR.GZ ke ZIP",
   "description": "Penukaran arkib TAR.GZ (.tar.gz atau .tgz) menjadi fail ZIP langsung di pelayar Anda. Kedua lapisan - gzip dan tar - dibuka di peranti Anda dan fail dikemas ulang sebagai satu ZIP. Tidak ada yang dimuat naik.",
-  "id": "/loona-dev-tools/ms/tar-gz-to-zip-converter/",
+  "id": "/ms/tar-gz-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

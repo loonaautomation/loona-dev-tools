@@ -2,7 +2,7 @@
   "name": "Loona SHA-512-hashgenerator",
   "short_name": "SHA-512-hashgenerator",
   "description": "Bereken SHA-512-hashes van tekst of bestanden online: 512-bit, 128 hex-tekens. Draait lokaal in je browser met WebCrypto/pure JS — bestanden worden nooit geüpload.",
-  "id": "/loona-dev-tools/nl/sha512-hash-generator/",
+  "id": "/nl/sha512-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

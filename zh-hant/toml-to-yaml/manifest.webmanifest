@@ -2,7 +2,7 @@
   "name": "Loona TOML 轉 YAML 轉換器",
   "short_name": "TOML 轉 YAML 轉換器",
   "description": "線上把 TOML 轉換成 YAML：表成為巢狀對映，陣列表成為物件列表。",
-  "id": "/loona-dev-tools/zh-hant/toml-to-yaml/",
+  "id": "/zh-hant/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

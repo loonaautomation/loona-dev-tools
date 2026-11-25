@@ -2,7 +2,7 @@
   "name": "Công cụ mã hóa & giải mã mật mã Caesar của Loona",
   "short_name": "Công cụ mã hóa mật mã Caesar &",
   "description": "Mật mã Caesar với bất kỳ độ dịch nào (1–25) và một chế độ giải mã: mật mã thay thế kinh điển của Julius Caesar, trực tuyến.",
-  "id": "/loona-dev-tools/vi/caesar-cipher/",
+  "id": "/vi/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

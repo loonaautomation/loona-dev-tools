@@ -2,7 +2,7 @@
   "name": "Loona محوّل طابع Unix الزمني إلى التاريخ",
   "short_name": "طابع Unix الزمني إلى التاريخ",
   "description": "حوّل طابع Unix زمنياً (ثوانٍ أو مللي ثوانٍ) إلى تاريخ بشري: UTC، وقتك المحلي، ISO 8601 والوقت النسبي.",
-  "id": "/loona-dev-tools/ar/unix-timestamp-to-date/",
+  "id": "/ar/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

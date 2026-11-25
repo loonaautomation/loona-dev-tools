@@ -2,7 +2,7 @@
   "name": "Loona HTML-e-mailhandtekening-generator online gratis",
   "short_name": "HTML-e-mailhandtekening",
   "description": "Maak een professionele HTML-e-mailhandtekening online gratis - naam, titel, bedrijf, telefoon, e-mail en website in e-mailveilige tabel-HTML die werkt in Gmail en Outlook. Geen registratie.",
-  "id": "/loona-dev-tools/nl/email-signature-generator/",
+  "id": "/nl/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

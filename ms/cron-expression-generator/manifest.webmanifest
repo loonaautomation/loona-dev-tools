@@ -2,7 +2,7 @@
   "name": "Loona Penjana Ungkapan Cron Dalam Talian Percuma",
   "short_name": "Penjana Ungkapan Cron",
   "description": "Bangun ungkapan cron dari dropdown dan jelaskan ungkapan cron 5-medan apa pun dalam bahasa Indonesia yang sederhana, dalam talian secara percuma. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/cron-expression-generator/",
+  "id": "/ms/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

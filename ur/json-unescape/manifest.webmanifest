@@ -2,7 +2,7 @@
   "name": "Loona JSON اسٹرنگ Unescape",
   "short_name": "JSON اسٹرنگ Unescape",
   "description": "JSON اسٹرنگ قدر کو سادہ متن میں واپس کھولیں: \\n, \\t, \\&quot;, \\\\ اور \\uXXXX تسلسل اصل حروف بن جاتے ہیں۔",
-  "id": "/loona-dev-tools/ur/json-unescape/",
+  "id": "/ur/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

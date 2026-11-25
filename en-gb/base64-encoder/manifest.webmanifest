@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/base64-encoder/",
+  "id": "/en-gb/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

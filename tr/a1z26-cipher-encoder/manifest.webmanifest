@@ -2,7 +2,7 @@
   "name": "Loona A1Z26 Şifre Kodlayıcı (Harflerden Sayılara)",
   "short_name": "A1Z26 Şifre Kodlayıcı (Harfler",
   "description": "Metni A1Z26 şifresiyle kodlayın: A=1, B=2 ... Z=26. Klasik bulmaca ve kaçış odası kodu.",
-  "id": "/loona-dev-tools/tr/a1z26-cipher-encoder/",
+  "id": "/tr/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

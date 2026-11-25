@@ -2,7 +2,7 @@
   "name": "Loona CSS clip-path-generator online gratis",
   "short_name": "CSS clip-path-generator",
   "description": "Genereer CSS clip-path online gratis - polygoonpresets zoals ster, zeshoek en pijl met instelbare punten, plus cirkel-, ellips- en inset-vormen, met een live voorbeeld. Geen registratie.",
-  "id": "/loona-dev-tools/nl/css-clip-path-generator/",
+  "id": "/nl/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

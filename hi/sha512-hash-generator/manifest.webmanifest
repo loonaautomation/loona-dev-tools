@@ -2,7 +2,7 @@
   "name": "Loona SHA-512 Hash जनरेटर",
   "short_name": "SHA-512 Hash जनरेटर",
   "description": "Text या files के SHA-512 hashes ऑनलाइन compute करें: 512-bit, 128 hex characters। WebCrypto/pure JS के साथ आपके ब्राउज़र में locally चलता है — files कभी upload नहीं होतीं।",
-  "id": "/loona-dev-tools/hi/sha512-hash-generator/",
+  "id": "/hi/sha512-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

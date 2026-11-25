@@ -2,7 +2,7 @@
   "name": "Tester Loona Robots.txt online zdarma",
   "short_name": "Tester Robots.txt online zdarma",
   "description": "Testujte robots.txt online zdarma - vložte soubor, URL a user-agenta a získejte verdikt povoleno nebo blokováno s přesným odpovídajícím pravidlem zobrazeným. Bez registrace, běží ve vašem prohlížeči.",
-  "id": "/loona-dev-tools/cs/robots-txt-tester/",
+  "id": "/cs/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

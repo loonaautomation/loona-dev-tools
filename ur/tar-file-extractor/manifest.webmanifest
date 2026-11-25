@@ -2,7 +2,7 @@
   "name": "Loona TAR فائل ایکسٹریکٹر آن لائن مفت",
   "short_name": "TAR فائل ایکسٹریکٹر آن لائن مفت",
   "description": "اپنے براؤزر میں TAR آرکائیوز کھولیں - سادہ .tar نیز .tar.bz2 اور .tar.xz - اندر ہر فائل دیکھیں اور واحد فائلیں یا سب کچھ بطور ZIP ڈاؤن لوڈ کریں۔ کچھ اپ لوڈ نہیں ہوتا۔",
-  "id": "/loona-dev-tools/ur/tar-file-extractor/",
+  "id": "/ur/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

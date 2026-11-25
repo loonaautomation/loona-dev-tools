@@ -2,7 +2,7 @@
   "name": "Loona Rem-Pikseli (px) -muunnin",
   "short_name": "Rem-Pikseli (px) -muunnin",
   "description": "Muunna rem px:ksi säädettävällä perusfonttikoolla (oletus 16px) ja yleisten arvojen taulukolla.",
-  "id": "/loona-dev-tools/fi/rem-to-px-converter/",
+  "id": "/fi/rem-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

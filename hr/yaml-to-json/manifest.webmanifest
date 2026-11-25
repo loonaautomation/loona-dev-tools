@@ -2,7 +2,7 @@
   "name": "Loona pretvarač YAML u JSON",
   "short_name": "Pretvarač YAML u JSON",
   "description": "Pretvorite YAML u JSON na mreži: blok mapiranja i nizovi, citirani i obični skalari, kolekcije toka. Podskup pošteno dokumentiran.",
-  "id": "/loona-dev-tools/hr/yaml-to-json/",
+  "id": "/hr/yaml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

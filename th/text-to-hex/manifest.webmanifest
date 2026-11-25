@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงข้อความเป็นเลขฐานสิบหก",
   "short_name": "ตัวแปลงข้อความเป็นเลขฐานสิบหก",
   "description": "แปลงข้อความเป็นเลขฐานสิบหก (ไบต์ UTF-8) ออนไลน์ มีหรือไม่มีช่องว่างระหว่างไบต์ ตัวแปลงฟรีสำหรับนักพัฒนา",
-  "id": "/loona-dev-tools/th/text-to-hex/",
+  "id": "/th/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

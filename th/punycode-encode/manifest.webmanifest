@@ -2,7 +2,7 @@
   "name": "Loona ตัวเข้ารหัส Punycode (ตัวแปลงโดเมน IDN)",
   "short_name": "ตัวเข้ารหัส Punycode (โดเมน IDN",
   "description": "แปลงชื่อโดเมนสากล (IDN) เป็นรูปแบบ punycode xn--: bücher.example กลายเป็น xn--bcher-kva.example การเข้ารหัสทีละป้าย",
-  "id": "/loona-dev-tools/th/punycode-encode/",
+  "id": "/th/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

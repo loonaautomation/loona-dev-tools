@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha YAML kwenda CSV",
   "short_name": "Kibadilishaji cha YAML kwenda CSV",
   "description": "Badilisha orodha ya YAML ya vitu kuwa jedwali la CSV: muungano wa funguo kama safu wima, thamani zilizoingiliana zimesafirishwa kama JSON katika seli yake.",
-  "id": "/loona-dev-tools/sw/yaml-to-csv/",
+  "id": "/sw/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

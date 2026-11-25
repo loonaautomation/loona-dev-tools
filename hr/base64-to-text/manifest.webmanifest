@@ -2,7 +2,7 @@
   "name": "Loona Base64 dekoder u tekst",
   "short_name": "Dekoder Base64 u tekst",
   "description": "Dekodirajte Base64 natrag u čitljiv tekst na mreži. Obrađuje standardnu i URL-sigurnu abecedu, tekst UTF-8 na bilo kojem jeziku. Besplatno i privatno.",
-  "id": "/loona-dev-tools/hr/base64-to-text/",
+  "id": "/hr/base64-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

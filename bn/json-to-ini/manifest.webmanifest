@@ -2,7 +2,7 @@
   "name": "Loona JSON থেকে INI কনভার্টার",
   "short_name": "JSON থেকে INI কনভার্টার",
   "description": "JSON অবজেক্ট INI ফরম্যাটে রূপান্তর করুন: প্রথমে শীর্ষ-স্তরের স্কেলার, নেস্টেড অবজেক্ট [sections] হিসেবে। বিনামূল্যে অনলাইন কনভার্টার।",
-  "id": "/loona-dev-tools/bn/json-to-ini/",
+  "id": "/bn/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

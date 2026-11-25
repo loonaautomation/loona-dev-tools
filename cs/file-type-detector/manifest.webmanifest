@@ -2,7 +2,7 @@
   "name": "Detektor typu souboru Loona online zdarma",
   "short_name": "Detektor typu souboru online zdarma",
   "description": "Rozpoznejte skutečný typ souboru online zdarma z jeho podpisu záhlaví magických bajtů - PNG, PDF, ZIP, MP4, EXE a 30+ formátů - a získejte varování, když se přípona neshoduje. Nic se nenahrává.",
-  "id": "/loona-dev-tools/cs/file-type-detector/",
+  "id": "/cs/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

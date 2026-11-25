@@ -2,7 +2,7 @@
   "name": "Loona CSV Birleştirme Çevrimiçi Ücretsiz",
   "short_name": "CSV Birleştirme Çevrimiçi Ücretsiz",
   "description": "İki CSV dosyasını paylaşılan bir anahtar sütunda çevrimiçi ücretsiz birleştirin - inner join veya left join, yinelenen anahtarlar veritabanı yoluyla işlenir. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/csv-join/",
+  "id": "/tr/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

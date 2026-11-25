@@ -2,7 +2,7 @@
   "name": "Loona JSON→Go構造体変換ツール",
   "short_name": "JSON→Go構造体変換ツール",
   "description": "JSONを json タグ付きのGo構造体定義に変換：int64/float64 を区別し、一部の配列アイテムで欠けているキーには omitempty を付けます。",
-  "id": "/loona-dev-tools/ja/json-to-go-struct/",
+  "id": "/ja/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

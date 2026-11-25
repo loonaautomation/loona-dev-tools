@@ -2,7 +2,7 @@
   "name": "Convertizor Em în pixeli (px) Loona",
   "short_name": "Convertizor Em în pixeli (px)",
   "description": "Convertește em în px cu o dimensiune de font de bază reglabilă (implicit 16px) și un tabel de valori comune.",
-  "id": "/loona-dev-tools/ro/em-to-px-converter/",
+  "id": "/ro/em-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

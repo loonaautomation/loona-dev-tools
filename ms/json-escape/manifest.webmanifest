@@ -2,7 +2,7 @@
   "name": "Loona Escape String JSON",
   "short_name": "Escape String JSON",
   "description": "Escape string untuk disematkan di dalam JSON: tanda kutip, backslash, baris baru, dan aksara kontrol menjadi urutan \\.",
-  "id": "/loona-dev-tools/ms/json-escape/",
+  "id": "/ms/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

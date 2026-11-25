@@ -2,7 +2,7 @@
   "name": "Loona pretvarač JSON u CSV na mreži besplatno",
   "short_name": "Pretvarač JSON u CSV na mreži",
   "description": "Pretvorite JSON polje objekata u CSV na mreži besplatno: unija ključeva kao stupci, ispravno citiranje i escape, ugniježđene vrijednosti zadržane kao JSON. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/json-to-csv-converter/",
+  "id": "/hr/json-to-csv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

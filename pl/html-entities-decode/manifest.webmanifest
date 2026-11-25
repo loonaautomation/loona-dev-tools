@@ -2,7 +2,7 @@
   "name": "Loona Dekoder encji HTML",
   "short_name": "Dekoder encji HTML",
   "description": "Dekoduj encje HTML z powrotem na zwykłe znaki: obsługiwane odwołania nazwane, dziesiętne i szesnastkowe (&copy;, &#169;, &#xA9;).",
-  "id": "/loona-dev-tools/pl/html-entities-decode/",
+  "id": "/pl/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

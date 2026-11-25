@@ -2,7 +2,7 @@
   "name": "Loona Datum till Unix-tidsstämpelkonverterare",
   "short_name": "Datum till Unix-tidsstämpel",
   "description": "Konvertera ett datum och en tid till dess Unix-tidsstämpel i sekunder och millisekunder, i UTC eller din lokala tidszon.",
-  "id": "/loona-dev-tools/sv/date-to-unix-timestamp/",
+  "id": "/sv/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

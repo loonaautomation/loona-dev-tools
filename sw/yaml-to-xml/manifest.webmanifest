@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha YAML kwenda XML",
   "short_name": "Kibadilishaji cha YAML kwenda XML",
   "description": "Badilisha YAML kuwa XML mtandaoni: ufunguo mmoja wa kiwango cha juu huwa kipengee cha mzizi, @funguo huwa sifa.",
-  "id": "/loona-dev-tools/sw/yaml-to-xml/",
+  "id": "/sw/yaml-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

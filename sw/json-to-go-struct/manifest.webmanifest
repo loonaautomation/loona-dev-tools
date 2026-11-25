@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha JSON kwenda Muundo wa Go",
   "short_name": "Kibadilishaji cha JSON kwenda Muundo wa Go",
   "description": "Badilisha JSON kuwa ufafanuzi wa struct wa Go na tegi za json: int64/float64 zimetofautishwa, omitempty kwa funguo zinazokosekana katika baadhi ya vipengee vya safu.",
-  "id": "/loona-dev-tools/sw/json-to-go-struct/",
+  "id": "/sw/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

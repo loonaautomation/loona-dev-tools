@@ -2,7 +2,7 @@
   "name": "Loona محوّل CSV إلى TSV",
   "short_name": "محوّل CSV إلى TSV",
   "description": "حوّل CSV إلى TSV (قيم مفصولة بعلامات الجدولة): تحليل كامل للحقول المقتبسة، علامات الجدولة كفواصل. محوّل مجاني عبر الإنترنت.",
-  "id": "/loona-dev-tools/ar/csv-to-tsv/",
+  "id": "/ar/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona søgeordstæthedskontrol online gratis",
   "short_name": "Søgeordstæthedskontrol",
   "description": "Tjek søgeordstæthed online gratis – top enkeltord plus fraser på 2 og 3 ord med optællinger og procentvis tæthed, stopordsfiltrering inkluderet. Ingen tilmelding.",
-  "id": "/loona-dev-tools/da/keyword-density-checker/",
+  "id": "/da/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

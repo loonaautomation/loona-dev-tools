@@ -2,7 +2,7 @@
   "name": "Loona Base64-koder og -dekoder på nett gratis",
   "short_name": "Base64-koder og -dekoder",
   "description": "Kod tekst eller filer til Base64 og dekod Base64 tilbake, UTF-8-trygg for ethvert språk og emoji, med et URL-trygt valg. Gratis, ingen registrering, i nettleseren din.",
-  "id": "/loona-dev-tools/nb/base64-encoder/",
+  "id": "/nb/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

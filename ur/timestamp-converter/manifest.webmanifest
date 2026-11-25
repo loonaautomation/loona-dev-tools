@@ -2,7 +2,7 @@
   "name": "Loona Unix ٹائم اسٹیمپ کنورٹر آن لائن مفت",
   "short_name": "Unix ٹائم اسٹیمپ کنورٹر",
   "description": "Unix ٹائم اسٹیمپس (سیکنڈز یا ملی سیکنڈز) کو UTC اور اپنے مقامی وقت میں انسانی تاریخوں میں بدلیں، اور تاریخیں واپس ٹائم اسٹیمپس میں۔ لائیو موجودہ وقت۔ مفت۔",
-  "id": "/loona-dev-tools/ur/timestamp-converter/",
+  "id": "/ur/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona RGB থেকে CMYK কনভার্টার",
   "short_name": "RGB থেকে CMYK রূপান্তরকারী",
   "description": "অনলাইনে RGB থেকে CMYK-তে রঙ রূপান্তর করুন, একটি লাইভ সোয়াচ ও অন্য সব ফরম্যাট (HEX, RGB, HSL, HSV, CMYK) দেখানোসহ।",
-  "id": "/loona-dev-tools/bn/rgb-to-cmyk-converter/",
+  "id": "/bn/rgb-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

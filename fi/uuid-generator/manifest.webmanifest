@@ -2,7 +2,7 @@
   "name": "Loona UUID-generaattori verkossa ilmaiseksi",
   "short_name": "UUID-generaattori verkossa ilmaiseksi",
   "description": "Luo satunnaisia version 4 UUID:itä verkossa ilmaiseksi - yksittäin tai erissä enintään 100, suuraakkos- ja ei-yhdysmerkki-vaihtoehdot. Kryptografisesti satunnaisia, selaimessasi.",
-  "id": "/loona-dev-tools/fi/uuid-generator/",
+  "id": "/fi/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

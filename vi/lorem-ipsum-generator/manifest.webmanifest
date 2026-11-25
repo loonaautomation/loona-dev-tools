@@ -2,7 +2,7 @@
   "name": "Trình tạo Lorem Ipsum của Loona",
   "short_name": "Trình tạo Lorem Ipsum",
   "description": "Tạo văn bản giữ chỗ Lorem Ipsum: chọn đoạn văn, câu hoặc từ, với dòng mở đầu kinh điển tùy chọn.",
-  "id": "/loona-dev-tools/vi/lorem-ipsum-generator/",
+  "id": "/vi/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

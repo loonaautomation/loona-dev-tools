@@ -2,7 +2,7 @@
   "name": "Décodeur JWT Loona en ligne gratuit",
   "short_name": "Décodeur JWT en ligne gratuit",
   "description": "Décodez un JSON Web Token en ligne et gratuitement - lisez l’en-tête et la charge utile en JSON embellie et voyez l’expiration en mots simples. Signature NON vérifiée. Dans votre navigateur.",
-  "id": "/loona-dev-tools/fr/jwt-decoder/",
+  "id": "/fr/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

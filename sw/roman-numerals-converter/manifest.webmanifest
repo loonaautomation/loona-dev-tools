@@ -2,7 +2,7 @@
   "name": "Loona Nambari za Kirumi kwenda Nambari",
   "short_name": "Nambari za Kirumi kwenda Nambari",
   "description": "Badilisha nambari za Kirumi kuwa nambari (1–3999), na uthibitishaji madhubuti wa nukuu ya kutoa (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/sw/roman-numerals-converter/",
+  "id": "/sw/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

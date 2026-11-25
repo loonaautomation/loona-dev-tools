@@ -2,7 +2,7 @@
   "name": "Loona CSV-ből SQL-be átalakító online ingyen",
   "short_name": "CSV–SQL átalakító online",
   "description": "Alakítson CSV-t SQL-lé online ingyen - CREATE TABLE következtetett oszloptípusokkal plusz soronként egy INSERT, MySQL, PostgreSQL vagy SQLite számára. Regisztráció nélkül, 100%-ban a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/csv-to-sql-converter/",
+  "id": "/hu/csv-to-sql-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

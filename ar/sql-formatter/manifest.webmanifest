@@ -2,7 +2,7 @@
   "name": "Loona منسّق SQL عبر الإنترنت مجاناً",
   "short_name": "منسّق SQL عبر الإنترنت مجاناً",
   "description": "نسّق SQL عبر الإنترنت مجاناً: كلمات مفتاحية بأحرف كبيرة، عبارات SELECT وFROM وWHERE وJOIN على أسطرها الخاصة، سلاسل محفوظة. دون تسجيل، يعمل 100% في متصفحك.",
-  "id": "/loona-dev-tools/ar/sql-formatter/",
+  "id": "/ar/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

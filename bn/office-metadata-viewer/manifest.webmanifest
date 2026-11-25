@@ -2,7 +2,7 @@
   "name": "Loona Office ডকুমেন্ট মেটাডেটা ভিউয়ার অনলাইন",
   "short_name": "Office ডকুমেন্ট মেটাডেটা",
   "description": "বিনামূল্যে অনলাইনে Office নথির মেটাডেটা দেখুন - শিরোনাম, লেখক, কোম্পানি, তৈরি এবং পরিবর্তনের তারিখ, অ্যাপ্লিকেশন এবং সংস্করণ .docx, .xlsx এবং .pptx ফাইলের জন্য। শুধুমাত্র দেখার জন্য, কিছুই আপলোড করা হয় না।",
-  "id": "/loona-dev-tools/bn/office-metadata-viewer/",
+  "id": "/bn/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

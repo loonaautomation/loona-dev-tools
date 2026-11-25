@@ -2,7 +2,7 @@
   "name": "Мінімізатор Loona XML",
   "short_name": "Мінімізатор XML",
   "description": "Мінімізуйте XML онлайн: прибирайте коментарі та пробільні символи між тегами в один компактний рядок.",
-  "id": "/loona-dev-tools/uk/xml-minifier/",
+  "id": "/uk/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generatore Open Graph e Twitter Card",
   "short_name": "Open Graph e Twitter Card",
   "description": "Genera meta tag Open Graph e Twitter Card online gratuitamente, con un'anteprima live della scheda social - titolo, descrizione, immagine, URL e nome sito. Nessuna registrazione, funziona nel tuo browser.",
-  "id": "/loona-dev-tools/it/open-graph-generator/",
+  "id": "/it/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

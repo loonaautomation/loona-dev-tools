@@ -2,7 +2,7 @@
   "name": "Loona Προεπισκόπηση Google SERP Διαδικτυακά Δωρεάν",
   "short_name": "Εργαλείο Προεπισκόπησης Google SERP",
   "description": "Προεπισκοπήστε πώς θα φαίνεται ο τίτλος της σελίδας σας και η περιγραφή meta στα αποτελέσματα αναζήτησης της Google διαδικτυακά δωρεάν, με προβολές επιφάνειας εργασίας και κινητού και προειδοποιήσεις περικοπής πλάτους σε pixel. Χωρίς εγγραφή.",
-  "id": "/loona-dev-tools/el/google-serp-preview/",
+  "id": "/el/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

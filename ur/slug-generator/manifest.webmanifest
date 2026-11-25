@@ -2,7 +2,7 @@
   "name": "Loona سلگ جنریٹر (URL سلگ بنانے والا)",
   "short_name": "سلگ جنریٹر (URL سلگ",
   "description": "عنوانات سے صاف URL slugs بنائیں: لہجے اتارے گئے، چھوٹے حروف، اسپیسز ہائفن میں (یا انڈر اسکور)۔ مفت slug بنانے والا۔",
-  "id": "/loona-dev-tools/ur/slug-generator/",
+  "id": "/ur/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

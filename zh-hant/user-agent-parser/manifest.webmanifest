@@ -2,7 +2,7 @@
   "name": "Loona User Agent 字串解析器",
   "short_name": "User Agent 字串解析器",
   "description": "用一個透明的基於規則的解析器，把瀏覽器 User-Agent 字串解析為瀏覽器、引擎、作業系統和裝置型別。",
-  "id": "/loona-dev-tools/zh-hant/user-agent-parser/",
+  "id": "/zh-hant/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

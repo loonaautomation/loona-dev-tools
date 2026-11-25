@@ -2,7 +2,7 @@
   "name": "Loona HTML-entiteitencoder",
   "short_name": "HTML-entiteitencoder",
   "description": "Codeer speciale tekens als HTML-entiteiten: benoemde (&copy;), decimale of hex numerieke referenties. Escape't markup, quotes en niet-ASCII-tekst.",
-  "id": "/loona-dev-tools/nl/html-entities-encode/",
+  "id": "/nl/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

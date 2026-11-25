@@ -2,7 +2,7 @@
   "name": "Loona ZIP 文件创建工具 在线免费",
   "short_name": "ZIP 文件创建工具 在线免费",
   "description": "直接在您的浏览器中从多个文件创建 ZIP 文件——添加文件、命名归档并下载一个 .zip。不上传任何东西；一切都保留在您的设备上。",
-  "id": "/loona-dev-tools/zh/zip-file-creator/",
+  "id": "/zh/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

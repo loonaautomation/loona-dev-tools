@@ -2,7 +2,7 @@
   "name": "Loona Kiumbaji cha JSON Bure Mtandaoni",
   "short_name": "Kiumbaji cha JSON Bure Mtandaoni",
   "description": "Umbaji, uthibitishaji na ufinyaji wa JSON mtandaoni bure, kwa mstari na safu wima hasa ya hitilafu yoyote. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/json-formatter/",
+  "id": "/sw/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

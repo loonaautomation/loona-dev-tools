@@ -2,7 +2,7 @@
   "name": "Convertizor Base64 în imagine Loona",
   "short_name": "Convertizor Base64 în imagine",
   "description": "Decodifică un șir Base64 sau un URI de date înapoi într-o imagine vizibilă și descărcabilă. Tipul MIME detectat din octeți.",
-  "id": "/loona-dev-tools/ro/base64-to-image/",
+  "id": "/ro/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

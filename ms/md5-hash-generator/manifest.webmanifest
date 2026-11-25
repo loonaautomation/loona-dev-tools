@@ -2,7 +2,7 @@
   "name": "Loona Penjana Hash MD5",
   "short_name": "Penjana Hash MD5",
   "description": "Kira hash MD5 dari teks atau fail dalam talian: 128-bit, 32 aksara heks. Berjalan secara setempat di pelayar Anda dengan WebCrypto/JS murni — fail tidak pernah dimuat naik.",
-  "id": "/loona-dev-tools/ms/md5-hash-generator/",
+  "id": "/ms/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona محوّل البكسل (px) إلى Rem",
   "short_name": "محوّل البكسلات (px) إلى Rem",
   "description": "حوّل px إلى rem بحجم خط أساسي قابل للتعديل (الافتراضي 16px) وجدول قيم شائعة.",
-  "id": "/loona-dev-tools/ar/px-to-rem-converter/",
+  "id": "/ar/px-to-rem-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

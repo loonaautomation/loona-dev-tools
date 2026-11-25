@@ -2,7 +2,7 @@
   "name": "Генератор на Robots.txt на Loona онлайн безплатно",
   "short_name": "Генератор на Robots.txt онлайн",
   "description": "Генерирайте безплатно онлайн валиден robots.txt - предварителни настройки, правила за разрешаване и забраняване за всеки агент, ред за карта на сайта и вградени проверки за разумност на синтаксиса. Без регистрация, работи в браузъра ви.",
-  "id": "/loona-dev-tools/bg/robots-txt-generator/",
+  "id": "/bg/robots-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

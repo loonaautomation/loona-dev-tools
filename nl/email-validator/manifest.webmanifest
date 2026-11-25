@@ -2,7 +2,7 @@
   "name": "Loona e-mailvalidator online gratis",
   "short_name": "E-mailvalidator online gratis",
   "description": "Valideer e-mailadressen online gratis, één of in bulk - volledige syntaxcontroles tegen de adresregels plus detectie van gangbare domeintypfouten zoals gmial.com. Geen registratie.",
-  "id": "/loona-dev-tools/nl/email-validator/",
+  "id": "/nl/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

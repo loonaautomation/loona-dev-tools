@@ -2,7 +2,7 @@
   "name": "Verificator de diferențe Loona online gratuit",
   "short_name": "Verificator de diferențe online gratuit",
   "description": "Compară două texte online gratuit cu o diferență linie cu linie: linii adăugate în verde, linii eliminate în roșu, plus un rezumat al modificărilor. Fără înregistrare, rulează 100% în browserul tău.",
-  "id": "/loona-dev-tools/ro/diff-checker/",
+  "id": "/ro/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

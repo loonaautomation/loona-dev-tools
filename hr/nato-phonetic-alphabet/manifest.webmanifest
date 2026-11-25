@@ -2,7 +2,7 @@
   "name": "Loona prevoditelj NATO fonetske abecede (tekst",
   "short_name": "NATO fonetska abeceda",
   "description": "Izrecite tekst NATO fonetskom abecedom: A = Alfa, B = Bravo... Uključuje znamenke. Koriste zrakoplovstvo, vojska i pozivi podrške.",
-  "id": "/loona-dev-tools/hr/nato-phonetic-alphabet/",
+  "id": "/hr/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

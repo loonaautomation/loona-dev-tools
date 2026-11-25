@@ -2,7 +2,7 @@
   "name": "Loona JSON-LD séma generátor online ingyen",
   "short_name": "JSON-LD séma generátor",
   "description": "Generáljon schema.org JSON-LD strukturált adatokat online ingyen - Article, LocalBusiness, Product, Event, Recipe, Person, Organization és WebSite - kész szkriptblokként. Regisztráció nélkül.",
-  "id": "/loona-dev-tools/hu/json-ld-schema-generator/",
+  "id": "/hu/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Справочная таблица HTML-сущностей",
   "short_name": "Справочная таблица HTML-сущностей",
   "description": "Таблица основных сущностей HTML: именованная сущность, символ, десятичный код и примечания по использованию для сущностей, которые разработчики действительно используют.",
-  "id": "/loona-dev-tools/ru/html-entities-reference/",
+  "id": "/ru/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

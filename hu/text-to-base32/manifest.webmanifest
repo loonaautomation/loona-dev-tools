@@ -2,7 +2,7 @@
   "name": "Loona szövegből Base32 kódoló",
   "short_name": "Szövegből Base32 kódoló",
   "description": "Kódoljon szöveget Base32-re (RFC 4648) online — a kis- és nagybetű-érzéketlen kódolás, amelyet TOTP titkokban és DNS-biztonságos azonosítókban használnak.",
-  "id": "/loona-dev-tools/hu/text-to-base32/",
+  "id": "/hu/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

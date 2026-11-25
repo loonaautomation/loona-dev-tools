@@ -2,7 +2,7 @@
   "name": "Loona HTML-entitetskodare",
   "short_name": "HTML-entitetskodare",
   "description": "Koda specialtecken som HTML-entiteter: namngivna (&copy;), decimala eller hexadecimala numeriska referenser. Escapar markering, citattecken och icke-ASCII-text.",
-  "id": "/loona-dev-tools/sv/html-entities-encode/",
+  "id": "/sv/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

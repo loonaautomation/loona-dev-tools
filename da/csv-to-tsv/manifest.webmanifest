@@ -2,7 +2,7 @@
   "name": "Loona CSV til TSV-konverter",
   "short_name": "CSV til TSV-konverter",
   "description": "Konvertér CSV til TSV (tabulatoradskilte værdier): fuld parsing af felter i anførselstegn, tabulatorer som separatorer. Gratis online konverter.",
-  "id": "/loona-dev-tools/da/csv-to-tsv/",
+  "id": "/da/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

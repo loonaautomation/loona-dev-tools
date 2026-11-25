@@ -2,7 +2,7 @@
   "name": "Loona URL-encoder & decoder online gratis",
   "short_name": "URL-encoder & decoder online",
   "description": "Codeer en decodeer URL's en querytekst online gratis, met component- en volledige-URL-modi en een uitsplitsing per teken. Geen registratie, in je browser.",
-  "id": "/loona-dev-tools/nl/url-encoder/",
+  "id": "/nl/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

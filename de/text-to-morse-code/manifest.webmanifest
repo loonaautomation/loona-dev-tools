@@ -2,7 +2,7 @@
   "name": "Loona Text-zu-Morsecode-Übersetzer",
   "short_name": "Text-zu-Morsecode-Übersetzer",
   "description": "Übersetzen Sie Text zu Morsecode (Buchstaben, Ziffern und übliche Satzzeichen), Wörter getrennt durch /. Kostenloser Morse-Übersetzer.",
-  "id": "/loona-dev-tools/de/text-to-morse-code/",
+  "id": "/de/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

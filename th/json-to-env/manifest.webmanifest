@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง JSON เป็น .env",
   "short_name": "ตัวแปลง JSON เป็น .env",
   "description": "แปลงไฟล์กำหนดค่า JSON เป็นรูปแบบ .env: ออบเจ็กต์ที่ซ้อนกันถูกทำให้แบนด้วยเส้นทางแบบ UNDERSCORE ค่าถูกใส่เครื่องหมายคำพูดเมื่อมีช่องว่างหรือ #",
-  "id": "/loona-dev-tools/th/json-to-env/",
+  "id": "/th/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

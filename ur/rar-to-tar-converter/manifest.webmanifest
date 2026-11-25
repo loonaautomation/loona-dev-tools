@@ -2,7 +2,7 @@
   "name": "Loona RAR سے TAR کنورٹر",
   "short_name": "RAR سے TAR کنورٹر",
   "description": "RAR آرکائیوز (RAR4 اور RAR5) کو TAR میں آن لائن اپنے براؤزر میں libarchive کے ساتھ بدلیں۔ فائلیں آپ کے آلے پر رہتی ہیں۔",
-  "id": "/loona-dev-tools/ur/rar-to-tar-converter/",
+  "id": "/ur/rar-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

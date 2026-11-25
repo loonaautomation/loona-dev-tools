@@ -2,7 +2,7 @@
   "name": "Loona Pengekod Teks ke Base32",
   "short_name": "Pengekod Teks ke Base32",
   "description": "Encode teks ke Base32 (RFC 4648) dalam talian — encoding tidak peka huruf besar-kecil yang digunakan dalam rahsia TOTP dan pengenal selamat-DNS.",
-  "id": "/loona-dev-tools/ms/text-to-base32/",
+  "id": "/ms/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

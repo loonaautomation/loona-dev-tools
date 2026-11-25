@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Pixels (px) σε Rem",
   "short_name": "Μετατροπέας Pixels (px) σε Rem",
   "description": "Μετατρέψτε px σε rem με ρυθμιζόμενο βασικό μέγεθος γραμματοσειράς (προεπιλογή 16px) και πίνακα κοινών τιμών.",
-  "id": "/loona-dev-tools/el/px-to-rem-converter/",
+  "id": "/el/px-to-rem-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

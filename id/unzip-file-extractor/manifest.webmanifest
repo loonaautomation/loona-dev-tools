@@ -2,7 +2,7 @@
   "name": "Loona Ekstraktor File Unzip Online Gratis",
   "short_name": "Ekstraktor File Unzip Online",
   "description": "Buka file ZIP di browser Anda, lihat setiap file di dalamnya beserta ukurannya, dan ekstrak file tunggal atau semuanya. Tidak ada yang diunggah; ekstraksi terjadi di perangkat Anda.",
-  "id": "/loona-dev-tools/id/unzip-file-extractor/",
+  "id": "/id/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

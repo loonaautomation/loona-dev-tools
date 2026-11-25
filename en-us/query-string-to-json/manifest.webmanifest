@@ -2,7 +2,7 @@
   "name": "Loona Query String to JSON Converter",
   "short_name": "Query String to JSON Converter",
   "description": "Parse a URL query string into JSON: bracket notation becomes nested objects, repeated keys become arrays, values typed.",
-  "id": "/loona-dev-tools/en-us/query-string-to-json/",
+  "id": "/en-us/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

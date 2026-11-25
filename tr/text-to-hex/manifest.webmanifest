@@ -2,7 +2,7 @@
   "name": "Loona Metin - Hex Dönüştürücü",
   "short_name": "Metin - Hex Dönüştürücü",
   "description": "Metni onaltılığa (UTF-8 baytları) çevrimiçi, baytlar arasında boşlukla veya boşluksuz dönüştürün. Ücretsiz geliştirici dönüştürücü.",
-  "id": "/loona-dev-tools/tr/text-to-hex/",
+  "id": "/tr/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

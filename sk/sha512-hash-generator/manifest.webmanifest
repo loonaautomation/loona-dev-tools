@@ -2,7 +2,7 @@
   "name": "Generátor hashov Loona SHA-512",
   "short_name": "Generátor hashov SHA-512",
   "description": "Vypočítajte hashe SHA-512 textu alebo súborov online: 512-bitové, 128 hexadecimálnych znakov. Beží lokálne vo vašom prehliadači pomocou WebCrypto/čistého JS — súbory sa nikdy nenahrávajú.",
-  "id": "/loona-dev-tools/sk/sha512-hash-generator/",
+  "id": "/sk/sha512-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

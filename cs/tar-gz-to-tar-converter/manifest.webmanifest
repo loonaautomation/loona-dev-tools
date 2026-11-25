@@ -2,7 +2,7 @@
   "name": "Převodník Loona TAR.GZ na TAR",
   "short_name": "Převodník TAR.GZ na TAR",
   "description": "Odstraňte vrstvu gzip z archivu .tar.gz / .tgz a získejte prostý TAR, online a lokálně — nejsou potřeba žádné extrakční nástroje.",
-  "id": "/loona-dev-tools/cs/tar-gz-to-tar-converter/",
+  "id": "/cs/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

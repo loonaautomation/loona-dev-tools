@@ -2,7 +2,7 @@
   "name": "Loona Minifier JSON",
   "short_name": "Minifier JSON",
   "description": "Minifikasi JSON dalam talian: buang semua whitespace yang tidak signifikan menjadi satu baris ringkas, dengan ralat pengesahan dilaporkan secara tepat.",
-  "id": "/loona-dev-tools/ms/json-minifier/",
+  "id": "/ms/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

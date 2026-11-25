@@ -2,7 +2,7 @@
   "name": "Prevodník Loona TSV na CSV",
   "short_name": "Prevodník TSV na CSV",
   "description": "Preveďte TSV (hodnoty oddelené tabulátormi) na CSV: vložte údaje skopírované z Excelu alebo Sheets a získajte správne uvedené CSV.",
-  "id": "/loona-dev-tools/sk/tsv-to-csv/",
+  "id": "/sk/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Eliminador de duplicados y limpiador de CSV en línea gratis",
   "short_name": "Eliminador de duplicados y limpiador de CSV en línea",
   "description": "Elimina filas duplicadas de un CSV en línea gratis (por fila completa o por columnas clave), más recorta los espacios, elimina las filas vacías y normaliza los saltos de línea, con conteos de antes y después. Sin registro.",
-  "id": "/loona-dev-tools/es/csv-dedupe-cleaner/",
+  "id": "/es/csv-dedupe-cleaner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

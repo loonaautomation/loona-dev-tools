@@ -2,7 +2,7 @@
   "name": "Explicator de expresii Cron Loona",
   "short_name": "Explicator de expresii Cron",
   "description": "Explică expresii cron în limbaj simplu: lipește un program cron cu 5 câmpuri și citește când rulează, câmp cu câmp.",
-  "id": "/loona-dev-tools/ro/cron-expression-explainer/",
+  "id": "/ro/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

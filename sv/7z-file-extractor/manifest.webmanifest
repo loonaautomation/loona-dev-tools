@@ -2,7 +2,7 @@
   "name": "Loona 7Z-filextraherare online gratis",
   "short_name": "7Z-filextraherare online gratis",
   "description": "Öppna 7z-arkiv direkt i din webbläsare - se varje fil inuti, ladda ner enstaka filer eller allt som en ZIP. Ingenting laddas upp; extrahering sker på din enhet med en WebAssembly-motor.",
-  "id": "/loona-dev-tools/sv/7z-file-extractor/",
+  "id": "/sv/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pivot & Group-By CSV Dalam Talian Percuma",
   "short_name": "Pivot & Group-By CSV Dalam Talian",
   "description": "Pivot data CSV dalam talian percuma - kelompokkan baris berdasarkan lajur apa pun dan kira jumlah, kira, purata, minimum, atau maksimum lajur nilai. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/csv-pivot-group-by/",
+  "id": "/ms/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

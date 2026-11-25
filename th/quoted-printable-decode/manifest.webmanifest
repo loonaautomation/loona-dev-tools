@@ -2,7 +2,7 @@
   "name": "Loona ตัวถอดรหัส Quoted-Printable",
   "short_name": "ตัวถอดรหัส Quoted-Printable",
   "description": "ถอดรหัสข้อความ quoted-printable (MIME) กลับเป็น UTF-8 ที่อ่านได้: escape =XX และการตัดบรรทัดแบบอ่อนถูกจัดการตาม RFC 2045",
-  "id": "/loona-dev-tools/th/quoted-printable-decode/",
+  "id": "/th/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

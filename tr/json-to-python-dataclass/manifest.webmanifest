@@ -2,7 +2,7 @@
   "name": "Loona JSON - Python Dataclass Dönüştürücü",
   "short_name": "JSON - Python Dataclass",
   "description": "JSON değerini tip ipuçlarıyla Python dataclass tanımlarına dönüştürün: iç içe nesneler iç içe dataclass olur, diziler için List türleri.",
-  "id": "/loona-dev-tools/tr/json-to-python-dataclass/",
+  "id": "/tr/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

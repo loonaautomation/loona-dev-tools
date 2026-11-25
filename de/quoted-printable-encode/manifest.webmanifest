@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable-Encoder",
   "short_name": "Quoted-Printable-Encoder",
   "description": "Codieren Sie Text online als Quoted-Printable (MIME): UTF-8-Bytes als =XX-Escapes, weiche Zeilenumbrüche bei 76 Zeichen, gemäß RFC 2045.",
-  "id": "/loona-dev-tools/de/quoted-printable-encode/",
+  "id": "/de/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

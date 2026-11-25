@@ -2,7 +2,7 @@
   "name": "Prevodník Loona celého čísla na adresu IP",
   "short_name": "Celé číslo na adresu IP",
   "description": "Preveďte 32-bitové celé číslo späť na bodkovanú adresu IPv4 (3232235521 → 192.168.0.1).",
-  "id": "/loona-dev-tools/sk/integer-to-ip/",
+  "id": "/sk/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

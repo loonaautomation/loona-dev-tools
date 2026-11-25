@@ -2,7 +2,7 @@
   "name": "Декодувальник Loona Quoted-Printable",
   "short_name": "Декодувальник Quoted-Printable",
   "description": "Декодуйте текст quoted-printable (MIME) назад у читабельний UTF-8: екранування =XX і м’які розриви рядків обробляються згідно з RFC 2045.",
-  "id": "/loona-dev-tools/uk/quoted-printable-decode/",
+  "id": "/uk/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

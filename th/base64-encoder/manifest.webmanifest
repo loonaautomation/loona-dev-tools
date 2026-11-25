@@ -2,7 +2,7 @@
   "name": "Loona ตัวเข้ารหัสและถอดรหัส Base64 ออนไลน์ฟรี",
   "short_name": "ตัวเข้ารหัสและถอดรหัส Base64",
   "description": "เข้ารหัสข้อความหรือไฟล์เป็น Base64 และถอดรหัส Base64 กลับ ปลอดภัยกับ UTF-8 สำหรับทุกภาษาและอีโมจิ พร้อมตัวเลือกแบบปลอดภัยสำหรับ URL ฟรี ไม่ต้องสมัครสมาชิก ในเบราว์เซอร์ของคุณ",
-  "id": "/loona-dev-tools/th/base64-encoder/",
+  "id": "/th/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Cookieヘッダーパーサー",
   "short_name": "Cookieヘッダーパーサー",
   "description": "Cookieヘッダーを読みやすいリストに解析します。name = valueペア、パーセントデコードされた値の表示、Cookie数。",
-  "id": "/loona-dev-tools/ja/cookie-parser/",
+  "id": "/ja/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

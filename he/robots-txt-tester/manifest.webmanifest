@@ -2,7 +2,7 @@
   "name": "בודק Loona Robots.txt מקוון בחינם",
   "short_name": "בודק Robots.txt מקוון בחינם",
   "description": "בדקו robots.txt מקוון בחינם - הדביקו את הקובץ, כתובת ו-user-agent, וקבלו פסק דין מותר או חסום עם הכלל המתאים המדויק מוצג. בלי הרשמה, פועל בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/robots-txt-tester/",
+  "id": "/he/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Kodér a dekodér Caesarovy šifry Loona",
   "short_name": "Kodér Caesarovy šifry a",
   "description": "Caesarova šifra s libovolným posunem (1–25) a režimem dekódování: klasická substituční šifra Julia Caesara, online.",
-  "id": "/loona-dev-tools/cs/caesar-cipher/",
+  "id": "/cs/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

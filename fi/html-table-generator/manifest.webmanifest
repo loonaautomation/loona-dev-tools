@@ -2,7 +2,7 @@
   "name": "Loona HTML-taulukkogeneraattori verkossa ilmaiseksi",
   "short_name": "HTML-taulukkogeneraattori verkossa",
   "description": "Luo HTML-taulukoita verkossa ilmaiseksi - aseta rivit ja sarakkeet, kirjoita ruudukkoon, ja saat siistiä taulukko-HTML:ää thead-, th- ja caption-tuella sekä elävällä esikatselulla. Ei rekisteröitymistä.",
-  "id": "/loona-dev-tools/fi/html-table-generator/",
+  "id": "/fi/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

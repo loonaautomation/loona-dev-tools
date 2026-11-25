@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona JSON vers tableau Markdown",
   "short_name": "JSON vers tableau Markdown",
   "description": "Convertissez un tableau JSON d’objets en un tableau Markdown : colonnes tirées des clés, barres verticales échappées, prêt à coller dans les README.",
-  "id": "/loona-dev-tools/fr/json-to-markdown-table/",
+  "id": "/fr/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Prevodník Loona JSON na tabuľku Markdown",
   "short_name": "JSON na tabuľku Markdown",
   "description": "Preveďte pole objektov JSON na tabuľku Markdown: stĺpce z kľúčov, zvislé čiary escapované, pripravené na vloženie do README.",
-  "id": "/loona-dev-tools/sk/json-to-markdown-table/",
+  "id": "/sk/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

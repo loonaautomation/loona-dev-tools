@@ -2,7 +2,7 @@
   "name": "Loona GZIP-pakkaaja verkossa ilmaiseksi",
   "short_name": "GZIP-pakkaaja verkossa ilmaiseksi",
   "description": "Pakkaa mikä tahansa yksittäinen tiedosto .gz:ksi selaimesi sisäänrakennetulla gzip-moottorilla. Välittömät ennen/jälkeen-koot, mitään ei lähetetä palvelimelle — tiedosto pakataan laitteellasi. Toimii lokien, CSV:iden, TAR-tiedostojen ja muiden kanssa.",
-  "id": "/loona-dev-tools/fi/gzip-compressor/",
+  "id": "/fi/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona SEO読みやすさチェッカー 無料オンライン",
   "short_name": "SEO読みやすさチェッカー",
   "description": "コンテンツの読みやすさをSEOのために無料でオンラインチェック — Flesch、Flesch-Kincaid、Gunning Fog、Coleman-Liau、SMOG、ARI のスコアに加え、ウェブコピーの文長統計。登録不要。",
-  "id": "/loona-dev-tools/ja/readability-checker/",
+  "id": "/ja/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

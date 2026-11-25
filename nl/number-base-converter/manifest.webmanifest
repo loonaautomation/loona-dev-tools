@@ -2,7 +2,7 @@
   "name": "Loona getalbasis-converter online gratis",
   "short_name": "Getalbasis-converter online",
   "description": "Converteer getallen online gratis tussen binair, octaal, decimaal en hexadecimaal, met BigInt-precisie voor waarden voorbij 2^53 en validatie per cijfer. Geen registratie, draait 100% in je browser.",
-  "id": "/loona-dev-tools/nl/number-base-converter/",
+  "id": "/nl/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

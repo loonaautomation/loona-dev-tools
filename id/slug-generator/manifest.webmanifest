@@ -2,7 +2,7 @@
   "name": "Loona Generator Slug (Pembuat Slug URL)",
   "short_name": "Generator Slug (Slug URL",
   "description": "Buat slug URL yang bersih dari judul: aksen dibuang, huruf kecil, spasi menjadi tanda hubung (atau garis bawah). Pembuat slug gratis.",
-  "id": "/loona-dev-tools/id/slug-generator/",
+  "id": "/id/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

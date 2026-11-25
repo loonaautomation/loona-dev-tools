@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de HEX a HSL",
   "short_name": "Convertidor de HEX a HSL",
   "description": "Convierte colores de HEX a HSL en línea, con una muestra en vivo y todos los demás formatos (HEX, RGB, HSL, HSV, CMYK) también mostrados.",
-  "id": "/loona-dev-tools/es/hex-to-hsl-converter/",
+  "id": "/es/hex-to-hsl-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

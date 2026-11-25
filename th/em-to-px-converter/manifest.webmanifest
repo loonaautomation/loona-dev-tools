@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง Em เป็น Pixels (px)",
   "short_name": "ตัวแปลง Em เป็น Pixels (px)",
   "description": "แปลง em เป็น px ด้วยขนาดฟอนต์ฐานที่ปรับได้ (ค่าเริ่มต้น 16px) และตารางค่าทั่วไป",
-  "id": "/loona-dev-tools/th/em-to-px-converter/",
+  "id": "/th/em-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

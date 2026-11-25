@@ -2,7 +2,7 @@
   "name": "Loona referentie van HTTP-statuscodes",
   "short_name": "Referentie van HTTP-statuscodes",
   "description": "Elke gangbare HTTP-statuscode met zijn betekenis: 2xx succes, 3xx omleidingen, 4xx clientfouten, 5xx serverfouten — gewoon uitgelegd.",
-  "id": "/loona-dev-tools/nl/http-status-codes/",
+  "id": "/nl/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penjana Hash SHA-256",
   "short_name": "Penjana Hash SHA-256",
   "description": "Kira hash SHA-256 dari teks atau fail dalam talian: 256-bit, 64 aksara heks. Berjalan secara setempat di pelayar Anda dengan WebCrypto/JS murni — fail tidak pernah dimuat naik.",
-  "id": "/loona-dev-tools/ms/sha256-hash-generator/",
+  "id": "/ms/sha256-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Roomalaiset numerot luvuiksi",
   "short_name": "Roomalaiset numerot luvuiksi",
   "description": "Muunna roomalaisia numeroita luvuiksi (1–3999), tiukalla vähentävän merkintätavan validoinnilla (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/fi/roman-numerals-converter/",
+  "id": "/fi/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

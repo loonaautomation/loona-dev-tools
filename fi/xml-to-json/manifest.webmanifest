@@ -2,7 +2,7 @@
   "name": "Loona XML-JSON-muunnin",
   "short_name": "XML-JSON-muunnin",
   "description": "Muunna XML JSON:iksi verkossa: attribuutit @avaimina, toistuvat elementit taulukoina, teksti arvoina luvut tyypitettyinä.",
-  "id": "/loona-dev-tools/fi/xml-to-json/",
+  "id": "/fi/xml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Transposition Loona CSV en ligne gratuite",
   "short_name": "Transposition CSV en ligne gratuite",
   "description": "Transposez le CSV en ligne et gratuitement - échangez lignes et colonnes avec un analyseur RFC 4180 correct qui gère correctement les champs entre guillemets. Sans inscription, fonctionne à 100 % dans votre navigateur.",
-  "id": "/loona-dev-tools/fr/csv-transpose/",
+  "id": "/fr/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

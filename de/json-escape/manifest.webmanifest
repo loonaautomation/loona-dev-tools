@@ -2,7 +2,7 @@
   "name": "Loona JSON-String-Escape",
   "short_name": "JSON-String-Escape",
   "description": "Escapen Sie eine Zeichenfolge zum Einbetten in JSON: Anführungszeichen, Backslashes, Zeilenumbrüche und Steuerzeichen werden zu \\-Sequenzen.",
-  "id": "/loona-dev-tools/de/json-escape/",
+  "id": "/de/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

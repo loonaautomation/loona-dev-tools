@@ -2,7 +2,7 @@
   "name": "Loona JSON - SQL INSERT Oluşturucu",
   "short_name": "JSON - SQL INSERT Oluşturucu",
   "description": "Nesnelerin bir JSON dizisinden SQL INSERT ifadeleri oluşturun: dizeler kaçışlı, NULL ve boolean değerler işlenir, özel tablo adı.",
-  "id": "/loona-dev-tools/tr/json-to-sql-insert/",
+  "id": "/tr/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona IP سب نیٹ کیلکولیٹر آن لائن مفت",
   "short_name": "IP سب نیٹ کیلکولیٹر آن لائن",
   "description": "IPv4 سب نیٹس آن لائن مفت گنیں - کسی بھی CIDR ایڈریس سے network, broadcast, netmask, wildcard، پہلا اور آخری ہوسٹ، قابل استعمال ہوسٹ گنتی اور IP کلاس، علاوہ ایک سب نیٹ تقسیم منظر۔",
-  "id": "/loona-dev-tools/ur/ip-subnet-calculator/",
+  "id": "/ur/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona محوّل JSON إلى .env",
   "short_name": "محوّل JSON إلى .env",
   "description": "حوّل تهيئة JSON إلى صيغة .env: كائنات متداخلة مسطّحة بمسارات UNDERSCORE، وقيم مقتبسة عندما تحتوي مسافات أو #.",
-  "id": "/loona-dev-tools/ar/json-to-env/",
+  "id": "/ar/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

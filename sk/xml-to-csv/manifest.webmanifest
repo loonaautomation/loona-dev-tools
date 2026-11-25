@@ -2,7 +2,7 @@
   "name": "Prevodník Loona XML na CSV",
   "short_name": "Prevodník XML na CSV",
   "description": "Preveďte XML na CSV: opakované prvky sa stávajú riadkami, ich potomkovia a atribúty stĺpcami. Bezplatný online prevodník.",
-  "id": "/loona-dev-tools/sk/xml-to-csv/",
+  "id": "/sk/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona MD5 ہیش جنریٹر",
   "short_name": "MD5 ہیش جنریٹر",
   "description": "متن یا فائلوں کے MD5 ہیشز آن لائن گنیں: 128-bit, 32 ہیکس حروف۔ آپ کے براؤزر میں WebCrypto/pure JS کے ساتھ مقامی طور پر چلتا ہے — فائلیں کبھی اپ لوڈ نہیں ہوتیں۔",
-  "id": "/loona-dev-tools/ur/md5-hash-generator/",
+  "id": "/ur/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

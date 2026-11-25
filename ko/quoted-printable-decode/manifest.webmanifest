@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable 디코더",
   "short_name": "Quoted-Printable 디코더",
   "description": "quoted-printable(MIME) 텍스트를 다시 읽을 수 있는 UTF-8로 디코딩해요: =XX 이스케이프와 소프트 줄바꿈이 RFC 2045에 따라 처리돼요.",
-  "id": "/loona-dev-tools/ko/quoted-printable-decode/",
+  "id": "/ko/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

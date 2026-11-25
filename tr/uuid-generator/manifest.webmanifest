@@ -2,7 +2,7 @@
   "name": "Loona UUID Oluşturucu Çevrimiçi Ücretsiz",
   "short_name": "UUID Oluşturucu Çevrimiçi Ücretsiz",
   "description": "Rastgele sürüm 4 UUID değerlerini çevrimiçi ücretsiz oluşturun - tek veya toplu 100 değerine kadar, büyük harf ve tiresiz seçenekler. Kriptografik olarak rastgele, tarayıcınızda.",
-  "id": "/loona-dev-tools/tr/uuid-generator/",
+  "id": "/tr/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

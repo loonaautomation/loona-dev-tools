@@ -2,7 +2,7 @@
   "name": "Převodník Loona JSON na datovou třídu Pythonu",
   "short_name": "JSON na datovou třídu Pythonu",
   "description": "Převádějte JSON na datové třídy Pythonu s typovými nápovědami: vnořené objekty se stanou vnořenými datovými třídami, typy List pro pole.",
-  "id": "/loona-dev-tools/cs/json-to-python-dataclass/",
+  "id": "/cs/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

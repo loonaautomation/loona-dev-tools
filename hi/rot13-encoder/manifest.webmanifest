@@ -2,7 +2,7 @@
   "name": "Loona ROT13 एनकोडर और डिकोडर",
   "short_name": "ROT13 एनकोडर और डिकोडर",
   "description": "किसी text पर ROT13 करें: अक्षरों को 13 places rotate करें। Encoding और decoding एक ही operation हैं। Spoilers और puzzles के लिए classic।",
-  "id": "/loona-dev-tools/hi/rot13-encoder/",
+  "id": "/hi/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

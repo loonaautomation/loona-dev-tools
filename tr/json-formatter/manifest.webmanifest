@@ -2,7 +2,7 @@
   "name": "Loona JSON Biçimlendirici Çevrimiçi Ücretsiz",
   "short_name": "JSON Biçimlendirici Çevrimiçi Ücretsiz",
   "description": "JSON değerini çevrimiçi ücretsiz, herhangi bir hatanın tam satır ve sütunuyla biçimlendirin, doğrulayın ve küçültün. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/json-formatter/",
+  "id": "/tr/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

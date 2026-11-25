@@ -2,7 +2,7 @@
   "name": "Loona YAML से JSON कन्वर्टर ऑनलाइन मुफ़्त",
   "short_name": "YAML से JSON कन्वर्टर ऑनलाइन",
   "description": "YAML को JSON और JSON को YAML में ऑनलाइन मुफ़्त बदलें। रोज़मर्रा का subset support करता है: nested maps, lists और scalars, सीमाएँ ईमानदारी से बताई गईं। कोई sign-up नहीं, 100% आपके ब्राउज़र में चलता है।",
-  "id": "/loona-dev-tools/hi/yaml-json-converter/",
+  "id": "/hi/yaml-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

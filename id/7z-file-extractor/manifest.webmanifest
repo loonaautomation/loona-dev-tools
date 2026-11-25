@@ -2,7 +2,7 @@
   "name": "Loona Ekstraktor File 7Z Online Gratis",
   "short_name": "Ekstraktor File 7Z Online Gratis",
   "description": "Buka arsip 7z langsung di browser Anda - lihat setiap file di dalamnya, unduh file tunggal atau semuanya sebagai ZIP. Tidak ada yang diunggah; ekstraksi terjadi di perangkat Anda dengan mesin WebAssembly.",
-  "id": "/loona-dev-tools/id/7z-file-extractor/",
+  "id": "/id/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

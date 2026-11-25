@@ -2,7 +2,7 @@
   "name": "Loona Estrattore di file ISO online gratuito",
   "short_name": "Estrattore di file ISO online gratuito",
   "description": "Apri immagini disco ISO direttamente nel tuo browser - sfoglia il file system memorizzato sul disco virtuale e scarica singoli file o tutto come ZIP. Nulla viene caricato.",
-  "id": "/loona-dev-tools/it/iso-file-extractor/",
+  "id": "/it/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

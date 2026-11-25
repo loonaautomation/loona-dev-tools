@@ -2,7 +2,7 @@
   "name": "Loona A1Z26 Encoder — Letters to Numbers",
   "short_name": "A1Z26 Encoder — Letters to Numbers",
   "description": "Encode text with the A1Z26 cipher: A=1, B=2 ... Z=26. The classic puzzle and escape-room code.",
-  "id": "/loona-dev-tools/en-us/a1z26-cipher-encoder/",
+  "id": "/en-us/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

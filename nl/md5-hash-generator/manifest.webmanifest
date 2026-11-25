@@ -2,7 +2,7 @@
   "name": "Loona MD5-hashgenerator",
   "short_name": "MD5-hashgenerator",
   "description": "Bereken MD5-hashes van tekst of bestanden online: 128-bit, 32 hex-tekens. Draait lokaal in je browser met WebCrypto/pure JS — bestanden worden nooit geüpload.",
-  "id": "/loona-dev-tools/nl/md5-hash-generator/",
+  "id": "/nl/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

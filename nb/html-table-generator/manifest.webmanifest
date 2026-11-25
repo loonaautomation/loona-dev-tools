@@ -2,7 +2,7 @@
   "name": "Loona HTML-tabellgenerator på nett gratis",
   "short_name": "HTML-tabellgenerator på nett",
   "description": "Generer HTML-tabeller på nett gratis - sett rader og kolonner, skriv inn i rutenettet, og få ren tabell-HTML med støtte for thead, th og caption pluss direkte forhåndsvisning. Ingen registrering.",
-  "id": "/loona-dev-tools/nb/html-table-generator/",
+  "id": "/nb/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

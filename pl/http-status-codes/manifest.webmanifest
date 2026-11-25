@@ -2,7 +2,7 @@
   "name": "Loona Materiały referencyjne kodów statusu HTTP",
   "short_name": "Materiały referencyjne kodów statusu HTTP",
   "description": "Każdy popularny kod statusu HTTP wraz z jego znaczeniem: 2xx sukces, 3xx przekierowania, 4xx błędy klienta, 5xx błędy serwera — objaśnione zwyczajnie.",
-  "id": "/loona-dev-tools/pl/http-status-codes/",
+  "id": "/pl/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

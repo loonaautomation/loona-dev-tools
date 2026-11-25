@@ -2,7 +2,7 @@
   "name": "Jointure Loona CSV en ligne gratuite",
   "short_name": "Jointure CSV en ligne gratuite",
   "description": "Joignez deux fichiers CSV en ligne et gratuitement sur une colonne clé partagée - jointure interne ou jointure gauche, clés en double gérées à la manière des bases de données. Sans inscription, fonctionne à 100 % dans votre navigateur.",
-  "id": "/loona-dev-tools/fr/csv-join/",
+  "id": "/fr/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

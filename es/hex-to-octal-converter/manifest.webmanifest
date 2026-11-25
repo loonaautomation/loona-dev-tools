@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de hexadecimal a octal",
   "short_name": "Convertidor de hexadecimal a octal",
   "description": "Convierte números hexadecimales a octal en línea: precisión arbitraria (BigInt), números negativos admitidos.",
-  "id": "/loona-dev-tools/es/hex-to-octal-converter/",
+  "id": "/es/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

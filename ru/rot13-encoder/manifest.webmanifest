@@ -2,7 +2,7 @@
   "name": "Loona Кодировщик &amp; декодировщик ROT13",
   "short_name": "Кодировщик &amp; декодер ROT13",
   "description": "Применяйте ROT13 к любому тексту: поворачивайте буквы на 13 позиций. Кодирование и декодирование — одна и та же операция. Классика для спойлеров и головоломок.",
-  "id": "/loona-dev-tools/ru/rot13-encoder/",
+  "id": "/ru/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

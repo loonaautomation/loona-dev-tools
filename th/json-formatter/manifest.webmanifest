@@ -2,7 +2,7 @@
   "name": "Loona ตัวจัดรูปแบบ JSON ออนไลน์ฟรี",
   "short_name": "ตัวจัดรูปแบบ JSON ออนไลน์ฟรี",
   "description": "จัดรูปแบบ ตรวจสอบ และย่อขนาด JSON ออนไลน์ฟรี พร้อมบรรทัดและคอลัมน์ที่แม่นยำของข้อผิดพลาดใด ๆ ไม่ต้องสมัครสมาชิก ทำงาน 100% ในเบราว์เซอร์ของคุณ",
-  "id": "/loona-dev-tools/th/json-formatter/",
+  "id": "/th/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

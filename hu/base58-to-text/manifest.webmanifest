@@ -2,7 +2,7 @@
   "name": "Loona Base58-ból szöveggé dekódoló",
   "short_name": "Base58–szöveg dekódoló",
   "description": "Dekódolja a Base58 karakterláncokat vissza szöveggé (UTF-8). Ellenőriz a Bitcoin ábécé alapján, és jelenti az érvénytelen karaktereket.",
-  "id": "/loona-dev-tools/hu/base58-to-text/",
+  "id": "/hu/base58-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

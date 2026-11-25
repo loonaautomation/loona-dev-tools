@@ -2,7 +2,7 @@
   "name": "Loona 7Z 轉 TAR 轉換器",
   "short_name": "7Z 轉 TAR 轉換器",
   "description": "線上把 7Z 歸檔轉換為 TAR：libarchive（WebAssembly）讀取 7Z，ustar 寫入器重新打包。私密且本地。",
-  "id": "/loona-dev-tools/zh-hant/7z-to-tar-converter/",
+  "id": "/zh-hant/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

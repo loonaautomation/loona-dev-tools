@@ -2,7 +2,7 @@
   "name": "Loona Analizzatore URL online gratuito",
   "short_name": "Analizzatore URL online gratuito",
   "description": "Analizza qualsiasi URL online gratuitamente in protocollo, host, porta, percorso, parametri di query e hash - modifica i parametri e ricostruisci l'URL. Nessuna registrazione, funziona al 100% nel tuo browser.",
-  "id": "/loona-dev-tools/it/url-parser/",
+  "id": "/it/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

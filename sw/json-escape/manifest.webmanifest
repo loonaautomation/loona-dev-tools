@@ -2,7 +2,7 @@
   "name": "Loona Torosha Mfululizo wa JSON",
   "short_name": "Torosha Mfululizo wa JSON",
   "description": "Torosha mfululizo kwa kupachika ndani ya JSON: nukuu, miparazo ya nyuma, mistari mipya na herufi za udhibiti huwa mifuatano ya \\.",
-  "id": "/loona-dev-tools/sw/json-escape/",
+  "id": "/sw/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

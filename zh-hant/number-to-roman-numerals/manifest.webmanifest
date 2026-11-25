@@ -2,7 +2,7 @@
   "name": "Loona 數字轉羅馬數字",
   "short_name": "數字轉羅馬數字",
   "description": "把數字（1–3999）轉換成標準減法形式的羅馬數字。免費的線上轉換器。",
-  "id": "/loona-dev-tools/zh-hant/number-to-roman-numerals/",
+  "id": "/zh-hant/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

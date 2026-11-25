@@ -2,7 +2,7 @@
   "name": "Loona URL-koder og -dekoder online gratis",
   "short_name": "URL-koder og -dekoder online",
   "description": "Kod og afkod URL'er og query-tekst online gratis, med komponent- og fuld-URL-tilstande og en opdeling pr. tegn. Ingen tilmelding, i din browser.",
-  "id": "/loona-dev-tools/da/url-encoder/",
+  "id": "/da/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

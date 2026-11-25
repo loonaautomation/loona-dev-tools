@@ -2,7 +2,7 @@
   "name": "Loona Maktaba ya Kibadilishaji na Kizalishaji",
   "short_name": "Maktaba ya Vibadilishaji na Vizalishaji",
   "description": "Faharasa ya vibadilishaji na vizalishaji vyote vya Zana za Wasanidi Programu za Loona: usimbaji, miundo ya data, hashi, rangi, hifadhi, vizalishaji vya msimbo na marejeo.",
-  "id": "/loona-dev-tools/sw/converter-library/",
+  "id": "/sw/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

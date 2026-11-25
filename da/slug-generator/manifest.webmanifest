@@ -2,7 +2,7 @@
   "name": "Loona Slug-generator (URL-slug-skaber)",
   "short_name": "Slug-generator (URL-slug",
   "description": "Generér rene URL-slugs ud fra titler: accenter fjernet, små bogstaver, mellemrum til bindestreger (eller understregninger). Gratis slug-mager.",
-  "id": "/loona-dev-tools/da/slug-generator/",
+  "id": "/da/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

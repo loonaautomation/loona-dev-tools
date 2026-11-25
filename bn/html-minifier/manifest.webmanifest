@@ -2,7 +2,7 @@
   "name": "Loona HTML মিনিফায়ার",
   "short_name": "HTML মিনিফায়ার",
   "description": "অনলাইনে HTML মিনিফাই করুন: মন্তব্য সরান ও হোয়াইটস্পেস ভেঙে দিন pre, textarea, script ও style বিষয়বস্তু সুরক্ষিত রেখে।",
-  "id": "/loona-dev-tools/bn/html-minifier/",
+  "id": "/bn/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum জেনারেটর",
   "short_name": "Lorem Ipsum জেনারেটর",
   "description": "Lorem Ipsum স্থানধারক টেক্সট তৈরি করুন: অনুচ্ছেদ, বাক্য বা শব্দ বেছে নিন, ধ্রুপদি খোলার লাইন ঐচ্ছিকসহ।",
-  "id": "/loona-dev-tools/bn/lorem-ipsum-generator/",
+  "id": "/bn/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

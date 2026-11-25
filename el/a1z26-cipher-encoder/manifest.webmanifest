@@ -2,7 +2,7 @@
   "name": "Loona Κωδικοποιητής Κρυπτογράφησης A1Z26 (Γράμματα σε Αριθμούς)",
   "short_name": "Κωδικοποιητής Κρυπτογράφησης A1Z26 (Γράμματα",
   "description": "Κωδικοποιήστε κείμενο με την κρυπτογράφηση A1Z26: A=1, B=2 ... Z=26. Ο κλασικός κώδικας γρίφων και δωματίων απόδρασης.",
-  "id": "/loona-dev-tools/el/a1z26-cipher-encoder/",
+  "id": "/el/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

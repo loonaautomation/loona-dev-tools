@@ -2,7 +2,7 @@
   "name": "Конвертер Loona ZIP у TAR",
   "short_name": "Конвертер ZIP у TAR",
   "description": "Конвертуйте архіви ZIP у нестиснений TAR онлайн: ті самі файли й папки, перепаковані записувачем TAR, який відповідає стандартам. Повністю локально.",
-  "id": "/loona-dev-tools/uk/zip-to-tar-converter/",
+  "id": "/uk/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

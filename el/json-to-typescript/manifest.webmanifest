@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας JSON σε Διεπαφή TypeScript",
   "short_name": "JSON σε Διεπαφή TypeScript",
   "description": "Μετατρέψτε JSON σε διεπαφές TypeScript διαδικτυακά: τα ένθετα αντικείμενα γίνονται ονομασμένες διεπαφές, οι πίνακες αντικειμένων συγχωνεύουν τα κλειδιά τους με τα προαιρετικά πεδία σημειωμένα.",
-  "id": "/loona-dev-tools/el/json-to-typescript/",
+  "id": "/el/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

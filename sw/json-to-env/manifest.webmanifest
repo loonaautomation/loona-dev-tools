@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha JSON kwenda .env",
   "short_name": "Kibadilishaji cha JSON kwenda .env",
   "description": "Badilisha usanidi wa JSON kuwa muundo wa .env: vitu vilivyoingiliana vimenyoshwa na njia za UNDERSCORE, thamani hunukuliwa zinapokuwa na nafasi au #.",
-  "id": "/loona-dev-tools/sw/json-to-env/",
+  "id": "/sw/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

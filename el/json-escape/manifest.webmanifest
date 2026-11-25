@@ -2,7 +2,7 @@
   "name": "Loona Διαφυγή Συμβολοσειράς JSON",
   "short_name": "Διαφυγή Συμβολοσειράς JSON",
   "description": "Διαφύγετε μια συμβολοσειρά για ενσωμάτωση μέσα σε JSON: εισαγωγικά, ανάστροφες κάθετοι, νέες γραμμές και χαρακτήρες ελέγχου γίνονται ακολουθίες \\.",
-  "id": "/loona-dev-tools/el/json-escape/",
+  "id": "/el/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printableエンコーダー",
   "short_name": "Quoted-Printableエンコーダー",
   "description": "テキストをquoted-printable（MIME）としてオンラインでエンコードします。UTF-8バイトを=XXエスケープとして、76文字でソフト改行、RFC 2045準拠です。",
-  "id": "/loona-dev-tools/ja/quoted-printable-encode/",
+  "id": "/ja/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

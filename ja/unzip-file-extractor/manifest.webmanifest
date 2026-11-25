@@ -2,7 +2,7 @@
   "name": "Loona ZIP解凍ツール 無料オンライン",
   "short_name": "ZIP解凍ツール オンライン",
   "description": "ZIPファイルをブラウザで開き、内部のすべてのファイルをサイズとともに見て、個別のファイルまたはすべてを解凍してください。何もアップロードされません。解凍はあなたのデバイス上で行われます。",
-  "id": "/loona-dev-tools/ja/unzip-file-extractor/",
+  "id": "/ja/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

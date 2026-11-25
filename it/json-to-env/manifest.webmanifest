@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da JSON a .env",
   "short_name": "Convertitore da JSON a .env",
   "description": "Converti configurazione JSON in formato .env: oggetti annidati appiattiti con percorsi UNDERSCORE, valori tra virgolette quando contengono spazi o #.",
-  "id": "/loona-dev-tools/it/json-to-env/",
+  "id": "/it/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

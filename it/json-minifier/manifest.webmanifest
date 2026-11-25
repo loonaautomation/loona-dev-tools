@@ -2,7 +2,7 @@
   "name": "Loona Minificatore JSON",
   "short_name": "Minificatore JSON",
   "description": "Minifica JSON online: elimina tutti gli spazi insignificanti in una singola riga compatta, con errori di convalida riportati con precisione.",
-  "id": "/loona-dev-tools/it/json-minifier/",
+  "id": "/it/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

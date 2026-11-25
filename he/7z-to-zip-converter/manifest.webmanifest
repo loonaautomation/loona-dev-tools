@@ -2,7 +2,7 @@
   "name": "ממיר Loona 7Z ל-ZIP מקוון בחינם",
   "short_name": "ממיר 7Z ל-ZIP מקוון",
   "description": "המירו ארכיון 7Z ‏(.7z) לקובץ ZIP סטנדרטי ממש בדפדפן שלכם. מבנה התיקיות נשמר, שום דבר לא מועלה - וה-ZIP המתקבל נפתח באופן מובנה ב-Windows, macOS, Android ו-iPhone, בלי צורך ב-7-Zip.",
-  "id": "/loona-dev-tools/he/7z-to-zip-converter/",
+  "id": "/he/7z-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

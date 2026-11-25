@@ -2,7 +2,7 @@
   "name": "Loona Konwerter dziesiętny na szesnastkowy",
   "short_name": "Dziesiętny na szesnastkowy",
   "description": "Konwertuj liczby dziesiętne na szesnastkowe online — dowolna precyzja (BigInt), liczby ujemne obsługiwane.",
-  "id": "/loona-dev-tools/pl/decimal-to-hex-converter/",
+  "id": "/pl/decimal-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

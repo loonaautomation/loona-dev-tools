@@ -2,7 +2,7 @@
   "name": "Loona YAML-ból JSON-ba átalakító online ingyen",
   "short_name": "YAML-ból JSON-ba átalakító online",
   "description": "Alakítson YAML-t JSON-ná és JSON-t YAML-lá online ingyen. Támogatja a mindennapi részhalmazt: beágyazott leképezések, listák és skalárok, a korlátok őszintén kimondva. Regisztráció nélkül, 100%-ban a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/yaml-json-converter/",
+  "id": "/hu/yaml-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/xml-to-yaml/",
+  "id": "/en-gb/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

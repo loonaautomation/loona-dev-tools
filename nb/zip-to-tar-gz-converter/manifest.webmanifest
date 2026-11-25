@@ -2,7 +2,7 @@
   "name": "Loona ZIP til TAR.GZ-konverterer på nett gratis",
   "short_name": "ZIP til TAR.GZ-konverterer",
   "description": "Konverter et ZIP-arkiv til en TAR.GZ-tarball (.tar.gz) rett i nettleseren din - formatet Linux-servere, Docker og byggverktøy forventer. Mappestruktur bevart, ingenting lastet opp.",
-  "id": "/loona-dev-tools/nb/zip-to-tar-gz-converter/",
+  "id": "/nb/zip-to-tar-gz-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

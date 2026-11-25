@@ -2,7 +2,7 @@
   "name": "Loona Konwerter ZIP na TAR.GZ online za darmo",
   "short_name": "Konwerter ZIP na TAR.GZ",
   "description": "Konwertuj archiwum ZIP na tarball TAR.GZ (.tar.gz) wprost w przeglądarce - format, którego oczekują serwery Linuksa, Docker i narzędzia budujące. Struktura folderów zachowana, nic nie jest przesyłane.",
-  "id": "/loona-dev-tools/pl/zip-to-tar-gz-converter/",
+  "id": "/pl/zip-to-tar-gz-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona محوّل العشري إلى الثماني",
   "short_name": "محوّل العشري إلى الثماني",
   "description": "حوّل الأرقام العشرية إلى الثماني عبر الإنترنت — دقة تعسّفية (BigInt)، أرقام سالبة مدعومة.",
-  "id": "/loona-dev-tools/ar/decimal-to-octal-converter/",
+  "id": "/ar/decimal-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

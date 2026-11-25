@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Κατακερματισμού SHA-384",
   "short_name": "Γεννήτρια Κατακερματισμού SHA-384",
   "description": "Υπολογίστε hash SHA-384 κειμένου ή αρχείων διαδικτυακά: 384-bit, 96 δεκαεξαδικοί χαρακτήρες. Εκτελείται τοπικά στο πρόγραμμα περιήγησής σας με WebCrypto/καθαρή JS — τα αρχεία δεν μεταφορτώνονται ποτέ.",
-  "id": "/loona-dev-tools/el/sha384-hash-generator/",
+  "id": "/el/sha384-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Конвертер форматів адрес Loona MAC",
   "short_name": "Конвертер форматів MAC-адрес",
   "description": "Конвертуйте адреси MAC між форматами з двокрапкою (AA:BB:CC:DD:EE:FF), тире, крапкою Cisco та звичайним; перевіряє 48-бітну адресу.",
-  "id": "/loona-dev-tools/uk/mac-address-converter/",
+  "id": "/uk/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

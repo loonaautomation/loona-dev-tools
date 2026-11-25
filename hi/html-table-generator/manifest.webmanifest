@@ -2,7 +2,7 @@
   "name": "Loona HTML Table जनरेटर ऑनलाइन मुफ़्त",
   "short_name": "HTML Table जनरेटर ऑनलाइन",
   "description": "HTML tables ऑनलाइन मुफ़्त generate करें — rows और columns set करें, grid में type करें, और thead, th और caption support साथ में एक live preview के साथ साफ़ table HTML पाएँ। कोई साइन-अप नहीं।",
-  "id": "/loona-dev-tools/hi/html-table-generator/",
+  "id": "/hi/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

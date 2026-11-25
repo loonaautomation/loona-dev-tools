@@ -2,7 +2,7 @@
   "name": "Loona Generatore di firme email HTML online gratuito",
   "short_name": "Firma email HTML",
   "description": "Crea una firma email HTML professionale online gratuitamente - nome, titolo, azienda, telefono, email e sito web in HTML tabellare sicuro per email che funziona in Gmail e Outlook. Nessuna registrazione.",
-  "id": "/loona-dev-tools/it/email-signature-generator/",
+  "id": "/it/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Codificator și decodificator ROT13 Loona",
   "short_name": "Codificator și decodificator ROT13",
   "description": "Aplică ROT13 oricărui text: rotește literele cu 13 locuri. Codificarea și decodificarea sunt aceeași operație. Clasic pentru spoilere și puzzle-uri.",
-  "id": "/loona-dev-tools/ro/rot13-encoder/",
+  "id": "/ro/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

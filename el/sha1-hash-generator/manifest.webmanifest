@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Κατακερματισμού SHA-1",
   "short_name": "Γεννήτρια Κατακερματισμού SHA-1",
   "description": "Υπολογίστε hash SHA-1 κειμένου ή αρχείων διαδικτυακά: 160-bit, 40 δεκαεξαδικοί χαρακτήρες. Εκτελείται τοπικά στο πρόγραμμα περιήγησής σας με WebCrypto/καθαρή JS — τα αρχεία δεν μεταφορτώνονται ποτέ.",
-  "id": "/loona-dev-tools/el/sha1-hash-generator/",
+  "id": "/el/sha1-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

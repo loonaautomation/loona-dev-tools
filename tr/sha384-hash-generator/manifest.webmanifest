@@ -2,7 +2,7 @@
   "name": "Loona SHA-384 Hash Oluşturucu",
   "short_name": "SHA-384 Hash Oluşturucu",
   "description": "Metin veya dosyaların SHA-384 hash değerlerini çevrimiçi hesaplayın: 384 bit, 96 hex karakter. WebCrypto/saf JS ile tarayıcınızda yerel olarak çalışır — dosyalar asla yüklenmez.",
-  "id": "/loona-dev-tools/tr/sha384-hash-generator/",
+  "id": "/tr/sha384-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

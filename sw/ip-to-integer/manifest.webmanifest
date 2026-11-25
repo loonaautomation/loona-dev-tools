@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Anwani ya IP kwenda Nambari Kamili",
   "short_name": "Anwani ya IP kwenda Nambari Kamili",
   "description": "Badilisha anwani ya IPv4 kuwa muundo wake wa nambari kamili ya biti 32 (192.168.0.1 → 3232235521), unaotumika katika hifadhidata na ukaguzi wa masafa.",
-  "id": "/loona-dev-tools/sw/ip-to-integer/",
+  "id": "/sw/ip-to-integer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

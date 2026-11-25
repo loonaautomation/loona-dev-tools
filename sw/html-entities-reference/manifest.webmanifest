@@ -2,7 +2,7 @@
   "name": "Loona Jedwali la Marejeo ya Huluki za HTML",
   "short_name": "Jedwali la Marejeo ya Huluki za HTML",
   "description": "Jedwali muhimu la huluki za HTML: huluki yenye jina, herufi, msimbo wa desimali na dokezo za matumizi kwa huluki ambazo wasanidi programu hutumia hasa.",
-  "id": "/loona-dev-tools/sw/html-entities-reference/",
+  "id": "/sw/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

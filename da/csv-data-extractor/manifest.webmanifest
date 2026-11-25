@@ -2,7 +2,7 @@
   "name": "Loona CSV-dataudtrækker online gratis",
   "short_name": "CSV-dataudtrækker online gratis",
   "description": "Udtræk e-mailadresser, telefonnumre og URL'er fra rodede CSV-filer eller enhver tekst online gratis – rensede, deduplikerede lister, du kan downloade. Ingen tilmelding, kører i din browser.",
-  "id": "/loona-dev-tools/da/csv-data-extractor/",
+  "id": "/da/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

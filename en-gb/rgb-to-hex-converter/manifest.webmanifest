@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/rgb-to-hex-converter/",
+  "id": "/en-gb/rgb-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Avainsanatiheyden tarkistin verkossa ilmaiseksi",
   "short_name": "Avainsanatiheyden tarkistin",
   "description": "Tarkista avainsanatiheys verkossa ilmaiseksi — suosituimmat yksittäiset sanat sekä 2 sanan ja 3 sanan lauseet määrineen ja prosenttitiheyksineen, sulkusanojen suodatus mukana. Ei rekisteröitymistä.",
-  "id": "/loona-dev-tools/fi/keyword-density-checker/",
+  "id": "/fi/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

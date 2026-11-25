@@ -2,7 +2,7 @@
   "name": "Конвертер зняття екранування Unicode Loona (декодування \\uXXXX)",
   "short_name": "Конвертер зняття екранування Unicode",
   "description": "Декодуйте послідовності екранування Unicode (\\uXXXX, \\u{...}, \\xXX) назад у справжні символи, а також екранування \\n \\t і \\\\.",
-  "id": "/loona-dev-tools/uk/unicode-unescape/",
+  "id": "/uk/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generador de clip-path CSS en línea gratis",
   "short_name": "Generador de clip-path CSS",
   "description": "Genera CSS de clip-path en línea gratis: ajustes de polígono como estrella, hexágono y flecha con puntos ajustables, más formas de círculo, elipse e inset, con una vista previa en vivo. Sin registro.",
-  "id": "/loona-dev-tools/es/css-clip-path-generator/",
+  "id": "/es/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

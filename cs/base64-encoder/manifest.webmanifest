@@ -2,7 +2,7 @@
   "name": "Kodér a dekodér Loona Base64 online zdarma",
   "short_name": "Kodér a dekodér Base64",
   "description": "Kódujte text nebo soubory na Base64 a dekódujte Base64 zpět, bezpečné pro UTF-8 pro jakýkoli jazyk a emoji, s volbou bezpečnou pro URL. Zdarma, bez registrace, ve vašem prohlížeči.",
-  "id": "/loona-dev-tools/cs/base64-encoder/",
+  "id": "/cs/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

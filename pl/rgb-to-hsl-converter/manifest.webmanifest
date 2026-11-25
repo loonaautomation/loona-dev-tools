@@ -2,7 +2,7 @@
   "name": "Loona Konwerter RGB na HSL",
   "short_name": "Konwerter RGB na HSL",
   "description": "Konwertuj kolory z RGB na HSL online, z próbką na żywo i wszystkimi pozostałymi formatami (HEX, RGB, HSL, HSV, CMYK) również pokazanymi.",
-  "id": "/loona-dev-tools/pl/rgb-to-hsl-converter/",
+  "id": "/pl/rgb-to-hsl-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

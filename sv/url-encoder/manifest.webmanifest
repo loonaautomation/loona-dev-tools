@@ -2,7 +2,7 @@
   "name": "Loona URL-kodare och avkodare online gratis",
   "short_name": "URL-kodare & avkodare Online",
   "description": "Koda och avkoda URL:er och frågetext online gratis, med component- och full-URL-lägen och en uppdelning per tecken. Ingen registrering, i din webbläsare.",
-  "id": "/loona-dev-tools/sv/url-encoder/",
+  "id": "/sv/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

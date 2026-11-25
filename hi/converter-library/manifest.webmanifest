@@ -2,7 +2,7 @@
   "name": "Loona कन्वर्टर और जनरेटर लाइब्रेरी",
   "short_name": "कन्वर्टर और जनरेटर लाइब्रेरी",
   "description": "सभी Loona Developer Tools converters और generators का index: encodings, data formats, hashes, रंग, archives, code generators और references।",
-  "id": "/loona-dev-tools/hi/converter-library/",
+  "id": "/hi/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

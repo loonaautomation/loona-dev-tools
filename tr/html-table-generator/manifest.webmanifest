@@ -2,7 +2,7 @@
   "name": "Loona HTML Tablo Oluşturucu Çevrimiçi Ücretsiz",
   "short_name": "HTML Tablo Oluşturucu Çevrimiçi",
   "description": "HTML tablolarını çevrimiçi ücretsiz oluşturun - satır ve sütunları ayarlayın, ızgaraya yazın ve thead, th ve caption desteği artı canlı bir önizlemeyle temiz tablo HTML değeri alın. Kayıt gerekmez.",
-  "id": "/loona-dev-tools/tr/html-table-generator/",
+  "id": "/tr/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

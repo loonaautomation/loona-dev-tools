@@ -2,7 +2,7 @@
   "name": "Loona Encoder Entitas HTML",
   "short_name": "Encoder Entitas HTML",
   "description": "Encode karakter khusus sebagai entitas HTML: referensi bernama (&copy;), desimal, atau heks numerik. Meng-escape markup, tanda kutip, dan teks non-ASCII.",
-  "id": "/loona-dev-tools/id/html-entities-encode/",
+  "id": "/id/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

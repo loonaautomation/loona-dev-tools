@@ -2,7 +2,7 @@
   "name": "Loona JSON से XML कन्वर्टर",
   "short_name": "JSON से XML कन्वर्टर",
   "description": "JSON को customisable root element के साथ XML में ऑनलाइन बदलें: arrays repeated elements बन जाते हैं, @keys attributes बन जाती हैं।",
-  "id": "/loona-dev-tools/hi/json-to-xml/",
+  "id": "/hi/json-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

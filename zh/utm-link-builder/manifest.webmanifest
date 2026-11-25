@@ -2,7 +2,7 @@
   "name": "Loona UTM 链接构建器 在线免费",
   "short_name": "UTM 链接构建器 在线免费",
   "description": "免费在线构建带 UTM 标签的活动 URL——source、medium、campaign、term 和 content 以正确的编码添加，已有的查询参数得以保留，外加保存的历史记录。",
-  "id": "/loona-dev-tools/zh/utm-link-builder/",
+  "id": "/zh/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

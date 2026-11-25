@@ -2,7 +2,7 @@
   "name": "Loona RARファイル抽出ツール 無料オンライン",
   "short_name": "RARファイル抽出ツール 無料オンライン",
   "description": "RARファイル（RAR4とRAR5）をブラウザでそのまま開きます。内部のすべてのファイルを見て、個別のファイルまたはすべてをZIPとしてダウンロードしてください。何もアップロードされません。解凍はあなたのデバイス上で行われます。",
-  "id": "/loona-dev-tools/ja/rar-file-extractor/",
+  "id": "/ja/rar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

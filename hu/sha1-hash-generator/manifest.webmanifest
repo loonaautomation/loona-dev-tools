@@ -2,7 +2,7 @@
   "name": "Loona SHA-1 hash generátor",
   "short_name": "SHA-1 hash generátor",
   "description": "Számítson SHA-1 hasheket szövegből vagy fájlokból online: 160 bites, 40 hexadecimális karakter. Helyben fut a böngészőjében WebCrypto/tiszta JS segítségével — a fájlok soha nem töltődnek fel.",
-  "id": "/loona-dev-tools/hu/sha1-hash-generator/",
+  "id": "/hu/sha1-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

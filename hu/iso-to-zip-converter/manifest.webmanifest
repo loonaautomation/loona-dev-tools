@@ -2,7 +2,7 @@
   "name": "Loona ISO-ból ZIP-be átalakító",
   "short_name": "ISO–ZIP átalakító",
   "description": "Alakítson egy ISO lemezképet a fájljainak ZIP-jévé online: a libarchive helyben olvassa az ISO9660/Rock Ridge tartalmat.",
-  "id": "/loona-dev-tools/hu/iso-to-zip-converter/",
+  "id": "/hu/iso-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

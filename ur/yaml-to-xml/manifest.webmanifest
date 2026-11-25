@@ -2,7 +2,7 @@
   "name": "Loona YAML سے XML کنورٹر",
   "short_name": "YAML سے XML کنورٹر",
   "description": "YAML کو XML میں آن لائن بدلیں: ایک واحد اعلیٰ سطحی کنجی جڑ عنصر بن جاتی ہے، @keys خصوصیات بن جاتی ہیں۔",
-  "id": "/loona-dev-tools/ur/yaml-to-xml/",
+  "id": "/ur/yaml-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

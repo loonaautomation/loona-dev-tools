@@ -2,7 +2,7 @@
   "name": "Loona Conversor de TSV para CSV",
   "short_name": "Conversor de TSV para CSV",
   "description": "Converta TSV (valores separados por tabulação) para CSV: cole dados copiados do Excel ou Sheets e obtenha CSV corretamente citado.",
-  "id": "/loona-dev-tools/pt/tsv-to-csv/",
+  "id": "/pt/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

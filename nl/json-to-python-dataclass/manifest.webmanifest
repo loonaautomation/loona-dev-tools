@@ -2,7 +2,7 @@
   "name": "Loona JSON naar Python-dataclass-converter",
   "short_name": "JSON naar Python-dataclass",
   "description": "Converteer JSON naar Python-dataclasses met type hints: geneste objecten worden geneste dataclasses, List-typen voor arrays.",
-  "id": "/loona-dev-tools/nl/json-to-python-dataclass/",
+  "id": "/nl/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

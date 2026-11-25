@@ -2,7 +2,7 @@
   "name": "Loona Penukar HEX ke HSL",
   "short_name": "Penukar HEX ke HSL",
   "description": "Penukaran warna dari HEX ke HSL dalam talian, dengan contoh warna langsung dan semua format lain (HEX, RGB, HSL, HSV, CMYK) juga dipaparkan.",
-  "id": "/loona-dev-tools/ms/hex-to-hsl-converter/",
+  "id": "/ms/hex-to-hsl-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

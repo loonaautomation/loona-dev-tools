@@ -6,149 +6,149 @@
 
 ## Tools
 
-- [Converter & Generator Library](https://loonaautomation.github.io/loona-dev-tools/converter-library/): Library of converters and generators: encodings, data formats (JSON, YAML, XML, TOML, CSV), hashes, colours, archives, code generators and references.
+- [Converter & Generator Library](https://dev.loonaautomation.com/converter-library/): Library of converters and generators: encodings, data formats (JSON, YAML, XML, TOML, CSV), hashes, colours, archives, code generators and references.
 
-- [JSON Formatter](https://loonaautomation.github.io/loona-dev-tools/json-formatter/): Validate, pretty-print and minify JSON, with the exact position of any error.
+- [JSON Formatter](https://dev.loonaautomation.com/json-formatter/): Validate, pretty-print and minify JSON, with the exact position of any error.
 
-- [Base64 Encoder & Decoder](https://loonaautomation.github.io/loona-dev-tools/base64-encoder/): Encode text and files to Base64, or decode it back — UTF-8 safe, with a URL-safe option.
+- [Base64 Encoder & Decoder](https://dev.loonaautomation.com/base64-encoder/): Encode text and files to Base64, or decode it back — UTF-8 safe, with a URL-safe option.
 
-- [URL Encoder & Decoder](https://loonaautomation.github.io/loona-dev-tools/url-encoder/): Percent-encode text and URLs safely, with a per-character breakdown table.
+- [URL Encoder & Decoder](https://dev.loonaautomation.com/url-encoder/): Percent-encode text and URLs safely, with a per-character breakdown table.
 
-- [UUID Generator](https://loonaautomation.github.io/loona-dev-tools/uuid-generator/): Generate random version 4 UUIDs, one at a time or in bulk up to 100.
+- [UUID Generator](https://dev.loonaautomation.com/uuid-generator/): Generate random version 4 UUIDs, one at a time or in bulk up to 100.
 
-- [Hash Generator](https://loonaautomation.github.io/loona-dev-tools/hash-generator/): SHA-1, SHA-256, SHA-384 and SHA-512 digests of any text, computed in the browser.
+- [Hash Generator](https://dev.loonaautomation.com/hash-generator/): SHA-1, SHA-256, SHA-384 and SHA-512 digests of any text, computed in the browser.
 
-- [JWT Decoder](https://loonaautomation.github.io/loona-dev-tools/jwt-decoder/): Decode a JSON Web Token header and payload and read its expiry in plain words.
+- [JWT Decoder](https://dev.loonaautomation.com/jwt-decoder/): Decode a JSON Web Token header and payload and read its expiry in plain words.
 
-- [Timestamp Converter](https://loonaautomation.github.io/loona-dev-tools/timestamp-converter/): Convert Unix timestamps to human dates and back — UTC, local time and relative time.
+- [Timestamp Converter](https://dev.loonaautomation.com/timestamp-converter/): Convert Unix timestamps to human dates and back — UTC, local time and relative time.
 
-- [HTML Entity Encoder](https://loonaautomation.github.io/loona-dev-tools/html-entity-encoder/): Escape text into HTML entities (named or numbered) and decode entities back to text.
+- [HTML Entity Encoder](https://dev.loonaautomation.com/html-entity-encoder/): Escape text into HTML entities (named or numbered) and decode entities back to text.
 
-- [CSS Minifier & Beautifier](https://loonaautomation.github.io/loona-dev-tools/css-minifier/): Minify CSS to shrink file size, or beautify it back into readable, indented code.
+- [CSS Minifier & Beautifier](https://dev.loonaautomation.com/css-minifier/): Minify CSS to shrink file size, or beautify it back into readable, indented code.
 
-- [JavaScript Minifier](https://loonaautomation.github.io/loona-dev-tools/javascript-minifier/): Conservatively minify JavaScript — comments and dead whitespace removed, strings and regex kept intact.
+- [JavaScript Minifier](https://dev.loonaautomation.com/javascript-minifier/): Conservatively minify JavaScript — comments and dead whitespace removed, strings and regex kept intact.
 
-- [Regex Tester](https://loonaautomation.github.io/loona-dev-tools/regex-tester/): Test regular expressions live — matches highlighted, capture groups listed, count shown.
+- [Regex Tester](https://dev.loonaautomation.com/regex-tester/): Test regular expressions live — matches highlighted, capture groups listed, count shown.
 
-- [Diff Checker](https://loonaautomation.github.io/loona-dev-tools/diff-checker/): Compare two texts line by line — added and removed lines highlighted, with a change summary.
+- [Diff Checker](https://dev.loonaautomation.com/diff-checker/): Compare two texts line by line — added and removed lines highlighted, with a change summary.
 
-- [JSON to CSV Converter](https://loonaautomation.github.io/loona-dev-tools/json-to-csv-converter/): Turn a JSON array of objects into a clean CSV file with proper quoting.
+- [JSON to CSV Converter](https://dev.loonaautomation.com/json-to-csv-converter/): Turn a JSON array of objects into a clean CSV file with proper quoting.
 
-- [CSV to JSON Converter](https://loonaautomation.github.io/loona-dev-tools/csv-to-json-converter/): Convert CSV to a JSON array of objects, handling quoted commas and escaped quotes.
+- [CSV to JSON Converter](https://dev.loonaautomation.com/csv-to-json-converter/): Convert CSV to a JSON array of objects, handling quoted commas and escaped quotes.
 
-- [YAML to JSON Converter](https://loonaautomation.github.io/loona-dev-tools/yaml-json-converter/): Convert YAML to JSON and JSON back to YAML.
+- [YAML to JSON Converter](https://dev.loonaautomation.com/yaml-json-converter/): Convert YAML to JSON and JSON back to YAML.
 
-- [SQL Formatter](https://loonaautomation.github.io/loona-dev-tools/sql-formatter/): Format SQL with uppercase keywords and each major clause on its own line.
+- [SQL Formatter](https://dev.loonaautomation.com/sql-formatter/): Format SQL with uppercase keywords and each major clause on its own line.
 
-- [Number Base Converter](https://loonaautomation.github.io/loona-dev-tools/number-base-converter/): Convert between binary, octal, decimal and hex with big-integer precision.
+- [Number Base Converter](https://dev.loonaautomation.com/number-base-converter/): Convert between binary, octal, decimal and hex with big-integer precision.
 
-- [Chmod Calculator](https://loonaautomation.github.io/loona-dev-tools/chmod-calculator/): Tick read/write/execute boxes for owner, group and others to get the octal and symbolic permission.
+- [Chmod Calculator](https://dev.loonaautomation.com/chmod-calculator/): Tick read/write/execute boxes for owner, group and others to get the octal and symbolic permission.
 
-- [Password Strength Checker](https://loonaautomation.github.io/loona-dev-tools/password-strength-checker/): Password entropy estimate in bits, what weakens it, and how long a fast offline attack would take.
+- [Password Strength Checker](https://dev.loonaautomation.com/password-strength-checker/): Password entropy estimate in bits, what weakens it, and how long a fast offline attack would take.
 
-- [Cron Expression Generator](https://loonaautomation.github.io/loona-dev-tools/cron-expression-generator/): Build a 5-field cron expression from dropdowns, and get any cron expression explained in plain English.
+- [Cron Expression Generator](https://dev.loonaautomation.com/cron-expression-generator/): Build a 5-field cron expression from dropdowns, and get any cron expression explained in plain English.
 
-- [URL Parser & Builder](https://loonaautomation.github.io/loona-dev-tools/url-parser/): Break a URL into protocol, host, port, path, query parameters and hash, edit parameters and rebuild it.
+- [URL Parser & Builder](https://dev.loonaautomation.com/url-parser/): Break a URL into protocol, host, port, path, query parameters and hash, edit parameters and rebuild it.
 
-- [ZIP File Creator](https://loonaautomation.github.io/loona-dev-tools/zip-file-creator/): Bundle multiple files into a single ZIP archive, built in the browser.
+- [ZIP File Creator](https://dev.loonaautomation.com/zip-file-creator/): Bundle multiple files into a single ZIP archive, built in the browser.
 
-- [Unzip File Extractor](https://loonaautomation.github.io/loona-dev-tools/unzip-file-extractor/): Open a ZIP, see every file inside with its size, and extract one file or all of them.
+- [Unzip File Extractor](https://dev.loonaautomation.com/unzip-file-extractor/): Open a ZIP, see every file inside with its size, and extract one file or all of them.
 
-- [RAR File Extractor](https://loonaautomation.github.io/loona-dev-tools/rar-file-extractor/): Open RAR files (RAR4 and RAR5) in the browser and extract one file or everything as a ZIP.
+- [RAR File Extractor](https://dev.loonaautomation.com/rar-file-extractor/): Open RAR files (RAR4 and RAR5) in the browser and extract one file or everything as a ZIP.
 
-- [7Z File Extractor](https://loonaautomation.github.io/loona-dev-tools/7z-file-extractor/): Open 7z archives in the browser and extract single files or everything as a ZIP.
+- [7Z File Extractor](https://dev.loonaautomation.com/7z-file-extractor/): Open 7z archives in the browser and extract single files or everything as a ZIP.
 
-- [TAR File Extractor](https://loonaautomation.github.io/loona-dev-tools/tar-file-extractor/): Open .tar, .tar.bz2 and .tar.xz archives in the browser and extract the files inside.
+- [TAR File Extractor](https://dev.loonaautomation.com/tar-file-extractor/): Open .tar, .tar.bz2 and .tar.xz archives in the browser and extract the files inside.
 
-- [TAR.GZ File Extractor](https://loonaautomation.github.io/loona-dev-tools/tar-gz-file-extractor/): Open .tar.gz and .tgz archives in the browser and extract the files inside.
+- [TAR.GZ File Extractor](https://dev.loonaautomation.com/tar-gz-file-extractor/): Open .tar.gz and .tgz archives in the browser and extract the files inside.
 
-- [GZ File Extractor](https://loonaautomation.github.io/loona-dev-tools/gz-file-extractor/): Decompress a single .gz file in the browser and download the original.
+- [GZ File Extractor](https://dev.loonaautomation.com/gz-file-extractor/): Decompress a single .gz file in the browser and download the original.
 
-- [ISO File Extractor](https://loonaautomation.github.io/loona-dev-tools/iso-file-extractor/): Open ISO disc images in the browser, browse the file system and download files.
+- [ISO File Extractor](https://dev.loonaautomation.com/iso-file-extractor/): Open ISO disc images in the browser, browse the file system and download files.
 
-- [Archive File Extractor](https://loonaautomation.github.io/loona-dev-tools/archive-file-extractor/): Universal archive opener for ZIP, RAR, 7Z, TAR, ISO and more, with the format detected automatically.
+- [Archive File Extractor](https://dev.loonaautomation.com/archive-file-extractor/): Universal archive opener for ZIP, RAR, 7Z, TAR, ISO and more, with the format detected automatically.
 
-- [RAR to ZIP Converter](https://loonaautomation.github.io/loona-dev-tools/rar-to-zip-converter/): Convert a RAR archive into a standard ZIP in the browser, folder structure preserved.
+- [RAR to ZIP Converter](https://dev.loonaautomation.com/rar-to-zip-converter/): Convert a RAR archive into a standard ZIP in the browser, folder structure preserved.
 
-- [7Z to ZIP Converter](https://loonaautomation.github.io/loona-dev-tools/7z-to-zip-converter/): Convert a 7Z archive into a ZIP that opens anywhere.
+- [7Z to ZIP Converter](https://dev.loonaautomation.com/7z-to-zip-converter/): Convert a 7Z archive into a ZIP that opens anywhere.
 
-- [TAR to ZIP Converter](https://loonaautomation.github.io/loona-dev-tools/tar-to-zip-converter/): Convert a TAR archive into a ZIP that opens natively on Windows, macOS and phones.
+- [TAR to ZIP Converter](https://dev.loonaautomation.com/tar-to-zip-converter/): Convert a TAR archive into a ZIP that opens natively on Windows, macOS and phones.
 
-- [TAR.GZ to ZIP Converter](https://loonaautomation.github.io/loona-dev-tools/tar-gz-to-zip-converter/): Convert .tar.gz or .tgz into one ZIP, with both layers unwrapped on the device.
+- [TAR.GZ to ZIP Converter](https://dev.loonaautomation.com/tar-gz-to-zip-converter/): Convert .tar.gz or .tgz into one ZIP, with both layers unwrapped on the device.
 
-- [ZIP to TAR.GZ Converter](https://loonaautomation.github.io/loona-dev-tools/zip-to-tar-gz-converter/): Convert a ZIP archive into a .tar.gz tarball.
+- [ZIP to TAR.GZ Converter](https://dev.loonaautomation.com/zip-to-tar-gz-converter/): Convert a ZIP archive into a .tar.gz tarball.
 
-- [TAR File Creator](https://loonaautomation.github.io/loona-dev-tools/tar-file-creator/): Create a .tar archive from multiple files in the browser.
+- [TAR File Creator](https://dev.loonaautomation.com/tar-file-creator/): Create a .tar archive from multiple files in the browser.
 
-- [GZIP Compressor](https://loonaautomation.github.io/loona-dev-tools/gzip-compressor/): Compress any single file into a .gz with the browser's built-in gzip engine.
+- [GZIP Compressor](https://dev.loonaautomation.com/gzip-compressor/): Compress any single file into a .gz with the browser's built-in gzip engine.
 
-- [CSV Viewer & Editor](https://loonaautomation.github.io/loona-dev-tools/csv-viewer-editor/): Load CSV into an editable table grid — edit cells, sort columns, add or remove rows and columns, then download.
+- [CSV Viewer & Editor](https://dev.loonaautomation.com/csv-viewer-editor/): Load CSV into an editable table grid — edit cells, sort columns, add or remove rows and columns, then download.
 
-- [CSV to SQL Converter](https://loonaautomation.github.io/loona-dev-tools/csv-to-sql-converter/): Turn CSV into CREATE TABLE plus INSERT statements with inferred types, for MySQL, PostgreSQL or SQLite.
+- [CSV to SQL Converter](https://dev.loonaautomation.com/csv-to-sql-converter/): Turn CSV into CREATE TABLE plus INSERT statements with inferred types, for MySQL, PostgreSQL or SQLite.
 
-- [CSV to XML Converter](https://loonaautomation.github.io/loona-dev-tools/csv-to-xml-converter/): Convert CSV rows to well-formed XML with configurable root and row elements and proper escaping.
+- [CSV to XML Converter](https://dev.loonaautomation.com/csv-to-xml-converter/): Convert CSV rows to well-formed XML with configurable root and row elements and proper escaping.
 
-- [CSV to Markdown Table Converter](https://loonaautomation.github.io/loona-dev-tools/csv-to-markdown-converter/): Convert CSV to a GitHub-ready Markdown table.
+- [CSV to Markdown Table Converter](https://dev.loonaautomation.com/csv-to-markdown-converter/): Convert CSV to a GitHub-ready Markdown table.
 
-- [CSV Dedupe & Cleaner](https://loonaautomation.github.io/loona-dev-tools/csv-dedupe-cleaner/): Remove duplicate CSV rows by whole row or key columns, trim whitespace and drop empty rows, with counts.
+- [CSV Dedupe & Cleaner](https://dev.loonaautomation.com/csv-dedupe-cleaner/): Remove duplicate CSV rows by whole row or key columns, trim whitespace and drop empty rows, with counts.
 
-- [CSV Split & Merge](https://loonaautomation.github.io/loona-dev-tools/csv-split-merge/): Split a CSV into parts by row count with the header repeated, or merge CSV files that share a header.
+- [CSV Split & Merge](https://dev.loonaautomation.com/csv-split-merge/): Split a CSV into parts by row count with the header repeated, or merge CSV files that share a header.
 
-- [Meta Tag Generator](https://loonaautomation.github.io/loona-dev-tools/meta-tag-generator/): Generate a ready HTML meta block — title, description, robots, canonical — with a live SERP preview.
+- [Meta Tag Generator](https://dev.loonaautomation.com/meta-tag-generator/): Generate a ready HTML meta block — title, description, robots, canonical — with a live SERP preview.
 
-- [Open Graph & Twitter Card Generator](https://loonaautomation.github.io/loona-dev-tools/open-graph-generator/): Build OG and Twitter Card tags with a live social card preview.
+- [Open Graph & Twitter Card Generator](https://dev.loonaautomation.com/open-graph-generator/): Build OG and Twitter Card tags with a live social card preview.
 
-- [Robots.txt Generator](https://loonaautomation.github.io/loona-dev-tools/robots-txt-generator/): Build a valid robots.txt from presets and per-agent rules, with sanity checks.
+- [Robots.txt Generator](https://dev.loonaautomation.com/robots-txt-generator/): Build a valid robots.txt from presets and per-agent rules, with sanity checks.
 
-- [XML Sitemap Generator](https://loonaautomation.github.io/loona-dev-tools/xml-sitemap-generator/): Turn a list of URLs into a valid sitemap.xml with lastmod, changefreq and priority defaults.
+- [XML Sitemap Generator](https://dev.loonaautomation.com/xml-sitemap-generator/): Turn a list of URLs into a valid sitemap.xml with lastmod, changefreq and priority defaults.
 
-- [UTM Link Builder](https://loonaautomation.github.io/loona-dev-tools/utm-link-builder/): Tag campaign URLs with UTM parameters, with correct encoding and existing parameters preserved.
+- [UTM Link Builder](https://dev.loonaautomation.com/utm-link-builder/): Tag campaign URLs with UTM parameters, with correct encoding and existing parameters preserved.
 
-- [IP Subnet Calculator](https://loonaautomation.github.io/loona-dev-tools/ip-subnet-calculator/): IPv4 CIDR to network, broadcast, netmask, wildcard, host range and count, plus a subnet splitting view.
+- [IP Subnet Calculator](https://dev.loonaautomation.com/ip-subnet-calculator/): IPv4 CIDR to network, broadcast, netmask, wildcard, host range and count, plus a subnet splitting view.
 
-- [JSON-LD Schema Generator](https://loonaautomation.github.io/loona-dev-tools/json-ld-schema-generator/): Generate schema.org structured data — Article, Product, LocalBusiness, Event, Recipe and more — as valid JSON-LD.
+- [JSON-LD Schema Generator](https://dev.loonaautomation.com/json-ld-schema-generator/): Generate schema.org structured data — Article, Product, LocalBusiness, Event, Recipe and more — as valid JSON-LD.
 
-- [Google SERP Preview](https://loonaautomation.github.io/loona-dev-tools/google-serp-preview/): Preview a title and description as a Google result, with pixel-width truncation warnings, desktop and mobile.
+- [Google SERP Preview](https://dev.loonaautomation.com/google-serp-preview/): Preview a title and description as a Google result, with pixel-width truncation warnings, desktop and mobile.
 
-- [Keyword Density Checker](https://loonaautomation.github.io/loona-dev-tools/keyword-density-checker/): Count single words plus 2-word and 3-word phrases with percentage density and stopword filtering.
+- [Keyword Density Checker](https://dev.loonaautomation.com/keyword-density-checker/): Count single words plus 2-word and 3-word phrases with percentage density and stopword filtering.
 
-- [HTML Table Generator](https://loonaautomation.github.io/loona-dev-tools/html-table-generator/): Build tables visually in a grid and get clean semantic HTML with thead, th and caption support.
+- [HTML Table Generator](https://dev.loonaautomation.com/html-table-generator/): Build tables visually in a grid and get clean semantic HTML with thead, th and caption support.
 
-- [HTML Email Signature Generator](https://loonaautomation.github.io/loona-dev-tools/email-signature-generator/): Create a professional email signature as email-safe table HTML that works in Gmail and Outlook.
+- [HTML Email Signature Generator](https://dev.loonaautomation.com/email-signature-generator/): Create a professional email signature as email-safe table HTML that works in Gmail and Outlook.
 
-- [Email Validator](https://loonaautomation.github.io/loona-dev-tools/email-validator/): Bulk-check email addresses for syntax errors and common domain typos, with suggestions.
+- [Email Validator](https://dev.loonaautomation.com/email-validator/): Bulk-check email addresses for syntax errors and common domain typos, with suggestions.
 
-- [CSS Clip-Path Generator](https://loonaautomation.github.io/loona-dev-tools/css-clip-path-generator/): Generate clip-path CSS — polygon presets with adjustable points, plus circle, ellipse and inset shapes.
+- [CSS Clip-Path Generator](https://dev.loonaautomation.com/css-clip-path-generator/): Generate clip-path CSS — polygon presets with adjustable points, plus circle, ellipse and inset shapes.
 
-- [CSS Box Shadow Generator](https://loonaautomation.github.io/loona-dev-tools/css-box-shadow-generator/): Build layered box-shadow CSS with inset support, colour and opacity control, and a live preview.
+- [CSS Box Shadow Generator](https://dev.loonaautomation.com/css-box-shadow-generator/): Build layered box-shadow CSS with inset support, colour and opacity control, and a live preview.
 
-- [XML Formatter & Validator](https://loonaautomation.github.io/loona-dev-tools/xml-formatter/): Beautify, minify and validate XML with well-formedness checks and clear error messages.
+- [XML Formatter & Validator](https://dev.loonaautomation.com/xml-formatter/): Beautify, minify and validate XML with well-formedness checks and clear error messages.
 
-- [Markdown to HTML Converter](https://loonaautomation.github.io/loona-dev-tools/markdown-to-html-converter/): Convert everyday Markdown to clean HTML with a live rendered preview.
+- [Markdown to HTML Converter](https://dev.loonaautomation.com/markdown-to-html-converter/): Convert everyday Markdown to clean HTML with a live rendered preview.
 
-- [CSV Transpose](https://loonaautomation.github.io/loona-dev-tools/csv-transpose/): Swap CSV rows and columns with a proper parser.
+- [CSV Transpose](https://dev.loonaautomation.com/csv-transpose/): Swap CSV rows and columns with a proper parser.
 
-- [CSV Join](https://loonaautomation.github.io/loona-dev-tools/csv-join/): Merge two CSVs on a key column — inner or left join.
+- [CSV Join](https://dev.loonaautomation.com/csv-join/): Merge two CSVs on a key column — inner or left join.
 
-- [CSV Pivot / Group-By](https://loonaautomation.github.io/loona-dev-tools/csv-pivot-group-by/): Group CSV rows by a column with sum, count, average, min or max of a value column.
+- [CSV Pivot / Group-By](https://dev.loonaautomation.com/csv-pivot-group-by/): Group CSV rows by a column with sum, count, average, min or max of a value column.
 
-- [CSV Diff / Compare](https://loonaautomation.github.io/loona-dev-tools/csv-diff/): Compare two CSVs by key column — added, removed and changed rows with the exact cells.
+- [CSV Diff / Compare](https://dev.loonaautomation.com/csv-diff/): Compare two CSVs by key column — added, removed and changed rows with the exact cells.
 
-- [CSV Data Extractor](https://loonaautomation.github.io/loona-dev-tools/csv-data-extractor/): Pull emails, phone numbers and URLs out of messy CSV or text into clean, de-duplicated lists.
+- [CSV Data Extractor](https://dev.loonaautomation.com/csv-data-extractor/): Pull emails, phone numbers and URLs out of messy CSV or text into clean, de-duplicated lists.
 
-- [CSV Profiler](https://loonaautomation.github.io/loona-dev-tools/csv-profiler/): Per-column type guesses, empty counts, unique counts, numeric min/max and top values for a CSV.
+- [CSV Profiler](https://dev.loonaautomation.com/csv-profiler/): Per-column type guesses, empty counts, unique counts, numeric min/max and top values for a CSV.
 
-- [Robots.txt Tester](https://loonaautomation.github.io/loona-dev-tools/robots-txt-tester/): Test a URL and user-agent against robots.txt rules — verdict plus the exact matching rule.
+- [Robots.txt Tester](https://dev.loonaautomation.com/robots-txt-tester/): Test a URL and user-agent against robots.txt rules — verdict plus the exact matching rule.
 
-- [SEO Readability Checker](https://loonaautomation.github.io/loona-dev-tools/readability-checker/): Six readability formulas plus sentence stats for web copy, framed for SEO content work.
+- [SEO Readability Checker](https://dev.loonaautomation.com/readability-checker/): Six readability formulas plus sentence stats for web copy, framed for SEO content work.
 
-- [llms.txt Generator](https://loonaautomation.github.io/loona-dev-tools/llms-txt-generator/): Build an llms.txt file — summary blockquote plus curated page links in spec format.
+- [llms.txt Generator](https://dev.loonaautomation.com/llms-txt-generator/): Build an llms.txt file — summary blockquote plus curated page links in spec format.
 
-- [Hreflang Tag Generator](https://loonaautomation.github.io/loona-dev-tools/hreflang-tag-generator/): Build hreflang alternate link sets with x-default and BCP 47 / absolute-URL checks.
+- [Hreflang Tag Generator](https://dev.loonaautomation.com/hreflang-tag-generator/): Build hreflang alternate link sets with x-default and BCP 47 / absolute-URL checks.
 
-- [Office Document Metadata Viewer](https://loonaautomation.github.io/loona-dev-tools/office-metadata-viewer/): Read DOCX, XLSX and PPTX properties — title, author, company, dates — view-only, on-device.
+- [Office Document Metadata Viewer](https://dev.loonaautomation.com/office-metadata-viewer/): Read DOCX, XLSX and PPTX properties — title, author, company, dates — view-only, on-device.
 
-- [File Type Detector](https://loonaautomation.github.io/loona-dev-tools/file-type-detector/): Detect a file's real type from its magic bytes and warn when the extension disagrees.
+- [File Type Detector](https://dev.loonaautomation.com/file-type-detector/): Detect a file's real type from its magic bytes and warn when the extension disagrees.
 
 
 ## Notes for AI assistants

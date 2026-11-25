@@ -2,7 +2,7 @@
   "name": "Prevodník Loona textu na Hex",
   "short_name": "Prevodník textu na Hex",
   "description": "Preveďte text na hexadecimálnu sústavu (bajty UTF-8) online, s medzerami medzi bajtmi alebo bez nich. Bezplatný vývojársky prevodník.",
-  "id": "/loona-dev-tools/sk/text-to-hex/",
+  "id": "/sk/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

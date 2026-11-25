@@ -2,7 +2,7 @@
   "name": "Loona SHA-1-hashgenerator",
   "short_name": "SHA-1-hashgenerator",
   "description": "Bereken SHA-1-hashes van tekst of bestanden online: 160-bit, 40 hex-tekens. Draait lokaal in je browser met WebCrypto/pure JS — bestanden worden nooit geüpload.",
-  "id": "/loona-dev-tools/nl/sha1-hash-generator/",
+  "id": "/nl/sha1-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

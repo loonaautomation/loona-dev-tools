@@ -2,7 +2,7 @@
   "name": "Loona kodiranje URL-a (percent kodiranje)",
   "short_name": "Kodiranje URL-a (percent kodiranje)",
   "description": "Percent-kodirajte tekst ili puni URL na mreži: razmaci postaju %20, rezervirani znakovi escapiraju se prema RFC-u 3986. Način komponente ili punog URL-a.",
-  "id": "/loona-dev-tools/hr/url-encode/",
+  "id": "/hr/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona HEX-HSV-muunnin",
   "short_name": "HEX-HSV-muunnin",
   "description": "Muunna värejä HEX:stä HSV:hen verkossa, elävällä värimallilla ja kaikilla muilla muodoilla (HEX, RGB, HSL, HSV, CMYK) myös näytettynä.",
-  "id": "/loona-dev-tools/fi/hex-to-hsv-converter/",
+  "id": "/fi/hex-to-hsv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

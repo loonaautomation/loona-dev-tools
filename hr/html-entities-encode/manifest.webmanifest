@@ -2,7 +2,7 @@
   "name": "Loona enkoder HTML entiteta",
   "short_name": "Enkoder HTML entiteta",
   "description": "Kodirajte posebne znakove kao HTML entitete: imenovane (&copy;), decimalne ili heksadekadske numeričke reference. Escapira markup, navodnike i ne-ASCII tekst.",
-  "id": "/loona-dev-tools/hr/html-entities-encode/",
+  "id": "/hr/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

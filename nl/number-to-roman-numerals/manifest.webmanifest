@@ -2,7 +2,7 @@
   "name": "Loona getallen naar Romeinse cijfers",
   "short_name": "Getallen naar Romeinse cijfers",
   "description": "Converteer getallen (1–3999) naar Romeinse cijfers in standaard subtractieve vorm. Gratis online converter.",
-  "id": "/loona-dev-tools/nl/number-to-roman-numerals/",
+  "id": "/nl/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

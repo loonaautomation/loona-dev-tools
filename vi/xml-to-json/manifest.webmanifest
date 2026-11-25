@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi XML sang JSON của Loona",
   "short_name": "Công cụ chuyển đổi XML sang JSON",
   "description": "Chuyển đổi XML sang JSON trực tuyến: thuộc tính thành @keys, phần tử lặp lại thành mảng, văn bản thành giá trị với số được định kiểu.",
-  "id": "/loona-dev-tools/vi/xml-to-json/",
+  "id": "/vi/xml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

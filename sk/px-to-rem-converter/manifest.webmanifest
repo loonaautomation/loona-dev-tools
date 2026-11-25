@@ -2,7 +2,7 @@
   "name": "Prevodník Loona pixelov (px) na Rem",
   "short_name": "Prevodník pixelov (px) na Rem",
   "description": "Preveďte px na rem s nastaviteľnou základnou veľkosťou písma (predvolene 16px) a tabuľkou bežných hodnôt.",
-  "id": "/loona-dev-tools/sk/px-to-rem-converter/",
+  "id": "/sk/px-to-rem-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "מפענח צופן Loona A1Z26 (מספרים לאותיות)",
   "short_name": "מפענח צופן A1Z26 (מספרים",
   "description": "פענחו קודי מספרים של A1Z26 בחזרה לאותיות: 1=A, 2=B ... 26=Z. מופרדים במקף, פסיק או רווח.",
-  "id": "/loona-dev-tools/he/a1z26-cipher-decoder/",
+  "id": "/he/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

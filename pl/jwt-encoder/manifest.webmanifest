@@ -2,7 +2,7 @@
   "name": "Loona Koder JWT (podpisujący HS256)",
   "short_name": "Koder JWT (podpisujący HS256)",
   "description": "Twórz i podpisuj tokeny JSON Web Token z HS256 w przeglądarce: JSON ładunku plus sekret, lub alg=none. Podpisywanie WebCrypto.",
-  "id": "/loona-dev-tools/pl/jwt-encoder/",
+  "id": "/pl/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

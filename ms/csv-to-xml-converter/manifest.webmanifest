@@ -2,7 +2,7 @@
   "name": "Loona Penukar CSV ke XML Dalam Talian Percuma",
   "short_name": "Penukar CSV ke XML Dalam Talian",
   "description": "Penukaran CSV ke XML dalam talian secara percuma dengan nama elemen root dan baris yang dapat dikonfigurasi serta escape XML yang benar. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/csv-to-xml-converter/",
+  "id": "/ms/csv-to-xml-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator Hash Online Gratis",
   "short_name": "Generator Hash Online Gratis",
   "description": "Buat hash SHA-1, SHA-256, SHA-384, dan SHA-512 dari teks apa pun online secara gratis, dihitung secara lokal di browser Anda. Tanpa pendaftaran, tidak ada yang diunggah.",
-  "id": "/loona-dev-tools/id/hash-generator/",
+  "id": "/id/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Convertizor HEX în RGB Loona",
   "short_name": "Convertizor HEX în RGB",
   "description": "Convertește culori din HEX în RGB online, cu un eșantion în direct și toate celelalte formate (HEX, RGB, HSL, HSV, CMYK) afișate și ele.",
-  "id": "/loona-dev-tools/ro/hex-to-rgb-converter/",
+  "id": "/ro/hex-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

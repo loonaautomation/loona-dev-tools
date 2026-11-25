@@ -2,7 +2,7 @@
   "name": "Loona GZIP کمپریسر آن لائن مفت",
   "short_name": "GZIP کمپریسر آن لائن مفت",
   "description": "کسی بھی واحد فائل کو .gz میں اپنے براؤزر کے بلٹ ان gzip انجن سے کمپریس کریں۔ فوری پہلے/بعد سائز، کچھ اپ لوڈ نہیں - فائل آپ کے آلے پر کمپریس ہوتی ہے۔ لاگز، CSVs، TAR فائلوں اور مزید کے لیے کام کرتا ہے۔",
-  "id": "/loona-dev-tools/ur/gzip-compressor/",
+  "id": "/ur/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

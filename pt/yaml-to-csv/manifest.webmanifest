@@ -2,7 +2,7 @@
   "name": "Loona Conversor de YAML para CSV",
   "short_name": "Conversor de YAML para CSV",
   "description": "Converta uma lista YAML de objetos para uma tabela CSV: união de chaves como colunas, valores aninhados serializados como JSON na sua célula.",
-  "id": "/loona-dev-tools/pt/yaml-to-csv/",
+  "id": "/pt/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

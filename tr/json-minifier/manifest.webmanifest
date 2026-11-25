@@ -2,7 +2,7 @@
   "name": "Loona JSON Küçültücü",
   "short_name": "JSON Küçültücü",
   "description": "JSON değerini çevrimiçi küçültün: tüm önemsiz boşlukları tek bir kompakt satıra sıyırın, doğrulama hataları kesin olarak bildirilir.",
-  "id": "/loona-dev-tools/tr/json-minifier/",
+  "id": "/tr/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

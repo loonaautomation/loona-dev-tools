@@ -2,7 +2,7 @@
   "name": "Loona MD5 Hash-generator",
   "short_name": "MD5 Hash-generator",
   "description": "Beregn MD5-hashes af tekst eller filer online: 128-bit, 32 hex-tegn. Kører lokalt i din browser med WebCrypto/ren JS — filer uploades aldrig.",
-  "id": "/loona-dev-tools/da/md5-hash-generator/",
+  "id": "/da/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

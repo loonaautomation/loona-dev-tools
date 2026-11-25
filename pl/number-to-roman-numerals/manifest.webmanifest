@@ -2,7 +2,7 @@
   "name": "Loona Liczby na cyfry rzymskie",
   "short_name": "Liczby na cyfry rzymskie",
   "description": "Konwertuj liczby (1–3999) na cyfry rzymskie w standardowej formie subtraktywnej. Bezpłatny konwerter online.",
-  "id": "/loona-dev-tools/pl/number-to-roman-numerals/",
+  "id": "/pl/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

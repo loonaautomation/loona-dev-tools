@@ -2,7 +2,7 @@
   "name": "Loona ZIP-ből TAR-ba átalakító",
   "short_name": "ZIP-ből TAR-ba átalakító",
   "description": "Alakítson ZIP archívumokat tömörítetlen TAR-rá online: ugyanazok a fájlok és mappák, újracsomagolva egy szabványoknak megfelelő TAR íróval. Teljesen helyi.",
-  "id": "/loona-dev-tools/hu/zip-to-tar-converter/",
+  "id": "/hu/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

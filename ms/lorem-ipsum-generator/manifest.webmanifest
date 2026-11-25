@@ -2,7 +2,7 @@
   "name": "Loona Penjana Lorem Ipsum",
   "short_name": "Penjana Lorem Ipsum",
   "description": "Buat teks placeholder Lorem Ipsum: pilih paragraf, kalimat, atau kata, dengan baris pembuka klasik pilihan.",
-  "id": "/loona-dev-tools/ms/lorem-ipsum-generator/",
+  "id": "/ms/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

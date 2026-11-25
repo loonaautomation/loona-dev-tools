@@ -2,7 +2,7 @@
   "name": "Loona ZIP-TAR-muunnin",
   "short_name": "ZIP-TAR-muunnin",
   "description": "Muunna ZIP-arkistoja pakkaamattomaksi TAR:iksi verkossa: samat tiedostot ja kansiot, uudelleenpakattuina standardien mukaisella TAR-kirjoittajalla. Täysin paikallista.",
-  "id": "/loona-dev-tools/fi/zip-to-tar-converter/",
+  "id": "/fi/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV 去重與清理工具 線上免費",
   "short_name": "CSV 去重與清理工具 線上版",
   "description": "線上免費從 CSV 中刪除重複行——按整行或按關鍵列——外加修剪空白、丟棄空行並規範化行尾，帶前後計數。無需註冊。",
-  "id": "/loona-dev-tools/zh-hant/csv-dedupe-cleaner/",
+  "id": "/zh-hant/csv-dedupe-cleaner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

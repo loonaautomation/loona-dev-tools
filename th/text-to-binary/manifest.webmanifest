@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงข้อความเป็นเลขฐานสอง",
   "short_name": "ตัวแปลงข้อความเป็นเลขฐานสอง",
   "description": "แปลงข้อความเป็นเลขฐานสอง: ทุกตัวอักษรเป็นกลุ่มเลขฐานสอง 8 บิตของไบต์ UTF-8 ของมัน ตัวแปลงออนไลน์ฟรี",
-  "id": "/loona-dev-tools/th/text-to-binary/",
+  "id": "/th/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

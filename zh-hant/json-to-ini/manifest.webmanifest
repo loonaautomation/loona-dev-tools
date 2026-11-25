@@ -2,7 +2,7 @@
   "name": "Loona JSON 轉 INI 轉換器",
   "short_name": "JSON 轉 INI 轉換器",
   "description": "把 JSON 物件轉換為 INI 格式：頂層標量在前，巢狀物件寫為 [節]。免費的線上轉換器。",
-  "id": "/loona-dev-tools/zh-hant/json-to-ini/",
+  "id": "/zh-hant/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

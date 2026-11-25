@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Κειμένου σε Δυαδικό",
   "short_name": "Μετατροπέας Κειμένου σε Δυαδικό",
   "description": "Μετατρέψτε κείμενο σε δυαδικό: κάθε χαρακτήρας ως δυαδικές ομάδες 8-bit των byte UTF-8 του. Δωρεάν διαδικτυακός μετατροπέας.",
-  "id": "/loona-dev-tools/el/text-to-binary/",
+  "id": "/el/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

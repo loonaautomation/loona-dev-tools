@@ -2,7 +2,7 @@
   "name": "Loona SEO provjera čitljivosti na mreži besplatno",
   "short_name": "SEO provjera čitljivosti",
   "description": "Provjerite čitljivost sadržaja za SEO na mreži besplatno - ocjene Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG i ARI plus statistika duljine rečenica za web tekstove. Bez registracije.",
-  "id": "/loona-dev-tools/hr/readability-checker/",
+  "id": "/hr/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

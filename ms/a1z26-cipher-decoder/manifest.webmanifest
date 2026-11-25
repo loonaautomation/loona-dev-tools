@@ -2,7 +2,7 @@
   "name": "Loona Penyahkod Sifer A1Z26 (Angka ke Huruf)",
   "short_name": "Penyahkod Sifer A1Z26 (Angka",
   "description": "Nyahkod kode angka A1Z26 kembali ke huruf: 1=A, 2=B ... 26=Z. Dipisahkan tanda hubung, koma, atau ruang.",
-  "id": "/loona-dev-tools/ms/a1z26-cipher-decoder/",
+  "id": "/ms/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

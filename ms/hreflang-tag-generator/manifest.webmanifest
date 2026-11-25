@@ -2,7 +2,7 @@
   "name": "Loona Penjana Tag Hreflang Dalam Talian Percuma",
   "short_name": "Penjana Tag Hreflang Dalam Talian",
   "description": "Buat tag hreflang dalam talian secara percuma - tampal pasangan bahasa dan URL, tambahkan x-default, dan dapatkan set pautan alternatif lengkap dengan penyemakan BCP 47 dan URL mutlak. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/ms/hreflang-tag-generator/",
+  "id": "/ms/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona URL এনকোডার ও ডিকোডার অনলাইন বিনামূল্যে",
   "short_name": "URL এনকোডার ও ডিকোডার অনলাইন",
   "description": "বিনামূল্যে অনলাইনে URL ও কুয়েরি টেক্সট এনকোড ও ডিকোড করুন, component ও full-URL মোড এবং একটি প্রতি-অক্ষর বিভাজনসহ। কোনো সাইন-আপ নয়, আপনার ব্রাউজারে।",
-  "id": "/loona-dev-tools/bn/url-encoder/",
+  "id": "/bn/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

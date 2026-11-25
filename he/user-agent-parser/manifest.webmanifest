@@ -2,7 +2,7 @@
   "name": "מנתח מחרוזת User Agent של Loona",
   "short_name": "מנתח מחרוזת User Agent",
   "description": "נתחו מחרוזת User-Agent של דפדפן לדפדפן, מנוע, מערכת הפעלה וסוג מכשיר עם מנתח שקוף מבוסס-כללים.",
-  "id": "/loona-dev-tools/he/user-agent-parser/",
+  "id": "/he/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

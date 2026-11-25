@@ -2,7 +2,7 @@
   "name": "Loona Em 转像素（px）转换器",
   "short_name": "Em 转像素（px）转换器",
   "description": "把 em 转换成 px，基础字体大小可调（默认 16px），并附常见值表格。",
-  "id": "/loona-dev-tools/zh/em-to-px-converter/",
+  "id": "/zh/em-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

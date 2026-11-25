@@ -2,7 +2,7 @@
   "name": "Loona Kitazamaji cha Metadata ya Hati ya Office Mtandaoni",
   "short_name": "Metadata ya Hati ya Office",
   "description": "Tazama metadata ya hati ya Office mtandaoni bure - kichwa, mwandishi, kampuni, tarehe za uundaji na ubadilishaji, programu na toleo kwa faili za .docx, .xlsx na .pptx. Tazama-tu, hakuna kinachopakiwa.",
-  "id": "/loona-dev-tools/sw/office-metadata-viewer/",
+  "id": "/sw/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

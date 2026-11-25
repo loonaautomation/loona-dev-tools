@@ -2,7 +2,7 @@
   "name": "Loona Adler-32 Sağlama Toplamı Hesaplayıcı",
   "short_name": "Adler-32 Sağlama Toplamı Hesaplayıcı",
   "description": "Metin veya dosyaların Adler-32 hash değerlerini çevrimiçi hesaplayın: 32 bit, 8 hex karakter. WebCrypto/saf JS ile tarayıcınızda yerel olarak çalışır — dosyalar asla yüklenmez.",
-  "id": "/loona-dev-tools/tr/adler32-calculator/",
+  "id": "/tr/adler32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

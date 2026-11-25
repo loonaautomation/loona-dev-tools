@@ -2,7 +2,7 @@
   "name": "Конвертер тексту Loona у двійковий",
   "short_name": "Конвертер тексту у двійкову систему",
   "description": "Конвертуйте текст у двійковий: кожен символ як 8-бітні двійкові групи його байтів UTF-8. Безкоштовний онлайн-конвертер.",
-  "id": "/loona-dev-tools/uk/text-to-binary/",
+  "id": "/uk/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

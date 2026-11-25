@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi Unix Timestamp của Loona trực tuyến miễn phí",
   "short_name": "Công cụ chuyển đổi Unix Timestamp",
   "description": "Chuyển đổi Unix timestamp (giây hoặc mili giây) sang ngày người đọc được theo UTC và giờ địa phương của bạn, và ngày trở lại thành timestamp. Giờ hiện tại trực tiếp. Miễn phí.",
-  "id": "/loona-dev-tools/vi/timestamp-converter/",
+  "id": "/vi/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

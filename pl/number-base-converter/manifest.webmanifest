@@ -2,7 +2,7 @@
   "name": "Loona Konwerter systemów liczbowych online za darmo",
   "short_name": "Konwerter systemów liczbowych online",
   "description": "Konwertuj liczby między binarnym, ósemkowym, dziesiętnym i szesnastkowym online za darmo, z precyzją BigInt dla wartości poza 2^53 i walidacją każdej cyfry. Bez rejestracji, działa w 100% w przeglądarce.",
-  "id": "/loona-dev-tools/pl/number-base-converter/",
+  "id": "/pl/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JSONPathテスター",
   "short_name": "JSONPathテスター",
   "description": "JSONPath式をJSONドキュメントに対してテストします。ドット表記、インデックス、ワイルドカード、再帰下降（$..key）をサポート。",
-  "id": "/loona-dev-tools/ja/jsonpath-tester/",
+  "id": "/ja/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

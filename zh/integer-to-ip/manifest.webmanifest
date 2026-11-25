@@ -2,7 +2,7 @@
   "name": "Loona 整数转 IP 地址转换器",
   "short_name": "整数转 IP 地址",
   "description": "把一个 32 位整数转回点分 IPv4 地址（3232235521 → 192.168.0.1）。",
-  "id": "/loona-dev-tools/zh/integer-to-ip/",
+  "id": "/zh/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

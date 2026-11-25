@@ -2,7 +2,7 @@
   "name": "Trình tạo HMAC-SHA256 của Loona",
   "short_name": "Trình tạo HMAC-SHA256",
   "description": "Tạo chữ ký HMAC-SHA256 trực tuyến: nhập khóa và thông điệp, nhận MAC dạng hex. WebCrypto, hoàn toàn cục bộ.",
-  "id": "/loona-dev-tools/vi/hmac-sha256-generator/",
+  "id": "/vi/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

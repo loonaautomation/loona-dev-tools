@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Τυχαίων Κωδικών Πρόσβασης",
   "short_name": "Γεννήτρια Τυχαίων Κωδικών Πρόσβασης",
   "description": "Δημιουργήστε ισχυρούς τυχαίους κωδικούς πρόσβασης στο πρόγραμμα περιήγησής σας με το WebCrypto API: μήκος και σύνολα χαρακτήρων ρυθμιζόμενα, η εντροπία εμφανίζεται.",
-  "id": "/loona-dev-tools/el/random-password-generator/",
+  "id": "/el/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona brojevi u rimske brojeve",
   "short_name": "Brojevi u rimske brojeve",
   "description": "Pretvorite brojeve (1–3999) u rimske brojeve u standardnom suptraktivnom obliku. Besplatni mrežni pretvarač.",
-  "id": "/loona-dev-tools/hr/number-to-roman-numerals/",
+  "id": "/hr/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

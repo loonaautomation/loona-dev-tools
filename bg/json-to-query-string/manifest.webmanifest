@@ -2,7 +2,7 @@
   "name": "Конвертор от JSON към низ за заявка на Loona",
   "short_name": "Конвертор от JSON към низ за заявка",
   "description": "Създайте низ за заявка на URL от JSON обект: вложените обекти използват скобна нотация, масивите повтарят ключа, всичко е процентно кодирано.",
-  "id": "/loona-dev-tools/bg/json-to-query-string/",
+  "id": "/bg/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

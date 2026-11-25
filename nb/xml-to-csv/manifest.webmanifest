@@ -2,7 +2,7 @@
   "name": "Loona XML til CSV-konverterer",
   "short_name": "XML til CSV-konverterer",
   "description": "Konverter XML til CSV: gjentatte elementer blir rader, barna og attributtene deres blir kolonner. Gratis nettbasert konverterer.",
-  "id": "/loona-dev-tools/nb/xml-to-csv/",
+  "id": "/nb/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

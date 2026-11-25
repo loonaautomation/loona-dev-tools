@@ -2,7 +2,7 @@
   "name": "Convertizor pixeli (px) în Rem Loona",
   "short_name": "Convertizor pixeli (px) în Rem",
   "description": "Convertește px în rem cu o dimensiune de font de bază reglabilă (implicit 16px) și un tabel de valori comune.",
-  "id": "/loona-dev-tools/ro/px-to-rem-converter/",
+  "id": "/ro/px-to-rem-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

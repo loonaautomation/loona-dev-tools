@@ -2,7 +2,7 @@
   "name": "Loona Penukar ISO ke ZIP",
   "short_name": "Penukar ISO ke ZIP",
   "description": "Penukaran imej cakram ISO ke ZIP berisi fail-filenya dalam talian: libarchive membaca isi ISO9660/Rock Ridge secara setempat.",
-  "id": "/loona-dev-tools/ms/iso-to-zip-converter/",
+  "id": "/ms/iso-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

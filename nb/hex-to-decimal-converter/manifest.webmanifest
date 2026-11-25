@@ -2,7 +2,7 @@
   "name": "Loona heksadesimal til desimal-konverterer",
   "short_name": "Heksadesimal til desimal",
   "description": "Konverter heksadesimale tall til desimal på nett — vilkårlig presisjon (BigInt), negative tall støttes.",
-  "id": "/loona-dev-tools/nb/hex-to-decimal-converter/",
+  "id": "/nb/hex-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

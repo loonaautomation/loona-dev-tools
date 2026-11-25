@@ -2,7 +2,7 @@
   "name": "Loona Kyselyjono-JSON-muunnin",
   "short_name": "Kyselyjono-JSON-muunnin",
   "description": "Jäsennä URL-kyselyjono JSONiksi: hakasulkumerkintä muuttuu sisäkkäisiksi objekteiksi, toistetut avaimet taulukoiksi, arvot tyypitettyinä.",
-  "id": "/loona-dev-tools/fi/query-string-to-json/",
+  "id": "/fi/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

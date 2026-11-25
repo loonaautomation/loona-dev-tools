@@ -2,7 +2,7 @@
   "name": "מפענח Loona Quoted-Printable",
   "short_name": "מפענח Quoted-Printable",
   "description": "פענחו טקסט quoted-printable ‏(MIME) בחזרה ל-UTF-8 קריא: בריחות =XX ושבירות שורה רכות מטופלות לפי RFC 2045.",
-  "id": "/loona-dev-tools/he/quoted-printable-decode/",
+  "id": "/he/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Конвертер CSV в таблицу Markdown онлайн",
   "short_name": "Из CSV в таблицу Markdown",
   "description": "Преобразуйте CSV в таблицу Markdown онлайн бесплатно — числовые столбцы автоматически выровнены по правому краю, а символы вертикальной черты правильно экранированы. Без регистрации, работает на 100% в вашем браузере.",
-  "id": "/loona-dev-tools/ru/csv-to-markdown-converter/",
+  "id": "/ru/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JSON 字串轉義",
   "short_name": "JSON 字串轉義",
   "description": "轉義一個要嵌入 JSON 內部的字串：引號、反斜槓、換行和控制字元變成 \\ 序列。",
-  "id": "/loona-dev-tools/zh-hant/json-escape/",
+  "id": "/zh-hant/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

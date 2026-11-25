@@ -2,7 +2,7 @@
   "name": "Minifikátor Loona JavaScriptu online zadarmo",
   "short_name": "Minifikátor JavaScriptu online",
   "description": "Minifikujte JavaScript online zadarmo konzervatívnym tokenizérom, ktorý chráni reťazce, šablónové literály a regulárne výrazy. Bez registrácie, beží 100% vo vašom prehliadači.",
-  "id": "/loona-dev-tools/sk/javascript-minifier/",
+  "id": "/sk/javascript-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

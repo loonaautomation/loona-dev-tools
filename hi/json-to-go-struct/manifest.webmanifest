@@ -2,7 +2,7 @@
   "name": "Loona JSON से Go Struct कन्वर्टर",
   "short_name": "JSON से Go Struct कन्वर्टर",
   "description": "JSON को json tags के साथ Go struct definitions में बदलें: int64/float64 अलग-अलग, कुछ array items में missing keys के लिए omitempty।",
-  "id": "/loona-dev-tools/hi/json-to-go-struct/",
+  "id": "/hi/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

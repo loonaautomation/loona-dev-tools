@@ -2,7 +2,7 @@
   "name": "Loona Tester JSONPath",
   "short_name": "Tester JSONPath",
   "description": "Testa espressioni JSONPath contro un documento JSON: notazione punto, indici, wildcard e discesa ricorsiva ($..key) supportati.",
-  "id": "/loona-dev-tools/it/jsonpath-tester/",
+  "id": "/it/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JSON을 SQL INSERT로 생성",
   "short_name": "JSON을 SQL INSERT로 생성",
   "description": "객체의 JSON 배열에서 SQL INSERT 문을 생성해요: 문자열 이스케이프, NULL과 불리언 처리, 사용자 지정 표 이름이에요.",
-  "id": "/loona-dev-tools/ko/json-to-sql-insert/",
+  "id": "/ko/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Αποκωδικοποιητής Κρυπτογράφησης A1Z26 (Αριθμοί σε Γράμματα)",
   "short_name": "Αποκωδικοποιητής Κρυπτογράφησης A1Z26 (Αριθμοί",
   "description": "Αποκωδικοποιήστε κωδικούς αριθμών A1Z26 πίσω σε γράμματα: 1=A, 2=B ... 26=Z. Χωρισμένοι με παύλα, κόμμα ή κενό.",
-  "id": "/loona-dev-tools/el/a1z26-cipher-decoder/",
+  "id": "/el/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Конвертер строки запроса в JSON",
   "short_name": "Конвертер строки запроса в JSON",
   "description": "Разбор строки запроса URL в JSON: скобочная нотация превращается во вложенные объекты, повторяющиеся ключи — в массивы, значения получают типы.",
-  "id": "/loona-dev-tools/ru/query-string-to-json/",
+  "id": "/ru/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

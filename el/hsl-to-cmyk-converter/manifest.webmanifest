@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας HSL σε CMYK",
   "short_name": "Μετατροπέας HSL σε CMYK",
   "description": "Μετατρέψτε χρώματα από HSL σε CMYK διαδικτυακά, με ζωντανό δείγμα και όλες τις άλλες μορφές (HEX, RGB, HSL, HSV, CMYK) να εμφανίζονται επίσης.",
-  "id": "/loona-dev-tools/el/hsl-to-cmyk-converter/",
+  "id": "/el/hsl-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona generator cron izraza na mreži besplatno",
   "short_name": "Generator cron izraza",
   "description": "Izrađujte cron izraze iz padajućih izbornika i dobijte svaki cron izraz s 5 polja objašnjen jednostavnim jezikom, na mreži besplatno. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/cron-expression-generator/",
+  "id": "/hr/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

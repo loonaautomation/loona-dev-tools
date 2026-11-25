@@ -2,7 +2,7 @@
   "name": "Loona ตัวแยกไฟล์ 7Z ออนไลน์ฟรี",
   "short_name": "ตัวแยกไฟล์ 7Z ออนไลน์ฟรี",
   "description": "เปิดไฟล์บีบอัด 7z ในเบราว์เซอร์ของคุณเลย - ดูทุกไฟล์ภายใน ดาวน์โหลดไฟล์เดียวหรือทุกอย่างเป็น ZIP ไม่มีการอัปโหลด; การแยกไฟล์เกิดขึ้นบนอุปกรณ์ของคุณด้วยกลไก WebAssembly",
-  "id": "/loona-dev-tools/th/7z-file-extractor/",
+  "id": "/th/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

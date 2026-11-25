@@ -2,7 +2,7 @@
   "name": "Loona 差異檢查器 線上免費",
   "short_name": "差異檢查器 線上免費",
   "description": "免費線上逐行對比兩段文字：新增行顯示為綠色，刪除行顯示為紅色，外加更改摘要。無需註冊，100% 在您的瀏覽器中執行。",
-  "id": "/loona-dev-tools/zh-hant/diff-checker/",
+  "id": "/zh-hant/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

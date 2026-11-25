@@ -2,7 +2,7 @@
   "name": "Loona INI سے JSON کنورٹر",
   "short_name": "INI سے JSON کنورٹر",
   "description": "INI ترتیب فائلوں کو JSON میں بدلیں: حصے آبجیکٹس بن جاتے ہیں، قدروں کی اقسام (اعداد، booleans) جہاں غیر مبہم ہوں مقرر ہوتی ہیں۔",
-  "id": "/loona-dev-tools/ur/ini-to-json/",
+  "id": "/ur/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

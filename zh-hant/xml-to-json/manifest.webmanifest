@@ -2,7 +2,7 @@
   "name": "Loona XML 轉 JSON 轉換器",
   "short_name": "XML 轉 JSON 轉換器",
   "description": "線上把 XML 轉換成 JSON：屬性寫為 @鍵，重複元素寫為陣列，文字寫為帶型別數字的值。",
-  "id": "/loona-dev-tools/zh-hant/xml-to-json/",
+  "id": "/zh-hant/xml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

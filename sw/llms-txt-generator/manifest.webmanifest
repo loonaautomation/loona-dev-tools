@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha llms.txt Bure Mtandaoni",
   "short_name": "Kizalishaji cha llms.txt Bure Mtandaoni",
   "description": "Zalisha faili halali ya llms.txt mtandaoni bure - jina la tovuti, blockquote ya muhtasari, maelezo na viungo vilivyochaguliwa vya kurasa katika muundo wa llms.txt uliopendekezwa kwa vitambaji vya AI. Bila kujisajili.",
-  "id": "/loona-dev-tools/sw/llms-txt-generator/",
+  "id": "/sw/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

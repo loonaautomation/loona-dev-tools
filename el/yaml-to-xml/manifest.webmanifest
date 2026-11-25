@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας YAML σε XML",
   "short_name": "Μετατροπέας YAML σε XML",
   "description": "Μετατρέψτε YAML σε XML διαδικτυακά: ένα μεμονωμένο κλειδί ανώτατου επιπέδου γίνεται το ριζικό στοιχείο, τα @keys γίνονται ιδιότητες.",
-  "id": "/loona-dev-tools/el/yaml-to-xml/",
+  "id": "/el/yaml-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

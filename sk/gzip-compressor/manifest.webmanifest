@@ -2,7 +2,7 @@
   "name": "Kompresor Loona GZIP online zadarmo",
   "short_name": "Kompresor GZIP online zadarmo",
   "description": "Komprimujte akýkoľvek jeden súbor do .gz pomocou zabudovaného gzip jadra vášho prehliadača. Okamžité veľkosti pred/po, nič sa nenahráva – súbor sa komprimuje na vašom zariadení. Funguje pre protokoly, CSV, súbory TAR a ďalšie.",
-  "id": "/loona-dev-tools/sk/gzip-compressor/",
+  "id": "/sk/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

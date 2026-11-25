@@ -2,7 +2,7 @@
   "name": "Loona منشئ تعبيرات Cron عبر الإنترنت مجاناً",
   "short_name": "منشئ تعبيرات Cron",
   "description": "ابنِ تعبيرات cron من قوائم منسدلة واشرح أي تعبير cron من 5 حقول بلغة عربية بسيطة، عبر الإنترنت مجاناً. دون تسجيل، يعمل 100% في متصفحك.",
-  "id": "/loona-dev-tools/ar/cron-expression-generator/",
+  "id": "/ar/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

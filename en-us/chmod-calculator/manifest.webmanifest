@@ -2,7 +2,7 @@
   "name": "Loona Chmod Calculator - Permissions to Octal and Symbolic, Both Ways",
   "short_name": "Chmod Calculator - Permissions to Octal and Symbolic, Both Ways",
   "description": "Calculate chmod permissions online for free: checkboxes to octal (755) and symbolic (rwxr-xr-x), and octal back to permissions. No sign-up, runs 100% in your browser.",
-  "id": "/loona-dev-tools/en-us/chmod-calculator/",
+  "id": "/en-us/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

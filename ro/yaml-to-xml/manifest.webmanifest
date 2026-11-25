@@ -2,7 +2,7 @@
   "name": "Convertizor YAML în XML Loona",
   "short_name": "Convertizor YAML în XML",
   "description": "Convertește YAML în XML online: o singură cheie de nivel superior devine elementul rădăcină, @cheile devin atribute.",
-  "id": "/loona-dev-tools/ro/yaml-to-xml/",
+  "id": "/ro/yaml-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

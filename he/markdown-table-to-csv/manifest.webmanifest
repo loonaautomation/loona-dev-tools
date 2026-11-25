@@ -2,7 +2,7 @@
   "name": "ממיר Loona טבלת Markdown ל-CSV",
   "short_name": "טבלת Markdown ל-CSV",
   "description": "המירו טבלת Markdown ל-CSV: כותרת ושורות מחולצות, שורת היישור מוסרת, תאים מקוצצים ומובאים במרכאות כראוי.",
-  "id": "/loona-dev-tools/he/markdown-table-to-csv/",
+  "id": "/he/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

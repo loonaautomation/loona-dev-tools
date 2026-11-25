@@ -2,7 +2,7 @@
   "name": "Loona JSON से YAML कन्वर्टर",
   "short_name": "JSON से YAML कन्वर्टर",
   "description": "JSON को YAML में ऑनलाइन बदलें: साफ़ indentation, arrays और nested objects, strings सिर्फ़ तब quoted जब YAML को ज़रूरत हो।",
-  "id": "/loona-dev-tools/hi/json-to-yaml/",
+  "id": "/hi/json-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

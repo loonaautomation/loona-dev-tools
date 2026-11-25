@@ -2,7 +2,7 @@
   "name": "Генератор хешів Loona SHA-256",
   "short_name": "Генератор хешів SHA-256",
   "description": "Обчислюйте хеші SHA-256 тексту або файлів онлайн: 256-bit, 64 шістнадцяткові символи. Працює локально у вашому браузері з WebCrypto/чистим JS — файли ніколи не завантажуються на сервер.",
-  "id": "/loona-dev-tools/uk/sha256-hash-generator/",
+  "id": "/uk/sha256-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 查询字符串转 JSON 转换器",
   "short_name": "查询字符串转 JSON 转换器",
   "description": "把 URL 查询字符串解析为 JSON：括号记法变成嵌套对象、重复键变成数组、值带类型。",
-  "id": "/loona-dev-tools/zh/query-string-to-json/",
+  "id": "/zh/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

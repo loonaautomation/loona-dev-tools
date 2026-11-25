@@ -2,7 +2,7 @@
   "name": "Loona e-mail érvényesítő online ingyen",
   "short_name": "E-mail ellenőrző online ingyen",
   "description": "E-mail címek validálása online ingyen, egyenként vagy kötegelve - teljes szintaxisellenőrzések a címszabályokkal szemben plusz az olyan általános domain elütések észlelése, mint a gmial.com. Nincs regisztráció.",
-  "id": "/loona-dev-tools/hu/email-validator/",
+  "id": "/hu/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

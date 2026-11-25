@@ -2,7 +2,7 @@
   "name": "Loona RAR-filextraherare online gratis",
   "short_name": "RAR-filextraherare Online Gratis",
   "description": "Öppna RAR-filer (RAR4 och RAR5) direkt i din webbläsare - se varje fil inuti, ladda ner enstaka filer eller allt som en ZIP. Ingenting laddas upp; extrahering sker på din enhet.",
-  "id": "/loona-dev-tools/sv/rar-file-extractor/",
+  "id": "/sv/rar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

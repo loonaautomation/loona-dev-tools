@@ -2,7 +2,7 @@
   "name": "Loona ハッシュ生成ツール 無料オンライン",
   "short_name": "ハッシュ生成ツール 無料オンライン",
   "description": "あらゆるテキストのSHA-1、SHA-256、SHA-384、SHA-512ハッシュを無料でオンライン生成します。ブラウザでローカル計算します。登録不要、何もアップロードされません。",
-  "id": "/loona-dev-tools/ja/hash-generator/",
+  "id": "/ja/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

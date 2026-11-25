@@ -2,7 +2,7 @@
   "name": "Loona Generador de INSERT SQL desde JSON",
   "short_name": "Generador de INSERT SQL desde JSON",
   "description": "Genera sentencias INSERT de SQL desde un array JSON de objetos: cadenas escapadas, NULL y booleanos manejados, nombre de tabla personalizado.",
-  "id": "/loona-dev-tools/es/json-to-sql-insert/",
+  "id": "/es/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

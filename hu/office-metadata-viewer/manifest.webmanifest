@@ -2,7 +2,7 @@
   "name": "Loona Office dokumentum metaadat-megjelenítő online",
   "short_name": "Office dokumentum metaadatok",
   "description": "Office dokumentum metaadatok megtekintése online ingyen - cím, szerző, cég, létrehozási és módosítási dátumok, alkalmazás és verzió .docx, .xlsx és .pptx fájlokhoz. Csak megtekintésre, semmi nem töltődik fel.",
-  "id": "/loona-dev-tools/hu/office-metadata-viewer/",
+  "id": "/hu/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

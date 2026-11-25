@@ -2,7 +2,7 @@
   "name": "Loona محوّل إلغاء تهريب Unicode ‏(فكّ \\uXXXX)",
   "short_name": "محوّل إلغاء تهريب Unicode",
   "description": "فكّ تسلسلات تهريب Unicode ‏(\\uXXXX، \\u{...}، \\xXX) عودة إلى أحرف حقيقية، زائد تهريبات \\n \\t و\\\\.",
-  "id": "/loona-dev-tools/ar/unicode-unescape/",
+  "id": "/ar/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

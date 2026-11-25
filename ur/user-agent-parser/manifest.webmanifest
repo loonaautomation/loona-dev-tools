@@ -2,7 +2,7 @@
   "name": "Loona User Agent اسٹرنگ پارسر",
   "short_name": "User Agent اسٹرنگ پارسر",
   "description": "ایک براؤزر User-Agent اسٹرنگ کو براؤزر، انجن، OS اور آلہ قسم میں ایک شفاف قاعدہ-مبنی پارسر سے parse کریں۔",
-  "id": "/loona-dev-tools/ur/user-agent-parser/",
+  "id": "/ur/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

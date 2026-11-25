@@ -2,7 +2,7 @@
   "name": "Loona ترميز URL ‏(ترميز النسبة المئوية)",
   "short_name": "ترميز URL ‏(ترميز النسبة المئوية)",
   "description": "رمّز النص أو رابطاً كاملاً بالنسبة المئوية عبر الإنترنت: المسافات تصبح %20، الأحرف المحجوزة تُهرَّب حسب RFC 3986. وضع المكوّن أو الرابط الكامل.",
-  "id": "/loona-dev-tools/ar/url-encode/",
+  "id": "/ar/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

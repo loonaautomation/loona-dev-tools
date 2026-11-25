@@ -2,7 +2,7 @@
   "name": "Loona Semantic Version तुलनाकर्ता",
   "short_name": "Semantic Version तुलनाकर्ता",
   "description": "Semantic versions validate और compare करें (MAJOR.MINOR.PATCH): कौन सा नया है, और किस प्रकार का change उन्हें अलग करता है।",
-  "id": "/loona-dev-tools/hi/semver-comparator/",
+  "id": "/hi/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

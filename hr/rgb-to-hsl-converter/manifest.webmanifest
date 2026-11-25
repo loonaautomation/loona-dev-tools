@@ -2,7 +2,7 @@
   "name": "Loona pretvarač RGB u HSL",
   "short_name": "Pretvarač RGB u HSL",
   "description": "Pretvorite boje iz RGB u HSL na mreži, uz uzorak uživo i sve druge formate (HEX, RGB, HSL, HSV, CMYK) također prikazane.",
-  "id": "/loona-dev-tools/hr/rgb-to-hsl-converter/",
+  "id": "/hr/rgb-to-hsl-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

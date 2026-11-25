@@ -2,7 +2,7 @@
   "name": "Loona Open Graph اور Twitter Card جنریٹر",
   "short_name": "Open Graph اور Twitter Card",
   "description": "Open Graph اور Twitter کارڈ میٹا ٹیگز آن لائن مفت بنائیں، ایک لائیو سماجی کارڈ پیش منظر کے ساتھ - عنوان، تفصیل، تصویر، URL اور سائٹ نام۔ کوئی سائن اپ نہیں، آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-dev-tools/ur/open-graph-generator/",
+  "id": "/ur/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

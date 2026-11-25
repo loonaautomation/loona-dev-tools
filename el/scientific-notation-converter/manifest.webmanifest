@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Επιστημονικής Σημειογραφίας",
   "short_name": "Μετατροπέας Επιστημονικής Σημειογραφίας",
   "description": "Μετατρέψτε αριθμούς προς και από επιστημονική σημειογραφία: 3200000 ⇄ 3.2 × 10^6, η σημειογραφία E υποστηρίζεται και προς τις δύο κατευθύνσεις.",
-  "id": "/loona-dev-tools/el/scientific-notation-converter/",
+  "id": "/el/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

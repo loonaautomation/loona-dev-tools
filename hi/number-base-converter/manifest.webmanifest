@@ -2,7 +2,7 @@
   "name": "Loona Number Base कन्वर्टर ऑनलाइन मुफ़्त",
   "short_name": "Number Base कन्वर्टर ऑनलाइन",
   "description": "Binary, octal, decimal और hexadecimal के बीच संख्याएँ ऑनलाइन मुफ़्त बदलें, 2^53 से आगे की values के लिए BigInt precision और प्रति-digit validation के साथ। कोई साइन-अप नहीं, 100% आपके ब्राउज़र में चलता है।",
-  "id": "/loona-dev-tools/hi/number-base-converter/",
+  "id": "/hi/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

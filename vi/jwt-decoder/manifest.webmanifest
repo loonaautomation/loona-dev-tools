@@ -2,7 +2,7 @@
   "name": "Công cụ giải mã JWT của Loona trực tuyến miễn phí",
   "short_name": "Công cụ giải mã JWT trực tuyến miễn phí",
   "description": "Giải mã một JSON Web Token trực tuyến miễn phí - đọc header và payload dưới dạng JSON đẹp và xem ngày hết hạn bằng lời dễ hiểu. Chữ ký KHÔNG được xác minh. Trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/jwt-decoder/",
+  "id": "/vi/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

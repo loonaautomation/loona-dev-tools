@@ -2,7 +2,7 @@
   "name": "Loona Meta 标签生成器 在线免费",
   "short_name": "Meta 标签生成器 在线免费",
   "description": "免费在线生成 HTML meta 标签——标题、描述、关键字、作者、robots 和 canonical——带实时的 Google 风格 SERP 预览和字符计数。无需注册。",
-  "id": "/loona-dev-tools/zh/meta-tag-generator/",
+  "id": "/zh/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

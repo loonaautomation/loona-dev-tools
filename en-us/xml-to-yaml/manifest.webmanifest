@@ -2,7 +2,7 @@
   "name": "Loona XML to YAML Converter",
   "short_name": "XML to YAML Converter",
   "description": "Convert XML to YAML: attributes as @keys, repeated elements as lists, values typed. Real parser, not regex.",
-  "id": "/loona-dev-tools/en-us/xml-to-yaml/",
+  "id": "/en-us/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

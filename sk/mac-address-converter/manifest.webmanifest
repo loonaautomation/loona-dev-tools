@@ -2,7 +2,7 @@
   "name": "Prevodník formátu adresy Loona MAC",
   "short_name": "Prevodník formátu adresy MAC",
   "description": "Prevádzajte adresy MAC medzi formátmi s dvojbodkami (AA:BB:CC:DD:EE:FF), pomlčkami, bodkami Cisco a obyčajnými formátmi; overuje 48-bitovú adresu.",
-  "id": "/loona-dev-tools/sk/mac-address-converter/",
+  "id": "/sk/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

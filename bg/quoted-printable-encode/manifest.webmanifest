@@ -2,7 +2,7 @@
   "name": "Енкодер на Quoted-Printable на Loona",
   "short_name": "Кодиране на Quoted-Printable",
   "description": "Кодирайте онлайн текст като quoted-printable (MIME): UTF-8 байтове като =XX екранирания, меки прекъсвания на редове на 76 символа, по RFC 2045.",
-  "id": "/loona-dev-tools/bg/quoted-printable-encode/",
+  "id": "/bg/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

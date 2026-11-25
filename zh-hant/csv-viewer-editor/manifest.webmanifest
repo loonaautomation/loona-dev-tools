@@ -2,7 +2,7 @@
   "name": "Loona CSV 檢視器與編輯器 線上免費",
   "short_name": "CSV 檢視器與編輯器 線上版",
   "description": "線上免費在可編輯的表格網格中檢視和編輯 CSV 檔案——編輯單元格、排序列、新增或移除行和列，然後下載編輯後的 CSV。無需註冊，在您的瀏覽器中執行。",
-  "id": "/loona-dev-tools/zh-hant/csv-viewer-editor/",
+  "id": "/zh-hant/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

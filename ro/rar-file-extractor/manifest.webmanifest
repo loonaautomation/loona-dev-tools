@@ -2,7 +2,7 @@
   "name": "Extractor de fișiere RAR Loona online gratuit",
   "short_name": "Extractor de fișiere RAR online gratuit",
   "description": "Deschide fișiere RAR (RAR4 și RAR5) chiar în browserul tău - vezi fiecare fișier din interior, descarcă fișiere individuale sau totul ca ZIP. Nimic nu este încărcat; extragerea are loc pe dispozitivul tău.",
-  "id": "/loona-dev-tools/ro/rar-file-extractor/",
+  "id": "/ro/rar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

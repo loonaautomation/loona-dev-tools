@@ -2,7 +2,7 @@
   "name": "Loona Markdown Table से CSV कन्वर्टर",
   "short_name": "Markdown Table से CSV",
   "description": "एक Markdown table को CSV में बदलें: header और rows extracted, alignment row हटाई गई, cells trimmed और properly quoted।",
-  "id": "/loona-dev-tools/hi/markdown-table-to-csv/",
+  "id": "/hi/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Roma Rakamlarından Sayılara",
   "short_name": "Roma Rakamlarından Sayılara",
   "description": "Roma rakamlarını sayılara (1–3999) dönüştürün, çıkarımsal gösterimin (IV, IX, XL, CM) katı doğrulamasıyla.",
-  "id": "/loona-dev-tools/tr/roman-numerals-converter/",
+  "id": "/tr/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

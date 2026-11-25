@@ -2,7 +2,7 @@
   "name": "Převodník Loona CSV na SQL online zdarma",
   "short_name": "Převodník CSV na SQL online",
   "description": "Převádějte CSV na SQL online zdarma - CREATE TABLE s odvozenými typy sloupců plus jeden INSERT na řádek, pro MySQL, PostgreSQL nebo SQLite. Bez registrace, běží 100% ve vašem prohlížeči.",
-  "id": "/loona-dev-tools/cs/csv-to-sql-converter/",
+  "id": "/cs/csv-to-sql-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

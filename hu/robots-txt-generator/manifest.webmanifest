@@ -2,7 +2,7 @@
   "name": "Loona Robots.txt generátor online ingyen",
   "short_name": "Robots.txt generátor online",
   "description": "Generáljon érvényes robots.txt fájlt online ingyen - előbeállítások, agentenkénti engedélyezési és tiltási szabályok, webhelytérkép sor és beépített szintaxis-épelméjűségi ellenőrzések. Regisztráció nélkül, a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/robots-txt-generator/",
+  "id": "/hu/robots-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

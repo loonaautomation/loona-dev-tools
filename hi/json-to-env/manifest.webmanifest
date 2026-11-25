@@ -2,7 +2,7 @@
   "name": "Loona JSON से .env कन्वर्टर",
   "short_name": "JSON से .env कन्वर्टर",
   "description": "JSON config को .env format में बदलें: nested objects UNDERSCORE paths के साथ flattened, values तब quoted जब उनमें spaces या # हों।",
-  "id": "/loona-dev-tools/hi/json-to-env/",
+  "id": "/hi/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

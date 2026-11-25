@@ -2,7 +2,7 @@
   "name": "Loona pretvarač upitnog niza u JSON",
   "short_name": "Pretvarač upitnog niza u JSON",
   "description": "Raščlanite upitni niz URL-a u JSON: notacija zagrada postaje ugniježđeni objekti, ponovljeni ključevi postaju nizovi, vrijednosti tipizirane.",
-  "id": "/loona-dev-tools/hr/query-string-to-json/",
+  "id": "/hr/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

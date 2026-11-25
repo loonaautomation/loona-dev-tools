@@ -2,7 +2,7 @@
   "name": "Loona Kiunganishaji cha CSV Bure Mtandaoni",
   "short_name": "Kiunganishaji cha CSV Bure Mtandaoni",
   "description": "Unganisha faili mbili za CSV mtandaoni bure kwa safu wima ya ufunguo wa pamoja - muunganiko wa ndani au wa kushoto, funguo zilizorudiwa zikishughulikiwa kwa njia ya hifadhidata. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/csv-join/",
+  "id": "/sw/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

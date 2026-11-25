@@ -2,7 +2,7 @@
   "name": "Analyzátor reťazca User Agent Loona",
   "short_name": "Analyzátor reťazca User Agent",
   "description": "Analyzujte reťazec User-Agent prehliadača na prehliadač, motor, OS a typ zariadenia transparentným analyzátorom založeným na pravidlách.",
-  "id": "/loona-dev-tools/sk/user-agent-parser/",
+  "id": "/sk/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator clip-path CSS online za darmo",
   "short_name": "Generator clip-path CSS",
   "description": "Generuj CSS clip-path online za darmo - presety wielokątów, takie jak gwiazda, sześciokąt i strzałka, z regulowanymi punktami, plus kształty koła, elipsy i inset, z podglądem na żywo. Bez rejestracji.",
-  "id": "/loona-dev-tools/pl/css-clip-path-generator/",
+  "id": "/pl/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

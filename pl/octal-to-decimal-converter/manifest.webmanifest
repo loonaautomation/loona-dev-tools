@@ -2,7 +2,7 @@
   "name": "Loona Konwerter ósemkowy na dziesiętny",
   "short_name": "Konwerter ósemkowy na dziesiętny",
   "description": "Konwertuj liczby ósemkowe na dziesiętne online — dowolna precyzja (BigInt), liczby ujemne obsługiwane.",
-  "id": "/loona-dev-tools/pl/octal-to-decimal-converter/",
+  "id": "/pl/octal-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

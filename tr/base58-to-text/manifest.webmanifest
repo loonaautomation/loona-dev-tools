@@ -2,7 +2,7 @@
   "name": "Loona Base58 - Metin Kod Çözücü",
   "short_name": "Base58 - Metin Kod Çözücü",
   "description": "Base58 dizelerini metne (UTF-8) geri çözün. Bitcoin alfabesine karşı doğrular ve geçersiz karakterleri raporlar.",
-  "id": "/loona-dev-tools/tr/base58-to-text/",
+  "id": "/tr/base58-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

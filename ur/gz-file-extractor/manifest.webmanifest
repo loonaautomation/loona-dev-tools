@@ -2,7 +2,7 @@
   "name": "Loona GZ فائل ایکسٹریکٹر آن لائن مفت",
   "short_name": "GZ فائل ایکسٹریکٹر آن لائن مفت",
   "description": "ایک واحد .gz فائل عین اپنے براؤزر میں ڈی کمپریس کریں اور اصل فائل ڈاؤن لوڈ کریں - لاگز، ڈیٹا ایکسپورٹس، ڈیٹا بیس ڈمپس۔ کچھ اپ لوڈ نہیں ہوتا؛ آپ کا براؤزر مقامی طور پر کام کرتا ہے۔",
-  "id": "/loona-dev-tools/ur/gz-file-extractor/",
+  "id": "/ur/gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

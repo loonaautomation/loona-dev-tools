@@ -2,7 +2,7 @@
   "name": "Loona NATOフォネティックアルファベット翻訳ツール（Text",
   "short_name": "NATOフォネティックアルファベット",
   "description": "テキストをNATOフォネティックアルファベットで綴ります：A = Alfa、B = Bravo... 数字も含みます。航空、軍事、サポート通話で使われます。",
-  "id": "/loona-dev-tools/ja/nato-phonetic-alphabet/",
+  "id": "/ja/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

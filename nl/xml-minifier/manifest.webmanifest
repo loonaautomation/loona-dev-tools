@@ -2,7 +2,7 @@
   "name": "Loona XML-minifier",
   "short_name": "XML-minifier",
   "description": "Minificeer XML online: strip opmerkingen en witruimte tussen tags tot één compacte regel.",
-  "id": "/loona-dev-tools/nl/xml-minifier/",
+  "id": "/nl/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

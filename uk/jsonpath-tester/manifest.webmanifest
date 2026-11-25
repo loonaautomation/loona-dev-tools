@@ -2,7 +2,7 @@
   "name": "Тестер Loona JSONPath",
   "short_name": "Тестер JSONPath",
   "description": "Тестуйте вирази JSONPath на документі JSON: підтримуються крапковий запис, індекси, символи підстановки й рекурсивний спуск ($..key).",
-  "id": "/loona-dev-tools/uk/jsonpath-tester/",
+  "id": "/uk/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona pretvarač ZIP u TAR",
   "short_name": "Pretvarač ZIP u TAR",
   "description": "Pretvorite ZIP arhive u nesažeti TAR na mreži: iste datoteke i mape, ponovno zapakirane programom za zapis TAR-a usklađenim sa standardima. Potpuno lokalno.",
-  "id": "/loona-dev-tools/hr/zip-to-tar-converter/",
+  "id": "/hr/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

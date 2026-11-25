@@ -2,7 +2,7 @@
   "name": "Loona generator SHA-512 hasha",
   "short_name": "Generator SHA-512 hasha",
   "description": "Izračunajte SHA-512 hasheve teksta ili datoteka na mreži: 512-bitni, 128 heksadekadskih znakova. Radi lokalno u vašem pregledniku s WebCryptom/čistim JS-om — datoteke se nikada ne prenose.",
-  "id": "/loona-dev-tools/hr/sha512-hash-generator/",
+  "id": "/hr/sha512-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

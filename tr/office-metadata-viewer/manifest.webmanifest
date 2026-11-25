@@ -2,7 +2,7 @@
   "name": "Loona Office Belgesi Meta Veri Görüntüleyici Çevrimiçi",
   "short_name": "Office Belgesi Meta Verisi",
   "description": "Office belgesi meta verisini çevrimiçi ücretsiz görüntüleyin - .docx, .xlsx ve .pptx dosyaları için başlık, yazar, şirket, oluşturma ve değişiklik tarihleri, uygulama ve sürüm. Yalnızca görüntüleme, hiçbir şey yüklenmez.",
-  "id": "/loona-dev-tools/tr/office-metadata-viewer/",
+  "id": "/tr/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

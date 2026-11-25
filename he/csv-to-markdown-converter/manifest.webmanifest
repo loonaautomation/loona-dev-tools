@@ -2,7 +2,7 @@
   "name": "ממיר Loona CSV לטבלת Markdown מקוון",
   "short_name": "CSV לטבלת Markdown",
   "description": "המירו CSV לטבלת Markdown באופן מקוון בחינם - עמודות מספריות מיושרות לימין אוטומטית ותווי קו אנכי מבורחים כראוי. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/csv-to-markdown-converter/",
+  "id": "/he/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

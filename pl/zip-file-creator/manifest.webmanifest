@@ -2,7 +2,7 @@
   "name": "Loona Kreator plików ZIP online za darmo",
   "short_name": "Kreator plików ZIP online za darmo",
   "description": "Utwórz plik ZIP z wielu plików wprost w przeglądarce - dodaj pliki, nazwij archiwum i pobierz jeden .zip. Nic nie jest przesyłane; wszystko pozostaje na urządzeniu.",
-  "id": "/loona-dev-tools/pl/zip-file-creator/",
+  "id": "/pl/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penukar JSON ke Dataclass Python",
   "short_name": "JSON ke Dataclass Python",
   "description": "Penukaran JSON ke dataclass Python dengan petunjuk tipe: objek bersarang menjadi dataclass bersarang, tipe List untuk array.",
-  "id": "/loona-dev-tools/ms/json-to-python-dataclass/",
+  "id": "/ms/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

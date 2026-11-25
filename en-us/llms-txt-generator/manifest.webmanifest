@@ -2,7 +2,7 @@
   "name": "Loona llms.txt Generator - A Site Summary Written for AI Readers",
   "short_name": "llms.txt Generator - A Site Summary Written for AI Readers",
   "description": "Generate a valid llms.txt file online for free - site name, summary blockquote, details and curated page links in the llms.txt format proposed for AI crawlers. No sign-up.",
-  "id": "/loona-dev-tools/en-us/llms-txt-generator/",
+  "id": "/en-us/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

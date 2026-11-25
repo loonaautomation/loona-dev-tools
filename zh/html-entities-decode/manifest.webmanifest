@@ -2,7 +2,7 @@
   "name": "Loona HTML 实体解码器",
   "short_name": "HTML 实体解码器",
   "description": "把 HTML 实体解码回普通字符：命名、十进制和十六进制引用（&copy;、&#169;、&#xA9;）全部支持。",
-  "id": "/loona-dev-tools/zh/html-entities-decode/",
+  "id": "/zh/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

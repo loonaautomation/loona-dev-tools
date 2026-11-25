@@ -2,7 +2,7 @@
   "name": "Loona NATO-fonetisk alfabet-dekoder",
   "short_name": "NATO-fonetisk alfabet-dekoder",
   "description": "Afkod NATO-fonetiske ord (Alfa, Bravo, Charlie...) tilbage til almindelige bogstaver og cifre.",
-  "id": "/loona-dev-tools/da/nato-phonetic-decoder/",
+  "id": "/da/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

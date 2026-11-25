@@ -2,7 +2,7 @@
   "name": "Loona Decodifica URL (decodifica percentuale)",
   "short_name": "Decodifica URL (decodifica percentuale)",
   "description": "Decodifica URL e stringhe di query percent-encoded di nuovo in testo leggibile, incluse sequenze UTF-8 e + come spazio. Decodificatore online gratuito.",
-  "id": "/loona-dev-tools/it/url-decode/",
+  "id": "/it/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

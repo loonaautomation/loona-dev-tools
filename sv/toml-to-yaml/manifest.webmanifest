@@ -2,7 +2,7 @@
   "name": "Loona TOML till YAML-konverterare",
   "short_name": "TOML till YAML-konverterare",
   "description": "Konvertera TOML till YAML online: tabeller blir nästlade mappningar, arraytabeller blir listor av objekt.",
-  "id": "/loona-dev-tools/sv/toml-to-yaml/",
+  "id": "/sv/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

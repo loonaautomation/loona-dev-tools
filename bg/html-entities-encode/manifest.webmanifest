@@ -2,7 +2,7 @@
   "name": "Кодиране на HTML символни кодове на Loona",
   "short_name": "Кодиране на HTML символни кодове",
   "description": "Кодирайте специални символи като HTML символни кодове: именувани (&copy;), десетични или шестнадесетични числови препратки. Екранира маркировка, кавички и не-ASCII текст.",
-  "id": "/loona-dev-tools/bg/html-entities-encode/",
+  "id": "/bg/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

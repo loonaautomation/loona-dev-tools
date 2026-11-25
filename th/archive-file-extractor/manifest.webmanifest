@@ -2,7 +2,7 @@
   "name": "Loona ตัวแยกไฟล์บีบอัดออนไลน์ฟรี",
   "short_name": "ตัวแยกไฟล์บีบอัดออนไลน์",
   "description": "ตัวเปิดไฟล์บีบอัดสากลหนึ่งเดียว: วางไฟล์ ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ หรือ ISO ใดก็ได้ แล้วแยกเนื้อหาของมันในเบราว์เซอร์ของคุณเลย รูปแบบถูกตรวจจับโดยอัตโนมัติ; ไม่มีการอัปโหลด",
-  "id": "/loona-dev-tools/th/archive-file-extractor/",
+  "id": "/th/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

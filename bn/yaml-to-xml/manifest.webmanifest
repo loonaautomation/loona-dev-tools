@@ -2,7 +2,7 @@
   "name": "Loona YAML থেকে XML কনভার্টার",
   "short_name": "YAML থেকে XML কনভার্টার",
   "description": "অনলাইনে YAML XML-এ রূপান্তর করুন: একটি একক শীর্ষ-স্তরের কী রুট উপাদান হয়, @keys অ্যাট্রিবিউট হয়।",
-  "id": "/loona-dev-tools/bn/yaml-to-xml/",
+  "id": "/bn/yaml-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

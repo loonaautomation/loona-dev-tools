@@ -2,7 +2,7 @@
   "name": "Profileur Loona CSV en ligne gratuit",
   "short_name": "Profileur CSV en ligne gratuit",
   "description": "Profilez un fichier CSV en ligne et gratuitement - devinettes de types par colonne, comptes de cellules vides, comptes de valeurs uniques, min/max numériques et valeurs principales, afin que vous compreniez un fichier avant de l’utiliser. Sans inscription.",
-  "id": "/loona-dev-tools/fr/csv-profiler/",
+  "id": "/fr/csv-profiler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

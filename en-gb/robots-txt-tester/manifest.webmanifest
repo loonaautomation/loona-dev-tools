@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/robots-txt-tester/",
+  "id": "/en-gb/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

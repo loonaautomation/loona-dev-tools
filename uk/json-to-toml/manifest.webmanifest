@@ -2,7 +2,7 @@
   "name": "Конвертер Loona JSON у TOML",
   "short_name": "Конвертер JSON у TOML",
   "description": "Конвертуйте JSON у TOML онлайн: спочатку скаляри, вкладені об’єкти як [таблиці], масиви об’єктів як [[таблиці]].",
-  "id": "/loona-dev-tools/uk/json-to-toml/",
+  "id": "/uk/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

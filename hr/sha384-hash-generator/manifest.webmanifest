@@ -2,7 +2,7 @@
   "name": "Loona generator SHA-384 hasha",
   "short_name": "Generator SHA-384 hasha",
   "description": "Izračunajte SHA-384 hasheve teksta ili datoteka na mreži: 384-bitni, 96 heksadekadskih znakova. Radi lokalno u vašem pregledniku s WebCryptom/čistim JS-om — datoteke se nikada ne prenose.",
-  "id": "/loona-dev-tools/hr/sha384-hash-generator/",
+  "id": "/hr/sha384-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

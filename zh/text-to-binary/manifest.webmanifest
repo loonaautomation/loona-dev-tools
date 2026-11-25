@@ -2,7 +2,7 @@
   "name": "Loona 文本转二进制转换器",
   "short_name": "文本转二进制转换器",
   "description": "把文本转换成二进制：每个字符写为其 UTF-8 字节的 8 位二进制组。免费的在线转换器。",
-  "id": "/loona-dev-tools/zh/text-to-binary/",
+  "id": "/zh/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "כלי תצוגה מקדימה של Loona Google SERP מקוון בחינם",
   "short_name": "כלי תצוגה מקדימה של Google SERP",
   "description": "צפו מראש איך כותרת הדף ותיאור המטא שלכם ייראו בתוצאות החיפוש של Google מקוון בחינם, עם תצוגות שולחן עבודה ונייד ואזהרות קטיעת רוחב-פיקסלים. בלי הרשמה.",
-  "id": "/loona-dev-tools/he/google-serp-preview/",
+  "id": "/he/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

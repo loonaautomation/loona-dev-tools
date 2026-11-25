@@ -2,7 +2,7 @@
   "name": "Số sang số La Mã của Loona",
   "short_name": "Số sang số La Mã",
   "description": "Chuyển đổi số (1–3999) sang số La Mã ở dạng trừ chuẩn. Công cụ chuyển đổi trực tuyến miễn phí.",
-  "id": "/loona-dev-tools/vi/number-to-roman-numerals/",
+  "id": "/vi/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

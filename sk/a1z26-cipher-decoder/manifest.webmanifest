@@ -2,7 +2,7 @@
   "name": "Dekodér šifry Loona A1Z26 (Čísla na písmená)",
   "short_name": "Dekodér šifry A1Z26 (Čísla",
   "description": "Dekódujte číselné kódy A1Z26 späť na písmená: 1=A, 2=B ... 26=Z. Oddelené pomlčkou, čiarkou alebo medzerou.",
-  "id": "/loona-dev-tools/sk/a1z26-cipher-decoder/",
+  "id": "/sk/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

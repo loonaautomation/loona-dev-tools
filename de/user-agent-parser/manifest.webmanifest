@@ -2,7 +2,7 @@
   "name": "Loona User-Agent-String-Parser",
   "short_name": "User-Agent-String-Parser",
   "description": "Parsen Sie einen Browser-User-Agent-String zu Browser, Engine, OS und Gerätetyp mit einem transparenten regelbasierten Parser.",
-  "id": "/loona-dev-tools/de/user-agent-parser/",
+  "id": "/de/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

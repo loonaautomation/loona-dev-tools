@@ -2,7 +2,7 @@
   "name": "Loona HTML-e-mailsignatur-generator online gratis",
   "short_name": "HTML-e-mailsignatur",
   "description": "Opret en professionel HTML-e-mailsignatur online gratis – navn, titel, virksomhed, telefon, e-mail og websted i e-mail-sikker tabel-HTML, der virker i Gmail og Outlook. Ingen tilmelding.",
-  "id": "/loona-dev-tools/da/email-signature-generator/",
+  "id": "/da/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

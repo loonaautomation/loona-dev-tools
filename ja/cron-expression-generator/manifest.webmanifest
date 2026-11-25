@@ -2,7 +2,7 @@
   "name": "Loona Cron式生成ツール 無料オンライン",
   "short_name": "Cron式生成ツール",
   "description": "ドロップダウンからcron式を構築し、あらゆる5フィールドのcron式を分かりやすい日本語で説明します。無料オンライン。登録不要、ブラウザ内で100%動作します。",
-  "id": "/loona-dev-tools/ja/cron-expression-generator/",
+  "id": "/ja/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

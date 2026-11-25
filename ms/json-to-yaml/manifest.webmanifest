@@ -2,7 +2,7 @@
   "name": "Loona Penukar JSON ke YAML",
   "short_name": "Penukar JSON ke YAML",
   "description": "Penukaran JSON ke YAML dalam talian: indentasi bersih, array dan objek bersarang, string dikutip hanya ketika YAML memerlukannya.",
-  "id": "/loona-dev-tools/ms/json-to-yaml/",
+  "id": "/ms/json-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

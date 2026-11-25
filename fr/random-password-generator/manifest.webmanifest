@@ -2,7 +2,7 @@
   "name": "Générateur de mots de passe aléatoires Loona",
   "short_name": "Générateur de mots de passe aléatoires",
   "description": "Générez des mots de passe aléatoires forts dans votre navigateur avec l’API WebCrypto : longueur et ensembles de caractères ajustables, entropie affichée.",
-  "id": "/loona-dev-tools/fr/random-password-generator/",
+  "id": "/fr/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

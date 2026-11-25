@@ -2,7 +2,7 @@
   "name": "מחלץ קבצי Loona 7Z מקוון בחינם",
   "short_name": "מחלץ קבצי 7Z מקוון בחינם",
   "description": "פתחו ארכיוני 7z ישר בדפדפן שלכם - ראו כל קובץ בפנים, הורידו קבצים בודדים או הכול כ-ZIP. שום דבר לא מועלה; החילוץ קורה על המכשיר שלכם עם מנוע WebAssembly.",
-  "id": "/loona-dev-tools/he/7z-file-extractor/",
+  "id": "/he/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

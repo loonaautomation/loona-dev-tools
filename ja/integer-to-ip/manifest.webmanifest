@@ -2,7 +2,7 @@
   "name": "Loona 整数→IPアドレス変換ツール",
   "short_name": "整数からIPアドレスへ",
   "description": "32ビット整数を、ドット付きIPv4アドレスに戻します（3232235521 → 192.168.0.1）。",
-  "id": "/loona-dev-tools/ja/integer-to-ip/",
+  "id": "/ja/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "מפענח אלפבית פונטי NATO של Loona",
   "short_name": "מפענח אלפבית פונטי NATO",
   "description": "פענחו מילים פונטיות של NATO ‏(Alfa, Bravo, Charlie...) בחזרה לאותיות וספרות פשוטות.",
-  "id": "/loona-dev-tools/he/nato-phonetic-decoder/",
+  "id": "/he/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

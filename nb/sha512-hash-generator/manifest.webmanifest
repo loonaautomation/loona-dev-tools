@@ -2,7 +2,7 @@
   "name": "Loona SHA-512-hashgenerator",
   "short_name": "SHA-512-hashgenerator",
   "description": "Beregn SHA-512-hasher av tekst eller filer på nett: 512-bit, 128 hekstegn. Kjører lokalt i nettleseren din med WebCrypto/ren JS — filer lastes aldri opp.",
-  "id": "/loona-dev-tools/nb/sha512-hash-generator/",
+  "id": "/nb/sha512-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

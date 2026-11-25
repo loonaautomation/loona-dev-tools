@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Msingi wa Nambari Bure Mtandaoni",
   "short_name": "Kibadilishaji cha Msingi wa Nambari Mtandaoni",
   "description": "Badilisha nambari kati ya jozi, oktali, desimali na heksadesimali mtandaoni bure, na usahihi wa BigInt kwa thamani zilizo zaidi ya 2^53 na uthibitishaji wa kila tarakimu. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/number-base-converter/",
+  "id": "/sw/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

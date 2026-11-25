@@ -2,7 +2,7 @@
   "name": "Prevodník Loona JSON na INI",
   "short_name": "Prevodník JSON na INI",
   "description": "Preveďte objekty JSON na formát INI: najprv najvyššie skaláry, vnorené objekty ako [sekcie]. Bezplatný online prevodník.",
-  "id": "/loona-dev-tools/sk/json-to-ini/",
+  "id": "/sk/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

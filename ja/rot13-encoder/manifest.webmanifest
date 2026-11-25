@@ -2,7 +2,7 @@
   "name": "Loona ROT13エンコーダー＆デコーダー",
   "short_name": "ROT13エンコーダー＆デコーダー",
   "description": "任意のテキストをROT13します。文字を13ずらして回転させます。エンコードとデコードは同じ操作です。ネタバレやパズルの定番です。",
-  "id": "/loona-dev-tools/ja/rot13-encoder/",
+  "id": "/ja/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penjana Meta Tag Dalam Talian Percuma",
   "short_name": "Penjana Meta Tag Dalam Talian Percuma",
   "description": "Buat meta tag HTML dalam talian secara percuma - judul, deskripsi, kata kunci, penulis, robots, dan kanonis - dengan pratonton SERP langsung bergaya Google dan jumlah aksara. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/ms/meta-tag-generator/",
+  "id": "/ms/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

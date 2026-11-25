@@ -2,7 +2,7 @@
   "name": "Loona シーザー暗号エンコーダー＆デコーダー",
   "short_name": "シーザー暗号エンコーダー＆",
   "description": "任意のシフト（1–25）とデコードモードを備えたシーザー暗号：ユリウス・カエサルの古典的な換字式暗号、オンラインで。",
-  "id": "/loona-dev-tools/ja/caesar-cipher/",
+  "id": "/ja/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

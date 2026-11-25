@@ -2,7 +2,7 @@
   "name": "Loona YAML سے JSON کنورٹر آن لائن مفت",
   "short_name": "YAML سے JSON کنورٹر آن لائن",
   "description": "YAML کو JSON اور JSON کو YAML میں آن لائن مفت بدلیں۔ روزمرہ subset کی حمایت: نیسٹڈ maps, فہرستیں اور scalars، حدود ایمانداری سے بیان شدہ۔ کوئی سائن اپ نہیں، 100% آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-dev-tools/ur/yaml-json-converter/",
+  "id": "/ur/yaml-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

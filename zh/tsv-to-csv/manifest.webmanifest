@@ -2,7 +2,7 @@
   "name": "Loona TSV 转 CSV 转换器",
   "short_name": "TSV 转 CSV 转换器",
   "description": "把 TSV（制表符分隔值）转换成 CSV：粘贴从 Excel 或 Sheets 复制的数据，得到正确加引号的 CSV。",
-  "id": "/loona-dev-tools/zh/tsv-to-csv/",
+  "id": "/zh/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

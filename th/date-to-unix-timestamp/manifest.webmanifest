@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงวันที่เป็น Unix Timestamp",
   "short_name": "วันที่เป็น Unix Timestamp",
   "description": "แปลงวันที่และเวลาเป็น Unix timestamp ในหน่วยวินาทีและมิลลิวินาที ใน UTC หรือเขตเวลาท้องถิ่นของคุณ",
-  "id": "/loona-dev-tools/th/date-to-unix-timestamp/",
+  "id": "/th/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

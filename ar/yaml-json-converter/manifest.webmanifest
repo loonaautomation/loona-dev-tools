@@ -2,7 +2,7 @@
   "name": "Loona محوّل YAML إلى JSON عبر الإنترنت مجاناً",
   "short_name": "محوّل YAML إلى JSON عبر الإنترنت",
   "description": "حوّل YAML إلى JSON وJSON إلى YAML عبر الإنترنت مجاناً. يدعم المجموعة الفرعية اليومية: خرائط متداخلة، قوائم وقياسات، مع حدود مذكورة بصراحة. دون تسجيل، يعمل 100% في متصفحك.",
-  "id": "/loona-dev-tools/ar/yaml-json-converter/",
+  "id": "/ar/yaml-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

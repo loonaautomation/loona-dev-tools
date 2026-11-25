@@ -2,7 +2,7 @@
   "name": "Loona TOML-ból JSON-ba átalakító",
   "short_name": "TOML-ból JSON-ba átalakító",
   "description": "Alakítson TOML-t JSON-ná online: táblázatok, táblatömbök, karakterláncok, számok, logikai értékek, tömbök és dátum-idők (karakterláncokként).",
-  "id": "/loona-dev-tools/hu/toml-to-json/",
+  "id": "/hu/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

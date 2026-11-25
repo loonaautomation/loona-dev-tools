@@ -2,7 +2,7 @@
   "name": "Loona 카이사르 암호 인코더 & 디코더",
   "short_name": "카이사르 암호 인코더 &",
   "description": "어떤 이동(1–25)으로든, 디코딩 모드와 함께: 율리우스 카이사르의 고전적인 치환 암호를 온라인으로요.",
-  "id": "/loona-dev-tools/ko/caesar-cipher/",
+  "id": "/ko/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

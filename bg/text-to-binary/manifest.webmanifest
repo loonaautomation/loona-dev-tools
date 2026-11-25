@@ -2,7 +2,7 @@
   "name": "Конвертор от текст към двоична на Loona",
   "short_name": "Конвертор от текст към двоична",
   "description": "Конвертирайте текст в двоична: всеки символ като 8-битови двоични групи от неговите UTF-8 байтове. Безплатен онлайн конвертор.",
-  "id": "/loona-dev-tools/bg/text-to-binary/",
+  "id": "/bg/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

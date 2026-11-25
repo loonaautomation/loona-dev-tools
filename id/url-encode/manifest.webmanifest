@@ -2,7 +2,7 @@
   "name": "Loona Encode URL (Encode Persen)",
   "short_name": "Encode URL (Encoding Persen)",
   "description": "Encode persen teks atau URL lengkap online: spasi menjadi %20, karakter yang dipesan di-escape per RFC 3986. Mode komponen atau URL lengkap.",
-  "id": "/loona-dev-tools/id/url-encode/",
+  "id": "/id/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

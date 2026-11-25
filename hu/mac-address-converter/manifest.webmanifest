@@ -2,7 +2,7 @@
   "name": "Loona MAC-cím formátum átalakító",
   "short_name": "MAC-cím formátum átalakító",
   "description": "Alakítson MAC címeket kettőspontos (AA:BB:CC:DD:EE:FF), kötőjeles, Cisco pontos és sima formátumok között; ellenőrzi a 48 bites címet.",
-  "id": "/loona-dev-tools/hu/mac-address-converter/",
+  "id": "/hu/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

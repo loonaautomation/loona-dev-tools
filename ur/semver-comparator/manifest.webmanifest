@@ -2,7 +2,7 @@
   "name": "Loona سیمینٹک ورژن موازنہ کنندہ",
   "short_name": "سیمینٹک ورژن موازنہ کنندہ",
   "description": "سیمینٹک ورژنز کی توثیق اور موازنہ کریں (MAJOR.MINOR.PATCH): کون سا نیا ہے، اور کس قسم کی تبدیلی انہیں الگ کرتی ہے۔",
-  "id": "/loona-dev-tools/ur/semver-comparator/",
+  "id": "/ur/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

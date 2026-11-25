@@ -2,7 +2,7 @@
   "name": "Tester Loona JSONPath",
   "short_name": "Tester JSONPath",
   "description": "Testujte výrazy JSONPath voči dokumentu JSON: podporovaná bodková notácia, indexy, zástupné znaky a rekurzívny zostup ($..key).",
-  "id": "/loona-dev-tools/sk/jsonpath-tester/",
+  "id": "/sk/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

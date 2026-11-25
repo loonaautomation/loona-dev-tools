@@ -2,7 +2,7 @@
   "name": "Loona pretvarač cURL u Fetch",
   "short_name": "Pretvarač cURL u Fetch",
   "description": "Pretvorite cURL naredbu u JavaScript fetch() kod: zaglavlja, metoda, podaci, basic auth i --json obrađeni.",
-  "id": "/loona-dev-tools/hr/curl-to-fetch/",
+  "id": "/hr/curl-to-fetch/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

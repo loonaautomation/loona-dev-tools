@@ -2,7 +2,7 @@
   "name": "Loona UUID generátor online ingyen",
   "short_name": "UUID generátor online ingyen",
   "description": "Generáljon véletlen 4-es verziójú UUID-ket online ingyen - egyenként vagy tömegesen akár 100 darabig, nagybetűs és kötőjel nélküli opciókkal. Kriptográfiailag véletlen, a böngészőjében.",
-  "id": "/loona-dev-tools/hu/uuid-generator/",
+  "id": "/hu/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

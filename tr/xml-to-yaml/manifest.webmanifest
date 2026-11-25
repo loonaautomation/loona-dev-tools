@@ -2,7 +2,7 @@
   "name": "Loona XML - YAML Dönüştürücü",
   "short_name": "XML - YAML Dönüştürücü",
   "description": "XML değerini YAML biçimine dönüştürün: öznitelikler @keys olarak, yinelenen öğeler listeler olarak, değerler tipli. Gerçek ayrıştırıcı, regex değil.",
-  "id": "/loona-dev-tools/tr/xml-to-yaml/",
+  "id": "/tr/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

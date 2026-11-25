@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi 7Z sang TAR của Loona",
   "short_name": "Công cụ chuyển đổi 7Z sang TAR",
   "description": "Chuyển đổi tệp lưu trữ 7Z sang TAR trực tuyến: libarchive (WebAssembly) đọc 7Z, một trình ghi ustar đóng gói lại nó. Riêng tư và cục bộ.",
-  "id": "/loona-dev-tools/vi/7z-to-tar-converter/",
+  "id": "/vi/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

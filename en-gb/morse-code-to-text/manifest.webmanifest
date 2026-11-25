@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/morse-code-to-text/",
+  "id": "/en-gb/morse-code-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

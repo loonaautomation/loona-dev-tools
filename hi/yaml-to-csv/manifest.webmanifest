@@ -2,7 +2,7 @@
   "name": "Loona YAML से CSV कन्वर्टर",
   "short_name": "YAML से CSV कन्वर्टर",
   "description": "Objects की YAML list को CSV table में बदलें: keys का union columns के रूप में, nested values अपने cell में JSON के रूप में serialised।",
-  "id": "/loona-dev-tools/hi/yaml-to-csv/",
+  "id": "/hi/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

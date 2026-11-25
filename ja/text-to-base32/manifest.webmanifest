@@ -2,7 +2,7 @@
   "name": "Loona テキスト→Base32エンコーダー",
   "short_name": "テキスト→Base32エンコーダー",
   "description": "テキストをBase32（RFC 4648）にオンラインでエンコードします。TOTPシークレットやDNSセーフな識別子に使われる、大文字小文字を区別しないエンコーディングです。",
-  "id": "/loona-dev-tools/ja/text-to-base32/",
+  "id": "/ja/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

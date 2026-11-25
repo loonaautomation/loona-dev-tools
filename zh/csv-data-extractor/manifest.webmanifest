@@ -2,7 +2,7 @@
   "name": "Loona CSV 数据提取工具 在线免费",
   "short_name": "CSV 数据提取工具 在线免费",
   "description": "免费在线从混乱的 CSV 文件或任何文本中提取电子邮件地址、电话号码和 URL——清理、去重后的列表，可供下载。无需注册，在您的浏览器中运行。",
-  "id": "/loona-dev-tools/zh/csv-data-extractor/",
+  "id": "/zh/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

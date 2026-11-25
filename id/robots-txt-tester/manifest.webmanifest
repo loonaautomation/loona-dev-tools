@@ -2,7 +2,7 @@
   "name": "Loona Penguji Robots.txt Online Gratis",
   "short_name": "Penguji Robots.txt Online Gratis",
   "description": "Uji robots.txt online gratis - tempel file, URL, dan user-agent, dan dapatkan putusan diizinkan atau diblokir dengan aturan pencocokan yang tepat ditampilkan. Tanpa pendaftaran, berjalan di browser Anda.",
-  "id": "/loona-dev-tools/id/robots-txt-tester/",
+  "id": "/id/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

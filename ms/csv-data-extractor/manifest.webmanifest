@@ -2,7 +2,7 @@
   "name": "Loona Pengekstrak Data CSV Dalam Talian Percuma",
   "short_name": "Pengekstrak Data CSV Dalam Talian Percuma",
   "description": "Ekstrak alamat emel, nombor telefon, dan URL dari fail CSV berselerak atau teks apa pun dalam talian secara percuma - senarai yang dibersihkan dan dideduplikasi yang dapat Anda muat turun. Tanpa pendaftaran, berjalan di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/csv-data-extractor/",
+  "id": "/ms/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CMYK-ból RGB-be átalakító",
   "short_name": "CMYK–RGB átalakító",
   "description": "Alakítson színeket CMYK-ból RGB-vé online, élő színmintával, és az összes többi formátummal (HEX, RGB, HSL, HSV, CMYK) is megjelenítve.",
-  "id": "/loona-dev-tools/hu/cmyk-to-rgb-converter/",
+  "id": "/hu/cmyk-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

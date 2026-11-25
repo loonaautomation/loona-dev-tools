@@ -2,7 +2,7 @@
   "name": "Generator de hash SHA-512 Loona",
   "short_name": "Generator de hash SHA-512",
   "description": "Calculează hash-uri SHA-512 ale textului sau fișierelor online: 512 biți, 128 de caractere hex. Rulează local în browserul tău cu WebCrypto/JS pur — fișierele nu sunt încărcate niciodată.",
-  "id": "/loona-dev-tools/ro/sha512-hash-generator/",
+  "id": "/ro/sha512-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

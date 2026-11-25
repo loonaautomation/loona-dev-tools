@@ -2,7 +2,7 @@
   "name": "Loona Penukar JSON ke XML",
   "short_name": "Penukar JSON ke XML",
   "description": "Penukaran JSON ke XML dalam talian dengan elemen root yang dapat disesuaikan: array menjadi elemen berulang, @key menjadi atribut.",
-  "id": "/loona-dev-tools/ms/json-to-xml/",
+  "id": "/ms/json-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

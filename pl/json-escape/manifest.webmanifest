@@ -2,7 +2,7 @@
   "name": "Loona Escapowanie ciągu JSON",
   "short_name": "Escapowanie ciągu JSON",
   "description": "Escapuj ciąg do osadzenia wewnątrz JSON: cudzysłowy, ukośniki odwrotne, nowe linie i znaki kontrolne stają się sekwencjami \\.",
-  "id": "/loona-dev-tools/pl/json-escape/",
+  "id": "/pl/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

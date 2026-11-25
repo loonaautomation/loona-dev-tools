@@ -2,7 +2,7 @@
   "name": "מפענח Loona Base58 לטקסט",
   "short_name": "מפענח Base58 לטקסט",
   "description": "פענחו מחרוזות Base58 בחזרה לטקסט (UTF-8). מאמת מול אלפבית ה-Bitcoin ומדווח על תווים לא תקפים.",
-  "id": "/loona-dev-tools/he/base58-to-text/",
+  "id": "/he/base58-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona میٹا ٹیگ جنریٹر آن لائن مفت",
   "short_name": "میٹا ٹیگ جنریٹر آن لائن مفت",
   "description": "HTML میٹا ٹیگز آن لائن مفت بنائیں - عنوان، تفصیل، کلیدی الفاظ، مصنف، robots اور canonical - ایک لائیو Google-اسٹائل SERP پیش منظر اور حرف گنتیوں کے ساتھ۔ کوئی سائن اپ نہیں۔",
-  "id": "/loona-dev-tools/ur/meta-tag-generator/",
+  "id": "/ur/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

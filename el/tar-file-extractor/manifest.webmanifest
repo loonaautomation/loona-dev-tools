@@ -2,7 +2,7 @@
   "name": "Loona Εξαγωγέας Αρχείων TAR Διαδικτυακά Δωρεάν",
   "short_name": "Εξαγωγέας Αρχείων TAR Διαδικτυακά Δωρεάν",
   "description": "Ανοίξτε αρχειοθήκες TAR κατευθείαν στο πρόγραμμα περιήγησής σας - απλό .tar καθώς και .tar.bz2 και .tar.xz - δείτε κάθε αρχείο μέσα και κατεβάστε μεμονωμένα αρχεία ή τα πάντα ως ZIP. Τίποτα δεν ανεβαίνει.",
-  "id": "/loona-dev-tools/el/tar-file-extractor/",
+  "id": "/el/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

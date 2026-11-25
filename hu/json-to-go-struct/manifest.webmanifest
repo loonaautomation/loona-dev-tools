@@ -2,7 +2,7 @@
   "name": "Loona JSON-ból Go struct átalakító",
   "short_name": "JSON-ból Go struct átalakító",
   "description": "Alakítson JSON-t Go struct definíciókká json címkékkel: int64/float64 megkülönböztetve, omitempty azokhoz a kulcsokhoz, amelyek néhány tömbelemből hiányoznak.",
-  "id": "/loona-dev-tools/hu/json-to-go-struct/",
+  "id": "/hu/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

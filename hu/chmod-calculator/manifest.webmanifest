@@ -2,7 +2,7 @@
   "name": "Loona Chmod kalkulátor online ingyen",
   "short_name": "Chmod kalkulátor online ingyen",
   "description": "Számítson chmod engedélyeket online ingyen: jelölőnégyzetekből oktális (755) és szimbolikus (rwxr-xr-x), és oktálisból vissza engedélyekké. Regisztráció nélkül, 100%-ban a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/chmod-calculator/",
+  "id": "/hu/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ρωμαϊκοί Αριθμοί σε Αριθμούς",
   "short_name": "Ρωμαϊκοί Αριθμοί σε Αριθμούς",
   "description": "Μετατρέψτε ρωμαϊκούς αριθμούς σε αριθμούς (1–3999), με αυστηρή επικύρωση της αφαιρετικής σημειογραφίας (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/el/roman-numerals-converter/",
+  "id": "/el/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

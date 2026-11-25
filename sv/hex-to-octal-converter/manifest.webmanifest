@@ -2,7 +2,7 @@
   "name": "Loona Hexadecimal till oktal-konverterare",
   "short_name": "Hexadecimal till oktal-konverterare",
   "description": "Konvertera hexadecimala tal till oktalt online — godtycklig precision (BigInt), negativa tal stöds.",
-  "id": "/loona-dev-tools/sv/hex-to-octal-converter/",
+  "id": "/sv/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

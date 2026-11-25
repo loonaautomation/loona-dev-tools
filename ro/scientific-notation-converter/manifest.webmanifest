@@ -2,7 +2,7 @@
   "name": "Convertizor de notație științifică Loona",
   "short_name": "Convertizor de notație științifică",
   "description": "Convertește numerele în și din notație științifică: 3200000 ⇄ 3.2 × 10^6, notația E acceptată în ambele sensuri.",
-  "id": "/loona-dev-tools/ro/scientific-notation-converter/",
+  "id": "/ro/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

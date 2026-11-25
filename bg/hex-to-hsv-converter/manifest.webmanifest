@@ -2,7 +2,7 @@
   "name": "Конвертор от HEX към HSV на Loona",
   "short_name": "Конвертор от HEX към HSV",
   "description": "Конвертирайте онлайн цветове от HEX към HSV, с мострa на живо и всички останали формати (HEX, RGB, HSL, HSV, CMYK) също показани.",
-  "id": "/loona-dev-tools/bg/hex-to-hsv-converter/",
+  "id": "/bg/hex-to-hsv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

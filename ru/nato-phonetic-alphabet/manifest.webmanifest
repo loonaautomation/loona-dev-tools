@@ -2,7 +2,7 @@
   "name": "Loona Переводчик фонетического алфавита НАТО (текст",
   "short_name": "Фонетический алфавит НАТО",
   "description": "Произносите текст по фонетическому алфавиту НАТО: A = Alfa, B = Bravo... Включает цифры. Используется авиацией, военными и в звонках поддержки.",
-  "id": "/loona-dev-tools/ru/nato-phonetic-alphabet/",
+  "id": "/ru/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

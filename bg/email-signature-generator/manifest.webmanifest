@@ -2,7 +2,7 @@
   "name": "Генератор на HTML имейл подпис на Loona онлайн безплатно",
   "short_name": "HTML имейл подпис",
   "description": "Създайте безплатно онлайн професионален HTML имейл подпис - име, длъжност, фирма, телефон, имейл и уебсайт в HTML таблица, безопасна за имейли, която работи в Gmail и Outlook. Без регистрация.",
-  "id": "/loona-dev-tools/bg/email-signature-generator/",
+  "id": "/bg/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

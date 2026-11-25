@@ -2,7 +2,7 @@
   "name": "Loona JSON سے .env کنورٹر",
   "short_name": "JSON سے .env کنورٹر",
   "description": "JSON config کو .env فارمیٹ میں بدلیں: نیسٹڈ آبجیکٹس UNDERSCORE راستوں سے سادہ، قدریں کوٹ شدہ جب ان میں اسپیسز یا # ہوں۔",
-  "id": "/loona-dev-tools/ur/json-to-env/",
+  "id": "/ur/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

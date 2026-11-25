@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona de tableau Markdown vers CSV",
   "short_name": "Tableau Markdown vers CSV",
   "description": "Convertissez un tableau Markdown en CSV : en-tête et lignes extraits, ligne d’alignement supprimée, cellules rognées et citées correctement.",
-  "id": "/loona-dev-tools/fr/markdown-table-to-csv/",
+  "id": "/fr/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

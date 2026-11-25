@@ -2,7 +2,7 @@
   "name": "Loona pretvarač JSON u TOML",
   "short_name": "Pretvarač JSON u TOML",
   "description": "Pretvorite JSON u TOML na mreži: prvo skalari, ugniježđeni objekti kao [tablice], polja objekata kao [[tablice]].",
-  "id": "/loona-dev-tools/hr/json-to-toml/",
+  "id": "/hr/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

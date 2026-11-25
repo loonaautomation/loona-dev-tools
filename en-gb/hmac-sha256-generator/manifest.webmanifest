@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/hmac-sha256-generator/",
+  "id": "/en-gb/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

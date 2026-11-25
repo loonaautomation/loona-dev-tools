@@ -2,7 +2,7 @@
   "name": "Loona GZ-filextraherare online gratis",
   "short_name": "GZ-filextraherare online gratis",
   "description": "Dekomprimera en enskild .gz-fil direkt i din webbläsare och ladda ner originalfilen - loggar, dataexporter, databasdumpar. Ingenting laddas upp; din webbläsare gör arbetet inbyggt.",
-  "id": "/loona-dev-tools/sv/gz-file-extractor/",
+  "id": "/sv/gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

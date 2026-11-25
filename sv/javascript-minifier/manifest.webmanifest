@@ -2,7 +2,7 @@
   "name": "Loona JavaScript-minimerare online gratis",
   "short_name": "JavaScript-minimerare online",
   "description": "Minimera JavaScript online gratis med en konservativ tokeniserare som skyddar strängar, mallitteraler och reguljära uttryck. Ingen registrering, körs 100% i din webbläsare.",
-  "id": "/loona-dev-tools/sv/javascript-minifier/",
+  "id": "/sv/javascript-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

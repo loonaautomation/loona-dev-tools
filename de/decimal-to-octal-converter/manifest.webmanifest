@@ -2,7 +2,7 @@
   "name": "Loona Dezimal-zu-Oktal-Konverter",
   "short_name": "Dezimal-zu-Oktal-Konverter",
   "description": "Konvertieren Sie Dezimalzahlen online zu Oktal — beliebige Genauigkeit (BigInt), negative Zahlen unterstützt.",
-  "id": "/loona-dev-tools/de/decimal-to-octal-converter/",
+  "id": "/de/decimal-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

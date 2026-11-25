@@ -2,7 +2,7 @@
   "name": "Loona محوّل تهريب Unicode ‏(\\uXXXX)",
   "short_name": "محوّل تهريب Unicode",
   "description": "هرّب النص إلى تسلسلات تهريب Unicode ‏(\\uXXXX) لـ JSON وJavaScript وJava وملفات الخصائص. يتعامل مع الإيموجي عبر الأزواج البديلة.",
-  "id": "/loona-dev-tools/ar/unicode-escape/",
+  "id": "/ar/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

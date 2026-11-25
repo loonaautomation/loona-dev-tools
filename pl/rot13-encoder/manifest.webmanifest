@@ -2,7 +2,7 @@
   "name": "Loona Koder i dekoder ROT13",
   "short_name": "Koder i dekoder ROT13",
   "description": "ROT13 na dowolny tekst: obracaj litery o 13 miejsc. Kodowanie i dekodowanie to ta sama operacja. Klasyczne dla spoilerów i łamigłówek.",
-  "id": "/loona-dev-tools/pl/rot13-encoder/",
+  "id": "/pl/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

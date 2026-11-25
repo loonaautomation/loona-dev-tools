@@ -2,7 +2,7 @@
   "name": "Loona Генератор теней блока CSS онлайн бесплатно",
   "short_name": "Генератор теней блока CSS",
   "description": "Генерируйте CSS box-shadow онлайн бесплатно — несколько слоёв теней, внутренние тени, контроль цвета и непрозрачности, с живым предпросмотром и готовым CSS. Без регистрации, работает в вашем браузере.",
-  "id": "/loona-dev-tools/ru/css-box-shadow-generator/",
+  "id": "/ru/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

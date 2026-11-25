@@ -2,7 +2,7 @@
   "name": "Constructor de linkuri UTM Loona online gratuit",
   "short_name": "Constructor de linkuri UTM online gratuit",
   "description": "Construiește URL-uri de campanie etichetate UTM online gratuit - sursă, mediu, campanie, termen și conținut adăugate cu codificare corectă, parametri de interogare existenți păstrați, plus un istoric salvat.",
-  "id": "/loona-dev-tools/ro/utm-link-builder/",
+  "id": "/ro/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

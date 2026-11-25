@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha TAR kwenda ZIP Bure Mtandaoni",
   "short_name": "Kibadilishaji cha TAR kwenda ZIP Mtandaoni",
   "description": "Badilisha hifadhi ya TAR (.tar) kuwa faili ya ZIP moja kwa moja kwenye kivinjari chako. Faili za TAR hutoka kwenye mifumo ya Linux na Unix; ZIP iliyobadilishwa hufunguka kiasili kwenye Windows, macOS na simu. Hakuna kinachopakiwa.",
-  "id": "/loona-dev-tools/sw/tar-to-zip-converter/",
+  "id": "/sw/tar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Objaśniacz wyrażeń cron",
   "short_name": "Objaśniacz wyrażeń cron",
   "description": "Objaśniaj wyrażenia cron prostym językiem: wklej 5-polowy harmonogram cron i odczytaj, kiedy się uruchamia, pole po polu.",
-  "id": "/loona-dev-tools/pl/cron-expression-explainer/",
+  "id": "/pl/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

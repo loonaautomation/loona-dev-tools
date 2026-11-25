@@ -2,7 +2,7 @@
   "name": "Loona Kisimbuaji cha Punycode (xn-- kwenda Kikoa cha Unicode)",
   "short_name": "Kisimbuaji cha Punycode (xn-- kwenda",
   "description": "Simbua vikoa vya punycode vya xn-- kurudi kuwa muundo wake wa Unicode — angalia kile kikoa kilichogeuzwa kimataifa kinasema kweli.",
-  "id": "/loona-dev-tools/sw/punycode-decode/",
+  "id": "/sw/punycode-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

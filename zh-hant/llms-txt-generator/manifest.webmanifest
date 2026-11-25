@@ -2,7 +2,7 @@
   "name": "Loona llms.txt 生成器 線上免費",
   "short_name": "llms.txt 生成器 線上免費",
   "description": "免費線上生成有效的 llms.txt 檔案——網站名稱、摘要引用塊、詳情和精選頁面連結，採用為 AI 爬蟲提出的 llms.txt 格式。無需註冊。",
-  "id": "/loona-dev-tools/zh-hant/llms-txt-generator/",
+  "id": "/zh-hant/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

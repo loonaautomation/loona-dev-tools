@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Oktali kwenda Desimali",
   "short_name": "Kibadilishaji cha Oktali kwenda Desimali",
   "description": "Badilisha nambari za oktali kuwa desimali mtandaoni — usahihi wa kiholela (BigInt), nambari hasi zinaungwa mkono.",
-  "id": "/loona-dev-tools/sw/octal-to-decimal-converter/",
+  "id": "/sw/octal-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

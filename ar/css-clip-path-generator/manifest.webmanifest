@@ -2,7 +2,7 @@
   "name": "Loona منشئ مسار قصّ CSS عبر الإنترنت مجاناً",
   "short_name": "منشئ مسار قصّ CSS",
   "description": "أنشئ مسار قصّ CSS عبر الإنترنت مجاناً - إعدادات مضلّعة مسبقة مثل النجمة والسداسي والسهم مع نقاط قابلة للتعديل، زائد أشكال الدائرة والقطع الناقص والإطار الداخلي، مع معاينة حية. دون تسجيل.",
-  "id": "/loona-dev-tools/ar/css-clip-path-generator/",
+  "id": "/ar/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

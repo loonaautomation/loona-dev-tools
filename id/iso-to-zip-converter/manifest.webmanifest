@@ -2,7 +2,7 @@
   "name": "Loona Konverter ISO ke ZIP",
   "short_name": "Konverter ISO ke ZIP",
   "description": "Konversi image cakram ISO ke ZIP berisi file-filenya online: libarchive membaca isi ISO9660/Rock Ridge secara lokal.",
-  "id": "/loona-dev-tools/id/iso-to-zip-converter/",
+  "id": "/id/iso-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

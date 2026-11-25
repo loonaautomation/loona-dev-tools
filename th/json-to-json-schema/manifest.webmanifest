@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้าง JSON เป็น JSON Schema",
   "short_name": "ตัวสร้าง JSON เป็น JSON Schema",
   "description": "สร้าง JSON Schema (ฉบับร่าง 2020-12) จากตัวอย่าง JSON: ประเภทถูกอนุมาน คุณสมบัติของออบเจ็กต์และคีย์ที่จำเป็นรวมไว้ด้วย",
-  "id": "/loona-dev-tools/th/json-to-json-schema/",
+  "id": "/th/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV-Daten-Extraktor online kostenlos",
   "short_name": "CSV-Daten-Extraktor online kostenlos",
   "description": "Extrahieren Sie E-Mail-Adressen, Telefonnummern und URLs kostenlos online aus chaotischen CSV-Dateien oder beliebigem Text – bereinigte, deduplizierte Listen, die Sie herunterladen können. Keine Registrierung, läuft in Ihrem Browser.",
-  "id": "/loona-dev-tools/de/csv-data-extractor/",
+  "id": "/de/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

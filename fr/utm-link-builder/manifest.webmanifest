@@ -2,7 +2,7 @@
   "name": "Générateur de liens UTM Loona en ligne gratuit",
   "short_name": "Générateur de liens UTM en ligne gratuit",
   "description": "Construisez des URL de campagne balisées UTM en ligne et gratuitement - source, support, campagne, terme et contenu ajoutés avec un encodage correct, paramètres de requête existants préservés, plus un historique enregistré.",
-  "id": "/loona-dev-tools/fr/utm-link-builder/",
+  "id": "/fr/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

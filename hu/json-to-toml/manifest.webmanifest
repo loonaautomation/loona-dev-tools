@@ -2,7 +2,7 @@
   "name": "Loona JSON-ból TOML-ba átalakító",
   "short_name": "JSON-ból TOML átalakító",
   "description": "Alakítson JSON-t TOML-lá online: előbb a skalárok, a beágyazott objektumok [táblákként], objektumok tömbjei [[táblákként]].",
-  "id": "/loona-dev-tools/hu/json-to-toml/",
+  "id": "/hu/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Kalkulačka kontrolního součtu Loona Adler-32",
   "short_name": "Kalkulačka kontrolního součtu Adler-32",
   "description": "Počítejte hashe Adler-32 textu nebo souborů online: 32bitové, 8 hexadecimálních znaků. Běží lokálně ve vašem prohlížeči s WebCrypto/čistým JS — soubory se nikdy nenahrávají.",
-  "id": "/loona-dev-tools/cs/adler32-calculator/",
+  "id": "/cs/adler32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

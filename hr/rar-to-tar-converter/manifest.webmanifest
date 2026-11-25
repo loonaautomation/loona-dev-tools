@@ -2,7 +2,7 @@
   "name": "Loona pretvarač RAR u TAR",
   "short_name": "Pretvarač RAR u TAR",
   "description": "Pretvorite RAR arhive (RAR4 i RAR5) u TAR na mreži libarchiveom u vašem pregledniku. Datoteke ostaju na vašem uređaju.",
-  "id": "/loona-dev-tools/hr/rar-to-tar-converter/",
+  "id": "/hr/rar-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Markdown سے HTML کنورٹر آن لائن مفت",
   "short_name": "Markdown سے HTML کنورٹر",
   "description": "Markdown کو HTML میں آن لائن مفت بدلیں - عنوانات، bold, italic, لنکس، تصاویر، فہرستیں، blockquotes, کوڈ بلاکس اور مزید، ایک لائیو رینڈر شدہ پیش منظر کے ساتھ۔ کوئی سائن اپ نہیں۔",
-  "id": "/loona-dev-tools/ur/markdown-to-html-converter/",
+  "id": "/ur/markdown-to-html-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

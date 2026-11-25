@@ -2,7 +2,7 @@
   "name": "Loona JWT 編碼器（HS256 簽名器）",
   "short_name": "JWT 編碼器（HS256 簽名器）",
   "description": "在您的瀏覽器中用 HS256 建立並簽名 JSON Web Tokens：payload JSON 加一個金鑰，或 alg=none。WebCrypto 簽名。",
-  "id": "/loona-dev-tools/zh-hant/jwt-encoder/",
+  "id": "/zh-hant/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

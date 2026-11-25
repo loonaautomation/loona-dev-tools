@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum-generator",
   "short_name": "Lorem Ipsum-generator",
   "description": "Generér Lorem Ipsum-pladsholdertekst: vælg afsnit, sætninger eller ord, med den klassiske indledningslinje som valgmulighed.",
-  "id": "/loona-dev-tools/da/lorem-ipsum-generator/",
+  "id": "/da/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

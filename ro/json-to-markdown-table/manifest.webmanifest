@@ -2,7 +2,7 @@
   "name": "Convertizor JSON în tabel Markdown Loona",
   "short_name": "JSON în tabel Markdown",
   "description": "Convertește un tablou JSON de obiecte într-un tabel Markdown: coloane din chei, pipe-uri escapate, gata de lipit în README-uri.",
-  "id": "/loona-dev-tools/ro/json-to-markdown-table/",
+  "id": "/ro/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

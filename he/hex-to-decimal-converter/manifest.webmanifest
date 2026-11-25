@@ -2,7 +2,7 @@
   "name": "ממיר Loona הקסדצימלי לעשרוני",
   "short_name": "הקסדצימלי לעשרוני",
   "description": "המירו מספרים הקסדצימליים לעשרוני באופן מקוון — דיוק שרירותי (BigInt), מספרים שליליים נתמכים.",
-  "id": "/loona-dev-tools/he/hex-to-decimal-converter/",
+  "id": "/he/hex-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

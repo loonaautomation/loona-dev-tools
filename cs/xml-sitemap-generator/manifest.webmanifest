@@ -2,7 +2,7 @@
   "name": "Generátor sitemap Loona XML online zdarma",
   "short_name": "Generátor sitemapy XML online",
   "description": "Generujte platnou sitemap XML online zdarma ze seznamu URL, s výchozím lastmod, changefreq a prioritou, správným escapováním URL a XML. Bez registrace, běží ve vašem prohlížeči.",
-  "id": "/loona-dev-tools/cs/xml-sitemap-generator/",
+  "id": "/cs/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

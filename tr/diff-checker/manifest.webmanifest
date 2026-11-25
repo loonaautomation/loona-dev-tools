@@ -2,7 +2,7 @@
   "name": "Loona Fark Denetleyicisi Çevrimiçi Ücretsiz",
   "short_name": "Fark Denetleyicisi Çevrimiçi Ücretsiz",
   "description": "İki metni çevrimiçi ücretsiz, satır satır bir farkla karşılaştırın: eklenen satırlar yeşil, kaldırılan satırlar kırmızı, artı bir değişim özeti. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/diff-checker/",
+  "id": "/tr/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

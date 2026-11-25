@@ -2,7 +2,7 @@
   "name": "Loona CSV Fark ve Karşılaştırma Çevrimiçi Ücretsiz",
   "short_name": "CSV Fark ve Karşılaştırma Çevrimiçi Ücretsiz",
   "description": "İki CSV dosyasını çevrimiçi ücretsiz karşılaştırın - satırlar bir anahtar sütunla eşleştirilir ve eklenmiş, kaldırılmış, değişmiş (tam hücrelerle) veya değişmemiş olarak sınıflandırılır. Kayıt gerekmez, tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/csv-diff/",
+  "id": "/tr/csv-diff/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

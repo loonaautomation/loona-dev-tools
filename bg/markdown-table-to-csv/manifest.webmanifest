@@ -2,7 +2,7 @@
   "name": "Конвертор от Markdown таблица към CSV на Loona",
   "short_name": "Markdown таблица към CSV",
   "description": "Конвертирайте Markdown таблица в CSV: заглавието и редовете са извлечени, редът за подравняване е премахнат, клетките са изрязани и поставени в кавички правилно.",
-  "id": "/loona-dev-tools/bg/markdown-table-to-csv/",
+  "id": "/bg/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

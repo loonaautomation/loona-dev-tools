@@ -2,7 +2,7 @@
   "name": "Loona JSON→クエリ文字列変換ツール",
   "short_name": "JSON→クエリ文字列変換ツール",
   "description": "JSONオブジェクトからURLクエリ文字列を構築します。ネストしたオブジェクトはブラケット表記を使い、配列はキーを繰り返し、すべてパーセントエンコードされます。",
-  "id": "/loona-dev-tools/ja/json-to-query-string/",
+  "id": "/ja/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

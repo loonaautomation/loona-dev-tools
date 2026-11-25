@@ -2,7 +2,7 @@
   "name": "Extractor de fișiere TAR.GZ Loona online gratuit",
   "short_name": "Extractor de fișiere TAR.GZ online",
   "description": "Deschide arhive tar.gz chiar în browserul tău - atât .tar.gz, cât și numele scurt .tgz - vezi fiecare fișier din interior și descarcă fișiere individuale sau totul ca ZIP. Nimic nu este încărcat.",
-  "id": "/loona-dev-tools/ro/tar-gz-file-extractor/",
+  "id": "/ro/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

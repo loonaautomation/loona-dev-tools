@@ -2,7 +2,7 @@
   "name": "Loona Konwerter tekstu na Hex",
   "short_name": "Konwerter tekstu na hex",
   "description": "Konwertuj tekst na szesnastkowy (bajty UTF-8) online, ze spacjami między bajtami lub bez. Bezpłatny konwerter deweloperski.",
-  "id": "/loona-dev-tools/pl/text-to-hex/",
+  "id": "/pl/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

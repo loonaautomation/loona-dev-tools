@@ -2,7 +2,7 @@
   "name": "Loona NAVO-spelalfabet-vertaler (tekst",
   "short_name": "NAVO-spelalfabet",
   "description": "Spel tekst in het NAVO-spelalfabet: A = Alfa, B = Bravo... Inclusief cijfers. Gebruikt door luchtvaart, leger en supportgesprekken.",
-  "id": "/loona-dev-tools/nl/nato-phonetic-alphabet/",
+  "id": "/nl/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

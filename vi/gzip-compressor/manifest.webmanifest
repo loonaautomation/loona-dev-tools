@@ -2,7 +2,7 @@
   "name": "Công cụ nén GZIP của Loona trực tuyến miễn phí",
   "short_name": "Công cụ nén GZIP trực tuyến miễn phí",
   "description": "Nén bất kỳ tệp đơn lẻ nào thành .gz bằng công cụ gzip tích hợp của trình duyệt của bạn. Kích thước trước/sau tức thì, không có gì được tải lên - tệp được nén trên thiết bị của bạn. Hoạt động cho nhật ký, CSV, tệp TAR và hơn nữa.",
-  "id": "/loona-dev-tools/vi/gzip-compressor/",
+  "id": "/vi/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

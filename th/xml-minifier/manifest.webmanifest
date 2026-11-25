@@ -2,7 +2,7 @@
   "name": "Loona ตัวย่อขนาด XML",
   "short_name": "ตัวย่อขนาด XML",
   "description": "ย่อขนาด XML ออนไลน์: ตัดคอมเมนต์และช่องว่างระหว่างแท็กให้เป็นบรรทัดกะทัดรัดบรรทัดเดียว",
-  "id": "/loona-dev-tools/th/xml-minifier/",
+  "id": "/th/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας JSON σε INI",
   "short_name": "Μετατροπέας JSON σε INI",
   "description": "Μετατρέψτε αντικείμενα JSON σε μορφή INI: πρώτα οι βαθμωτές τιμές ανώτατου επιπέδου, τα ένθετα αντικείμενα ως [ενότητες]. Δωρεάν διαδικτυακός μετατροπέας.",
-  "id": "/loona-dev-tools/el/json-to-ini/",
+  "id": "/el/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

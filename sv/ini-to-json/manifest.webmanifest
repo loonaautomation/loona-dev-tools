@@ -2,7 +2,7 @@
   "name": "Loona INI till JSON-konverterare",
   "short_name": "INI till JSON-konverterare",
   "description": "Konvertera INI-konfigurationsfiler till JSON: sektioner blir objekt, värden typas (tal, booleaner) där det är entydigt.",
-  "id": "/loona-dev-tools/sv/ini-to-json/",
+  "id": "/sv/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

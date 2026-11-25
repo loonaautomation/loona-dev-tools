@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง RAR เป็น TAR",
   "short_name": "ตัวแปลง RAR เป็น TAR",
   "description": "แปลงไฟล์บีบอัด RAR (RAR4 และ RAR5) เป็น TAR ออนไลน์ด้วย libarchive ในเบราว์เซอร์ของคุณ ไฟล์อยู่บนอุปกรณ์ของคุณ",
-  "id": "/loona-dev-tools/th/rar-to-tar-converter/",
+  "id": "/th/rar-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

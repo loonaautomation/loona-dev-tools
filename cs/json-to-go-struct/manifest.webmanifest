@@ -2,7 +2,7 @@
   "name": "Převodník Loona JSON na struktury Go",
   "short_name": "Převodník JSON na struktury Go",
   "description": "Převádějte JSON na definice struktur Go se značkami json: rozlišené int64/float64, omitempty pro klíče chybějící v některých položkách pole.",
-  "id": "/loona-dev-tools/cs/json-to-go-struct/",
+  "id": "/cs/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

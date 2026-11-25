@@ -2,7 +2,7 @@
   "name": "Loona مقارِن الإصدارات الدلالية",
   "short_name": "مقارِن الإصدار الدلالي",
   "description": "تحقّق وقارن الإصدارات الدلالية (MAJOR.MINOR.PATCH): أيّهما أحدث، وأي نوع من التغيير يفصلهما.",
-  "id": "/loona-dev-tools/ar/semver-comparator/",
+  "id": "/ar/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

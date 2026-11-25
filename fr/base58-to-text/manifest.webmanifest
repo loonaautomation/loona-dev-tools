@@ -2,7 +2,7 @@
   "name": "Décodeur Loona Base58 vers texte",
   "short_name": "Décodeur Base58 vers texte",
   "description": "Décodez les chaînes Base58 en texte (UTF-8). Valide par rapport à l’alphabet Bitcoin et signale les caractères invalides.",
-  "id": "/loona-dev-tools/fr/base58-to-text/",
+  "id": "/fr/base58-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

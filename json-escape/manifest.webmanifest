@@ -2,7 +2,7 @@
   "name": "Loona JSON String Escape",
   "short_name": "JSON String Escape",
   "description": "Escape a string for embedding inside JSON: quotes, backslashes, newlines and control characters become \\ sequences.",
-  "id": "/loona-dev-tools/json-escape/",
+  "id": "/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

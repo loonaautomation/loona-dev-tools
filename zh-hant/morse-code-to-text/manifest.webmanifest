@@ -2,7 +2,7 @@
   "name": "Loona 摩爾斯電碼轉文字翻譯器",
   "short_name": "摩爾斯電碼轉文字翻譯器",
   "description": "把摩爾斯電碼解碼迴文字：貼上點和劃（字母以空格分隔，單詞之間用 /），讀取訊息。",
-  "id": "/loona-dev-tools/zh-hant/morse-code-to-text/",
+  "id": "/zh-hant/morse-code-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

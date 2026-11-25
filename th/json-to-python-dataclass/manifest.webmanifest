@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง JSON เป็น Python Dataclass",
   "short_name": "JSON เป็น Python Dataclass",
   "description": "แปลง JSON เป็น dataclass ของ Python พร้อมคำใบ้ประเภท: ออบเจ็กต์ที่ซ้อนกันกลายเป็น dataclass ที่ซ้อนกัน ประเภท List สำหรับอาร์เรย์",
-  "id": "/loona-dev-tools/th/json-to-python-dataclass/",
+  "id": "/th/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

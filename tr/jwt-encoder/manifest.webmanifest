@@ -2,7 +2,7 @@
   "name": "Loona JWT Kodlayıcı (HS256 İmzalayıcı)",
   "short_name": "JWT Kodlayıcı (HS256 İmzalayıcı)",
   "description": "HS256 ile tarayıcınızda JSON Web Token değerleri oluşturun ve imzalayın: yük JSON değeri artı bir sır, veya alg=none. WebCrypto imzalama.",
-  "id": "/loona-dev-tools/tr/jwt-encoder/",
+  "id": "/tr/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

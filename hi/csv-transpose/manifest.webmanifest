@@ -2,7 +2,7 @@
   "name": "Loona CSV Transpose ऑनलाइन मुफ़्त",
   "short_name": "CSV Transpose ऑनलाइन मुफ़्त",
   "description": "CSV ऑनलाइन मुफ़्त transpose करें — rows और columns को proper RFC 4180 parser से swap करें जो quoted fields को ठीक संभालता है। कोई साइन-अप नहीं, 100% आपके ब्राउज़र में चलता है।",
-  "id": "/loona-dev-tools/hi/csv-transpose/",
+  "id": "/hi/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

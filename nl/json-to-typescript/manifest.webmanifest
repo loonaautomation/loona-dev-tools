@@ -2,7 +2,7 @@
   "name": "Loona JSON naar TypeScript-interface-converter",
   "short_name": "JSON naar TypeScript-interface",
   "description": "Converteer JSON online naar TypeScript-interfaces: geneste objecten worden benoemde interfaces, arrays van objecten voegen hun sleutels samen met optionele velden gemarkeerd.",
-  "id": "/loona-dev-tools/nl/json-to-typescript/",
+  "id": "/nl/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

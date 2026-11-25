@@ -2,7 +2,7 @@
   "name": "Μεταφραστής Φωνητικού Αλφαβήτου NATO Loona (Κείμενο",
   "short_name": "Φωνητικό Αλφάβητο NATO",
   "description": "Προφέρετε το κείμενο στο φωνητικό αλφάβητο NATO: A = Alfa, B = Bravo... Περιλαμβάνει ψηφία. Χρησιμοποιείται από την αεροπορία, τον στρατό και κλήσεις υποστήριξης.",
-  "id": "/loona-dev-tools/el/nato-phonetic-alphabet/",
+  "id": "/el/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

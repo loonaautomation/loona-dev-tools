@@ -2,7 +2,7 @@
   "name": "Loona Robots.txt-Generator online kostenlos",
   "short_name": "Robots.txt-Generator online",
   "description": "Generieren Sie eine gültige robots.txt kostenlos online – Presets, Erlaubnis- und Verbotsregeln pro Agent, Sitemap-Zeile und eingebaute Plausibilitätsprüfungen der Syntax. Keine Registrierung, läuft in Ihrem Browser.",
-  "id": "/loona-dev-tools/de/robots-txt-generator/",
+  "id": "/de/robots-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

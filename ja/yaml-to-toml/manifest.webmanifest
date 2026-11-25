@@ -2,7 +2,7 @@
   "name": "Loona YAML→TOML変換ツール",
   "short_name": "YAML→TOML変換ツール",
   "description": "YAMLをTOMLにオンライン変換（共有データモデル経由）：テーブル、スカラー、配列がTOMLのレイアウトルールに対応付けられます。",
-  "id": "/loona-dev-tools/ja/yaml-to-toml/",
+  "id": "/ja/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

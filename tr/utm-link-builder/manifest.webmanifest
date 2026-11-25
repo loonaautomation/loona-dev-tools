@@ -2,7 +2,7 @@
   "name": "Loona UTM Bağlantı Oluşturucu Çevrimiçi Ücretsiz",
   "short_name": "UTM Bağlantı Kurucu Çevrimiçi Ücretsiz",
   "description": "UTM etiketli kampanya URL adreslerini çevrimiçi ücretsiz oluşturun - source, medium, campaign, term ve content doğru kodlamayla eklenir, mevcut sorgu parametreleri korunur, artı kayıtlı bir geçmiş.",
-  "id": "/loona-dev-tools/tr/utm-link-builder/",
+  "id": "/tr/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

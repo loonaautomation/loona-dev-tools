@@ -2,7 +2,7 @@
   "name": "Loona Pengekod Teks ke Base58",
   "short_name": "Pengekod Teks ke Base58",
   "description": "Encode teks ke Base58 (abjad Bitcoin) dalam talian — tanpa 0, O, I, atau l, encoding alamat Bitcoin dan hash IPFS.",
-  "id": "/loona-dev-tools/ms/text-to-base58/",
+  "id": "/ms/text-to-base58/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

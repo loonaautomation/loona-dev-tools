@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable-avkodare",
   "short_name": "Quoted-Printable-avkodare",
   "description": "Avkoda quoted-printable (MIME)-text tillbaka till läsbar UTF-8: =XX-escapes och mjuka radbrytningar hanterade enligt RFC 2045.",
-  "id": "/loona-dev-tools/sv/quoted-printable-decode/",
+  "id": "/sv/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

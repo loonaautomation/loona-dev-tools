@@ -2,7 +2,7 @@
   "name": "Loona JSON 문자열 이스케이프 해제",
   "short_name": "JSON 문자열 이스케이프 해제",
   "description": "JSON 문자열 값을 일반 텍스트로 이스케이프 해제하세요: \\n, \\t, \\&quot;, \\\\, \\uXXXX 시퀀스가 실제 문자가 돼요.",
-  "id": "/loona-dev-tools/ko/json-unescape/",
+  "id": "/ko/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

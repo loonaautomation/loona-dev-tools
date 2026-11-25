@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/csv-to-yaml/",
+  "id": "/en-gb/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

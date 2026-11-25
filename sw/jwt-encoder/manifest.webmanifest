@@ -2,7 +2,7 @@
   "name": "Loona Kisimbaji cha JWT (Msaini wa HS256)",
   "short_name": "Kisimbaji cha JWT (Msaini wa HS256)",
   "description": "Unda na utie saini JSON Web Tokens kwa HS256 kwenye kivinjari chako: mzigo wa JSON pamoja na siri, au alg=none. Utiaji saini wa WebCrypto.",
-  "id": "/loona-dev-tools/sw/jwt-encoder/",
+  "id": "/sw/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

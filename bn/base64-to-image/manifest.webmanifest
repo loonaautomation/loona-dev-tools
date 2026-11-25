@@ -2,7 +2,7 @@
   "name": "Loona Base64 থেকে ছবি কনভার্টার",
   "short_name": "Base64 থেকে ছবি কনভার্টার",
   "description": "একটি Base64 স্ট্রিং বা data URI আবার একটি দেখাযোগ্য, ডাউনলোডযোগ্য ছবিতে ডিকোড করুন। বাইট থেকে MIME টাইপ শনাক্ত করা।",
-  "id": "/loona-dev-tools/bn/base64-to-image/",
+  "id": "/bn/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

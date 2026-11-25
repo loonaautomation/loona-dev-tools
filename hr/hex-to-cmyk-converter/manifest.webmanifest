@@ -2,7 +2,7 @@
   "name": "Loona pretvarač HEX u CMYK",
   "short_name": "Pretvarač HEX u CMYK",
   "description": "Pretvorite boje iz HEX u CMYK na mreži, uz uzorak uživo i sve druge formate (HEX, RGB, HSL, HSV, CMYK) također prikazane.",
-  "id": "/loona-dev-tools/hr/hex-to-cmyk-converter/",
+  "id": "/hr/hex-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

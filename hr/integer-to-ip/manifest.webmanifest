@@ -2,7 +2,7 @@
   "name": "Loona pretvarač cijelog broja u IP adresu",
   "short_name": "Cijeli broj u IP adresu",
   "description": "Pretvorite 32-bitni cijeli broj natrag u IPv4 adresu s točkama (3232235521 → 192.168.0.1).",
-  "id": "/loona-dev-tools/hr/integer-to-ip/",
+  "id": "/hr/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

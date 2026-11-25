@@ -2,7 +2,7 @@
   "name": "Loona raspakiravanje ZIP datoteka na mreži besplatno",
   "short_name": "Raspakiravanje ZIP datoteka na mreži",
   "description": "Otvorite ZIP datoteku u pregledniku, pogledajte svaku datoteku unutra s njezinom veličinom i izdvojite pojedinačne datoteke ili sve njih. Ništa se ne prenosi; izdvajanje se događa na vašem uređaju.",
-  "id": "/loona-dev-tools/hr/unzip-file-extractor/",
+  "id": "/hr/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

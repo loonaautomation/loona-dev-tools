@@ -2,7 +2,7 @@
   "name": "Loona JSON - .env Dönüştürücü",
   "short_name": "JSON - .env Dönüştürücü",
   "description": "JSON yapılandırmasını .env biçimine dönüştürün: iç içe nesneler UNDERSCORE yollarıyla düzleştirilir, değerler boşluk veya # içerdiğinde tırnaklanır.",
-  "id": "/loona-dev-tools/tr/json-to-env/",
+  "id": "/tr/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

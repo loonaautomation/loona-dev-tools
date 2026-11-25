@@ -2,7 +2,7 @@
   "name": "Loona Konverter Biner ke Heksadesimal",
   "short_name": "Biner ke Heksadesimal",
   "description": "Konversi angka biner ke heksadesimal online — presisi arbitrer (BigInt), angka negatif didukung.",
-  "id": "/loona-dev-tools/id/binary-to-hex-converter/",
+  "id": "/id/binary-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

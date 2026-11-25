@@ -2,7 +2,7 @@
   "name": "Loona SQL formázó online ingyen",
   "short_name": "SQL formázó online ingyen",
   "description": "Formázzon SQL-t online ingyen: kulcsszavak nagybetűvel, SELECT, FROM, WHERE és JOIN záradékok a saját soraikon, karakterláncok megőrizve. Regisztráció nélkül, 100%-ban a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/sql-formatter/",
+  "id": "/hu/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Конвертер YAML в TOML",
   "short_name": "Конвертер YAML в TOML",
   "description": "Преобразуйте YAML в TOML онлайн (через общую модель данных): таблицы, скаляры и массивы сопоставлены правилам оформления TOML.",
-  "id": "/loona-dev-tools/ru/yaml-to-toml/",
+  "id": "/ru/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

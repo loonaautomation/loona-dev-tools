@@ -2,7 +2,7 @@
   "name": "Loona Αποκωδικοποιητής Οντοτήτων HTML",
   "short_name": "Αποκωδικοποιητής Οντοτήτων HTML",
   "description": "Αποκωδικοποιήστε οντότητες HTML πίσω σε απλούς χαρακτήρες: ονομασμένες, δεκαδικές και δεκαεξαδικές αναφορές (&copy;, &#169;, &#xA9;) υποστηρίζονται όλες.",
-  "id": "/loona-dev-tools/el/html-entities-decode/",
+  "id": "/el/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

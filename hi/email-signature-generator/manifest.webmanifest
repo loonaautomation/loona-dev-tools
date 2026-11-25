@@ -2,7 +2,7 @@
   "name": "Loona HTML Email Signature जनरेटर ऑनलाइन मुफ़्त",
   "short_name": "HTML Email Signature",
   "description": "एक professional HTML email signature ऑनलाइन मुफ़्त बनाएँ — नाम, title, company, phone, email और website email-safe table HTML में जो Gmail और Outlook में काम करता है। कोई साइन-अप नहीं।",
-  "id": "/loona-dev-tools/hi/email-signature-generator/",
+  "id": "/hi/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

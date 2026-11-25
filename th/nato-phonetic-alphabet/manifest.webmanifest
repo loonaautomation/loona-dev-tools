@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลตัวอักษรสัทศาสตร์ NATO (ข้อความ",
   "short_name": "ตัวอักษรสัทศาสตร์ NATO",
   "description": "สะกดข้อความในตัวอักษรออกเสียง NATO: A = Alfa, B = Bravo... รวมถึงตัวเลข ใช้ในการบิน กองทัพ และการโทรขอความช่วยเหลือ",
-  "id": "/loona-dev-tools/th/nato-phonetic-alphabet/",
+  "id": "/th/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

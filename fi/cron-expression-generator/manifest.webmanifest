@@ -2,7 +2,7 @@
   "name": "Loona Cron-lausekegeneraattori verkossa ilmaiseksi",
   "short_name": "Cron-lausekegeneraattori",
   "description": "Rakenna cron-lausekkeita pudotusvalikoista ja selitä mikä tahansa 5 kentän cron-lauseke selkokielellä, verkossa ilmaiseksi. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/cron-expression-generator/",
+  "id": "/fi/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

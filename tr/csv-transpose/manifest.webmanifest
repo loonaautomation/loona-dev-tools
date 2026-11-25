@@ -2,7 +2,7 @@
   "name": "Loona CSV Transpoze Çevrimiçi Ücretsiz",
   "short_name": "CSV Transpoze Çevrimiçi Ücretsiz",
   "description": "CSV değerini çevrimiçi ücretsiz transpoze edin - satırları ve sütunları, tırnaklı alanları doğru işleyen düzgün bir RFC 4180 ayrıştırıcıyla değiştirin. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/csv-transpose/",
+  "id": "/tr/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

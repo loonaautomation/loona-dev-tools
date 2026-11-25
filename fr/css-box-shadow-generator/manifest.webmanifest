@@ -2,7 +2,7 @@
   "name": "Générateur d’ombres de boîte Loona CSS en ligne gratuit",
   "short_name": "Générateur d’ombres de boîte CSS",
   "description": "Générez du CSS d’ombres de boîte en ligne et gratuitement - couches d’ombres multiples, ombres inset, contrôle des couleurs et de l’opacité, avec un aperçu en direct et du CSS prêt. Sans inscription, fonctionne dans votre navigateur.",
-  "id": "/loona-dev-tools/fr/css-box-shadow-generator/",
+  "id": "/fr/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Převodník Loona Hex na text",
   "short_name": "Převodník Hex na text",
   "description": "Převádějte hexadecimální zpět na text: vložte hexadecimální bajty (s mezerami nebo souvislé, s 0x nebo bez) a přečtěte si text UTF-8.",
-  "id": "/loona-dev-tools/cs/hex-to-text/",
+  "id": "/cs/hex-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

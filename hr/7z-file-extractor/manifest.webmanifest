@@ -2,7 +2,7 @@
   "name": "Loona izdvajanje 7Z datoteka na mreži besplatno",
   "short_name": "Izdvajanje 7Z datoteka na mreži besplatno",
   "description": "Otvorite 7z arhive izravno u pregledniku - pogledajte svaku datoteku unutra, preuzmite pojedinačne datoteke ili sve kao ZIP. Ništa se ne prenosi; izdvajanje se događa na vašem uređaju WebAssembly mehanizmom.",
-  "id": "/loona-dev-tools/hr/7z-file-extractor/",
+  "id": "/hr/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

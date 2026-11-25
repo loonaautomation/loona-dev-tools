@@ -2,7 +2,7 @@
   "name": "Validátor e-mailů Loona online zdarma",
   "short_name": "Validátor e-mailů online zdarma",
   "description": "Ověřujte e-mailové adresy online zdarma, jednu nebo hromadně - úplné kontroly syntaxe podle pravidel adres plus detekce běžných překlepů v doménách jako gmial.com. Bez registrace.",
-  "id": "/loona-dev-tools/cs/email-validator/",
+  "id": "/cs/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

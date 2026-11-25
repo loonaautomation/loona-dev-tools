@@ -2,7 +2,7 @@
   "name": "Loona آرکائیو فائل ایکسٹریکٹر آن لائن مفت",
   "short_name": "آرکائیو فائل ایکسٹریکٹر آن لائن",
   "description": "ایک عالمگیر آرکائیو کھولنے والا: کوئی ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ یا ISO فائل ڈالیں اور اس کے مندرجات عین آپ کے براؤزر میں نکالیں۔ فارمیٹ خودکار شناخت ہوتا ہے؛ کچھ اپ لوڈ نہیں ہوتا۔",
-  "id": "/loona-dev-tools/ur/archive-file-extractor/",
+  "id": "/ur/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Open Graph- och Twitter Card-generator",
   "short_name": "Open Graph & Twitter Card",
   "description": "Generera Open Graph- och Twitter Card-metataggar online gratis, med en liveförhandsgranskning av det sociala kortet - titel, beskrivning, bild, URL och webbplatsnamn. Ingen registrering, körs i din webbläsare.",
-  "id": "/loona-dev-tools/sv/open-graph-generator/",
+  "id": "/sv/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

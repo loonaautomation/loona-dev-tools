@@ -2,7 +2,7 @@
   "name": "Loona Конвертер 7Z в ZIP онлайн бесплатно",
   "short_name": "Конвертер 7Z в ZIP онлайн",
   "description": "Преобразуйте архив 7Z (.7z) в стандартный файл ZIP прямо в вашем браузере. Структура папок сохранена, ничего не загружается, — а полученный ZIP открывается изначально в Windows, macOS, Android и iPhone, 7-Zip не нужен.",
-  "id": "/loona-dev-tools/ru/7z-to-zip-converter/",
+  "id": "/ru/7z-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

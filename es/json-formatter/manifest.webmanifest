@@ -2,7 +2,7 @@
   "name": "Loona Formateador de JSON en línea gratis",
   "short_name": "Formateador de JSON en línea gratis",
   "description": "Formatea, valida y minifica JSON en línea gratis, con la línea y la columna exactas de cualquier error. Sin registro, funciona 100% en tu navegador.",
-  "id": "/loona-dev-tools/es/json-formatter/",
+  "id": "/es/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

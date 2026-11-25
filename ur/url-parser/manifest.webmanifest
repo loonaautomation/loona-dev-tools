@@ -2,7 +2,7 @@
   "name": "Loona URL پارسر آن لائن مفت",
   "short_name": "URL پارسر آن لائن مفت",
   "description": "کوئی URL آن لائن مفت protocol, host, port, path, query پیرامیٹرز اور hash میں parse کریں - پیرامیٹرز ترمیم کریں اور URL دوبارہ بنائیں۔ کوئی سائن اپ نہیں، 100% آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-dev-tools/ur/url-parser/",
+  "id": "/ur/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

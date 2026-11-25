@@ -2,7 +2,7 @@
   "name": "Loona Форматирование SQL онлайн бесплатно",
   "short_name": "Форматирование SQL онлайн бесплатно",
   "description": "Форматируйте SQL онлайн бесплатно: ключевые слова в верхнем регистре, предложения SELECT, FROM, WHERE и JOIN на отдельных строках, строки сохранены. Без регистрации, работает на 100% в вашем браузере.",
-  "id": "/loona-dev-tools/ru/sql-formatter/",
+  "id": "/ru/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

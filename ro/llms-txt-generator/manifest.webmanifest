@@ -2,7 +2,7 @@
   "name": "Generator llms.txt Loona online gratuit",
   "short_name": "Generator llms.txt online gratuit",
   "description": "Generează un fișier llms.txt valid online gratuit - numele site-ului, bloc de citat rezumat, detalii și linkuri de pagini selectate în formatul llms.txt propus pentru crawlerii AI. Fără înregistrare.",
-  "id": "/loona-dev-tools/ro/llms-txt-generator/",
+  "id": "/ro/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

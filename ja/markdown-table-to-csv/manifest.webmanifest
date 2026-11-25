@@ -2,7 +2,7 @@
   "name": "Loona Markdown表→CSV変換ツール",
   "short_name": "Markdown表からCSVへ",
   "description": "Markdown表をCSVに変換：ヘッダーと行を抽出し、配置行を取り除き、セルはトリムされ適切にクォートされます。",
-  "id": "/loona-dev-tools/ja/markdown-table-to-csv/",
+  "id": "/ja/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

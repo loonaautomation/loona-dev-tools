@@ -2,7 +2,7 @@
   "name": "Loona JSON-ból INI-be átalakító",
   "short_name": "JSON-ból INI átalakító",
   "description": "Alakítson JSON objektumokat INI formátumba: előbb a legfelső szintű skalárok, a beágyazott objektumok [szakaszokként]. Ingyenes online átalakító.",
-  "id": "/loona-dev-tools/hu/json-to-ini/",
+  "id": "/hu/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

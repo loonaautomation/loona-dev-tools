@@ -2,7 +2,7 @@
   "name": "Loona Generator losowych haseł",
   "short_name": "Generator losowych haseł",
   "description": "Generuj silne losowe hasła w przeglądarce przy użyciu API WebCrypto: regulowana długość i zestawy znaków, entropia pokazana.",
-  "id": "/loona-dev-tools/pl/random-password-generator/",
+  "id": "/pl/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

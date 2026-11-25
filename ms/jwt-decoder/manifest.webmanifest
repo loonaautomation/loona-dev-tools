@@ -2,7 +2,7 @@
   "name": "Loona Penyahkod JWT Dalam Talian Percuma",
   "short_name": "Penyahkod JWT Dalam Talian Percuma",
   "description": "Nyahkod JSON Web Token dalam talian secara percuma - baca header dan payload sebagai JSON yang rapi dan lihat kedaluwarsa dengan kata-kata sederhana. Signature TIDAK dipengesahan. Di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/jwt-decoder/",
+  "id": "/ms/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona .env سے JSON کنورٹر",
   "short_name": ".env سے JSON کنورٹر",
   "description": "ایک .env فائل کو JSON میں parse کریں: KEY=value لائنیں، export سابقے، تبصرے اور کوٹ شدہ قدریں سنبھالی گئیں۔",
-  "id": "/loona-dev-tools/ur/env-to-json/",
+  "id": "/ur/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

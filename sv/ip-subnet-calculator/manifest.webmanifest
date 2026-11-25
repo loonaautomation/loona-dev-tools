@@ -2,7 +2,7 @@
   "name": "Loona IP-subnätskalkylator online gratis",
   "short_name": "IP-subnätskalkylator online",
   "description": "Beräkna IPv4-subnät online gratis - nätverk, broadcast, nätmask, wildcard, första och sista värd, antal användbara värdar och IP-klass från vilken CIDR-adress som helst, plus en vy för subnätsdelning.",
-  "id": "/loona-dev-tools/sv/ip-subnet-calculator/",
+  "id": "/sv/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

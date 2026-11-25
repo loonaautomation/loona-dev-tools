@@ -2,7 +2,7 @@
   "name": "Kodér Loona Quoted-Printable",
   "short_name": "Kodér Quoted-Printable",
   "description": "Kódujte text jako quoted-printable (MIME) online: bajty UTF-8 jako escape =XX, měkká zalomení řádků na 76 znacích, podle RFC 2045.",
-  "id": "/loona-dev-tools/cs/quoted-printable-encode/",
+  "id": "/cs/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona কনভার্টার ও জেনারেটর লাইব্রেরি",
   "short_name": "কনভার্টার ও জেনারেটর লাইব্রেরি",
   "description": "সব Loona Developer Tools কনভার্টার ও জেনারেটরের সূচক: এনকোডিং, ডেটা ফরম্যাট, হ্যাশ, রঙ, আর্কাইভ, কোড জেনারেটর ও রেফারেন্স।",
-  "id": "/loona-dev-tools/bn/converter-library/",
+  "id": "/bn/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generátor tabuliek Loona HTML online zadarmo",
   "short_name": "Generátor tabuliek HTML online",
   "description": "Generujte tabuľky HTML online zadarmo - nastavte riadky a stĺpce, píšte do mriežky a získajte čisté tabuľkové HTML s podporou thead, th a caption plus živý náhľad. Bez registrácie.",
-  "id": "/loona-dev-tools/sk/html-table-generator/",
+  "id": "/sk/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

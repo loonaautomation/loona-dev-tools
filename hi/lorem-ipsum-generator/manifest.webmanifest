@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum जनरेटर",
   "short_name": "Lorem Ipsum जनरेटर",
   "description": "Lorem Ipsum placeholder text generate करें: paragraphs, sentences या words चुनें, classic opening line वैकल्पिक के साथ।",
-  "id": "/loona-dev-tools/hi/lorem-ipsum-generator/",
+  "id": "/hi/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

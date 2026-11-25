@@ -2,7 +2,7 @@
   "name": "Loona YAML থেকে JSON কনভার্টার",
   "short_name": "YAML থেকে JSON কনভার্টার",
   "description": "অনলাইনে YAML JSON-এ রূপান্তর করুন: ব্লক ম্যাপিং ও ধারাবাহিকতা, উদ্ধৃত ও সাধারণ স্কেলার, ফ্লো সংগ্রহ। উপসেট সৎভাবে নথিভুক্ত।",
-  "id": "/loona-dev-tools/bn/yaml-to-json/",
+  "id": "/bn/yaml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

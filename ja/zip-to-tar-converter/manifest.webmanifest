@@ -2,7 +2,7 @@
   "name": "Loona ZIP→TAR変換ツール",
   "short_name": "ZIP→TAR変換ツール",
   "description": "ZIPアーカイブを非圧縮TARにオンライン変換：同じファイルとフォルダを、標準準拠のTARライターで詰め直します。完全にローカルです。",
-  "id": "/loona-dev-tools/ja/zip-to-tar-converter/",
+  "id": "/ja/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

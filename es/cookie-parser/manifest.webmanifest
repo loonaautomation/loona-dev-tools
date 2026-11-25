@@ -2,7 +2,7 @@
   "name": "Loona Analizador de encabezados de cookies",
   "short_name": "Analizador de encabezados de cookies",
   "description": "Analiza un encabezado de cookies en una lista legible: pares nombre = valor, valores decodificados porcentualmente mostrados, conteo de cookies.",
-  "id": "/loona-dev-tools/es/cookie-parser/",
+  "id": "/es/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

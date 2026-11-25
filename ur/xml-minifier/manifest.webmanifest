@@ -2,7 +2,7 @@
   "name": "Loona XML منی فائر",
   "short_name": "XML منی فائر",
   "description": "XML آن لائن منی فائی کریں: تبصرے اور بین-ٹیگ اسپیس ایک کمپیکٹ لائن میں اتاریں۔",
-  "id": "/loona-dev-tools/ur/xml-minifier/",
+  "id": "/ur/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

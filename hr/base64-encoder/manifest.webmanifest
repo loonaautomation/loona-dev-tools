@@ -2,7 +2,7 @@
   "name": "Loona Base64 enkoder i dekoder na mreži besplatno",
   "short_name": "Base64 enkoder i dekoder",
   "description": "Kodirajte tekst ili datoteke u Base64 i dekodirajte Base64 natrag, sigurno za UTF-8 za bilo koji jezik i emoji, s opcijom sigurnom za URL. Besplatno, bez registracije, u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/base64-encoder/",
+  "id": "/hr/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

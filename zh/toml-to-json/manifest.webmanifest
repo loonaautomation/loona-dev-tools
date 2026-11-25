@@ -2,7 +2,7 @@
   "name": "Loona TOML 转 JSON 转换器",
   "short_name": "TOML 转 JSON 转换器",
   "description": "在线把 TOML 转换成 JSON：表、数组表、字符串、数字、布尔值、数组和日期时间（写为字符串）。",
-  "id": "/loona-dev-tools/zh/toml-to-json/",
+  "id": "/zh/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

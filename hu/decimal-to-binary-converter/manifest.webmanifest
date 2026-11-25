@@ -2,7 +2,7 @@
   "name": "Loona decimálisból binárisba átalakító",
   "short_name": "Decimális–bináris átalakító",
   "description": "Alakítson decimális számokat binárissá online — tetszőleges pontosság (BigInt), negatív számok támogatva.",
-  "id": "/loona-dev-tools/hu/decimal-to-binary-converter/",
+  "id": "/hu/decimal-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

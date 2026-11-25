@@ -2,7 +2,7 @@
   "name": "Loona SHA-256 ہیش جنریٹر",
   "short_name": "SHA-256 ہیش جنریٹر",
   "description": "متن یا فائلوں کے SHA-256 ہیشز آن لائن گنیں: 256-bit, 64 ہیکس حروف۔ آپ کے براؤزر میں WebCrypto/pure JS کے ساتھ مقامی طور پر چلتا ہے — فائلیں کبھی اپ لوڈ نہیں ہوتیں۔",
-  "id": "/loona-dev-tools/ur/sha256-hash-generator/",
+  "id": "/ur/sha256-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penukar Teks ke Binari",
   "short_name": "Penukar Teks ke Binari",
   "description": "Penukaran teks ke binari: setiap aksara sebagai kumpulan binari 8-bit dari byte UTF-8-nya. Penukar dalam talian percuma.",
-  "id": "/loona-dev-tools/ms/text-to-binary/",
+  "id": "/ms/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

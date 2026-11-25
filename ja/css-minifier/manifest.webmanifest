@@ -2,7 +2,7 @@
   "name": "Loona CSSミニファイア 無料オンライン",
   "short_name": "CSSミニファイア 無料オンライン",
   "description": "CSSを無料でオンラインミニファイし、どれだけ小さくなるか正確に確認できます。またはミニファイされたCSSを読みやすいコードに整形できます。登録不要、ブラウザで100%動作します。",
-  "id": "/loona-dev-tools/ja/css-minifier/",
+  "id": "/ja/css-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

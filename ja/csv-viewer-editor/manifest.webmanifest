@@ -2,7 +2,7 @@
   "name": "Loona CSVビューアー＆エディター 無料オンライン",
   "short_name": "CSVビューア＆エディター オンライン",
   "description": "CSVファイルを編集可能な表グリッドで無料でオンライン表示・編集します。セルを編集し、列を並べ替え、行と列を追加または除去し、編集したCSVをダウンロードしてください。登録不要、ブラウザで動作します。",
-  "id": "/loona-dev-tools/ja/csv-viewer-editor/",
+  "id": "/ja/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

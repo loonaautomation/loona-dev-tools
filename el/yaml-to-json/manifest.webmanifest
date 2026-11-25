@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας YAML σε JSON",
   "short_name": "Μετατροπέας YAML σε JSON",
   "description": "Μετατρέψτε YAML σε JSON διαδικτυακά: αντιστοιχίσεις και ακολουθίες μπλοκ, βαθμωτές τιμές με εισαγωγικά και απλές, συλλογές ροής. Υποσύνολο τεκμηριωμένο ειλικρινά.",
-  "id": "/loona-dev-tools/el/yaml-to-json/",
+  "id": "/el/yaml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

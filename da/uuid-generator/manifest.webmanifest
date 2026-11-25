@@ -2,7 +2,7 @@
   "name": "Loona UUID-generator online gratis",
   "short_name": "UUID-generator online gratis",
   "description": "Generér tilfældige version 4-UUID'er online gratis – enkeltvis eller i bulk op til 100, indstillinger for store bogstaver og uden bindestreger. Kryptografisk tilfældige, i din browser.",
-  "id": "/loona-dev-tools/da/uuid-generator/",
+  "id": "/da/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

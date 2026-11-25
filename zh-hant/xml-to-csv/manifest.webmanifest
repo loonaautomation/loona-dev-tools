@@ -2,7 +2,7 @@
   "name": "Loona XML 轉 CSV 轉換器",
   "short_name": "XML 轉 CSV 轉換器",
   "description": "把 XML 轉換成 CSV：重複元素成為行，它們的子元素和屬性成為列。免費的線上轉換器。",
-  "id": "/loona-dev-tools/zh-hant/xml-to-csv/",
+  "id": "/zh-hant/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

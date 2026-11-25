@@ -2,7 +2,7 @@
   "name": "Trình tạo bảng HTML của Loona trực tuyến miễn phí",
   "short_name": "Trình tạo bảng HTML trực tuyến",
   "description": "Tạo bảng HTML trực tuyến miễn phí - đặt hàng và cột, nhập vào lưới, và nhận HTML bảng sạch với hỗ trợ thead, th và caption cộng một bản xem trước trực tiếp. Không đăng ký.",
-  "id": "/loona-dev-tools/vi/html-table-generator/",
+  "id": "/vi/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

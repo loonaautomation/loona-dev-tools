@@ -2,7 +2,7 @@
   "name": "Loona CSV 转置工具 在线免费",
   "short_name": "CSV 转置工具 在线免费",
   "description": "在线免费转置 CSV——用一个正确处理带引号字段的适当的 RFC 4180 解析器交换行和列。无需注册，100% 在您的浏览器中运行。",
-  "id": "/loona-dev-tools/zh/csv-transpose/",
+  "id": "/zh/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

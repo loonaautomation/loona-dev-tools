@@ -2,7 +2,7 @@
   "name": "Loona Verifica di leggibilità SEO online gratuito",
   "short_name": "Controllo leggibilità SEO",
   "description": "Controlla la leggibilità dei contenuti per SEO online gratuitamente - punteggi Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG e ARI più statistiche sulla lunghezza delle frasi per testi web. Nessuna registrazione.",
-  "id": "/loona-dev-tools/it/readability-checker/",
+  "id": "/it/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

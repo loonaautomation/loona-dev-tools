@@ -2,7 +2,7 @@
   "name": "Loona Konwerter uniksowych znaczników czasu online za darmo",
   "short_name": "Konwerter znaczników czasu Uniksa",
   "description": "Konwertuj uniksowe znaczniki czasu (sekundy lub milisekundy) na daty zrozumiałe dla człowieka w UTC i czasie lokalnym oraz daty z powrotem na znaczniki czasu. Bieżący czas na żywo. Za darmo.",
-  "id": "/loona-dev-tools/pl/timestamp-converter/",
+  "id": "/pl/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

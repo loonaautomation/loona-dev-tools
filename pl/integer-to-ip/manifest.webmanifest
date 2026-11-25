@@ -2,7 +2,7 @@
   "name": "Loona Konwerter liczby całkowitej na adres IP",
   "short_name": "Liczba całkowita na adres IP",
   "description": "Konwertuj 32-bitową liczbę całkowitą z powrotem na kropkowany adres IPv4 (3232235521 → 192.168.0.1).",
-  "id": "/loona-dev-tools/pl/integer-to-ip/",
+  "id": "/pl/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

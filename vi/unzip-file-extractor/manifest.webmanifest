@@ -2,7 +2,7 @@
   "name": "Công cụ giải nén tệp Unzip của Loona trực tuyến miễn phí",
   "short_name": "Công cụ giải nén tệp Unzip trực tuyến",
   "description": "Mở một tệp ZIP trong trình duyệt của bạn, xem mọi tệp bên trong kèm kích thước của nó, và giải nén các tệp đơn lẻ hoặc tất cả chúng. Không có gì được tải lên; việc giải nén diễn ra trên thiết bị của bạn.",
-  "id": "/loona-dev-tools/vi/unzip-file-extractor/",
+  "id": "/vi/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

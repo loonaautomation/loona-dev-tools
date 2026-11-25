@@ -2,7 +2,7 @@
   "name": "Loona Onaltılık - İkili Dönüştürücü",
   "short_name": "Onaltılıktan İkiliye",
   "description": "Onaltılık sayıları çevrimiçi ikiliye dönüştürün — keyfi hassasiyet (BigInt), negatif sayılar desteklenir.",
-  "id": "/loona-dev-tools/tr/hex-to-binary-converter/",
+  "id": "/tr/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

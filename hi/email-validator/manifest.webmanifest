@@ -2,7 +2,7 @@
   "name": "Loona ईमेल वैलिडेटर ऑनलाइन मुफ़्त",
   "short_name": "ईमेल वैलिडेटर ऑनलाइन मुफ़्त",
   "description": "Email addresses ऑनलाइन मुफ़्त validate करें, एक या bulk में — address rules के विरुद्ध full syntax checks साथ में gmial.com जैसे common domain typos की detection। कोई साइन-अप नहीं।",
-  "id": "/loona-dev-tools/hi/email-validator/",
+  "id": "/hi/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

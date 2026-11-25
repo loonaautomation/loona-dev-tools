@@ -2,7 +2,7 @@
   "name": "Loona Kisimbaji na Kisimbuaji cha ROT13",
   "short_name": "Kisimbaji na Kisimbuaji cha ROT13",
   "description": "Simba ROT13 maandishi yoyote: zungusha herufi kwa nafasi 13. Usimbaji na usimbuaji ni operesheni ile ile. Ya kitambo kwa waharibifu na mafumbo.",
-  "id": "/loona-dev-tools/sw/rot13-encoder/",
+  "id": "/sw/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

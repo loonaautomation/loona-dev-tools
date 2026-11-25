@@ -2,7 +2,7 @@
   "name": "Loona TOML سے YAML کنورٹر",
   "short_name": "TOML سے YAML کنورٹر",
   "description": "TOML کو YAML میں آن لائن بدلیں: tables نیسٹڈ mappings بن جاتی ہیں، array tables آبجیکٹس کی فہرستیں بن جاتی ہیں۔",
-  "id": "/loona-dev-tools/ur/toml-to-yaml/",
+  "id": "/ur/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

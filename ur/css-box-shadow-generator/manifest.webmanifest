@@ -2,7 +2,7 @@
   "name": "Loona CSS باکس شیڈو جنریٹر آن لائن مفت",
   "short_name": "CSS باکس شیڈو جنریٹر",
   "description": "CSS باکس-شیڈو آن لائن مفت بنائیں - متعدد شیڈو تہیں، inset شیڈوز، رنگ اور شفافیت کنٹرول، ایک لائیو پیش منظر اور تیار CSS کے ساتھ۔ کوئی سائن اپ نہیں، آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-dev-tools/ur/css-box-shadow-generator/",
+  "id": "/ur/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

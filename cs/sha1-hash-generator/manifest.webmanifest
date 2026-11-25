@@ -2,7 +2,7 @@
   "name": "Generátor hashů Loona SHA-1",
   "short_name": "Generátor hashů SHA-1",
   "description": "Počítejte hashe SHA-1 textu nebo souborů online: 160bitové, 40 hexadecimálních znaků. Běží lokálně ve vašem prohlížeči s WebCrypto/čistým JS — soubory se nikdy nenahrávají.",
-  "id": "/loona-dev-tools/cs/sha1-hash-generator/",
+  "id": "/cs/sha1-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

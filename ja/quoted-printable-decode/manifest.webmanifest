@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printableデコーダー",
   "short_name": "Quoted-Printableデコーダー",
   "description": "quoted-printable（MIME）テキストを読みやすいUTF-8にデコードして戻します：=XX エスケープとソフト改行は RFC 2045 に従って処理されます。",
-  "id": "/loona-dev-tools/ja/quoted-printable-decode/",
+  "id": "/ja/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

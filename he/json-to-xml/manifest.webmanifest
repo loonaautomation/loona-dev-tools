@@ -2,7 +2,7 @@
   "name": "ממיר Loona JSON ל-XML",
   "short_name": "ממיר JSON ל-XML",
   "description": "המירו JSON ל-XML באופן מקוון עם אלמנט שורש ניתן להתאמה: מערכים הופכים לאלמנטים חוזרים, מפתחות @ הופכים לתכונות.",
-  "id": "/loona-dev-tools/he/json-to-xml/",
+  "id": "/he/json-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona kalkulator kontrolnog zbroja Adler-32",
   "short_name": "Kalkulator kontrolnog zbroja Adler-32",
   "description": "Izračunajte Adler-32 hasheve teksta ili datoteka na mreži: 32-bitni, 8 heksadekadskih znakova. Radi lokalno u vašem pregledniku s WebCryptom/čistim JS-om — datoteke se nikada ne prenose.",
-  "id": "/loona-dev-tools/hr/adler32-calculator/",
+  "id": "/hr/adler32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV ڈی ڈوپ اور کلینر آن لائن مفت",
   "short_name": "CSV ڈی ڈوپ اور کلینر آن لائن",
   "description": "ڈپلیکیٹ قطاریں CSV سے آن لائن مفت ہٹائیں - پوری قطار سے یا کلیدی کالموں سے - علاوہ اسپیس تراشنا، خالی قطاریں گرانا اور لائن اختتام معمول پر لانا، پہلے/بعد گنتیوں کے ساتھ۔ کوئی سائن اپ نہیں۔",
-  "id": "/loona-dev-tools/ur/csv-dedupe-cleaner/",
+  "id": "/ur/csv-dedupe-cleaner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

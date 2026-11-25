@@ -2,7 +2,7 @@
   "name": "Loona Konverter Basis Bilangan Online Gratis",
   "short_name": "Konverter Basis Bilangan Online",
   "description": "Konversi angka antara biner, oktal, desimal, dan heksadesimal online secara gratis, dengan presisi BigInt untuk nilai melampaui 2^53 dan validasi per digit. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-dev-tools/id/number-base-converter/",
+  "id": "/id/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Codificador JWT (Assinante HS256)",
   "short_name": "Codificador JWT (Assinante HS256)",
   "description": "Crie e assine JSON Web Tokens com HS256 no seu navegador: payload JSON mais um segredo, ou alg=none. Assinatura WebCrypto.",
-  "id": "/loona-dev-tools/pt-br/jwt-encoder/",
+  "id": "/pt-br/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Parser di intestazioni Cookie",
   "short_name": "Parser di intestazioni Cookie",
   "description": "Analizza un'intestazione Cookie in un elenco leggibile: coppie nome = valore, valori percent-decoded mostrati, conteggio cookie.",
-  "id": "/loona-dev-tools/it/cookie-parser/",
+  "id": "/it/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

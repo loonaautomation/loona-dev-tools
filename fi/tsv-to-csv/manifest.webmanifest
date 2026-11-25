@@ -2,7 +2,7 @@
   "name": "Loona TSV-CSV-muunnin",
   "short_name": "TSV-CSV-muunnin",
   "description": "Muunna TSV (sarkaimella erotetut arvot) CSV:ksi: liitä Excelistä tai Sheetsistä kopioitua dataa ja saat kunnolla lainattua CSV:tä.",
-  "id": "/loona-dev-tools/fi/tsv-to-csv/",
+  "id": "/fi/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

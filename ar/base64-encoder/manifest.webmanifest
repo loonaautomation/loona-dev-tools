@@ -2,7 +2,7 @@
   "name": "Loona مشفّر وفاكّ تشفير Base64 عبر الإنترنت مجاناً",
   "short_name": "مشفّر وفاكّ تشفير Base64",
   "description": "رمّز النصوص أو الملفات إلى Base64 وفكّ Base64 عودة، آمن لـ UTF-8 لأي لغة وإيموجي، مع خيار آمن للـ URL. مجاني، دون تسجيل، في متصفحك.",
-  "id": "/loona-dev-tools/ar/base64-encoder/",
+  "id": "/ar/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

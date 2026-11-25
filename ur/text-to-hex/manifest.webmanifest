@@ -2,7 +2,7 @@
   "name": "Loona متن سے Hex کنورٹر",
   "short_name": "متن سے Hex کنورٹر",
   "description": "متن کو ہیکساڈیسیمل (UTF-8 بائٹس) میں آن لائن بدلیں، بائٹس کے درمیان اسپیسز کے ساتھ یا بغیر۔ مفت ڈویلپر کنورٹر۔",
-  "id": "/loona-dev-tools/ur/text-to-hex/",
+  "id": "/ur/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona hashgenerator online gratis",
   "short_name": "Hashgenerator online gratis",
   "description": "Genereer SHA-1-, SHA-256-, SHA-384- en SHA-512-hashes van willekeurige tekst online gratis, lokaal berekend in je browser. Geen registratie, niets geüpload.",
-  "id": "/loona-dev-tools/nl/hash-generator/",
+  "id": "/nl/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

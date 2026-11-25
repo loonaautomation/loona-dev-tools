@@ -2,7 +2,7 @@
   "name": "Tester Robots.txt Loona online gratuit",
   "short_name": "Tester Robots.txt online gratuit",
   "description": "Testează un robots.txt online gratuit - lipește fișierul, un URL și un user-agent și obține un verdict permis sau blocat cu regula exactă de potrivire afișată. Fără înregistrare, rulează în browserul tău.",
-  "id": "/loona-dev-tools/ro/robots-txt-tester/",
+  "id": "/ro/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

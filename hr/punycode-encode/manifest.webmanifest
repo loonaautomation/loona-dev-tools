@@ -2,7 +2,7 @@
   "name": "Loona punycode enkoder (pretvarač IDN domena)",
   "short_name": "Punycode enkoder (IDN domena",
   "description": "Pretvorite internacionalizirane nazive domena (IDN) u punycode oblik xn--: bücher.example postaje xn--bcher-kva.example. Kodiranje po oznaci.",
-  "id": "/loona-dev-tools/hr/punycode-encode/",
+  "id": "/hr/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

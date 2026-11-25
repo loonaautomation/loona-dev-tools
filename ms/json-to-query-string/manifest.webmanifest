@@ -2,7 +2,7 @@
   "name": "Loona Penukar JSON ke Query String",
   "short_name": "Penukar JSON ke Query String",
   "description": "Bangun query string URL dari objek JSON: objek bersarang menggunakan notasi kurung siku, array mengulang kunci, semuanya di-encode peratus.",
-  "id": "/loona-dev-tools/ms/json-to-query-string/",
+  "id": "/ms/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV→YAML変換ツール",
   "short_name": "CSV→YAML変換ツール",
   "description": "CSVの表をYAMLに変換：ヘッダー行がキーになり、各行がYAMLリストのアイテムになり、数値には型が付きます。",
-  "id": "/loona-dev-tools/ja/csv-to-yaml/",
+  "id": "/ja/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

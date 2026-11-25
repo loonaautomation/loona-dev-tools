@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Clip-Path CSS Διαδικτυακά Δωρεάν",
   "short_name": "Γεννήτρια CSS Clip-Path",
   "description": "Δημιουργήστε CSS clip-path διαδικτυακά δωρεάν - προεπιλογές πολυγώνου όπως αστέρι, εξάγωνο και βέλος με ρυθμιζόμενα σημεία, συν σχήματα κύκλου, έλλειψης και inset, με ζωντανή προεπισκόπηση. Χωρίς εγγραφή.",
-  "id": "/loona-dev-tools/el/css-clip-path-generator/",
+  "id": "/el/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

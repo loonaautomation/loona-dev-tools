@@ -2,7 +2,7 @@
   "name": "Loona Cookie Header-parser",
   "short_name": "Cookie-header-parser",
   "description": "Parse en Cookie-header til en læsbar liste: navn = værdi-par, procentafkodede værdier vist, cookie-antal.",
-  "id": "/loona-dev-tools/da/cookie-parser/",
+  "id": "/da/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

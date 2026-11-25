@@ -2,7 +2,7 @@
   "name": "ממיר Loona בינארי לאוקטלי",
   "short_name": "ממיר בינארי לאוקטלי",
   "description": "המירו מספרים בינאריים לאוקטלי באופן מקוון — דיוק שרירותי (BigInt), מספרים שליליים נתמכים.",
-  "id": "/loona-dev-tools/he/binary-to-octal-converter/",
+  "id": "/he/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

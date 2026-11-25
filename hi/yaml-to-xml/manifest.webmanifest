@@ -2,7 +2,7 @@
   "name": "Loona YAML से XML कन्वर्टर",
   "short_name": "YAML से XML कन्वर्टर",
   "description": "YAML को XML में ऑनलाइन बदलें: एक single top-level key root element बन जाती है, @keys attributes बन जाती हैं।",
-  "id": "/loona-dev-tools/hi/yaml-to-xml/",
+  "id": "/hi/yaml-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

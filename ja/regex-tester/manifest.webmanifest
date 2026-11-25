@@ -2,7 +2,7 @@
   "name": "Loona 正規表現テスター 無料オンライン",
   "short_name": "正規表現テスター 無料オンライン",
   "description": "正規表現を無料でオンラインテストします。ライブのマッチハイライト、キャプチャグループの詳細、マッチ件数付きです。登録不要、ブラウザで100%動作します。",
-  "id": "/loona-dev-tools/ja/regex-tester/",
+  "id": "/ja/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

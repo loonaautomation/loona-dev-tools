@@ -2,7 +2,7 @@
   "name": "Loona محوّل TOML إلى JSON",
   "short_name": "محوّل TOML إلى JSON",
   "description": "حوّل TOML إلى JSON عبر الإنترنت: الجداول، جداول المصفوفات، السلاسل، الأرقام، القيم المنطقية، المصفوفات والتواريخ-الأوقات (كسلاسل).",
-  "id": "/loona-dev-tools/ar/toml-to-json/",
+  "id": "/ar/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

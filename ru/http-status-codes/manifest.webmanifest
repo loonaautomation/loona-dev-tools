@@ -2,7 +2,7 @@
   "name": "Loona Справочник кодов состояния HTTP",
   "short_name": "Справочник кодов состояния HTTP",
   "description": "Каждый распространённый код состояния HTTP с его значением: 2xx — успех, 3xx — перенаправления, 4xx — ошибки клиента, 5xx — ошибки сервера — объяснено простыми словами.",
-  "id": "/loona-dev-tools/ru/http-status-codes/",
+  "id": "/ru/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Prehliadač metadát dokumentov Loona Office online",
   "short_name": "Metadáta dokumentov Office",
   "description": "Prezrite si metadáta dokumentov Office online zadarmo - názov, autor, spoločnosť, dátumy vytvorenia a úpravy, aplikácia a verzia pre súbory .docx, .xlsx a .pptx. Iba na prezeranie, nič sa nenahráva.",
-  "id": "/loona-dev-tools/sk/office-metadata-viewer/",
+  "id": "/sk/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

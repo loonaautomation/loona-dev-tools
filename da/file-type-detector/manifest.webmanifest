@@ -2,7 +2,7 @@
   "name": "Loona filtypedetektor online gratis",
   "short_name": "Filtypedetektor online gratis",
   "description": "Registrér en fils reelle type online gratis ud fra dens magiske-byte-headersignatur – PNG, PDF, ZIP, MP4, EXE og 30+ formater – og få en advarsel, når filendelsen er uenig. Intet uploadet.",
-  "id": "/loona-dev-tools/da/file-type-detector/",
+  "id": "/da/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

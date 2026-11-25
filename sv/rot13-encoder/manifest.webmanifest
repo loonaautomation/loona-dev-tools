@@ -2,7 +2,7 @@
   "name": "Loona ROT13-kodare och avkodare",
   "short_name": "ROT13-kodare & avkodare",
   "description": "ROT13 vilken text som helst: rotera bokstäver 13 steg. Kodning och avkodning är samma operation. Klassisk för spoilers och pussel.",
-  "id": "/loona-dev-tools/sv/rot13-encoder/",
+  "id": "/sv/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

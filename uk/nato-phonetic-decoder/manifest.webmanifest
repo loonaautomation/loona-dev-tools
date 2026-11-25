@@ -2,7 +2,7 @@
   "name": "Декодувальник фонетичного алфавіту Loona НАТО",
   "short_name": "Декодувальник фонетичного алфавіту НАТО",
   "description": "Декодуйте фонетичні слова НАТО (Alfa, Bravo, Charlie...) назад у звичайні літери й цифри.",
-  "id": "/loona-dev-tools/uk/nato-phonetic-decoder/",
+  "id": "/uk/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

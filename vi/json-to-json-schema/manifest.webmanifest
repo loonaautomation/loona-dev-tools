@@ -2,7 +2,7 @@
   "name": "Trình tạo JSON Schema từ JSON của Loona",
   "short_name": "Trình tạo JSON Schema từ JSON",
   "description": "Tạo một JSON Schema (bản nháp 2020-12) từ một mẫu JSON: các kiểu được suy luận, thuộc tính đối tượng và khóa bắt buộc được bao gồm.",
-  "id": "/loona-dev-tools/vi/json-to-json-schema/",
+  "id": "/vi/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona XML-minifioija",
   "short_name": "XML-minifioija",
   "description": "Minifioi XML verkossa: poista kommentit ja tunnisteiden välinen välilyönti yhdeksi tiiviiksi riviksi.",
-  "id": "/loona-dev-tools/fi/xml-minifier/",
+  "id": "/fi/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

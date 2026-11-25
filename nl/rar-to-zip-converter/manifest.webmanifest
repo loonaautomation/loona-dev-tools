@@ -2,7 +2,7 @@
   "name": "Loona RAR naar ZIP-converter online gratis",
   "short_name": "RAR naar ZIP-converter online",
   "description": "Converteer een RAR-archief (.rar) naar een standaard ZIP-bestand direct in je browser. De mappenstructuur blijft behouden, niets wordt geüpload, en de ZIP opent overal - Windows, macOS, Android en iPhone openen ZIP allemaal native.",
-  "id": "/loona-dev-tools/nl/rar-to-zip-converter/",
+  "id": "/nl/rar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

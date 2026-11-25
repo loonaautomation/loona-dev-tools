@@ -2,7 +2,7 @@
   "name": "Loona JSON naar INI-converter",
   "short_name": "JSON naar INI-converter",
   "description": "Converteer JSON-objecten naar INI-formaat: eerst scalars op het hoogste niveau, geneste objecten als [sections]. Gratis online converter.",
-  "id": "/loona-dev-tools/nl/json-to-ini/",
+  "id": "/nl/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

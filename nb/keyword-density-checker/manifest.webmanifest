@@ -2,7 +2,7 @@
   "name": "Loona nøkkelordtetthetssjekker på nett gratis",
   "short_name": "Nøkkelordtetthetssjekker",
   "description": "Sjekk søkeordtetthet på nett gratis - topp enkeltord pluss 2-ords og 3-ords fraser med antall og prosentvis tetthet, stoppordfiltrering inkludert. Ingen registrering.",
-  "id": "/loona-dev-tools/nb/keyword-density-checker/",
+  "id": "/nb/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

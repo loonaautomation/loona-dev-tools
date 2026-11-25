@@ -2,7 +2,7 @@
   "name": "Loona Ondalık - İkili Dönüştürücü",
   "short_name": "Ondalık - İkili Dönüştürücü",
   "description": "Ondalık sayıları çevrimiçi ikiliye dönüştürün — keyfi hassasiyet (BigInt), negatif sayılar desteklenir.",
-  "id": "/loona-dev-tools/tr/decimal-to-binary-converter/",
+  "id": "/tr/decimal-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

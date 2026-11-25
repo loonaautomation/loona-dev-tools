@@ -2,7 +2,7 @@
   "name": "Loona Ekstraktor File ISO Online Gratis",
   "short_name": "Ekstraktor File ISO Online Gratis",
   "description": "Buka image disk ISO langsung di browser Anda - jelajahi sistem file yang tersimpan di disk virtual dan unduh file tunggal atau semuanya sebagai ZIP. Tidak ada yang diunggah.",
-  "id": "/loona-dev-tools/id/iso-file-extractor/",
+  "id": "/id/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

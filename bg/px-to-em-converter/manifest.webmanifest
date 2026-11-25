@@ -2,7 +2,7 @@
   "name": "Конвертор от пиксели (px) към Em на Loona",
   "short_name": "Конвертор от пиксели (px) към Em",
   "description": "Конвертирайте px в em с регулируем базов размер на шрифта (по подразбиране 16px) и таблица с общи стойности.",
-  "id": "/loona-dev-tools/bg/px-to-em-converter/",
+  "id": "/bg/px-to-em-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

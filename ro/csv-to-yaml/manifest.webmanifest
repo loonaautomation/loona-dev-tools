@@ -2,7 +2,7 @@
   "name": "Convertizor CSV în YAML Loona",
   "short_name": "Convertizor CSV în YAML",
   "description": "Convertește tabele CSV în YAML: rândul antet devine chei, fiecare rând un element într-o listă YAML, numere tipizate.",
-  "id": "/loona-dev-tools/ro/csv-to-yaml/",
+  "id": "/ro/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

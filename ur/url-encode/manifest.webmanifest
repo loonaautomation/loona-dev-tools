@@ -2,7 +2,7 @@
   "name": "Loona URL انکوڈ (فیصد انکوڈنگ)",
   "short_name": "URL انکوڈ (فیصد انکوڈنگ)",
   "description": "متن یا مکمل URL آن لائن فیصد-انکوڈ کریں: اسپیسز %20 بن جاتی ہیں، محفوظ حروف RFC 3986 کے مطابق escaped۔ Component یا مکمل-URL موڈ۔",
-  "id": "/loona-dev-tools/ur/url-encode/",
+  "id": "/ur/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona enkoder teksta u Base64",
   "short_name": "Enkoder teksta u Base64",
   "description": "Kodirajte tekst u Base64 na mreži, sigurno za UTF-8 za bilo koji jezik i emoji, s neobveznom abecedom sigurnom za URL. Besplatno, privatno, u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/text-to-base64/",
+  "id": "/hr/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV-transponering online gratis",
   "short_name": "CSV-transponering online gratis",
   "description": "Transponér CSV online gratis - byt rækker og kolonner med en ordentlig RFC 4180-parser, der håndterer felter i anførselstegn korrekt. Ingen tilmelding, kører 100 % i din browser.",
-  "id": "/loona-dev-tools/da/csv-transpose/",
+  "id": "/da/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

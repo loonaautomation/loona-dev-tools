@@ -2,7 +2,7 @@
   "name": "Loona MD5 Hash जनरेटर",
   "short_name": "MD5 Hash जनरेटर",
   "description": "Text या files के MD5 hashes ऑनलाइन compute करें: 128-bit, 32 hex characters। WebCrypto/pure JS के साथ आपके ब्राउज़र में locally चलता है — files कभी upload नहीं होतीं।",
-  "id": "/loona-dev-tools/hi/md5-hash-generator/",
+  "id": "/hi/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

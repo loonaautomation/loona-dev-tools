@@ -2,7 +2,7 @@
   "name": "Loona Codificador de texto a Base58",
   "short_name": "Codificador de texto a Base58",
   "description": "Codifica texto a Base58 (alfabeto Bitcoin) en línea: sin 0, O, I ni l, la codificación de las direcciones Bitcoin y los hashes IPFS.",
-  "id": "/loona-dev-tools/es/text-to-base58/",
+  "id": "/es/text-to-base58/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

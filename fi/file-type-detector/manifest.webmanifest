@@ -2,7 +2,7 @@
   "name": "Loona Tiedostotyypin tunnistin verkossa ilmaiseksi",
   "short_name": "Tiedostotyypin tunnistin verkossa ilmaiseksi",
   "description": "Tunnista tiedoston todellinen tyyppi verkossa ilmaiseksi sen taikatavuotsikon allekirjoituksesta — PNG, PDF, ZIP, MP4, EXE ja 30+ muotoa — ja saa varoitus, kun pääte on eri mieltä. Mitään ei lähetetä palvelimelle.",
-  "id": "/loona-dev-tools/fi/file-type-detector/",
+  "id": "/fi/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

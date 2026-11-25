@@ -2,7 +2,7 @@
   "name": "Loona Конвертер CSV в YAML",
   "short_name": "Конвертер CSV в YAML",
   "description": "Преобразуйте таблицы CSV в YAML: строка заголовка становится ключами, каждая строка — элементом в списке YAML, числа имеют типы.",
-  "id": "/loona-dev-tools/ru/csv-to-yaml/",
+  "id": "/ru/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

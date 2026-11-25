@@ -2,7 +2,7 @@
   "name": "Loona JSON से CSV कन्वर्टर ऑनलाइन मुफ़्त",
   "short_name": "JSON से CSV कन्वर्टर ऑनलाइन",
   "description": "Objects के JSON array को CSV में ऑनलाइन मुफ़्त बदलें: keys का union columns के रूप में, correct quoting और escaping, nested values JSON के रूप में रखे गए। कोई sign-up नहीं, 100% आपके ब्राउज़र में चलता है।",
-  "id": "/loona-dev-tools/hi/json-to-csv-converter/",
+  "id": "/hi/json-to-csv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

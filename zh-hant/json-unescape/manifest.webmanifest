@@ -2,7 +2,7 @@
   "name": "Loona JSON 字串取消轉義",
   "short_name": "JSON 字串取消轉義",
   "description": "把 JSON 字串值取消轉義回純文字：\\n、\\t、\\&quot;、\\\\ 和 \\uXXXX 序列變成真實字元。",
-  "id": "/loona-dev-tools/zh-hant/json-unescape/",
+  "id": "/zh-hant/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

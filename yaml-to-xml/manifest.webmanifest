@@ -2,7 +2,7 @@
   "name": "Loona YAML to XML Converter",
   "short_name": "YAML to XML Converter",
   "description": "Convert YAML to XML online: a single top-level key becomes the root element, @keys become attributes.",
-  "id": "/loona-dev-tools/yaml-to-xml/",
+  "id": "/yaml-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

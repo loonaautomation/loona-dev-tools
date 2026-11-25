@@ -2,7 +2,7 @@
   "name": "Loona Penukar TOML ke JSON",
   "short_name": "Penukar TOML ke JSON",
   "description": "Penukaran TOML ke JSON dalam talian: table, array table, string, angka, boolean, array, dan datetime (sebagai string).",
-  "id": "/loona-dev-tools/ms/toml-to-json/",
+  "id": "/ms/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

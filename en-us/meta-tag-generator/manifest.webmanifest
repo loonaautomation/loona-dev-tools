@@ -2,7 +2,7 @@
   "name": "Loona Meta Tag Generator - A Ready-to-Paste Head Block With SERP Preview",
   "short_name": "Meta Tag Generator - A Ready-to-Paste Head Block With SERP Preview",
   "description": "Generate HTML meta tags online for free - title, description, keywords, author, robots and canonical - with a live Google-style SERP preview and character counts. No sign-up.",
-  "id": "/loona-dev-tools/en-us/meta-tag-generator/",
+  "id": "/en-us/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

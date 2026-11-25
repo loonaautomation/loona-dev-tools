@@ -2,7 +2,7 @@
   "name": "Loona مستخرج ملفات ISO عبر الإنترنت مجاناً",
   "short_name": "مستخرج ملفات ISO عبر الإنترنت مجاناً",
   "description": "افتح صور أقراص ISO في متصفحك مباشرة - تصفّح نظام الملفات المخزّن على القرص الافتراضي ونزّل ملفات مفردة أو كل شيء كـ ZIP. لا يُرفع شيء.",
-  "id": "/loona-dev-tools/ar/iso-file-extractor/",
+  "id": "/ar/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

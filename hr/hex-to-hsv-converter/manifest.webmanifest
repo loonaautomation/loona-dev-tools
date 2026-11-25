@@ -2,7 +2,7 @@
   "name": "Loona pretvarač HEX u HSV",
   "short_name": "Pretvarač HEX u HSV",
   "description": "Pretvorite boje iz HEX u HSV na mreži, uz uzorak uživo i sve druge formate (HEX, RGB, HSL, HSV, CMYK) također prikazane.",
-  "id": "/loona-dev-tools/hr/hex-to-hsv-converter/",
+  "id": "/hr/hex-to-hsv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

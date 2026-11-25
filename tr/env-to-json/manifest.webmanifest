@@ -2,7 +2,7 @@
   "name": "Loona .env - JSON Dönüştürücü",
   "short_name": ".env - JSON Dönüştürücü",
   "description": "Bir .env dosyasını JSON değerine ayrıştırın: KEY=value satırları, export önekleri, yorumlar ve tırnaklı değerler işlenir.",
-  "id": "/loona-dev-tools/tr/env-to-json/",
+  "id": "/tr/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Енкодер A1Z26 на Loona (букви към числа)",
   "short_name": "Енкодер A1Z26 (букви",
   "description": "Кодирайте текст с шифъра A1Z26: A=1, B=2 ... Z=26. Класическият код за пъзели и стаи за бягство.",
-  "id": "/loona-dev-tools/bg/a1z26-cipher-encoder/",
+  "id": "/bg/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

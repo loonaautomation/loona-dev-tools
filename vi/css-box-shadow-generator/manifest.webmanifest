@@ -2,7 +2,7 @@
   "name": "Trình tạo CSS Box Shadow của Loona trực tuyến miễn phí",
   "short_name": "Trình tạo CSS Box Shadow",
   "description": "Tạo CSS box-shadow trực tuyến miễn phí - nhiều lớp bóng đổ, bóng đổ inset, kiểm soát màu và độ mờ, với bản xem trước trực tiếp và CSS sẵn sàng. Không đăng ký, chạy trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/css-box-shadow-generator/",
+  "id": "/vi/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

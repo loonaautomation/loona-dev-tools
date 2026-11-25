@@ -2,7 +2,7 @@
   "name": "Loona Punycode 編碼器（IDN 域名轉換器）",
   "short_name": "Punycode 編碼器（IDN 域名",
   "description": "把國際化域名（IDN）轉換成 punycode xn-- 形式：bücher.example 變成 xn--bcher-kva.example。按標籤編碼。",
-  "id": "/loona-dev-tools/zh-hant/punycode-encode/",
+  "id": "/zh-hant/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

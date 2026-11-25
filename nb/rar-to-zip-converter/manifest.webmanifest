@@ -2,7 +2,7 @@
   "name": "Loona RAR til ZIP-konverterer på nett gratis",
   "short_name": "RAR til ZIP-konverterer på nett",
   "description": "Konverter et RAR-arkiv (.rar) til en standard ZIP-fil rett i nettleseren din. Mappestrukturen bevares, ingenting lastes opp, og ZIP-en åpnes overalt - Windows, macOS, Android og iPhone åpner alle ZIP innebygd.",
-  "id": "/loona-dev-tools/nb/rar-to-zip-converter/",
+  "id": "/nb/rar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona URLパーサー 無料オンライン",
   "short_name": "URLパーサー 無料オンライン",
   "description": "任意のURLを無料でオンラインで、プロトコル、ホスト、ポート、パス、クエリパラメータ、ハッシュに解析します。パラメータを編集してURLを再構築できます。登録不要、ブラウザで100%動作します。",
-  "id": "/loona-dev-tools/ja/url-parser/",
+  "id": "/ja/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

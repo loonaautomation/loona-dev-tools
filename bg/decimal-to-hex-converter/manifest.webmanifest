@@ -2,7 +2,7 @@
   "name": "Конвертор от десетична към шестнадесетична на Loona",
   "short_name": "Десетична към шестнадесетична",
   "description": "Конвертирайте онлайн десетични числа в шестнадесетични — произволна точност (BigInt), отрицателните числа се поддържат.",
-  "id": "/loona-dev-tools/bg/decimal-to-hex-converter/",
+  "id": "/bg/decimal-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

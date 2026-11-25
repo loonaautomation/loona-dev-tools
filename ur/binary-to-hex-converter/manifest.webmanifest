@@ -2,7 +2,7 @@
   "name": "Loona بائنری سے ہیکساڈیسیمل کنورٹر",
   "short_name": "بائنری سے ہیکساڈیسیمل",
   "description": "بائنری اعداد کو ہیکساڈیسیمل میں آن لائن بدلیں — arbitrary precision (BigInt)، منفی اعداد سپورٹ۔",
-  "id": "/loona-dev-tools/ur/binary-to-hex-converter/",
+  "id": "/ur/binary-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

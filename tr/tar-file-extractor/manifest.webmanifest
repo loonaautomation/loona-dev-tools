@@ -2,7 +2,7 @@
   "name": "Loona TAR Dosya Çıkarıcı Çevrimiçi Ücretsiz",
   "short_name": "TAR Dosya Çıkarıcı Çevrimiçi Ücretsiz",
   "description": "TAR arşivlerini tarayıcınızda açın - düz .tar ve ayrıca .tar.bz2 ve .tar.xz - içindeki her dosyayı görün ve tek dosyaları veya hepsini bir ZIP olarak indirin. Hiçbir şey yüklenmez.",
-  "id": "/loona-dev-tools/tr/tar-file-extractor/",
+  "id": "/tr/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

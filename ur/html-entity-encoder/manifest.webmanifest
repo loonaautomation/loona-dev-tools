@@ -2,7 +2,7 @@
   "name": "Loona HTML اینٹیٹی انکوڈر اور ڈیکوڈر آن لائن مفت",
   "short_name": "HTML اینٹیٹی انکوڈر اور ڈیکوڈر",
   "description": "متن کو HTML اینٹیٹیز میں انکوڈ کریں (نامزد جیسے &amp;copy; یا عددی جیسے &amp;#169;) اور اینٹیٹیز کو واپس سادہ متن میں ڈی کوڈ کریں۔ مفت، کوئی سائن اپ نہیں، آپ کے براؤزر میں۔",
-  "id": "/loona-dev-tools/ur/html-entity-encoder/",
+  "id": "/ur/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Angka Romawi ke Angka",
   "short_name": "Angka Romawi ke Angka",
   "description": "Konversi angka Romawi ke angka (1–3999), dengan validasi ketat notasi subtraktif (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/id/roman-numerals-converter/",
+  "id": "/id/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

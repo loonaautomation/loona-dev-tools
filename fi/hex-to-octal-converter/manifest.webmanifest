@@ -2,7 +2,7 @@
   "name": "Loona Heksadesimaali-oktaalimuunnin",
   "short_name": "Heksadesimaali-oktaalimuunnin",
   "description": "Muunna heksadesimaalilukuja oktaaliksi verkossa — mielivaltainen tarkkuus (BigInt), negatiiviset luvut tuettuna.",
-  "id": "/loona-dev-tools/fi/hex-to-octal-converter/",
+  "id": "/fi/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

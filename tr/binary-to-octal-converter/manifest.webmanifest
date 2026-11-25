@@ -2,7 +2,7 @@
   "name": "Loona İkili - Sekizlik Dönüştürücü",
   "short_name": "İkili - Sekizlik Dönüştürücü",
   "description": "İkili sayıları çevrimiçi sekizliğe dönüştürün — keyfi hassasiyet (BigInt), negatif sayılar desteklenir.",
-  "id": "/loona-dev-tools/tr/binary-to-octal-converter/",
+  "id": "/tr/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

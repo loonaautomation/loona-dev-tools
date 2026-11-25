@@ -2,7 +2,7 @@
   "name": "Loona ROT13 enkoder i dekoder",
   "short_name": "ROT13 enkoder i dekoder",
   "description": "ROT13 bilo koji tekst: rotirajte slova za 13 mjesta. Kodiranje i dekodiranje ista su operacija. Klasično za spojlere i zagonetke.",
-  "id": "/loona-dev-tools/hr/rot13-encoder/",
+  "id": "/hr/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

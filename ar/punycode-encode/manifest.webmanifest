@@ -2,7 +2,7 @@
   "name": "Loona مشفّر Punycode ‏(محوّل نطاقات IDN)",
   "short_name": "مشفّر Punycode (نطاق IDN",
   "description": "حوّل أسماء النطاقات المدوّلة (IDN) إلى صيغة punycode ‏xn--: ‏bücher.example يصبح xn--bcher-kva.example. ترميز لكل تسمية.",
-  "id": "/loona-dev-tools/ar/punycode-encode/",
+  "id": "/ar/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

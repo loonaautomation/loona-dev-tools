@@ -2,7 +2,7 @@
   "name": "Парсър на низове User Agent на Loona",
   "short_name": "Парсър на низ на потребителски агент",
   "description": "Анализирайте низ User-Agent на браузър в браузър, двигател, ОС и тип устройство с прозрачен парсър, базиран на правила.",
-  "id": "/loona-dev-tools/bg/user-agent-parser/",
+  "id": "/bg/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

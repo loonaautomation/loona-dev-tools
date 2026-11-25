@@ -2,7 +2,7 @@
   "name": "Générateur de tableaux HTML Loona en ligne gratuit",
   "short_name": "Générateur de tableaux HTML en ligne",
   "description": "Générez des tableaux HTML en ligne et gratuitement - définissez les lignes et les colonnes, saisissez dans la grille, et obtenez un HTML de tableau propre avec prise en charge de thead, th et caption plus un aperçu en direct. Sans inscription.",
-  "id": "/loona-dev-tools/fr/html-table-generator/",
+  "id": "/fr/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

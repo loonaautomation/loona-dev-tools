@@ -2,7 +2,7 @@
   "name": "Generátor schémat Loona JSON-LD online zdarma",
   "short_name": "Generátor schémat JSON-LD",
   "description": "Generujte strukturovaná data JSON-LD schema.org online zdarma - Article, LocalBusiness, Product, Event, Recipe, Person, Organization a WebSite - jako hotový blok skriptu. Bez registrace.",
-  "id": "/loona-dev-tools/cs/json-ld-schema-generator/",
+  "id": "/cs/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

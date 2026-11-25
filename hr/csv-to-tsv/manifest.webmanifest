@@ -2,7 +2,7 @@
   "name": "Loona pretvarač CSV u TSV",
   "short_name": "Pretvarač CSV u TSV",
   "description": "Pretvorite CSV u TSV (vrijednosti odvojene tabulatorom): puno raščlanjivanje polja u navodnicima, tabulatori kao razdjelnici. Besplatni mrežni pretvarač.",
-  "id": "/loona-dev-tools/hr/csv-to-tsv/",
+  "id": "/hr/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

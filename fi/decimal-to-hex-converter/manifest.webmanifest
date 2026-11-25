@@ -2,7 +2,7 @@
   "name": "Loona Desimaali-heksadesimaalimuunnin",
   "short_name": "Desimaalista heksadesimaaliin",
   "description": "Muunna desimaalilukuja heksadesimaaliksi verkossa — mielivaltainen tarkkuus (BigInt), negatiiviset luvut tuettuna.",
-  "id": "/loona-dev-tools/fi/decimal-to-hex-converter/",
+  "id": "/fi/decimal-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

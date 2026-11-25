@@ -2,7 +2,7 @@
   "name": "Loona Penjelas Ekspresi Cron",
   "short_name": "Penjelas Ekspresi Cron",
   "description": "Jelaskan ekspresi cron dalam bahasa Indonesia yang sederhana: tempel jadwal cron 5-field dan baca kapan ia berjalan, field per field.",
-  "id": "/loona-dev-tools/id/cron-expression-explainer/",
+  "id": "/id/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

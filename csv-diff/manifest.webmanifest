@@ -2,7 +2,7 @@
   "name": "Loona CSV Diff & Compare Online Free",
   "short_name": "CSV Diff & Compare Online Free",
   "description": "Compare two CSV files online for free - rows matched by a key column and classified as added, removed, changed (with the exact cells) or unchanged. No sign-up, runs in your browser.",
-  "id": "/loona-dev-tools/csv-diff/",
+  "id": "/csv-diff/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

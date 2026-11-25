@@ -2,7 +2,7 @@
   "name": "Loona Αναίρεση Διαφυγής Συμβολοσειράς JSON",
   "short_name": "Αναίρεση Διαφυγής Συμβολοσειράς JSON",
   "description": "Αποδιαφύγετε μια τιμή συμβολοσειράς JSON πίσω σε απλό κείμενο: οι ακολουθίες \\n, \\t, \\&quot;, \\\\ και \\uXXXX γίνονται πραγματικοί χαρακτήρες.",
-  "id": "/loona-dev-tools/el/json-unescape/",
+  "id": "/el/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

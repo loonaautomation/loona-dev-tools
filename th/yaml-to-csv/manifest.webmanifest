@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง YAML เป็น CSV",
   "short_name": "ตัวแปลง YAML เป็น CSV",
   "description": "แปลงรายการ YAML ของออบเจ็กต์เป็นตาราง CSV: การรวมกันของคีย์เป็นคอลัมน์ ค่าที่ซ้อนกันถูกซีเรียลไลซ์เป็น JSON ในเซลล์ของมัน",
-  "id": "/loona-dev-tools/th/yaml-to-csv/",
+  "id": "/th/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

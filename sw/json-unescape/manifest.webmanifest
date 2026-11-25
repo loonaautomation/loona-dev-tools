@@ -2,7 +2,7 @@
   "name": "Loona Ondoa Utoroshaji wa Mfululizo wa JSON",
   "short_name": "Ondoa Utoroshaji wa Mfululizo wa JSON",
   "description": "Tenda utoroshaji wa thamani ya mfululizo wa JSON kurudi kwa maandishi wazi: \\n, \\t, \\&quot;, \\\\ na \\uXXXX huwa herufi halisi.",
-  "id": "/loona-dev-tools/sw/json-unescape/",
+  "id": "/sw/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

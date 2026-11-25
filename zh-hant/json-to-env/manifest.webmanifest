@@ -2,7 +2,7 @@
   "name": "Loona JSON 轉 .env 轉換器",
   "short_name": "JSON 轉 .env 轉換器",
   "description": "把 JSON 配置轉換成 .env 格式：巢狀物件用下劃線路徑扁平化，值在包含空格或 # 時加引號。",
-  "id": "/loona-dev-tools/zh-hant/json-to-env/",
+  "id": "/zh-hant/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

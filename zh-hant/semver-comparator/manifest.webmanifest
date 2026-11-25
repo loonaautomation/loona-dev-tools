@@ -2,7 +2,7 @@
   "name": "Loona 語義版本比較器",
   "short_name": "語義化版本比較器",
   "description": "驗證並比較語義化版本（MAJOR.MINOR.PATCH）：哪個更新，以及什麼樣的變化將它們分隔。",
-  "id": "/loona-dev-tools/zh-hant/semver-comparator/",
+  "id": "/zh-hant/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

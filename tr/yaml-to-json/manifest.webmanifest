@@ -2,7 +2,7 @@
   "name": "Loona YAML - JSON Dönüştürücü",
   "short_name": "YAML - JSON Dönüştürücü",
   "description": "YAML değerini çevrimiçi JSON biçimine dönüştürün: blok eşlemeleri ve dizileri, tırnaklı ve düz skalerler, akış koleksiyonları. Alt küme dürüstçe belgelendi.",
-  "id": "/loona-dev-tools/tr/yaml-to-json/",
+  "id": "/tr/yaml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

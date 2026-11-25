@@ -2,7 +2,7 @@
   "name": "Loona Parser URL online za darmo",
   "short_name": "Parser URL online za darmo",
   "description": "Analizuj dowolny URL online za darmo na protokół, host, port, ścieżkę, parametry zapytania i hash - edytuj parametry i przebuduj URL. Bez rejestracji, działa w 100% w przeglądarce.",
-  "id": "/loona-dev-tools/pl/url-parser/",
+  "id": "/pl/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

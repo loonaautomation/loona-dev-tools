@@ -2,7 +2,7 @@
   "name": "Loona Binär till text-konverterare",
   "short_name": "Binär till text-konverterare",
   "description": "Avkoda binär (grupper om 8 bitar, med mellanslag eller sammanhängande) tillbaka till UTF-8-text online. Gratis binäröversättare.",
-  "id": "/loona-dev-tools/sv/binary-to-text/",
+  "id": "/sv/binary-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

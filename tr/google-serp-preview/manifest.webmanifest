@@ -2,7 +2,7 @@
   "name": "Loona Google SERP Önizleme Aracı Çevrimiçi Ücretsiz",
   "short_name": "Google SERP Önizleme Aracı",
   "description": "Sayfa başlığınızın ve meta açıklamanızın Google arama sonuçlarında nasıl görüneceğini çevrimiçi ücretsiz önizleyin, masaüstü ve mobil görünümler ve piksel genişliği kısaltma uyarılarıyla. Kayıt gerekmez.",
-  "id": "/loona-dev-tools/tr/google-serp-preview/",
+  "id": "/tr/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

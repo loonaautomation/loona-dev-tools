@@ -2,7 +2,7 @@
   "name": "Loona Base64 kódoló és dekódoló online ingyen",
   "short_name": "Base64 kódoló és dekódoló",
   "description": "Kódoljon szöveget vagy fájlokat Base64-re, és dekódolja a Base64-et vissza, UTF-8 biztonságosan bármely nyelvhez és emojihoz, URL-biztonságos opcióval. Ingyen, regisztráció nélkül, a böngészőjében.",
-  "id": "/loona-dev-tools/hu/base64-encoder/",
+  "id": "/hu/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

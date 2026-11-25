@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας CSV σε Πίνακα Markdown Διαδικτυακά",
   "short_name": "CSV σε Πίνακα Markdown",
   "description": "Μετατρέψτε CSV σε πίνακα Markdown διαδικτυακά δωρεάν - αριθμητικές στήλες με αυτόματη δεξιά στοίχιση και χαρακτήρες κάθετου σωστά διαφευγμένους. Χωρίς εγγραφή, εκτελείται 100% στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-dev-tools/el/csv-to-markdown-converter/",
+  "id": "/el/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

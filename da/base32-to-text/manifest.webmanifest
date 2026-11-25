@@ -2,7 +2,7 @@
   "name": "Loona Base32 til tekst-dekoder",
   "short_name": "Base32 til tekst-dekoder",
   "description": "Afkod Base32 (RFC 4648) tilbage til tekst — uden hensyn til store og små bogstaver, polstring valgfri. Gendan strenge kodet i TOTP-stil.",
-  "id": "/loona-dev-tools/da/base32-to-text/",
+  "id": "/da/base32-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

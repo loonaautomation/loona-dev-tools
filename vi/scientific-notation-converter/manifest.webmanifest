@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi ký hiệu khoa học của Loona",
   "short_name": "Công cụ chuyển đổi ký hiệu khoa học",
   "description": "Chuyển đổi số sang và từ ký hiệu khoa học: 3200000 ⇄ 3.2 × 10^6, ký hiệu E được hỗ trợ cả hai chiều.",
-  "id": "/loona-dev-tools/vi/scientific-notation-converter/",
+  "id": "/vi/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

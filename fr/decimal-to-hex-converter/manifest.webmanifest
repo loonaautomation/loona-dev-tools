@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona décimal vers hexadécimal",
   "short_name": "Décimal vers hexadécimal",
   "description": "Convertissez les nombres décimaux en hexadécimal en ligne — précision arbitraire (BigInt), nombres négatifs pris en charge.",
-  "id": "/loona-dev-tools/fr/decimal-to-hex-converter/",
+  "id": "/fr/decimal-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

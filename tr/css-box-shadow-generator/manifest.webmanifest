@@ -2,7 +2,7 @@
   "name": "Loona CSS Kutu Gölgesi Oluşturucu Çevrimiçi Ücretsiz",
   "short_name": "CSS Kutu Gölgesi Oluşturucu",
   "description": "CSS box-shadow değerini çevrimiçi ücretsiz oluşturun - birden çok gölge katmanı, iç gölgeler, renk ve opaklık kontrolü, canlı bir önizleme ve hazır CSS ile. Kayıt gerekmez, tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/css-box-shadow-generator/",
+  "id": "/tr/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

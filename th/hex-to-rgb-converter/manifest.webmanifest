@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง HEX เป็น RGB",
   "short_name": "ตัวแปลง HEX เป็น RGB",
   "description": "แปลงสีจาก HEX เป็น RGB ออนไลน์ พร้อมตัวอย่างสีแบบสดและรูปแบบอื่นทั้งหมด (HEX, RGB, HSL, HSV, CMYK) ที่แสดงด้วย",
-  "id": "/loona-dev-tools/th/hex-to-rgb-converter/",
+  "id": "/th/hex-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

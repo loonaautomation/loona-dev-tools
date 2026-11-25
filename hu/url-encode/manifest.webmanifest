@@ -2,7 +2,7 @@
   "name": "Loona URL kódolás (százalékos kódolás)",
   "short_name": "URL kódolás (százalékos kódolás)",
   "description": "Százalékosan kódoljon szöveget vagy egy teljes URL-t online: a szóközök %20-szá válnak, a fenntartott karakterek az RFC 3986 szerint escape-elődnek. Komponens vagy teljes URL mód.",
-  "id": "/loona-dev-tools/hu/url-encode/",
+  "id": "/hu/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

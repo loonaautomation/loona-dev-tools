@@ -2,7 +2,7 @@
   "name": "Décodeur d’entités HTML Loona",
   "short_name": "Décodeur d’entités HTML",
   "description": "Décodez les entités HTML en caractères simples : références nommées, décimales et hexadécimales (&copy;, &#169;, &#xA9;) toutes prises en charge.",
-  "id": "/loona-dev-tools/fr/html-entities-decode/",
+  "id": "/fr/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

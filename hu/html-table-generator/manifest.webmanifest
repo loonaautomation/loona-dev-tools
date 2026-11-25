@@ -2,7 +2,7 @@
   "name": "Loona HTML táblázatgenerátor online ingyen",
   "short_name": "HTML táblázatgenerátor online",
   "description": "Generáljon HTML táblázatokat online ingyen - állítsa be a sorokat és oszlopokat, írjon a rácsba, és kapjon tiszta táblázat HTML-t thead, th és caption támogatással, plusz élő előnézettel. Regisztráció nélkül.",
-  "id": "/loona-dev-tools/hu/html-table-generator/",
+  "id": "/hu/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

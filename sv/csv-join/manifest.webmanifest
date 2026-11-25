@@ -2,7 +2,7 @@
   "name": "Loona CSV-sammanfogning online gratis",
   "short_name": "CSV-sammanfogning online gratis",
   "description": "Sammanfoga två CSV-filer online gratis på en delad nyckelkolumn - inner join eller left join, dubblerade nycklar hanterade på databas sättet. Ingen registrering, körs 100% i din webbläsare.",
-  "id": "/loona-dev-tools/sv/csv-join/",
+  "id": "/sv/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

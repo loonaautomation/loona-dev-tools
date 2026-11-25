@@ -2,7 +2,7 @@
   "name": "Loona Nombres vers chiffres romains",
   "short_name": "Nombres vers chiffres romains",
   "description": "Convertissez les nombres (1–3999) en chiffres romains sous forme soustractive standard. Convertisseur en ligne gratuit.",
-  "id": "/loona-dev-tools/fr/number-to-roman-numerals/",
+  "id": "/fr/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

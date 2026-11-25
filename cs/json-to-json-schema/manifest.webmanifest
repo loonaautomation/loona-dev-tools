@@ -2,7 +2,7 @@
   "name": "Generátor Loona JSON na JSON Schema",
   "short_name": "Generátor JSON na JSON Schema",
   "description": "Generujte schéma JSON (návrh 2020-12) ze vzorku JSON: odvozené typy, vlastnosti objektů a povinné klíče zahrnuty.",
-  "id": "/loona-dev-tools/cs/json-to-json-schema/",
+  "id": "/cs/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

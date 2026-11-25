@@ -2,7 +2,7 @@
   "name": "Loona Decimal से Binary कन्वर्टर",
   "short_name": "Decimal से Binary कन्वर्टर",
   "description": "Decimal numbers को binary में ऑनलाइन बदलें — arbitrary precision (BigInt), negative numbers supported।",
-  "id": "/loona-dev-tools/hi/decimal-to-binary-converter/",
+  "id": "/hi/decimal-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

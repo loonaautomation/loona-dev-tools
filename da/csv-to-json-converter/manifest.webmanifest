@@ -2,7 +2,7 @@
   "name": "Loona CSV til JSON-konverter online gratis",
   "short_name": "CSV til JSON-konverter online",
   "description": "Konvertér CSV til et JSON-array af objekter online gratis, med en korrekt CSV-parser, der håndterer felter i anførselstegn, kommaer inde i anførselstegn og escaped anførselstegn. Ingen tilmelding, kører 100% i din browser.",
-  "id": "/loona-dev-tools/da/csv-to-json-converter/",
+  "id": "/da/csv-to-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

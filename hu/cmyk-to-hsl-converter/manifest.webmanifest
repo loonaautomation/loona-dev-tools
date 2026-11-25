@@ -2,7 +2,7 @@
   "name": "Loona CMYK-ból HSL-be átalakító",
   "short_name": "CMYK–HSL átalakító",
   "description": "Alakítson színeket CMYK-ból HSL-lé online, élő színmintával, és az összes többi formátummal (HEX, RGB, HSL, HSV, CMYK) is megjelenítve.",
-  "id": "/loona-dev-tools/hu/cmyk-to-hsl-converter/",
+  "id": "/hu/cmyk-to-hsl-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

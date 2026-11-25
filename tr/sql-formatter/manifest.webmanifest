@@ -2,7 +2,7 @@
   "name": "Loona SQL Biçimlendirici Çevrimiçi Ücretsiz",
   "short_name": "SQL Biçimlendirici Çevrimiçi Ücretsiz",
   "description": "SQL değerini çevrimiçi ücretsiz biçimlendirin: anahtar kelimeler büyük harf, SELECT, FROM, WHERE ve JOIN cümleleri kendi satırlarında, dizeler korunur. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/sql-formatter/",
+  "id": "/tr/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

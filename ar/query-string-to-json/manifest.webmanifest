@@ -2,7 +2,7 @@
   "name": "Loona محوّل سلسلة الاستعلام إلى JSON",
   "short_name": "محوّل سلسلة الاستعلام إلى JSON",
   "description": "حلّل سلسلة استعلام URL إلى JSON: ترميز الأقواس يصبح كائنات متداخلة، المفاتيح المتكررة تصبح مصفوفات، القيم مصنّفة.",
-  "id": "/loona-dev-tools/ar/query-string-to-json/",
+  "id": "/ar/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

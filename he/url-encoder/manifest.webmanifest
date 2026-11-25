@@ -2,7 +2,7 @@
   "name": "מקודד ומפענח URL של Loona מקוון בחינם",
   "short_name": "מקודד ומפענח כתובת מקוון",
   "description": "קודדו ופענחו כתובות URL וטקסט שאילתה באופן מקוון בחינם, עם מצבי component ו-URL מלא ופירוט לפי תו. בלי הרשמה, בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/url-encoder/",
+  "id": "/he/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

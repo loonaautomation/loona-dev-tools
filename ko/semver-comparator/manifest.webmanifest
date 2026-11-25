@@ -2,7 +2,7 @@
   "name": "Loona 시맨틱 버전 비교기",
   "short_name": "의미론적 버전 비교기",
   "description": "의미론적 버전을 검증하고 비교하세요(MAJOR.MINOR.PATCH): 어느 것이 더 새롭고, 어떤 종류의 변경이 그것들을 분리하는지예요.",
-  "id": "/loona-dev-tools/ko/semver-comparator/",
+  "id": "/ko/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

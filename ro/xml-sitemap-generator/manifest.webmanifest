@@ -2,7 +2,7 @@
   "name": "Generator de sitemap XML Loona online gratuit",
   "short_name": "Generator de sitemap XML online",
   "description": "Generează un sitemap XML valid online gratuit dintr-o listă de URL-uri, cu lastmod, changefreq și prioritate implicite, escapare corectă a URL-urilor și XML-ului. Fără înregistrare, rulează în browserul tău.",
-  "id": "/loona-dev-tools/ro/xml-sitemap-generator/",
+  "id": "/ro/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

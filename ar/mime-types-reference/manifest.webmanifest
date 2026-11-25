@@ -2,7 +2,7 @@
   "name": "Loona مرجع أنواع MIME (أنواع المحتوى حسب",
   "short_name": "مرجع أنواع MIME (المحتوى",
   "description": "أنواع MIME الشائعة حسب امتداد الملف: المستندات، الصور، الصوت، الفيديو، الأرشيفات، الخطوط وتنسيقات الويب مع قيم Content-Type الخاصة بها.",
-  "id": "/loona-dev-tools/ar/mime-types-reference/",
+  "id": "/ar/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Convertitore rimozione escape Unicode (decodifica \\uXXXX)",
   "short_name": "Convertitore rimozione escape Unicode",
   "description": "Decodifica sequenze di escape Unicode (\\uXXXX, \\u{...}, \\xXX) di nuovo in caratteri reali, più gli escape \\n \\t e \\\\ .",
-  "id": "/loona-dev-tools/it/unicode-unescape/",
+  "id": "/it/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

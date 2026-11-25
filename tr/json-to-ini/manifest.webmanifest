@@ -2,7 +2,7 @@
   "name": "Loona JSON - INI Dönüştürücü",
   "short_name": "JSON - INI Dönüştürücü",
   "description": "JSON nesnelerini INI biçimine dönüştürün: önce üst düzey skalerler, iç içe nesneler [sections] olarak. Ücretsiz çevrimiçi dönüştürücü.",
-  "id": "/loona-dev-tools/tr/json-to-ini/",
+  "id": "/tr/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

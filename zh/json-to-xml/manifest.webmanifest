@@ -2,7 +2,7 @@
   "name": "Loona JSON 转 XML 转换器",
   "short_name": "JSON 转 XML 转换器",
   "description": "在线把 JSON 转换成 XML，可自定义根元素：数组成为重复元素，@键成为属性。",
-  "id": "/loona-dev-tools/zh/json-to-xml/",
+  "id": "/zh/json-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona binær til hexadecimal-konverter",
   "short_name": "Binær til hexadecimal",
   "description": "Konvertér binære tal til hexadecimal online — vilkårlig præcision (BigInt), negative tal understøttet.",
-  "id": "/loona-dev-tools/da/binary-to-hex-converter/",
+  "id": "/da/binary-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

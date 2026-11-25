@@ -2,7 +2,7 @@
   "name": "Loona Penukar JSON ke TOML",
   "short_name": "Penukar JSON ke TOML",
   "description": "Penukaran JSON ke TOML dalam talian: skalar terlebih dahulu, objek bersarang sebagai [table], array objek sebagai [[table]].",
-  "id": "/loona-dev-tools/ms/json-to-toml/",
+  "id": "/ms/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 转换器与生成器库",
   "short_name": "转换器与生成器库",
   "description": "全部 Loona Developer Tools 转换器和生成器的索引：编码、数据格式、哈希、颜色、归档、代码生成器和参考资料。",
-  "id": "/loona-dev-tools/zh/converter-library/",
+  "id": "/zh/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

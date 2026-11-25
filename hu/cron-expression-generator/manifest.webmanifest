@@ -2,7 +2,7 @@
   "name": "Loona Cron kifejezés generátor online ingyen",
   "short_name": "Cron kifejezés generátor",
   "description": "Építsen cron kifejezéseket legördülő menükből, és magyaráztasson el bármilyen 5 mezős cron kifejezést közérthetően, online ingyen. Regisztráció nélkül, 100%-ban a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/cron-expression-generator/",
+  "id": "/hu/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

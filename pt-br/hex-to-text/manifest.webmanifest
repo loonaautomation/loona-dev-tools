@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Hex para Texto",
   "short_name": "Conversor de Hex para Texto",
   "description": "Converta hexadecimal de volta para texto: cole bytes hex (espaçados ou contínuos, com ou sem 0x) e leia o texto UTF-8.",
-  "id": "/loona-dev-tools/pt-br/hex-to-text/",
+  "id": "/pt-br/hex-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

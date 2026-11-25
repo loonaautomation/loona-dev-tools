@@ -2,7 +2,7 @@
   "name": "Loona JSON String Unescape",
   "short_name": "JSON String Unescape",
   "description": "Unescape a JSON string value back to plain text: \\n, \\t, \\&quot;, \\\\ and \\uXXXX sequences become real characters.",
-  "id": "/loona-dev-tools/en-us/json-unescape/",
+  "id": "/en-us/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

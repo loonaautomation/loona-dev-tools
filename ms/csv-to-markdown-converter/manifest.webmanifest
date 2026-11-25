@@ -2,7 +2,7 @@
   "name": "Loona Penukar CSV ke Jadual Markdown Dalam Talian",
   "short_name": "CSV ke Jadual Markdown",
   "description": "Penukaran CSV ke jadual Markdown dalam talian secara percuma - lajur numerik diratakan kanan secara automatik dan aksara pipe di-escape dengan benar. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/csv-to-markdown-converter/",
+  "id": "/ms/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

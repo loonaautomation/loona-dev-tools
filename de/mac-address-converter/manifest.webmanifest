@@ -2,7 +2,7 @@
   "name": "Loona MAC-Adressen-Format-Konverter",
   "short_name": "MAC-Adressen-Format-Konverter",
   "description": "Konvertieren Sie MAC-Adressen zwischen Formaten mit Doppelpunkt (AA:BB:CC:DD:EE:FF), Bindestrich, Cisco-Punkt und reinen Formaten; validiert die 48-Bit-Adresse.",
-  "id": "/loona-dev-tools/de/mac-address-converter/",
+  "id": "/de/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

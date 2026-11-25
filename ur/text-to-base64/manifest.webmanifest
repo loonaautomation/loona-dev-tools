@@ -2,7 +2,7 @@
   "name": "Loona متن سے Base64 انکوڈر",
   "short_name": "متن سے Base64 انکوڈر",
   "description": "متن کو Base64 میں آن لائن انکوڈ کریں، کسی بھی زبان اور ایموجی کے لیے UTF-8 محفوظ، ایک اختیاری URL-محفوظ حروف تہجی کے ساتھ۔ مفت، نجی، آپ کے براؤزر میں۔",
-  "id": "/loona-dev-tools/ur/text-to-base64/",
+  "id": "/ur/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

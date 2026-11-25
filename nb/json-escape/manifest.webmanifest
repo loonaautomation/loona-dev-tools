@@ -2,7 +2,7 @@
   "name": "Loona JSON-streng-escape",
   "short_name": "JSON-streng-escape",
   "description": "Escape en streng for innebygging inne i JSON: anførselstegn, omvendte skråstreker, linjeskift og kontrolltegn blir \\ sekvenser.",
-  "id": "/loona-dev-tools/nb/json-escape/",
+  "id": "/nb/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

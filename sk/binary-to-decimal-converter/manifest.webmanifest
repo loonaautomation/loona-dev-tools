@@ -2,7 +2,7 @@
   "name": "Prevodník Loona binárnych na desiatkové",
   "short_name": "Prevodník binárnej na desiatkovú sústavu",
   "description": "Preveďte binárne čísla na desiatkové online — ľubovoľná presnosť (BigInt), záporné čísla podporované.",
-  "id": "/loona-dev-tools/sk/binary-to-decimal-converter/",
+  "id": "/sk/binary-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

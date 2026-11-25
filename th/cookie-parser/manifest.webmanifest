@@ -2,7 +2,7 @@
   "name": "Loona ตัวแยกวิเคราะห์ส่วนหัว Cookie",
   "short_name": "ตัวแยกวิเคราะห์ส่วนหัว Cookie",
   "description": "แยกวิเคราะห์ส่วนหัว Cookie เป็นรายการที่อ่านได้: คู่ name = value ค่าที่ถอดรหัสเปอร์เซ็นต์แสดงไว้ จำนวนคุกกี้",
-  "id": "/loona-dev-tools/th/cookie-parser/",
+  "id": "/th/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

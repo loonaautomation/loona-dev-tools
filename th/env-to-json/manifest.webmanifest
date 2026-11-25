@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง .env เป็น JSON",
   "short_name": "ตัวแปลง .env เป็น JSON",
   "description": "แยกวิเคราะห์ไฟล์ .env เป็น JSON: บรรทัด KEY=value คำนำหน้า export คอมเมนต์ และค่าที่ใส่เครื่องหมายคำพูดได้รับการจัดการ",
-  "id": "/loona-dev-tools/th/env-to-json/",
+  "id": "/th/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

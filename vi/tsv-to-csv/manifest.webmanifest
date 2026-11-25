@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi TSV sang CSV của Loona",
   "short_name": "Công cụ chuyển đổi TSV sang CSV",
   "description": "Chuyển đổi TSV (giá trị phân tách bằng tab) sang CSV: dán dữ liệu sao chép từ Excel hoặc Sheets và nhận CSV được trích dẫn đúng cách.",
-  "id": "/loona-dev-tools/vi/tsv-to-csv/",
+  "id": "/vi/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

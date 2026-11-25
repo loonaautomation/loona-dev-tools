@@ -2,7 +2,7 @@
   "name": "מחשבון Loona Chmod מקוון בחינם",
   "short_name": "מחשבון Chmod מקוון בחינם",
   "description": "חשבו הרשאות chmod באופן מקוון בחינם: תיבות סימון לאוקטלי (755) ולסמלי (rwxr-xr-x), ואוקטלי בחזרה להרשאות. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/chmod-calculator/",
+  "id": "/he/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

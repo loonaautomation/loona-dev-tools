@@ -2,7 +2,7 @@
   "name": "Loona TOML - JSON Dönüştürücü",
   "short_name": "TOML - JSON Dönüştürücü",
   "description": "TOML değerini çevrimiçi JSON biçimine dönüştürün: tablolar, dizi tabloları, dizeler, sayılar, boolean değerler, diziler ve tarihler (dizeler olarak).",
-  "id": "/loona-dev-tools/tr/toml-to-json/",
+  "id": "/tr/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

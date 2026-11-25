@@ -2,7 +2,7 @@
   "name": "Kodér Loona textu na Base64",
   "short_name": "Kodér textu na Base64",
   "description": "Kódujte text na Base64 online, bezpečné pro UTF-8 pro jakýkoli jazyk a emoji, s volitelnou abecedou bezpečnou pro URL. Zdarma, soukromě, ve vašem prohlížeči.",
-  "id": "/loona-dev-tools/cs/text-to-base64/",
+  "id": "/cs/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

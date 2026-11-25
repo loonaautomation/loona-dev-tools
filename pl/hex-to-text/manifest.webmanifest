@@ -2,7 +2,7 @@
   "name": "Loona Konwerter Hex na tekst",
   "short_name": "Konwerter Hex na tekst",
   "description": "Konwertuj szesnastkowy z powrotem na tekst: wklej bajty hex (rozdzielone spacjami lub ciągłe, z 0x lub bez) i odczytaj tekst UTF-8.",
-  "id": "/loona-dev-tools/pl/hex-to-text/",
+  "id": "/pl/hex-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de entero a dirección IP",
   "short_name": "Entero a dirección IP",
   "description": "Convierte un entero de 32 bits de vuelta en una dirección IPv4 con puntos (3232235521 → 192.168.0.1).",
-  "id": "/loona-dev-tools/es/integer-to-ip/",
+  "id": "/es/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "מחלץ קבצי Loona GZ מקוון בחינם",
   "short_name": "מחלץ קבצי GZ מקוון בחינם",
   "description": "פרסו קובץ .gz בודד ממש בדפדפן שלכם והורידו את הקובץ המקורי - יומנים, ייצואי נתונים, מזבלות מסדי נתונים. שום דבר לא מועלה; הדפדפן שלכם עושה את העבודה באופן מובנה.",
-  "id": "/loona-dev-tools/he/gz-file-extractor/",
+  "id": "/he/gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

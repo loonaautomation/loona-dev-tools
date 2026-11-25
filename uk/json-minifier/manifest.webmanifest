@@ -2,7 +2,7 @@
   "name": "Мінімізатор Loona JSON",
   "short_name": "Мінімізатор JSON",
   "description": "Мінімізуйте JSON онлайн: прибирайте всі незначущі пробільні символи в один компактний рядок, а помилки валідації повідомляються точно.",
-  "id": "/loona-dev-tools/uk/json-minifier/",
+  "id": "/uk/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

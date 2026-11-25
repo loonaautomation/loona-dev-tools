@@ -2,7 +2,7 @@
   "name": "Обяснител на Cron изрази на Loona",
   "short_name": "Обяснител на Cron изрази",
   "description": "Обяснявайте cron изрази на обикновен английски: поставете 5-полеви cron график и прочетете кога се изпълнява, поле по поле.",
-  "id": "/loona-dev-tools/bg/cron-expression-explainer/",
+  "id": "/bg/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

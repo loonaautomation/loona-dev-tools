@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/sha512-hash-generator/",
+  "id": "/en-gb/sha512-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

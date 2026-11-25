@@ -2,7 +2,7 @@
   "name": "Loona Generator Skema JSON-LD Online Gratis",
   "short_name": "Generator Skema JSON-LD",
   "description": "Buat data terstruktur JSON-LD schema.org online secara gratis - Article, LocalBusiness, Product, Event, Recipe, Person, Organization, dan WebSite - sebagai blok skrip siap pakai. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/id/json-ld-schema-generator/",
+  "id": "/id/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JavaScript-minimoija verkossa ilmaiseksi",
   "short_name": "JavaScript-minimoija verkossa",
   "description": "Minifioi JavaScript verkossa ilmaiseksi konservatiivisella tokenisoijalla, joka suojaa merkkijonot, malliliteraalit ja säännölliset lausekkeet. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/javascript-minifier/",
+  "id": "/fi/javascript-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

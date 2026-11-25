@@ -2,7 +2,7 @@
   "name": "Loona tudományos jelölés átalakító",
   "short_name": "Tudományos jelölés átalakító",
   "description": "Alakítson számokat tudományos jelölésre és vissza: 3200000 ⇄ 3.2 × 10^6, az E jelölés mindkét irányban támogatva.",
-  "id": "/loona-dev-tools/hu/scientific-notation-converter/",
+  "id": "/hu/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

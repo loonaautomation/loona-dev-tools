@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi Rem sang Pixel (px) của Loona",
   "short_name": "Công cụ chuyển đổi Rem sang Pixel (px)",
   "description": "Chuyển đổi rem sang px với cỡ chữ cơ sở có thể điều chỉnh (mặc định 16px) và bảng các giá trị phổ biến.",
-  "id": "/loona-dev-tools/vi/rem-to-px-converter/",
+  "id": "/vi/rem-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

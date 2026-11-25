@@ -2,7 +2,7 @@
   "name": "Конвертор от Base64 към изображение на Loona",
   "short_name": "Конвертор от Base64 към изображение",
   "description": "Декодирайте Base64 низ или data URI обратно в изображение, което може да се разглежда и изтегля. MIME типът се разпознава от байтовете.",
-  "id": "/loona-dev-tools/bg/base64-to-image/",
+  "id": "/bg/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona IP-címből egész számmá átalakító",
   "short_name": "IP cím egész számmá",
   "description": "Alakítson egy IPv4 címet a 32 bites egész alakjává (192.168.0.1 → 3232235521), amelyet adatbázisokban és tartomány-ellenőrzésekben használnak.",
-  "id": "/loona-dev-tools/hu/ip-to-integer/",
+  "id": "/hu/ip-to-integer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

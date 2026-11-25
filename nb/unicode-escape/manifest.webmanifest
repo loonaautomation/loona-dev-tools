@@ -2,7 +2,7 @@
   "name": "Loona Unicode-escape-konverterer (\\uXXXX)",
   "short_name": "Unicode-escape-konverterer",
   "description": "Escape tekst til Unicode-escape-sekvenser (\\uXXXX) for JSON, JavaScript, Java og properties-filer. Håndterer emoji via surrogatpar.",
-  "id": "/loona-dev-tools/nb/unicode-escape/",
+  "id": "/nb/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

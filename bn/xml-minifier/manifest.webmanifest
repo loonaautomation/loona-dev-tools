@@ -2,7 +2,7 @@
   "name": "Loona XML মিনিফায়ার",
   "short_name": "XML মিনিফায়ার",
   "description": "অনলাইনে XML মিনিফাই করুন: মন্তব্য ও ট্যাগ-মধ্যের হোয়াইটস্পেস একটি সংক্ষিপ্ত লাইনে ছাঁটুন।",
-  "id": "/loona-dev-tools/bn/xml-minifier/",
+  "id": "/bn/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

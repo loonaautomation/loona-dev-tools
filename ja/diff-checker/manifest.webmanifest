@@ -2,7 +2,7 @@
   "name": "Loona 差分チェッカー 無料オンライン",
   "short_name": "差分チェッカー 無料オンライン",
   "description": "二つのテキストを無料でオンライン比較、行ごとの差分付き：追加された行は緑、削除された行は赤、さらに変更の要約。登録不要、ブラウザ内で100%動作します。",
-  "id": "/loona-dev-tools/ja/diff-checker/",
+  "id": "/ja/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

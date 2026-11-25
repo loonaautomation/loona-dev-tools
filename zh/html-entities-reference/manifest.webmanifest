@@ -2,7 +2,7 @@
   "name": "Loona HTML 实体参考表",
   "short_name": "HTML 实体参考表",
   "description": "必备的 HTML 实体表：开发者实际使用的实体的命名实体、字符、十进制代码和使用说明。",
-  "id": "/loona-dev-tools/zh/html-entities-reference/",
+  "id": "/zh/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

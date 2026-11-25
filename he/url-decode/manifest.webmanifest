@@ -2,7 +2,7 @@
   "name": "Loona פענוח URL (פענוח אחוזים)",
   "short_name": "פענוח כתובת (פענוח-אחוזים)",
   "description": "פענחו כתובות URL ומחרוזות שאילתה מקודדות-אחוזים בחזרה לטקסט קריא, כולל רצפי UTF-8 ו-+ כרווח. מפענח מקוון בחינם.",
-  "id": "/loona-dev-tools/he/url-decode/",
+  "id": "/he/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

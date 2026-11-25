@@ -2,7 +2,7 @@
   "name": "Loona HMAC-SHA256 生成器",
   "short_name": "HMAC-SHA256 生成器",
   "description": "線上生成 HMAC-SHA256 簽名：輸入金鑰和訊息，得到十六進位制 MAC。WebCrypto，完全本地。",
-  "id": "/loona-dev-tools/zh-hant/hmac-sha256-generator/",
+  "id": "/zh-hant/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

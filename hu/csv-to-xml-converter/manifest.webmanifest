@@ -2,7 +2,7 @@
   "name": "Loona CSV-ből XML-be átalakító online ingyen",
   "short_name": "CSV–XML átalakító online",
   "description": "Alakítson CSV-t XML-lé online ingyen, konfigurálható gyökér- és sorelem nevekkel és megfelelő XML escape-eléssel. Regisztráció nélkül, 100%-ban a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/csv-to-xml-converter/",
+  "id": "/hu/csv-to-xml-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

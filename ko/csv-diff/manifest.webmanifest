@@ -2,7 +2,7 @@
   "name": "Loona CSV 비교 & 대조 온라인 무료",
   "short_name": "CSV 비교 & 대조 온라인 무료",
   "description": "두 CSV 파일을 온라인에서 무료로 비교해요 - 행이 키 열로 매칭되어 추가, 제거, 변경(정확한 셀과 함께), 변경 없음으로 분류돼요. 회원가입 없음, 브라우저에서 실행돼요.",
-  "id": "/loona-dev-tools/ko/csv-diff/",
+  "id": "/ko/csv-diff/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

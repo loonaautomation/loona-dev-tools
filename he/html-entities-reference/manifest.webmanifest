@@ -2,7 +2,7 @@
   "name": "טבלת מדריך ישויות HTML של Loona",
   "short_name": "טבלת מדריך ישויות HTML",
   "description": "טבלת ישויות ה-HTML החיוניות: ישות בעלת שם, תו, קוד עשרוני והערות שימוש לישויות שמפתחים באמת משתמשים בהן.",
-  "id": "/loona-dev-tools/he/html-entities-reference/",
+  "id": "/he/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

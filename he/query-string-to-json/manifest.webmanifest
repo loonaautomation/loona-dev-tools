@@ -2,7 +2,7 @@
   "name": "ממיר Loona מחרוזת שאילתה ל-JSON",
   "short_name": "ממיר מחרוזת שאילתה ל-JSON",
   "description": "נתחו מחרוזת שאילתת כתובת ל-JSON: סימון סוגריים הופך לאובייקטים מקוננים, מפתחות חוזרים הופכים למערכים, ערכים מטופסים.",
-  "id": "/loona-dev-tools/he/query-string-to-json/",
+  "id": "/he/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Punycode-kooderi (IDN-verkkotunnusmuunnin)",
   "short_name": "Punycode-kooderi (IDN-verkkotunnus",
   "description": "Muunna kansainvälistettyjä verkkotunnuksia (IDN) punycode xn-- -muotoon: bücher.example muuttuu muotoon xn--bcher-kva.example. Tunnistekohtainen koodaus.",
-  "id": "/loona-dev-tools/fi/punycode-encode/",
+  "id": "/fi/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

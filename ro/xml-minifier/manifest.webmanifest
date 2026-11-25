@@ -2,7 +2,7 @@
   "name": "Minificator XML Loona",
   "short_name": "Minificator XML",
   "description": "Minifică XML online: elimină comentariile și spațiile albe dintre etichete într-o singură linie compactă.",
-  "id": "/loona-dev-tools/ro/xml-minifier/",
+  "id": "/ro/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

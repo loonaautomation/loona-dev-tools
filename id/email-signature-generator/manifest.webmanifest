@@ -2,7 +2,7 @@
   "name": "Loona Generator Tanda Tangan Email HTML Online Gratis",
   "short_name": "Tanda Tangan Email HTML",
   "description": "Buat tanda tangan email HTML profesional online secara gratis - nama, jabatan, perusahaan, telepon, email, dan situs web dalam HTML tabel yang aman untuk email yang berfungsi di Gmail dan Outlook. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/id/email-signature-generator/",
+  "id": "/id/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

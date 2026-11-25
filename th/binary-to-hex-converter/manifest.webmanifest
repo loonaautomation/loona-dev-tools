@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงเลขฐานสองเป็นเลขฐานสิบหก",
   "short_name": "เลขฐานสองเป็นเลขฐานสิบหก",
   "description": "แปลงตัวเลขฐานสองเป็นเลขฐานสิบหกออนไลน์ — ความแม่นยำไม่จำกัด (BigInt) รองรับจำนวนลบ",
-  "id": "/loona-dev-tools/th/binary-to-hex-converter/",
+  "id": "/th/binary-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generator Sitemap XML Online Gratis",
   "short_name": "Generator Sitemap XML Online",
   "description": "Buat sitemap XML yang valid online secara gratis dari daftar URL, dengan lastmod, changefreq, dan priority default, escape URL dan XML yang benar. Tanpa pendaftaran, berjalan di browser Anda.",
-  "id": "/loona-dev-tools/id/xml-sitemap-generator/",
+  "id": "/id/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

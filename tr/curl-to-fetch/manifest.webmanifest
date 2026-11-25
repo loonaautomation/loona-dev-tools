@@ -2,7 +2,7 @@
   "name": "Loona cURL - Fetch Dönüştürücü",
   "short_name": "cURL - Fetch Dönüştürücü",
   "description": "Bir cURL komutunu JavaScript fetch() koduna dönüştürün: başlıklar, yöntem, veri, basic auth ve --json işlenir.",
-  "id": "/loona-dev-tools/tr/curl-to-fetch/",
+  "id": "/tr/curl-to-fetch/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

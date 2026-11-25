@@ -2,7 +2,7 @@
   "name": "Loona Rem to Pixels (px) Converter",
   "short_name": "Rem to Pixels (px) Converter",
   "description": "Convert rem to px with an adjustable base font size (default 16px) and a table of common values.",
-  "id": "/loona-dev-tools/rem-to-px-converter/",
+  "id": "/rem-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

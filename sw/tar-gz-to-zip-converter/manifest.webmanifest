@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha TAR.GZ kwenda ZIP Bure Mtandaoni",
   "short_name": "Kibadilishaji cha TAR.GZ kwenda ZIP",
   "description": "Badilisha hifadhi ya TAR.GZ (.tar.gz au .tgz) kuwa faili ya ZIP moja kwa moja kwenye kivinjari chako. Tabaka zote mbili - gzip na tar - huteguliwa kwenye kifaa chako na faili hupakiwa upya kama ZIP moja. Hakuna kinachopakiwa.",
-  "id": "/loona-dev-tools/sw/tar-gz-to-zip-converter/",
+  "id": "/sw/tar-gz-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

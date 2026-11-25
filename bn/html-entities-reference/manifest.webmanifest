@@ -2,7 +2,7 @@
   "name": "Loona HTML এনটিটি রেফারেন্স টেবিল",
   "short_name": "HTML এনটিটি রেফারেন্স টেবিল",
   "description": "প্রয়োজনীয় HTML এনটিটি টেবিল: নামযুক্ত এনটিটি, অক্ষর, দশমিক কোড ও ডেভেলপাররা আসলে ব্যবহার করা এনটিটির জন্য ব্যবহার নোট।",
-  "id": "/loona-dev-tools/bn/html-entities-reference/",
+  "id": "/bn/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

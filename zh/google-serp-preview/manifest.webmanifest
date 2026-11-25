@@ -2,7 +2,7 @@
   "name": "Loona Google SERP 预览工具 在线免费",
   "short_name": "Google SERP 预览工具",
   "description": "在线免费预览您的页面标题和元描述在 Google 搜索结果中的样子，带桌面和移动视图以及像素宽度截断警告。无需注册。",
-  "id": "/loona-dev-tools/zh/google-serp-preview/",
+  "id": "/zh/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

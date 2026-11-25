@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/query-string-to-json/",
+  "id": "/en-gb/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

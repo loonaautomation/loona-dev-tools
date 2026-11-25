@@ -2,7 +2,7 @@
   "name": "מעצב Loona JSON מקוון בחינם",
   "short_name": "מעצב JSON מקוון בחינם",
   "description": "עצבו, אמתו ומזערו JSON באופן מקוון בחינם, עם השורה והעמודה המדויקות של כל שגיאה. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/json-formatter/",
+  "id": "/he/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

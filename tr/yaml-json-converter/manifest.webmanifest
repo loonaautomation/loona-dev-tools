@@ -2,7 +2,7 @@
   "name": "Loona YAML - JSON Dönüştürücü Çevrimiçi Ücretsiz",
   "short_name": "YAML - JSON Dönüştürücü Çevrimiçi",
   "description": "YAML değerini JSON ve JSON değerini YAML biçimine çevrimiçi ücretsiz dönüştürün. Günlük alt kümeyi destekler: iç içe eşlemeler, listeler ve skalerler, sınırlar dürüstçe belirtilerek. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/yaml-json-converter/",
+  "id": "/tr/yaml-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

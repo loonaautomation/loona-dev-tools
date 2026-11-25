@@ -2,7 +2,7 @@
   "name": "Loona Meta-tunnistegeneraattori verkossa ilmaiseksi",
   "short_name": "Meta-tunnistegeneraattori verkossa ilmaiseksi",
   "description": "Luo HTML-meta-tunnisteita verkossa ilmaiseksi - otsikko, kuvaus, avainsanat, tekijä, robots ja canonical - elävällä Google-tyylisellä SERP-esikatselulla ja merkkimäärillä. Ei rekisteröitymistä.",
-  "id": "/loona-dev-tools/fi/meta-tag-generator/",
+  "id": "/fi/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

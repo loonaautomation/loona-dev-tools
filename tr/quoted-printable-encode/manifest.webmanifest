@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable Kodlayıcı",
   "short_name": "Quoted-Printable Kodlayıcı",
   "description": "Metni çevrimiçi quoted-printable (MIME) olarak kodlayın: UTF-8 baytları =XX kaçışları olarak, 76 karakterde yumuşak satır sonları, RFC 2045 uyarınca.",
-  "id": "/loona-dev-tools/tr/quoted-printable-encode/",
+  "id": "/tr/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

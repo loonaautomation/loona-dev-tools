@@ -2,7 +2,7 @@
   "name": "Loona szemantikus verzió összehasonlító",
   "short_name": "Szemantikus verzió összehasonlító",
   "description": "Szemantikus verziók validálása és összehasonlítása (MAJOR.MINOR.PATCH): melyik újabb, és milyen fajta változás választja el őket.",
-  "id": "/loona-dev-tools/hu/semver-comparator/",
+  "id": "/hu/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

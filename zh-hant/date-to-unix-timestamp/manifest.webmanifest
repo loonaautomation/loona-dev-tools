@@ -2,7 +2,7 @@
   "name": "Loona 日期轉 Unix 時間戳轉換器",
   "short_name": "日期轉 Unix 時間戳",
   "description": "把日期和時間轉換成以秒和毫秒為單位的 Unix 時間戳，使用 UTC 或您的本地時區。",
-  "id": "/loona-dev-tools/zh-hant/date-to-unix-timestamp/",
+  "id": "/zh-hant/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

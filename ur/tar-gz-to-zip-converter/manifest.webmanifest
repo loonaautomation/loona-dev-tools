@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ سے ZIP کنورٹر آن لائن مفت",
   "short_name": "TAR.GZ سے ZIP کنورٹر",
   "description": "ایک TAR.GZ (.tar.gz یا .tgz) آرکائیو کو عین اپنے براؤزر میں ایک ZIP فائل میں بدلیں۔ دونوں تہیں - gzip اور tar - آپ کے آلے پر کھولی جاتی ہیں اور فائلیں ایک ZIP کے طور پر دوبارہ پیک ہوتی ہیں۔ کچھ اپ لوڈ نہیں ہوتا۔",
-  "id": "/loona-dev-tools/ur/tar-gz-to-zip-converter/",
+  "id": "/ur/tar-gz-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

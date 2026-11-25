@@ -2,7 +2,7 @@
   "name": "Loona UUID生成ツール 無料オンライン",
   "short_name": "UUID生成ツール 無料オンライン",
   "description": "ランダムなバージョン4 UUIDを無料でオンライン生成します。単一または最大100個まで一括、大文字とハイフンなしのオプション付きです。暗号学的にランダム、ブラウザで完結します。",
-  "id": "/loona-dev-tools/ja/uuid-generator/",
+  "id": "/ja/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

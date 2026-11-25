@@ -2,7 +2,7 @@
   "name": "Генератор на JSON-LD схеми на Loona онлайн безплатно",
   "short_name": "Генератор на JSON-LD схеми",
   "description": "Генерирайте безплатно онлайн структурирани данни schema.org JSON-LD - Article, LocalBusiness, Product, Event, Recipe, Person, Organization и WebSite - като готов скриптов блок. Без регистрация.",
-  "id": "/loona-dev-tools/bg/json-ld-schema-generator/",
+  "id": "/bg/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

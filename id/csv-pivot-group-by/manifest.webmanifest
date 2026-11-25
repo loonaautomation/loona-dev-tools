@@ -2,7 +2,7 @@
   "name": "Loona Pivot & Group-By CSV Online Gratis",
   "short_name": "Pivot & Group-By CSV Online",
   "description": "Pivot data CSV online gratis - kelompokkan baris berdasarkan kolom apa pun dan hitung jumlah, hitung, rata-rata, minimum, atau maksimum kolom nilai. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-dev-tools/id/csv-pivot-group-by/",
+  "id": "/id/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "מקודד Loona טקסט ל-Base58",
   "short_name": "מקודד טקסט ל-Base58",
   "description": "קודדו טקסט ל-Base58 (אלפבית Bitcoin) באופן מקוון — בלי 0, O, I או l, הקידוד של כתובות Bitcoin וגיבובי IPFS.",
-  "id": "/loona-dev-tools/he/text-to-base58/",
+  "id": "/he/text-to-base58/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Prevodník Loona CSV na YAML",
   "short_name": "Prevodník CSV na YAML",
   "description": "Preveďte tabuľky CSV na YAML: riadok hlavičky sa stane kľúčmi, každý riadok položkou v zozname YAML, čísla typované.",
-  "id": "/loona-dev-tools/sk/csv-to-yaml/",
+  "id": "/sk/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

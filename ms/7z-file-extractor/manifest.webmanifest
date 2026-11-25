@@ -2,7 +2,7 @@
   "name": "Loona Pengekstrak Fail 7Z Dalam Talian Percuma",
   "short_name": "Pengekstrak Fail 7Z Dalam Talian Percuma",
   "description": "Buka arkib 7z langsung di pelayar Anda - lihat setiap fail di dalamnya, muat turun fail tunggal atau semuanya sebagai ZIP. Tidak ada yang dimuat naik; ekstraksi terjadi di peranti Anda dengan enjin WebAssembly.",
-  "id": "/loona-dev-tools/ms/7z-file-extractor/",
+  "id": "/ms/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

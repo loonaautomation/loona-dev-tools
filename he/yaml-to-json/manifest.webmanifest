@@ -2,7 +2,7 @@
   "name": "ממיר Loona YAML ל-JSON",
   "short_name": "ממיר YAML ל-JSON",
   "description": "המירו YAML ל-JSON באופן מקוון: מיפויי בלוק ורצפים, סקלרים במרכאות ופשוטים, אוספי זרימה. תת-הקבוצה מתועדת בכנות.",
-  "id": "/loona-dev-tools/he/yaml-to-json/",
+  "id": "/he/yaml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

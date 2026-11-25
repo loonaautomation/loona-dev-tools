@@ -2,7 +2,7 @@
   "name": "Loona JWT dekoder na mreži besplatno",
   "short_name": "JWT dekoder na mreži besplatno",
   "description": "Dekodirajte JSON Web Token na mreži besplatno - pročitajte zaglavlje i korisni teret kao lijepi JSON i vidite istjecanje običnim riječima. Potpis NIJE provjeren. U vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/jwt-decoder/",
+  "id": "/hr/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

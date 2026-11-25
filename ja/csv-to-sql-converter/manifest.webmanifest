@@ -2,7 +2,7 @@
   "name": "Loona CSV→SQL変換ツール 無料オンライン",
   "short_name": "CSV→SQL変換ツール オンライン",
   "description": "CSVをSQLに無料でオンライン変換 — 推測された列の型を持つ CREATE TABLE に加え、行ごとに一つの INSERT を、MySQL、PostgreSQL、SQLite向けに。登録不要、ブラウザ内で100%動作します。",
-  "id": "/loona-dev-tools/ja/csv-to-sql-converter/",
+  "id": "/ja/csv-to-sql-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

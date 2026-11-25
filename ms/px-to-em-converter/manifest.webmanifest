@@ -2,7 +2,7 @@
   "name": "Loona Penukar Piksel (px) ke Em",
   "short_name": "Penukar Piksel (px) ke Em",
   "description": "Penukaran px ke em dengan saiz fon dasar yang dapat disesuaikan (default 16px) dan jadual nilai umum.",
-  "id": "/loona-dev-tools/ms/px-to-em-converter/",
+  "id": "/ms/px-to-em-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

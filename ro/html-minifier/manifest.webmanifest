@@ -2,7 +2,7 @@
   "name": "Minificator HTML Loona",
   "short_name": "Minificator HTML",
   "description": "Minifică HTML online: elimină comentariile și restrânge spațiile albe protejând conținutul pre, textarea, script și style.",
-  "id": "/loona-dev-tools/ro/html-minifier/",
+  "id": "/ro/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

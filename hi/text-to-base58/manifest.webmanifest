@@ -2,7 +2,7 @@
   "name": "Loona Text से Base58 एनकोडर",
   "short_name": "Text से Base58 एनकोडर",
   "description": "Text को Base58 (Bitcoin alphabet) में ऑनलाइन encode करें — कोई 0, O, I या l नहीं, Bitcoin addresses और IPFS hashes की encoding।",
-  "id": "/loona-dev-tools/hi/text-to-base58/",
+  "id": "/hi/text-to-base58/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Verificador de Legibilidade SEO Online Grátis",
   "short_name": "Verificador de Legibilidade SEO",
   "description": "Verifique a legibilidade de conteúdo para SEO online grátis - pontuações Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG e ARI, mais estatísticas de comprimento de frases para texto web. Sem registo.",
-  "id": "/loona-dev-tools/pt/readability-checker/",
+  "id": "/pt/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

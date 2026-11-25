@@ -2,7 +2,7 @@
   "name": "Loona 7Z→TAR変換ツール",
   "short_name": "7Z→TAR変換ツール",
   "description": "7ZアーカイブをオンラインでTARに変換：libarchive（WebAssembly）が7Zを読み取り、ustarライターが詰め直します。プライベートでローカルです。",
-  "id": "/loona-dev-tools/ja/7z-to-tar-converter/",
+  "id": "/ja/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona forespørgselsstreng til JSON-konverter",
   "short_name": "Forespørgselsstreng til JSON-konverter",
   "description": "Parse en URL-forespørgselsstreng til JSON: parentesnotation bliver til indlejrede objekter, gentagne nøgler bliver til arrays, værdier typet.",
-  "id": "/loona-dev-tools/da/query-string-to-json/",
+  "id": "/da/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

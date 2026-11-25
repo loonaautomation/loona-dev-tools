@@ -2,7 +2,7 @@
   "name": "Loona MIME-typsreferens (Content Types efter",
   "short_name": "MIME-typsreferens (Content",
   "description": "Vanliga MIME-typer efter filändelse: dokument, bilder, ljud, video, arkiv, typsnitt och webbformat med deras Content-Type-värden.",
-  "id": "/loona-dev-tools/sv/mime-types-reference/",
+  "id": "/sv/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Google-SERP-Vorschau-Tool online kostenlos",
   "short_name": "Google-SERP-Vorschau-Tool",
   "description": "Sehen Sie sich kostenlos online in der Vorschau an, wie Ihr Seitentitel und Ihre Meta-Beschreibung in Google-Suchergebnissen aussehen werden, mit Desktop- und Mobilansichten und Warnungen zur Abschneidung nach Pixelbreite. Keine Registrierung.",
-  "id": "/loona-dev-tools/de/google-serp-preview/",
+  "id": "/de/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

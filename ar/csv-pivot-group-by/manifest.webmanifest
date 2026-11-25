@@ -2,7 +2,7 @@
   "name": "Loona جدول محوري وتجميع CSV عبر الإنترنت مجاناً",
   "short_name": "جدول محوري وتجميع CSV عبر الإنترنت",
   "description": "حوّل بيانات CSV محورياً عبر الإنترنت مجاناً - جمّع الصفوف حسب أي عمود واحسب المجموع أو العدد أو المتوسط أو الأدنى أو الأقصى لعمود قيم. دون تسجيل، يعمل 100% في متصفحك.",
-  "id": "/loona-dev-tools/ar/csv-pivot-group-by/",
+  "id": "/ar/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

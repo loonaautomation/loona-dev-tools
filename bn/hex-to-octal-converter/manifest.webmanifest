@@ -2,7 +2,7 @@
   "name": "Loona হেক্সাডেসিমাল থেকে অক্টাল কনভার্টার",
   "short_name": "হেক্সাডেসিমাল থেকে অক্টাল কনভার্টার",
   "description": "অনলাইনে হেক্সাডেসিমাল সংখ্যা অক্টালে রূপান্তর করুন — নির্বিচারে নির্ভুলতা (BigInt), ঋণাত্মক সংখ্যা সমর্থিত।",
-  "id": "/loona-dev-tools/bn/hex-to-octal-converter/",
+  "id": "/bn/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

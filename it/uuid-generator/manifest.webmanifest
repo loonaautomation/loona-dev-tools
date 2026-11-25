@@ -2,7 +2,7 @@
   "name": "Loona Generatore UUID online gratuito",
   "short_name": "Generatore UUID online gratuito",
   "description": "Genera UUID versione 4 casuali online gratuitamente - singolo o in blocco fino a 100, opzioni maiuscole e senza trattini. Crittograficamente casuale, nel tuo browser.",
-  "id": "/loona-dev-tools/it/uuid-generator/",
+  "id": "/it/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

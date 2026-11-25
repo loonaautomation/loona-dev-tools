@@ -2,7 +2,7 @@
   "name": "Loona User-Agent-merkkijonon jäsennin",
   "short_name": "User Agent -merkkijonojäsennin",
   "description": "Jäsennä selaimen User-Agent-merkkijono selaimeksi, moottoriksi, käyttöjärjestelmäksi ja laitetyypiksi läpinäkyvällä sääntöpohjaisella jäsentimellä.",
-  "id": "/loona-dev-tools/fi/user-agent-parser/",
+  "id": "/fi/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

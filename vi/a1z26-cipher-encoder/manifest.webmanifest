@@ -2,7 +2,7 @@
   "name": "Công cụ mã hóa mật mã A1Z26 của Loona (Chữ cái sang số)",
   "short_name": "Công cụ mã hóa mật mã A1Z26 (Chữ cái",
   "description": "Mã hóa văn bản bằng mật mã A1Z26: A=1, B=2 ... Z=26. Mã câu đố và phòng thoát hiểm kinh điển.",
-  "id": "/loona-dev-tools/vi/a1z26-cipher-encoder/",
+  "id": "/vi/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

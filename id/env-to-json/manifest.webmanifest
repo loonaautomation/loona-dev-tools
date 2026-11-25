@@ -2,7 +2,7 @@
   "name": "Loona Konverter .env ke JSON",
   "short_name": "Konverter .env ke JSON",
   "description": "Parse file .env menjadi JSON: baris KEY=value, awalan export, komentar, dan nilai yang dikutip ditangani.",
-  "id": "/loona-dev-tools/id/env-to-json/",
+  "id": "/id/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

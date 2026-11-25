@@ -2,7 +2,7 @@
   "name": "Loona Punycode-dekoder (xn-- til Unicode-domæne)",
   "short_name": "Punycode-dekoder (xn-- til",
   "description": "Afkod xn--punycode-domæner tilbage til deres Unicode-form — tjek, hvad et internationaliseret domæne virkelig siger.",
-  "id": "/loona-dev-tools/da/punycode-decode/",
+  "id": "/da/punycode-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

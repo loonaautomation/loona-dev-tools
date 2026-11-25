@@ -2,7 +2,7 @@
   "name": "Loona HMAC-SHA256生成ツール",
   "short_name": "HMAC-SHA256生成ツール",
   "description": "HMAC-SHA256署名をオンラインで生成します。キーとメッセージを入力すると、十六進数のMACが得られます。WebCrypto、完全ローカルです。",
-  "id": "/loona-dev-tools/ja/hmac-sha256-generator/",
+  "id": "/ja/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Base64 til billede-konverter",
   "short_name": "Base64 til billedkonverter",
   "description": "Afkod en Base64-streng eller data-URI tilbage til et billede, der kan ses og downloades. MIME-type registreres ud fra bytesene.",
-  "id": "/loona-dev-tools/da/base64-to-image/",
+  "id": "/da/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Open Graph és Twitter Card generátor",
   "short_name": "Open Graph és Twitter Card",
   "description": "Generáljon Open Graph és Twitter Card meta címkéket online ingyen, élő közösségi kártya előnézettel - cím, leírás, kép, URL és webhelynév. Regisztráció nélkül, a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/open-graph-generator/",
+  "id": "/hu/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

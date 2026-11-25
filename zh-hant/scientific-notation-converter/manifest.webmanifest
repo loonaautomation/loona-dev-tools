@@ -2,7 +2,7 @@
   "name": "Loona 科學記數法轉換器",
   "short_name": "科學計數法轉換器",
   "description": "把數字與科學記數法互相轉換：3200000 ⇄ 3.2 × 10^6，雙向支援 E 記法。",
-  "id": "/loona-dev-tools/zh-hant/scientific-notation-converter/",
+  "id": "/zh-hant/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

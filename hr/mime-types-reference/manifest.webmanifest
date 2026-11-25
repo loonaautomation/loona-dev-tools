@@ -2,7 +2,7 @@
   "name": "Loona priručnik MIME vrsta (vrste sadržaja prema",
   "short_name": "Priručnik MIME vrsta (sadržaj",
   "description": "Uobičajene MIME vrste prema ekstenziji datoteke: dokumenti, slike, zvuk, video, arhive, fontovi i web formati s njihovim vrijednostima Content-Type.",
-  "id": "/loona-dev-tools/hr/mime-types-reference/",
+  "id": "/hr/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

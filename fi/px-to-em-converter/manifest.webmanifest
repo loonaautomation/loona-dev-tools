@@ -2,7 +2,7 @@
   "name": "Loona Pikseli (px) -Em-muunnin",
   "short_name": "Pikseli (px) -Em-muunnin",
   "description": "Muunna px em:ksi säädettävällä perusfonttikoolla (oletus 16px) ja yleisten arvojen taulukolla.",
-  "id": "/loona-dev-tools/fi/px-to-em-converter/",
+  "id": "/fi/px-to-em-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

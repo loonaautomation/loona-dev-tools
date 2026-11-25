@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da tabella Markdown a CSV",
   "short_name": "Da tabella Markdown a CSV",
   "description": "Converti una tabella Markdown in CSV: intestazione e righe estratte, riga di allineamento rimossa, celle rifilate e tra virgolette correttamente.",
-  "id": "/loona-dev-tools/it/markdown-table-to-csv/",
+  "id": "/it/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

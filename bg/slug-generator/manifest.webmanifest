@@ -2,7 +2,7 @@
   "name": "Генератор на Slug на Loona (създател на URL slug)",
   "short_name": "Генератор на slug (URL Slug",
   "description": "Генерирайте чисти URL slugs от заглавия: ударенията премахнати, малки букви, интервалите в тирета (или долни черти). Безплатен създател на slugs.",
-  "id": "/loona-dev-tools/bg/slug-generator/",
+  "id": "/bg/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Генератор Lorem Ipsum",
   "short_name": "Генератор Lorem Ipsum",
   "description": "Генерируйте текст-заполнитель Lorem Ipsum: выберите абзацы, предложения или слова, с классической начальной строкой по желанию.",
-  "id": "/loona-dev-tools/ru/lorem-ipsum-generator/",
+  "id": "/ru/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

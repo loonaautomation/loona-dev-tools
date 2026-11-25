@@ -2,7 +2,7 @@
   "name": "Loona হেক্সাডেসিমাল থেকে বাইনারি কনভার্টার",
   "short_name": "হেক্সাডেসিমাল থেকে বাইনারি",
   "description": "অনলাইনে হেক্সাডেসিমাল সংখ্যা বাইনারিতে রূপান্তর করুন — নির্বিচারে নির্ভুলতা (BigInt), ঋণাত্মক সংখ্যা সমর্থিত।",
-  "id": "/loona-dev-tools/bn/hex-to-binary-converter/",
+  "id": "/bn/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

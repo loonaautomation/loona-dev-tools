@@ -2,7 +2,7 @@
   "name": "Dekodér Loona JWT online zdarma",
   "short_name": "Dekodér JWT online zdarma",
   "description": "Dekódujte JSON Web Token online zdarma - přečtěte si záhlaví a užitečné zatížení jako hezký JSON a uvidíte vypršení srozumitelnými slovy. Podpis NENÍ ověřen. Ve vašem prohlížeči.",
-  "id": "/loona-dev-tools/cs/jwt-decoder/",
+  "id": "/cs/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

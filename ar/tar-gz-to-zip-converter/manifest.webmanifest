@@ -2,7 +2,7 @@
   "name": "Loona محوّل TAR.GZ إلى ZIP عبر الإنترنت مجاناً",
   "short_name": "محوّل TAR.GZ إلى ZIP",
   "description": "حوّل أرشيف TAR.GZ ‏(.tar.gz أو .tgz) إلى ملف ZIP في متصفحك مباشرة. تُفكّ الطبقتان - gzip وtar - على جهازك وتُعاد حزم الملفات كـ ZIP واحد. لا يُرفع شيء.",
-  "id": "/loona-dev-tools/ar/tar-gz-to-zip-converter/",
+  "id": "/ar/tar-gz-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

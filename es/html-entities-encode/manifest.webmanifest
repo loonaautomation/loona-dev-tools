@@ -2,7 +2,7 @@
   "name": "Loona Codificador de entidades HTML",
   "short_name": "Codificador de entidades HTML",
   "description": "Codifica caracteres especiales como entidades HTML: referencias con nombre (&copy;), decimales o hexadecimales numéricas. Escapa marcado, comillas y texto no ASCII.",
-  "id": "/loona-dev-tools/es/html-entities-encode/",
+  "id": "/es/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

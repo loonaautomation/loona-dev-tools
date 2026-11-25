@@ -2,7 +2,7 @@
   "name": "Loona شارح تعبيرات Cron",
   "short_name": "شارح تعبيرات Cron",
   "description": "اشرح تعبيرات cron بلغة عربية بسيطة: الصق جدول cron من 5 حقول واقرأ متى يعمل، حقلاً بحقل.",
-  "id": "/loona-dev-tools/ar/cron-expression-explainer/",
+  "id": "/ar/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

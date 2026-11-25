@@ -2,7 +2,7 @@
   "name": "Loona فاحص سهولة القراءة لـ SEO عبر الإنترنت مجاناً",
   "short_name": "فاحص قابلية قراءة SEO",
   "description": "افحص قابلية قراءة المحتوى لـ SEO عبر الإنترنت مجاناً - درجات Flesch وFlesch-Kincaid وGunning Fog وColeman-Liau وSMOG وARI زائد إحصاءات طول الجمل لنصوص الويب. دون تسجيل.",
-  "id": "/loona-dev-tools/ar/readability-checker/",
+  "id": "/ar/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

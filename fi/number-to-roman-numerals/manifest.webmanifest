@@ -2,7 +2,7 @@
   "name": "Loona Luvut roomalaisiksi numeroiksi",
   "short_name": "Luvut roomalaisiksi numeroiksi",
   "description": "Muunna lukuja (1–3999) roomalaisiksi numeroiksi tavallisessa vähentävässä muodossa. Ilmainen verkkmuunnin.",
-  "id": "/loona-dev-tools/fi/number-to-roman-numerals/",
+  "id": "/fi/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

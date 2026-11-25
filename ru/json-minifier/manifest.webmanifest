@@ -2,7 +2,7 @@
   "name": "Loona Минификатор JSON",
   "short_name": "Минификатор JSON",
   "description": "Минифицируйте JSON онлайн: убирайте все незначимые пробелы в одну компактную строку, с точным указанием ошибок проверки.",
-  "id": "/loona-dev-tools/ru/json-minifier/",
+  "id": "/ru/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

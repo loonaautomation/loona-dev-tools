@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ-tiedostopurkaja verkossa ilmaiseksi",
   "short_name": "TAR.GZ-tiedostopurkaja verkossa",
   "description": "Avaa tar.gz-arkistoja suoraan selaimessasi - sekä .tar.gz että lyhyt .tgz-nimi - katso jokainen sisällä oleva tiedosto ja lataa yksittäisiä tiedostoja tai kaikki ZIPinä. Mitään ei lähetetä palvelimelle.",
-  "id": "/loona-dev-tools/fi/tar-gz-file-extractor/",
+  "id": "/fi/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

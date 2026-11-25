@@ -2,7 +2,7 @@
   "name": "Loona Punycode 解碼器（xn-- 轉 Unicode 域名）",
   "short_name": "Punycode 解碼器（xn-- 轉",
   "description": "把 xn-- punycode 域名解碼回它們的 Unicode 形式——核查一個國際化域名到底寫的是什麼。",
-  "id": "/loona-dev-tools/zh-hant/punycode-decode/",
+  "id": "/zh-hant/punycode-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

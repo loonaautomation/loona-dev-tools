@@ -2,7 +2,7 @@
   "name": "Loona HTML-minifier",
   "short_name": "HTML-minifier",
   "description": "Minificeer HTML online: verwijder opmerkingen en vouw witruimte samen terwijl pre-, textarea-, script- en style-inhoud beschermd blijft.",
-  "id": "/loona-dev-tools/nl/html-minifier/",
+  "id": "/nl/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

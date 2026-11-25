@@ -2,7 +2,7 @@
   "name": "Loona ISO فائل ایکسٹریکٹر آن لائن مفت",
   "short_name": "ISO فائل ایکسٹریکٹر آن لائن مفت",
   "description": "ISO ڈسک امیجز عین اپنے براؤزر میں کھولیں - ورچوئل ڈسک پر محفوظ فائل سسٹم براؤز کریں اور واحد فائلیں یا سب کچھ بطور ZIP ڈاؤن لوڈ کریں۔ کچھ اپ لوڈ نہیں ہوتا۔",
-  "id": "/loona-dev-tools/ur/iso-file-extractor/",
+  "id": "/ur/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

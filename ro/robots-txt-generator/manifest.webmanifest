@@ -2,7 +2,7 @@
   "name": "Generator Robots.txt Loona online gratuit",
   "short_name": "Generator Robots.txt online",
   "description": "Generează un robots.txt valid online gratuit - presetări, reguli de permitere și interzicere per agent, linie sitemap și verificări de sănătate a sintaxei încorporate. Fără înregistrare, rulează în browserul tău.",
-  "id": "/loona-dev-tools/ro/robots-txt-generator/",
+  "id": "/ro/robots-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

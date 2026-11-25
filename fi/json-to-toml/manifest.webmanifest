@@ -2,7 +2,7 @@
   "name": "Loona JSON-TOML-muunnin",
   "short_name": "JSON-TOML-muunnin",
   "description": "Muunna JSON TOML:iksi verkossa: skalaarit ensin, sisäkkäiset objektit [taulukoina], objektitaulukot [[taulukoina]].",
-  "id": "/loona-dev-tools/fi/json-to-toml/",
+  "id": "/fi/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

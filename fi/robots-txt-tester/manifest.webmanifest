@@ -2,7 +2,7 @@
   "name": "Loona Robots.txt-testaaja verkossa ilmaiseksi",
   "short_name": "Robots.txt-testaaja verkossa ilmaiseksi",
   "description": "Testaa robots.txt verkossa ilmaiseksi - liitä tiedosto, URL ja user-agent, ja saat sallittu- tai estetty-tuomion täsmälleen täsmäävän säännön kera. Ei rekisteröitymistä, toimii selaimessasi.",
-  "id": "/loona-dev-tools/fi/robots-txt-tester/",
+  "id": "/fi/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

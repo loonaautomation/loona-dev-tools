@@ -2,7 +2,7 @@
   "name": "Extracteur de fichiers ISO Loona en ligne gratuit",
   "short_name": "Extracteur de fichiers ISO en ligne gratuit",
   "description": "Ouvrez les images de disques ISO directement dans votre navigateur - parcourez le système de fichiers stocké sur le disque virtuel et téléchargez des fichiers uniques ou tout en un ZIP. Rien n’est téléversé.",
-  "id": "/loona-dev-tools/fr/iso-file-extractor/",
+  "id": "/fr/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

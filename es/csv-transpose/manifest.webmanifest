@@ -2,7 +2,7 @@
   "name": "Loona Transposición de CSV en línea gratis",
   "short_name": "Transposición de CSV en línea gratis",
   "description": "Transpone CSV en línea gratis: intercambia filas y columnas con un analizador RFC 4180 adecuado que maneja los campos entrecomillados correctamente. Sin registro, funciona 100% en tu navegador.",
-  "id": "/loona-dev-tools/es/csv-transpose/",
+  "id": "/es/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

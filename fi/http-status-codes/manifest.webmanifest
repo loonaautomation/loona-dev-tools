@@ -2,7 +2,7 @@
   "name": "Loona HTTP-tilakoodiviite",
   "short_name": "HTTP-tilakoodiviite",
   "description": "Jokainen yleinen HTTP-tilakoodi merkityksineen: 2xx onnistuminen, 3xx uudelleenohjaukset, 4xx asiakasvirheet, 5xx palvelinvirheet — selitetty selkeästi.",
-  "id": "/loona-dev-tools/fi/http-status-codes/",
+  "id": "/fi/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

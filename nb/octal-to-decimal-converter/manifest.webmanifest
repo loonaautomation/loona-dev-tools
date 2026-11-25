@@ -2,7 +2,7 @@
   "name": "Loona oktal til desimal-konverterer",
   "short_name": "Oktal til desimal-konverterer",
   "description": "Konverter oktale tall til desimal på nett — vilkårlig presisjon (BigInt), negative tall støttes.",
-  "id": "/loona-dev-tools/nb/octal-to-decimal-converter/",
+  "id": "/nb/octal-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

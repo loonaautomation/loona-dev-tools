@@ -2,7 +2,7 @@
   "name": "Loona JWT-dekooderi verkossa ilmaiseksi",
   "short_name": "JWT-dekooderi verkossa ilmaiseksi",
   "description": "Pura JSON Web Token verkossa ilmaiseksi — lue otsikko ja sisältö siistinä JSON:ina ja näe vanheneminen selkosanoin. Allekirjoitusta EI varmenneta. Selaimessasi.",
-  "id": "/loona-dev-tools/fi/jwt-decoder/",
+  "id": "/fi/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

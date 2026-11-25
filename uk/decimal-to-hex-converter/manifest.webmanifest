@@ -2,7 +2,7 @@
   "name": "Конвертер Loona десяткової в шістнадцяткову",
   "short_name": "Десяткова в шістнадцяткову",
   "description": "Конвертуйте десяткові числа в шістнадцяткові онлайн — довільна точність (BigInt), від’ємні числа підтримуються.",
-  "id": "/loona-dev-tools/uk/decimal-to-hex-converter/",
+  "id": "/uk/decimal-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Generador de hashes SHA-384",
   "short_name": "Generador de hashes SHA-384",
   "description": "Calcula hashes SHA-384 de texto o archivos en línea: 384 bits, 96 caracteres hexadecimales. Funciona localmente en tu navegador con WebCrypto/JS puro: los archivos nunca se suben.",
-  "id": "/loona-dev-tools/es/sha384-hash-generator/",
+  "id": "/es/sha384-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

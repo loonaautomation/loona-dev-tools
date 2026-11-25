@@ -2,7 +2,7 @@
   "name": "Loona JSON-LD Şema Oluşturucu Çevrimiçi Ücretsiz",
   "short_name": "JSON-LD Şema Oluşturucu",
   "description": "schema.org JSON-LD yapısal verisini çevrimiçi ücretsiz oluşturun - Article, LocalBusiness, Product, Event, Recipe, Person, Organization ve WebSite - hazır bir script bloğu olarak. Kayıt gerekmez.",
-  "id": "/loona-dev-tools/tr/json-ld-schema-generator/",
+  "id": "/tr/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

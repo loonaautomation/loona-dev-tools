@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha JSON kwenda Dataclass ya Python",
   "short_name": "JSON kwenda Dataclass ya Python",
   "description": "Badilisha JSON kuwa dataclass za Python na vidokezo vya aina: vitu vilivyoingiliana huwa dataclass zilizoingiliana, aina za List kwa safu.",
-  "id": "/loona-dev-tools/sw/json-to-python-dataclass/",
+  "id": "/sw/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

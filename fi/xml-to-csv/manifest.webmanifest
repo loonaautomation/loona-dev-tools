@@ -2,7 +2,7 @@
   "name": "Loona XML-CSV-muunnin",
   "short_name": "XML-CSV-muunnin",
   "description": "Muunna XML CSV:ksi: toistuvat elementit muuttuvat riveiksi, niiden lapset ja attribuutit sarakkeiksi. Ilmainen verkkmuunnin.",
-  "id": "/loona-dev-tools/fi/xml-to-csv/",
+  "id": "/fi/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

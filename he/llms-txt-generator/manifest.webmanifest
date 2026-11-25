@@ -2,7 +2,7 @@
   "name": "מחולל Loona llms.txt מקוון בחינם",
   "short_name": "מחולל llms.txt מקוון בחינם",
   "description": "צרו קובץ llms.txt תקף באופן מקוון בחינם - שם אתר, ציטוט בלוק של סיכום, פרטים וקישורי דפים מאוצרים בפורמט llms.txt המוצע לסורקי AI. בלי הרשמה.",
-  "id": "/loona-dev-tools/he/llms-txt-generator/",
+  "id": "/he/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

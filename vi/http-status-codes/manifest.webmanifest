@@ -2,7 +2,7 @@
   "name": "Tham khảo mã trạng thái HTTP của Loona",
   "short_name": "Tham khảo mã trạng thái HTTP",
   "description": "Mọi mã trạng thái HTTP phổ biến kèm ý nghĩa của nó: 2xx thành công, 3xx chuyển hướng, 4xx lỗi client, 5xx lỗi máy chủ — giải thích đơn giản.",
-  "id": "/loona-dev-tools/vi/http-status-codes/",
+  "id": "/vi/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

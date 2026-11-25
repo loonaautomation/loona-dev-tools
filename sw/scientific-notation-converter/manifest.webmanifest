@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Notasi ya Kisayansi",
   "short_name": "Kibadilishaji cha Notasi ya Kisayansi",
   "description": "Badilisha nambari kwenda na kutoka nukuu ya kisayansi: 3200000 ⇄ 3.2 × 10^6, nukuu ya E inaungwa mkono pande zote mbili.",
-  "id": "/loona-dev-tools/sw/scientific-notation-converter/",
+  "id": "/sw/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Převodník číselných soustav Loona online zdarma",
   "short_name": "Převodník číselných soustav online",
   "description": "Převádějte čísla mezi binární, osmičkovou, desítkovou a hexadecimální soustavou online zdarma, s přesností BigInt pro hodnoty za 2^53 a ověřováním po jednotlivých číslicích. Bez registrace, běží 100% ve vašem prohlížeči.",
-  "id": "/loona-dev-tools/cs/number-base-converter/",
+  "id": "/cs/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pengekstrak Fail ISO Dalam Talian Percuma",
   "short_name": "Pengekstrak Fail ISO Dalam Talian Percuma",
   "description": "Buka imej cakera ISO langsung di pelayar Anda - layari sistem fail yang tersimpan di cakera maya dan muat turun fail tunggal atau semuanya sebagai ZIP. Tidak ada yang dimuat naik.",
-  "id": "/loona-dev-tools/ms/iso-file-extractor/",
+  "id": "/ms/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

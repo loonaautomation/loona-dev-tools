@@ -2,7 +2,7 @@
   "name": "Loona UTM-linkkien rakentaja verkossa ilmaiseksi",
   "short_name": "UTM-linkkien rakentaja verkossa ilmaiseksi",
   "description": "Rakenna UTM-merkittyjä kampanja-URL:eja verkossa ilmaiseksi — lähde, media, kampanja, termi ja sisältö lisättynä oikealla koodauksella, olemassa olevat kyselyparametrit säilytettyinä, sekä tallennettu historia.",
-  "id": "/loona-dev-tools/fi/utm-link-builder/",
+  "id": "/fi/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

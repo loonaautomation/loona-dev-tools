@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/ini-to-json/",
+  "id": "/en-gb/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

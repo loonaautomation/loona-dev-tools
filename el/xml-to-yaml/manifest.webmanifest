@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας XML σε YAML",
   "short_name": "Μετατροπέας XML σε YAML",
   "description": "Μετατρέψτε XML σε YAML: ιδιότητες ως @keys, επαναλαμβανόμενα στοιχεία ως λίστες, τιμές με τύπους. Πραγματικός αναλυτής, όχι regex.",
-  "id": "/loona-dev-tools/el/xml-to-yaml/",
+  "id": "/el/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

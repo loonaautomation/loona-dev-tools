@@ -2,7 +2,7 @@
   "name": "Loona HTML-Entities-Referenztabelle",
   "short_name": "HTML-Entities-Referenztabelle",
   "description": "Die wesentliche HTML-Entities-Tabelle: benannte Entity, Zeichen, Dezimalcode und Nutzungshinweise für die Entities, die Entwickler tatsächlich verwenden.",
-  "id": "/loona-dev-tools/de/html-entities-reference/",
+  "id": "/de/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

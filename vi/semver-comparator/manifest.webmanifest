@@ -2,7 +2,7 @@
   "name": "Công cụ so sánh phiên bản ngữ nghĩa của Loona",
   "short_name": "Công cụ so sánh phiên bản ngữ nghĩa",
   "description": "Kiểm tra hợp lệ và so sánh các phiên bản ngữ nghĩa (MAJOR.MINOR.PATCH): cái nào mới hơn, và loại thay đổi nào phân tách chúng.",
-  "id": "/loona-dev-tools/vi/semver-comparator/",
+  "id": "/vi/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

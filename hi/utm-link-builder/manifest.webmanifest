@@ -2,7 +2,7 @@
   "name": "Loona UTM लिंक बिल्डर ऑनलाइन मुफ़्त",
   "short_name": "UTM Link बिल्डर ऑनलाइन मुफ़्त",
   "description": "UTM-tagged campaign URLs ऑनलाइन मुफ़्त बनाएँ — source, medium, campaign, term और content सही encoding के साथ जोड़े गए, मौजूदा query parameters सुरक्षित, साथ में saved history भी।",
-  "id": "/loona-dev-tools/hi/utm-link-builder/",
+  "id": "/hi/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

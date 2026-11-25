@@ -2,7 +2,7 @@
   "name": "Mã hóa URL của Loona (mã hóa phần trăm)",
   "short_name": "Mã hóa URL (mã hóa phần trăm)",
   "description": "Mã hóa phần trăm văn bản hoặc một URL đầy đủ trực tuyến: dấu cách trở thành %20, các ký tự dành riêng được escape theo RFC 3986. Chế độ thành phần hoặc toàn URL.",
-  "id": "/loona-dev-tools/vi/url-encode/",
+  "id": "/vi/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Hash SHA-1",
   "short_name": "Gerador de Hash SHA-1",
   "description": "Calcule hashes SHA-1 de texto ou ficheiros online: 160-bit, 40 caracteres hexadecimais. Funciona localmente no seu navegador com WebCrypto/JS puro — os ficheiros nunca são carregados.",
-  "id": "/loona-dev-tools/pt-pt/sha1-hash-generator/",
+  "id": "/pt-pt/sha1-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

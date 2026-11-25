@@ -2,7 +2,7 @@
   "name": "Loona CSV-data-extractor online gratis",
   "short_name": "CSV-data-extractor online gratis",
   "description": "Extraheer e-mailadressen, telefoonnummers en URL's uit rommelige CSV-bestanden of willekeurige tekst online gratis - opgeschoonde, ontdubbelde lijsten die je kunt downloaden. Geen registratie, draait in je browser.",
-  "id": "/loona-dev-tools/nl/csv-data-extractor/",
+  "id": "/nl/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

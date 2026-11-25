@@ -2,7 +2,7 @@
   "name": "ממיר Loona cURL ל-Fetch",
   "short_name": "ממיר cURL ל-Fetch",
   "description": "המירו פקודת cURL לקוד fetch() של JavaScript: כותרות, שיטה, נתונים, אימות basic ו---json מטופלים.",
-  "id": "/loona-dev-tools/he/curl-to-fetch/",
+  "id": "/he/curl-to-fetch/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

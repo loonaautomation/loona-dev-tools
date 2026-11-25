@@ -2,7 +2,7 @@
   "name": "Loona Конвертер TAR.GZ в TAR",
   "short_name": "Конвертер TAR.GZ в TAR",
   "description": "Снимите слой gzip с архива .tar.gz / .tgz, чтобы получить обычный TAR, онлайн и локально — инструменты извлечения не нужны.",
-  "id": "/loona-dev-tools/ru/tar-gz-to-tar-converter/",
+  "id": "/ru/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

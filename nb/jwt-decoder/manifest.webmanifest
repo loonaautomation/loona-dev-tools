@@ -2,7 +2,7 @@
   "name": "Loona JWT-dekoder på nett gratis",
   "short_name": "JWT-dekoder på nett gratis",
   "description": "Dekod et JSON Web Token på nett gratis - les toppteksten og nyttelasten som pen JSON og se utløpet i vanlige ord. Signatur IKKE verifisert. I nettleseren din.",
-  "id": "/loona-dev-tools/nb/jwt-decoder/",
+  "id": "/nb/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona provjera e-pošte na mreži besplatno",
   "short_name": "Provjera e-pošte na mreži besplatno",
   "description": "Provjerite adrese e-pošte na mreži besplatno, jednu ili skupno - pune provjere sintakse prema pravilima adresa plus otkrivanje uobičajenih tipfelera domena poput gmial.com. Bez registracije.",
-  "id": "/loona-dev-tools/hr/email-validator/",
+  "id": "/hr/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

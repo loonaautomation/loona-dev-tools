@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงเลขฐานสิบเป็นเลขฐานแปด",
   "short_name": "ตัวแปลงเลขฐานสิบเป็นเลขฐานแปด",
   "description": "แปลงตัวเลขฐานสิบเป็นเลขฐานแปดออนไลน์ — ความแม่นยำไม่จำกัด (BigInt) รองรับจำนวนลบ",
-  "id": "/loona-dev-tools/th/decimal-to-octal-converter/",
+  "id": "/th/decimal-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Extraktor souborů Loona RAR online zdarma",
   "short_name": "Extraktor souborů RAR online zdarma",
   "description": "Otevírejte soubory RAR (RAR4 a RAR5) přímo ve svém prohlížeči - uvidíte každý soubor uvnitř, stáhnete jednotlivé soubory nebo vše jako ZIP. Nic se nenahrává; extrakce se děje na vašem zařízení.",
-  "id": "/loona-dev-tools/cs/rar-file-extractor/",
+  "id": "/cs/rar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

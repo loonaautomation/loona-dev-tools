@@ -2,7 +2,7 @@
   "name": "Loona CMYK→HSL変換ツール",
   "short_name": "CMYK→HSL変換ツール",
   "description": "色をCMYKからHSLにオンライン変換。ライブのスウォッチと、他のすべての形式（HEX、RGB、HSL、HSV、CMYK）も表示されます。",
-  "id": "/loona-dev-tools/ja/cmyk-to-hsl-converter/",
+  "id": "/ja/cmyk-to-hsl-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

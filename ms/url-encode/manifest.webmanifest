@@ -2,7 +2,7 @@
   "name": "Loona Encode URL (Encode Peratus)",
   "short_name": "Encode URL (Pengekodan Peratus)",
   "description": "Encode peratus teks atau URL lengkap dalam talian: ruang menjadi %20, aksara yang dipesan di-escape per RFC 3986. Mod komponen atau URL lengkap.",
-  "id": "/loona-dev-tools/ms/url-encode/",
+  "id": "/ms/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

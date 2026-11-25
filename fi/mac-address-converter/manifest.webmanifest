@@ -2,7 +2,7 @@
   "name": "Loona MAC-osoitteen muodon muunnin",
   "short_name": "MAC-osoitemuodon muunnin",
   "description": "Muunna MAC-osoitteita kaksoispistemuodon (AA:BB:CC:DD:EE:FF), viiva-, Cisco-piste- ja tavallisen muodon välillä; validoi 48-bittisen osoitteen.",
-  "id": "/loona-dev-tools/fi/mac-address-converter/",
+  "id": "/fi/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

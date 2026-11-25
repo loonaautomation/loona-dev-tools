@@ -2,7 +2,7 @@
   "name": "Calculator de subrețele IP Loona online gratuit",
   "short_name": "Calculator de subrețele IP online",
   "description": "Calculează subrețele IPv4 online gratuit - rețea, difuzare, mască de rețea, wildcard, prima și ultima gazdă, număr de gazde utilizabile și clasă IP din orice adresă CIDR, plus o vizualizare de împărțire a subrețelelor.",
-  "id": "/loona-dev-tools/ro/ip-subnet-calculator/",
+  "id": "/ro/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

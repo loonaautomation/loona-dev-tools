@@ -2,7 +2,7 @@
   "name": "Generator de expresii Cron Loona online gratuit",
   "short_name": "Generator de expresii Cron",
   "description": "Construiește expresii cron din meniuri și explică orice expresie cron cu 5 câmpuri în limbaj simplu, online gratuit. Fără înregistrare, rulează 100% în browserul tău.",
-  "id": "/loona-dev-tools/ro/cron-expression-generator/",
+  "id": "/ro/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

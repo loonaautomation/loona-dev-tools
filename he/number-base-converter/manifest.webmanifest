@@ -2,7 +2,7 @@
   "name": "ממיר בסיסי מספרים של Loona מקוון בחינם",
   "short_name": "ממיר בסיסי מספר מקוון",
   "description": "המירו מספרים בין בינארי, אוקטלי, עשרוני והקסדצימלי באופן מקוון בחינם, עם דיוק BigInt לערכים שמעבר ל-2^53 ואימות לפי ספרה. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/number-base-converter/",
+  "id": "/he/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

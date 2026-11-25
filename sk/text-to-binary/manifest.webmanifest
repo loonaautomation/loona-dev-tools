@@ -2,7 +2,7 @@
   "name": "Prevodník Loona textu na binárne",
   "short_name": "Prevodník textu na binárne",
   "description": "Preveďte text na binárnu sústavu: každý znak ako 8-bitové binárne skupiny jeho bajtov UTF-8. Bezplatný online prevodník.",
-  "id": "/loona-dev-tools/sk/text-to-binary/",
+  "id": "/sk/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

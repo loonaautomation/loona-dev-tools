@@ -2,7 +2,7 @@
   "name": "Loona pretvarač Unix vremenskih oznaka na mreži besplatno",
   "short_name": "Pretvarač Unix vremenskih oznaka",
   "description": "Pretvorite Unix vremenske oznake (sekunde ili milisekunde) u ljudske datume u UTC-u i vašem lokalnom vremenu, i datume natrag u vremenske oznake. Trenutačno vrijeme uživo. Besplatno.",
-  "id": "/loona-dev-tools/hr/timestamp-converter/",
+  "id": "/hr/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "ממיר Loona JSON למבני Go",
   "short_name": "ממיר JSON למבני Go",
   "description": "המירו JSON להגדרות struct של Go עם תגיות json: int64/float64 מובחנים, omitempty למפתחות החסרים בחלק מפריטי המערך.",
-  "id": "/loona-dev-tools/he/json-to-go-struct/",
+  "id": "/he/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

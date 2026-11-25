@@ -2,7 +2,7 @@
   "name": "ממיר בריחת Unicode של Loona ‏(\\uXXXX)",
   "short_name": "ממיר בריחת יוניקוד",
   "description": "ברחו טקסט לרצפי בריחה של Unicode ‏(\\uXXXX) עבור JSON, JavaScript, Java וקבצי properties. מטפל באימוג'ים באמצעות צמדי תחליפים.",
-  "id": "/loona-dev-tools/he/unicode-escape/",
+  "id": "/he/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona izdvajanje GZ datoteka na mreži besplatno",
   "short_name": "Izdvajanje GZ datoteka na mreži besplatno",
   "description": "Raspakirajte jednu datoteku .gz izravno u svom pregledniku i preuzmite izvornu datoteku - zapisnike, izvoze podataka, ispise baza podataka. Ništa se ne prenosi; vaš preglednik posao radi izvorno.",
-  "id": "/loona-dev-tools/hr/gz-file-extractor/",
+  "id": "/hr/gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

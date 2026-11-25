@@ -2,7 +2,7 @@
   "name": "Loona Muunnin- & generaattorikirjasto",
   "short_name": "Muunnin- & generaattorikirjasto",
   "description": "Hakemisto kaikista Loona Developer Tools -muuntimista ja -generaattoreista: koodaukset, tietomuodot, tiivisteet, värit, arkistot, koodigeneraattorit ja hakuteokset.",
-  "id": "/loona-dev-tools/fi/converter-library/",
+  "id": "/fi/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

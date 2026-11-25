@@ -2,7 +2,7 @@
   "name": "Loona Text till Base64-kodare",
   "short_name": "Text till Base64-kodare",
   "description": "Koda text till Base64 online, UTF-8-säkert för vilket språk och emoji som helst, med ett valfritt URL-säkert alfabet. Gratis, privat, i din webbläsare.",
-  "id": "/loona-dev-tools/sv/text-to-base64/",
+  "id": "/sv/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

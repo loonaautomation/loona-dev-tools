@@ -2,7 +2,7 @@
   "name": "Loona Base64 انکوڈر اور ڈیکوڈر آن لائن مفت",
   "short_name": "Base64 انکوڈر اور ڈیکوڈر",
   "description": "متن یا فائلوں کو Base64 میں انکوڈ کریں اور Base64 کو واپس ڈی کوڈ کریں، کسی بھی زبان اور ایموجی کے لیے UTF-8 محفوظ، URL-محفوظ آپشن کے ساتھ۔ مفت، کوئی سائن اپ نہیں، آپ کے براؤزر میں۔",
-  "id": "/loona-dev-tools/ur/base64-encoder/",
+  "id": "/ur/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

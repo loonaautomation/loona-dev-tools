@@ -2,7 +2,7 @@
   "name": "Loona Text-zu-Hex-Konverter",
   "short_name": "Text-zu-Hex-Konverter",
   "description": "Konvertieren Sie Text online zu Hexadezimal (UTF-8-Bytes), mit oder ohne Leerzeichen zwischen den Bytes. Kostenloser Entwickler-Konverter.",
-  "id": "/loona-dev-tools/de/text-to-hex/",
+  "id": "/de/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

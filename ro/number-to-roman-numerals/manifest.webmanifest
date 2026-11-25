@@ -2,7 +2,7 @@
   "name": "Numere în cifre romane Loona",
   "short_name": "Numere în cifre romane",
   "description": "Convertește numere (1–3999) în cifre romane în forma substractivă standard. Convertizor online gratuit.",
-  "id": "/loona-dev-tools/ro/number-to-roman-numerals/",
+  "id": "/ro/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

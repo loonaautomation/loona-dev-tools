@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable انکوڈر",
   "short_name": "Quoted-Printable انکوڈر",
   "description": "متن کو quoted-printable (MIME) کے طور پر آن لائن انکوڈ کریں: UTF-8 بائٹس =XX escapes کے طور پر، 76 حروف پر نرم لائن وقفے، RFC 2045 کے مطابق۔",
-  "id": "/loona-dev-tools/ur/quoted-printable-encode/",
+  "id": "/ur/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

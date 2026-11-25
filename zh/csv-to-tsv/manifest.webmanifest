@@ -2,7 +2,7 @@
   "name": "Loona CSV 转 TSV 转换器",
   "short_name": "CSV 转 TSV 转换器",
   "description": "把 CSV 转换为 TSV（制表符分隔值）：完整的引号字段解析，制表符作分隔符。免费的在线转换器。",
-  "id": "/loona-dev-tools/zh/csv-to-tsv/",
+  "id": "/zh/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

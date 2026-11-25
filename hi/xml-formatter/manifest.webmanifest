@@ -2,7 +2,7 @@
   "name": "Loona XML फ़ॉर्मेटर और वैलिडेटर ऑनलाइन मुफ़्त",
   "short_name": "XML फ़ॉर्मेटर और वैलिडेटर",
   "description": "XML को ऑनलाइन मुफ़्त format, beautify, minify और validate करें — स्पष्ट error messages के साथ balanced-tag well-formedness checking, indentation के साथ pretty printing। कोई साइन-अप नहीं।",
-  "id": "/loona-dev-tools/hi/xml-formatter/",
+  "id": "/hi/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

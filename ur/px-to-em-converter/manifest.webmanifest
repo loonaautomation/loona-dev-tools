@@ -2,7 +2,7 @@
   "name": "Loona Pixels (px) سے Em کنورٹر",
   "short_name": "Pixels (px) سے Em کنورٹر",
   "description": "px کو em میں قابل ترتیب بنیادی فونٹ سائز (ڈیفالٹ 16px) اور عام قدروں کی ٹیبل کے ساتھ بدلیں۔",
-  "id": "/loona-dev-tools/ur/px-to-em-converter/",
+  "id": "/ur/px-to-em-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Caesar سائفر انکوڈر اور ڈیکوڈر",
   "short_name": "Caesar سائفر انکوڈر اور",
   "description": "کسی بھی shift (1–25) کے ساتھ Caesar cipher اور ایک ڈی کوڈ موڈ: Julius Caesar کا کلاسیکی متبادل سائفر، آن لائن۔",
-  "id": "/loona-dev-tools/ur/caesar-cipher/",
+  "id": "/ur/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

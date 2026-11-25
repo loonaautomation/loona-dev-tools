@@ -2,7 +2,7 @@
   "name": "Loona tekst naar Base64-encoder",
   "short_name": "Tekst naar Base64-encoder",
   "description": "Codeer tekst online naar Base64, UTF-8-veilig voor elke taal en emoji, met een optioneel URL-veilig alfabet. Gratis, privé, in je browser.",
-  "id": "/loona-dev-tools/nl/text-to-base64/",
+  "id": "/nl/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

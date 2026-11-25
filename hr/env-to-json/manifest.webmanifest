@@ -2,7 +2,7 @@
   "name": "Loona pretvarač .env u JSON",
   "short_name": "Pretvarač .env u JSON",
   "description": "Raščlanite .env datoteku u JSON: retci KEY=value, prefiksi export, komentari i citirane vrijednosti obrađeni.",
-  "id": "/loona-dev-tools/hr/env-to-json/",
+  "id": "/hr/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

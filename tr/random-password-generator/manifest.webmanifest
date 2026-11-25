@@ -2,7 +2,7 @@
   "name": "Loona Rastgele Parola Oluşturucu",
   "short_name": "Rastgele Parola Oluşturucu",
   "description": "Tarayıcınızda WebCrypto API ile güçlü rastgele parolalar oluşturun: uzunluk ve karakter kümeleri ayarlanabilir, entropi gösterilir.",
-  "id": "/loona-dev-tools/tr/random-password-generator/",
+  "id": "/tr/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

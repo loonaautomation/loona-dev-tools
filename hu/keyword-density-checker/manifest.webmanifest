@@ -2,7 +2,7 @@
   "name": "Loona kulcsszósűrűség-ellenőrző online ingyen",
   "short_name": "Kulcsszósűrűség-ellenőrző",
   "description": "Ellenőrizze a kulcsszósűrűséget online ingyen - leggyakoribb egyes szavak plusz 2 szavas és 3 szavas kifejezések darabszámokkal és százalékos sűrűséggel, stopszó-szűréssel együtt. Regisztráció nélkül.",
-  "id": "/loona-dev-tools/hu/keyword-density-checker/",
+  "id": "/hu/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

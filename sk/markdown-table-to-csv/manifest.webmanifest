@@ -2,7 +2,7 @@
   "name": "Prevodník Loona tabuľky Markdown na CSV",
   "short_name": "Tabuľka Markdown na CSV",
   "description": "Preveďte tabuľku Markdown na CSV: hlavička a riadky extrahované, riadok zarovnania odstránený, bunky orezané a správne uvedené.",
-  "id": "/loona-dev-tools/sk/markdown-table-to-csv/",
+  "id": "/sk/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

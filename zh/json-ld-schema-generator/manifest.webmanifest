@@ -2,7 +2,7 @@
   "name": "Loona JSON-LD Schema 生成器 在线免费",
   "short_name": "JSON-LD Schema 生成器",
   "description": "免费在线生成 schema.org JSON-LD 结构化数据——Article、LocalBusiness、Product、Event、Recipe、Person、Organization 和 WebSite——以现成的脚本块形式。无需注册。",
-  "id": "/loona-dev-tools/zh/json-ld-schema-generator/",
+  "id": "/zh/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

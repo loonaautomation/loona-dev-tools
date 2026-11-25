@@ -2,7 +2,7 @@
   "name": "Loona IP-osoite-kokonaislukumuunnin",
   "short_name": "IP-osoite kokonaisluvuksi",
   "description": "Muunna IPv4-osoite sen 32-bittiseksi kokonaislukumuodoksi (192.168.0.1 → 3232235521), käytettynä tietokannoissa ja välialuetarkistuksissa.",
-  "id": "/loona-dev-tools/fi/ip-to-integer/",
+  "id": "/fi/ip-to-integer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

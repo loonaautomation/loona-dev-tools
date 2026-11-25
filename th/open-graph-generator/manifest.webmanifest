@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้าง Open Graph และ Twitter Card",
   "short_name": "Open Graph และ Twitter Card",
   "description": "สร้างเมตาแท็ก Open Graph และ Twitter Card ออนไลน์ฟรี พร้อมตัวอย่างการ์ดโซเชียลแบบสด - ชื่อเรื่อง คำอธิบาย รูปภาพ URL และชื่อไซต์ ไม่ต้องสมัครสมาชิก ทำงานในเบราว์เซอร์ของคุณ",
-  "id": "/loona-dev-tools/th/open-graph-generator/",
+  "id": "/th/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

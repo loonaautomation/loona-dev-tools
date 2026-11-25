@@ -2,7 +2,7 @@
   "name": "Loona ROT13 kódoló és dekódoló",
   "short_name": "ROT13 kódoló és dekódoló",
   "description": "ROT13 bármilyen szöveg: forgassa el a betűket 13 hellyel. A kódolás és a dekódolás ugyanaz a művelet. Klasszikus spoilerekhez és rejtvényekhez.",
-  "id": "/loona-dev-tools/hu/rot13-encoder/",
+  "id": "/hu/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

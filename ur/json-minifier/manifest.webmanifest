@@ -2,7 +2,7 @@
   "name": "Loona JSON منی فائر",
   "short_name": "JSON منی فائر",
   "description": "JSON آن لائن منی فائی کریں: تمام غیر اہم اسپیس ایک واحد کمپیکٹ لائن میں اتاریں، توثیق غلطیاں عین رپورٹ شدہ۔",
-  "id": "/loona-dev-tools/ur/json-minifier/",
+  "id": "/ur/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

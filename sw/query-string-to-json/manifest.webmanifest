@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Mfululizo wa Hoja kwenda JSON",
   "short_name": "Kibadilishaji cha Mfululizo wa Hoja kwenda JSON",
   "description": "Changanua mfululizo wa hoja wa URL kuwa JSON: notasi ya mabano huwa vitu vilivyoingiliana, funguo zilizorudiwa huwa safu, thamani zimeandikwa kwa aina.",
-  "id": "/loona-dev-tools/sw/query-string-to-json/",
+  "id": "/sw/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

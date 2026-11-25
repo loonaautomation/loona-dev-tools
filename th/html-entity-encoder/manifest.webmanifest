@@ -2,7 +2,7 @@
   "name": "Loona ตัวเข้ารหัสและถอดรหัส HTML Entity ออนไลน์ฟรี",
   "short_name": "ตัวเข้ารหัสและถอดรหัส HTML Entity",
   "description": "เข้ารหัสข้อความเป็น HTML entity (แบบมีชื่ออย่าง &amp;copy; หรือแบบตัวเลขอย่าง &amp;#169;) และถอดรหัส entity กลับเป็นข้อความธรรมดา ฟรี ไม่ต้องสมัครสมาชิก ในเบราว์เซอร์ของคุณ",
-  "id": "/loona-dev-tools/th/html-entity-encoder/",
+  "id": "/th/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

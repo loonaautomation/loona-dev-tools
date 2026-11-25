@@ -2,7 +2,7 @@
   "name": "Loona TAR-filskapare online gratis",
   "short_name": "TAR-filskapare Online Gratis",
   "description": "Skapa ett TAR-arkiv (.tar) från flera filer direkt i din webbläsare - en specifikationskorrekt ustar-skrivare, mappalternativ, verkliga tidsstämplar. Ingenting laddas upp; tarballen byggs på din enhet och öppnas med vilket tar-verktyg som helst.",
-  "id": "/loona-dev-tools/sv/tar-file-creator/",
+  "id": "/sv/tar-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

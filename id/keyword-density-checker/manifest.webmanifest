@@ -2,7 +2,7 @@
   "name": "Loona Pemeriksa Kepadatan Kata Kunci Online Gratis",
   "short_name": "Pemeriksa Kepadatan Kata Kunci",
   "description": "Periksa kepadatan kata kunci online secara gratis - kata tunggal teratas ditambah frasa 2-kata dan 3-kata dengan jumlah dan persentase kepadatan, termasuk penyaringan stopword. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/id/keyword-density-checker/",
+  "id": "/id/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

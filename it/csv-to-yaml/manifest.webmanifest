@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da CSV a YAML",
   "short_name": "Convertitore da CSV a YAML",
   "description": "Converti tabelle CSV in YAML: la riga di intestazione diventa chiavi, ogni riga un elemento in un elenco YAML, numeri tipizzati.",
-  "id": "/loona-dev-tools/it/csv-to-yaml/",
+  "id": "/it/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

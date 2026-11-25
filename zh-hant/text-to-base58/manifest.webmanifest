@@ -2,7 +2,7 @@
   "name": "Loona 文字轉 Base58 編碼器",
   "short_name": "文字轉 Base58 編碼器",
   "description": "線上把文字編碼為 Base58（比特幣字母表）——沒有 0、O、I 或 l，是比特幣地址和 IPFS 雜湊的編碼。",
-  "id": "/loona-dev-tools/zh-hant/text-to-base58/",
+  "id": "/zh-hant/text-to-base58/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

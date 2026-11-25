@@ -2,7 +2,7 @@
   "name": "Loona Minifikator XML",
   "short_name": "Minifikator XML",
   "description": "Minifikuj XML online: usuń komentarze i białe znaki między tagami do jednej zwartej linii.",
-  "id": "/loona-dev-tools/pl/xml-minifier/",
+  "id": "/pl/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

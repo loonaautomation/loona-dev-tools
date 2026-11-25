@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi Unicode Escape của Loona (\\uXXXX)",
   "short_name": "Công cụ chuyển đổi Unicode Escape",
   "description": "Escape văn bản thành các dãy escape Unicode (\\uXXXX) cho JSON, JavaScript, Java và các tệp properties. Xử lý emoji qua các cặp surrogate.",
-  "id": "/loona-dev-tools/vi/unicode-escape/",
+  "id": "/vi/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

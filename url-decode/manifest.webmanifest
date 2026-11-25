@@ -2,7 +2,7 @@
   "name": "Loona URL Decode (Percent Decoding)",
   "short_name": "URL Decode (Percent Decoding)",
   "description": "Decode percent-encoded URLs and query strings back to readable text, including UTF-8 sequences and + as space. Free online decoder.",
-  "id": "/loona-dev-tools/url-decode/",
+  "id": "/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

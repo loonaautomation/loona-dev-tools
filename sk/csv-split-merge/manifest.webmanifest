@@ -2,7 +2,7 @@
   "name": "Rozdelenie a zlúčenie Loona CSV online zadarmo",
   "short_name": "Rozdelenie a zlúčenie CSV online zadarmo",
   "description": "Rozdeľte CSV na časti podľa počtu riadkov alebo zlúčte niekoľko súborov CSV do jedného, online zadarmo - hlavičky spracované správne, správna analýza CSV. Bez registrácie, beží 100% vo vašom prehliadači.",
-  "id": "/loona-dev-tools/sk/csv-split-merge/",
+  "id": "/sk/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

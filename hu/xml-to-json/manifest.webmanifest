@@ -2,7 +2,7 @@
   "name": "Loona XML-ből JSON-ba átalakító",
   "short_name": "XML-ből JSON-ba átalakító",
   "description": "Alakítson XML-t JSON-ná online: az attribútumok @kulcsokként, az ismételt elemek tömbökként, a szöveg értékekként, a számok típusosan.",
-  "id": "/loona-dev-tools/hu/xml-to-json/",
+  "id": "/hu/xml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

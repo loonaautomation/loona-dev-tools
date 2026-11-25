@@ -2,7 +2,7 @@
   "name": "Loona JWTデコーダー 無料オンライン",
   "short_name": "JWTデコーダー 無料オンライン",
   "description": "JSON Web Token を無料でオンラインでデコード — ヘッダーとペイロードを整形されたJSONとして読み、有効期限を分かりやすい言葉で確認。署名は検証されません。あなたのブラウザ内で。",
-  "id": "/loona-dev-tools/ja/jwt-decoder/",
+  "id": "/ja/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

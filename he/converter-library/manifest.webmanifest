@@ -2,7 +2,7 @@
   "name": "ספריית ממירים ומחוללים Loona",
   "short_name": "ספריית ממירים ומחוללים",
   "description": "אינדקס של כל הממירים והמחוללים של Loona Developer Tools: קידודים, פורמטי נתונים, גיבובים, צבעים, ארכיונים, מחוללי קוד וחומרי עזר.",
-  "id": "/loona-dev-tools/he/converter-library/",
+  "id": "/he/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

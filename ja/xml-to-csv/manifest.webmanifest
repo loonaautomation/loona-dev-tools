@@ -2,7 +2,7 @@
   "name": "Loona XML→CSV変換ツール",
   "short_name": "XML→CSV変換ツール",
   "description": "XMLをCSVに変換：繰り返し要素が行になり、その子と属性が列になります。無料のオンライン変換ツール。",
-  "id": "/loona-dev-tools/ja/xml-to-csv/",
+  "id": "/ja/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

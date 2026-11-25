@@ -2,7 +2,7 @@
   "name": "Loona Kithibitishi cha Barua Pepe Bure Mtandaoni",
   "short_name": "Kithibitishi cha Barua Pepe Bure Mtandaoni",
   "description": "Thibitisha anwani za barua pepe mtandaoni bure, moja au kwa wingi - ukaguzi kamili wa sintaksia dhidi ya kanuni za anwani pamoja na ugunduzi wa makosa ya kawaida ya kuandika vikoa kama gmial.com. Bila kujisajili.",
-  "id": "/loona-dev-tools/sw/email-validator/",
+  "id": "/sw/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

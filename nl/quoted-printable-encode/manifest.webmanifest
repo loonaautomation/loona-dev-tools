@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable-encoder",
   "short_name": "Quoted-Printable-encoder",
   "description": "Codeer tekst online als quoted-printable (MIME): UTF-8-bytes als =XX-escapes, zachte regeleinden bij 76 tekens, volgens RFC 2045.",
-  "id": "/loona-dev-tools/nl/quoted-printable-encode/",
+  "id": "/nl/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

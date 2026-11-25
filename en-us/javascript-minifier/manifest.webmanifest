@@ -2,7 +2,7 @@
   "name": "Loona JavaScript Minifier - Conservative Compression That Respects Your Code",
   "short_name": "JavaScript Minifier - Conservative Compression That Respects Your Code",
   "description": "Minify JavaScript online for free with a conservative tokenizer that protects strings, template literals and regular expressions. No sign-up, runs 100% in your browser.",
-  "id": "/loona-dev-tools/en-us/javascript-minifier/",
+  "id": "/en-us/javascript-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

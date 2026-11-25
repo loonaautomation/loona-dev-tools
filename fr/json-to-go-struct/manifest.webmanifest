@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona JSON vers structs Go",
   "short_name": "Convertisseur JSON vers structs Go",
   "description": "Convertissez le JSON en définitions de structs Go avec des balises json : int64/float64 distingués, omitempty pour les clés absentes de certains éléments de tableaux.",
-  "id": "/loona-dev-tools/fr/json-to-go-struct/",
+  "id": "/fr/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

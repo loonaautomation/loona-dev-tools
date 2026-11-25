@@ -2,7 +2,7 @@
   "name": "Loona heltall til IP-adresse-konverterer",
   "short_name": "Heltall til IP-adresse",
   "description": "Konverter et 32-bit heltall tilbake til en punktet IPv4-adresse (3232235521 → 192.168.0.1).",
-  "id": "/loona-dev-tools/nb/integer-to-ip/",
+  "id": "/nb/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

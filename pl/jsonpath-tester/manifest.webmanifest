@@ -2,7 +2,7 @@
   "name": "Loona Tester JSONPath",
   "short_name": "Tester JSONPath",
   "description": "Testuj wyrażenia JSONPath na dokumencie JSON: notacja kropkowa, indeksy, symbole wieloznaczne i zstępowanie rekurencyjne ($..key) obsługiwane.",
-  "id": "/loona-dev-tools/pl/jsonpath-tester/",
+  "id": "/pl/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

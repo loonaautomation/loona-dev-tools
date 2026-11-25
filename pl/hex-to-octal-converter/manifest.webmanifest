@@ -2,7 +2,7 @@
   "name": "Loona Konwerter szesnastkowy na ósemkowy",
   "short_name": "Konwerter szesnastkowy na ósemkowy",
   "description": "Konwertuj liczby szesnastkowe na ósemkowe online — dowolna precyzja (BigInt), liczby ujemne obsługiwane.",
-  "id": "/loona-dev-tools/pl/hex-to-octal-converter/",
+  "id": "/pl/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

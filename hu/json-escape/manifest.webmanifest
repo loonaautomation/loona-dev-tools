@@ -2,7 +2,7 @@
   "name": "Loona JSON karakterlánc escape-elés",
   "short_name": "JSON karakterlánc kódolás",
   "description": "Escape-eljen egy karakterláncot JSON-ba ágyazáshoz: az idézőjelek, backslash-ek, újsorok és vezérlőkarakterek \\ sorozatokká válnak.",
-  "id": "/loona-dev-tools/hu/json-escape/",
+  "id": "/hu/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

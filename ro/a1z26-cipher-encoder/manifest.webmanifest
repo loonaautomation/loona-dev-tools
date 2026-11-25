@@ -2,7 +2,7 @@
   "name": "Codificator cifru A1Z26 Loona (litere în numere)",
   "short_name": "Codificator cifru A1Z26 (litere",
   "description": "Codifică text cu cifrul A1Z26: A=1, B=2 ... Z=26. Codul clasic de puzzle-uri și camere de evadare.",
-  "id": "/loona-dev-tools/ro/a1z26-cipher-encoder/",
+  "id": "/ro/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

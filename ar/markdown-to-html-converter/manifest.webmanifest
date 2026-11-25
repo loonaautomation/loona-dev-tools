@@ -2,7 +2,7 @@
   "name": "Loona محوّل Markdown إلى HTML عبر الإنترنت مجاناً",
   "short_name": "محوّل Markdown إلى HTML",
   "description": "حوّل Markdown إلى HTML عبر الإنترنت مجاناً - العناوين، الغامق، المائل، الروابط، الصور، القوائم، اقتباسات الكتل، كتل الكود والمزيد، مع معاينة حية معروضة. دون تسجيل.",
-  "id": "/loona-dev-tools/ar/markdown-to-html-converter/",
+  "id": "/ar/markdown-to-html-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

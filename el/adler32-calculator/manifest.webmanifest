@@ -2,7 +2,7 @@
   "name": "Loona Υπολογιστής Αθροίσματος Ελέγχου Adler-32",
   "short_name": "Υπολογιστής Αθροίσματος Ελέγχου Adler-32",
   "description": "Υπολογίστε hash Adler-32 κειμένου ή αρχείων διαδικτυακά: 32-bit, 8 δεκαεξαδικοί χαρακτήρες. Εκτελείται τοπικά στο πρόγραμμα περιήγησής σας με WebCrypto/καθαρή JS — τα αρχεία δεν μεταφορτώνονται ποτέ.",
-  "id": "/loona-dev-tools/el/adler32-calculator/",
+  "id": "/el/adler32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

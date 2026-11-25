@@ -2,7 +2,7 @@
   "name": "Loona Email Validator - Syntax and Typo Checks, One Address or a Whole List",
   "short_name": "Email Validator - Syntax and Typo Checks, One Address or a Whole List",
   "description": "Validate email addresses online for free, one or in bulk - full syntax checks against the address rules plus detection of common domain typos like gmial.com. No sign-up.",
-  "id": "/loona-dev-tools/en-us/email-validator/",
+  "id": "/en-us/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Base64-kooderi & -dekooderi verkossa ilmaiseksi",
   "short_name": "Base64-kooderi ja -dekooderi",
   "description": "Koodaa tekstiä tai tiedostoja Base64:ksi ja pura Base64 takaisin, UTF-8-turvallinen mille tahansa kielelle ja emojille, URL-turvallisella vaihtoehdolla. Ilmainen, ei rekisteröitymistä, selaimessasi.",
-  "id": "/loona-dev-tools/fi/base64-encoder/",
+  "id": "/fi/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

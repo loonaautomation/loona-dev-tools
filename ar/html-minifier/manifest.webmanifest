@@ -2,7 +2,7 @@
   "name": "Loona مصغّر HTML",
   "short_name": "مصغّر HTML",
   "description": "صغّر HTML عبر الإنترنت: أزل التعليقات واطوِ المسافات البيضاء مع حماية محتويات pre وtextarea وscript وstyle.",
-  "id": "/loona-dev-tools/ar/html-minifier/",
+  "id": "/ar/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

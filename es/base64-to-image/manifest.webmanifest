@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de Base64 a imagen",
   "short_name": "Convertidor de Base64 a imagen",
   "description": "Decodifica una cadena Base64 o una URI de datos de vuelta en una imagen visible y descargable. Tipo MIME detectado desde los bytes.",
-  "id": "/loona-dev-tools/es/base64-to-image/",
+  "id": "/es/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

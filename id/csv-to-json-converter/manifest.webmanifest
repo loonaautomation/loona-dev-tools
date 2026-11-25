@@ -2,7 +2,7 @@
   "name": "Loona Konverter CSV ke JSON Online Gratis",
   "short_name": "Konverter CSV ke JSON Online",
   "description": "Konversi CSV ke array objek JSON online secara gratis, dengan parser CSV yang benar yang menangani field dikutip, koma di dalam tanda kutip, dan tanda kutip yang di-escape. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-dev-tools/id/csv-to-json-converter/",
+  "id": "/id/csv-to-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

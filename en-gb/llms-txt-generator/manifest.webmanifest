@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/llms-txt-generator/",
+  "id": "/en-gb/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Конструктор посилань Loona UTM онлайн безкоштовно",
   "short_name": "Побудовник посилань UTM онлайн безкоштовно",
   "description": "Створюйте URL кампаній із тегами UTM онлайн безкоштовно — source, medium, campaign, term і content додаються з правильним кодуванням, наявні параметри запиту зберігаються, плюс збережена історія.",
-  "id": "/loona-dev-tools/uk/utm-link-builder/",
+  "id": "/uk/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

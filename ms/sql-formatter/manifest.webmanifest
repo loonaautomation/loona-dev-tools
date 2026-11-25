@@ -2,7 +2,7 @@
   "name": "Loona Pemformat SQL Dalam Talian Percuma",
   "short_name": "Pemformat SQL Dalam Talian Percuma",
   "description": "Format SQL dalam talian secara percuma: kata kunci dihurufbesarkan, klausa SELECT, FROM, WHERE, dan JOIN pada barisnya sendiri, string dipertahankan. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/sql-formatter/",
+  "id": "/ms/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

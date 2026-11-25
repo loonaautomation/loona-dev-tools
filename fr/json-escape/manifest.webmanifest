@@ -2,7 +2,7 @@
   "name": "Échappement de chaîne JSON Loona",
   "short_name": "Échappement de chaîne JSON",
   "description": "Échappez une chaîne pour l’intégrer dans du JSON : les guillemets, les barres obliques inverses, les sauts de ligne et les caractères de contrôle deviennent des séquences \\.",
-  "id": "/loona-dev-tools/fr/json-escape/",
+  "id": "/fr/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

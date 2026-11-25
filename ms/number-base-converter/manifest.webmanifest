@@ -2,7 +2,7 @@
   "name": "Loona Penukar Asas Bilangan Dalam Talian Percuma",
   "short_name": "Penukar Asas Bilangan Dalam Talian",
   "description": "Penukaran angka antara binari, oktal, desimal, dan heksadesimal dalam talian secara percuma, dengan presisi BigInt untuk nilai melampaui 2^53 dan pengesahan per digit. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/number-base-converter/",
+  "id": "/ms/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Unix 時間戳轉換器 線上免費",
   "short_name": "Unix 時間戳轉換器",
   "description": "把 Unix 時間戳（秒或毫秒）轉換成 UTC 和您本地時間的人類可讀日期，並把日期轉回時間戳。實時當前時間。免費。",
-  "id": "/loona-dev-tools/zh-hant/timestamp-converter/",
+  "id": "/zh-hant/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

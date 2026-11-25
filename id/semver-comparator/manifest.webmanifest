@@ -2,7 +2,7 @@
   "name": "Loona Pembanding Versi Semantik",
   "short_name": "Pembanding Versi Semantik",
   "description": "Validasi dan bandingkan versi semantik (MAJOR.MINOR.PATCH): mana yang lebih baru, dan jenis perubahan apa yang memisahkan mereka.",
-  "id": "/loona-dev-tools/id/semver-comparator/",
+  "id": "/id/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

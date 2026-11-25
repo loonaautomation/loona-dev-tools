@@ -2,7 +2,7 @@
   "name": "Loona Unicode-avescapekonverterare (Avkoda \\uXXXX)",
   "short_name": "Unicode-avescapekonverterare",
   "description": "Avkoda Unicode-escape-sekvenser (\\uXXXX, \\u{...}, \\xXX) tillbaka till verkliga tecken, plus \\n \\t och \\\\ escapes.",
-  "id": "/loona-dev-tools/sv/unicode-unescape/",
+  "id": "/sv/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

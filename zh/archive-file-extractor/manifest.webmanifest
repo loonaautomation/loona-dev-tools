@@ -2,7 +2,7 @@
   "name": "Loona 归档文件解压工具 在线免费",
   "short_name": "归档文件解压工具 在线版",
   "description": "一个通用的归档打开工具：拖入任何 ZIP、RAR、7Z、TAR、TAR.GZ、TAR.BZ2、TAR.XZ 或 ISO 文件，直接在您的浏览器中解压其内容。格式自动检测；不上传任何东西。",
-  "id": "/loona-dev-tools/zh/archive-file-extractor/",
+  "id": "/zh/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

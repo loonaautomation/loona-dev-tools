@@ -2,7 +2,7 @@
   "name": "Loona Google SERP-voorbeeldtool online gratis",
   "short_name": "Google SERP-voorbeeldtool",
   "description": "Bekijk online gratis een voorbeeld van hoe je paginatitel en metabeschrijving eruitzien in Google-zoekresultaten, met desktop- en mobiele weergaven en afkapwaarschuwingen op pixelbreedte. Geen registratie.",
-  "id": "/loona-dev-tools/nl/google-serp-preview/",
+  "id": "/nl/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

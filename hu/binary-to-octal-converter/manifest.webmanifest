@@ -2,7 +2,7 @@
   "name": "Loona binárisból oktálisba átalakító",
   "short_name": "Bináris–oktális átalakító",
   "description": "Alakítson bináris számokat oktálissá online — tetszőleges pontosság (BigInt), negatív számok támogatva.",
-  "id": "/loona-dev-tools/hu/binary-to-octal-converter/",
+  "id": "/hu/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

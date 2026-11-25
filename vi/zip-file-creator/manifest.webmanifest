@@ -2,7 +2,7 @@
   "name": "Công cụ tạo tệp ZIP của Loona trực tuyến miễn phí",
   "short_name": "Công cụ tạo tệp ZIP trực tuyến miễn phí",
   "description": "Tạo một tệp ZIP từ nhiều tệp ngay trong trình duyệt của bạn - thêm tệp, đặt tên cho tệp lưu trữ và tải xuống một .zip. Không có gì được tải lên; mọi thứ ở lại trên thiết bị của bạn.",
-  "id": "/loona-dev-tools/vi/zip-file-creator/",
+  "id": "/vi/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penukar Piksel (px) ke Rem",
   "short_name": "Penukar Piksel (px) ke Rem",
   "description": "Penukaran px ke rem dengan saiz fon dasar yang dapat disesuaikan (default 16px) dan jadual nilai umum.",
-  "id": "/loona-dev-tools/ms/px-to-rem-converter/",
+  "id": "/ms/px-to-rem-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

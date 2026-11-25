@@ -2,7 +2,7 @@
   "name": "Loona unzip-bestandsextractor online gratis",
   "short_name": "Unzip-bestandsextractor online",
   "description": "Open een ZIP-bestand in je browser, zie elk bestand erin met zijn grootte, en pak losse bestanden of allemaal uit. Niets wordt geüpload; extractie gebeurt op je apparaat.",
-  "id": "/loona-dev-tools/nl/unzip-file-extractor/",
+  "id": "/nl/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

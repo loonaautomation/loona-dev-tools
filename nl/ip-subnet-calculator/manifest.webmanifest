@@ -2,7 +2,7 @@
   "name": "Loona IP-subnetcalculator online gratis",
   "short_name": "IP-subnetcalculator online",
   "description": "Bereken IPv4-subnetten online gratis - netwerk, broadcast, netmask, wildcard, eerste en laatste host, aantal bruikbare hosts en IP-klasse uit elk CIDR-adres, plus een subnet-splitsingsweergave.",
-  "id": "/loona-dev-tools/nl/ip-subnet-calculator/",
+  "id": "/nl/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

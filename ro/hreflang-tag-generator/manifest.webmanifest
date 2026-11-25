@@ -2,7 +2,7 @@
   "name": "Generator de etichete hreflang Loona online gratuit",
   "short_name": "Generator de etichete hreflang online",
   "description": "Generează etichete hreflang online gratuit - lipește perechi limbă și URL, adaugă un x-default și obține setul complet de linkuri alternative cu verificări BCP 47 și URL absolut. Fără înregistrare.",
-  "id": "/loona-dev-tools/ro/hreflang-tag-generator/",
+  "id": "/ro/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Cron-lausekkeen selittäjä",
   "short_name": "Cron-lausekkeen selittäjä",
   "description": "Selitä cron-lausekkeet selkokielellä: liitä 5-kenttäinen cron-aikataulu ja lue, milloin se ajetaan, kenttä kentältä.",
-  "id": "/loona-dev-tools/fi/cron-expression-explainer/",
+  "id": "/fi/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

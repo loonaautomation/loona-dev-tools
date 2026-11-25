@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona CSV vers tableau Markdown en ligne",
   "short_name": "CSV vers tableau Markdown",
   "description": "Convertissez le CSV en un tableau Markdown en ligne et gratuitement - colonnes numériques alignées à droite automatiquement et caractères barre verticale échappés correctement. Sans inscription, fonctionne à 100 % dans votre navigateur.",
-  "id": "/loona-dev-tools/fr/csv-to-markdown-converter/",
+  "id": "/fr/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

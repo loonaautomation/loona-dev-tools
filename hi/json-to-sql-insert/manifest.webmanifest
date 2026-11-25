@@ -2,7 +2,7 @@
   "name": "Loona JSON से SQL INSERT जनरेटर",
   "short_name": "JSON से SQL INSERT जनरेटर",
   "description": "Objects की JSON array से SQL INSERT statements generate करें: strings escaped, NULLs और booleans handled, custom table name।",
-  "id": "/loona-dev-tools/hi/json-to-sql-insert/",
+  "id": "/hi/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

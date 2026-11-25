@@ -2,7 +2,7 @@
   "name": "Công cụ phân tích Cookie Header của Loona",
   "short_name": "Công cụ phân tích Cookie Header",
   "description": "Phân tích một header Cookie thành một danh sách dễ đọc: các cặp name = value, giá trị đã giải mã phần trăm được hiển thị, số lượng cookie.",
-  "id": "/loona-dev-tools/vi/cookie-parser/",
+  "id": "/vi/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

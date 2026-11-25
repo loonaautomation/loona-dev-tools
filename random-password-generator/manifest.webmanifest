@@ -2,7 +2,7 @@
   "name": "Loona Random Password Generator",
   "short_name": "Random Password Generator",
   "description": "Generate strong random passwords in your browser with the WebCrypto API: length and character sets adjustable, entropy shown.",
-  "id": "/loona-dev-tools/random-password-generator/",
+  "id": "/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Spájanie Loona CSV online zadarmo",
   "short_name": "Spájanie CSV online zadarmo",
   "description": "Spojte dva súbory CSV online zadarmo na spoločnom kľúčovom stĺpci - vnútorné spojenie alebo ľavé spojenie, duplicitné kľúče spracované spôsobom databázy. Bez registrácie, beží 100% vo vašom prehliadači.",
-  "id": "/loona-dev-tools/sk/csv-join/",
+  "id": "/sk/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

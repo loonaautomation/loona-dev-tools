@@ -2,7 +2,7 @@
   "name": "Loona pretvarač 7Z u TAR",
   "short_name": "Pretvarač 7Z u TAR",
   "description": "Pretvorite 7Z arhive u TAR na mreži: libarchive (WebAssembly) čita 7Z, ustar program za zapis ponovno ga pakira. Privatno i lokalno.",
-  "id": "/loona-dev-tools/hr/7z-to-tar-converter/",
+  "id": "/hr/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

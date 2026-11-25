@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/json-to-toml/",
+  "id": "/en-gb/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

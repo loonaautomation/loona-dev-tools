@@ -2,7 +2,7 @@
   "name": "Loona UTMリンクビルダー 無料オンライン",
   "short_name": "UTMリンクビルダー 無料オンライン",
   "description": "UTMタグ付きキャンペーンURLを無料でオンライン構築 — source、medium、campaign、term、content を正しいエンコーディングで追加し、既存のクエリパラメータは保持、保存された履歴付き。",
-  "id": "/loona-dev-tools/ja/utm-link-builder/",
+  "id": "/ja/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

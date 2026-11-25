@@ -2,7 +2,7 @@
   "name": "Loona XMLサイトマップ生成ツール 無料オンライン",
   "short_name": "XMLサイトマップ生成ツール オンライン",
   "description": "URLのリストから有効なXMLサイトマップを無料でオンライン生成します。デフォルトのlastmod、changefreq、priority付きで、URLとXMLのエスケープも正確です。登録不要、ブラウザで動作します。",
-  "id": "/loona-dev-tools/ja/xml-sitemap-generator/",
+  "id": "/ja/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

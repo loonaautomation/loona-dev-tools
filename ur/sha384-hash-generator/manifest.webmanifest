@@ -2,7 +2,7 @@
   "name": "Loona SHA-384 ہیش جنریٹر",
   "short_name": "SHA-384 ہیش جنریٹر",
   "description": "متن یا فائلوں کے SHA-384 ہیشز آن لائن گنیں: 384-bit, 96 ہیکس حروف۔ آپ کے براؤزر میں WebCrypto/pure JS کے ساتھ مقامی طور پر چلتا ہے — فائلیں کبھی اپ لوڈ نہیں ہوتیں۔",
-  "id": "/loona-dev-tools/ur/sha384-hash-generator/",
+  "id": "/ur/sha384-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

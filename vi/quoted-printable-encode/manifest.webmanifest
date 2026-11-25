@@ -2,7 +2,7 @@
   "name": "Công cụ mã hóa Quoted-Printable của Loona",
   "short_name": "Công cụ mã hóa Quoted-Printable",
   "description": "Mã hóa văn bản thành quoted-printable (MIME) trực tuyến: các byte UTF-8 thành escape =XX, ngắt dòng mềm ở 76 ký tự, theo RFC 2045.",
-  "id": "/loona-dev-tools/vi/quoted-printable-encode/",
+  "id": "/vi/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

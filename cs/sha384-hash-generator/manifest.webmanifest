@@ -2,7 +2,7 @@
   "name": "Generátor hashů Loona SHA-384",
   "short_name": "Generátor hashů SHA-384",
   "description": "Počítejte hashe SHA-384 textu nebo souborů online: 384bitové, 96 hexadecimálních znaků. Běží lokálně ve vašem prohlížeči s WebCrypto/čistým JS — soubory se nikdy nenahrávají.",
-  "id": "/loona-dev-tools/cs/sha384-hash-generator/",
+  "id": "/cs/sha384-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

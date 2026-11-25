@@ -2,7 +2,7 @@
   "name": "Convertizor CSV în XML Loona online gratuit",
   "short_name": "Convertizor CSV în XML online",
   "description": "Convertește CSV în XML online gratuit cu nume configurabile pentru elementul rădăcină și rând și escapare XML adecvată. Fără înregistrare, rulează 100% în browserul tău.",
-  "id": "/loona-dev-tools/ro/csv-to-xml-converter/",
+  "id": "/ro/csv-to-xml-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

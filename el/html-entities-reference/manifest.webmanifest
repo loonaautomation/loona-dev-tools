@@ -2,7 +2,7 @@
   "name": "Loona Πίνακας Αναφοράς Οντοτήτων HTML",
   "short_name": "Πίνακας Αναφοράς Οντοτήτων HTML",
   "description": "Ο βασικός πίνακας οντοτήτων HTML: επώνυμη οντότητα, χαρακτήρας, δεκαδικός κωδικός και σημειώσεις χρήσης για τις οντότητες που οι προγραμματιστές χρησιμοποιούν πραγματικά.",
-  "id": "/loona-dev-tools/el/html-entities-reference/",
+  "id": "/el/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

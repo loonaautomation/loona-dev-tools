@@ -2,7 +2,7 @@
   "name": "Convertizor de formate de adrese MAC Loona",
   "short_name": "Convertizor de formate de adrese MAC",
   "description": "Convertește adrese MAC între formatele cu două puncte (AA:BB:CC:DD:EE:FF), cratimă, puncte Cisco și simplu; validează adresa de 48 de biți.",
-  "id": "/loona-dev-tools/ro/mac-address-converter/",
+  "id": "/ro/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

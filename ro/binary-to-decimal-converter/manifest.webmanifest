@@ -2,7 +2,7 @@
   "name": "Convertizor binar în zecimal Loona",
   "short_name": "Convertizor binar în zecimal",
   "description": "Convertește numere binare în zecimal online — precizie arbitrară (BigInt), numere negative acceptate.",
-  "id": "/loona-dev-tools/ro/binary-to-decimal-converter/",
+  "id": "/ro/binary-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

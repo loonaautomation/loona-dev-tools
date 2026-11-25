@@ -2,7 +2,7 @@
   "name": "Codificator și decodificator cifru Caesar Loona",
   "short_name": "Codificator cifru Caesar și",
   "description": "Cifru Caesar cu orice deplasare (1–25) și un mod de decodificare: cifrul clasic cu substituție al lui Iulius Caesar, online.",
-  "id": "/loona-dev-tools/ro/caesar-cipher/",
+  "id": "/ro/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

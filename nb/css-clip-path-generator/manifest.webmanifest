@@ -2,7 +2,7 @@
   "name": "Loona CSS-clip-path-generator på nett gratis",
   "short_name": "CSS Clip-Path-generator",
   "description": "Generer CSS clip-path på nett gratis - polygonforhåndsvalg som stjerne, sekskant og pil med justerbare punkter, pluss sirkel-, ellipse- og inset-former, med direkte forhåndsvisning. Ingen registrering.",
-  "id": "/loona-dev-tools/nb/css-clip-path-generator/",
+  "id": "/nb/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

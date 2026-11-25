@@ -2,7 +2,7 @@
   "name": "Loona szövegből Base64 kódoló",
   "short_name": "Szövegből Base64 kódoló",
   "description": "Kódoljon szöveget Base64-re online, UTF-8 biztonságosan bármely nyelvhez és emojihoz, opcionális URL-biztonságos ábécével. Ingyenes, privát, a böngészőjében.",
-  "id": "/loona-dev-tools/hu/text-to-base64/",
+  "id": "/hu/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

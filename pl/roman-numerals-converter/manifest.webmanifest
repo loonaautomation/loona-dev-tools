@@ -2,7 +2,7 @@
   "name": "Loona Cyfry rzymskie na liczby",
   "short_name": "Cyfry rzymskie na liczby",
   "description": "Konwertuj cyfry rzymskie na liczby (1–3999), ze ścisłą walidacją notacji subtraktywnej (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/pl/roman-numerals-converter/",
+  "id": "/pl/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

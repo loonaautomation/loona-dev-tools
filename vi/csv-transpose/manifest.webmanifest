@@ -2,7 +2,7 @@
   "name": "Chuyển vị CSV của Loona trực tuyến miễn phí",
   "short_name": "Chuyển vị CSV trực tuyến miễn phí",
   "description": "Hoán vị CSV trực tuyến miễn phí - hoán đổi hàng và cột bằng một trình phân tích RFC 4180 đúng cách xử lý các trường được trích dẫn chính xác. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/csv-transpose/",
+  "id": "/vi/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

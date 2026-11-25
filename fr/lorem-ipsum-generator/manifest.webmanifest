@@ -2,7 +2,7 @@
   "name": "Générateur de Lorem Ipsum Loona",
   "short_name": "Générateur de Lorem Ipsum",
   "description": "Générez du texte de remplissage Lorem Ipsum : choisissez paragraphes, phrases ou mots, avec la ligne d’ouverture classique en option.",
-  "id": "/loona-dev-tools/fr/lorem-ipsum-generator/",
+  "id": "/fr/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

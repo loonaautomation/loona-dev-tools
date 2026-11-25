@@ -2,7 +2,7 @@
   "name": "Loona Конвертер JSON в строку запроса",
   "short_name": "Конвертер JSON в строку запроса",
   "description": "Создайте строку запроса URL из объекта JSON: вложенные объекты используют нотацию скобок, массивы повторяют ключ, всё кодируется в процентах.",
-  "id": "/loona-dev-tools/ru/json-to-query-string/",
+  "id": "/ru/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

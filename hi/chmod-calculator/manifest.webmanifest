@@ -2,7 +2,7 @@
   "name": "Loona Chmod कैलकुलेटर ऑनलाइन मुफ़्त",
   "short_name": "Chmod कैलकुलेटर ऑनलाइन मुफ़्त",
   "description": "Chmod permissions ऑनलाइन मुफ़्त calculate करें: checkboxes से octal (755) और symbolic (rwxr-xr-x), और octal से वापस permissions। कोई साइन-अप नहीं, 100% आपके ब्राउज़र में चलता है।",
-  "id": "/loona-dev-tools/hi/chmod-calculator/",
+  "id": "/hi/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

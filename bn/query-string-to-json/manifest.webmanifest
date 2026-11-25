@@ -2,7 +2,7 @@
   "name": "Loona Query String থেকে JSON কনভার্টার",
   "short_name": "কুয়েরি স্ট্রিং থেকে JSON রূপান্তরকারী",
   "description": "একটি URL কুয়েরি স্ট্রিং JSON-এ পার্স করুন: বন্ধনী সংকেত নেস্টেড অবজেক্ট হয়, পুনরাবৃত্ত কী অ্যারে হয়, মান টাইপ করা।",
-  "id": "/loona-dev-tools/bn/query-string-to-json/",
+  "id": "/bn/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

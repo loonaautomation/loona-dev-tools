@@ -2,7 +2,7 @@
   "name": "Loona MAC 주소 형식 변환기",
   "short_name": "MAC 주소 형식 변환기",
   "description": "MAC 주소를 콜론(AA:BB:CC:DD:EE:FF), 대시, Cisco 점, 일반 형식 사이에서 변환해요; 48-bit 주소를 검증해요.",
-  "id": "/loona-dev-tools/ko/mac-address-converter/",
+  "id": "/ko/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

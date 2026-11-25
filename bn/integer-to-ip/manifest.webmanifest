@@ -2,7 +2,7 @@
   "name": "Loona পূর্ণসংখ্যা থেকে IP ঠিকানা কনভার্টার",
   "short_name": "পূর্ণসংখ্যা থেকে IP ঠিকানা",
   "description": "একটি 32-বিট পূর্ণসংখ্যা আবার একটি বিন্দুযুক্ত IPv4 ঠিকানায় রূপান্তর করুন (3232235521 → 192.168.0.1)।",
-  "id": "/loona-dev-tools/bn/integer-to-ip/",
+  "id": "/bn/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

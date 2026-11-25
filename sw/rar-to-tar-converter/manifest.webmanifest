@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha RAR kwenda TAR",
   "short_name": "Kibadilishaji cha RAR kwenda TAR",
   "description": "Badilisha hifadhi za RAR (RAR4 na RAR5) kuwa TAR mtandaoni kwa libarchive kwenye kivinjari chako. Faili hubaki kwenye kifaa chako.",
-  "id": "/loona-dev-tools/sw/rar-to-tar-converter/",
+  "id": "/sw/rar-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

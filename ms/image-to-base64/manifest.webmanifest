@@ -2,7 +2,7 @@
   "name": "Loona Penukar Imej ke Base64",
   "short_name": "Penukar Imej ke Base64",
   "description": "Penukaran imej (PNG, JPG, GIF, WebP, SVG) ke data URI Base64 dalam talian — fail dibaca secara setempat, dengan statistik dimensi dan saiz.",
-  "id": "/loona-dev-tools/ms/image-to-base64/",
+  "id": "/ms/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Kalkulačka Loona Chmod online zadarmo",
   "short_name": "Kalkulačka Chmod online zadarmo",
   "description": "Vypočítajte povolenia chmod online zadarmo: začiarkavacie políčka na osmičkové (755) a symbolické (rwxr-xr-x) a osmičkové späť na povolenia. Bez registrácie, beží 100% vo vašom prehliadači.",
-  "id": "/loona-dev-tools/sk/chmod-calculator/",
+  "id": "/sk/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

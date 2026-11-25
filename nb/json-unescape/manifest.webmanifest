@@ -2,7 +2,7 @@
   "name": "Loona JSON-streng-av-escape",
   "short_name": "JSON-streng-av-escape",
   "description": "Av-escape en JSON-strengverdi tilbake til ren tekst: \\n, \\t, \\&quot;, \\\\ og \\uXXXX-sekvenser blir virkelige tegn.",
-  "id": "/loona-dev-tools/nb/json-unescape/",
+  "id": "/nb/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

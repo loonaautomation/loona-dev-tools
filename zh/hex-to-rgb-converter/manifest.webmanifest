@@ -2,7 +2,7 @@
   "name": "Loona HEX 转 RGB 转换器",
   "short_name": "HEX 转 RGB 转换器",
   "description": "在线把颜色从 HEX 转换成 RGB，带实时色板，并同时显示所有其他格式（HEX、RGB、HSL、HSV、CMYK）。",
-  "id": "/loona-dev-tools/zh/hex-to-rgb-converter/",
+  "id": "/zh/hex-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

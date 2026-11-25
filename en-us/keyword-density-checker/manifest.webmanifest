@@ -2,7 +2,7 @@
   "name": "Loona Keyword Density Checker - What Your Page Actually Talks About",
   "short_name": "Keyword Density Checker - What Your Page Actually Talks About",
   "description": "Check keyword density online for free - top single words plus 2-word and 3-word phrases with counts and percentage density, stopword filtering included. No sign-up.",
-  "id": "/loona-dev-tools/en-us/keyword-density-checker/",
+  "id": "/en-us/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

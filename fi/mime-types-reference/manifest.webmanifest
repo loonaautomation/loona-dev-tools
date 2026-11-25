@@ -2,7 +2,7 @@
   "name": "Loona MIME-tyyppien hakuteos (Sisältötyypit",
   "short_name": "MIME-tyyppien hakuteos (Sisältö",
   "description": "Yleiset MIME-tyypit tiedostopäätteen mukaan: asiakirjat, kuvat, ääni, video, arkistot, fontit ja verkkomuodot niiden Content-Type-arvoineen.",
-  "id": "/loona-dev-tools/fi/mime-types-reference/",
+  "id": "/fi/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

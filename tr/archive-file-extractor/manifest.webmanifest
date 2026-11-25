@@ -2,7 +2,7 @@
   "name": "Loona Arşiv Dosyası Çıkarıcı Çevrimiçi Ücretsiz",
   "short_name": "Arşiv Dosyası Çıkarıcı Çevrimiçi",
   "description": "Tek bir evrensel arşiv açıcı: herhangi bir ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ veya ISO dosyası bırakın ve içeriklerini tarayıcınızda çıkarın. Biçim otomatik olarak algılanır; hiçbir şey yüklenmez.",
-  "id": "/loona-dev-tools/tr/archive-file-extractor/",
+  "id": "/tr/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

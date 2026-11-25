@@ -2,7 +2,7 @@
   "name": "Loona CSS Clip-Path Oluşturucu Çevrimiçi Ücretsiz",
   "short_name": "CSS Clip-Path Oluşturucu",
   "description": "CSS clip-path değerini çevrimiçi ücretsiz oluşturun - ayarlanabilir noktalarla yıldız, altıgen ve ok gibi çokgen ön ayarları, artı çember, elips ve inset şekilleri, canlı bir önizlemeyle. Kayıt gerekmez.",
-  "id": "/loona-dev-tools/tr/css-clip-path-generator/",
+  "id": "/tr/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

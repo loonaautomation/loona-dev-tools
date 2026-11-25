@@ -2,7 +2,7 @@
   "name": "Loona منشئ llms.txt عبر الإنترنت مجاناً",
   "short_name": "منشئ llms.txt عبر الإنترنت مجاناً",
   "description": "أنشئ ملف llms.txt صالحاً عبر الإنترنت مجاناً - اسم الموقع، اقتباس ملخّص، تفاصيل وروابط صفحات منتقاة بصيغة llms.txt المقترحة لزواحف الذكاء الاصطناعي. دون تسجيل.",
-  "id": "/loona-dev-tools/ar/llms-txt-generator/",
+  "id": "/ar/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

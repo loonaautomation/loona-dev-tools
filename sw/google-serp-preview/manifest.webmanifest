@@ -2,7 +2,7 @@
   "name": "Loona Zana ya Onyesho la Awali la SERP ya Google Bure Mtandaoni",
   "short_name": "Zana ya Onyesho la Awali la SERP ya Google",
   "description": "Hakiki jinsi kichwa cha ukurasa wako na maelezo ya meta yatakavyoonekana katika matokeo ya utafutaji wa Google mtandaoni bure, kwa mionekano ya mezani na simu na maonyo ya ukataji wa upana wa pikseli. Bila kujisajili.",
-  "id": "/loona-dev-tools/sw/google-serp-preview/",
+  "id": "/sw/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

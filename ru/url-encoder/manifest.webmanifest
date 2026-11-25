@@ -2,7 +2,7 @@
   "name": "Loona Кодировщик &amp; декодировщик URL онлайн бесплатно",
   "short_name": "Кодировщик &amp; декодер URL онлайн",
   "description": "Кодируйте и декодируйте URL и текст запросов онлайн бесплатно, с режимами компонента и полного URL и разбором по символам. Без регистрации, в вашем браузере.",
-  "id": "/loona-dev-tools/ru/url-encoder/",
+  "id": "/ru/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

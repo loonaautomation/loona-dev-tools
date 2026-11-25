@@ -2,7 +2,7 @@
   "name": "Loona Penukar Format Alamat MAC",
   "short_name": "Penukar Format Alamat MAC",
   "description": "Penukaran alamat MAC antara format titik dua (AA:BB:CC:DD:EE:FF), tanda hubung, titik Cisco, dan polos; mengesahkan alamat 48-bit.",
-  "id": "/loona-dev-tools/ms/mac-address-converter/",
+  "id": "/ms/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

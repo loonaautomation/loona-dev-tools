@@ -2,7 +2,7 @@
   "name": "מקודד Loona Punycode (ממיר דומיין IDN)",
   "short_name": "מקודד Punycode (דומיין IDN",
   "description": "המירו שמות דומיין בינלאומיים (IDN) לצורת punycode מסוג xn--‎: ‏bücher.example הופך ל-xn--bcher-kva.example. קידוד לפי תווית.",
-  "id": "/loona-dev-tools/he/punycode-encode/",
+  "id": "/he/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

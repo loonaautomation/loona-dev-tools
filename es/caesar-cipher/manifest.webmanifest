@@ -2,7 +2,7 @@
   "name": "Loona Codificador y decodificador del cifrado César",
   "short_name": "Codificador del cifrado César y",
   "description": "Cifrado César con cualquier desplazamiento (1–25) y un modo de decodificación: el clásico cifrado por sustitución de Julio César, en línea.",
-  "id": "/loona-dev-tools/es/caesar-cipher/",
+  "id": "/es/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Числа в римские цифры",
   "short_name": "Числа в римские цифры",
   "description": "Преобразуйте числа (1–3999) в римские цифры в стандартной вычитательной форме. Бесплатный онлайн-конвертер.",
-  "id": "/loona-dev-tools/ru/number-to-roman-numerals/",
+  "id": "/ru/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

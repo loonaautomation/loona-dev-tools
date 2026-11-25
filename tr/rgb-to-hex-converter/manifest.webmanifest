@@ -2,7 +2,7 @@
   "name": "Loona RGB - HEX Dönüştürücü",
   "short_name": "RGB - HEX Dönüştürücü",
   "description": "Renkleri RGB değerinden çevrimiçi HEX değerine dönüştürün, canlı bir renk örneği ve diğer tüm biçimler (HEX, RGB, HSL, HSV, CMYK) de gösterilerek.",
-  "id": "/loona-dev-tools/tr/rgb-to-hex-converter/",
+  "id": "/tr/rgb-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

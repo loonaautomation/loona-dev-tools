@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/xml-minifier/",
+  "id": "/en-gb/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

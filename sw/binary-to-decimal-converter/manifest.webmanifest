@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Jozi kwenda Desimali",
   "short_name": "Kibadilishaji cha Jozi kwenda Desimali",
   "description": "Badilisha nambari za jozi kuwa desimali mtandaoni — usahihi wa kiholela (BigInt), nambari hasi zinaungwa mkono.",
-  "id": "/loona-dev-tools/sw/binary-to-decimal-converter/",
+  "id": "/sw/binary-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

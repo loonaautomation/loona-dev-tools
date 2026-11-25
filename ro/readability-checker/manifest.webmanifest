@@ -2,7 +2,7 @@
   "name": "Verificator de lizibilitate SEO Loona online gratuit",
   "short_name": "Verificator de lizibilitate SEO",
   "description": "Verifică lizibilitatea conținutului pentru SEO online gratuit - scoruri Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG și ARI plus statistici ale lungimii propozițiilor pentru textele web. Fără înregistrare.",
-  "id": "/loona-dev-tools/ro/readability-checker/",
+  "id": "/ro/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

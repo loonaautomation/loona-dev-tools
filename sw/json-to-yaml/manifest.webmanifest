@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha JSON kwenda YAML",
   "short_name": "Kibadilishaji cha JSON kwenda YAML",
   "description": "Badilisha JSON kuwa YAML mtandaoni: ujongezaji safi, safu na vitu vilivyoingiliana, mifululizo hunukuliwa tu wakati YAML inahitaji.",
-  "id": "/loona-dev-tools/sw/json-to-yaml/",
+  "id": "/sw/json-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

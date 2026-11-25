@@ -2,7 +2,7 @@
   "name": "Loona CSV - JSON Dönüştürücü Çevrimiçi Ücretsiz",
   "short_name": "CSV - JSON Dönüştürücü Çevrimiçi",
   "description": "CSV değerini çevrimiçi ücretsiz, tırnaklı alanları, tırnak içindeki virgülleri ve kaçışlı tırnakları işleyen düzgün bir CSV ayrıştırıcısıyla nesnelerin bir JSON dizisine dönüştürün. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/csv-to-json-converter/",
+  "id": "/tr/csv-to-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

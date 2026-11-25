@@ -2,7 +2,7 @@
   "name": "Loona Generatore di clip-path CSS online gratuito",
   "short_name": "Generatore di clip-path CSS",
   "description": "Genera CSS clip-path online gratuitamente - preset poligono come stella, esagono e freccia con punti regolabili, più forme cerchio, ellisse e inset, con un'anteprima live. Nessuna registrazione.",
-  "id": "/loona-dev-tools/it/css-clip-path-generator/",
+  "id": "/it/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

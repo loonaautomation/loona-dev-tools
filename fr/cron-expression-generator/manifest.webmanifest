@@ -2,7 +2,7 @@
   "name": "Générateur d’expressions Cron Loona en ligne gratuit",
   "short_name": "Générateur d’expressions Cron",
   "description": "Construisez des expressions Cron à partir de listes déroulantes et expliquez n’importe quelle expression Cron à 5 champs en français simple, en ligne et gratuitement. Sans inscription, fonctionne à 100 % dans votre navigateur.",
-  "id": "/loona-dev-tools/fr/cron-expression-generator/",
+  "id": "/fr/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

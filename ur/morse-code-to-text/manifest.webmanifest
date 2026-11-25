@@ -2,7 +2,7 @@
   "name": "Loona Morse کوڈ سے متن مترجم",
   "short_name": "Morse کوڈ سے متن مترجم",
   "description": "Morse کوڈ کو واپس متن میں ڈی کوڈ کریں: نقطے اور ڈیشز پیسٹ کریں (حروف اسپیس سے الگ، الفاظ کے درمیان /) اور پیغام پڑھیں۔",
-  "id": "/loona-dev-tools/ur/morse-code-to-text/",
+  "id": "/ur/morse-code-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona TSV til CSV-konverterer",
   "short_name": "TSV til CSV-konverterer",
   "description": "Konverter TSV (tabulatorseparerte verdier) til CSV: lim inn data kopiert fra Excel eller Sheets og få CSV med ordentlige anførselstegn.",
-  "id": "/loona-dev-tools/nb/tsv-to-csv/",
+  "id": "/nb/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

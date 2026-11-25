@@ -2,7 +2,7 @@
   "name": "Генератор на MD5 хешове на Loona",
   "short_name": "Генератор на MD5 хешове",
   "description": "Изчислявайте онлайн хешове MD5 на текст или файлове: 128-битови, 32 шестнадесетични символа. Работи локално в браузъра ви с WebCrypto/чист JS — файловете никога не се качват.",
-  "id": "/loona-dev-tools/bg/md5-hash-generator/",
+  "id": "/bg/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

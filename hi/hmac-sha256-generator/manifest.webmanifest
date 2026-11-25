@@ -2,7 +2,7 @@
   "name": "Loona HMAC-SHA256 जनरेटर",
   "short_name": "HMAC-SHA256 जनरेटर",
   "description": "HMAC-SHA256 signatures ऑनलाइन generate करें: एक key और message दर्ज करें, hex MAC पाएँ। WebCrypto, पूरी तरह local।",
-  "id": "/loona-dev-tools/hi/hmac-sha256-generator/",
+  "id": "/hi/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

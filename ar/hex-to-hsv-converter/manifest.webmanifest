@@ -2,7 +2,7 @@
   "name": "Loona محوّل HEX إلى HSV",
   "short_name": "محوّل HEX إلى HSV",
   "description": "حوّل الألوان من HEX إلى HSV عبر الإنترنت، مع عيّنة حية وكل التنسيقات الأخرى (HEX، RGB، HSL، HSV، CMYK) معروضة أيضاً.",
-  "id": "/loona-dev-tools/ar/hex-to-hsv-converter/",
+  "id": "/ar/hex-to-hsv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

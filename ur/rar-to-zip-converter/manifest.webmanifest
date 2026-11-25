@@ -2,7 +2,7 @@
   "name": "Loona RAR سے ZIP کنورٹر آن لائن مفت",
   "short_name": "RAR سے ZIP کنورٹر آن لائن",
   "description": "ایک RAR آرکائیو (.rar) کو عین اپنے براؤزر میں ایک معیاری ZIP فائل میں بدلیں۔ فولڈر ساخت محفوظ ہے، کچھ اپ لوڈ نہیں ہوتا، اور ZIP کہیں بھی کھلتا ہے - Windows, macOS, Android اور iPhone سب ZIP مقامی طور پر کھولتے ہیں۔",
-  "id": "/loona-dev-tools/ur/rar-to-zip-converter/",
+  "id": "/ur/rar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

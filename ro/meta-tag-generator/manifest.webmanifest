@@ -2,7 +2,7 @@
   "name": "Generator de meta etichete Loona online gratuit",
   "short_name": "Generator de meta etichete online gratuit",
   "description": "Generează meta etichete HTML online gratuit - titlu, descriere, cuvinte-cheie, autor, robots și canonic - cu o previzualizare SERP în direct în stil Google și numărătoare de caractere. Fără înregistrare.",
-  "id": "/loona-dev-tools/ro/meta-tag-generator/",
+  "id": "/ro/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

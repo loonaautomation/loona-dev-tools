@@ -2,7 +2,7 @@
   "name": "Công cụ mã hóa văn bản sang Base64 của Loona",
   "short_name": "Công cụ mã hóa văn bản sang Base64",
   "description": "Mã hóa văn bản sang Base64 trực tuyến, an toàn UTF-8 cho mọi ngôn ngữ và emoji, với một bảng chữ cái an toàn cho URL tùy chọn. Miễn phí, riêng tư, trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/text-to-base64/",
+  "id": "/vi/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

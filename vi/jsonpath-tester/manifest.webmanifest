@@ -2,7 +2,7 @@
   "name": "Công cụ kiểm tra JSONPath Loona",
   "short_name": "Công cụ kiểm tra JSONPath",
   "description": "Kiểm tra các biểu thức JSONPath trên một tài liệu JSON: ký hiệu chấm, chỉ mục, ký tự đại diện và hạ xuống đệ quy ($..key) được hỗ trợ.",
-  "id": "/loona-dev-tools/vi/jsonpath-tester/",
+  "id": "/vi/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

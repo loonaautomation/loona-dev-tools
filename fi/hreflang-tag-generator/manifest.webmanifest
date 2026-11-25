@@ -2,7 +2,7 @@
   "name": "Loona Hreflang-tunnistegeneraattori verkossa ilmaiseksi",
   "short_name": "Hreflang-tunnistegeneraattori verkossa",
   "description": "Luo hreflang-tunnisteita verkossa ilmaiseksi - liitä kieli- ja URL-parit, lisää x-default, ja saat koko alternate-linkkijoukon BCP 47- ja absoluuttisen URL:n tarkistuksilla. Ei rekisteröitymistä.",
-  "id": "/loona-dev-tools/fi/hreflang-tag-generator/",
+  "id": "/fi/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

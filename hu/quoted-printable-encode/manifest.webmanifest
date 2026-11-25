@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable kódoló",
   "short_name": "Quoted-Printable kódoló",
   "description": "Kódoljon szöveget quoted-printable (MIME) formára online: UTF-8 bájtok =XX escape-ekként, lágy sortörések 76 karakternél, az RFC 2045 szerint.",
-  "id": "/loona-dev-tools/hu/quoted-printable-encode/",
+  "id": "/hu/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

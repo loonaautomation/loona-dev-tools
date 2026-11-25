@@ -2,7 +2,7 @@
   "name": "Loona Konverter JSON ke Tabel Markdown",
   "short_name": "JSON ke Tabel Markdown",
   "description": "Konversi array objek JSON ke tabel Markdown: kolom dari kunci, pipe di-escape, siap ditempel ke README.",
-  "id": "/loona-dev-tools/id/json-to-markdown-table/",
+  "id": "/id/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

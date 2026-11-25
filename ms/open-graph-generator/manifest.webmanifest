@@ -2,7 +2,7 @@
   "name": "Loona Penjana Open Graph & Twitter Card",
   "short_name": "Open Graph & Kad Twitter",
   "description": "Buat meta tag Open Graph dan Twitter Card dalam talian secara percuma, dengan pratonton kad sosial langsung - judul, deskripsi, imej, URL, dan nama laman web. Tanpa pendaftaran, berjalan di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/open-graph-generator/",
+  "id": "/ms/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

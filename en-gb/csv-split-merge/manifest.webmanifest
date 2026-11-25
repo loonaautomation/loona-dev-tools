@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/csv-split-merge/",
+  "id": "/en-gb/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

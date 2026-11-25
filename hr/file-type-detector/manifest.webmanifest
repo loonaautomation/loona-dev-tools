@@ -2,7 +2,7 @@
   "name": "Loona otkrivanje vrste datoteke na mreži besplatno",
   "short_name": "Detektor vrste datoteke na mreži besplatno",
   "description": "Otkrijte pravu vrstu datoteke na mreži besplatno iz potpisa zaglavlja magičnih bajtova - PNG, PDF, ZIP, MP4, EXE i 30+ formata - i dobijte upozorenje kad se ekstenzija ne slaže. Ništa se ne prenosi.",
-  "id": "/loona-dev-tools/hr/file-type-detector/",
+  "id": "/hr/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

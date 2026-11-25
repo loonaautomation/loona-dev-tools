@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ til TAR-konverter",
   "short_name": "TAR.GZ til TAR-konverter",
   "description": "Fjern gzip-laget fra et .tar.gz- / .tgz-arkiv for at få den almindelige TAR, online og lokalt — ingen udtrækningsværktøjer nødvendige.",
-  "id": "/loona-dev-tools/da/tar-gz-to-tar-converter/",
+  "id": "/da/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

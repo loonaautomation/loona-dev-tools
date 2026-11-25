@@ -2,7 +2,7 @@
   "name": "Loona Penukar JSON ke INI",
   "short_name": "Penukar JSON ke INI",
   "description": "Penukaran objek JSON ke format INI: skalar tingkat atas terlebih dahulu, objek bersarang sebagai [section]. Penukar dalam talian percuma.",
-  "id": "/loona-dev-tools/ms/json-to-ini/",
+  "id": "/ms/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

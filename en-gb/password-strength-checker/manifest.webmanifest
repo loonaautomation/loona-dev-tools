@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/password-strength-checker/",
+  "id": "/en-gb/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

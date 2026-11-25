@@ -2,7 +2,7 @@
   "name": "Loona HTML 实体编码器",
   "short_name": "HTML 实体编码器",
   "description": "把特殊字符编码为 HTML 实体：命名（&copy;）、十进制或十六进制数字引用。转义标记、引号和非 ASCII 文本。",
-  "id": "/loona-dev-tools/zh/html-entities-encode/",
+  "id": "/zh/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

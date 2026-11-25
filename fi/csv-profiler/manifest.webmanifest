@@ -2,7 +2,7 @@
   "name": "Loona CSV-profiloija verkossa ilmaiseksi",
   "short_name": "CSV-profiloija verkossa ilmaiseksi",
   "description": "Profiloi CSV-tiedosto verkossa ilmaiseksi - sarakekohtaiset tyyppiarvaukset, tyhjien solujen määrät, yksilöllisten arvojen määrät, numeerinen min/max ja huippuarvot, jotta ymmärrät tiedoston ennen sen käyttöä. Ei rekisteröitymistä.",
-  "id": "/loona-dev-tools/fi/csv-profiler/",
+  "id": "/fi/csv-profiler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

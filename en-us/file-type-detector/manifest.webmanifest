@@ -2,7 +2,7 @@
   "name": "Loona File Type Detector - What the File Really Is, Not What It Is Named",
   "short_name": "File Type Detector - What the File Really Is, Not What It Is Named",
   "description": "Detect a file's real type online for free from its magic-byte header signature - PNG, PDF, ZIP, MP4, EXE and 30+ formats - and get a warning when the extension disagrees. Nothing uploaded.",
-  "id": "/loona-dev-tools/en-us/file-type-detector/",
+  "id": "/en-us/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

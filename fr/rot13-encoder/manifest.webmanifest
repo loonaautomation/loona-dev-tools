@@ -2,7 +2,7 @@
   "name": "Encodeur et décodeur ROT13 Loona",
   "short_name": "Encodeur et décodeur ROT13",
   "description": "ROT13 sur n’importe quel texte : faites tourner les lettres de 13 places. Encoder et décoder sont la même opération. Classique pour les spoilers et les énigmes.",
-  "id": "/loona-dev-tools/fr/rot13-encoder/",
+  "id": "/fr/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

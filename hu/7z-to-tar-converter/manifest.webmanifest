@@ -2,7 +2,7 @@
   "name": "Loona 7Z-ből TAR-ba átalakító",
   "short_name": "7Z–TAR átalakító",
   "description": "Alakítson 7Z archívumokat TAR-rá online: a libarchive (WebAssembly) olvassa a 7Z-t, egy ustar író újracsomagolja. Privát és helyi.",
-  "id": "/loona-dev-tools/hu/7z-to-tar-converter/",
+  "id": "/hu/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

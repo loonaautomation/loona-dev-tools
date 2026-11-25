@@ -2,7 +2,7 @@
   "name": "Конвертор от HSV към RGB на Loona",
   "short_name": "Конвертор от HSV към RGB",
   "description": "Конвертирайте онлайн цветове от HSV към RGB, с мострa на живо и всички останали формати (HEX, RGB, HSL, HSV, CMYK) също показани.",
-  "id": "/loona-dev-tools/bg/hsv-to-rgb-converter/",
+  "id": "/bg/hsv-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

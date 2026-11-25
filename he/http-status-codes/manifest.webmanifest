@@ -2,7 +2,7 @@
   "name": "מדריך קודי סטטוס HTTP של Loona",
   "short_name": "מדריך קודי סטטוס HTTP",
   "description": "כל קוד סטטוס HTTP נפוץ עם המשמעות שלו: 2xx הצלחה, 3xx הפניות, 4xx שגיאות לקוח, 5xx שגיאות שרת — מוסבר בפשטות.",
-  "id": "/loona-dev-tools/he/http-status-codes/",
+  "id": "/he/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

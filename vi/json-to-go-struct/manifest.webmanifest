@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi JSON sang Go Struct của Loona",
   "short_name": "Công cụ chuyển đổi JSON sang Go Struct",
   "description": "Chuyển đổi JSON thành các định nghĩa struct Go với các thẻ json: int64/float64 được phân biệt, omitempty cho các khóa bị thiếu trong một số mục của mảng.",
-  "id": "/loona-dev-tools/vi/json-to-go-struct/",
+  "id": "/vi/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

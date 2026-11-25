@@ -2,7 +2,7 @@
   "name": "Loona HTML entitás kódoló és dekódoló online ingyen",
   "short_name": "HTML entitás kódoló és dekódoló",
   "description": "Kódoljon szöveget HTML entitásokká (nevesítetten, mint az &amp;copy;, vagy számozottan, mint az &amp;#169;), és dekódolja az entitásokat vissza sima szöveggé. Ingyen, regisztráció nélkül, a böngészőjében.",
-  "id": "/loona-dev-tools/hu/html-entity-encoder/",
+  "id": "/hu/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

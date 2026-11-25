@@ -2,7 +2,7 @@
   "name": "Loona HMAC-SHA256 생성기",
   "short_name": "HMAC-SHA256 생성기",
   "description": "HMAC-SHA256 서명을 온라인에서 생성해요: 키와 메시지를 입력하고 십육진수 MAC을 얻으세요. WebCrypto, 완전히 로컬이에요.",
-  "id": "/loona-dev-tools/ko/hmac-sha256-generator/",
+  "id": "/ko/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

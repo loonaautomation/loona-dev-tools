@@ -2,7 +2,7 @@
   "name": "Generátor Loona CSS Clip-Path online zadarmo",
   "short_name": "Generátor CSS Clip-Path",
   "description": "Generujte CSS clip-path online zadarmo - predvoľby polygónov ako hviezda, šesťuholník a šípka s nastaviteľnými bodmi, plus tvary kruh, elipsa a inset, so živým náhľadom. Bez registrácie.",
-  "id": "/loona-dev-tools/sk/css-clip-path-generator/",
+  "id": "/sk/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona দশমিক থেকে হেক্সাডেসিমাল কনভার্টার",
   "short_name": "দশমিক থেকে হেক্সাডেসিমাল",
   "description": "অনলাইনে দশমিক সংখ্যা হেক্সাডেসিমালে রূপান্তর করুন — নির্বিচারে নির্ভুলতা (BigInt), ঋণাত্মক সংখ্যা সমর্থিত।",
-  "id": "/loona-dev-tools/bn/decimal-to-hex-converter/",
+  "id": "/bn/decimal-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

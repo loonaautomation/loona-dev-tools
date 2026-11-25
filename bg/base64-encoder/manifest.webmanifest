@@ -2,7 +2,7 @@
   "name": "Base64 кодиране и декодиране на Loona онлайн безплатно",
   "short_name": "Base64 кодиране и декодиране",
   "description": "Кодирайте текст или файлове в Base64 и декодирайте Base64 обратно, безопасно за UTF-8 за всеки език и емоджи, с URL-безопасна опция. Безплатно, без регистрация, в браузъра ви.",
-  "id": "/loona-dev-tools/bg/base64-encoder/",
+  "id": "/bg/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

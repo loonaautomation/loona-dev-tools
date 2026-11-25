@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Κατακερματισμού SHA-256",
   "short_name": "Γεννήτρια Κατακερματισμού SHA-256",
   "description": "Υπολογίστε hash SHA-256 κειμένου ή αρχείων διαδικτυακά: 256-bit, 64 δεκαεξαδικοί χαρακτήρες. Εκτελείται τοπικά στο πρόγραμμα περιήγησής σας με WebCrypto/καθαρή JS — τα αρχεία δεν μεταφορτώνονται ποτέ.",
-  "id": "/loona-dev-tools/el/sha256-hash-generator/",
+  "id": "/el/sha256-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

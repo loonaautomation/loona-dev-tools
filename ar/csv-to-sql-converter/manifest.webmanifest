@@ -2,7 +2,7 @@
   "name": "Loona محوّل CSV إلى SQL عبر الإنترنت مجاناً",
   "short_name": "محوّل CSV إلى SQL عبر الإنترنت",
   "description": "حوّل CSV إلى SQL عبر الإنترنت مجاناً - CREATE TABLE بأنواع أعمدة مستنتجة زائد INSERT واحد لكل صف، لـ MySQL أو PostgreSQL أو SQLite. دون تسجيل، يعمل 100% في متصفحك.",
-  "id": "/loona-dev-tools/ar/csv-to-sql-converter/",
+  "id": "/ar/csv-to-sql-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

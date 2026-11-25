@@ -2,7 +2,7 @@
   "name": "Конвертор от XML към CSV на Loona",
   "short_name": "Конвертор от XML към CSV",
   "description": "Конвертирайте XML в CSV: повтарящите се елементи стават редове, техните деца и атрибути стават колони. Безплатен онлайн конвертор.",
-  "id": "/loona-dev-tools/bg/xml-to-csv/",
+  "id": "/bg/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

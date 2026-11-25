@@ -2,7 +2,7 @@
   "name": "Convertizor YAML în TOML Loona",
   "short_name": "Convertizor YAML în TOML",
   "description": "Convertește YAML în TOML online (prin modelul de date partajat): tabele, scalari și tablouri mapate la regulile de aspect TOML.",
-  "id": "/loona-dev-tools/ro/yaml-to-toml/",
+  "id": "/ro/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

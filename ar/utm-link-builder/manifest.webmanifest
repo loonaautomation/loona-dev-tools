@@ -2,7 +2,7 @@
   "name": "Loona منشئ روابط UTM عبر الإنترنت مجاناً",
   "short_name": "منشئ روابط UTM عبر الإنترنت مجاناً",
   "description": "ابنِ عناوين URL لحملات موسومة بـ UTM عبر الإنترنت مجاناً - تُضاف المصدر والوسيط والحملة والمصطلح والمحتوى بترميز صحيح، مع حفظ معاملات الاستعلام الموجودة، زائد سجل محفوظ.",
-  "id": "/loona-dev-tools/ar/utm-link-builder/",
+  "id": "/ar/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

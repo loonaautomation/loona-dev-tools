@@ -2,7 +2,7 @@
   "name": "ממיר Loona בינארי לעשרוני",
   "short_name": "ממיר בינארי לעשרוני",
   "description": "המירו מספרים בינאריים לעשרוני באופן מקוון — דיוק שרירותי (BigInt), מספרים שליליים נתמכים.",
-  "id": "/loona-dev-tools/he/binary-to-decimal-converter/",
+  "id": "/he/binary-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

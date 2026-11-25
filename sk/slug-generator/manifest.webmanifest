@@ -2,7 +2,7 @@
   "name": "Generátor slugov Loona (Tvorca slugov URL)",
   "short_name": "Generátor slugov (Slug URL",
   "description": "Generujte čisté slugy URL z názvov: diakritika odstránená, malé písmená, medzery na pomlčky (alebo podčiarkovníky). Bezplatný tvorca slugov.",
-  "id": "/loona-dev-tools/sk/slug-generator/",
+  "id": "/sk/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

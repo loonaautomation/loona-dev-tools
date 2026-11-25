@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator sumy kontrolnej CRC32",
   "short_name": "Kalkulator sumy kontrolnej CRC32",
   "description": "Obliczaj hashe CRC32 tekstu lub plików online: 32-bitowe, 8 znaków szesnastkowych. Działa lokalnie w przeglądarce z WebCrypto/czystym JS — pliki nigdy nie są przesyłane.",
-  "id": "/loona-dev-tools/pl/crc32-calculator/",
+  "id": "/pl/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

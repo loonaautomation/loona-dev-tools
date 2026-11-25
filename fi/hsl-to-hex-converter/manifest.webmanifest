@@ -2,7 +2,7 @@
   "name": "Loona HSL-HEX-muunnin",
   "short_name": "HSL-HEX-muunnin",
   "description": "Muunna värejä HSL:stä HEX:iin verkossa, elävällä värimallilla ja kaikilla muilla muodoilla (HEX, RGB, HSL, HSV, CMYK) myös näytettynä.",
-  "id": "/loona-dev-tools/fi/hsl-to-hex-converter/",
+  "id": "/fi/hsl-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

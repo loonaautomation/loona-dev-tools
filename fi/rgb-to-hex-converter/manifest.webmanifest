@@ -2,7 +2,7 @@
   "name": "Loona RGB-HEX-muunnin",
   "short_name": "RGB-HEX-muunnin",
   "description": "Muunna värejä RGB:stä HEX:iin verkossa, elävällä värimallilla ja kaikilla muilla muodoilla (HEX, RGB, HSL, HSV, CMYK) myös näytettynä.",
-  "id": "/loona-dev-tools/fi/rgb-to-hex-converter/",
+  "id": "/fi/rgb-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

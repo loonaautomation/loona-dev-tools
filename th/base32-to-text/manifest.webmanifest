@@ -2,7 +2,7 @@
   "name": "Loona ตัวถอดรหัส Base32 เป็นข้อความ",
   "short_name": "ตัวถอดรหัส Base32 เป็นข้อความ",
   "description": "ถอดรหัส Base32 (RFC 4648) กลับเป็นข้อความ — ไม่คำนึงถึงตัวพิมพ์ การเติมเป็นทางเลือก กู้คืนสตริงที่เข้ารหัสสไตล์ TOTP",
-  "id": "/loona-dev-tools/th/base32-to-text/",
+  "id": "/th/base32-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

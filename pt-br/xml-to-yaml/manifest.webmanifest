@@ -2,7 +2,7 @@
   "name": "Loona Conversor de XML para YAML",
   "short_name": "Conversor de XML para YAML",
   "description": "Converta XML para YAML: atributos como @keys, elementos repetidos como listas, valores tipificados. Analisador real, não regex.",
-  "id": "/loona-dev-tools/pt-br/xml-to-yaml/",
+  "id": "/pt-br/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

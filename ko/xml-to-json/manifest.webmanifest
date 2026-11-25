@@ -2,7 +2,7 @@
   "name": "Loona XML을 JSON으로 변환",
   "short_name": "XML을 JSON으로 변환",
   "description": "XML을 JSON으로 온라인 변환해요: 속성은 @keys로, 반복 요소는 배열로, 텍스트는 타입이 부여된 숫자와 함께 값으로요.",
-  "id": "/loona-dev-tools/ko/xml-to-json/",
+  "id": "/ko/xml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

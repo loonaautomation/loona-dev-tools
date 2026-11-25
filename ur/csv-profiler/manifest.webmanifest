@@ -2,7 +2,7 @@
   "name": "Loona CSV پروفائلر آن لائن مفت",
   "short_name": "CSV پروفائلر آن لائن مفت",
   "description": "ایک CSV فائل آن لائن مفت پروفائل کریں - فی-کالم قسم اندازے، خالی-خانہ گنتیاں، منفرد قدر گنتیاں، عددی min/max اور اہم قدریں، تاکہ آپ فائل استعمال کرنے سے پہلے اسے سمجھیں۔ کوئی سائن اپ نہیں۔",
-  "id": "/loona-dev-tools/ur/csv-profiler/",
+  "id": "/ur/csv-profiler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

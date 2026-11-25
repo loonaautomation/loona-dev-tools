@@ -2,7 +2,7 @@
   "name": "Loona مشفّر Quoted-Printable",
   "short_name": "مشفّر Quoted-Printable",
   "description": "رمّز النص كـ quoted-printable ‏(MIME) عبر الإنترنت: بايتات UTF-8 كتهريبات =XX، فواصل أسطر خفيفة عند 76 حرفاً، حسب RFC 2045.",
-  "id": "/loona-dev-tools/ar/quoted-printable-encode/",
+  "id": "/ar/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

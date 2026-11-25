@@ -2,7 +2,7 @@
   "name": "Prevodník Loona RAR na TAR",
   "short_name": "Prevodník RAR na TAR",
   "description": "Preveďte archívy RAR (RAR4 a RAR5) na TAR online pomocou libarchive vo vašom prehliadači. Súbory zostávajú na vašom zariadení.",
-  "id": "/loona-dev-tools/sk/rar-to-tar-converter/",
+  "id": "/sk/rar-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

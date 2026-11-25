@@ -2,7 +2,7 @@
   "name": "Loona Генератор слагов (создатель слагов URL)",
   "short_name": "Генератор слагов (слаг URL",
   "description": "Генерируйте чистые слаги URL из заголовков: ударения убраны, строчные буквы, пробелы заменены дефисами (или подчёркиваниями). Бесплатный создатель слагов.",
-  "id": "/loona-dev-tools/ru/slug-generator/",
+  "id": "/ru/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

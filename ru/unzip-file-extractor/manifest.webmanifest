@@ -2,7 +2,7 @@
   "name": "Loona Распаковщик ZIP-файлов онлайн бесплатно",
   "short_name": "Извлекатель файлов Unzip онлайн",
   "description": "Откройте файл ZIP в вашем браузере, смотрите каждый файл внутри с его размером и извлекайте отдельные файлы или все из них. Ничего не загружается; извлечение происходит на вашем устройстве.",
-  "id": "/loona-dev-tools/ru/unzip-file-extractor/",
+  "id": "/ru/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

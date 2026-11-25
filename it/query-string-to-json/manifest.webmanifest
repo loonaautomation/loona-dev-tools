@@ -2,7 +2,7 @@
   "name": "Loona Convertitore da stringa di query a JSON",
   "short_name": "Convertitore da stringa di query a JSON",
   "description": "Analizza una stringa di query URL in JSON: la notazione con parentesi quadre diventa oggetti annidati, le chiavi ripetute diventano array, valori tipizzati.",
-  "id": "/loona-dev-tools/it/query-string-to-json/",
+  "id": "/it/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

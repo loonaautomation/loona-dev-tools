@@ -2,7 +2,7 @@
   "name": "Loona Кодировщик текста в Base58",
   "short_name": "Кодировщик текста в Base58",
   "description": "Кодируйте текст в Base58 (алфавит Bitcoin) онлайн — без 0, O, I или l, кодировка адресов Bitcoin и хешей IPFS.",
-  "id": "/loona-dev-tools/ru/text-to-base58/",
+  "id": "/ru/text-to-base58/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

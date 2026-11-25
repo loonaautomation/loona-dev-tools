@@ -2,7 +2,7 @@
   "name": "Кодувальник тексту Loona у Base32",
   "short_name": "Кодувальник тексту в Base32",
   "description": "Кодуйте текст у Base32 (RFC 4648) онлайн — кодування без урахування регістру, яке використовується в секретах TOTP і безпечних для DNS ідентифікаторах.",
-  "id": "/loona-dev-tools/uk/text-to-base32/",
+  "id": "/uk/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

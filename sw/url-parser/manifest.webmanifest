@@ -2,7 +2,7 @@
   "name": "Loona Kichanganua URL Bure Mtandaoni",
   "short_name": "Kichanganua cha URL Mtandaoni Bure",
   "description": "Changanua URL yoyote mtandaoni bure kuwa protokali, mpangishaji, bandari, njia, vigezo vya hoja na hashi - hariri vigezo na ujenge URL upya. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/url-parser/",
+  "id": "/sw/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

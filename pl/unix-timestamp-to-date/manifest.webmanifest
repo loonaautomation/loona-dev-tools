@@ -2,7 +2,7 @@
   "name": "Loona Konwerter uniksowego znacznika czasu na datę",
   "short_name": "Znacznik czasu Uniksa na datę",
   "description": "Konwertuj uniksowy znacznik czasu (sekundy lub milisekundy) na datę zrozumiałą dla człowieka: UTC, czas lokalny, ISO 8601 i czas względny.",
-  "id": "/loona-dev-tools/pl/unix-timestamp-to-date/",
+  "id": "/pl/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

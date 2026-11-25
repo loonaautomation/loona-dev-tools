@@ -2,7 +2,7 @@
   "name": "Loona Estrattore di file 7Z online gratuito",
   "short_name": "Estrattore di file 7Z online gratuito",
   "description": "Apri archivi 7z direttamente nel tuo browser - vedi ogni file dentro, scarica singoli file o tutto come ZIP. Nulla viene caricato; l'estrazione avviene sul tuo dispositivo con un motore WebAssembly.",
-  "id": "/loona-dev-tools/it/7z-file-extractor/",
+  "id": "/it/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

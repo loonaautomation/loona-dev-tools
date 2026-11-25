@@ -2,7 +2,7 @@
   "name": "Referință de coduri de stare HTTP Loona",
   "short_name": "Referință de coduri de stare HTTP",
   "description": "Fiecare cod de stare HTTP comun cu semnificația lui: 2xx succes, 3xx redirecționări, 4xx erori ale clientului, 5xx erori ale serverului — explicate simplu.",
-  "id": "/loona-dev-tools/ro/http-status-codes/",
+  "id": "/ro/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

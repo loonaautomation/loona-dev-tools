@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable डिकोडर",
   "short_name": "Quoted-Printable डिकोडर",
   "description": "Quoted-printable (MIME) text को वापस पठनीय UTF-8 में decode करें: =XX escapes और soft line breaks RFC 2045 के अनुसार संभाले गए।",
-  "id": "/loona-dev-tools/hi/quoted-printable-decode/",
+  "id": "/hi/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

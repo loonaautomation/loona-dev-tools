@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha JSON kwenda JSON Schema",
   "short_name": "Kizalishaji cha JSON kwenda JSON Schema",
   "description": "Zalisha JSON Schema (rasimu 2020-12) kutoka sampuli ya JSON: aina zimebainishwa, sifa za vitu na funguo zinazohitajika zimejumuishwa.",
-  "id": "/loona-dev-tools/sw/json-to-json-schema/",
+  "id": "/sw/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

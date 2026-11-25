@@ -2,7 +2,7 @@
   "name": "Loona Konverter CSV ke TSV",
   "short_name": "Konverter CSV ke TSV",
   "description": "Konversi CSV ke TSV (nilai yang dipisahkan tab): parsing field dikutip penuh, tab sebagai pembatas. Konverter online gratis.",
-  "id": "/loona-dev-tools/id/csv-to-tsv/",
+  "id": "/id/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

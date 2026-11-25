@@ -2,7 +2,7 @@
   "name": "Loona Kisimbaji cha Sifa ya A1Z26 (Herufi kwenda Nambari)",
   "short_name": "Kisimbaji cha A1Z26 (Herufi",
   "description": "Simba maandishi kwa sifa ya A1Z26: A=1, B=2 ... Z=26. Msimbo wa kitambo wa mafumbo na vyumba vya kutoroka.",
-  "id": "/loona-dev-tools/sw/a1z26-cipher-encoder/",
+  "id": "/sw/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

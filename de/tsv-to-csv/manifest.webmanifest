@@ -2,7 +2,7 @@
   "name": "Loona TSV-zu-CSV-Konverter",
   "short_name": "TSV-zu-CSV-Konverter",
   "description": "Konvertieren Sie TSV (tabulatorgetrennte Werte) zu CSV: Fügen Sie aus Excel oder Sheets kopierte Daten ein und erhalten Sie korrekt angeführtes CSV.",
-  "id": "/loona-dev-tools/de/tsv-to-csv/",
+  "id": "/de/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

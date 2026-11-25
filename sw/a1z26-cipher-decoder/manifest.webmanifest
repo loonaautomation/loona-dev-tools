@@ -2,7 +2,7 @@
   "name": "Loona Kisimbuaji cha Sifa ya A1Z26 (Nambari kwenda Herufi)",
   "short_name": "Kisimbuaji cha A1Z26 (Nambari",
   "description": "Simbua misimbo ya nambari ya A1Z26 kurudi kuwa herufi: 1=A, 2=B ... 26=Z. Imetenganishwa kwa vistari, koma au nafasi.",
-  "id": "/loona-dev-tools/sw/a1z26-cipher-decoder/",
+  "id": "/sw/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona A1Z26暗号エンコーダー（文字から数字へ）",
   "short_name": "A1Z26暗号エンコーダー（文字",
   "description": "テキストをA1Z26暗号でエンコードします。A=1、B=2 ... Z=26。古典的なパズルと脱出ゲームのコードです。",
-  "id": "/loona-dev-tools/ja/a1z26-cipher-encoder/",
+  "id": "/ja/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

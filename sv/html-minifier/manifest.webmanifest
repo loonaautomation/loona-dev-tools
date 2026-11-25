@@ -2,7 +2,7 @@
   "name": "Loona HTML-minimerare",
   "short_name": "HTML-minimerare",
   "description": "Minimera HTML online: ta bort kommentarer och kollapsa blanksteg samtidigt som pre-, textarea-, script- och style-innehåll skyddas.",
-  "id": "/loona-dev-tools/sv/html-minifier/",
+  "id": "/sv/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

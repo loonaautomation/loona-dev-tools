@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi CSV sang XML của Loona trực tuyến miễn phí",
   "short_name": "Công cụ chuyển đổi CSV sang XML trực tuyến",
   "description": "Chuyển đổi CSV sang XML trực tuyến miễn phí với tên phần tử gốc và phần tử hàng có thể cấu hình và escape XML đúng cách. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/csv-to-xml-converter/",
+  "id": "/vi/csv-to-xml-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Конвертер снятия экранирования Unicode (декодирование \\uXXXX)",
   "short_name": "Конвертер снятия экранирования Unicode",
   "description": "Декодируйте escape-последовательности Unicode (\\uXXXX, \\u{...}, \\xXX) обратно в настоящие символы, а также escape-последовательности \\n \\t и \\\\ .",
-  "id": "/loona-dev-tools/ru/unicode-unescape/",
+  "id": "/ru/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV-ből YAML-ba átalakító",
   "short_name": "CSV–YAML átalakító",
   "description": "Alakítson CSV táblázatokat YAML-lá: a fejlécsor kulcsokká válik, minden sor egy elem egy YAML listában, a számok típusosan.",
-  "id": "/loona-dev-tools/hu/csv-to-yaml/",
+  "id": "/hu/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

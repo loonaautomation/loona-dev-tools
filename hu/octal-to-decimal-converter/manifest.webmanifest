@@ -2,7 +2,7 @@
   "name": "Loona oktálisból decimálisba átalakító",
   "short_name": "Oktálisból decimálisba átalakító",
   "description": "Alakítson oktális számokat decimálissá online — tetszőleges pontosság (BigInt), negatív számok támogatva.",
-  "id": "/loona-dev-tools/hu/octal-to-decimal-converter/",
+  "id": "/hu/octal-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi CSV sang bảng Markdown của Loona trực tuyến",
   "short_name": "CSV sang bảng Markdown",
   "description": "Chuyển đổi CSV sang một bảng Markdown trực tuyến miễn phí - các cột số tự động căn phải và các ký tự sổ dọc được escape đúng. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/csv-to-markdown-converter/",
+  "id": "/vi/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

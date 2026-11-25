@@ -2,7 +2,7 @@
   "name": "Loona JavaScript Küçültücü Çevrimiçi Ücretsiz",
   "short_name": "JavaScript Küçültücü Çevrimiçi",
   "description": "JavaScript değerini çevrimiçi ücretsiz, dizeleri, şablon sabitlerini ve düzenli ifadeleri koruyan tutucu bir belirteçleyiciyle küçültün. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/javascript-minifier/",
+  "id": "/tr/javascript-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

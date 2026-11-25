@@ -2,7 +2,7 @@
   "name": "Loona JWT-encoder (HS256-ondertekenaar)",
   "short_name": "JWT-encoder (HS256-ondertekenaar)",
   "description": "Maak en onderteken JSON Web Tokens met HS256 in je browser: payload-JSON plus een geheim, of alg=none. WebCrypto-ondertekening.",
-  "id": "/loona-dev-tools/nl/jwt-encoder/",
+  "id": "/nl/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

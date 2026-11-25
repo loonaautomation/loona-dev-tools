@@ -2,7 +2,7 @@
   "name": "Loona HMAC-SHA256 generátor",
   "short_name": "HMAC-SHA256 generátor",
   "description": "Generáljon HMAC-SHA256 aláírásokat online: adjon meg egy kulcsot és egy üzenetet, kapja meg a hexadecimális MAC-et. WebCrypto, teljesen helyi.",
-  "id": "/loona-dev-tools/hu/hmac-sha256-generator/",
+  "id": "/hu/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

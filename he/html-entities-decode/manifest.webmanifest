@@ -2,7 +2,7 @@
   "name": "מפענח ישויות HTML של Loona",
   "short_name": "מפענח ישויות HTML",
   "description": "פענחו ישויות HTML בחזרה לתווים פשוטים: הפניות בעלות שם, עשרוניות והקס (‎&copy;, &#169;, &#xA9;) כולן נתמכות.",
-  "id": "/loona-dev-tools/he/html-entities-decode/",
+  "id": "/he/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้างรหัสผ่านสุ่ม",
   "short_name": "ตัวสร้างรหัสผ่านแบบสุ่ม",
   "description": "สร้างรหัสผ่านสุ่มที่แข็งแกร่งในเบราว์เซอร์ของคุณด้วย WebCrypto API: ความยาวและชุดตัวอักษรปรับได้ เอนโทรปีถูกแสดง",
-  "id": "/loona-dev-tools/th/random-password-generator/",
+  "id": "/th/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

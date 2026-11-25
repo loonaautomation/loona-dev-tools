@@ -2,7 +2,7 @@
   "name": "Loona XML থেকে CSV কনভার্টার",
   "short_name": "XML থেকে CSV কনভার্টার",
   "description": "XML CSV-তে রূপান্তর করুন: পুনরাবৃত্ত উপাদান সারি হয়, তাদের সন্তান ও অ্যাট্রিবিউট কলাম হয়। বিনামূল্যে অনলাইন কনভার্টার।",
-  "id": "/loona-dev-tools/bn/xml-to-csv/",
+  "id": "/bn/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generátor Loona Lorem Ipsum",
   "short_name": "Generátor Lorem Ipsum",
   "description": "Generujte výplňový text Lorem Ipsum: vyberte odstavce, věty nebo slova, s klasickým úvodním řádkem volitelně.",
-  "id": "/loona-dev-tools/cs/lorem-ipsum-generator/",
+  "id": "/cs/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

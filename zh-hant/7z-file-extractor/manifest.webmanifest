@@ -2,7 +2,7 @@
   "name": "Loona 7Z 檔案解壓工具 線上免費",
   "short_name": "7Z 檔案解壓工具 線上免費",
   "description": "直接在您的瀏覽器中開啟 7z 歸檔——檢視內部的每個檔案，下載單個檔案或把全部內容下載為 ZIP。不上傳任何東西；解壓在您的裝置上用 WebAssembly 引擎進行。",
-  "id": "/loona-dev-tools/zh-hant/7z-file-extractor/",
+  "id": "/zh-hant/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

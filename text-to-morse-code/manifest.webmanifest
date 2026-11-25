@@ -2,7 +2,7 @@
   "name": "Loona Text to Morse Code Translator",
   "short_name": "Text to Morse Code Translator",
   "description": "Translate text to Morse code (letters, digits and common punctuation), words separated by /. Free Morse translator.",
-  "id": "/loona-dev-tools/text-to-morse-code/",
+  "id": "/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

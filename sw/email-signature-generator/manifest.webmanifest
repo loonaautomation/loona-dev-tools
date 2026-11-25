@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Saini ya Barua Pepe ya HTML Bure Mtandaoni",
   "short_name": "Saini ya Barua Pepe ya HTML",
   "description": "Unda saini ya barua pepe ya HTML ya kitaalamu mtandaoni bure - jina, cheo, kampuni, simu, barua pepe na tovuti katika HTML ya jedwali salama kwa barua pepe inayofanya kazi katika Gmail na Outlook. Bila kujisajili.",
-  "id": "/loona-dev-tools/sw/email-signature-generator/",
+  "id": "/sw/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

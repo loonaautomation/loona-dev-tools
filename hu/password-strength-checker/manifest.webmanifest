@@ -2,7 +2,7 @@
   "name": "Loona jelszóerősség-ellenőrző online ingyen",
   "short_name": "Jelszóerősség-ellenőrző",
   "description": "Ellenőrizze a jelszóerősséget online ingyen átlátható entrópiabecsléssel, konkrét visszajelzéssel és feltörésiidő-becsléssel. A jelszó soha nem hagyja el a böngészőjét - semmi sem kerül elküldésre vagy tárolásra.",
-  "id": "/loona-dev-tools/hu/password-strength-checker/",
+  "id": "/hu/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

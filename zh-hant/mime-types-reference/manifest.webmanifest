@@ -2,7 +2,7 @@
   "name": "Loona MIME 型別參考（按以下分類的 Content Types：",
   "short_name": "MIME 型別參考（Content",
   "description": "按副檔名列出的常見 MIME 型別：文件、影象、音訊、影片、歸檔、字型和 Web 格式及其 Content-Type 值。",
-  "id": "/loona-dev-tools/zh-hant/mime-types-reference/",
+  "id": "/zh-hant/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

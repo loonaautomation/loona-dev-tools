@@ -2,7 +2,7 @@
   "name": "Loona Penjana Hash SHA-512",
   "short_name": "Penjana Hash SHA-512",
   "description": "Kira hash SHA-512 dari teks atau fail dalam talian: 512-bit, 128 aksara heks. Berjalan secara setempat di pelayar Anda dengan WebCrypto/JS murni — fail tidak pernah dimuat naik.",
-  "id": "/loona-dev-tools/ms/sha512-hash-generator/",
+  "id": "/ms/sha512-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

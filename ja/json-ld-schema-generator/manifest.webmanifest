@@ -2,7 +2,7 @@
   "name": "Loona JSON-LDスキーマ生成ツール 無料オンライン",
   "short_name": "JSON-LDスキーマ生成ツール",
   "description": "schema.org JSON-LD構造化データを無料でオンライン生成します。Article、LocalBusiness、Product、Event、Recipe、Person、Organization、WebSiteを、完成したスクリプトブロックとして。登録不要です。",
-  "id": "/loona-dev-tools/ja/json-ld-schema-generator/",
+  "id": "/ja/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

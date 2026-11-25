@@ -2,7 +2,7 @@
   "name": "Codificator text în Base32 Loona",
   "short_name": "Codificator text în Base32",
   "description": "Codifică text în Base32 (RFC 4648) online — codificarea fără a ține cont de majuscule folosită în secrete TOTP și identificatori siguri pentru DNS.",
-  "id": "/loona-dev-tools/ro/text-to-base32/",
+  "id": "/ro/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

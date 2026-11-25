@@ -2,7 +2,7 @@
   "name": "Analyzátor záhlaví Cookie Loona",
   "short_name": "Analyzátor záhlaví Cookie",
   "description": "Analyzujte záhlaví Cookie na čitelný seznam: páry název = hodnota, zobrazené procentně dekódované hodnoty, počet cookies.",
-  "id": "/loona-dev-tools/cs/cookie-parser/",
+  "id": "/cs/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

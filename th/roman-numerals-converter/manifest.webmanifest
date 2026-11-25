@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงเลขโรมันเป็นตัวเลข",
   "short_name": "เลขโรมันเป็นตัวเลข",
   "description": "แปลงเลขโรมันเป็นตัวเลข (1–3999) พร้อมการตรวจสอบอย่างเข้มงวดของสัญลักษณ์การลบ (IV, IX, XL, CM)",
-  "id": "/loona-dev-tools/th/roman-numerals-converter/",
+  "id": "/th/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

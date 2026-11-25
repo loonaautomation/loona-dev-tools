@@ -2,7 +2,7 @@
   "name": "Loona Tester di regex online gratuito",
   "short_name": "Tester di regex online gratuito",
   "description": "Testa espressioni regolari online gratuitamente con evidenziazione live delle corrispondenze, dettagli dei gruppi di cattura e conteggio corrispondenze. Nessuna registrazione, funziona al 100% nel tuo browser.",
-  "id": "/loona-dev-tools/it/regex-tester/",
+  "id": "/it/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

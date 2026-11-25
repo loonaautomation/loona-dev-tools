@@ -2,7 +2,7 @@
   "name": "Cifre romane în numere Loona",
   "short_name": "Cifre romane în numere",
   "description": "Convertește cifre romane în numere (1–3999), cu validare strictă a notației substractive (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/ro/roman-numerals-converter/",
+  "id": "/ro/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

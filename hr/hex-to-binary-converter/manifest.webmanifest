@@ -2,7 +2,7 @@
   "name": "Loona pretvarač heksadekadskog u binarni sustav",
   "short_name": "Heksadekadsko u binarno",
   "description": "Pretvorite heksadekadske brojeve u binarne na mreži — proizvoljna preciznost (BigInt), negativni brojevi podržani.",
-  "id": "/loona-dev-tools/hr/hex-to-binary-converter/",
+  "id": "/hr/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 影象轉 Base64 轉換器",
   "short_name": "影象轉 Base64 轉換器",
   "description": "線上把影象（PNG、JPG、GIF、WebP、SVG）轉換成 Base64 data URI——檔案在本地讀取，帶尺寸和大小統計。",
-  "id": "/loona-dev-tools/zh-hant/image-to-base64/",
+  "id": "/zh-hant/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

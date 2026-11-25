@@ -2,7 +2,7 @@
   "name": "Loona CMYK-RGB-muunnin",
   "short_name": "CMYK-RGB-muunnin",
   "description": "Muunna värejä CMYK:stä RGB:hen verkossa, elävällä värimallilla ja kaikilla muilla muodoilla (HEX, RGB, HSL, HSV, CMYK) myös näytettynä.",
-  "id": "/loona-dev-tools/fi/cmyk-to-rgb-converter/",
+  "id": "/fi/cmyk-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

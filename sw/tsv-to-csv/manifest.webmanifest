@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha TSV kwenda CSV",
   "short_name": "Kibadilishaji cha TSV kwenda CSV",
   "description": "Badilisha TSV (thamani zilizotenganishwa kwa tab) kuwa CSV: bandika data iliyonakiliwa kutoka Excel au Sheets na upate CSV iliyonukuliwa vizuri.",
-  "id": "/loona-dev-tools/sw/tsv-to-csv/",
+  "id": "/sw/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Convertizor zecimal în hexazecimal Loona",
   "short_name": "Zecimal în hexazecimal",
   "description": "Convertește numere zecimale în hexazecimal online — precizie arbitrară (BigInt), numere negative acceptate.",
-  "id": "/loona-dev-tools/ro/decimal-to-hex-converter/",
+  "id": "/ro/decimal-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

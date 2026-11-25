@@ -2,7 +2,7 @@
   "name": "Loona NATO fonetikus ábécé fordító (szöveg",
   "short_name": "NATO fonetikus ábécé",
   "description": "Betűzzön szöveget a NATO fonetikus ábécében: A = Alfa, B = Bravo... Számjegyeket is tartalmaz. A repülés, a katonaság és a támogatási hívások használják.",
-  "id": "/loona-dev-tools/hu/nato-phonetic-alphabet/",
+  "id": "/hu/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

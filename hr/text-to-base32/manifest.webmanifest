@@ -2,7 +2,7 @@
   "name": "Loona enkoder teksta u Base32",
   "short_name": "Enkoder teksta u Base32",
   "description": "Kodirajte tekst u Base32 (RFC 4648) na mreži — kodiranje neosjetljivo na velika/mala slova koje se koristi u TOTP tajnama i identifikatorima sigurnima za DNS.",
-  "id": "/loona-dev-tools/hr/text-to-base32/",
+  "id": "/hr/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

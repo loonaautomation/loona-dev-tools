@@ -2,7 +2,7 @@
   "name": "Loona Rem-ből képpontokká (px) átalakító",
   "short_name": "Rem-ből képpontokká (px) átalakító",
   "description": "Alakítson rem-et px-ré állítható alap betűmérettel (alapértelmezett 16px) és gyakori értékek táblázatával.",
-  "id": "/loona-dev-tools/hu/rem-to-px-converter/",
+  "id": "/hu/rem-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

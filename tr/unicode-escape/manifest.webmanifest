@@ -2,7 +2,7 @@
   "name": "Loona Unicode Kaçış Dönüştürücü (\\uXXXX)",
   "short_name": "Unicode Kaçış Dönüştürücü",
   "description": "Metni Unicode kaçış dizilerine (\\uXXXX) kaçışlayın; JSON, JavaScript, Java ve properties dosyaları için. Emojiyi vekil çiftlerle işler.",
-  "id": "/loona-dev-tools/tr/unicode-escape/",
+  "id": "/tr/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

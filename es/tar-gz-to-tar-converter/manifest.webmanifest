@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de TAR.GZ a TAR",
   "short_name": "Convertidor de TAR.GZ a TAR",
   "description": "Quita la capa gzip de un archivo .tar.gz / .tgz para obtener el TAR simple, en línea y localmente: sin necesidad de herramientas de extracción.",
-  "id": "/loona-dev-tools/es/tar-gz-to-tar-converter/",
+  "id": "/es/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

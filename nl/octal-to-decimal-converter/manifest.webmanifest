@@ -2,7 +2,7 @@
   "name": "Loona octaal naar decimaal-converter",
   "short_name": "Octaal naar decimaal-converter",
   "description": "Converteer octale getallen online naar decimaal — willekeurige precisie (BigInt), negatieve getallen ondersteund.",
-  "id": "/loona-dev-tools/nl/octal-to-decimal-converter/",
+  "id": "/nl/octal-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

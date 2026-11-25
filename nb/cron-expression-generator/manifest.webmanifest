@@ -2,7 +2,7 @@
   "name": "Loona cron-uttrykksgenerator på nett gratis",
   "short_name": "Cron-uttrykksgenerator",
   "description": "Bygg cron-uttrykk fra nedtrekkslister og forklar ethvert cron-uttrykk med 5 felter på klart språk, på nett gratis. Ingen registrering, kjører 100 % i nettleseren din.",
-  "id": "/loona-dev-tools/nb/cron-expression-generator/",
+  "id": "/nb/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

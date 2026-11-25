@@ -2,7 +2,7 @@
   "name": "Loona generator JSON u SQL INSERT",
   "short_name": "Generator JSON u SQL INSERT",
   "description": "Generirajte SQL INSERT naredbe iz JSON polja objekata: nizovi escapirani, NULL vrijednosti i logičke vrijednosti obrađene, prilagođeni naziv tablice.",
-  "id": "/loona-dev-tools/hr/json-to-sql-insert/",
+  "id": "/hr/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

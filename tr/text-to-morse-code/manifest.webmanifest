@@ -2,7 +2,7 @@
   "name": "Loona Metin - Mors Kodu Çevirici",
   "short_name": "Metin - Mors Kodu Çevirici",
   "description": "Metni Mors koduna çevirin (harfler, rakamlar ve yaygın noktalama), sözcükler / ile ayrılır. Ücretsiz Mors çevirici.",
-  "id": "/loona-dev-tools/tr/text-to-morse-code/",
+  "id": "/tr/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

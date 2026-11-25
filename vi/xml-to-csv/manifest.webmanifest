@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi XML sang CSV của Loona",
   "short_name": "Công cụ chuyển đổi XML sang CSV",
   "description": "Chuyển đổi XML sang CSV: các phần tử lặp lại trở thành hàng, các phần tử con và thuộc tính của chúng trở thành cột. Công cụ chuyển đổi trực tuyến miễn phí.",
-  "id": "/loona-dev-tools/vi/xml-to-csv/",
+  "id": "/vi/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

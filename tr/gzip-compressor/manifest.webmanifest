@@ -2,7 +2,7 @@
   "name": "Loona GZIP Sıkıştırıcı Çevrimiçi Ücretsiz",
   "short_name": "GZIP Sıkıştırıcı Çevrimiçi Ücretsiz",
   "description": "Herhangi bir tek dosyayı tarayıcınızın yerleşik gzip motorunu kullanarak bir .gz içine sıkıştırın. Anlık öncesi/sonrası boyutlar, hiçbir şey yüklenmez - dosya cihazınızda sıkıştırılır. Günlükler, CSV dosyaları, TAR dosyaları ve daha fazlası için çalışır.",
-  "id": "/loona-dev-tools/tr/gzip-compressor/",
+  "id": "/tr/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

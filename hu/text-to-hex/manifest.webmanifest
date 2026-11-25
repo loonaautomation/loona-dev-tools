@@ -2,7 +2,7 @@
   "name": "Loona szövegből hexadecimálissá átalakító",
   "short_name": "Szövegből hexadecimálissá átalakító",
   "description": "Alakítson szöveget hexadecimálissá (UTF-8 bájtok) online, bájtok közötti szóközökkel vagy azok nélkül. Ingyenes fejlesztői átalakító.",
-  "id": "/loona-dev-tools/hu/text-to-hex/",
+  "id": "/hu/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ZIP থেকে TAR কনভার্টার",
   "short_name": "ZIP থেকে TAR কনভার্টার",
   "description": "অনলাইনে ZIP আর্কাইভ অসংকুচিত TAR-এ রূপান্তর করুন: একই ফাইল ও ফোল্ডার, একটি মান-সম্মত TAR লেখক দিয়ে আবার প্যাক করা। সম্পূর্ণ স্থানীয়।",
-  "id": "/loona-dev-tools/bn/zip-to-tar-converter/",
+  "id": "/bn/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

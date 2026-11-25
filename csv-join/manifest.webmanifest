@@ -2,7 +2,7 @@
   "name": "Loona CSV Join Online Free",
   "short_name": "CSV Join Online Free",
   "description": "Join two CSV files online for free on a shared key column - inner join or left join, duplicate keys handled the database way. No sign-up, runs 100% in your browser.",
-  "id": "/loona-dev-tools/csv-join/",
+  "id": "/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

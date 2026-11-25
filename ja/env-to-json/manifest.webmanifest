@@ -2,7 +2,7 @@
   "name": "Loona .env→JSON変換ツール",
   "short_name": ".env→JSON変換ツール",
   "description": ".envファイルをJSONに解析します。KEY=value行、exportプレフィックス、コメント、引用符付き値が処理されます。",
-  "id": "/loona-dev-tools/ja/env-to-json/",
+  "id": "/ja/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

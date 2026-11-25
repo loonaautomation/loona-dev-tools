@@ -2,7 +2,7 @@
   "name": "Loona YAML→CSV変換ツール",
   "short_name": "YAML→CSV変換ツール",
   "description": "オブジェクトのYAMLリストをCSVの表に変換：キーの和集合を列として、ネストした値はセル内でJSONとしてシリアライズされます。",
-  "id": "/loona-dev-tools/ja/yaml-to-csv/",
+  "id": "/ja/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

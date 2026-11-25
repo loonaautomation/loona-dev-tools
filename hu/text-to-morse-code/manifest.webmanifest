@@ -2,7 +2,7 @@
   "name": "Loona szövegből Morse-kóddá fordító",
   "short_name": "Szövegből Morse-kóddá fordító",
   "description": "Szöveg fordítása Morse-kódra (betűk, számjegyek és általános írásjelek), a szavakat / választja el. Ingyenes Morse fordító.",
-  "id": "/loona-dev-tools/hu/text-to-morse-code/",
+  "id": "/hu/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

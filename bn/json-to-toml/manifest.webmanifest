@@ -2,7 +2,7 @@
   "name": "Loona JSON থেকে TOML কনভার্টার",
   "short_name": "JSON থেকে TOML কনভার্টার",
   "description": "অনলাইনে JSON TOML-এ রূপান্তর করুন: প্রথমে স্কেলার, নেস্টেড অবজেক্ট [tables] হিসেবে, অবজেক্টের অ্যারে [[tables]] হিসেবে।",
-  "id": "/loona-dev-tools/bn/json-to-toml/",
+  "id": "/bn/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ZIP से TAR कन्वर्टर",
   "short_name": "ZIP से TAR कन्वर्टर",
   "description": "ZIP archives को uncompressed TAR में ऑनलाइन बदलें: वही files और folders, एक standards-compliant TAR writer से repacked। पूरी तरह local।",
-  "id": "/loona-dev-tools/hi/zip-to-tar-converter/",
+  "id": "/hi/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

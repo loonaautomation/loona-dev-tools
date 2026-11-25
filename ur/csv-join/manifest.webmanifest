@@ -2,7 +2,7 @@
   "name": "Loona CSV جوائن آن لائن مفت",
   "short_name": "CSV جوائن آن لائن مفت",
   "description": "دو CSV فائلوں کو ایک مشترکہ کلیدی کالم پر آن لائن مفت جوڑیں - inner join یا left join، ڈپلیکیٹ کنجیاں ڈیٹا بیس کے طریقے سے سنبھالی گئیں۔ کوئی سائن اپ نہیں، 100% آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-dev-tools/ur/csv-join/",
+  "id": "/ur/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

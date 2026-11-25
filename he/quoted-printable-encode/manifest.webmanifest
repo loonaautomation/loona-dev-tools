@@ -2,7 +2,7 @@
   "name": "מקודד Loona Quoted-Printable",
   "short_name": "מקודד Quoted-Printable",
   "description": "קודדו טקסט כ-quoted-printable ‏(MIME) באופן מקוון: בתי UTF-8 כבריחות =XX, שבירות שורה רכות ב-76 תווים, לפי RFC 2045.",
-  "id": "/loona-dev-tools/he/quoted-printable-encode/",
+  "id": "/he/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Pivot et regroupement Loona CSV en ligne gratuits",
   "short_name": "Pivot et regroupement CSV en ligne",
   "description": "Faites pivoter les données CSV en ligne et gratuitement - regroupez les lignes par n’importe quelle colonne et calculez la somme, le nombre, la moyenne, le minimum ou le maximum d’une colonne de valeurs. Sans inscription, fonctionne à 100 % dans votre navigateur.",
-  "id": "/loona-dev-tools/fr/csv-pivot-group-by/",
+  "id": "/fr/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

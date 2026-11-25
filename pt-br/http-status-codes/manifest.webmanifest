@@ -2,7 +2,7 @@
   "name": "Loona Referência de Códigos de Estado HTTP",
   "short_name": "Referência de Códigos de Estado HTTP",
   "description": "Todos os códigos de estado HTTP comuns com o seu significado: 2xx sucesso, 3xx redirecionamentos, 4xx erros do cliente, 5xx erros do servidor — explicados de forma simples.",
-  "id": "/loona-dev-tools/pt-br/http-status-codes/",
+  "id": "/pt-br/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

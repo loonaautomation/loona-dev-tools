@@ -2,7 +2,7 @@
   "name": "Loona EM to PX Converter",
   "short_name": "EM to PX Converter",
   "description": "Convert em to px with an adjustable base font size (default 16px) and a table of common values.",
-  "id": "/loona-dev-tools/en-us/em-to-px-converter/",
+  "id": "/en-us/em-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

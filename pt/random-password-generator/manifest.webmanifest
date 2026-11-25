@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Palavras-passe Aleatórias",
   "short_name": "Gerador de Palavras-passe Aleatórias",
   "description": "Gere palavras-passe aleatórias fortes no seu navegador com a API WebCrypto: comprimento e conjuntos de caracteres ajustáveis, entropia apresentada.",
-  "id": "/loona-dev-tools/pt/random-password-generator/",
+  "id": "/pt/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

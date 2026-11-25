@@ -2,7 +2,7 @@
   "name": "Loona Kisimbaji cha Maandishi kwenda Base64",
   "short_name": "Kisimbaji cha Maandishi kwenda Base64",
   "description": "Simba maandishi kwenda Base64 mtandaoni, salama kwa UTF-8 kwa lugha yoyote na emoji, kwa alfabeti ya hiari salama kwa URL. Bure, faragha, kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/text-to-base64/",
+  "id": "/sw/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

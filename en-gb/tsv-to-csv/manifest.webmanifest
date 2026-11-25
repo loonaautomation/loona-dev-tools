@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/tsv-to-csv/",
+  "id": "/en-gb/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

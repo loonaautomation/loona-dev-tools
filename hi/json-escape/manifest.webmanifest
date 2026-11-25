@@ -2,7 +2,7 @@
   "name": "Loona JSON String Escape",
   "short_name": "JSON String Escape",
   "description": "JSON के अंदर embedding के लिए string को escape करें: quotes, backslashes, newlines और control characters \\ sequences बन जाते हैं।",
-  "id": "/loona-dev-tools/hi/json-escape/",
+  "id": "/hi/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

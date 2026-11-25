@@ -2,7 +2,7 @@
   "name": "Loona 숫자를 로마 숫자로",
   "short_name": "숫자를 로마 숫자로",
   "description": "숫자(1–3999)를 표준 감산 형태의 로마 숫자로 변환해요. 무료 온라인 변환기예요.",
-  "id": "/loona-dev-tools/ko/number-to-roman-numerals/",
+  "id": "/ko/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

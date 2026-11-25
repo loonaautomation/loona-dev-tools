@@ -2,7 +2,7 @@
   "name": "Loona Kifinyaji cha XML",
   "short_name": "Kifinyaji cha XML",
   "description": "Finya XML mtandaoni: ondoa maoni na nafasi nyeupe za kati ya tegi kuwa mstari mmoja uliobanwa.",
-  "id": "/loona-dev-tools/sw/xml-minifier/",
+  "id": "/sw/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

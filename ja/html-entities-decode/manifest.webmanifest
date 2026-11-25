@@ -2,7 +2,7 @@
   "name": "Loona HTMLエンティティデコーダー",
   "short_name": "HTMLエンティティデコーダー",
   "description": "HTMLエンティティを通常の文字にデコードして戻します：名前付き、十進数、hexの参照（&copy;、&#169;、&#xA9;）すべてに対応。",
-  "id": "/loona-dev-tools/ja/html-entities-decode/",
+  "id": "/ja/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

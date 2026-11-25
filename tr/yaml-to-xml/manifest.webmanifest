@@ -2,7 +2,7 @@
   "name": "Loona YAML - XML Dönüştürücü",
   "short_name": "YAML - XML Dönüştürücü",
   "description": "YAML değerini çevrimiçi XML biçimine dönüştürün: tek bir üst düzey anahtar kök öğe olur, @keys öznitelik olur.",
-  "id": "/loona-dev-tools/tr/yaml-to-xml/",
+  "id": "/tr/yaml-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

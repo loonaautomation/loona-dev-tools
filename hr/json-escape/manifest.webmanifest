@@ -2,7 +2,7 @@
   "name": "Loona escape JSON niza",
   "short_name": "Escape JSON niza",
   "description": "Escape niz za ugradnju unutar JSON-a: navodnici, obrnute kose crte, novi retci i kontrolni znakovi postaju \\ nizovi.",
-  "id": "/loona-dev-tools/hr/json-escape/",
+  "id": "/hr/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

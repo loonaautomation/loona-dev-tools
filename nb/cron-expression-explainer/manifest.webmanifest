@@ -2,7 +2,7 @@
   "name": "Loona cron-uttrykksforklarer",
   "short_name": "Cron-uttrykksforklarer",
   "description": "Forklar cron-uttrykk på klart språk: lim inn en cron-timeplan med 5 felter og les når den kjører, felt for felt.",
-  "id": "/loona-dev-tools/nb/cron-expression-explainer/",
+  "id": "/nb/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

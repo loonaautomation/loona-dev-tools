@@ -2,7 +2,7 @@
   "name": "Таблица със справочник за HTML символни кодове на Loona",
   "short_name": "Таблица със справочник за HTML символни кодове",
   "description": "Основната таблица с HTML символни кодове: именуван код, символ, десетичен код и бележки за употреба за кодовете, които разработчиците всъщност използват.",
-  "id": "/loona-dev-tools/bg/html-entities-reference/",
+  "id": "/bg/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

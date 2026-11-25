@@ -2,7 +2,7 @@
   "name": "Validator de e-mail Loona online gratuit",
   "short_name": "Validator de e-mail online gratuit",
   "description": "Validează adrese de e-mail online gratuit, una sau în bloc - verificări complete de sintaxă în raport cu regulile adreselor plus detectarea greșelilor comune de domeniu precum gmial.com. Fără înregistrare.",
-  "id": "/loona-dev-tools/ro/email-validator/",
+  "id": "/ro/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวเข้ารหัส HTML Entities",
   "short_name": "ตัวเข้ารหัส HTML Entities",
   "description": "เข้ารหัสตัวอักษรพิเศษเป็น HTML entity: แบบมีชื่อ (&copy;) การอ้างอิงตัวเลขฐานสิบหรือฐานสิบหก Escape มาร์กอัป เครื่องหมายคำพูด และข้อความที่ไม่ใช่ ASCII",
-  "id": "/loona-dev-tools/th/html-entities-encode/",
+  "id": "/th/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pengekstrak Fail TAR.GZ Dalam Talian Percuma",
   "short_name": "Pengekstrak Fail TAR.GZ Dalam Talian",
   "description": "Buka arkib tar.gz langsung di pelayar Anda - baik .tar.gz maupun nama singkat .tgz - lihat setiap fail di dalamnya dan muat turun fail tunggal atau semuanya sebagai ZIP. Tidak ada yang dimuat naik.",
-  "id": "/loona-dev-tools/ms/tar-gz-file-extractor/",
+  "id": "/ms/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Unix-tidsstämpelkonverterare online gratis",
   "short_name": "Unix-tidsstämpelkonverterare",
   "description": "Konvertera Unix-tidsstämplar (sekunder eller millisekunder) till mänskliga datum i UTC och din lokala tid, och datum tillbaka till tidsstämplar. Live aktuell tid. Gratis.",
-  "id": "/loona-dev-tools/sv/timestamp-converter/",
+  "id": "/sv/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

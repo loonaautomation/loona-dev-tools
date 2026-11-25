@@ -2,7 +2,7 @@
   "name": "Loona CSV سے TSV کنورٹر",
   "short_name": "CSV سے TSV کنورٹر",
   "description": "CSV کو TSV (tab سے الگ قدریں) میں بدلیں: مکمل کوٹ شدہ-فیلڈ پارسنگ، tabs بطور delimiters۔ مفت آن لائن کنورٹر۔",
-  "id": "/loona-dev-tools/ur/csv-to-tsv/",
+  "id": "/ur/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JSONPath 测试器",
   "short_name": "JSONPath 测试器",
   "description": "针对 JSON 文档测试 JSONPath 表达式：支持点号记法、索引、通配符和递归下降（$..key）。",
-  "id": "/loona-dev-tools/zh/jsonpath-tester/",
+  "id": "/zh/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

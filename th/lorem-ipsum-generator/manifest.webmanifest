@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้าง Lorem Ipsum",
   "short_name": "ตัวสร้าง Lorem Ipsum",
   "description": "สร้างข้อความตัวแทน Lorem Ipsum: เลือกย่อหน้า ประโยค หรือคำ โดยมีบรรทัดเปิดคลาสสิกเป็นทางเลือก",
-  "id": "/loona-dev-tools/th/lorem-ipsum-generator/",
+  "id": "/th/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

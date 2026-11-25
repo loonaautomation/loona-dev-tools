@@ -2,7 +2,7 @@
   "name": "Vérificateur de différences Loona en ligne gratuit",
   "short_name": "Vérificateur de différences en ligne gratuit",
   "description": "Comparez deux textes en ligne et gratuitement avec un diff ligne par ligne : lignes ajoutées en vert, lignes supprimées en rouge, plus un résumé des changements. Sans inscription, fonctionne à 100 % dans votre navigateur.",
-  "id": "/loona-dev-tools/fr/diff-checker/",
+  "id": "/fr/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

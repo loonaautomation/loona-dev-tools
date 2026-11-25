@@ -2,7 +2,7 @@
   "name": "ממיר Loona YAML ל-JSON מקוון בחינם",
   "short_name": "ממיר YAML ל-JSON מקוון",
   "description": "המירו YAML ל-JSON ו-JSON ל-YAML באופן מקוון בחינם. תומך בתת-הקבוצה היומיומית: מפות מקוננות, רשימות וסקלרים, עם המגבלות מצוינות בכנות. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/yaml-json-converter/",
+  "id": "/he/yaml-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

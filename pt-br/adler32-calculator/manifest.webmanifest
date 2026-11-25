@@ -2,7 +2,7 @@
   "name": "Loona Calculadora de Soma de Verificação Adler-32",
   "short_name": "Calculadora de Soma de Verificação Adler-32",
   "description": "Calcule hashes Adler-32 de texto ou arquivos online: 32-bit, 8 caracteres hexadecimais. Funciona localmente no seu navegador com WebCrypto/JS puro — os arquivos nunca são carregados.",
-  "id": "/loona-dev-tools/pt-br/adler32-calculator/",
+  "id": "/pt-br/adler32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

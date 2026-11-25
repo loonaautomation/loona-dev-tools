@@ -2,7 +2,7 @@
   "name": "Loona URL-jäsennin verkossa ilmaiseksi",
   "short_name": "URL-jäsennin verkossa ilmaiseksi",
   "description": "Jäsennä mikä tahansa URL verkossa ilmaiseksi protokollaksi, isännäksi, portiksi, poluksi, kyselyparametreiksi ja tiivisteeksi - muokkaa parametreja ja rakenna URL uudelleen. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/url-parser/",
+  "id": "/fi/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

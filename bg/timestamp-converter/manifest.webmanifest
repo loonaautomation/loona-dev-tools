@@ -2,7 +2,7 @@
   "name": "Конвертор на Unix времеви отметки на Loona онлайн безплатно",
   "short_name": "Конвертор на Unix времеви отметки",
   "description": "Конвертирайте Unix времеви отметки (секунди или милисекунди) в човешки дати в UTC и местното ви време и дати обратно във времеви отметки. Текущо време на живо. Безплатно.",
-  "id": "/loona-dev-tools/bg/timestamp-converter/",
+  "id": "/bg/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

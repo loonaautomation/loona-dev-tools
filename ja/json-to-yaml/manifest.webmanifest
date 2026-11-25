@@ -2,7 +2,7 @@
   "name": "Loona JSON→YAML変換ツール",
   "short_name": "JSON→YAML変換ツール",
   "description": "JSONをYAMLにオンライン変換：きれいなインデント、配列とネストしたオブジェクト、文字列はYAMLが必要な場合にのみクォート。",
-  "id": "/loona-dev-tools/ja/json-to-yaml/",
+  "id": "/ja/json-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

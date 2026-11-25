@@ -2,7 +2,7 @@
   "name": "Loona Binääri-tekstimuunnin",
   "short_name": "Binääri-tekstimuunnin",
   "description": "Pura binääriä (8 bitin ryhmiä, välilyönneillä tai yhtenäisinä) takaisin UTF-8-tekstiksi verkossa. Ilmainen binäärikääntäjä.",
-  "id": "/loona-dev-tools/fi/binary-to-text/",
+  "id": "/fi/binary-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

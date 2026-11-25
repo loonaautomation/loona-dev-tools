@@ -2,7 +2,7 @@
   "name": "Loona Konverter Oktal ke Desimal",
   "short_name": "Konverter Oktal ke Desimal",
   "description": "Konversi angka oktal ke desimal online — presisi arbitrer (BigInt), angka negatif didukung.",
-  "id": "/loona-dev-tools/id/octal-to-decimal-converter/",
+  "id": "/id/octal-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

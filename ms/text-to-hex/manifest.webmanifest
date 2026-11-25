@@ -2,7 +2,7 @@
   "name": "Loona Penukar Teks ke Heks",
   "short_name": "Penukar Teks ke Hex",
   "description": "Penukaran teks ke heksadesimal (byte UTF-8) dalam talian, dengan atau tanpa ruang antar byte. Penukar pembangun percuma.",
-  "id": "/loona-dev-tools/ms/text-to-hex/",
+  "id": "/ms/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

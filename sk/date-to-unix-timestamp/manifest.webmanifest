@@ -2,7 +2,7 @@
   "name": "Prevodník Loona dátumu na unixovú časovú značku",
   "short_name": "Dátum na unixovú časovú značku",
   "description": "Preveďte dátum a čas na jeho unixovú časovú značku v sekundách a milisekundách, v UTC alebo vo vašom miestnom časovom pásme.",
-  "id": "/loona-dev-tools/sk/date-to-unix-timestamp/",
+  "id": "/sk/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

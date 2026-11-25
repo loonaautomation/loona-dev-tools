@@ -2,7 +2,7 @@
   "name": "Loona generator hasha na mreži besplatno",
   "short_name": "Generator hasha na mreži besplatno",
   "description": "Generirajte SHA-1, SHA-256, SHA-384 i SHA-512 hasheve bilo kojeg teksta na mreži besplatno, izračunate lokalno u vašem pregledniku. Bez registracije, ništa se ne prenosi.",
-  "id": "/loona-dev-tools/hr/hash-generator/",
+  "id": "/hr/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

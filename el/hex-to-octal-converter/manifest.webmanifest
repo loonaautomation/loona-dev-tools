@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Δεκαεξαδικού σε Οκταδικό",
   "short_name": "Μετατροπέας Δεκαεξαδικού σε Οκταδικό",
   "description": "Μετατρέψτε δεκαεξαδικούς αριθμούς σε οκταδικούς διαδικτυακά — αυθαίρετη ακρίβεια (BigInt), υποστηρίζονται αρνητικοί αριθμοί.",
-  "id": "/loona-dev-tools/el/hex-to-octal-converter/",
+  "id": "/el/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

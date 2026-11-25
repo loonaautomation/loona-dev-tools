@@ -2,7 +2,7 @@
   "name": "Loona Rimozione escape stringa JSON",
   "short_name": "Rimozione escape stringa JSON",
   "description": "Rimuovi l'escape di un valore stringa JSON di nuovo in testo semplice: \\n, \\t, \\&quot;, \\\\ e sequenze \\uXXXX diventano caratteri reali.",
-  "id": "/loona-dev-tools/it/json-unescape/",
+  "id": "/it/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

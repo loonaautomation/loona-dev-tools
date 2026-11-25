@@ -2,7 +2,7 @@
   "name": "Loona Penukar CSV ke TSV",
   "short_name": "Penukar CSV ke TSV",
   "description": "Penukaran CSV ke TSV (nilai yang dipisahkan tab): parsing medan dikutip penuh, tab sebagai pembatas. Penukar dalam talian percuma.",
-  "id": "/loona-dev-tools/ms/csv-to-tsv/",
+  "id": "/ms/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

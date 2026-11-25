@@ -2,7 +2,7 @@
   "name": "Loona Tabela przestawna CSV i grupowanie online za darmo",
   "short_name": "Tabela przestawna CSV i grupowanie online",
   "description": "Przestawiaj dane CSV online za darmo - grupuj wiersze według dowolnej kolumny i obliczaj sumę, liczbę, średnią, minimum lub maksimum kolumny wartości. Bez rejestracji, działa w 100% w przeglądarce.",
-  "id": "/loona-dev-tools/pl/csv-pivot-group-by/",
+  "id": "/pl/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

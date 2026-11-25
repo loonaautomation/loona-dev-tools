@@ -2,7 +2,7 @@
   "name": "Loona Κωδικοποιητής Quoted-Printable",
   "short_name": "Κωδικοποιητής Quoted-Printable",
   "description": "Κωδικοποιήστε κείμενο ως quoted-printable (MIME) διαδικτυακά: byte UTF-8 ως διαφυγές =XX, μαλακές αλλαγές γραμμής στους 76 χαρακτήρες, κατά RFC 2045.",
-  "id": "/loona-dev-tools/el/quoted-printable-encode/",
+  "id": "/el/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

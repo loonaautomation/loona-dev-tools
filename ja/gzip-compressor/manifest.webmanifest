@@ -2,7 +2,7 @@
   "name": "Loona GZIPコンプレッサー 無料オンライン",
   "short_name": "GZIPコンプレッサー 無料オンライン",
   "description": "ブラウザの標準gzipエンジンを使って、あらゆる単一ファイルを .gz に圧縮します。変更前後のサイズを即座に表示し、何もアップロードされません — ファイルはあなたのデバイス上で圧縮されます。ログ、CSV、TARファイルなどに対応します。",
-  "id": "/loona-dev-tools/ja/gzip-compressor/",
+  "id": "/ja/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

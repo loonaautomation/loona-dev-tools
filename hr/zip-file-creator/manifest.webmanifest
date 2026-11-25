@@ -2,7 +2,7 @@
   "name": "Loona izrada ZIP datoteka na mreži besplatno",
   "short_name": "Alat za izradu ZIP datoteka na mreži besplatno",
   "description": "Izradite ZIP datoteku od više datoteka izravno u svom pregledniku - dodajte datoteke, imenujte arhivu i preuzmite jedan .zip. Ništa se ne prenosi; sve ostaje na vašem uređaju.",
-  "id": "/loona-dev-tools/hr/zip-file-creator/",
+  "id": "/hr/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV Görüntüleyici ve Düzenleyici Çevrimiçi Ücretsiz",
   "short_name": "CSV Görüntüleyici ve Düzenleyici Çevrimiçi",
   "description": "CSV dosyalarını, düzenlenebilir bir tablo ızgarasında çevrimiçi ücretsiz görüntüleyin ve düzenleyin - hücreleri düzenleyin, sütunları sıralayın, satırlar ve sütunlar ekleyin veya kaldırın, sonra düzenlenen CSV değerini indirin. Kayıt gerekmez, tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/csv-viewer-editor/",
+  "id": "/tr/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

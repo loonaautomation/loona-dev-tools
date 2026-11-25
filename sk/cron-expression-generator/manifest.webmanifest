@@ -2,7 +2,7 @@
   "name": "Generátor výrazov Loona Cron online zadarmo",
   "short_name": "Generátor výrazov Cron",
   "description": "Vytvárajte výrazy cron z rozbaľovacích zoznamov a vysvetľujte akýkoľvek 5-poľový výraz cron v jednoduchej angličtine, online zadarmo. Bez registrácie, beží 100% vo vašom prehliadači.",
-  "id": "/loona-dev-tools/sk/cron-expression-generator/",
+  "id": "/sk/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

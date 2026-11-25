@@ -2,7 +2,7 @@
   "name": "Loona Конвертер научной нотации",
   "short_name": "Конвертер научной нотации",
   "description": "Преобразуйте числа в экспоненциальную запись и обратно: 3200000 ⇄ 3.2 × 10^6, запись E поддерживается в обоих направлениях.",
-  "id": "/loona-dev-tools/ru/scientific-notation-converter/",
+  "id": "/ru/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

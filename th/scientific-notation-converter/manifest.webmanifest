@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลงสัญกรณ์วิทยาศาสตร์",
   "short_name": "ตัวแปลงสัญกรณ์วิทยาศาสตร์",
   "description": "แปลงตัวเลขไปและกลับจากสัญกรณ์วิทยาศาสตร์: 3200000 ⇄ 3.2 × 10^6 รองรับสัญลักษณ์ E ทั้งสองทิศทาง",
-  "id": "/loona-dev-tools/th/scientific-notation-converter/",
+  "id": "/th/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

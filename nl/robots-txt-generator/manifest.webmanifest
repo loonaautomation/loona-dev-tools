@@ -2,7 +2,7 @@
   "name": "Loona robots.txt-generator online gratis",
   "short_name": "Robots.txt-generator online",
   "description": "Genereer een geldige robots.txt online gratis - presets, allow- en disallow-regels per agent, sitemap-regel en ingebouwde syntax sanity checks. Geen registratie, draait in je browser.",
-  "id": "/loona-dev-tools/nl/robots-txt-generator/",
+  "id": "/nl/robots-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha 7Z kwenda ZIP Bure Mtandaoni",
   "short_name": "Kibadilishaji cha 7Z kwenda ZIP Mtandaoni",
   "description": "Badilisha hifadhi ya 7Z (.7z) kuwa faili ya kawaida ya ZIP moja kwa moja kwenye kivinjari chako. Muundo wa folda umehifadhiwa, hakuna kilichopakiwa - na ZIP inayotokea hufunguka kiasili kwenye Windows, macOS, Android na iPhone, hakuna 7-Zip inayohitajika.",
-  "id": "/loona-dev-tools/sw/7z-to-zip-converter/",
+  "id": "/sw/7z-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

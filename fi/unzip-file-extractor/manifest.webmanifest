@@ -2,7 +2,7 @@
   "name": "Loona Unzip-tiedostopurkaja verkossa ilmaiseksi",
   "short_name": "Unzip-tiedostopurkaja verkossa",
   "description": "Avaa ZIP-tiedosto selaimessasi, katso jokainen sisällä oleva tiedosto kokoineen ja pura yksittäisiä tiedostoja tai ne kaikki. Mitään ei lähetetä palvelimelle; purku tapahtuu laitteellasi.",
-  "id": "/loona-dev-tools/fi/unzip-file-extractor/",
+  "id": "/fi/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

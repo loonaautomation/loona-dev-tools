@@ -2,7 +2,7 @@
   "name": "Loona Cron İfadesi Oluşturucu Çevrimiçi Ücretsiz",
   "short_name": "Cron İfadesi Oluşturucu",
   "description": "Açılır menülerden cron ifadeleri oluşturun ve her 5 alanlı cron ifadesini sade bir dille, çevrimiçi ücretsiz açıklayın. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/cron-expression-generator/",
+  "id": "/tr/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

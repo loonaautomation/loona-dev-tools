@@ -2,7 +2,7 @@
   "name": "Loona 十六進位制轉文字轉換器",
   "short_name": "十六進位制轉文字轉換器",
   "description": "把十六進位制轉回文字：貼上十六進位制位元組（帶空格或連續、帶或不帶 0x），讀取 UTF-8 文字。",
-  "id": "/loona-dev-tools/zh-hant/hex-to-text/",
+  "id": "/zh-hant/hex-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

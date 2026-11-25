@@ -2,7 +2,7 @@
   "name": "גלאי סוג קובץ של Loona מקוון בחינם",
   "short_name": "גלאי סוג קובץ מקוון בחינם",
   "description": "זהו את הסוג האמיתי של קובץ באופן מקוון בחינם מחתימת כותרת בתי הקסם שלו - PNG, PDF, ZIP, MP4, EXE ו-30+ פורמטים - וקבלו אזהרה כשהסיומת חולקת. שום דבר לא מועלה.",
-  "id": "/loona-dev-tools/he/file-type-detector/",
+  "id": "/he/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

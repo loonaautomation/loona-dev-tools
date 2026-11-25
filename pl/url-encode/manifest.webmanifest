@@ -2,7 +2,7 @@
   "name": "Loona Kodowanie URL (kodowanie procentowe)",
   "short_name": "Kodowanie URL (kodowanie procentowe)",
   "description": "Koduj procentowo tekst lub pełny URL online: spacje stają się %20, znaki zastrzeżone są escapowane według RFC 3986. Tryb składnika lub pełnego URL.",
-  "id": "/loona-dev-tools/pl/url-encode/",
+  "id": "/pl/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

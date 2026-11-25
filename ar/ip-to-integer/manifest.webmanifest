@@ -2,7 +2,7 @@
   "name": "Loona محوّل عنوان IP إلى عدد صحيح",
   "short_name": "عنوان IP إلى عدد صحيح",
   "description": "حوّل عنوان IPv4 إلى صيغته الصحيحة من 32 بت (192.168.0.1 ← 3232235521)، المستخدمة في قواعد البيانات وفحوص النطاق.",
-  "id": "/loona-dev-tools/ar/ip-to-integer/",
+  "id": "/ar/ip-to-integer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV naar XML-converter online gratis",
   "short_name": "CSV naar XML-converter online",
   "description": "Converteer CSV online gratis naar XML met instelbare root- en rij-elementnamen en correcte XML-escaping. Geen registratie, draait 100% in je browser.",
-  "id": "/loona-dev-tools/nl/csv-to-xml-converter/",
+  "id": "/nl/csv-to-xml-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona archívumfájl-kibontó online ingyen",
   "short_name": "Archív fájl kibontó online",
   "description": "Egy egyetemes archívumnyitó: dobjon be bármilyen ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ vagy ISO fájlt, és bontsa ki a tartalmát közvetlenül a böngészőjében. A formátum automatikusan észlelődik; semmi nem töltődik fel.",
-  "id": "/loona-dev-tools/hu/archive-file-extractor/",
+  "id": "/hu/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Desimaali-binäärimuunnin",
   "short_name": "Desimaali-binäärimuunnin",
   "description": "Muunna desimaalilukuja binääriksi verkossa — mielivaltainen tarkkuus (BigInt), negatiiviset luvut tuettuna.",
-  "id": "/loona-dev-tools/fi/decimal-to-binary-converter/",
+  "id": "/fi/decimal-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

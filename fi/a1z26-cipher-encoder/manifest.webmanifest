@@ -2,7 +2,7 @@
   "name": "Loona A1Z26-salauksen kooderi (Kirjaimet numeroiksi)",
   "short_name": "A1Z26-salauksen kooderi (Kirjaimet",
   "description": "Koodaa tekstiä A1Z26-salakirjoituksella: A=1, B=2 ... Z=26. Klassinen arvoitus- ja pakohuonekoodi.",
-  "id": "/loona-dev-tools/fi/a1z26-cipher-encoder/",
+  "id": "/fi/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

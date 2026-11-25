@@ -2,7 +2,7 @@
   "name": "ממזער Loona JavaScript מקוון בחינם",
   "short_name": "ממזער JavaScript מקוון",
   "description": "מזערו JavaScript באופן מקוון בחינם עם טוקנייזר שמרני המגן על מחרוזות, ליטרלי תבנית וביטויים רגולריים. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/javascript-minifier/",
+  "id": "/he/javascript-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

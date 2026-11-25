@@ -2,7 +2,7 @@
   "name": "Loona Decimal से Hexadecimal कन्वर्टर",
   "short_name": "Decimal से Hexadecimal",
   "description": "Decimal संख्याओं को hexadecimal में ऑनलाइन बदलें — arbitrary precision (BigInt), negative numbers supported।",
-  "id": "/loona-dev-tools/hi/decimal-to-hex-converter/",
+  "id": "/hi/decimal-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

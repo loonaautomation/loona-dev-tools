@@ -2,7 +2,7 @@
   "name": "Loona Rem 转像素（px）转换器",
   "short_name": "Rem 转像素 (px) 转换器",
   "description": "把 rem 转换成 px，基础字体大小可调（默认 16px），并附常见值表格。",
-  "id": "/loona-dev-tools/zh/rem-to-px-converter/",
+  "id": "/zh/rem-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

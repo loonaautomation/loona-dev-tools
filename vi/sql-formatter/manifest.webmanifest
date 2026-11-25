@@ -2,7 +2,7 @@
   "name": "Công cụ định dạng SQL của Loona trực tuyến miễn phí",
   "short_name": "Công cụ định dạng SQL trực tuyến miễn phí",
   "description": "Định dạng SQL trực tuyến miễn phí: các từ khóa được viết hoa, các mệnh đề SELECT, FROM, WHERE và JOIN trên dòng riêng, chuỗi được giữ nguyên. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/sql-formatter/",
+  "id": "/vi/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Konwerter JSON na .env",
   "short_name": "Konwerter JSON na .env",
   "description": "Konwertuj konfigurację JSON na format .env: obiekty zagnieżdżone spłaszczane ścieżkami z PODKREŚLENIAMI, wartości cytowane, gdy zawierają spacje lub #.",
-  "id": "/loona-dev-tools/pl/json-to-env/",
+  "id": "/pl/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

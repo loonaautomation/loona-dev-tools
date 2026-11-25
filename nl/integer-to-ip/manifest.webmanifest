@@ -2,7 +2,7 @@
   "name": "Loona geheel getal naar IP-adres-converter",
   "short_name": "Geheel getal naar IP-adres",
   "description": "Converteer een 32-bits integer terug naar een IPv4-adres met punten (3232235521 → 192.168.0.1).",
-  "id": "/loona-dev-tools/nl/integer-to-ip/",
+  "id": "/nl/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

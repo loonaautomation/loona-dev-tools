@@ -2,7 +2,7 @@
   "name": "Loona JSON 转 TypeScript 接口转换器",
   "short_name": "JSON 转 TypeScript 接口",
   "description": "在线把 JSON 转换成 TypeScript 接口：嵌套对象成为命名接口，对象数组合并它们的键并标记可选字段。",
-  "id": "/loona-dev-tools/zh/json-to-typescript/",
+  "id": "/zh/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

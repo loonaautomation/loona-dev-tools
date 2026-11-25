@@ -2,7 +2,7 @@
   "name": "Loona Kikaguzi cha Msongamano wa Maneno Muhimu Bure Mtandaoni",
   "short_name": "Kikaguzi cha Msongamano wa Maneno Muhimu",
   "description": "Kagua msongamano wa maneno muhimu mtandaoni bure - maneno ya pekee ya juu pamoja na vifungu vya maneno 2 na maneno 3 vyenye hesabu na msongamano wa asilimia, uchujaji wa maneno ya kusimama ukiwa umejumuishwa. Bila kujisajili.",
-  "id": "/loona-dev-tools/sw/keyword-density-checker/",
+  "id": "/sw/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

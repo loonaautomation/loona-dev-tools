@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum生成ツール",
   "short_name": "Lorem Ipsum生成ツール",
   "description": "Lorem Ipsumのプレースホルダーテキストを生成します。段落、文、単語から選び、古典的な開始行は任意です。",
-  "id": "/loona-dev-tools/ja/lorem-ipsum-generator/",
+  "id": "/ja/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

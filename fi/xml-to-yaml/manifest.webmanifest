@@ -2,7 +2,7 @@
   "name": "Loona XML-YAML-muunnin",
   "short_name": "XML-YAML-muunnin",
   "description": "Muunna XML YAML:iksi: attribuutit @avaimina, toistuvat elementit luetteloina, arvot tyypitettyinä. Aito jäsennin, ei regex.",
-  "id": "/loona-dev-tools/fi/xml-to-yaml/",
+  "id": "/fi/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

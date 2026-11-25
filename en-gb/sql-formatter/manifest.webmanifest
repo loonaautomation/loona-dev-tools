@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/sql-formatter/",
+  "id": "/en-gb/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

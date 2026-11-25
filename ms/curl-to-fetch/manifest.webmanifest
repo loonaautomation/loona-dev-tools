@@ -2,7 +2,7 @@
   "name": "Loona Penukar cURL ke Fetch",
   "short_name": "Penukar cURL ke Fetch",
   "description": "Penukaran perintah cURL ke kode fetch() JavaScript: header, kaedah, data, basic auth, dan --json ditangani.",
-  "id": "/loona-dev-tools/ms/curl-to-fetch/",
+  "id": "/ms/curl-to-fetch/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

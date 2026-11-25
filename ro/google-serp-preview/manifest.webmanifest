@@ -2,7 +2,7 @@
   "name": "Instrument de previzualizare SERP Google Loona online gratuit",
   "short_name": "Instrument de previzualizare SERP Google",
   "description": "Previzualizează cum vor arăta titlul paginii tale și meta descrierea în rezultatele căutării Google online gratuit, cu vizualizări desktop și mobil și avertismente de trunchiere după lățimea în pixeli. Fără înregistrare.",
-  "id": "/loona-dev-tools/ro/google-serp-preview/",
+  "id": "/ro/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

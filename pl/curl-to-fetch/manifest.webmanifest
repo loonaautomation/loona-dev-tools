@@ -2,7 +2,7 @@
   "name": "Loona Konwerter cURL na Fetch",
   "short_name": "Konwerter cURL na Fetch",
   "description": "Konwertuj polecenie cURL na kod fetch() w JavaScripcie: obsłużone nagłówki, metoda, dane, uwierzytelnianie podstawowe i --json.",
-  "id": "/loona-dev-tools/pl/curl-to-fetch/",
+  "id": "/pl/curl-to-fetch/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

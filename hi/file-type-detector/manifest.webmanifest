@@ -2,7 +2,7 @@
   "name": "Loona फ़ाइल प्रकार डिटेक्टर ऑनलाइन मुफ़्त",
   "short_name": "फ़ाइल प्रकार डिटेक्टर ऑनलाइन मुफ़्त",
   "description": "फ़ाइल का असली type उसके magic-byte header signature से ऑनलाइन मुफ़्त पहचानें — PNG, PDF, ZIP, MP4, EXE और 30+ formats — और चेतावनी पाएँ जब extension असहमत हो। कुछ अपलोड नहीं हुआ।",
-  "id": "/loona-dev-tools/hi/file-type-detector/",
+  "id": "/hi/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

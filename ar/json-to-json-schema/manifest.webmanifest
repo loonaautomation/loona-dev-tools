@@ -2,7 +2,7 @@
   "name": "Loona منشئ JSON إلى مخطط JSON",
   "short_name": "منشئ JSON إلى مخطط JSON",
   "description": "أنشئ مخطط JSON ‏(مسودة 2020-12) من عيّنة JSON: أنواع مستنتجة، خصائص كائنات ومفاتيح مطلوبة مشمولة.",
-  "id": "/loona-dev-tools/ar/json-to-json-schema/",
+  "id": "/ar/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

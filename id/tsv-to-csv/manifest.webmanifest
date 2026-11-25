@@ -2,7 +2,7 @@
   "name": "Loona Konverter TSV ke CSV",
   "short_name": "Konverter TSV ke CSV",
   "description": "Konversi TSV (nilai yang dipisahkan tab) ke CSV: tempel data yang disalin dari Excel atau Sheets dan dapatkan CSV yang dikutip dengan benar.",
-  "id": "/loona-dev-tools/id/tsv-to-csv/",
+  "id": "/id/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

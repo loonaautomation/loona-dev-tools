@@ -2,7 +2,7 @@
   "name": "Codificator text în Base64 Loona",
   "short_name": "Codificator text în Base64",
   "description": "Codifică text în Base64 online, sigur pentru UTF-8 pentru orice limbă și emoji, cu un alfabet opțional sigur pentru URL. Gratuit, privat, în browserul tău.",
-  "id": "/loona-dev-tools/ro/text-to-base64/",
+  "id": "/ro/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

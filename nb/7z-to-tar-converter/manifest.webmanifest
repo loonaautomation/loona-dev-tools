@@ -2,7 +2,7 @@
   "name": "Loona 7Z til TAR-konverterer",
   "short_name": "7Z til TAR-konverterer",
   "description": "Konverter 7Z-arkiver til TAR på nett: libarchive (WebAssembly) leser 7Z-en, en ustar-skriver pakker den på nytt. Privat og lokalt.",
-  "id": "/loona-dev-tools/nb/7z-to-tar-converter/",
+  "id": "/nb/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

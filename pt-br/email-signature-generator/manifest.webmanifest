@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Assinaturas de E-mail HTML Online Grátis",
   "short_name": "Assinatura de E-mail HTML",
   "description": "Crie uma assinatura de e-mail HTML profissional online grátis - nome, cargo, empresa, telefone, e-mail e site em HTML de tabela seguro para e-mail que funciona no Gmail e Outlook. Sem registro.",
-  "id": "/loona-dev-tools/pt-br/email-signature-generator/",
+  "id": "/pt-br/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

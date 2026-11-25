@@ -2,7 +2,7 @@
   "name": "Loona User Agent স্ট্রিং পার্সার",
   "short_name": "User Agent স্ট্রিং পার্সার",
   "description": "একটি ব্রাউজার User-Agent স্ট্রিং ব্রাউজার, ইঞ্জিন, OS ও ডিভাইসের ধরনে পার্স করুন একটি স্বচ্ছ নিয়ম-ভিত্তিক পার্সার দিয়ে।",
-  "id": "/loona-dev-tools/bn/user-agent-parser/",
+  "id": "/bn/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

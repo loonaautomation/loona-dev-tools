@@ -2,7 +2,7 @@
   "name": "Loona Pemformat JSON Online Gratis",
   "short_name": "Pemformat JSON Online Gratis",
   "description": "Format, validasi, dan minifikasi JSON online secara gratis, dengan baris dan kolom tepat dari kesalahan apa pun. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-dev-tools/id/json-formatter/",
+  "id": "/id/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

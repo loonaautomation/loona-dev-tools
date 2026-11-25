@@ -2,7 +2,7 @@
   "name": "Loona YAML-JSON-muunnin verkossa ilmaiseksi",
   "short_name": "YAML-JSON-muunnin verkossa",
   "description": "Muunna YAML JSON:iksi ja JSON YAML:iksi verkossa ilmaiseksi. Tukee arkipäivän osajoukkoa: sisäkkäiset kuvaukset, luettelot ja skalaarit, rajoitukset rehellisesti kerrottuna. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/yaml-json-converter/",
+  "id": "/fi/yaml-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

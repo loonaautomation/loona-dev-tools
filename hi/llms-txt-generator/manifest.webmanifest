@@ -2,7 +2,7 @@
   "name": "Loona llms.txt जनरेटर ऑनलाइन मुफ़्त",
   "short_name": "llms.txt जनरेटर ऑनलाइन मुफ़्त",
   "description": "एक valid llms.txt फ़ाइल ऑनलाइन मुफ़्त generate करें — site name, summary blockquote, details और curated page links उस llms.txt format में जो AI crawlers के लिए प्रस्तावित है। कोई साइन-अप नहीं।",
-  "id": "/loona-dev-tools/hi/llms-txt-generator/",
+  "id": "/hi/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

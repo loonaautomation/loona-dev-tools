@@ -2,7 +2,7 @@
   "name": "Loona JSON→.env変換ツール",
   "short_name": "JSON→.env変換ツール",
   "description": "JSON設定を .env 形式に変換：ネストしたオブジェクトは UNDERSCORE パスで平坦化され、値はスペースや # を含む場合にクォートされます。",
-  "id": "/loona-dev-tools/ja/json-to-env/",
+  "id": "/ja/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

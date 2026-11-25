@@ -2,7 +2,7 @@
   "name": "Minifikátor Loona JSON",
   "short_name": "Minifikátor JSON",
   "description": "Minifikujte JSON online: odstráňte všetky bezvýznamné medzery do jedného kompaktného riadka, s chybami validácie nahlásenými presne.",
-  "id": "/loona-dev-tools/sk/json-minifier/",
+  "id": "/sk/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

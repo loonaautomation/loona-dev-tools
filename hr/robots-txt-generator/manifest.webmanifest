@@ -2,7 +2,7 @@
   "name": "Loona generator robots.txt datoteke na mreži besplatno",
   "short_name": "Generator robots.txt datoteke na mreži",
   "description": "Generirajte valjanu datoteku robots.txt na mreži besplatno - unaprijed postavljene postavke, pravila dopuštanja i zabrane po agentu, redak sitemapa i ugrađene provjere ispravnosti sintakse. Bez registracije, radi u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/robots-txt-generator/",
+  "id": "/hr/robots-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

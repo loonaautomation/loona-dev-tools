@@ -2,7 +2,7 @@
   "name": "Loona MD5-hashgenerator",
   "short_name": "MD5-hashgenerator",
   "description": "Beregn MD5-hasher av tekst eller filer på nett: 128-bit, 32 hekstegn. Kjører lokalt i nettleseren din med WebCrypto/ren JS — filer lastes aldri opp.",
-  "id": "/loona-dev-tools/nb/md5-hash-generator/",
+  "id": "/nb/md5-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

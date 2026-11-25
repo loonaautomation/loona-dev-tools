@@ -2,7 +2,7 @@
   "name": "Loona ตัวเข้ารหัส JWT (ผู้เซ็น HS256)",
   "short_name": "ตัวเข้ารหัส JWT (ผู้เซ็น HS256)",
   "description": "สร้างและเซ็น JSON Web Tokens ด้วย HS256 ในเบราว์เซอร์ของคุณ: JSON ของ payload บวกความลับ หรือ alg=none การเซ็นด้วย WebCrypto",
-  "id": "/loona-dev-tools/th/jwt-encoder/",
+  "id": "/th/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

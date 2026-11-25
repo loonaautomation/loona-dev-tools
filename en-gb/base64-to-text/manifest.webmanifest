@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/base64-to-text/",
+  "id": "/en-gb/base64-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

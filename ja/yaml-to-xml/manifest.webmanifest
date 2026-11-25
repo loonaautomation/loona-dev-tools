@@ -2,7 +2,7 @@
   "name": "Loona YAML→XML変換ツール",
   "short_name": "YAML→XML変換ツール",
   "description": "YAMLをXMLにオンライン変換：単一のトップレベルキーがルート要素になり、@keys は属性になります。",
-  "id": "/loona-dev-tools/ja/yaml-to-xml/",
+  "id": "/ja/yaml-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

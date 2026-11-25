@@ -2,7 +2,7 @@
   "name": "Công cụ rút gọn HTML Loona",
   "short_name": "Công cụ rút gọn HTML",
   "description": "Rút gọn HTML trực tuyến: loại bỏ bình luận và thu gọn khoảng trắng trong khi bảo vệ nội dung pre, textarea, script và style.",
-  "id": "/loona-dev-tools/vi/html-minifier/",
+  "id": "/vi/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

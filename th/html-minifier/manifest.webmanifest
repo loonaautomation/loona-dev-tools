@@ -2,7 +2,7 @@
   "name": "Loona ตัวย่อขนาด HTML",
   "short_name": "ตัวย่อขนาด HTML",
   "description": "ย่อขนาด HTML ออนไลน์: ลบคอมเมนต์และยุบช่องว่างในขณะที่ปกป้องเนื้อหา pre, textarea, script และ style",
-  "id": "/loona-dev-tools/th/html-minifier/",
+  "id": "/th/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

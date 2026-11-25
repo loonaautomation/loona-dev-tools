@@ -2,7 +2,7 @@
   "name": "Loona HTTP স্ট্যাটাস কোড রেফারেন্স",
   "short_name": "HTTP স্ট্যাটাস কোড রেফারেন্স",
   "description": "এর অর্থসহ প্রতিটি সাধারণ HTTP স্ট্যাটাস কোড: 2xx সাফল্য, 3xx রিডাইরেক্ট, 4xx ক্লায়েন্ট ত্রুটি, 5xx সার্ভার ত্রুটি — সরলভাবে ব্যাখ্যা করা।",
-  "id": "/loona-dev-tools/bn/http-status-codes/",
+  "id": "/bn/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

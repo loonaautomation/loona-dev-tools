@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum 生成器",
   "short_name": "Lorem Ipsum 生成器",
   "description": "生成 Lorem Ipsum 占位文本：选择段落、句子或单词，经典的开头行可选。",
-  "id": "/loona-dev-tools/zh/lorem-ipsum-generator/",
+  "id": "/zh/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

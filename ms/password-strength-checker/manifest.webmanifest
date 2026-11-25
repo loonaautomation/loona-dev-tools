@@ -2,7 +2,7 @@
   "name": "Loona Penyemak Kekuatan Kata Laluan Dalam Talian Percuma",
   "short_name": "Penyemak Kekuatan Kata Laluan",
   "description": "Semak kekuatan kata laluan dalam talian secara percuma dengan estimasi entropi yang transparan, maklum balas spesifik, dan estimasi waktu retak. Kata laluan tidak pernah meninggalkan pelayar Anda - tidak ada yang dihantar atau disimpan.",
-  "id": "/loona-dev-tools/ms/password-strength-checker/",
+  "id": "/ms/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

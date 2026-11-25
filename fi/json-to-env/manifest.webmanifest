@@ -2,7 +2,7 @@
   "name": "Loona JSON-.env-muunnin",
   "short_name": "JSON-.env-muunnin",
   "description": "Muunna JSON-määritys .env-muotoon: sisäkkäiset objektit litistettynä ALAVIIVA-poluilla, arvot lainattuina, kun ne sisältävät välilyöntejä tai #-merkin.",
-  "id": "/loona-dev-tools/fi/json-to-env/",
+  "id": "/fi/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

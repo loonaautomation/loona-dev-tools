@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้างไฟล์ ZIP ออนไลน์ฟรี",
   "short_name": "ตัวสร้างไฟล์ ZIP ออนไลน์ฟรี",
   "description": "สร้างไฟล์ ZIP จากหลายไฟล์ในเบราว์เซอร์ของคุณเลย - เพิ่มไฟล์ ตั้งชื่อไฟล์บีบอัด และดาวน์โหลด .zip หนึ่งไฟล์ ไม่มีการอัปโหลด; ทุกอย่างอยู่บนอุปกรณ์ของคุณ",
-  "id": "/loona-dev-tools/th/zip-file-creator/",
+  "id": "/th/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

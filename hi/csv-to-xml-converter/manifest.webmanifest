@@ -2,7 +2,7 @@
   "name": "Loona CSV से XML कन्वर्टर ऑनलाइन मुफ़्त",
   "short_name": "CSV से XML कन्वर्टर ऑनलाइन",
   "description": "CSV को XML में ऑनलाइन मुफ़्त बदलें, configurable root और row element names और proper XML escaping के साथ। कोई sign-up नहीं, 100% आपके ब्राउज़र में चलता है।",
-  "id": "/loona-dev-tools/hi/csv-to-xml-converter/",
+  "id": "/hi/csv-to-xml-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

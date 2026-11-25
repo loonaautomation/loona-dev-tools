@@ -2,7 +2,7 @@
   "name": "Extractor de fișiere TAR Loona online gratuit",
   "short_name": "Extractor de fișiere TAR online gratuit",
   "description": "Deschide arhive TAR chiar în browserul tău - .tar simplu, precum și .tar.bz2 și .tar.xz - vezi fiecare fișier din interior și descarcă fișiere individuale sau totul ca ZIP. Nimic nu este încărcat.",
-  "id": "/loona-dev-tools/ro/tar-file-extractor/",
+  "id": "/ro/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV-liitos verkossa ilmaiseksi",
   "short_name": "CSV-liitos verkossa ilmaiseksi",
   "description": "Liitä kaksi CSV-tiedostoa verkossa ilmaiseksi jaetulla avainsarakkeella - sisäliitos tai vasen liitos, kaksoiskappaleavaimet käsiteltynä tietokannan tavalla. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/csv-join/",
+  "id": "/fi/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

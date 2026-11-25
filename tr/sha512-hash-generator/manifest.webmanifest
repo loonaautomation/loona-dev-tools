@@ -2,7 +2,7 @@
   "name": "Loona SHA-512 Hash Oluşturucu",
   "short_name": "SHA-512 Hash Oluşturucu",
   "description": "Metin veya dosyaların SHA-512 hash değerlerini çevrimiçi hesaplayın: 512 bit, 128 hex karakter. WebCrypto/saf JS ile tarayıcınızda yerel olarak çalışır — dosyalar asla yüklenmez.",
-  "id": "/loona-dev-tools/tr/sha512-hash-generator/",
+  "id": "/tr/sha512-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

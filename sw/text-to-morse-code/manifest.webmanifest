@@ -2,7 +2,7 @@
   "name": "Loona Mtafsiri wa Maandishi kwenda Msimbo wa Morse",
   "short_name": "Mtafsiri wa Maandishi kwenda Msimbo wa Morse",
   "description": "Tafsiri maandishi kwenda msimbo wa Morse (herufi, tarakimu na uakifishaji wa kawaida), maneno yakitenganishwa kwa /. Mtafsiri wa Morse bure.",
-  "id": "/loona-dev-tools/sw/text-to-morse-code/",
+  "id": "/sw/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

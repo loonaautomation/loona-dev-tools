@@ -2,7 +2,7 @@
   "name": "Loona Αναφορά Κωδικών Κατάστασης HTTP",
   "short_name": "Αναφορά Κωδικών Κατάστασης HTTP",
   "description": "Κάθε κοινός κωδικός κατάστασης HTTP με τη σημασία του: 2xx επιτυχία, 3xx ανακατευθύνσεις, 4xx σφάλματα πελάτη, 5xx σφάλματα διακομιστή — επεξηγημένα απλά.",
-  "id": "/loona-dev-tools/el/http-status-codes/",
+  "id": "/el/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

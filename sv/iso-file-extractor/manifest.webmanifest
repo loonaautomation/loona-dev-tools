@@ -2,7 +2,7 @@
   "name": "Loona ISO-filextraherare online gratis",
   "short_name": "ISO-filextraherare online gratis",
   "description": "Öppna ISO-skivavbildningar direkt i din webbläsare - bläddra filsystemet lagrat på den virtuella skivan och ladda ner enstaka filer eller allt som en ZIP. Ingenting laddas upp.",
-  "id": "/loona-dev-tools/sv/iso-file-extractor/",
+  "id": "/sv/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

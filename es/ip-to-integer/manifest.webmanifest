@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de dirección IP a entero",
   "short_name": "Dirección IP a entero",
   "description": "Convierte una dirección IPv4 a su forma entera de 32 bits (192.168.0.1 → 3232235521), usada en bases de datos y comprobaciones de rango.",
-  "id": "/loona-dev-tools/es/ip-to-integer/",
+  "id": "/es/ip-to-integer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

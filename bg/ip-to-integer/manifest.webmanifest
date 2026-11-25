@@ -2,7 +2,7 @@
   "name": "Конвертор от IP адрес към цяло число на Loona",
   "short_name": "IP адрес към цяло число",
   "description": "Конвертирайте IPv4 адрес в неговата 32-битова целочислена форма (192.168.0.1 → 3232235521), използвана в бази данни и проверки на диапазони.",
-  "id": "/loona-dev-tools/bg/ip-to-integer/",
+  "id": "/bg/ip-to-integer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

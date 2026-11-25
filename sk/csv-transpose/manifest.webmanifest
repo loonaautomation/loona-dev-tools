@@ -2,7 +2,7 @@
   "name": "Transpozícia Loona CSV online zadarmo",
   "short_name": "Transpozícia CSV online zadarmo",
   "description": "Transponujte CSV online zadarmo - vymeňte riadky a stĺpce so správnym analyzátorom RFC 4180, ktorý správne spracúva polia v úvodzovkách. Bez registrácie, beží 100% vo vašom prehliadači.",
-  "id": "/loona-dev-tools/sk/csv-transpose/",
+  "id": "/sk/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

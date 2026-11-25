@@ -2,7 +2,7 @@
   "name": "Loona Creatore di link UTM online gratuito",
   "short_name": "Creatore di link UTM online gratuito",
   "description": "Costruisci URL di campagna con tag UTM online gratuitamente - fonte, mezzo, campagna, termine e contenuto aggiunti con codifica corretta, parametri di query esistenti conservati, più una cronologia salvata.",
-  "id": "/loona-dev-tools/it/utm-link-builder/",
+  "id": "/it/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

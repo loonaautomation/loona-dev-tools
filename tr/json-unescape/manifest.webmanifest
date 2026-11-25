@@ -2,7 +2,7 @@
   "name": "Loona JSON Dize Kaçış Çözme",
   "short_name": "JSON Dize Kaçış Çözme",
   "description": "Bir JSON dize değerini düz metne geri kaçışsızlayın: \\n, \\t, \\&quot;, \\\\ ve \\uXXXX dizileri gerçek karakterler olur.",
-  "id": "/loona-dev-tools/tr/json-unescape/",
+  "id": "/tr/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

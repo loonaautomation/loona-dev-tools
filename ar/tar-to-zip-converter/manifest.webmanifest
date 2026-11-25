@@ -2,7 +2,7 @@
   "name": "Loona محوّل TAR إلى ZIP عبر الإنترنت مجاناً",
   "short_name": "محوّل TAR إلى ZIP عبر الإنترنت",
   "description": "حوّل أرشيف TAR ‏(.tar) إلى ملف ZIP في متصفحك مباشرة. ملفات TAR تأتي من أنظمة Linux وUnix؛ وZIP المحوّل يُفتح أصلياً على Windows وmacOS والهواتف. لا يُرفع شيء.",
-  "id": "/loona-dev-tools/ar/tar-to-zip-converter/",
+  "id": "/ar/tar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

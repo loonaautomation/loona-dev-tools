@@ -2,7 +2,7 @@
   "name": "Loona Generator metatagów online za darmo",
   "short_name": "Generator metatagów online za darmo",
   "description": "Generuj metatagi HTML online za darmo - tytuł, opis, słowa kluczowe, autor, robots i canonical - z podglądem SERP w stylu Google na żywo oraz liczeniem znaków. Bez rejestracji.",
-  "id": "/loona-dev-tools/pl/meta-tag-generator/",
+  "id": "/pl/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

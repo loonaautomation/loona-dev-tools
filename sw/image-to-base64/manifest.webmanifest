@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Picha kwenda Base64",
   "short_name": "Kibadilishaji cha Picha kwenda Base64",
   "description": "Badilisha picha (PNG, JPG, GIF, WebP, SVG) kuwa URI ya data ya Base64 mtandaoni — faili husomwa ndani ya kifaa, na vipimo na takwimu za ukubwa.",
-  "id": "/loona-dev-tools/sw/image-to-base64/",
+  "id": "/sw/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

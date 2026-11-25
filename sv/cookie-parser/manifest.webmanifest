@@ -2,7 +2,7 @@
   "name": "Loona Cookie-rubriktolkare",
   "short_name": "Cookie-rubriktolkare",
   "description": "Tolka en Cookie-rubrik till en läsbar lista: namn = värde-par, procentavkodade värden visas, cookieantal.",
-  "id": "/loona-dev-tools/sv/cookie-parser/",
+  "id": "/sv/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ZIP fájlkészítő online ingyen",
   "short_name": "ZIP fájlkészítő online ingyen",
   "description": "Hozzon létre ZIP fájlt több fájlból közvetlenül a böngészőjében - adjon hozzá fájlokat, nevezze el az archívumot, és töltsön le egy .zip fájlt. Semmi sem töltődik fel; minden az eszközén marad.",
-  "id": "/loona-dev-tools/hu/zip-file-creator/",
+  "id": "/hu/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona tekst til Base32-koder",
   "short_name": "Tekst til Base32-koder",
   "description": "Kod tekst til Base32 (RFC 4648) online — kodningen uden hensyn til store og små bogstaver, brugt i TOTP-hemmeligheder og DNS-sikre identifikatorer.",
-  "id": "/loona-dev-tools/da/text-to-base32/",
+  "id": "/da/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

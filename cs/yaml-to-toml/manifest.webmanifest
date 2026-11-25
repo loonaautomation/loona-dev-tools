@@ -2,7 +2,7 @@
   "name": "Převodník Loona YAML na TOML",
   "short_name": "Převodník YAML na TOML",
   "description": "Převádějte YAML na TOML online (přes sdílený datový model): tabulky, skaláry a pole namapované na pravidla rozvržení TOML.",
-  "id": "/loona-dev-tools/cs/yaml-to-toml/",
+  "id": "/cs/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

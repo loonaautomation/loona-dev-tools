@@ -2,7 +2,7 @@
   "name": "Loona Gabung CSV Online Gratis",
   "short_name": "Gabung CSV Online Gratis",
   "description": "Gabungkan dua file CSV online secara gratis pada kolom kunci bersama - inner join atau left join, kunci duplikat ditangani dengan cara database. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-dev-tools/id/csv-join/",
+  "id": "/id/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

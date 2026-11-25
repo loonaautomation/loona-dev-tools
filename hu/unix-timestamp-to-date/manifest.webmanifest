@@ -2,7 +2,7 @@
   "name": "Loona Unix időbélyegből dátummá átalakító",
   "short_name": "Unix időbélyegből dátum",
   "description": "Alakítson egy Unix időbélyeget (másodperc vagy ezredmásodperc) emberi dátummá: UTC, az Ön helyi ideje, ISO 8601 és relatív idő.",
-  "id": "/loona-dev-tools/hu/unix-timestamp-to-date/",
+  "id": "/hu/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

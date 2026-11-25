@@ -2,7 +2,7 @@
   "name": "Loona MIME Types संदर्भ (Content Types by",
   "short_name": "MIME Types संदर्भ (Content",
   "description": "फ़ाइल extension के अनुसार आम MIME types: documents, images, audio, video, archives, fonts और web formats अपने Content-Type values के साथ।",
-  "id": "/loona-dev-tools/hi/mime-types-reference/",
+  "id": "/hi/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

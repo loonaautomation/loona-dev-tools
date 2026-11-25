@@ -2,7 +2,7 @@
   "name": "Prevodník Loona JSON na XML",
   "short_name": "Prevodník JSON na XML",
   "description": "Preveďte JSON na XML online s prispôsobiteľným koreňovým prvkom: polia sa stávajú opakovanými prvkami, @kľúče sa stávajú atribútmi.",
-  "id": "/loona-dev-tools/sk/json-to-xml/",
+  "id": "/sk/json-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

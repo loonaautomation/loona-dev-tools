@@ -2,7 +2,7 @@
   "name": "Loona Ekstraktor plików RAR online za darmo",
   "short_name": "Ekstraktor plików RAR online za darmo",
   "description": "Otwieraj pliki RAR (RAR4 i RAR5) wprost w przeglądarce - zobacz każdy plik w środku, pobierz pojedyncze pliki lub wszystko jako ZIP. Nic nie jest przesyłane; wyodrębnianie odbywa się na urządzeniu.",
-  "id": "/loona-dev-tools/pl/rar-file-extractor/",
+  "id": "/pl/rar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

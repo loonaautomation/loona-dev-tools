@@ -2,7 +2,7 @@
   "name": "Loona Penukar Markdown ke HTML Dalam Talian Percuma",
   "short_name": "Penukar Markdown ke HTML",
   "description": "Penukaran Markdown ke HTML dalam talian secara percuma - heading, tebal, miring, pautan, imej, senarai, blockquote, blok kode, dan lain-lain, dengan pratonton render langsung. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/ms/markdown-to-html-converter/",
+  "id": "/ms/markdown-to-html-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

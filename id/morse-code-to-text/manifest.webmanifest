@@ -2,7 +2,7 @@
   "name": "Loona Penerjemah Kode Morse ke Teks",
   "short_name": "Penerjemah Kode Morse ke Teks",
   "description": "Dekode kode Morse kembali ke teks: tempel titik dan garis (huruf dipisahkan spasi, / antar kata) dan baca pesannya.",
-  "id": "/loona-dev-tools/id/morse-code-to-text/",
+  "id": "/id/morse-code-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

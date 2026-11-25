@@ -2,7 +2,7 @@
   "name": "Loona HSL naar HEX-converter",
   "short_name": "HSL naar HEX-converter",
   "description": "Converteer kleuren online van HSL naar HEX, met een live staal en alle andere formaten (HEX, RGB, HSL, HSV, CMYK) ook getoond.",
-  "id": "/loona-dev-tools/nl/hsl-to-hex-converter/",
+  "id": "/nl/hsl-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

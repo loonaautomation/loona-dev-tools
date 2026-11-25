@@ -2,7 +2,7 @@
   "name": "Générateur de balises Meta Loona en ligne gratuit",
   "short_name": "Générateur de balises Meta en ligne gratuit",
   "description": "Générez des balises méta HTML en ligne et gratuitement - titre, description, mots-clés, auteur, robots et canonique - avec un aperçu SERP en direct de style Google et des comptes de caractères. Sans inscription.",
-  "id": "/loona-dev-tools/fr/meta-tag-generator/",
+  "id": "/fr/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

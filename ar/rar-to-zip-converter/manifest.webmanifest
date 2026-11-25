@@ -2,7 +2,7 @@
   "name": "Loona محوّل RAR إلى ZIP عبر الإنترنت مجاناً",
   "short_name": "محوّل RAR إلى ZIP عبر الإنترنت",
   "description": "حوّل أرشيف RAR ‏(.rar) إلى ملف ZIP قياسي في متصفحك مباشرة. بنية المجلدات محفوظة، لا يُرفع شيء، وZIP يُفتح في أي مكان - Windows وmacOS وAndroid وiPhone كلها تفتح ZIP أصلياً.",
-  "id": "/loona-dev-tools/ar/rar-to-zip-converter/",
+  "id": "/ar/rar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

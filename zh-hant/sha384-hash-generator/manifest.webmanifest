@@ -2,7 +2,7 @@
   "name": "Loona SHA-384 雜湊生成器",
   "short_name": "SHA-384 雜湊生成器",
   "description": "線上計算文字或檔案的 SHA-384 雜湊：384 位，96 個十六進位制字元。使用 WebCrypto/純 JS 在您的瀏覽器中本地執行——檔案從不上傳。",
-  "id": "/loona-dev-tools/zh-hant/sha384-hash-generator/",
+  "id": "/zh-hant/sha384-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

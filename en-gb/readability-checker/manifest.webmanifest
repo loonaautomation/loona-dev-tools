@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/readability-checker/",
+  "id": "/en-gb/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

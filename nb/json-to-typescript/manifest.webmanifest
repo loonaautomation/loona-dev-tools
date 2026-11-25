@@ -2,7 +2,7 @@
   "name": "Loona JSON til TypeScript-grensesnitt-konverterer",
   "short_name": "JSON til TypeScript-grensesnitt",
   "description": "Konverter JSON til TypeScript-grensesnitt på nett: nøstede objekter blir navngitte grensesnitt, matriser av objekter slår sammen nøklene sine med valgfrie felter markert.",
-  "id": "/loona-dev-tools/nb/json-to-typescript/",
+  "id": "/nb/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

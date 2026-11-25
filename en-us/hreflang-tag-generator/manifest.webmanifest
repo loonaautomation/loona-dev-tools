@@ -2,7 +2,7 @@
   "name": "Loona Hreflang Tag Generator - The Right Language Version for Every Visitor",
   "short_name": "Hreflang Tag Generator - The Right Language Version for Every Visitor",
   "description": "Generate hreflang tags online for free - paste language and URL pairs, add an x-default, and get the full alternate link set with BCP 47 and absolute-URL checks. No sign-up.",
-  "id": "/loona-dev-tools/en-us/hreflang-tag-generator/",
+  "id": "/en-us/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

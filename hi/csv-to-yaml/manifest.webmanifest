@@ -2,7 +2,7 @@
   "name": "Loona CSV से YAML कन्वर्टर",
   "short_name": "CSV से YAML कन्वर्टर",
   "description": "CSV tables को YAML में बदलें: header row keys बन जाती है, हर row YAML list में एक item, numbers typed।",
-  "id": "/loona-dev-tools/hi/csv-to-yaml/",
+  "id": "/hi/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV-diff og -sammenligning på nett gratis",
   "short_name": "CSV-diff og sammenligning på nett gratis",
   "description": "Sammenlign to CSV-filer på nett gratis - rader matchet på en nøkkelkolonne og klassifisert som lagt til, fjernet, endret (med de nøyaktige cellene) eller uendret. Ingen registrering, kjører i nettleseren din.",
-  "id": "/loona-dev-tools/nb/csv-diff/",
+  "id": "/nb/csv-diff/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

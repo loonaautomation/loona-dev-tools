@@ -2,7 +2,7 @@
   "name": "Tester JSONPath Loona",
   "short_name": "Tester JSONPath",
   "description": "Pagina de rezervă pentru utilizatorii a căror limbă nu corespunde niciuneia dintre versiunile tale - adesea un selector de limbă sau pagina ta globală de pornire.",
-  "id": "/loona-dev-tools/ro/jsonpath-tester/",
+  "id": "/ro/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

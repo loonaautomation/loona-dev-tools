@@ -2,7 +2,7 @@
   "name": "Loona Pixlar (px) till Rem-konverterare",
   "short_name": "Pixlar (px) till Rem-konverterare",
   "description": "Konvertera px till rem med en justerbar basteckenstorlek (standard 16px) och en tabell med vanliga värden.",
-  "id": "/loona-dev-tools/sv/px-to-rem-converter/",
+  "id": "/sv/px-to-rem-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

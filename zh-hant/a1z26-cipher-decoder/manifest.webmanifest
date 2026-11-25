@@ -2,7 +2,7 @@
   "name": "Loona A1Z26 密碼解碼器（數字轉字母）",
   "short_name": "A1Z26 密碼解碼器（數字",
   "description": "把 A1Z26 數字程式碼解碼回字母：1=A、2=B ... 26=Z。用連字元、逗號或空格分隔。",
-  "id": "/loona-dev-tools/zh-hant/a1z26-cipher-decoder/",
+  "id": "/zh-hant/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

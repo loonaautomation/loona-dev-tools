@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/regex-tester/",
+  "id": "/en-gb/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

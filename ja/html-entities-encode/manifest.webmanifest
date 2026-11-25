@@ -2,7 +2,7 @@
   "name": "Loona HTMLエンティティエンコーダー",
   "short_name": "HTMLエンティティエンコーダー",
   "description": "特殊文字をHTMLエンティティとしてエンコードします。名前付き（&copy;）、十進数または十六進数の数値参照です。マークアップ、引用符、非ASCIIテキストをエスケープします。",
-  "id": "/loona-dev-tools/ja/html-entities-encode/",
+  "id": "/ja/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

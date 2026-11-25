@@ -2,7 +2,7 @@
   "name": "Tvorca súborov Loona TAR online zadarmo",
   "short_name": "Tvorca súborov TAR online zadarmo",
   "description": "Vytvorte archív TAR (.tar) z viacerých súborov priamo vo svojom prehliadači – zapisovač ustar správny podľa špecifikácie, možnosť priečinka, skutočné časové značky. Nič sa nenahráva; tarball sa zostaví na vašom zariadení a otvorí sa akýmkoľvek nástrojom tar.",
-  "id": "/loona-dev-tools/sk/tar-file-creator/",
+  "id": "/sk/tar-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

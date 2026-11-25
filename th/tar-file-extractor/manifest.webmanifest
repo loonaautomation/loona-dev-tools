@@ -2,7 +2,7 @@
   "name": "Loona ตัวแยกไฟล์ TAR ออนไลน์ฟรี",
   "short_name": "ตัวแยกไฟล์ TAR ออนไลน์ฟรี",
   "description": "เปิดไฟล์บีบอัด TAR ในเบราว์เซอร์ของคุณเลย - .tar ธรรมดา รวมถึง .tar.bz2 และ .tar.xz - ดูทุกไฟล์ภายในและดาวน์โหลดไฟล์เดียวหรือทุกอย่างเป็น ZIP ไม่มีการอัปโหลด",
-  "id": "/loona-dev-tools/th/tar-file-extractor/",
+  "id": "/th/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

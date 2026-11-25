@@ -2,7 +2,7 @@
   "name": "Loona ROT13-koder og -dekoder",
   "short_name": "ROT13-koder og -dekoder",
   "description": "ROT13 hvilken som helst tekst: roter bokstaver med 13 plasser. Koding og dekoding er den samme operasjonen. Klassisk for spoilere og gåter.",
-  "id": "/loona-dev-tools/nb/rot13-encoder/",
+  "id": "/nb/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

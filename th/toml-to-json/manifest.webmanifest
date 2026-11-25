@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง TOML เป็น JSON",
   "short_name": "ตัวแปลง TOML เป็น JSON",
   "description": "แปลง TOML เป็น JSON ออนไลน์: ตาราง ตารางอาร์เรย์ สตริง ตัวเลข บูลีน อาร์เรย์ และ datetime (เป็นสตริง)",
-  "id": "/loona-dev-tools/th/toml-to-json/",
+  "id": "/th/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

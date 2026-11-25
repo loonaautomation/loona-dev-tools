@@ -2,7 +2,7 @@
   "name": "Loona Generatore di slug (creatore di slug URL)",
   "short_name": "Generatore di slug (Slug URL",
   "description": "Genera slug URL puliti dai titoli: accenti rimossi, minuscole, spazi in trattini (o trattini bassi). Creatore di slug gratuito.",
-  "id": "/loona-dev-tools/it/slug-generator/",
+  "id": "/it/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

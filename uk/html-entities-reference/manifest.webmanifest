@@ -2,7 +2,7 @@
   "name": "Довідкова таблиця сутностей Loona HTML",
   "short_name": "Довідкова таблиця сутностей HTML",
   "description": "Таблиця основних сутностей HTML: іменована сутність, символ, десятковий код і нотатки про використання для сутностей, які розробники насправді використовують.",
-  "id": "/loona-dev-tools/uk/html-entities-reference/",
+  "id": "/uk/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

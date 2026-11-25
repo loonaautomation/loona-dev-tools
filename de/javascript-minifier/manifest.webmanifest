@@ -2,7 +2,7 @@
   "name": "Loona JavaScript-Minifier online kostenlos",
   "short_name": "JavaScript-Minifier online",
   "description": "Minifizieren Sie JavaScript kostenlos online mit einem konservativen Tokenizer, der Zeichenfolgen, Template-Literale und reguläre Ausdrücke schützt. Keine Registrierung, läuft zu 100 % in Ihrem Browser.",
-  "id": "/loona-dev-tools/de/javascript-minifier/",
+  "id": "/de/javascript-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable Decoder",
   "short_name": "Quoted-Printable Decoder",
   "description": "Decode quoted-printable (MIME) text back to readable UTF-8: =XX escapes and soft line breaks handled per RFC 2045.",
-  "id": "/loona-dev-tools/en-us/quoted-printable-decode/",
+  "id": "/en-us/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

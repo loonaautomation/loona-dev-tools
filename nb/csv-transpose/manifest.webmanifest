@@ -2,7 +2,7 @@
   "name": "Loona CSV-transponering på nett gratis",
   "short_name": "CSV-transponer på nett gratis",
   "description": "Transponer CSV på nett gratis - bytt rader og kolonner med en ordentlig RFC 4180-parser som håndterer anførede felt korrekt. Ingen registrering, kjører 100 % i nettleseren din.",
-  "id": "/loona-dev-tools/nb/csv-transpose/",
+  "id": "/nb/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

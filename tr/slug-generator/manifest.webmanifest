@@ -2,7 +2,7 @@
   "name": "Loona Slug Oluşturucu (URL Slug Yapıcı)",
   "short_name": "Slug Oluşturucu (URL Slug",
   "description": "Başlıklardan temiz URL slug değerleri oluşturun: aksanlar soyulur, küçük harf, boşluklar tirelere (veya alt çizgilere). Ücretsiz slug yapıcı.",
-  "id": "/loona-dev-tools/tr/slug-generator/",
+  "id": "/tr/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

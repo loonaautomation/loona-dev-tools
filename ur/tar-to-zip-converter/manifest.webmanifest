@@ -2,7 +2,7 @@
   "name": "Loona TAR سے ZIP کنورٹر آن لائن مفت",
   "short_name": "TAR سے ZIP کنورٹر آن لائن",
   "description": "ایک TAR آرکائیو (.tar) کو عین اپنے براؤزر میں ایک ZIP فائل میں بدلیں۔ TAR فائلیں Linux اور Unix سسٹمز سے آتی ہیں؛ تبدیل شدہ ZIP Windows, macOS اور فونز پر مقامی طور پر کھلتا ہے۔ کچھ اپ لوڈ نہیں ہوتا۔",
-  "id": "/loona-dev-tools/ur/tar-to-zip-converter/",
+  "id": "/ur/tar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

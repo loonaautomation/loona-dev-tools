@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi ISO sang ZIP của Loona",
   "short_name": "Công cụ chuyển đổi ISO sang ZIP",
   "description": "Chuyển đổi một ảnh đĩa ISO thành ZIP các tệp của nó trực tuyến: libarchive đọc nội dung ISO9660/Rock Ridge cục bộ.",
-  "id": "/loona-dev-tools/vi/iso-to-zip-converter/",
+  "id": "/vi/iso-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

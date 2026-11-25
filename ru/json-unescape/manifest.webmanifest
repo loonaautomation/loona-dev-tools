@@ -2,7 +2,7 @@
   "name": "Loona Снятие экранирования строк JSON",
   "short_name": "Снятие экранирования строк JSON",
   "description": "Снимайте экранирование значения строки JSON обратно в обычный текст: последовательности \\n, \\t, \\&quot;, \\\\ и \\uXXXX становятся настоящими символами.",
-  "id": "/loona-dev-tools/ru/json-unescape/",
+  "id": "/ru/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

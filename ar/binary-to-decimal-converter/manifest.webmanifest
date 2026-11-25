@@ -2,7 +2,7 @@
   "name": "Loona محوّل الثنائي إلى العشري",
   "short_name": "محوّل الثنائي إلى العشري",
   "description": "حوّل الأرقام الثنائية إلى العشري عبر الإنترنت — دقة تعسّفية (BigInt)، أرقام سالبة مدعومة.",
-  "id": "/loona-dev-tools/ar/binary-to-decimal-converter/",
+  "id": "/ar/binary-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

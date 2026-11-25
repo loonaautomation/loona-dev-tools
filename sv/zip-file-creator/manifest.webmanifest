@@ -2,7 +2,7 @@
   "name": "Loona ZIP-filskapare online gratis",
   "short_name": "ZIP-filskapare Online Gratis",
   "description": "Skapa en ZIP-fil från flera filer direkt i din webbläsare - lägg till filer, namnge arkivet och ladda ner en .zip. Ingenting laddas upp; allt stannar på din enhet.",
-  "id": "/loona-dev-tools/sv/zip-file-creator/",
+  "id": "/sv/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

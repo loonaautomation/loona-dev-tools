@@ -2,7 +2,7 @@
   "name": "Loona JavaScript 壓縮工具 線上免費",
   "short_name": "JavaScript 壓縮工具 線上版",
   "description": "免費線上壓縮 JavaScript，使用一個保護字串、模板字面量和正規表示式的保守分詞器。無需註冊，100% 在您的瀏覽器中執行。",
-  "id": "/loona-dev-tools/zh-hant/javascript-minifier/",
+  "id": "/zh-hant/javascript-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

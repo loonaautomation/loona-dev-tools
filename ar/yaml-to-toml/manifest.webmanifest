@@ -2,7 +2,7 @@
   "name": "Loona محوّل YAML إلى TOML",
   "short_name": "محوّل YAML إلى TOML",
   "description": "حوّل YAML إلى TOML عبر الإنترنت (عبر نموذج البيانات المشترك): جداول وقياسات ومصفوفات مرتبطة بقواعد تخطيط TOML.",
-  "id": "/loona-dev-tools/ar/yaml-to-toml/",
+  "id": "/ar/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

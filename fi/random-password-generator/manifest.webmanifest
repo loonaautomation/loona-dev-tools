@@ -2,7 +2,7 @@
   "name": "Loona Satunnaissalasanageneraattori",
   "short_name": "Satunnaissalasanageneraattori",
   "description": "Luo vahvoja satunnaisia salasanoja selaimessasi WebCrypto API:lla: pituus ja merkkijoukot säädettävissä, entropia näytetään.",
-  "id": "/loona-dev-tools/fi/random-password-generator/",
+  "id": "/fi/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

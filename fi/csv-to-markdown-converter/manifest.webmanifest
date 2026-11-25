@@ -2,7 +2,7 @@
   "name": "Loona CSV-Markdown-taulukkomuunnin verkossa",
   "short_name": "CSV-Markdown-taulukko",
   "description": "Muunna CSV Markdown-taulukoksi verkossa ilmaiseksi — numeeriset sarakkeet automaattisesti oikealle tasattuina ja pystyviivat oikein pakotettuina. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/csv-to-markdown-converter/",
+  "id": "/fi/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

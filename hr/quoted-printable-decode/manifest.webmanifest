@@ -2,7 +2,7 @@
   "name": "Loona quoted-printable dekoder",
   "short_name": "Quoted-Printable dekoder",
   "description": "Dekodirajte quoted-printable (MIME) tekst natrag u čitljivi UTF-8: escapei =XX i meki prijelomi redaka obrađeni prema RFC-u 2045.",
-  "id": "/loona-dev-tools/hr/quoted-printable-decode/",
+  "id": "/hr/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Cookie-otsikon jäsennin",
   "short_name": "Cookie-otsikon jäsennin",
   "description": "Jäsennä Cookie-otsikko luettavaksi luetteloksi: nimi = arvo -parit, prosenttipuretut arvot näytettynä, evästeiden määrä.",
-  "id": "/loona-dev-tools/fi/cookie-parser/",
+  "id": "/fi/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penukar Timestamp Unix Dalam Talian Percuma",
   "short_name": "Penukar Timestamp Unix",
   "description": "Penukaran timestamp Unix (saat atau milidetik) ke tarikh yang dapat dibaca manusia dalam UTC dan waktu setempat Anda, dan tarikh kembali ke timestamp. Waktu saat ini langsung. Percuma.",
-  "id": "/loona-dev-tools/ms/timestamp-converter/",
+  "id": "/ms/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

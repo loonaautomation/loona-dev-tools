@@ -2,7 +2,7 @@
   "name": "Generátor Loona UUID online zdarma",
   "short_name": "Generátor UUID online zdarma",
   "description": "Generujte náhodná UUID verze 4 online zdarma - jednotlivě nebo hromadně až 100, volby velkých písmen a bez pomlček. Kryptograficky náhodné, ve vašem prohlížeči.",
-  "id": "/loona-dev-tools/cs/uuid-generator/",
+  "id": "/cs/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

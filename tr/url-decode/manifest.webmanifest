@@ -2,7 +2,7 @@
   "name": "Loona URL Kod Çözme (Yüzde Kod Çözme)",
   "short_name": "URL Kod Çözme (Yüzde Kod Çözme)",
   "description": "Yüzde kodlu URL ve sorgu dizelerini, UTF-8 dizileri ve + boşluk olarak dahil, okunabilir metne geri çözün. Ücretsiz çevrimiçi kod çözücü.",
-  "id": "/loona-dev-tools/tr/url-decode/",
+  "id": "/tr/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Timestamp Converter - Unix Time to Human Date & Back",
   "short_name": "Timestamp Converter - Unix Time to Human Date & Back",
   "description": "Convert Unix timestamps (seconds or milliseconds) to human dates in UTC and your local time, and dates back to timestamps. Live current time. Free.",
-  "id": "/loona-dev-tools/en-us/timestamp-converter/",
+  "id": "/en-us/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 语义版本比较器",
   "short_name": "语义化版本比较器",
   "description": "验证并比较语义化版本（MAJOR.MINOR.PATCH）：哪个更新，以及什么样的变化将它们分隔。",
-  "id": "/loona-dev-tools/zh/semver-comparator/",
+  "id": "/zh/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

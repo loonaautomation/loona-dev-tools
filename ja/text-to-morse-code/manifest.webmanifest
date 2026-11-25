@@ -2,7 +2,7 @@
   "name": "Loona テキスト→モールス符号翻訳ツール",
   "short_name": "テキスト→モールス符号翻訳ツール",
   "description": "テキストをモールス符号に翻訳します（文字、数字、一般的な句読点）。単語は / で区切られます。無料のモールス翻訳ツール。",
-  "id": "/loona-dev-tools/ja/text-to-morse-code/",
+  "id": "/ja/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

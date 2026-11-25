@@ -2,7 +2,7 @@
   "name": "Loona Конвертер шестнадцатеричной системы в восьмеричную",
   "short_name": "Конвертер шестнадцатеричных чисел в восьмеричные",
   "description": "Преобразуйте шестнадцатеричные числа в восьмеричные онлайн — произвольная точность (BigInt), поддерживаются отрицательные числа.",
-  "id": "/loona-dev-tools/ru/hex-to-octal-converter/",
+  "id": "/ru/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

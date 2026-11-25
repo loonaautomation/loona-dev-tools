@@ -2,7 +2,7 @@
   "name": "Profiler CSV Loona online gratuit",
   "short_name": "Profiler CSV online gratuit",
   "description": "Profilează un fișier CSV online gratuit - presupuneri de tip pe coloane, numărătoare de celule goale, numărătoare de valori unice, min/max numeric și valori de top, ca să înțelegi un fișier înainte să îl folosești. Fără înregistrare.",
-  "id": "/loona-dev-tools/ro/csv-profiler/",
+  "id": "/ro/csv-profiler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

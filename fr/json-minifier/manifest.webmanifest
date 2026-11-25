@@ -2,7 +2,7 @@
   "name": "Minifieur JSON Loona",
   "short_name": "Minifieur JSON",
   "description": "Minifiez le JSON en ligne : retirez tous les espaces insignifiants en une seule ligne compacte, avec les erreurs de validation signalées précisément.",
-  "id": "/loona-dev-tools/fr/json-minifier/",
+  "id": "/fr/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

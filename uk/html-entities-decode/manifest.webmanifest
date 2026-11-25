@@ -2,7 +2,7 @@
   "name": "Декодувальник сутностей Loona HTML",
   "short_name": "Декодувальник сутностей HTML",
   "description": "Декодуйте сутності HTML назад у звичайні символи: іменовані, десяткові й шістнадцяткові посилання (&copy;, &#169;, &#xA9;) — усі підтримуються.",
-  "id": "/loona-dev-tools/uk/html-entities-decode/",
+  "id": "/uk/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

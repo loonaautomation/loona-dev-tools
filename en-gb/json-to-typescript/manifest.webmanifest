@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/json-to-typescript/",
+  "id": "/en-gb/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

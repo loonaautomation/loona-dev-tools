@@ -2,7 +2,7 @@
   "name": "Loona Cron Expression समझाने वाला",
   "short_name": "Cron Expression समझाने वाला",
   "description": "Cron expressions को सादी अंग्रेज़ी में समझाएँ: एक 5-field cron schedule paste करें और पढ़ें कि यह कब चलता है, field by field।",
-  "id": "/loona-dev-tools/hi/cron-expression-explainer/",
+  "id": "/hi/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

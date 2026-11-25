@@ -2,7 +2,7 @@
   "name": "Loona محوّل XML إلى YAML",
   "short_name": "محوّل XML إلى YAML",
   "description": "حوّل XML إلى YAML: السمات كـ @keys، العناصر المكرّرة كقوائم، القيم مكتوبة الأنواع. محلّل حقيقي، لا تعابير نمطية.",
-  "id": "/loona-dev-tools/ar/xml-to-yaml/",
+  "id": "/ar/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator sumy kontrolnej Adler-32",
   "short_name": "Kalkulator sumy kontrolnej Adler-32",
   "description": "Obliczaj hashe Adler-32 tekstu lub plików online: 32-bitowe, 8 znaków szesnastkowych. Działa lokalnie w przeglądarce z WebCrypto/czystym JS — pliki nigdy nie są przesyłane.",
-  "id": "/loona-dev-tools/pl/adler32-calculator/",
+  "id": "/pl/adler32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

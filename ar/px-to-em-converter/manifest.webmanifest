@@ -2,7 +2,7 @@
   "name": "Loona محوّل البكسل (px) إلى Em",
   "short_name": "محوّل البكسلات (px) إلى Em",
   "description": "حوّل px إلى em بحجم خط أساسي قابل للتعديل (الافتراضي 16px) وجدول قيم شائعة.",
-  "id": "/loona-dev-tools/ar/px-to-em-converter/",
+  "id": "/ar/px-to-em-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

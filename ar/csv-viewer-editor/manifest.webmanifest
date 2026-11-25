@@ -2,7 +2,7 @@
   "name": "Loona عارض ومحرّر CSV عبر الإنترنت مجاناً",
   "short_name": "عارض ومحرّر CSV عبر الإنترنت",
   "description": "اعرض وعدّل ملفات CSV عبر الإنترنت مجاناً في شبكة جدول قابلة للتحرير - عدّل الخلايا، رتّب الأعمدة، أضف أو أزل صفوفاً وأعمدة، ثم نزّل CSV المعدّل. دون تسجيل، يعمل في متصفحك.",
-  "id": "/loona-dev-tools/ar/csv-viewer-editor/",
+  "id": "/ar/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

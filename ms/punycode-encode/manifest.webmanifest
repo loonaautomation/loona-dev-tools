@@ -2,7 +2,7 @@
   "name": "Loona Pengekod Punycode (Penukar Domain IDN)",
   "short_name": "Pengekod Punycode (Domain IDN",
   "description": "Penukaran nama domain terinternasionalisasi (IDN) ke bentuk punycode xn--: bücher.example menjadi xn--bcher-kva.example. Pengekodan per label.",
-  "id": "/loona-dev-tools/ms/punycode-encode/",
+  "id": "/ms/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

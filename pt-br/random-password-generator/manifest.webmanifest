@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Senhas Aleatórias",
   "short_name": "Gerador de Senhas Aleatórias",
   "description": "Gere senhas aleatórias fortes no seu navegador com a API WebCrypto: comprimento e conjuntos de caracteres ajustáveis, entropia apresentada.",
-  "id": "/loona-dev-tools/pt-br/random-password-generator/",
+  "id": "/pt-br/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

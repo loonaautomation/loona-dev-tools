@@ -2,7 +2,7 @@
   "name": "Loona TOML naar YAML-converter",
   "short_name": "TOML naar YAML-converter",
   "description": "Converteer TOML online naar YAML: tabellen worden geneste mappings, arraytabellen worden lijsten van objecten.",
-  "id": "/loona-dev-tools/nl/toml-to-yaml/",
+  "id": "/nl/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

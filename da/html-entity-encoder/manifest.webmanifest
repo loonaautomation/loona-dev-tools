@@ -2,7 +2,7 @@
   "name": "Loona HTML-entitetskoder og -dekoder online gratis",
   "short_name": "HTML-entitetskoder og -dekoder",
   "description": "Kod tekst til HTML-entiteter (navngivne som &amp;copy; eller nummererede som &amp;#169;), og afkod entiteter tilbage til almindelig tekst. Gratis, ingen tilmelding, i din browser.",
-  "id": "/loona-dev-tools/da/html-entity-encoder/",
+  "id": "/da/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

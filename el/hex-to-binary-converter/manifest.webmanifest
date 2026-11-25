@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Δεκαεξαδικού σε Δυαδικό",
   "short_name": "Δεκαεξαδικό σε Δυαδικό",
   "description": "Μετατρέψτε δεκαεξαδικούς αριθμούς σε δυαδικούς διαδικτυακά — αυθαίρετη ακρίβεια (BigInt), υποστηρίζονται αρνητικοί αριθμοί.",
-  "id": "/loona-dev-tools/el/hex-to-binary-converter/",
+  "id": "/el/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

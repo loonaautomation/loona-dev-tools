@@ -2,7 +2,7 @@
   "name": "Loona HSL 轉 RGB 轉換器",
   "short_name": "HSL 轉 RGB 轉換器",
   "description": "線上把顏色從 HSL 轉換成 RGB，帶實時色板，並同時顯示所有其他格式（HEX、RGB、HSL、HSV、CMYK）。",
-  "id": "/loona-dev-tools/zh-hant/hsl-to-rgb-converter/",
+  "id": "/zh-hant/hsl-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

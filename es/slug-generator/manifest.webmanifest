@@ -2,7 +2,7 @@
   "name": "Loona Generador de slugs (creador de slugs de URL)",
   "short_name": "Generador de slugs (Slug de URL",
   "description": "Genera slugs de URL limpios desde títulos: acentos eliminados, minúsculas, espacios a guiones (o guiones bajos). Creador de slugs gratis.",
-  "id": "/loona-dev-tools/es/slug-generator/",
+  "id": "/es/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penyahkod Quoted-Printable",
   "short_name": "Penyahkod Quoted-Printable",
   "description": "Nyahkod teks quoted-printable (MIME) kembali ke UTF-8 yang dapat dibaca: escape =XX dan jeda baris lunak ditangani menurut RFC 2045.",
-  "id": "/loona-dev-tools/ms/quoted-printable-decode/",
+  "id": "/ms/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

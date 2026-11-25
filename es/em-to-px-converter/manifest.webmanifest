@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de em a píxeles (px)",
   "short_name": "Convertidor de em a píxeles (px)",
   "description": "Convierte em a px con un tamaño de fuente base ajustable (predeterminado 16px) y una tabla de valores comunes.",
-  "id": "/loona-dev-tools/es/em-to-px-converter/",
+  "id": "/es/em-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

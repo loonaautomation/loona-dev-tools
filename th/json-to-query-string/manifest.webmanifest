@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง JSON เป็น Query String",
   "short_name": "ตัวแปลง JSON เป็น Query String",
   "description": "สร้าง query string ของ URL จากออบเจ็กต์ JSON: ออบเจ็กต์ที่ซ้อนกันใช้สัญลักษณ์วงเล็บเหลี่ยม อาร์เรย์ใช้คีย์ซ้ำ ทุกอย่างเข้ารหัสเปอร์เซ็นต์",
-  "id": "/loona-dev-tools/th/json-to-query-string/",
+  "id": "/th/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

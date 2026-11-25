@@ -2,7 +2,7 @@
   "name": "Loona 7Z-TAR-muunnin",
   "short_name": "7Z-TAR-muunnin",
   "description": "Muunna 7Z-arkistoja TAR:iksi verkossa: libarchive (WebAssembly) lukee 7Z:n, ustar-kirjoittaja pakkaa sen uudelleen. Yksityistä ja paikallista.",
-  "id": "/loona-dev-tools/fi/7z-to-tar-converter/",
+  "id": "/fi/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

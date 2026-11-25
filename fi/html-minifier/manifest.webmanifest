@@ -2,7 +2,7 @@
   "name": "Loona HTML-minimoija",
   "short_name": "HTML-minimoija",
   "description": "Minifioi HTML verkossa: poista kommentit ja tiivistä välilyönnit suojaten samalla pre-, textarea-, script- ja style-sisällöt.",
-  "id": "/loona-dev-tools/fi/html-minifier/",
+  "id": "/fi/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Prevodník Loona CSV na JSON online zadarmo",
   "short_name": "Prevodník CSV na JSON online",
   "description": "Preveďte CSV na pole objektov JSON online zadarmo so správnym analyzátorom CSV, ktorý zvláda polia v úvodzovkách, čiarky vnútri úvodzoviek a escapované úvodzovky. Bez registrácie, beží 100% vo vašom prehliadači.",
-  "id": "/loona-dev-tools/sk/csv-to-json-converter/",
+  "id": "/sk/csv-to-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

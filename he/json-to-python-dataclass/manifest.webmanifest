@@ -2,7 +2,7 @@
   "name": "ממיר Loona JSON ל-Python Dataclass",
   "short_name": "JSON ל-Python Dataclass",
   "description": "המירו JSON ל-dataclasses של Python עם רמזי סוג: אובייקטים מקוננים הופכים ל-dataclasses מקוננים, סוגי List למערכים.",
-  "id": "/loona-dev-tools/he/json-to-python-dataclass/",
+  "id": "/he/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

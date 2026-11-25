@@ -2,7 +2,7 @@
   "name": "Loona JSON-CSV-muunnin verkossa ilmaiseksi",
   "short_name": "JSON-CSV-muunnin verkossa",
   "description": "Muunna JSON-objektitaulukko CSV:ksi verkossa ilmaiseksi: avainten yhdiste sarakkeina, oikea lainaus ja pakotus, sisäkkäiset arvot säilytettyinä JSON:ina. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/json-to-csv-converter/",
+  "id": "/fi/json-to-csv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

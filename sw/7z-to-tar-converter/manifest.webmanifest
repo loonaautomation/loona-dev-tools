@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha 7Z kwenda TAR",
   "short_name": "Kibadilishaji cha 7Z kwenda TAR",
   "description": "Badilisha hifadhi za 7Z kuwa TAR mtandaoni: libarchive (WebAssembly) husoma 7Z, mwandishi wa ustar huipakia upya. Ya faragha na ya ndani.",
-  "id": "/loona-dev-tools/sw/7z-to-tar-converter/",
+  "id": "/sw/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

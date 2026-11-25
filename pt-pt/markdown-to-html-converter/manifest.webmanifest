@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Markdown para HTML Online Grátis",
   "short_name": "Conversor de Markdown para HTML",
   "description": "Converta Markdown para HTML online grátis - títulos, negrito, itálico, ligações, imagens, listas, blockquotes, blocos de código e muito mais, com uma pré-visualização renderizada em direto. Sem registo.",
-  "id": "/loona-dev-tools/pt-pt/markdown-to-html-converter/",
+  "id": "/pt-pt/markdown-to-html-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

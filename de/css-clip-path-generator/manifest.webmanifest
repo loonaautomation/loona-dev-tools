@@ -2,7 +2,7 @@
   "name": "Loona CSS-Clip-Path-Generator online kostenlos",
   "short_name": "CSS-Clip-Path-Generator",
   "description": "Generieren Sie CSS-clip-path kostenlos online – Polygon-Presets wie Stern, Sechseck und Pfeil mit einstellbaren Punkten, plus Kreis-, Ellipsen- und Inset-Formen, mit einer Live-Vorschau. Keine Registrierung.",
-  "id": "/loona-dev-tools/de/css-clip-path-generator/",
+  "id": "/de/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

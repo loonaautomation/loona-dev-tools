@@ -2,7 +2,7 @@
   "name": "Loona Metin - İkili Dönüştürücü",
   "short_name": "Metin - İkili Dönüştürücü",
   "description": "Metni ikiliye dönüştürün: her karakter, UTF-8 baytlarının 8 bitlik ikili grupları olarak. Ücretsiz çevrimiçi dönüştürücü.",
-  "id": "/loona-dev-tools/tr/text-to-binary/",
+  "id": "/tr/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

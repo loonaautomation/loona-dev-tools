@@ -2,7 +2,7 @@
   "name": "Loona Google SERP -esikatselutyökalu verkossa ilmaiseksi",
   "short_name": "Google SERP -esikatselutyökalu",
   "description": "Esikatsele, miltä sivusi otsikko ja metakuvaus näyttävät Googlen hakutuloksissa verkossa ilmaiseksi, työpöytä- ja mobiilinäkymillä sekä pikselileveyden katkeamisvaroituksilla. Ei rekisteröitymistä.",
-  "id": "/loona-dev-tools/fi/google-serp-preview/",
+  "id": "/fi/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

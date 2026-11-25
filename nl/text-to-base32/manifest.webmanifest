@@ -2,7 +2,7 @@
   "name": "Loona tekst naar Base32-encoder",
   "short_name": "Tekst naar Base32-encoder",
   "description": "Codeer tekst online naar Base32 (RFC 4648) — de hoofdletterongevoelige codering gebruikt in TOTP-geheimen en DNS-veilige identifiers.",
-  "id": "/loona-dev-tools/nl/text-to-base32/",
+  "id": "/nl/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona محوّل YAML إلى XML",
   "short_name": "محوّل YAML إلى XML",
   "description": "حوّل YAML إلى XML عبر الإنترنت: مفتاح واحد في المستوى الأعلى يصبح العنصر الجذري، و@keys تصبح سمات.",
-  "id": "/loona-dev-tools/ar/yaml-to-xml/",
+  "id": "/ar/yaml-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

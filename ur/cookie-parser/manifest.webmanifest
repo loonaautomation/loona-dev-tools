@@ -2,7 +2,7 @@
   "name": "Loona کوکی ہیڈر پارسر",
   "short_name": "کوکی ہیڈر پارسر",
   "description": "ایک Cookie ہیڈر کو پڑھنے کے قابل فہرست میں parse کریں: نام = قدر جوڑے، فیصد-ڈی کوڈ شدہ قدریں دکھائی گئیں، کوکی گنتی۔",
-  "id": "/loona-dev-tools/ur/cookie-parser/",
+  "id": "/ur/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona RAR - TAR Dönüştürücü",
   "short_name": "RAR - TAR Dönüştürücü",
   "description": "RAR arşivlerini (RAR4 ve RAR5) tarayıcınızda libarchive ile çevrimiçi TAR biçimine dönüştürün. Dosyalar cihazınızda kalır.",
-  "id": "/loona-dev-tools/tr/rar-to-tar-converter/",
+  "id": "/tr/rar-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

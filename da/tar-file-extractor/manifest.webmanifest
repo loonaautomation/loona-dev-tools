@@ -2,7 +2,7 @@
   "name": "Loona TAR-filudpakker online gratis",
   "short_name": "TAR-filudpakker online gratis",
   "description": "Åbn TAR-arkiver direkte i din browser - almindelig .tar såvel som .tar.bz2 og .tar.xz - se hver fil inde i, og download enkelte filer eller alt som en ZIP. Intet uploades.",
-  "id": "/loona-dev-tools/da/tar-file-extractor/",
+  "id": "/da/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

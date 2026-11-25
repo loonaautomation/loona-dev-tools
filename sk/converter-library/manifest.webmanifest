@@ -2,7 +2,7 @@
   "name": "Knižnica prevodníkov a generátorov Loona",
   "short_name": "Knižnica prevodníkov a generátorov",
   "description": "Index všetkých prevodníkov a generátorov Loona Developer Tools: kódovania, formáty údajov, hashe, farby, archívy, generátory kódu a referencie.",
-  "id": "/loona-dev-tools/sk/converter-library/",
+  "id": "/sk/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

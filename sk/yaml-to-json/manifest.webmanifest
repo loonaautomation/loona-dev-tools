@@ -2,7 +2,7 @@
   "name": "Prevodník Loona YAML na JSON",
   "short_name": "Prevodník YAML na JSON",
   "description": "Preveďte YAML na JSON online: blokové mapovania a sekvencie, uvedené a obyčajné skaláry, tokové kolekcie. Podmnožina zdokumentovaná úprimne.",
-  "id": "/loona-dev-tools/sk/yaml-to-json/",
+  "id": "/sk/yaml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

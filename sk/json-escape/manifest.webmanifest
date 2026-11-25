@@ -2,7 +2,7 @@
   "name": "Escapovanie reťazca Loona JSON",
   "short_name": "Escapovanie reťazca JSON",
   "description": "Escapujte reťazec na vloženie do JSON: úvodzovky, spätné lomky, nové riadky a riadiace znaky sa stanú sekvenciami \\.",
-  "id": "/loona-dev-tools/sk/json-escape/",
+  "id": "/sk/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

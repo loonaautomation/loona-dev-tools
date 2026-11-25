@@ -2,7 +2,7 @@
   "name": "Loona A1Z26暗号デコーダー（数字から文字へ）",
   "short_name": "A1Z26暗号デコーダー（数字",
   "description": "A1Z26の数字コードを文字にデコードして戻します：1=A、2=B ... 26=Z。ハイフン、カンマ、スペースで区切られます。",
-  "id": "/loona-dev-tools/ja/a1z26-cipher-decoder/",
+  "id": "/ja/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

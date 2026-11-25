@@ -2,7 +2,7 @@
   "name": "Калькулятор Loona Chmod онлайн безкоштовно",
   "short_name": "Калькулятор Chmod онлайн безкоштовно",
   "description": "Розраховуйте дозволи chmod онлайн безкоштовно: прапорці у вісімкове (755) і символьне (rwxr-xr-x), а вісімкове назад у дозволи. Без реєстрації, працює на 100% у вашому браузері.",
-  "id": "/loona-dev-tools/uk/chmod-calculator/",
+  "id": "/uk/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

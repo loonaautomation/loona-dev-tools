@@ -2,7 +2,7 @@
   "name": "Loona User Agent 字符串解析器",
   "short_name": "User Agent 字符串解析器",
   "description": "用一个透明的基于规则的解析器，把浏览器 User-Agent 字符串解析为浏览器、引擎、操作系统和设备类型。",
-  "id": "/loona-dev-tools/zh/user-agent-parser/",
+  "id": "/zh/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

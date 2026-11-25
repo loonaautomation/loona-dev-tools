@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum generátor",
   "short_name": "Lorem Ipsum generátor",
   "description": "Generáljon Lorem Ipsum helykitöltő szöveget: válasszon bekezdéseket, mondatokat vagy szavakat, a klasszikus nyitósor opcionális.",
-  "id": "/loona-dev-tools/hu/lorem-ipsum-generator/",
+  "id": "/hu/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

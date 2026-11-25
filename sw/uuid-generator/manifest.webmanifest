@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha UUID Bure Mtandaoni",
   "short_name": "Kizalishaji cha UUID Bure Mtandaoni",
   "description": "Zalisha UUID za toleo 4 za nasibu mtandaoni bure - moja au kwa wingi hadi 100, chaguo za herufi kubwa na bila kistari. Nasibu kwa usimbaji fiche, kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/uuid-generator/",
+  "id": "/sw/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

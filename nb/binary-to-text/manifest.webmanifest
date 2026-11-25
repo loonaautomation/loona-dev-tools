@@ -2,7 +2,7 @@
   "name": "Loona binær til tekst-konverterer",
   "short_name": "Binær til tekst-konverterer",
   "description": "Dekod binær (grupper på 8 bits, med mellomrom eller sammenhengende) tilbake til UTF-8-tekst på nett. Gratis binæroversetter.",
-  "id": "/loona-dev-tools/nb/binary-to-text/",
+  "id": "/nb/binary-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

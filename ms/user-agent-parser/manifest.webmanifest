@@ -2,7 +2,7 @@
   "name": "Loona Penghurai String User Agent",
   "short_name": "Penghurai String User Agent",
   "description": "Parse string User-Agent pelayar menjadi pelayar, enjin, OS, dan tipe peranti dengan penghurai berbasis aturan yang transparan.",
-  "id": "/loona-dev-tools/ms/user-agent-parser/",
+  "id": "/ms/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

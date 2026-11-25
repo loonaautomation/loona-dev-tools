@@ -2,7 +2,7 @@
   "name": "Loona Caesar Cipher (Shift Cipher)",
   "short_name": "Caesar Cipher (Shift Cipher)",
   "description": "Caesar cipher with any shift (1–25) and a decode mode: the classic substitution cipher of Julius Caesar, online.",
-  "id": "/loona-dev-tools/en-us/caesar-cipher/",
+  "id": "/en-us/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ 转 ZIP 转换器 在线免费",
   "short_name": "TAR.GZ 转 ZIP 转换器",
   "description": "直接在您的浏览器中把 TAR.GZ（.tar.gz 或 .tgz）归档转换成 ZIP 文件。两层——gzip 和 tar——都在您的设备上解开，文件被重新打包为一个 ZIP。不上传任何东西。",
-  "id": "/loona-dev-tools/zh/tar-gz-to-zip-converter/",
+  "id": "/zh/tar-gz-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Parser nagłówka Cookie",
   "short_name": "Parser nagłówka Cookie",
   "description": "Analizuj nagłówek Cookie na czytelną listę: pary nazwa = wartość, wartości po dekodowaniu procentowym pokazane, liczba ciasteczek.",
-  "id": "/loona-dev-tools/pl/cookie-parser/",
+  "id": "/pl/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

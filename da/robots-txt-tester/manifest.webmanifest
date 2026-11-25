@@ -2,7 +2,7 @@
   "name": "Loona Robots.txt-tester online gratis",
   "short_name": "Robots.txt-tester online gratis",
   "description": "Test en robots.txt online gratis - indsæt filen, en URL og en user-agent, og få en tilladt eller blokeret dom med den eksakte matchende regel vist. Ingen tilmelding, kører i din browser.",
-  "id": "/loona-dev-tools/da/robots-txt-tester/",
+  "id": "/da/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

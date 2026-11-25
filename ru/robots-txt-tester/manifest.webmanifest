@@ -2,7 +2,7 @@
   "name": "Loona Тестер robots.txt онлайн бесплатно",
   "short_name": "Тестер robots.txt онлайн бесплатно",
   "description": "Проверяйте robots.txt онлайн бесплатно — вставьте файл, URL и user-agent и получите вердикт «разрешено» или «заблокировано» с показанным точным совпадающим правилом. Без регистрации, работает в вашем браузере.",
-  "id": "/loona-dev-tools/ru/robots-txt-tester/",
+  "id": "/ru/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

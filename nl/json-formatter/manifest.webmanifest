@@ -2,7 +2,7 @@
   "name": "Loona JSON-formatter online gratis",
   "short_name": "JSON-formatter online gratis",
   "description": "Maak JSON online gratis op, valideer en minificeer het, met de exacte regel en kolom van elke fout. Geen registratie, draait 100% in je browser.",
-  "id": "/loona-dev-tools/nl/json-formatter/",
+  "id": "/nl/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

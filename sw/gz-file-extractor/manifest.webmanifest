@@ -2,7 +2,7 @@
   "name": "Loona Kitoaji cha Faili cha GZ Bure Mtandaoni",
   "short_name": "Kitoaji cha Faili cha GZ Bure Mtandaoni",
   "description": "Banua faili moja ya .gz moja kwa moja kwenye kivinjari chako na upakue faili asili - kumbukumbu, uhamishaji data, nakala za hifadhidata. Hakuna kinachopakiwa; kivinjari chako hufanya kazi kiasili.",
-  "id": "/loona-dev-tools/sw/gz-file-extractor/",
+  "id": "/sw/gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

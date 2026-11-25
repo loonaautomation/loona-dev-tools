@@ -2,7 +2,7 @@
   "name": "Loona Unixタイムスタンプ→日付変換ツール",
   "short_name": "Unixタイムスタンプから日付へ",
   "description": "Unixタイムスタンプ（秒またはミリ秒）を人間の日付に変換：UTC、あなたのローカル時間、ISO 8601、相対時間。",
-  "id": "/loona-dev-tools/ja/unix-timestamp-to-date/",
+  "id": "/ja/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

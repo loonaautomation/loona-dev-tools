@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ til ZIP-konverter online gratis",
   "short_name": "TAR.GZ til ZIP-konverter",
   "description": "Konvertér et TAR.GZ-arkiv (.tar.gz eller .tgz) til en ZIP-fil direkte i din browser. Begge lag – gzip og tar – pakkes ud på din enhed, og filerne ompakkes som én ZIP. Intet uploades.",
-  "id": "/loona-dev-tools/da/tar-gz-to-zip-converter/",
+  "id": "/da/tar-gz-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

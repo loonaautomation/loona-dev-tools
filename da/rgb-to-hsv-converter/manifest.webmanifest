@@ -2,7 +2,7 @@
   "name": "Loona RGB til HSV-konverter",
   "short_name": "RGB til HSV-konverter",
   "description": "Konvertér farver fra RGB til HSV online, med en live farveprøve og alle andre formater (HEX, RGB, HSL, HSV, CMYK) vist også.",
-  "id": "/loona-dev-tools/da/rgb-to-hsv-converter/",
+  "id": "/da/rgb-to-hsv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

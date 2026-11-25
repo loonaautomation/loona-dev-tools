@@ -2,7 +2,7 @@
   "name": "Loona Google SERP प्रीव्यू Tool ऑनलाइन मुफ़्त",
   "short_name": "Google SERP प्रीव्यू Tool",
   "description": "अपना page title और meta description Google search results में कैसा दिखेगा, ऑनलाइन मुफ़्त preview करें, desktop और mobile views और pixel-width truncation warnings के साथ। कोई साइन-अप नहीं।",
-  "id": "/loona-dev-tools/hi/google-serp-preview/",
+  "id": "/hi/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Unix-aikaleima-päivämäärämuunnin",
   "short_name": "Unix-aikaleima päivämääräksi",
   "description": "Muunna Unix-aikaleima (sekunteja tai millisekunteja) ihmisen päivämääräksi: UTC, paikallinen aikasi, ISO 8601 ja suhteellinen aika.",
-  "id": "/loona-dev-tools/fi/unix-timestamp-to-date/",
+  "id": "/fi/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

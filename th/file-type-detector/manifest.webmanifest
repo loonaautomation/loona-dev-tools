@@ -2,7 +2,7 @@
   "name": "Loona ตัวตรวจชนิดไฟล์ออนไลน์ฟรี",
   "short_name": "ตัวตรวจชนิดไฟล์ออนไลน์ฟรี",
   "description": "ตรวจจับชนิดจริงของไฟล์ออนไลน์ฟรีจากลายเซ็นส่วนหัวแบบไบต์มหัศจรรย์ - PNG, PDF, ZIP, MP4, EXE และอีกกว่า 30 รูปแบบ - และรับคำเตือนเมื่อนามสกุลไม่ตรงกัน ไม่มีการอัปโหลด",
-  "id": "/loona-dev-tools/th/file-type-detector/",
+  "id": "/th/file-type-detector/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

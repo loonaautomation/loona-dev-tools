@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Maandishi kwenda Hex",
   "short_name": "Kibadilishaji cha Maandishi kwenda Hex",
   "description": "Badilisha maandishi kuwa heksadesimali (baiti za UTF-8) mtandaoni, na au bila nafasi kati ya baiti. Kibadilishaji cha bure cha wasanidi programu.",
-  "id": "/loona-dev-tools/sw/text-to-hex/",
+  "id": "/sw/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

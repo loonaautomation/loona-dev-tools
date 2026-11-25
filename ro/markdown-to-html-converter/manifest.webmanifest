@@ -2,7 +2,7 @@
   "name": "Convertizor Markdown în HTML Loona online gratuit",
   "short_name": "Convertizor Markdown în HTML",
   "description": "Convertește Markdown în HTML online gratuit - titluri, bold, italic, linkuri, imagini, liste, citate bloc, blocuri de cod și altele, cu previzualizare randată în direct. Fără înregistrare.",
-  "id": "/loona-dev-tools/ro/markdown-to-html-converter/",
+  "id": "/ro/markdown-to-html-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

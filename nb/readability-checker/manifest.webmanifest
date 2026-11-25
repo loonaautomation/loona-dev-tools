@@ -2,7 +2,7 @@
   "name": "Loona SEO-lesbarhetssjekker på nett gratis",
   "short_name": "SEO-lesbarhetssjekker",
   "description": "Sjekk innholdets lesbarhet for SEO på nett gratis - Flesch-, Flesch-Kincaid-, Gunning Fog-, Coleman-Liau-, SMOG- og ARI-poeng pluss setningslengdestatistikk for webtekst. Ingen registrering.",
-  "id": "/loona-dev-tools/nb/readability-checker/",
+  "id": "/nb/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

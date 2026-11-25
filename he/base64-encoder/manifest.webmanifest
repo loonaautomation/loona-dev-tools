@@ -2,7 +2,7 @@
   "name": "מקודד ומפענח Loona Base64 מקוון בחינם",
   "short_name": "מקודד ומפענח Base64",
   "description": "קודדו טקסט או קבצים ל-Base64 ופענחו Base64 בחזרה, בטוח ל-UTF-8 לכל שפה ואימוג'י, עם אפשרות בטוחה ל-URL. חינמי, בלי הרשמה, בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/base64-encoder/",
+  "id": "/he/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

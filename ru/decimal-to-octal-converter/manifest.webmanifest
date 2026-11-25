@@ -2,7 +2,7 @@
   "name": "Loona Конвертер десятичной системы в восьмеричную",
   "short_name": "Конвертер десятичных чисел в восьмеричные",
   "description": "Преобразуйте десятичные числа в восьмеричные онлайн — произвольная точность (BigInt), поддерживаются отрицательные числа.",
-  "id": "/loona-dev-tools/ru/decimal-to-octal-converter/",
+  "id": "/ru/decimal-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Regex Test Aracı Çevrimiçi Ücretsiz",
   "short_name": "Regex Test Aracı Çevrimiçi Ücretsiz",
   "description": "Düzenli ifadeleri çevrimiçi ücretsiz test edin, canlı eşleşme vurgulama, yakalama grubu ayrıntıları ve bir eşleşme sayısıyla. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/regex-tester/",
+  "id": "/tr/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

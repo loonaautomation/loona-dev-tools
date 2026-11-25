@@ -2,7 +2,7 @@
   "name": "Referință de tipuri MIME Loona (tipuri de conținut după",
   "short_name": "Referință de tipuri MIME (Content",
   "description": "Tipuri MIME comune după extensia fișierului: documente, imagini, audio, video, arhive, fonturi și formate web cu valorile lor Content-Type.",
-  "id": "/loona-dev-tools/ro/mime-types-reference/",
+  "id": "/ro/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

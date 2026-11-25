@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha JSON kwenda Mfululizo wa Hoja",
   "short_name": "Kibadilishaji cha JSON kwenda Mfululizo wa Hoja",
   "description": "Jenga mfululizo wa swali wa URL kutoka kitu cha JSON: vitu vilivyoingiliana hutumia nukuu ya mabano, safu hurudia ufunguo, kila kitu kimesimbwa kwa asilimia.",
-  "id": "/loona-dev-tools/sw/json-to-query-string/",
+  "id": "/sw/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

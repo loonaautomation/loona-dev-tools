@@ -2,7 +2,7 @@
   "name": "Kodér Loona textu na Base58",
   "short_name": "Kodér textu na Base58",
   "description": "Kódujte text do Base58 (bitcoinová abeceda) online — žiadne 0, O, I ani l, kódovanie bitcoinových adries a hashov IPFS.",
-  "id": "/loona-dev-tools/sk/text-to-base58/",
+  "id": "/sk/text-to-base58/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Codificator text în Base58 Loona",
   "short_name": "Codificator text în Base58",
   "description": "Codifică text în Base58 (alfabetul Bitcoin) online — fără 0, O, I sau l, codificarea adreselor Bitcoin și a hash-urilor IPFS.",
-  "id": "/loona-dev-tools/ro/text-to-base58/",
+  "id": "/ro/text-to-base58/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

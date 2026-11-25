@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha JSON kwenda Jedwali la Markdown",
   "short_name": "JSON kwenda Jedwali la Markdown",
   "description": "Badilisha safu ya JSON ya vitu kuwa jedwali la Markdown: safu wima kutoka funguo, neli zimetoroshwa, tayari kubandikwa kwenye README.",
-  "id": "/loona-dev-tools/sw/json-to-markdown-table/",
+  "id": "/sw/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

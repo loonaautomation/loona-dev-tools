@@ -2,7 +2,7 @@
   "name": "Loona Kisimbaji cha Maandishi kwenda Base32",
   "short_name": "Kisimbaji cha Maandishi kwenda Base32",
   "description": "Simba maandishi kwenda Base32 (RFC 4648) mtandaoni — usimbaji usiojali ukubwa wa herufi unaotumika katika siri za TOTP na vitambulisho salama kwa DNS.",
-  "id": "/loona-dev-tools/sw/text-to-base32/",
+  "id": "/sw/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

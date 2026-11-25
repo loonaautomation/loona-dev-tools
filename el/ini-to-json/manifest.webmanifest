@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας INI σε JSON",
   "short_name": "Μετατροπέας INI σε JSON",
   "description": "Μετατρέψτε αρχεία ρυθμίσεων INI σε JSON: οι ενότητες γίνονται αντικείμενα, οι τιμές παίρνουν τύπους (αριθμοί, boolean) όπου είναι αδιαμφισβήτητο.",
-  "id": "/loona-dev-tools/el/ini-to-json/",
+  "id": "/el/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

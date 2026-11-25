@@ -2,7 +2,7 @@
   "name": "Loona ספרות רומיות למספרים",
   "short_name": "ספרות רומיות למספרים",
   "description": "המירו ספרות רומיות למספרים (1–3999), עם אימות קפדני של סימון חיסורי (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/he/roman-numerals-converter/",
+  "id": "/he/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

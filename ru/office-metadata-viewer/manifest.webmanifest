@@ -2,7 +2,7 @@
   "name": "Loona Просмотрщик метаданных документов Office онлайн",
   "short_name": "Метаданные документов Office",
   "description": "Просматривайте метаданные документов Office онлайн бесплатно — название, автор, компания, даты создания и изменения, приложение и версия для файлов .docx, .xlsx и .pptx. Только просмотр, ничего не загружается.",
-  "id": "/loona-dev-tools/ru/office-metadata-viewer/",
+  "id": "/ru/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

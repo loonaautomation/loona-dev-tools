@@ -2,7 +2,7 @@
   "name": "Loona ตัวเปรียบเทียบเวอร์ชันเชิงความหมาย",
   "short_name": "ตัวเปรียบเทียบเวอร์ชันเชิงความหมาย",
   "description": "ตรวจสอบความถูกต้องและเปรียบเทียบเวอร์ชันเชิงความหมาย (MAJOR.MINOR.PATCH): อันใดใหม่กว่า และการเปลี่ยนแปลงชนิดใดแยกพวกมันออกจากกัน",
-  "id": "/loona-dev-tools/th/semver-comparator/",
+  "id": "/th/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV-TSV-muunnin",
   "short_name": "CSV-TSV-muunnin",
   "description": "Muunna CSV TSV:ksi (sarkaimella erotetut arvot): täysi lainattujen kenttien jäsennys, sarkaimet erottimina. Ilmainen verkkmuunnin.",
-  "id": "/loona-dev-tools/fi/csv-to-tsv/",
+  "id": "/fi/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวถอดรหัส Punycode (xn-- เป็นโดเมน Unicode)",
   "short_name": "ตัวถอดรหัส Punycode (xn-- เป็น",
   "description": "ถอดรหัสโดเมน punycode xn-- กลับเป็นรูปแบบ Unicode — ตรวจสอบว่าโดเมนสากลพูดอะไรจริง ๆ",
-  "id": "/loona-dev-tools/th/punycode-decode/",
+  "id": "/th/punycode-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

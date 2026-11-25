@@ -2,7 +2,7 @@
   "name": "Prevodník Loona CSV na TSV",
   "short_name": "Prevodník CSV na TSV",
   "description": "Preveďte CSV na TSV (hodnoty oddelené tabulátormi): úplná analýza polí v úvodzovkách, tabulátory ako oddeľovače. Bezplatný online prevodník.",
-  "id": "/loona-dev-tools/sk/csv-to-tsv/",
+  "id": "/sk/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

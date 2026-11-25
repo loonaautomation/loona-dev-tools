@@ -2,7 +2,7 @@
   "name": "Loona XML मिनिफ़ायर",
   "short_name": "XML मिनिफ़ायर",
   "description": "XML ऑनलाइन minify करें: comments और inter-tag whitespace को एक compact line में strip करें।",
-  "id": "/loona-dev-tools/hi/xml-minifier/",
+  "id": "/hi/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

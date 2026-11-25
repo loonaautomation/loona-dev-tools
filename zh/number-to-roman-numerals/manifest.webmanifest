@@ -2,7 +2,7 @@
   "name": "Loona 数字转罗马数字",
   "short_name": "数字转罗马数字",
   "description": "把数字（1–3999）转换成标准减法形式的罗马数字。免费的在线转换器。",
-  "id": "/loona-dev-tools/zh/number-to-roman-numerals/",
+  "id": "/zh/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

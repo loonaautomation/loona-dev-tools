@@ -2,7 +2,7 @@
   "name": "מחלץ קבצי Loona TAR.GZ מקוון בחינם",
   "short_name": "מחלץ קבצי TAR.GZ מקוון",
   "description": "פתחו ארכיוני tar.gz ישר בדפדפן שלכם - גם ‎.tar.gz וגם השם הקצר ‎.tgz - ראו כל קובץ בפנים והורידו קבצים בודדים או הכול כ-ZIP. שום דבר לא מועלה.",
-  "id": "/loona-dev-tools/he/tar-gz-file-extractor/",
+  "id": "/he/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

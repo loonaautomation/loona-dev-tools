@@ -2,7 +2,7 @@
   "name": "Loona NATO Phonetic Alphabet अनुवादक (Text",
   "short_name": "NATO Phonetic Alphabet",
   "description": "Text को NATO phonetic alphabet में spell करें: A = Alfa, B = Bravo... Digits समेत। Aviation, military और support calls द्वारा उपयोग होता है।",
-  "id": "/loona-dev-tools/hi/nato-phonetic-alphabet/",
+  "id": "/hi/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

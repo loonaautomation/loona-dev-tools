@@ -2,7 +2,7 @@
   "name": "Loona Transpose CSV Dalam Talian Percuma",
   "short_name": "Transpose CSV Dalam Talian Percuma",
   "description": "Transpose CSV dalam talian percuma - tukar baris dan lajur dengan penghurai RFC 4180 yang tepat yang menangani medan yang dikutip dengan benar. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/csv-transpose/",
+  "id": "/ms/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

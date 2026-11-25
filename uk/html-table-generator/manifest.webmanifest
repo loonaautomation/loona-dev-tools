@@ -2,7 +2,7 @@
   "name": "Генератор таблиць Loona HTML онлайн безкоштовно",
   "short_name": "Генератор таблиць HTML онлайн",
   "description": "Генеруйте таблиці HTML онлайн безкоштовно — встановіть рядки й стовпці, вводьте в сітку й отримуйте чистий HTML таблиці з підтримкою thead, th і caption плюс живий попередній перегляд. Без реєстрації.",
-  "id": "/loona-dev-tools/uk/html-table-generator/",
+  "id": "/uk/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

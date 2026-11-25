@@ -2,7 +2,7 @@
   "name": "Loona Markdown-taulukko-CSV-muunnin",
   "short_name": "Markdown-taulukko CSV:ksi",
   "description": "Muunna Markdown-taulukko CSV:ksi: otsikko ja rivit poimittuina, tasausrivi poistettuna, solut trimmattuna ja kunnolla lainattuina.",
-  "id": "/loona-dev-tools/fi/markdown-table-to-csv/",
+  "id": "/fi/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

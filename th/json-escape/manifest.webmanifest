@@ -2,7 +2,7 @@
   "name": "Loona การ Escape สตริง JSON",
   "short_name": "การ Escape สตริง JSON",
   "description": "Escape สตริงสำหรับฝังภายใน JSON: เครื่องหมายคำพูด แบ็กสแลช ขึ้นบรรทัดใหม่ และตัวอักษรควบคุมกลายเป็นลำดับ \\",
-  "id": "/loona-dev-tools/th/json-escape/",
+  "id": "/th/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

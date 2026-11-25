@@ -2,7 +2,7 @@
   "name": "Loona 画像→Base64変換ツール",
   "short_name": "画像→Base64変換ツール",
   "description": "画像（PNG、JPG、GIF、WebP、SVG）を Base64 data URI にオンライン変換 — ファイルはローカルで読み取られ、寸法とサイズの統計付き。",
-  "id": "/loona-dev-tools/ja/image-to-base64/",
+  "id": "/ja/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

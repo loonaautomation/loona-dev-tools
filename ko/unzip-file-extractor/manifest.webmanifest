@@ -2,7 +2,7 @@
   "name": "Loona Unzip 파일 추출기 온라인 무료",
   "short_name": "압축 풀기 파일 추출기 온라인",
   "description": "브라우저에서 ZIP 파일을 열고, 크기와 함께 안의 모든 파일을 보고, 단일 파일이나 모든 파일을 추출하세요. 업로드되는 것은 없어요; 추출은 기기에서 일어나요.",
-  "id": "/loona-dev-tools/ko/unzip-file-extractor/",
+  "id": "/ko/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

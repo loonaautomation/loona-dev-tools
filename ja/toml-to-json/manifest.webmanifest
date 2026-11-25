@@ -2,7 +2,7 @@
   "name": "Loona TOML→JSON変換ツール",
   "short_name": "TOML→JSON変換ツール",
   "description": "TOMLをJSONにオンライン変換：テーブル、配列テーブル、文字列、数値、真偽値、配列、日時（文字列として）。",
-  "id": "/loona-dev-tools/ja/toml-to-json/",
+  "id": "/ja/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

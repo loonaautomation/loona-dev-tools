@@ -2,7 +2,7 @@
   "name": "Loona JWT enkoder (HS256 potpisivač)",
   "short_name": "JWT enkoder (HS256 potpisivač)",
   "description": "Stvarajte i potpisujte JSON Web Tokene s HS256 u svom pregledniku: JSON korisni teret plus tajna, ili alg=none. Potpisivanje WebCryptom.",
-  "id": "/loona-dev-tools/hr/jwt-encoder/",
+  "id": "/hr/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

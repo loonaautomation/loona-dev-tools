@@ -2,7 +2,7 @@
   "name": "Loona Robots.txt-Tester online kostenlos",
   "short_name": "Robots.txt-Tester online kostenlos",
   "description": "Testen Sie eine robots.txt kostenlos online – fügen Sie die Datei, eine URL und einen User-Agent ein und erhalten Sie ein Erlaubt- oder Blockiert-Urteil mit der exakt übereinstimmenden Regel. Keine Registrierung, läuft in Ihrem Browser.",
-  "id": "/loona-dev-tools/de/robots-txt-tester/",
+  "id": "/de/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

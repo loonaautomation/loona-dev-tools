@@ -2,7 +2,7 @@
   "name": "Loona Konverter XML ke JSON",
   "short_name": "Konverter XML ke JSON",
   "description": "Konversi XML ke JSON online: atribut sebagai @key, elemen berulang sebagai array, teks sebagai nilai dengan angka bertipe.",
-  "id": "/loona-dev-tools/id/xml-to-json/",
+  "id": "/id/xml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

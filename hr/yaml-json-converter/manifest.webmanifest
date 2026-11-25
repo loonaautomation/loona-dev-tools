@@ -2,7 +2,7 @@
   "name": "Loona pretvarač YAML u JSON na mreži besplatno",
   "short_name": "Pretvarač YAML u JSON na mreži",
   "description": "Pretvorite YAML u JSON i JSON u YAML na mreži besplatno. Podržava svakodnevni podskup: ugniježđene mape, popise i skalare, s pošteno navedenim ograničenjima. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/yaml-json-converter/",
+  "id": "/hr/yaml-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

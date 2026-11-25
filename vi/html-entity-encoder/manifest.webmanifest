@@ -2,7 +2,7 @@
   "name": "Công cụ mã hóa & giải mã thực thể HTML của Loona trực tuyến miễn phí",
   "short_name": "Công cụ mã hóa & giải mã thực thể HTML",
   "description": "Mã hóa văn bản thành thực thể HTML (dạng tên như &amp;copy; hoặc dạng số như &amp;#169;) và giải mã các thực thể trở lại thành văn bản thuần. Miễn phí, không đăng ký, trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/html-entity-encoder/",
+  "id": "/vi/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

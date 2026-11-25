@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi JSON sang INI của Loona",
   "short_name": "Công cụ chuyển đổi JSON sang INI",
   "description": "Chuyển đổi đối tượng JSON sang định dạng INI: các giá trị vô hướng cấp cao nhất trước, đối tượng lồng nhau thành [sections]. Công cụ chuyển đổi trực tuyến miễn phí.",
-  "id": "/loona-dev-tools/vi/json-to-ini/",
+  "id": "/vi/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

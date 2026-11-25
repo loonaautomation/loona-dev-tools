@@ -2,7 +2,7 @@
   "name": "Loona HTML-Entities-Decoder",
   "short_name": "HTML-Entities-Decoder",
   "description": "Decodieren Sie HTML-Entities zurück zu einfachen Zeichen: Benannte, dezimale und Hex-Referenzen (&copy;, &#169;, &#xA9;) werden alle unterstützt.",
-  "id": "/loona-dev-tools/de/html-entities-decode/",
+  "id": "/de/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

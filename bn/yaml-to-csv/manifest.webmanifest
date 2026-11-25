@@ -2,7 +2,7 @@
   "name": "Loona YAML থেকে CSV কনভার্টার",
   "short_name": "YAML থেকে CSV কনভার্টার",
   "description": "অবজেক্টের একটি YAML তালিকা একটি CSV টেবিলে রূপান্তর করুন: কলাম হিসেবে কী-এর মিলন, নেস্টেড মান তাদের সেলে JSON হিসেবে সিরিয়ালাইজ করা।",
-  "id": "/loona-dev-tools/bn/yaml-to-csv/",
+  "id": "/bn/yaml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

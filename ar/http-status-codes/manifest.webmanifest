@@ -2,7 +2,7 @@
   "name": "Loona مرجع رموز حالة HTTP",
   "short_name": "مرجع رموز حالة HTTP",
   "description": "كل رمز حالة HTTP شائع مع معناه: 2xx نجاح، 3xx إعادة توجيه، 4xx أخطاء عميل، 5xx أخطاء خادم — مشروح ببساطة.",
-  "id": "/loona-dev-tools/ar/http-status-codes/",
+  "id": "/ar/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "ממיר Loona HSL ל-CMYK",
   "short_name": "ממיר HSL ל-CMYK",
   "description": "המירו צבעים מ-HSL ל-CMYK באופן מקוון, עם דוגמית חיה וכל שאר הפורמטים (HEX, RGB, HSL, HSV, CMYK) מוצגים גם כן.",
-  "id": "/loona-dev-tools/he/hsl-to-cmyk-converter/",
+  "id": "/he/hsl-to-cmyk-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

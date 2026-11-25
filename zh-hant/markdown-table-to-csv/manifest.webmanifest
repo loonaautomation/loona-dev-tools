@@ -2,7 +2,7 @@
   "name": "Loona Markdown 表格轉 CSV 轉換器",
   "short_name": "Markdown 表格轉 CSV",
   "description": "把 Markdown 表格轉換成 CSV：提取標題和行，移除對齊行，單元格被修剪並正確加引號。",
-  "id": "/loona-dev-tools/zh-hant/markdown-table-to-csv/",
+  "id": "/zh-hant/markdown-table-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

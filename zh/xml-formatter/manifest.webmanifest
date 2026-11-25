@@ -2,7 +2,7 @@
   "name": "Loona XML 格式化与验证工具 在线免费",
   "short_name": "XML 格式化与验证工具",
   "description": "免费在线格式化、美化、压缩和验证 XML——带清晰错误消息的标签平衡良构性检查、带缩进的美观打印。无需注册。",
-  "id": "/loona-dev-tools/zh/xml-formatter/",
+  "id": "/zh/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona RAR-filudpakker online gratis",
   "short_name": "RAR-filudpakker online gratis",
   "description": "Åbn RAR-filer (RAR4 og RAR5) direkte i din browser - se hver fil inde i, download enkelte filer eller alt som en ZIP. Intet uploades; udtrækning sker på din enhed.",
-  "id": "/loona-dev-tools/da/rar-file-extractor/",
+  "id": "/da/rar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona llms.txt-generaattori verkossa ilmaiseksi",
   "short_name": "llms.txt-generaattori verkossa ilmaiseksi",
   "description": "Luo kelvollinen llms.txt-tiedosto verkossa ilmaiseksi - sivuston nimi, yhteenvetolainaus, tiedot ja kuratoidut sivulinkit llms.txt-muodossa, jota on ehdotettu AI-indeksoijille. Ei rekisteröitymistä.",
-  "id": "/loona-dev-tools/fi/llms-txt-generator/",
+  "id": "/fi/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

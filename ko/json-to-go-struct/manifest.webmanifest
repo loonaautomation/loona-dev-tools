@@ -2,7 +2,7 @@
   "name": "Loona JSON을 Go 구조체로 변환",
   "short_name": "JSON을 Go 구조체로 변환",
   "description": "JSON을 json 태그가 있는 Go 구조체 정의로 변환해요: int64/float64가 구분되고, 일부 배열 항목에 없는 키에는 omitempty가 붙어요.",
-  "id": "/loona-dev-tools/ko/json-to-go-struct/",
+  "id": "/ko/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

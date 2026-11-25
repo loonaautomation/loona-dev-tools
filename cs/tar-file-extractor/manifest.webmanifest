@@ -2,7 +2,7 @@
   "name": "Extraktor souborů Loona TAR online zdarma",
   "short_name": "Extraktor souborů TAR online zdarma",
   "description": "Otevírejte archivy TAR přímo ve svém prohlížeči - prostý .tar i .tar.bz2 a .tar.xz - uvidíte každý soubor uvnitř a stáhnete jednotlivé soubory nebo vše jako ZIP. Nic se nenahrává.",
-  "id": "/loona-dev-tools/cs/tar-file-extractor/",
+  "id": "/cs/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

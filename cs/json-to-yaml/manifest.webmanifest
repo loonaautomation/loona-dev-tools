@@ -2,7 +2,7 @@
   "name": "Převodník Loona JSON na YAML",
   "short_name": "Převodník JSON na YAML",
   "description": "Převádějte JSON na YAML online: čisté odsazení, pole a vnořené objekty, řetězce v uvozovkách, jen když to YAML potřebuje.",
-  "id": "/loona-dev-tools/cs/json-to-yaml/",
+  "id": "/cs/json-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

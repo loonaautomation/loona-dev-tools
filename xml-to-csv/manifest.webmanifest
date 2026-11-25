@@ -2,7 +2,7 @@
   "name": "Loona XML to CSV Converter",
   "short_name": "XML to CSV Converter",
   "description": "Convert XML to CSV: repeated elements become rows, their children and attributes become columns. Free online converter.",
-  "id": "/loona-dev-tools/xml-to-csv/",
+  "id": "/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

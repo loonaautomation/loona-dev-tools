@@ -2,7 +2,7 @@
   "name": "Loona محلّل سلسلة وكيل المستخدم",
   "short_name": "محلّل سلسلة وكيل المستخدم",
   "description": "حلّل سلسلة وكيل مستخدم متصفح إلى المتصفح والمحرّك ونظام التشغيل ونوع الجهاز بمحلّل شفاف قائم على القواعد.",
-  "id": "/loona-dev-tools/ar/user-agent-parser/",
+  "id": "/ar/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

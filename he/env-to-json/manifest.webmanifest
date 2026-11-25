@@ -2,7 +2,7 @@
   "name": "ממיר Loona .env ל-JSON",
   "short_name": "ממיר .env ל-JSON",
   "description": "נתחו קובץ ‎.env ל-JSON: שורות KEY=value, קידומות export, הערות וערכים ממוסגרים מטופלים.",
-  "id": "/loona-dev-tools/he/env-to-json/",
+  "id": "/he/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

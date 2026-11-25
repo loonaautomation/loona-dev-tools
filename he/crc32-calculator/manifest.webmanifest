@@ -2,7 +2,7 @@
   "name": "מחשבון סכום ביקורת Loona CRC32",
   "short_name": "מחשבון סכום ביקורת CRC32",
   "description": "חשבו גיבובי CRC32 של טקסט או קבצים באופן מקוון: 32 סיביות, 8 תווי hex. פועל מקומית בדפדפן שלכם עם WebCrypto/JS טהור — קבצים לעולם לא מועלים.",
-  "id": "/loona-dev-tools/he/crc32-calculator/",
+  "id": "/he/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

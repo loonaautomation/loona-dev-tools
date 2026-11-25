@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/office-metadata-viewer/",
+  "id": "/en-gb/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

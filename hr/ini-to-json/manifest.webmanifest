@@ -2,7 +2,7 @@
   "name": "Loona pretvarač INI u JSON",
   "short_name": "Pretvarač INI u JSON",
   "description": "Pretvorite INI konfiguracijske datoteke u JSON: odjeljci postaju objekti, vrijednosti se tipiziraju (brojevi, logičke vrijednosti) gdje je nedvosmisleno.",
-  "id": "/loona-dev-tools/hr/ini-to-json/",
+  "id": "/hr/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

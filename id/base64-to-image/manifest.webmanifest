@@ -2,7 +2,7 @@
   "name": "Loona Konverter Base64 ke Gambar",
   "short_name": "Konverter Base64 ke Gambar",
   "description": "Dekode string Base64 atau data URI kembali menjadi gambar yang dapat dilihat dan diunduh. Tipe MIME terdeteksi dari byte.",
-  "id": "/loona-dev-tools/id/base64-to-image/",
+  "id": "/id/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

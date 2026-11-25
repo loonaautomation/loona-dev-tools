@@ -2,7 +2,7 @@
   "name": "Loona نمبر بیس کنورٹر آن لائن مفت",
   "short_name": "نمبر بیس کنورٹر آن لائن",
   "description": "اعداد کو بائنری، آکٹل، اعشاریہ اور ہیکساڈیسیمل کے درمیان آن لائن مفت بدلیں، 2^53 سے آگے کی قدروں کے لیے BigInt درستگی اور فی-عدد توثیق کے ساتھ۔ کوئی سائن اپ نہیں، 100% آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-dev-tools/ur/number-base-converter/",
+  "id": "/ur/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

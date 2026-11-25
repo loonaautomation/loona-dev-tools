@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Jedwali la HTML Bure Mtandaoni",
   "short_name": "Kizalishaji cha Jedwali la HTML Mtandaoni",
   "description": "Zalisha majedwali ya HTML mtandaoni bure - weka safu mlalo na safu wima, andika kwenye gridi, na upate HTML safi ya jedwali yenye usaidizi wa thead, th na caption pamoja na onyesho la awali la moja kwa moja. Bila kujisajili.",
-  "id": "/loona-dev-tools/sw/html-table-generator/",
+  "id": "/sw/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

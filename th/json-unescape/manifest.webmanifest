@@ -2,7 +2,7 @@
   "name": "Loona การยกเลิก Escape สตริง JSON",
   "short_name": "การยกเลิก Escape สตริง JSON",
   "description": "ยกเลิกการ escape ค่าสตริง JSON กลับเป็นข้อความธรรมดา: ลำดับ \\n, \\t, \\&quot;, \\\\ และ \\uXXXX กลายเป็นตัวอักษรจริง",
-  "id": "/loona-dev-tools/th/json-unescape/",
+  "id": "/th/json-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

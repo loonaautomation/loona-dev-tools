@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Desimali kwenda Heksadesimali",
   "short_name": "Desimali kwenda Heksadesimali",
   "description": "Badilisha nambari za desimali kuwa heksadesimali mtandaoni — usahihi wa kiholela (BigInt), nambari hasi zinaungwa mkono.",
-  "id": "/loona-dev-tools/sw/decimal-to-hex-converter/",
+  "id": "/sw/decimal-to-hex-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

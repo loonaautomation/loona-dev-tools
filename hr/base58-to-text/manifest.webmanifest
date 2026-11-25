@@ -2,7 +2,7 @@
   "name": "Loona Base58 dekoder u tekst",
   "short_name": "Dekoder Base58 u tekst",
   "description": "Dekodirajte Base58 nizove natrag u tekst (UTF-8). Provjerava prema Bitcoin abecedi i prijavljuje nevaljane znakove.",
-  "id": "/loona-dev-tools/hr/base58-to-text/",
+  "id": "/hr/base58-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

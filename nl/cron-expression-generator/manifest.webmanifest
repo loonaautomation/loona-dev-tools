@@ -2,7 +2,7 @@
   "name": "Loona cron-expressie-generator online gratis",
   "short_name": "Cron-expressie-generator",
   "description": "Bouw cron-expressies uit dropdowns en laat elke cron-expressie met 5 velden in gewoon Nederlands uitleggen, online gratis. Geen registratie, draait 100% in je browser.",
-  "id": "/loona-dev-tools/nl/cron-expression-generator/",
+  "id": "/nl/cron-expression-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

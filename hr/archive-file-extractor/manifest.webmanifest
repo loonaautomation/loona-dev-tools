@@ -2,7 +2,7 @@
   "name": "Loona izdvajanje arhivskih datoteka na mreži besplatno",
   "short_name": "Izdvajanje arhivskih datoteka na mreži",
   "description": "Jedan univerzalni otvarač arhiva: ispustite bilo koju ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ ili ISO datoteku i izdvojite njezin sadržaj izravno u svom pregledniku. Format se otkriva automatski; ništa se ne prenosi.",
-  "id": "/loona-dev-tools/hr/archive-file-extractor/",
+  "id": "/hr/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV Pivot na Kupanga kwa Vikundi Bure Mtandaoni",
   "short_name": "CSV Pivot na Kupanga kwa Vikundi Mtandaoni",
   "description": "Pivot data ya CSV mtandaoni bure - panga safu mlalo kwa kundi la safu wima yoyote na ukokote jumla, hesabu, wastani, kiwango cha chini au cha juu cha safu wima ya thamani. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/csv-pivot-group-by/",
+  "id": "/sw/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

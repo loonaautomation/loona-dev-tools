@@ -2,7 +2,7 @@
   "name": "Loona archiefbestandsextractor online gratis",
   "short_name": "Archiefbestandsextractor online",
   "description": "Eén universele archiefopener: sleep een ZIP-, RAR-, 7Z-, TAR-, TAR.GZ-, TAR.BZ2-, TAR.XZ- of ISO-bestand en pak zijn inhoud direct in je browser uit. Het formaat wordt automatisch gedetecteerd; niets wordt geüpload.",
-  "id": "/loona-dev-tools/nl/archive-file-extractor/",
+  "id": "/nl/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

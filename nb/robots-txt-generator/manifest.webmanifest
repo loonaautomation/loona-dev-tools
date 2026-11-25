@@ -2,7 +2,7 @@
   "name": "Loona Robots.txt-generator på nett gratis",
   "short_name": "Robots.txt-generator på nett",
   "description": "Generer en gyldig robots.txt på nett gratis - forhåndsvalg, allow- og disallow-regler per agent, sitemap-linje og innebygde fornuftssjekker av syntaks. Ingen registrering, kjører i nettleseren din.",
-  "id": "/loona-dev-tools/nb/robots-txt-generator/",
+  "id": "/nb/robots-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

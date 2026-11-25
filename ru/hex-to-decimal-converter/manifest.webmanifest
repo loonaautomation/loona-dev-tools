@@ -2,7 +2,7 @@
   "name": "Loona Конвертер шестнадцатеричной системы в десятичную",
   "short_name": "Из шестнадцатеричной в десятичную",
   "description": "Преобразуйте шестнадцатеричные числа в десятичные онлайн — произвольная точность (BigInt), поддерживаются отрицательные числа.",
-  "id": "/loona-dev-tools/ru/hex-to-decimal-converter/",
+  "id": "/ru/hex-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

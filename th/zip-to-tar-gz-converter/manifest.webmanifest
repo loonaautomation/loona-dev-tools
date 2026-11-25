@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง ZIP เป็น TAR.GZ ออนไลน์ฟรี",
   "short_name": "ตัวแปลง ZIP เป็น TAR.GZ",
   "description": "แปลงไฟล์บีบอัด ZIP เป็น tarball TAR.GZ (.tar.gz) ในเบราว์เซอร์ของคุณเลย - รูปแบบที่เซิร์ฟเวอร์ Linux, Docker และเครื่องมือ build คาดหวัง โครงสร้างโฟลเดอร์ถูกรักษาไว้ ไม่มีการอัปโหลด",
-  "id": "/loona-dev-tools/th/zip-to-tar-gz-converter/",
+  "id": "/th/zip-to-tar-gz-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Google SERP-förhandsgranskningsverktyg online gratis",
   "short_name": "Google SERP-förhandsgranskningsverktyg",
   "description": "Förhandsgranska hur din sidtitel och metabeskrivning kommer att se ut i Googles sökresultat online gratis, med skrivbords- och mobilvyer och varningar för pixelbreddsavkortning. Ingen registrering.",
-  "id": "/loona-dev-tools/sv/google-serp-preview/",
+  "id": "/sv/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

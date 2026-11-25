@@ -2,7 +2,7 @@
   "name": "Loona UUID जनरेटर ऑनलाइन मुफ़्त",
   "short_name": "UUID जनरेटर ऑनलाइन मुफ़्त",
   "description": "Random version 4 UUIDs ऑनलाइन मुफ़्त generate करें — single या bulk 100 तक, uppercase और no-hyphen विकल्प। Cryptographically random, आपके ब्राउज़र में।",
-  "id": "/loona-dev-tools/hi/uuid-generator/",
+  "id": "/hi/uuid-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

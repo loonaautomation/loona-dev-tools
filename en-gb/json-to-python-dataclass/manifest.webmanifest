@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/json-to-python-dataclass/",
+  "id": "/en-gb/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

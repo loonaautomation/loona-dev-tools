@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona hexadécimal vers texte",
   "short_name": "Convertisseur hexadécimal vers texte",
   "description": "Convertissez l’hexadécimal en texte : collez des octets hexadécimaux (espacés ou continus, avec ou sans 0x) et lisez le texte UTF-8.",
-  "id": "/loona-dev-tools/fr/hex-to-text/",
+  "id": "/fr/hex-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

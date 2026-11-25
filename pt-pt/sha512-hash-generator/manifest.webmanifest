@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Hash SHA-512",
   "short_name": "Gerador de Hash SHA-512",
   "description": "Calcule hashes SHA-512 de texto ou ficheiros online: 512-bit, 128 caracteres hexadecimais. Funciona localmente no seu navegador com WebCrypto/JS puro — os ficheiros nunca são carregados.",
-  "id": "/loona-dev-tools/pt-pt/sha512-hash-generator/",
+  "id": "/pt-pt/sha512-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

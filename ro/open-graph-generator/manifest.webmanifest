@@ -2,7 +2,7 @@
   "name": "Generator Open Graph și card Twitter Loona",
   "short_name": "Open Graph și card Twitter",
   "description": "Generează meta etichete Open Graph și card Twitter online gratuit, cu o previzualizare socială în direct - titlu, descriere, imagine, URL și numele site-ului. Fără înregistrare, rulează în browserul tău.",
-  "id": "/loona-dev-tools/ro/open-graph-generator/",
+  "id": "/ro/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

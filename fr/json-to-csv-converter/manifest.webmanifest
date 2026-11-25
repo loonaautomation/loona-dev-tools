@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona JSON vers CSV en ligne gratuit",
   "short_name": "Convertisseur JSON vers CSV en ligne",
   "description": "Convertissez un tableau JSON d’objets en CSV en ligne et gratuitement : union des clés en colonnes, citation et échappement corrects, valeurs imbriquées conservées en JSON. Sans inscription, fonctionne à 100 % dans votre navigateur.",
-  "id": "/loona-dev-tools/fr/json-to-csv-converter/",
+  "id": "/fr/json-to-csv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

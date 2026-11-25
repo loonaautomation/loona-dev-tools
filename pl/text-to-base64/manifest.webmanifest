@@ -2,7 +2,7 @@
   "name": "Loona Koder tekstu na Base64",
   "short_name": "Koder tekstu na Base64",
   "description": "Koduj tekst do Base64 online, bezpieczne UTF-8 dla każdego języka i emoji, z opcjonalnym alfabetem bezpiecznym dla URL. Za darmo, prywatnie, w przeglądarce.",
-  "id": "/loona-dev-tools/pl/text-to-base64/",
+  "id": "/pl/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

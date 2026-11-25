@@ -2,7 +2,7 @@
   "name": "חיבור Loona CSV מקוון בחינם",
   "short_name": "חיבור CSV מקוון בחינם",
   "description": "חברו שני קבצי CSV באופן מקוון בחינם על עמודת מפתח משותפת - חיבור פנימי או חיבור שמאלי, מפתחות כפולים מטופלים בדרך של מסד הנתונים. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/csv-join/",
+  "id": "/he/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

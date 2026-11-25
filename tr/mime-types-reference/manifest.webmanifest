@@ -2,7 +2,7 @@
   "name": "Loona MIME Türleri Başvurusu (İçerik Türleri:",
   "short_name": "MIME Türleri Başvurusu (İçerik",
   "description": "Dosya uzantısına göre yaygın MIME türleri: Content-Type değerleriyle belgeler, görseller, ses, video, arşivler, yazı tipleri ve web biçimleri.",
-  "id": "/loona-dev-tools/tr/mime-types-reference/",
+  "id": "/tr/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona tekst naar binair-converter",
   "short_name": "Tekst naar binair-converter",
   "description": "Converteer tekst naar binair: elk teken als 8-bits binaire groepen van zijn UTF-8-bytes. Gratis online converter.",
-  "id": "/loona-dev-tools/nl/text-to-binary/",
+  "id": "/nl/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

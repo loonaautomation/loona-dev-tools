@@ -2,7 +2,7 @@
   "name": "Generátor Loona Open Graph &amp; Twitter Card",
   "short_name": "Open Graph &amp; Twitter Card",
   "description": "Generujte meta značky Open Graph a Twitter Card online zdarma, s živým náhledem sociální karty - titulek, popis, obrázek, URL a název webu. Bez registrace, běží ve vašem prohlížeči.",
-  "id": "/loona-dev-tools/cs/open-graph-generator/",
+  "id": "/cs/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

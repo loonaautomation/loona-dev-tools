@@ -2,7 +2,7 @@
   "name": "Loona تقسيم ودمج CSV عبر الإنترنت مجاناً",
   "short_name": "تقسيم ودمج CSV عبر الإنترنت مجاناً",
   "description": "قسّم CSV إلى أجزاء بعدد الصفوف أو ادمج عدة ملفات CSV في واحد، عبر الإنترنت مجاناً - الترويسات معالجة بشكل صحيح، تحليل CSV صحيح. دون تسجيل، يعمل 100% في متصفحك.",
-  "id": "/loona-dev-tools/ar/csv-split-merge/",
+  "id": "/ar/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

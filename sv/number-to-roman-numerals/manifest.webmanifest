@@ -2,7 +2,7 @@
   "name": "Loona Tal till romerska siffror",
   "short_name": "Tal till Romerska Siffror",
   "description": "Konvertera tal (1–3999) till romerska siffror i standard subtraktiv form. Gratis onlinekonverterare.",
-  "id": "/loona-dev-tools/sv/number-to-roman-numerals/",
+  "id": "/sv/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

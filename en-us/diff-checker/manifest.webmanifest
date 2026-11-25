@@ -2,7 +2,7 @@
   "name": "Loona Diff Checker - Compare Two Texts Line by Line",
   "short_name": "Diff Checker - Compare Two Texts Line by Line",
   "description": "Compare two texts online for free with a line-by-line diff: added lines in green, removed lines in red, plus a change summary. No sign-up, runs 100% in your browser.",
-  "id": "/loona-dev-tools/en-us/diff-checker/",
+  "id": "/en-us/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

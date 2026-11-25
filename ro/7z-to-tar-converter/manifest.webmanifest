@@ -2,7 +2,7 @@
   "name": "Convertizor 7Z în TAR Loona",
   "short_name": "Convertizor 7Z în TAR",
   "description": "Convertește arhive 7Z în TAR online: libarchive (WebAssembly) citește 7Z-ul, un scriitor ustar îl reîmpachetează. Privat și local.",
-  "id": "/loona-dev-tools/ro/7z-to-tar-converter/",
+  "id": "/ro/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

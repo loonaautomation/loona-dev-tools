@@ -2,7 +2,7 @@
   "name": "Loona JSON till JSON Schema-generator",
   "short_name": "JSON till JSON Schema-generator",
   "description": "Generera ett JSON Schema (utkast 2020-12) från ett JSON-exempel: typer härledda, objektegenskaper och obligatoriska nycklar inkluderade.",
-  "id": "/loona-dev-tools/sv/json-to-json-schema/",
+  "id": "/sv/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مترجم النص إلى شيفرة Morse",
   "short_name": "مترجم النص إلى شيفرة Morse",
   "description": "ترجم النص إلى شيفرة Morse (أحرف، أرقام وعلامات ترقيم شائعة)، الكلمات مفصولة بـ /. مترجم Morse مجاني.",
-  "id": "/loona-dev-tools/ar/text-to-morse-code/",
+  "id": "/ar/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

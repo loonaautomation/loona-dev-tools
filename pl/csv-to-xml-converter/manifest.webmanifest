@@ -2,7 +2,7 @@
   "name": "Loona Konwerter CSV na XML online za darmo",
   "short_name": "Konwerter CSV na XML online",
   "description": "Konwertuj CSV na XML online za darmo z konfigurowalnymi nazwami elementów root i wiersza oraz poprawnym escapowaniem XML. Bez rejestracji, działa w 100% w przeglądarce.",
-  "id": "/loona-dev-tools/pl/csv-to-xml-converter/",
+  "id": "/pl/csv-to-xml-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ข้อมูลอ้างอิงรหัสสถานะ HTTP",
   "short_name": "ข้อมูลอ้างอิงรหัสสถานะ HTTP",
   "description": "รหัสสถานะ HTTP ทั่วไปทุกตัวพร้อมความหมาย: 2xx สำเร็จ 3xx การเปลี่ยนเส้นทาง 4xx ข้อผิดพลาดของไคลเอนต์ 5xx ข้อผิดพลาดของเซิร์ฟเวอร์ — อธิบายอย่างตรงไปตรงมา",
-  "id": "/loona-dev-tools/th/http-status-codes/",
+  "id": "/th/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pemformat & Pengesah XML Dalam Talian Percuma",
   "short_name": "Pemformat & Pengesah XML",
   "description": "Format, percantik, minifikasi, dan pengesahan XML dalam talian secara percuma - penyemakan well-formedness tag seimbang dengan pesan ralat yang jelas, pencetakan rapi dengan indentasi. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/ms/xml-formatter/",
+  "id": "/ms/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

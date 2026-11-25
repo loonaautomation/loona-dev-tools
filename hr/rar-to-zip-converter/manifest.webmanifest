@@ -2,7 +2,7 @@
   "name": "Loona pretvarač RAR u ZIP na mreži besplatno",
   "short_name": "Pretvarač RAR u ZIP na mreži",
   "description": "Pretvorite RAR arhivu (.rar) u standardnu ZIP datoteku izravno u vašem pregledniku. Struktura mapa je očuvana, ništa se ne prenosi, a ZIP se otvara bilo gdje - Windows, macOS, Android i iPhone svi izvorno otvaraju ZIP.",
-  "id": "/loona-dev-tools/hr/rar-to-zip-converter/",
+  "id": "/hr/rar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

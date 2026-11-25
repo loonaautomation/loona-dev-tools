@@ -2,7 +2,7 @@
   "name": "Loona CSV - SQL Dönüştürücü Çevrimiçi Ücretsiz",
   "short_name": "CSV - SQL Dönüştürücü Çevrimiçi",
   "description": "CSV değerini çevrimiçi ücretsiz SQL biçimine dönüştürün - çıkarılan sütun türleriyle CREATE TABLE artı satır başına bir INSERT, MySQL, PostgreSQL veya SQLite için. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/csv-to-sql-converter/",
+  "id": "/tr/csv-to-sql-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

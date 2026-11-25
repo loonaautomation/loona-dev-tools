@@ -2,7 +2,7 @@
   "name": "Loona HSV-ből RGB-be átalakító",
   "short_name": "HSV–RGB átalakító",
   "description": "Alakítson színeket HSV-ből RGB-vé online, élő színmintával, és az összes többi formátummal (HEX, RGB, HSL, HSV, CMYK) is megjelenítve.",
-  "id": "/loona-dev-tools/hu/hsv-to-rgb-converter/",
+  "id": "/hu/hsv-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

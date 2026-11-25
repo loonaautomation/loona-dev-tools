@@ -2,7 +2,7 @@
   "name": "ממיר Loona XML ל-YAML",
   "short_name": "ממיר XML ל-YAML",
   "description": "המירו XML ל-YAML: תכונות כמפתחות @, אלמנטים חוזרים כרשימות, ערכים מוקלדים. מנתח אמיתי, לא regex.",
-  "id": "/loona-dev-tools/he/xml-to-yaml/",
+  "id": "/he/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

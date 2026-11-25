@@ -2,7 +2,7 @@
   "name": "Loona Formater SQL online za darmo",
   "short_name": "Formater SQL online za darmo",
   "description": "Formatuj SQL online za darmo: słowa kluczowe wielkimi literami, klauzule SELECT, FROM, WHERE i JOIN w osobnych wierszach, ciągi zachowane. Bez rejestracji, działa w 100% w przeglądarce.",
-  "id": "/loona-dev-tools/pl/sql-formatter/",
+  "id": "/pl/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

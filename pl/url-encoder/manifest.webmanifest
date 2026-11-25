@@ -2,7 +2,7 @@
   "name": "Loona Koder i dekoder URL online za darmo",
   "short_name": "Koder i dekoder URL online",
   "description": "Koduj i dekoduj adresy URL oraz tekst zapytań online za darmo, z trybami składnika i pełnego URL oraz rozbiciem znak po znaku. Bez rejestracji, w przeglądarce.",
-  "id": "/loona-dev-tools/pl/url-encoder/",
+  "id": "/pl/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

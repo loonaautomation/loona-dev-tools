@@ -2,7 +2,7 @@
   "name": "Loona HTML Varlıkları Kodlayıcı",
   "short_name": "HTML Varlıkları Kodlayıcı",
   "description": "Özel karakterleri HTML varlıkları olarak kodlayın: adlandırılmış (&copy;), ondalık veya hex sayısal başvurular. İşaretlemeyi, tırnakları ve ASCII olmayan metni kaçışlar.",
-  "id": "/loona-dev-tools/tr/html-entities-encode/",
+  "id": "/tr/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

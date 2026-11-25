@@ -2,7 +2,7 @@
   "name": "Loona HTMLエンティティ参照表",
   "short_name": "HTMLエンティティ参照表",
   "description": "必須のHTMLエンティティ表：開発者が実際に使うエンティティの名前付きエンティティ、文字、十進コード、使用上の注意。",
-  "id": "/loona-dev-tools/ja/html-entities-reference/",
+  "id": "/ja/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

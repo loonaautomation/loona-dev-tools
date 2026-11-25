@@ -2,7 +2,7 @@
   "name": "Loona Caesar-chifferkodare och avkodare",
   "short_name": "Caesar-chifferkodare och",
   "description": "Caesar-chiffer med valfri förskjutning (1–25) och ett avkodningsläge: Julius Caesars klassiska substitutionschiffer, online.",
-  "id": "/loona-dev-tools/sv/caesar-cipher/",
+  "id": "/sv/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

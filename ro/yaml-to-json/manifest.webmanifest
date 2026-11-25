@@ -2,7 +2,7 @@
   "name": "Convertizor YAML în JSON Loona",
   "short_name": "Convertizor YAML în JSON",
   "description": "Convertește YAML în JSON online: mapări și secvențe bloc, scalari puși între ghilimele și simpli, colecții flux. Subset documentat sincer.",
-  "id": "/loona-dev-tools/ro/yaml-to-json/",
+  "id": "/ro/yaml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

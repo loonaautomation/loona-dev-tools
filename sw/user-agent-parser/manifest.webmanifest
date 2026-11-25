@@ -2,7 +2,7 @@
   "name": "Loona Kichanganua Mfululizo wa User Agent",
   "short_name": "Kichanganua cha Mfululizo wa User Agent",
   "description": "Changanua mfululizo wa User-Agent wa kivinjari kuwa kivinjari, injini, OS na aina ya kifaa kwa kichanganua cha uwazi kinachotegemea kanuni.",
-  "id": "/loona-dev-tools/sw/user-agent-parser/",
+  "id": "/sw/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona XML-nettstedskartgenerator på nett gratis",
   "short_name": "XML-nettstedskartgenerator på nett",
   "description": "Generer en gyldig XML-sitemap på nett gratis fra en liste med URL-er, med standard lastmod, changefreq og priority, riktig URL- og XML-escaping. Ingen registrering, kjører i nettleseren din.",
-  "id": "/loona-dev-tools/nb/xml-sitemap-generator/",
+  "id": "/nb/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

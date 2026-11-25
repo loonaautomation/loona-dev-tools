@@ -2,7 +2,7 @@
   "name": "Loona MIME-typer-referanse (Innholdstyper etter",
   "short_name": "MIME-typer-referanse (Innhold",
   "description": "Vanlige MIME-typer etter filendelse: dokumenter, bilder, lyd, video, arkiver, fonter og webformater med Content-Type-verdiene deres.",
-  "id": "/loona-dev-tools/nb/mime-types-reference/",
+  "id": "/nb/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

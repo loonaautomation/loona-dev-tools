@@ -2,7 +2,7 @@
   "name": "Analizator URL Loona online gratuit",
   "short_name": "Analizator URL online gratuit",
   "description": "Analizează orice URL online gratuit în protocol, gazdă, port, cale, parametri de interogare și hash - editează parametrii și reconstruiește URL-ul. Fără înregistrare, rulează 100% în browserul tău.",
-  "id": "/loona-dev-tools/ro/url-parser/",
+  "id": "/ro/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

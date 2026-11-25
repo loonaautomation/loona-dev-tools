@@ -2,7 +2,7 @@
   "name": "Loona binær til oktal-konverter",
   "short_name": "Binær til oktal-konverter",
   "description": "Konvertér binære tal til oktal online — vilkårlig præcision (BigInt), negative tal understøttet.",
-  "id": "/loona-dev-tools/da/binary-to-octal-converter/",
+  "id": "/da/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

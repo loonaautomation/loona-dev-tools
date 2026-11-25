@@ -2,7 +2,7 @@
   "name": "Loona منشئ JSON إلى SQL INSERT",
   "short_name": "منشئ JSON إلى SQL INSERT",
   "description": "أنشئ عبارات SQL INSERT من مصفوفة JSON من الكائنات: سلاسل مهرّبة، وقيم NULL ومنطقية معالجة، اسم جدول مخصص.",
-  "id": "/loona-dev-tools/ar/json-to-sql-insert/",
+  "id": "/ar/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona URL-avkodning (procentavkodning)",
   "short_name": "URL-avkodning (Procentavkodning)",
   "description": "Avkoda procentkodade URL:er och frågesträngar tillbaka till läsbar text, inklusive UTF-8-sekvenser och + som mellanslag. Gratis onlineavkodare.",
-  "id": "/loona-dev-tools/sv/url-decode/",
+  "id": "/sv/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

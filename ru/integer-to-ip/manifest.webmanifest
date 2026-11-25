@@ -2,7 +2,7 @@
   "name": "Loona Конвертер целого числа в IP-адрес",
   "short_name": "Целое число в IP-адрес",
   "description": "Преобразуйте 32-битное целое число обратно в IPv4-адрес с точками (3232235521 → 192.168.0.1).",
-  "id": "/loona-dev-tools/ru/integer-to-ip/",
+  "id": "/ru/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

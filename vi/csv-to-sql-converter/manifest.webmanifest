@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi CSV sang SQL trực tuyến miễn phí của Loona",
   "short_name": "Công cụ chuyển đổi CSV sang SQL trực tuyến",
   "description": "Chuyển đổi CSV sang SQL trực tuyến miễn phí - CREATE TABLE với các kiểu cột được suy luận cộng một INSERT mỗi hàng, cho MySQL, PostgreSQL hoặc SQLite. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/csv-to-sql-converter/",
+  "id": "/vi/csv-to-sql-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

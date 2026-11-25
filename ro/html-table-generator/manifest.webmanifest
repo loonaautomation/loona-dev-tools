@@ -2,7 +2,7 @@
   "name": "Generator de tabele HTML Loona online gratuit",
   "short_name": "Generator de tabele HTML online",
   "description": "Generează tabele HTML online gratuit - setează rânduri și coloane, tastează în grilă și obține HTML de tabel curat cu suport pentru thead, th și caption plus previzualizare în direct. Fără înregistrare.",
-  "id": "/loona-dev-tools/ro/html-table-generator/",
+  "id": "/ro/html-table-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

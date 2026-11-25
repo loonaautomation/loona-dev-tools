@@ -2,7 +2,7 @@
   "name": "Loona JSON-ból YAML-ba átalakító",
   "short_name": "JSON-ból YAML átalakító",
   "description": "Alakítson JSON-t YAML-lá online: tiszta behúzás, tömbök és beágyazott objektumok, a karakterláncok csak akkor idézőjelben, amikor a YAML-nak szüksége van rá.",
-  "id": "/loona-dev-tools/hu/json-to-yaml/",
+  "id": "/hu/json-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

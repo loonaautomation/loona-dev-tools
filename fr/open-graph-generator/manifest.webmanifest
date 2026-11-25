@@ -2,7 +2,7 @@
   "name": "Générateur Loona Open Graph et Twitter Card",
   "short_name": "Open Graph et Twitter Card",
   "description": "Générez des balises méta Open Graph et Twitter Card en ligne et gratuitement, avec un aperçu de carte sociale en direct - titre, description, image, URL et nom du site. Sans inscription, fonctionne dans votre navigateur.",
-  "id": "/loona-dev-tools/fr/open-graph-generator/",
+  "id": "/fr/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV - XML Dönüştürücü Çevrimiçi Ücretsiz",
   "short_name": "CSV - XML Dönüştürücü Çevrimiçi",
   "description": "CSV değerini çevrimiçi ücretsiz, yapılandırılabilir kök ve satır öğe adları ve düzgün XML kaçışıyla XML biçimine dönüştürün. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/csv-to-xml-converter/",
+  "id": "/tr/csv-to-xml-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

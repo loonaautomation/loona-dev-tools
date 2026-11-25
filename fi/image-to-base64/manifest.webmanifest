@@ -2,7 +2,7 @@
   "name": "Loona Kuva-Base64-muunnin",
   "short_name": "Kuva-Base64-muunnin",
   "description": "Muunna kuva (PNG, JPG, GIF, WebP, SVG) Base64-data-URI:ksi verkossa — tiedosto luetaan paikallisesti, mittoineen ja kokotilastoineen.",
-  "id": "/loona-dev-tools/fi/image-to-base64/",
+  "id": "/fi/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

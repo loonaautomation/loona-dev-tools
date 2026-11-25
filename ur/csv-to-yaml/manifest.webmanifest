@@ -2,7 +2,7 @@
   "name": "Loona CSV سے YAML کنورٹر",
   "short_name": "CSV سے YAML کنورٹر",
   "description": "CSV ٹیبلز کو YAML میں بدلیں: ہیڈر قطار کنجیاں بنتی ہے، ہر قطار YAML فہرست میں ایک آئٹم، اعداد کی اقسام مقرر۔",
-  "id": "/loona-dev-tools/ur/csv-to-yaml/",
+  "id": "/ur/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Chmod-beregner online gratis",
   "short_name": "Chmod-beregner online gratis",
   "description": "Beregn chmod-tilladelser online gratis: afkrydsningsfelter til oktal (755) og symbolsk (rwxr-xr-x), og oktal tilbage til tilladelser. Ingen tilmelding, kører 100% i din browser.",
-  "id": "/loona-dev-tools/da/chmod-calculator/",
+  "id": "/da/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

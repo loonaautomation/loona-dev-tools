@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de marcas de tiempo Unix en línea gratis",
   "short_name": "Convertidor de marcas de tiempo Unix",
   "description": "Convierte marcas de tiempo Unix (segundos o milisegundos) en fechas legibles en UTC y tu hora local, y fechas de vuelta en marcas de tiempo. Hora actual en vivo. Gratis.",
-  "id": "/loona-dev-tools/es/timestamp-converter/",
+  "id": "/es/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

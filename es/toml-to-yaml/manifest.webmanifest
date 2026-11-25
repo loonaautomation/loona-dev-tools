@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de TOML a YAML",
   "short_name": "Convertidor de TOML a YAML",
   "description": "Convierte TOML a YAML en línea: las tablas se convierten en mapeos anidados, las tablas de arrays en listas de objetos.",
-  "id": "/loona-dev-tools/es/toml-to-yaml/",
+  "id": "/es/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

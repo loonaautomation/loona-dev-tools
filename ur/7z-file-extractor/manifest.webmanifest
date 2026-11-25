@@ -2,7 +2,7 @@
   "name": "Loona 7Z فائل ایکسٹریکٹر آن لائن مفت",
   "short_name": "7Z فائل ایکسٹریکٹر آن لائن مفت",
   "description": "7z آرکائیوز عین اپنے براؤزر میں کھولیں - اندر ہر فائل دیکھیں، واحد فائلیں یا سب کچھ بطور ZIP ڈاؤن لوڈ کریں۔ کچھ اپ لوڈ نہیں ہوتا؛ extraction آپ کے آلے پر WebAssembly انجن سے ہوتا ہے۔",
-  "id": "/loona-dev-tools/ur/7z-file-extractor/",
+  "id": "/ur/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

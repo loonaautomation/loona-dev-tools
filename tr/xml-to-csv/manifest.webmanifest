@@ -2,7 +2,7 @@
   "name": "Loona XML - CSV Dönüştürücü",
   "short_name": "XML - CSV Dönüştürücü",
   "description": "XML değerini CSV biçimine dönüştürün: yinelenen öğeler satır olur, çocukları ve öznitelikleri sütun olur. Ücretsiz çevrimiçi dönüştürücü.",
-  "id": "/loona-dev-tools/tr/xml-to-csv/",
+  "id": "/tr/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

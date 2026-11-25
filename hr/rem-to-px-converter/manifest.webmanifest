@@ -2,7 +2,7 @@
   "name": "Loona pretvarač rem u piksele (px)",
   "short_name": "Pretvarač rem u piksele (px)",
   "description": "Pretvorite rem u px podesivom osnovnom veličinom fonta (zadano 16px) i tablicom uobičajenih vrijednosti.",
-  "id": "/loona-dev-tools/hr/rem-to-px-converter/",
+  "id": "/hr/rem-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

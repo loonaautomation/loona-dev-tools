@@ -2,7 +2,7 @@
   "name": "Loona HTML-entiteitendecoder",
   "short_name": "HTML-entiteitendecoder",
   "description": "Decodeer HTML-entiteiten terug naar gewone tekens: benoemde, decimale en hex-referenties (&copy;, &#169;, &#xA9;) allemaal ondersteund.",
-  "id": "/loona-dev-tools/nl/html-entities-decode/",
+  "id": "/nl/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

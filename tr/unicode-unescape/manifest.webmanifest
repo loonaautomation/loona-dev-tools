@@ -2,7 +2,7 @@
   "name": "Loona Unicode Kaçış Çözme Dönüştürücü (\\uXXXX Çöz)",
   "short_name": "Unicode Kaçış Çözme Dönüştürücü",
   "description": "Unicode kaçış dizilerini (\\uXXXX, \\u{...}, \\xXX) gerçek karakterlere geri çözün, artı \\n \\t ve \\\\ kaçışları.",
-  "id": "/loona-dev-tools/tr/unicode-unescape/",
+  "id": "/tr/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

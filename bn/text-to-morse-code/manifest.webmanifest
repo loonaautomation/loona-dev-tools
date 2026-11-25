@@ -2,7 +2,7 @@
   "name": "Loona টেক্সট থেকে Morse কোড অনুবাদক",
   "short_name": "টেক্সট থেকে Morse কোড অনুবাদক",
   "description": "টেক্সটকে Morse কোডে অনুবাদ করুন (অক্ষর, ডিজিট এবং সাধারণ যতিচিহ্ন), শব্দগুলো / দিয়ে আলাদা করা। বিনামূল্যে Morse অনুবাদক।",
-  "id": "/loona-dev-tools/bn/text-to-morse-code/",
+  "id": "/bn/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pengekod Quoted-Printable",
   "short_name": "Pengekod Quoted-Printable",
   "description": "Encode teks sebagai quoted-printable (MIME) dalam talian: byte UTF-8 sebagai escape =XX, jeda baris lunak pada 76 aksara, menurut RFC 2045.",
-  "id": "/loona-dev-tools/ms/quoted-printable-encode/",
+  "id": "/ms/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Decoder JWT Online Gratis",
   "short_name": "Decoder JWT Online Gratis",
   "description": "Dekode JSON Web Token online secara gratis - baca header dan payload sebagai JSON yang rapi dan lihat kedaluwarsa dengan kata-kata sederhana. Signature TIDAK diverifikasi. Di browser Anda.",
-  "id": "/loona-dev-tools/id/jwt-decoder/",
+  "id": "/id/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

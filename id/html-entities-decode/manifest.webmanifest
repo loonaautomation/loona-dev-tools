@@ -2,7 +2,7 @@
   "name": "Loona Decoder Entitas HTML",
   "short_name": "Decoder Entitas HTML",
   "description": "Dekode entitas HTML kembali ke karakter polos: referensi bernama, desimal, dan heks (&copy;, &#169;, &#xA9;) semuanya didukung.",
-  "id": "/loona-dev-tools/id/html-entities-decode/",
+  "id": "/id/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

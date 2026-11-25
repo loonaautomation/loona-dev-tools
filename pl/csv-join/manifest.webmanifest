@@ -2,7 +2,7 @@
   "name": "Loona Łączenie CSV online za darmo",
   "short_name": "Łączenie CSV online za darmo",
   "description": "Połącz dwa pliki CSV online za darmo po wspólnej kolumnie kluczowej - połączenie wewnętrzne lub lewe, zduplikowane klucze obsłużone po bazodanowemu. Bez rejestracji, działa w 100% w przeglądarce.",
-  "id": "/loona-dev-tools/pl/csv-join/",
+  "id": "/pl/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona A1Z26 rejtjel kódoló (betűkből számok)",
   "short_name": "A1Z26 rejtjel kódoló (Betűk",
   "description": "Kódolja a szöveget az A1Z26 rejtjellel: A=1, B=2 ... Z=26. A klasszikus rejtvény- és szabadulószoba-kód.",
-  "id": "/loona-dev-tools/hu/a1z26-cipher-encoder/",
+  "id": "/hu/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

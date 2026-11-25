@@ -2,7 +2,7 @@
   "name": "Минифициране на JSON на Loona",
   "short_name": "Минифициране на JSON",
   "description": "Минифицирайте JSON онлайн: премахвайте всички несъществени празни пространства в един компактен ред, като грешките при валидация се съобщават прецизно.",
-  "id": "/loona-dev-tools/bg/json-minifier/",
+  "id": "/bg/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

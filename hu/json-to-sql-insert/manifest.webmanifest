@@ -2,7 +2,7 @@
   "name": "Loona JSON-ból SQL INSERT generátor",
   "short_name": "JSON-ból SQL INSERT generátor",
   "description": "Generáljon SQL INSERT utasításokat egy objektumokból álló JSON tömbből: a karakterláncok escape-elve, a NULL-ok és logikai értékek kezelve, egyéni táblanév.",
-  "id": "/loona-dev-tools/hu/json-to-sql-insert/",
+  "id": "/hu/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

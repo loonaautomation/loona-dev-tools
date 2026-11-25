@@ -2,7 +2,7 @@
   "name": "Analyzátor Loona URL online zadarmo",
   "short_name": "Analyzátor URL online zadarmo",
   "description": "Analyzujte ľubovoľnú URL online zadarmo na protokol, hostiteľa, port, cestu, parametre dopytu a hash - upravte parametre a prestavajte URL. Bez registrácie, beží 100% vo vašom prehliadači.",
-  "id": "/loona-dev-tools/sk/url-parser/",
+  "id": "/sk/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

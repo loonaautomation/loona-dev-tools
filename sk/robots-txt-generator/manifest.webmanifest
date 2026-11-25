@@ -2,7 +2,7 @@
   "name": "Generátor Loona Robots.txt online zadarmo",
   "short_name": "Generátor Robots.txt online",
   "description": "Generujte platný robots.txt online zadarmo - predvoľby, pravidlá povolenia a zakázania podľa agenta, riadok sitemap a zabudované kontroly zdravého rozumu syntaxe. Bez registrácie, beží vo vašom prehliadači.",
-  "id": "/loona-dev-tools/sk/robots-txt-generator/",
+  "id": "/sk/robots-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

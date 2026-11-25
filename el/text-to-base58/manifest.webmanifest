@@ -2,7 +2,7 @@
   "name": "Loona Κωδικοποιητής Κειμένου σε Base58",
   "short_name": "Κωδικοποιητής Κειμένου σε Base58",
   "description": "Κωδικοποιήστε κείμενο σε Base58 (αλφάβητο Bitcoin) διαδικτυακά — χωρίς 0, O, I ή l, η κωδικοποίηση των διευθύνσεων Bitcoin και των hash IPFS.",
-  "id": "/loona-dev-tools/el/text-to-base58/",
+  "id": "/el/text-to-base58/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

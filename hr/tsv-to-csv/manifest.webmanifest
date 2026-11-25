@@ -2,7 +2,7 @@
   "name": "Loona pretvarač TSV u CSV",
   "short_name": "Pretvarač TSV u CSV",
   "description": "Pretvorite TSV (vrijednosti odvojene tabulatorom) u CSV: zalijepite podatke kopirane iz Excela ili Tablica i dobijte ispravno citirani CSV.",
-  "id": "/loona-dev-tools/hr/tsv-to-csv/",
+  "id": "/hr/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

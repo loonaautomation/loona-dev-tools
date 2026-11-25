@@ -2,7 +2,7 @@
   "name": "ממיר Loona TAR.GZ ל-ZIP מקוון בחינם",
   "short_name": "ממיר TAR.GZ ל-ZIP",
   "description": "המירו ארכיון TAR.GZ ‏(.tar.gz או .tgz) לקובץ ZIP ממש בדפדפן שלכם. שתי השכבות - gzip ו-tar - נפרמות על המכשיר שלכם והקבצים נארזים מחדש כ-ZIP אחד. שום דבר לא מועלה.",
-  "id": "/loona-dev-tools/he/tar-gz-to-zip-converter/",
+  "id": "/he/tar-gz-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

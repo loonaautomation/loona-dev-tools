@@ -2,7 +2,7 @@
   "name": "Loona TARファイル抽出ツール 無料オンライン",
   "short_name": "TARファイル抽出ツール 無料オンライン",
   "description": "TARアーカイブをブラウザでそのまま開きます。通常の.tarに加え、.tar.bz2や.tar.xzも。内部のすべてのファイルを見て、個別のファイルまたはすべてをZIPとしてダウンロードしてください。何もアップロードされません。",
-  "id": "/loona-dev-tools/ja/tar-file-extractor/",
+  "id": "/ja/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

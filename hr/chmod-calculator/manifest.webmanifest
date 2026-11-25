@@ -2,7 +2,7 @@
   "name": "Loona Chmod kalkulator na mreži besplatno",
   "short_name": "Chmod kalkulator na mreži besplatno",
   "description": "Izračunajte chmod dopuštenja na mreži besplatno: potvrdni okviri u oktalno (755) i simboličko (rwxr-xr-x), i oktalno natrag u dopuštenja. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/chmod-calculator/",
+  "id": "/hr/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

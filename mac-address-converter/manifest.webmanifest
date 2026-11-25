@@ -2,7 +2,7 @@
   "name": "Loona MAC Address Format Converter",
   "short_name": "MAC Address Format Converter",
   "description": "Convert MAC addresses between colon (AA:BB:CC:DD:EE:FF), dash, Cisco dot and plain formats; validates the 48-bit address.",
-  "id": "/loona-dev-tools/mac-address-converter/",
+  "id": "/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

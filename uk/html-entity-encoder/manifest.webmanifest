@@ -2,7 +2,7 @@
   "name": "Кодувальник і декодувальник сутностей Loona HTML онлайн безкоштовно",
   "short_name": "Кодувальник і декодувальник сутностей HTML",
   "description": "Кодуйте текст у сутності HTML (іменовані на кшталт &amp;copy; або нумеровані на кшталт &amp;#169;) і декодуйте сутності назад у звичайний текст. Безкоштовно, без реєстрації, у вашому браузері.",
-  "id": "/loona-dev-tools/uk/html-entity-encoder/",
+  "id": "/uk/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

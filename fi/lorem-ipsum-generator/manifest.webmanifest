@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum -generaattori",
   "short_name": "Lorem Ipsum -generaattori",
   "description": "Luo Lorem Ipsum -paikanvaraajatekstiä: valitse kappaleita, lauseita tai sanoja, klassinen aloitusrivi valinnaisena.",
-  "id": "/loona-dev-tools/fi/lorem-ipsum-generator/",
+  "id": "/fi/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

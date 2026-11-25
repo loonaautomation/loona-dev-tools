@@ -2,7 +2,7 @@
   "name": "Конвертер Loona JSON у рядок запиту",
   "short_name": "Конвертер JSON у рядок запиту",
   "description": "Створюйте рядок запиту URL з об’єкта JSON: вкладені об’єкти використовують дужкову нотацію, масиви повторюють ключ, усе закодовано у відсотках.",
-  "id": "/loona-dev-tools/uk/json-to-query-string/",
+  "id": "/uk/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

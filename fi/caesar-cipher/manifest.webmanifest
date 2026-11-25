@@ -2,7 +2,7 @@
   "name": "Loona Caesar-salauksen kooderi & purkaja",
   "short_name": "Caesar-salauksen kooderi &",
   "description": "Caesar-salakirjoitus millä tahansa siirrolla (1–25) ja purkutilalla: Julius Caesarin klassinen korvaussalakirjoitus, verkossa.",
-  "id": "/loona-dev-tools/fi/caesar-cipher/",
+  "id": "/fi/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

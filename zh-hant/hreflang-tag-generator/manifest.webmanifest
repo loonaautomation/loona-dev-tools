@@ -2,7 +2,7 @@
   "name": "Loona Hreflang 標籤生成器 線上免費",
   "short_name": "Hreflang 標籤生成器 線上版",
   "description": "免費線上生成 hreflang 標籤——貼上語言和 URL 對，新增 x-default，獲得完整的備用連結集，帶 BCP 47 和絕對 URL 檢查。無需註冊。",
-  "id": "/loona-dev-tools/zh-hant/hreflang-tag-generator/",
+  "id": "/zh-hant/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

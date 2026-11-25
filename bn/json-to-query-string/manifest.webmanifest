@@ -2,7 +2,7 @@
   "name": "Loona JSON থেকে Query String কনভার্টার",
   "short_name": "JSON থেকে Query String কনভার্টার",
   "description": "একটি JSON অবজেক্ট থেকে একটি URL কুয়েরি স্ট্রিং তৈরি করুন: নেস্টেড অবজেক্ট ব্র্যাকেট চিহ্ন ব্যবহার করে, অ্যারে কী পুনরাবৃত্তি করে, সবকিছু শতাংশ-এনকোড করা।",
-  "id": "/loona-dev-tools/bn/json-to-query-string/",
+  "id": "/bn/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

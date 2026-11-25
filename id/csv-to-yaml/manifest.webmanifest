@@ -2,7 +2,7 @@
   "name": "Loona Konverter CSV ke YAML",
   "short_name": "Konverter CSV ke YAML",
   "description": "Konversi tabel CSV ke YAML: baris header menjadi kunci, setiap baris menjadi item dalam daftar YAML, angka bertipe.",
-  "id": "/loona-dev-tools/id/csv-to-yaml/",
+  "id": "/id/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مصغّر XML",
   "short_name": "مصغّر XML",
   "description": "صغّر XML عبر الإنترنت: جرّد التعليقات والمسافات البيضاء بين الوسوم إلى سطر واحد مدمج.",
-  "id": "/loona-dev-tools/ar/xml-minifier/",
+  "id": "/ar/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

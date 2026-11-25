@@ -2,7 +2,7 @@
   "name": "Loona JSONPath-tester",
   "short_name": "JSONPath-tester",
   "description": "Test JSONPath-udtryk mod et JSON-dokument: priknotation, indeks, jokertegn og rekursiv nedstigning ($..key) understøttet.",
-  "id": "/loona-dev-tools/da/jsonpath-tester/",
+  "id": "/da/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

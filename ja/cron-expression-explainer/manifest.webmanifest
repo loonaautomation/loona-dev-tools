@@ -2,7 +2,7 @@
   "name": "Loona Cron式解説ツール",
   "short_name": "Cron式説明ツール",
   "description": "Cron式を分かりやすい日本語で説明します。5フィールドのcronスケジュールを貼り付けると、いつ実行されるかをフィールドごとに読めます。",
-  "id": "/loona-dev-tools/ja/cron-expression-explainer/",
+  "id": "/ja/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Morse Code से Text अनुवादक",
   "short_name": "Morse Code से Text अनुवादक",
   "description": "Morse code को वापस text में decode करें: dots और dashes paste करें (अक्षर space-separated, शब्दों के बीच /) और संदेश पढ़ें।",
-  "id": "/loona-dev-tools/hi/morse-code-to-text/",
+  "id": "/hi/morse-code-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona HTML 實體解碼器",
   "short_name": "HTML 實體解碼器",
   "description": "把 HTML 實體解碼回普通字元：命名、十進位制和十六進位制引用（&copy;、&#169;、&#xA9;）全部支援。",
-  "id": "/loona-dev-tools/zh-hant/html-entities-decode/",
+  "id": "/zh-hant/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

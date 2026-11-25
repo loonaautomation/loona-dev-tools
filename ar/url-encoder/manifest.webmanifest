@@ -2,7 +2,7 @@
   "name": "Loona مشفّر وفاكّ تشفير URL عبر الإنترنت مجاناً",
   "short_name": "مشفّر وفاكّ تشفير URL عبر الإنترنت",
   "description": "رمّز وفكّ عناوين URL ونص الاستعلام عبر الإنترنت مجاناً، مع أوضاع المكوّن والرابط الكامل وتفصيل لكل حرف. دون تسجيل، في متصفحك.",
-  "id": "/loona-dev-tools/ar/url-encoder/",
+  "id": "/ar/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

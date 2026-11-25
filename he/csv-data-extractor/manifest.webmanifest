@@ -2,7 +2,7 @@
   "name": "מחלץ נתוני Loona CSV מקוון בחינם",
   "short_name": "מחלץ נתוני CSV מקוון בחינם",
   "description": "חלצו כתובות דוא\"ל, מספרי טלפון וכתובות URL מקבצי CSV מבולגנים או מכל טקסט באופן מקוון בחינם - רשימות מנוקות ונטולות כפילויות שתוכלו להוריד. בלי הרשמה, פועל בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/csv-data-extractor/",
+  "id": "/he/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

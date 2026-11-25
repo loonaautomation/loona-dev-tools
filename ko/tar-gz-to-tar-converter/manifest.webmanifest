@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ를 TAR로 변환",
   "short_name": "TAR.GZ를 TAR로 변환",
   "description": ".tar.gz / .tgz 아카이브에서 gzip 층을 벗겨 일반 TAR을 얻으세요, 온라인에서 그리고 로컬에서 — 추출 도구가 필요 없어요.",
-  "id": "/loona-dev-tools/ko/tar-gz-to-tar-converter/",
+  "id": "/ko/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

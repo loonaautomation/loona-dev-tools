@@ -2,7 +2,7 @@
   "name": "Loona محوّل JSON إلى هيكل Go",
   "short_name": "محوّل JSON إلى هيكل Go",
   "description": "حوّل JSON إلى تعريفات هياكل Go مع وسوم json: تمييز int64/float64، وomitempty للمفاتيح المفقودة في بعض عناصر المصفوفة.",
-  "id": "/loona-dev-tools/ar/json-to-go-struct/",
+  "id": "/ar/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

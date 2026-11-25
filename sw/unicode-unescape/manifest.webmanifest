@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Kuondoa Utoroshaji wa Unicode (Simbua \\uXXXX)",
   "short_name": "Kibadilishaji cha Kutenda Utoroshaji wa Unicode",
   "description": "Simbua mifuatano ya kutorosha ya Unicode (\\uXXXX, \\u{...}, \\xXX) kurudi kuwa herufi halisi, pamoja na utoroshaji wa \\n \\t na \\\\.",
-  "id": "/loona-dev-tools/sw/unicode-unescape/",
+  "id": "/sw/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

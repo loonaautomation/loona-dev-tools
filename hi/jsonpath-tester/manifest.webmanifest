@@ -2,7 +2,7 @@
   "name": "Loona JSONPath टेस्टर",
   "short_name": "JSONPath टेस्टर",
   "description": "JSONPath expressions को JSON document के विरुद्ध test करें: dot notation, indexes, wildcards और recursive descent ($..key) supported।",
-  "id": "/loona-dev-tools/hi/jsonpath-tester/",
+  "id": "/hi/jsonpath-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generator Lorem Ipsum Loona",
   "short_name": "Generator Lorem Ipsum",
   "description": "Generează text substituent Lorem Ipsum: alege paragrafe, propoziții sau cuvinte, cu linia clasică de deschidere opțională.",
-  "id": "/loona-dev-tools/ro/lorem-ipsum-generator/",
+  "id": "/ro/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

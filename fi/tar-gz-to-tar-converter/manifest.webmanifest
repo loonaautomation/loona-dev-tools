@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ-TAR-muunnin",
   "short_name": "TAR.GZ-TAR-muunnin",
   "description": "Poista gzip-kerros .tar.gz- / .tgz-arkistosta saadaksesi pelkän TARin, verkossa ja paikallisesti — purkutyökaluja ei tarvita.",
-  "id": "/loona-dev-tools/fi/tar-gz-to-tar-converter/",
+  "id": "/fi/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

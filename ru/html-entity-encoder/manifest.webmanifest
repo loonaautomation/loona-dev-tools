@@ -2,7 +2,7 @@
   "name": "Loona Кодировщик &amp; декодировщик HTML-сущностей онлайн бесплатно",
   "short_name": "Кодировщик и декодировщик HTML-сущностей",
   "description": "Кодируйте текст в HTML-сущности (именованные, как &amp;copy;, или нумерованные, как &amp;#169;) и декодируйте сущности обратно в обычный текст. Бесплатно, без регистрации, в вашем браузере.",
-  "id": "/loona-dev-tools/ru/html-entity-encoder/",
+  "id": "/ru/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

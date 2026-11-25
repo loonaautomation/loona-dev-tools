@@ -2,7 +2,7 @@
   "name": "Formator SQL Loona online gratuit",
   "short_name": "Formator SQL online gratuit",
   "description": "Formatează SQL online gratuit: cuvinte-cheie cu majuscule, clauze SELECT, FROM, WHERE și JOIN pe liniile lor proprii, șiruri păstrate. Fără înregistrare, rulează 100% în browserul tău.",
-  "id": "/loona-dev-tools/ro/sql-formatter/",
+  "id": "/ro/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

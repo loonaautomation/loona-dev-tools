@@ -2,7 +2,7 @@
   "name": "Loona Konverter YAML ke JSON Online Gratis",
   "short_name": "Konverter YAML ke JSON Online",
   "description": "Konversi YAML ke JSON dan JSON ke YAML online secara gratis. Mendukung subset sehari-hari: map bersarang, daftar, dan skalar, dengan batas yang dinyatakan dengan jujur. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-dev-tools/id/yaml-json-converter/",
+  "id": "/id/yaml-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

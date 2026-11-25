@@ -2,7 +2,7 @@
   "name": "Codificator Quoted-Printable Loona",
   "short_name": "Codificator Quoted-Printable",
   "description": "Codifică text ca quoted-printable (MIME) online: octeți UTF-8 ca escape-uri =XX, întreruperi de linie moi la 76 de caractere, conform RFC 2045.",
-  "id": "/loona-dev-tools/ro/quoted-printable-encode/",
+  "id": "/ro/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

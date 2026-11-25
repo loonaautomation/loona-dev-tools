@@ -2,7 +2,7 @@
   "name": "Công cụ phân tích URL của Loona trực tuyến miễn phí",
   "short_name": "Công cụ phân tích URL trực tuyến miễn phí",
   "description": "Phân tích bất kỳ URL nào trực tuyến miễn phí thành giao thức, host, cổng, đường dẫn, tham số truy vấn và hash - chỉnh sửa các tham số và tạo lại URL. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/url-parser/",
+  "id": "/vi/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

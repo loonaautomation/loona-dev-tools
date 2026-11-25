@@ -2,7 +2,7 @@
   "name": "Loona CSS-minimoija verkossa ilmaiseksi",
   "short_name": "CSS-minifioija verkossa ilmaiseksi",
   "description": "Minifioi CSS verkossa ilmaiseksi ja näe tarkalleen, kuinka paljon pienemmäksi se muuttuu, tai kaunista minifioitu CSS takaisin luettavaksi koodiksi. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/css-minifier/",
+  "id": "/fi/css-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

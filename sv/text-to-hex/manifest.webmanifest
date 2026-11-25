@@ -2,7 +2,7 @@
   "name": "Loona Text till hex-konverterare",
   "short_name": "Text till Hex-konverterare",
   "description": "Konvertera text till hexadecimalt (UTF-8-bytes) online, med eller utan mellanslag mellan bytes. Gratis utvecklarkonverterare.",
-  "id": "/loona-dev-tools/sv/text-to-hex/",
+  "id": "/sv/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

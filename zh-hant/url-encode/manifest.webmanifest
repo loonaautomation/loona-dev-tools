@@ -2,7 +2,7 @@
   "name": "Loona URL 編碼（百分號編碼）",
   "short_name": "URL 編碼（百分比編碼）",
   "description": "線上對文字或完整 URL 進行百分比編碼：空格變成 %20，保留字元按 RFC 3986 轉義。元件模式或完整 URL 模式。",
-  "id": "/loona-dev-tools/zh-hant/url-encode/",
+  "id": "/zh-hant/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

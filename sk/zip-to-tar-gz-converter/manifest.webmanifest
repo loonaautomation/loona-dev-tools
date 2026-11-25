@@ -2,7 +2,7 @@
   "name": "Prevodník Loona ZIP na TAR.GZ online zadarmo",
   "short_name": "Prevodník ZIP na TAR.GZ",
   "description": "Preveďte archív ZIP na tarball TAR.GZ (.tar.gz) priamo vo svojom prehliadači – formát, ktorý očakávajú linuxové servery, Docker a nástroje na zostavovanie. Štruktúra priečinkov zachovaná, nič sa nenahráva.",
-  "id": "/loona-dev-tools/sk/zip-to-tar-gz-converter/",
+  "id": "/sk/zip-to-tar-gz-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

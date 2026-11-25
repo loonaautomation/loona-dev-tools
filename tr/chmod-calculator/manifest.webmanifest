@@ -2,7 +2,7 @@
   "name": "Loona Chmod Hesaplayıcı Çevrimiçi Ücretsiz",
   "short_name": "Chmod Hesaplayıcı Çevrimiçi Ücretsiz",
   "description": "Chmod izinlerini çevrimiçi ücretsiz hesaplayın: onay kutularından sekizliğe (755) ve semboliğe (rwxr-xr-x), ve sekizlikten izinlere geri. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/chmod-calculator/",
+  "id": "/tr/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

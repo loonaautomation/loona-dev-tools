@@ -2,7 +2,7 @@
   "name": "Loona Ελεγκτής Robots.txt Διαδικτυακά Δωρεάν",
   "short_name": "Ελεγκτής Robots.txt Διαδικτυακά Δωρεάν",
   "description": "Δοκιμάστε ένα robots.txt διαδικτυακά δωρεάν - επικολλήστε το αρχείο, ένα URL και έναν user-agent, και πάρτε μια ετυμηγορία επιτρέπεται ή αποκλείεται με τον ακριβή κανόνα που ταιριάζει να εμφανίζεται. Χωρίς εγγραφή, τρέχει στο πρόγραμμα περιήγησής σας.",
-  "id": "/loona-dev-tools/el/robots-txt-tester/",
+  "id": "/el/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

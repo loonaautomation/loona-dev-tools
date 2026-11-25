@@ -2,7 +2,7 @@
   "name": "Loona decimaal naar binair-converter",
   "short_name": "Decimaal naar binair-converter",
   "description": "Converteer decimale getallen online naar binair — willekeurige precisie (BigInt), negatieve getallen ondersteund.",
-  "id": "/loona-dev-tools/nl/decimal-to-binary-converter/",
+  "id": "/nl/decimal-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

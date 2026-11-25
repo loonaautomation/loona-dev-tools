@@ -2,7 +2,7 @@
   "name": "Codificator și decodificator de entități HTML Loona online gratuit",
   "short_name": "Codificator și decodificator de entități HTML",
   "description": "Codifică text în entități HTML (numite precum &amp;copy; sau numerotate precum &amp;#169;) și decodifică entitățile înapoi în text simplu. Gratuit, fără înregistrare, în browserul tău.",
-  "id": "/loona-dev-tools/ro/html-entity-encoder/",
+  "id": "/ro/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

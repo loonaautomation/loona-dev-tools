@@ -2,7 +2,7 @@
   "name": "מחולל Loona Lorem Ipsum",
   "short_name": "מחולל Lorem Ipsum",
   "description": "צרו טקסט Lorem Ipsum של מציין מיקום: בחרו פסקאות, משפטים או מילים, עם שורת הפתיחה הקלאסית אופציונלית.",
-  "id": "/loona-dev-tools/he/lorem-ipsum-generator/",
+  "id": "/he/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

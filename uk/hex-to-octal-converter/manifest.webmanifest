@@ -2,7 +2,7 @@
   "name": "Конвертер Loona шістнадцяткової у вісімкову",
   "short_name": "Конвертер шістнадцяткової у вісімкову",
   "description": "Конвертуйте шістнадцяткові числа у вісімкові онлайн — довільна точність (BigInt), від’ємні числа підтримуються.",
-  "id": "/loona-dev-tools/uk/hex-to-octal-converter/",
+  "id": "/uk/hex-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

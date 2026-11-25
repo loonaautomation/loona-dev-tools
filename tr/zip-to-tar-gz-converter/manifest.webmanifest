@@ -2,7 +2,7 @@
   "name": "Loona ZIP - TAR.GZ Dönüştürücü Çevrimiçi Ücretsiz",
   "short_name": "ZIP - TAR.GZ Dönüştürücü",
   "description": "Bir ZIP arşivini doğrudan tarayıcınızda bir TAR.GZ tarball (.tar.gz) dosyasına dönüştürün - Linux sunucularının, Docker ve derleme araçlarının beklediği biçim. Klasör yapısı korunur, hiçbir şey yüklenmez.",
-  "id": "/loona-dev-tools/tr/zip-to-tar-gz-converter/",
+  "id": "/tr/zip-to-tar-gz-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

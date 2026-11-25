@@ -2,7 +2,7 @@
   "name": "Loona টেক্সট থেকে Base64 এনকোডার",
   "short_name": "টেক্সট থেকে Base64 এনকোডার",
   "description": "অনলাইনে টেক্সট Base64-তে এনকোড করুন, যেকোনো ভাষা ও ইমোজির জন্য UTF-8 নিরাপদ, একটি ঐচ্ছিক URL-নিরাপদ বর্ণমালাসহ। বিনামূল্যে, ব্যক্তিগত, আপনার ব্রাউজারে।",
-  "id": "/loona-dev-tools/bn/text-to-base64/",
+  "id": "/bn/text-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

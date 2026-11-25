@@ -2,7 +2,7 @@
   "name": "Loona JSON naar TOML-converter",
   "short_name": "JSON naar TOML-converter",
   "description": "Converteer JSON online naar TOML: eerst scalars, geneste objecten als [tables], arrays van objecten als [[tables]].",
-  "id": "/loona-dev-tools/nl/json-to-toml/",
+  "id": "/nl/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

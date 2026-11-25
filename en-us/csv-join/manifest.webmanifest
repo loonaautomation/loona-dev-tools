@@ -2,7 +2,7 @@
   "name": "Loona CSV Join - Combine Two Tables on a Key Column",
   "short_name": "CSV Join - Combine Two Tables on a Key Column",
   "description": "Join two CSV files online for free on a shared key column - inner join or left join, duplicate keys handled the database way. No sign-up, runs 100% in your browser.",
-  "id": "/loona-dev-tools/en-us/csv-join/",
+  "id": "/en-us/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

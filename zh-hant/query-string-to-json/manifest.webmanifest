@@ -2,7 +2,7 @@
   "name": "Loona 查詢字串轉 JSON 轉換器",
   "short_name": "查詢字串轉 JSON 轉換器",
   "description": "把 URL 查詢字串解析為 JSON：括號記法變成巢狀物件、重複鍵變成陣列、值帶型別。",
-  "id": "/loona-dev-tools/zh-hant/query-string-to-json/",
+  "id": "/zh-hant/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

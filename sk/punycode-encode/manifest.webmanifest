@@ -2,7 +2,7 @@
   "name": "Kodér Loona Punycode (Prevodník domén IDN)",
   "short_name": "Kodér Punycode (Doména IDN",
   "description": "Preveďte internacionalizované názvy domén (IDN) na formu punycode xn--: z bücher.example sa stane xn--bcher-kva.example. Kódovanie po jednotlivých označeniach.",
-  "id": "/loona-dev-tools/sk/punycode-encode/",
+  "id": "/sk/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

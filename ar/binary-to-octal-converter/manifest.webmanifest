@@ -2,7 +2,7 @@
   "name": "Loona محوّل الثنائي إلى الثماني",
   "short_name": "محوّل الثنائي إلى الثماني",
   "description": "حوّل الأرقام الثنائية إلى الثماني عبر الإنترنت — دقة تعسّفية (BigInt)، أرقام سالبة مدعومة.",
-  "id": "/loona-dev-tools/ar/binary-to-octal-converter/",
+  "id": "/ar/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

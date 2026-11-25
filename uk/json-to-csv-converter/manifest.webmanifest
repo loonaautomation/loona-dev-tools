@@ -2,7 +2,7 @@
   "name": "Конвертер Loona JSON у CSV онлайн безкоштовно",
   "short_name": "Конвертер JSON у CSV онлайн",
   "description": "Конвертуйте масив об’єктів JSON у CSV онлайн безкоштовно: об’єднання ключів як стовпці, правильні лапки й екранування, вкладені значення збережено як JSON. Без реєстрації, працює на 100% у вашому браузері.",
-  "id": "/loona-dev-tools/uk/json-to-csv-converter/",
+  "id": "/uk/json-to-csv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

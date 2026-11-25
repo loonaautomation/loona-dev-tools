@@ -2,7 +2,7 @@
   "name": "Vérificateur de densité de mots-clés Loona en ligne gratuit",
   "short_name": "Vérificateur de densité de mots-clés",
   "description": "Vérifiez la densité de mots-clés en ligne et gratuitement - principaux mots uniques plus phrases de 2 et 3 mots avec comptes et densité en pourcentage, filtrage des mots vides inclus. Sans inscription.",
-  "id": "/loona-dev-tools/fr/keyword-density-checker/",
+  "id": "/fr/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

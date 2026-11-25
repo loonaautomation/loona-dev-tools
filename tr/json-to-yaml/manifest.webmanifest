@@ -2,7 +2,7 @@
   "name": "Loona JSON - YAML Dönüştürücü",
   "short_name": "JSON - YAML Dönüştürücü",
   "description": "JSON değerini çevrimiçi YAML biçimine dönüştürün: temiz girinti, diziler ve iç içe nesneler, dizeler yalnızca YAML gerektirdiğinde tırnaklanır.",
-  "id": "/loona-dev-tools/tr/json-to-yaml/",
+  "id": "/tr/json-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

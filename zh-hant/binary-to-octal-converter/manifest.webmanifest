@@ -2,7 +2,7 @@
   "name": "Loona 二進位制轉八進位制轉換器",
   "short_name": "二進位制轉八進位制轉換器",
   "description": "線上把二進位制數轉換成八進位制——任意精度（BigInt），支援負數。",
-  "id": "/loona-dev-tools/zh-hant/binary-to-octal-converter/",
+  "id": "/zh-hant/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

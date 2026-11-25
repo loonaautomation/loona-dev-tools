@@ -2,7 +2,7 @@
   "name": "Loona enkoder i dekoder Cezarove šifre",
   "short_name": "Enkoder Cezarove šifre i",
   "description": "Cezarova šifra s bilo kojim pomakom (1–25) i načinom dekodiranja: klasična supstitucijska šifra Julija Cezara, na mreži.",
-  "id": "/loona-dev-tools/hr/caesar-cipher/",
+  "id": "/hr/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

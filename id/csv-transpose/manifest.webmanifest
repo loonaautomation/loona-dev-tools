@@ -2,7 +2,7 @@
   "name": "Loona Transpose CSV Online Gratis",
   "short_name": "Transpose CSV Online Gratis",
   "description": "Transpose CSV online gratis - tukar baris dan kolom dengan parser RFC 4180 yang tepat yang menangani field yang dikutip dengan benar. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-dev-tools/id/csv-transpose/",
+  "id": "/id/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

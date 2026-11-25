@@ -2,7 +2,7 @@
   "name": "Loona Ekstraktor plików ZIP (unzip) online za darmo",
   "short_name": "Ekstraktor plików Unzip online",
   "description": "Otwórz plik ZIP w przeglądarce, zobacz każdy plik w środku wraz z jego rozmiarem i wyodrębnij pojedyncze pliki lub wszystkie. Nic nie jest przesyłane; wyodrębnianie odbywa się na urządzeniu.",
-  "id": "/loona-dev-tools/pl/unzip-file-extractor/",
+  "id": "/pl/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

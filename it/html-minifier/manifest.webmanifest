@@ -2,7 +2,7 @@
   "name": "Loona Minificatore HTML",
   "short_name": "Minificatore HTML",
   "description": "Minifica HTML online: rimuovi commenti e comprimi gli spazi proteggendo i contenuti pre, textarea, script e style.",
-  "id": "/loona-dev-tools/it/html-minifier/",
+  "id": "/it/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

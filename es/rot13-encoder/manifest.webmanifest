@@ -2,7 +2,7 @@
   "name": "Loona Codificador y decodificador ROT13",
   "short_name": "Codificador y decodificador ROT13",
   "description": "Aplica ROT13 a cualquier texto: rota las letras 13 posiciones. Codificar y decodificar son la misma operación. Clásico para spoilers y acertijos.",
-  "id": "/loona-dev-tools/es/rot13-encoder/",
+  "id": "/es/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

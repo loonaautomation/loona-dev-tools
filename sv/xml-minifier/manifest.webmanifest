@@ -2,7 +2,7 @@
   "name": "Loona XML-minimerare",
   "short_name": "XML-minimerare",
   "description": "Minimera XML online: ta bort kommentarer och blanksteg mellan taggar till en kompakt rad.",
-  "id": "/loona-dev-tools/sv/xml-minifier/",
+  "id": "/sv/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

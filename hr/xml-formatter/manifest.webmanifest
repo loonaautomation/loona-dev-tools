@@ -2,7 +2,7 @@
   "name": "Loona formatiranje i provjera XML-a na mreži besplatno",
   "short_name": "Formatiranje i provjera XML-a",
   "description": "Formatirajte, uljepšajte, minificirajte i provjerite XML na mreži besplatno - provjera dobro oblikovanosti uravnoteženih oznaka s jasnim porukama o pogreškama, lijepo ispisivanje s uvlačenjem. Bez registracije.",
-  "id": "/loona-dev-tools/hr/xml-formatter/",
+  "id": "/hr/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV-Dedupe & Cleaner online kostenlos",
   "short_name": "CSV-Dedupe & Bereiniger online",
   "description": "Entfernen Sie doppelte Zeilen aus CSV kostenlos online – nach ganzer Zeile oder nach Schlüsselspalten – plus Whitespace kürzen, leere Zeilen entfernen und Zeilenenden normalisieren, mit Vorher/Nachher-Anzahlen. Keine Registrierung.",
-  "id": "/loona-dev-tools/de/csv-dedupe-cleaner/",
+  "id": "/de/csv-dedupe-cleaner/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

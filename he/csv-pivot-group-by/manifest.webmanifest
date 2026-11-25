@@ -2,7 +2,7 @@
   "name": "Loona CSV Pivot ו-Group-By מקוון בחינם",
   "short_name": "CSV Pivot ו-Group-By מקוון",
   "description": "סובבו נתוני CSV מקוון בחינם - קבצו שורות לפי כל עמודה וחשבו סכום, ספירה, ממוצע, מינימום או מקסימום של עמודת ערך. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/csv-pivot-group-by/",
+  "id": "/he/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

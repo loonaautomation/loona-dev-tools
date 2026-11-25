@@ -2,7 +2,7 @@
   "name": "Конвертер Loona JSON у структури Go",
   "short_name": "Конвертер JSON у структури Go",
   "description": "Конвертуйте JSON у визначення структур Go з тегами json: int64/float64 розрізняються, omitempty для ключів, відсутніх у деяких елементах масиву.",
-  "id": "/loona-dev-tools/uk/json-to-go-struct/",
+  "id": "/uk/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

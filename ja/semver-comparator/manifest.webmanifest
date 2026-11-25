@@ -2,7 +2,7 @@
   "name": "Loona セマンティックバージョン比較ツール",
   "short_name": "セマンティックバージョン比較ツール",
   "description": "セマンティックバージョンを検証して比較します（MAJOR.MINOR.PATCH）：どちらが新しいか、そしてどんな種類の変更がそれらを分けているか。",
-  "id": "/loona-dev-tools/ja/semver-comparator/",
+  "id": "/ja/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

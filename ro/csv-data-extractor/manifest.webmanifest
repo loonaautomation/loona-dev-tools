@@ -2,7 +2,7 @@
   "name": "Extractor de date CSV Loona online gratuit",
   "short_name": "Extractor de date CSV online gratuit",
   "description": "Extrage adrese de e-mail, numere de telefon și URL-uri din fișiere CSV dezordonate sau orice text online gratuit - liste curățate, deduplicate, pe care le poți descărca. Fără înregistrare, rulează în browserul tău.",
-  "id": "/loona-dev-tools/ro/csv-data-extractor/",
+  "id": "/ro/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

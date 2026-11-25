@@ -2,7 +2,7 @@
   "name": "Loona TAR to ZIP Converter - Turn a .tar Archive into a .zip",
   "short_name": "TAR to ZIP Converter - Turn a .tar Archive into a .zip",
   "description": "Convert a TAR archive (.tar) into a ZIP file right in your browser. TAR files come from Linux and Unix systems; the converted ZIP opens natively on Windows, macOS and phones. Nothing is uploaded.",
-  "id": "/loona-dev-tools/en-us/tar-to-zip-converter/",
+  "id": "/en-us/tar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

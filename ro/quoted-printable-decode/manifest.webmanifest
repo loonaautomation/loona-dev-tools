@@ -2,7 +2,7 @@
   "name": "Decodor Quoted-Printable Loona",
   "short_name": "Decodor Quoted-Printable",
   "description": "Decodifică text quoted-printable (MIME) înapoi în UTF-8 lizibil: escape-uri =XX și întreruperi de linie moi gestionate conform RFC 2045.",
-  "id": "/loona-dev-tools/ro/quoted-printable-decode/",
+  "id": "/ro/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง JSON เป็น INI",
   "short_name": "ตัวแปลง JSON เป็น INI",
   "description": "แปลงออบเจ็กต์ JSON เป็นรูปแบบ INI: ค่าสเกลาร์ระดับบนสุดก่อน ออบเจ็กต์ที่ซ้อนกันเป็น [sections] ตัวแปลงออนไลน์ฟรี",
-  "id": "/loona-dev-tools/th/json-to-ini/",
+  "id": "/th/json-to-ini/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

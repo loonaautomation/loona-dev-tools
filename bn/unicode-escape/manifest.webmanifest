@@ -2,7 +2,7 @@
   "name": "Loona Unicode এস্কেপ কনভার্টার (\\uXXXX)",
   "short_name": "Unicode এস্কেপ কনভার্টার",
   "description": "JSON, JavaScript, Java ও properties ফাইলের জন্য টেক্সট Unicode এস্কেপ সিকোয়েন্সে (\\uXXXX) এস্কেপ করুন। সারোগেট জোড়া দিয়ে ইমোজি পরিচালনা করে।",
-  "id": "/loona-dev-tools/bn/unicode-escape/",
+  "id": "/bn/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

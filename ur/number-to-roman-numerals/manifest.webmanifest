@@ -2,7 +2,7 @@
   "name": "Loona اعداد سے رومن اعداد",
   "short_name": "اعداد سے رومن اعداد",
   "description": "اعداد (1–3999) کو معیاری subtractive شکل میں رومن اعداد میں بدلیں۔ مفت آن لائن کنورٹر۔",
-  "id": "/loona-dev-tools/ur/number-to-roman-numerals/",
+  "id": "/ur/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

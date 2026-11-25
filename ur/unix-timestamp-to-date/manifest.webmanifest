@@ -2,7 +2,7 @@
   "name": "Loona Unix ٹائم اسٹیمپ سے تاریخ کنورٹر",
   "short_name": "Unix ٹائم اسٹیمپ سے تاریخ",
   "description": "ایک Unix ٹائم اسٹیمپ (سیکنڈز یا ملی سیکنڈز) کو انسانی تاریخ میں بدلیں: UTC، آپ کا مقامی وقت، ISO 8601 اور نسبتی وقت۔",
-  "id": "/loona-dev-tools/ur/unix-timestamp-to-date/",
+  "id": "/ur/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Konverter Rem ke Piksel (px)",
   "short_name": "Konverter Rem ke Piksel (px)",
   "description": "Konversi rem ke px dengan ukuran font dasar yang dapat disesuaikan (default 16px) dan tabel nilai umum.",
-  "id": "/loona-dev-tools/id/rem-to-px-converter/",
+  "id": "/id/rem-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

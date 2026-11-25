@@ -2,7 +2,7 @@
   "name": "Minifikátor Loona CSS online zadarmo",
   "short_name": "Minifikátor CSS online zadarmo",
   "description": "Minifikujte CSS online zadarmo a pozrite si presne, o koľko menšie bude, alebo skrášlite minifikované CSS späť na čitateľný kód. Bez registrácie, beží 100% vo vašom prehliadači.",
-  "id": "/loona-dev-tools/sk/css-minifier/",
+  "id": "/sk/css-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

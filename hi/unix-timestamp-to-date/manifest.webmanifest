@@ -2,7 +2,7 @@
   "name": "Loona Unix Timestamp से Date कन्वर्टर",
   "short_name": "Unix Timestamp से Date",
   "description": "एक Unix timestamp (seconds या milliseconds) को human date में बदलें: UTC, आपका local time, ISO 8601 और relative time।",
-  "id": "/loona-dev-tools/hi/unix-timestamp-to-date/",
+  "id": "/hi/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

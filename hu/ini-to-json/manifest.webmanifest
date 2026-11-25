@@ -2,7 +2,7 @@
   "name": "Loona INI-ből JSON-ba átalakító",
   "short_name": "INI–JSON átalakító",
   "description": "Alakítson INI konfigurációs fájlokat JSON-ná: a szakaszok objektumokká válnak, az értékek típusosak (számok, logikai értékek), ahol egyértelmű.",
-  "id": "/loona-dev-tools/hu/ini-to-json/",
+  "id": "/hu/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

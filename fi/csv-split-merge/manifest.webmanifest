@@ -2,7 +2,7 @@
   "name": "Loona CSV-jako & yhdistäminen verkossa ilmaiseksi",
   "short_name": "CSV-jako & yhdistäminen verkossa ilmaiseksi",
   "description": "Jaa CSV osiin rivimäärän mukaan tai yhdistä useita CSV-tiedostoja yhdeksi verkossa ilmaiseksi - otsikot käsiteltynä oikein, asianmukainen CSV-jäsennys. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/csv-split-merge/",
+  "id": "/fi/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง Query String เป็น JSON",
   "short_name": "ตัวแปลง Query String เป็น JSON",
   "description": "แยกวิเคราะห์ query string ของ URL เป็น JSON: สัญลักษณ์วงเล็บกลายเป็นออบเจ็กต์ซ้อน คีย์ที่ซ้ำกลายเป็นอาร์เรย์ ค่ามีประเภท",
-  "id": "/loona-dev-tools/th/query-string-to-json/",
+  "id": "/th/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

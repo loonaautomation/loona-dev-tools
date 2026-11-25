@@ -2,7 +2,7 @@
   "name": "Loona مصغّر JavaScript عبر الإنترنت مجاناً",
   "short_name": "مصغّر JavaScript عبر الإنترنت",
   "description": "صغّر JavaScript عبر الإنترنت مجاناً بمحلّل رموز محافظ يحمي السلاسل وحرفيات القوالب والتعابير النمطية. دون تسجيل، يعمل 100% في متصفحك.",
-  "id": "/loona-dev-tools/ar/javascript-minifier/",
+  "id": "/ar/javascript-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

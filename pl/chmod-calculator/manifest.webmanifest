@@ -2,7 +2,7 @@
   "name": "Loona Kalkulator chmod online za darmo",
   "short_name": "Kalkulator chmod online za darmo",
   "description": "Obliczaj uprawnienia chmod online za darmo: pola wyboru na ósemkowe (755) i symboliczne (rwxr-xr-x) oraz ósemkowe z powrotem na uprawnienia. Bez rejestracji, działa w 100% w przeglądarce.",
-  "id": "/loona-dev-tools/pl/chmod-calculator/",
+  "id": "/pl/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

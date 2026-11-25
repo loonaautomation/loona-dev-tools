@@ -2,7 +2,7 @@
   "name": "Convertisseur d’horodatages Unix Loona en ligne gratuit",
   "short_name": "Convertisseur d’horodatages Unix",
   "description": "Convertissez les horodatages Unix (secondes ou millisecondes) en dates lisibles en UTC et dans votre heure locale, et les dates en horodatages. Heure actuelle en direct. Gratuit.",
-  "id": "/loona-dev-tools/fr/timestamp-converter/",
+  "id": "/fr/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

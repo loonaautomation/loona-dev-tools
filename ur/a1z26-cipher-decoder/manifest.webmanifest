@@ -2,7 +2,7 @@
   "name": "Loona A1Z26 سائفر ڈیکوڈر (اعداد سے حروف)",
   "short_name": "A1Z26 سائفر ڈیکوڈر (اعداد",
   "description": "A1Z26 عدد کوڈز کو واپس حروف میں ڈی کوڈ کریں: 1=A, 2=B ... 26=Z۔ ہائفن، کاما یا اسپیس سے الگ۔",
-  "id": "/loona-dev-tools/ur/a1z26-cipher-decoder/",
+  "id": "/ur/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

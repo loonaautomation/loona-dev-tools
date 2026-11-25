@@ -2,7 +2,7 @@
   "name": "Loona generator SHA-256 hasha",
   "short_name": "Generator SHA-256 hasha",
   "description": "Izračunajte SHA-256 hasheve teksta ili datoteka na mreži: 256-bitni, 64 heksadekadska znaka. Radi lokalno u vašem pregledniku s WebCryptom/čistim JS-om — datoteke se nikada ne prenose.",
-  "id": "/loona-dev-tools/hr/sha256-hash-generator/",
+  "id": "/hr/sha256-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

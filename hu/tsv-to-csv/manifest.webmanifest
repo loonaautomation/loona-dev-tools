@@ -2,7 +2,7 @@
   "name": "Loona TSV-ből CSV-be átalakító",
   "short_name": "TSV-ből CSV-be átalakító",
   "description": "Alakítson TSV-t (tabulátorral elválasztott értékek) CSV-vé: illesszen be Excelből vagy Sheetsből másolt adatokat, és kapjon megfelelően idézett CSV-t.",
-  "id": "/loona-dev-tools/hu/tsv-to-csv/",
+  "id": "/hu/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Prevodník Loona 7Z na TAR",
   "short_name": "Prevodník 7Z na TAR",
   "description": "Preveďte archívy 7Z na TAR online: libarchive (WebAssembly) číta 7Z, zapisovač ustar ho znova zabalí. Súkromné a lokálne.",
-  "id": "/loona-dev-tools/sk/7z-to-tar-converter/",
+  "id": "/sk/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

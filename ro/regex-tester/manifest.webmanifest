@@ -2,7 +2,7 @@
   "name": "Tester de expresii regulate Loona online gratuit",
   "short_name": "Tester de expresii regulate online gratuit",
   "description": "Testează expresii regulate online gratuit cu evidențierea potrivirilor în direct, detalii ale grupurilor de captură și o numărătoare a potrivirilor. Fără înregistrare, rulează 100% în browserul tău.",
-  "id": "/loona-dev-tools/ro/regex-tester/",
+  "id": "/ro/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

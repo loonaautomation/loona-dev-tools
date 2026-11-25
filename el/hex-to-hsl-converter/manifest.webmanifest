@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας HEX σε HSL",
   "short_name": "Μετατροπέας HEX σε HSL",
   "description": "Μετατρέψτε χρώματα από HEX σε HSL διαδικτυακά, με ζωντανό δείγμα και όλες τις άλλες μορφές (HEX, RGB, HSL, HSV, CMYK) να εμφανίζονται επίσης.",
-  "id": "/loona-dev-tools/el/hex-to-hsl-converter/",
+  "id": "/el/hex-to-hsl-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

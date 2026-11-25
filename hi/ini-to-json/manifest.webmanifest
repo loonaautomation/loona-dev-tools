@@ -2,7 +2,7 @@
   "name": "Loona INI से JSON कन्वर्टर",
   "short_name": "INI से JSON कन्वर्टर",
   "description": "INI configuration files को JSON में बदलें: sections objects बन जाते हैं, values typed होती हैं (numbers, booleans) जहाँ स्पष्ट हों।",
-  "id": "/loona-dev-tools/hi/ini-to-json/",
+  "id": "/hi/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

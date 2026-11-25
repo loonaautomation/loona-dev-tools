@@ -2,7 +2,7 @@
   "name": "Конвертер Loona Hex у текст",
   "short_name": "Конвертер Hex у текст",
   "description": "Конвертуйте шістнадцяткове назад у текст: вставте байти hex (з пробілами або неперервно, з 0x або без) і читайте текст UTF-8.",
-  "id": "/loona-dev-tools/uk/hex-to-text/",
+  "id": "/uk/hex-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

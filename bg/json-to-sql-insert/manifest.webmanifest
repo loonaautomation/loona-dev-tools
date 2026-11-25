@@ -2,7 +2,7 @@
   "name": "Генератор от JSON към SQL INSERT на Loona",
   "short_name": "Генератор от JSON към SQL INSERT",
   "description": "Генерирайте SQL INSERT заявки от JSON масив от обекти: низовете екранирани, NULL и булевите обработени, персонализирано име на таблица.",
-  "id": "/loona-dev-tools/bg/json-to-sql-insert/",
+  "id": "/bg/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

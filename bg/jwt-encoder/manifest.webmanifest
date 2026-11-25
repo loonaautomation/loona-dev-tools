@@ -2,7 +2,7 @@
   "name": "Енкодер на JWT на Loona (подписване HS256)",
   "short_name": "Енкодер на JWT (подписване HS256)",
   "description": "Създавайте и подписвайте JSON Web Tokens с HS256 в браузъра си: полезен товар JSON плюс тайна, или alg=none. Подписване с WebCrypto.",
-  "id": "/loona-dev-tools/bg/jwt-encoder/",
+  "id": "/bg/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

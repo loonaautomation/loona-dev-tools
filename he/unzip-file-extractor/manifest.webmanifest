@@ -2,7 +2,7 @@
   "name": "מחלץ קבצי Loona Unzip מקוון בחינם",
   "short_name": "מחלץ קבצי פתיחת ZIP מקוון",
   "description": "פתחו קובץ ZIP בדפדפן שלכם, ראו כל קובץ בפנים עם גודלו, וחלצו קבצים בודדים או את כולם. שום דבר לא מועלה; החילוץ קורה על המכשיר שלכם.",
-  "id": "/loona-dev-tools/he/unzip-file-extractor/",
+  "id": "/he/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

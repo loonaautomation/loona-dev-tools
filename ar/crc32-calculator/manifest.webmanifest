@@ -2,7 +2,7 @@
   "name": "Loona حاسبة المجموع التدققي CRC32",
   "short_name": "حاسبة المجموع التدققي CRC32",
   "description": "احسب تجزئات CRC32 للنص أو الملفات عبر الإنترنت: 32 بت، 8 أحرف سداسية عشرية. يعمل محلياً في متصفحك عبر WebCrypto/JS خالص — لا تُرفع الملفات أبداً.",
-  "id": "/loona-dev-tools/ar/crc32-calculator/",
+  "id": "/ar/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JSON naar .env-converter",
   "short_name": "JSON naar .env-converter",
   "description": "Converteer JSON-config naar .env-formaat: geneste objecten platgemaakt met UNDERSCORE-paden, waarden gequote als ze spaties of # bevatten.",
-  "id": "/loona-dev-tools/nl/json-to-env/",
+  "id": "/nl/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Extraktor súborov Loona TAR.GZ online zadarmo",
   "short_name": "Extraktor súborov TAR.GZ online",
   "description": "Otvorte archívy tar.gz priamo vo svojom prehliadači - .tar.gz aj krátky názov .tgz - pozrite si každý súbor vnútri a stiahnite jednotlivé súbory alebo všetko ako ZIP. Nič sa nenahráva.",
-  "id": "/loona-dev-tools/sk/tar-gz-file-extractor/",
+  "id": "/sk/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

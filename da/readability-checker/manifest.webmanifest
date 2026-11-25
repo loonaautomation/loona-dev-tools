@@ -2,7 +2,7 @@
   "name": "Loona SEO-læsbarhedskontrol online gratis",
   "short_name": "SEO-læsbarhedskontrol",
   "description": "Tjek indholdslæsbarhed til SEO online gratis – Flesch-, Flesch-Kincaid-, Gunning Fog-, Coleman-Liau-, SMOG- og ARI-scorer plus statistik over sætningslængder til webtekster. Ingen tilmelding.",
-  "id": "/loona-dev-tools/da/readability-checker/",
+  "id": "/da/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

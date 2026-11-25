@@ -2,7 +2,7 @@
   "name": "מקודד ומפענח צופן קיסר Loona",
   "short_name": "מקודד ומפענח צופן קיסר ו",
   "description": "צופן קיסר עם כל היסט (1–25) ומצב פענוח: צופן ההחלפה הקלאסי של יוליוס קיסר, באופן מקוון.",
-  "id": "/loona-dev-tools/he/caesar-cipher/",
+  "id": "/he/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

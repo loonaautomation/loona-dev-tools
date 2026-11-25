@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια JSON σε SQL INSERT",
   "short_name": "Γεννήτρια JSON σε SQL INSERT",
   "description": "Δημιουργήστε δηλώσεις SQL INSERT από έναν πίνακα αντικειμένων JSON: συμβολοσειρές διαφευγμένες, NULL και boolean χειρισμένα, προσαρμοσμένο όνομα πίνακα.",
-  "id": "/loona-dev-tools/el/json-to-sql-insert/",
+  "id": "/el/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

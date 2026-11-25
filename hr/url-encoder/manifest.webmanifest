@@ -2,7 +2,7 @@
   "name": "Loona URL enkoder i dekoder na mreži besplatno",
   "short_name": "URL enkoder i dekoder na mreži",
   "description": "Kodirajte i dekodirajte URL-ove i tekst upita na mreži besplatno, s načinima komponente i punog URL-a i raščlambom po znaku. Bez registracije, u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/url-encoder/",
+  "id": "/hr/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

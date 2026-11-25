@@ -2,7 +2,7 @@
   "name": "Loona Narzędzie podglądu SERP Google online za darmo",
   "short_name": "Narzędzie podglądu SERP Google",
   "description": "Podglądaj, jak tytuł strony i meta opis będą wyglądały w wynikach wyszukiwania Google online za darmo, z widokami na komputer i mobilnym oraz ostrzeżeniami o przycinaniu według szerokości pikseli. Bez rejestracji.",
-  "id": "/loona-dev-tools/pl/google-serp-preview/",
+  "id": "/pl/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

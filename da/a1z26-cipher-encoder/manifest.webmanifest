@@ -2,7 +2,7 @@
   "name": "Loona A1Z26-chifferkoder (bogstaver til tal)",
   "short_name": "A1Z26-chifferkoder (Bogstaver",
   "description": "Kod tekst med A1Z26-chifferet: A=1, B=2 ... Z=26. Den klassiske puslespils- og escape-room-kode.",
-  "id": "/loona-dev-tools/da/a1z26-cipher-encoder/",
+  "id": "/da/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

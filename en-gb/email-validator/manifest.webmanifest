@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/email-validator/",
+  "id": "/en-gb/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

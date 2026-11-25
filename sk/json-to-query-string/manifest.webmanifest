@@ -2,7 +2,7 @@
   "name": "Prevodník Loona JSON na dopytovací reťazec",
   "short_name": "Prevodník JSON na dopytovací reťazec",
   "description": "Vytvorte dopytovací reťazec URL z objektu JSON: vnorené objekty používajú zátvorkovú notáciu, polia opakujú kľúč, všetko je percentuálne kódované.",
-  "id": "/loona-dev-tools/sk/json-to-query-string/",
+  "id": "/sk/json-to-query-string/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

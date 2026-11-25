@@ -2,7 +2,7 @@
   "name": "Loona Punycode-avkodare (xn-- till Unicode-domän)",
   "short_name": "Punycode-avkodare (xn-- till",
   "description": "Avkoda xn--punycode-domäner tillbaka till deras Unicode-form — kontrollera vad en internationaliserad domän verkligen säger.",
-  "id": "/loona-dev-tools/sv/punycode-decode/",
+  "id": "/sv/punycode-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

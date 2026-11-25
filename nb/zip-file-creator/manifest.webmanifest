@@ -2,7 +2,7 @@
   "name": "Loona ZIP-filoppretter på nett gratis",
   "short_name": "ZIP-filoppretter på nett gratis",
   "description": "Opprett en ZIP-fil fra flere filer rett i nettleseren din - legg til filer, navngi arkivet og last ned én .zip. Ingenting lastes opp; alt blir på enheten din.",
-  "id": "/loona-dev-tools/nb/zip-file-creator/",
+  "id": "/nb/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

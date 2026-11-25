@@ -2,7 +2,7 @@
   "name": "Loona Sökordstäthetskontroll online gratis",
   "short_name": "Sökordstäthetskontroll",
   "description": "Kontrollera sökordstäthet online gratis - toppord plus fraser med 2 ord och 3 ord med antal och procentuell täthet, stoppordsfiltrering ingår. Ingen registrering.",
-  "id": "/loona-dev-tools/sv/keyword-density-checker/",
+  "id": "/sv/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

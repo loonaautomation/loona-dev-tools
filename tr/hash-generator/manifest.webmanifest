@@ -2,7 +2,7 @@
   "name": "Loona Hash Oluşturucu Çevrimiçi Ücretsiz",
   "short_name": "Hash Oluşturucu Çevrimiçi Ücretsiz",
   "description": "Herhangi bir metnin SHA-1, SHA-256, SHA-384 ve SHA-512 hash değerlerini çevrimiçi ücretsiz, tarayıcınızda yerel olarak hesaplayarak oluşturun. Kayıt gerekmez, hiçbir şey yüklenmez.",
-  "id": "/loona-dev-tools/tr/hash-generator/",
+  "id": "/tr/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

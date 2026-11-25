@@ -2,7 +2,7 @@
   "name": "Loona XML-Minifier",
   "short_name": "XML-Minifier",
   "description": "Minifizieren Sie XML online: Entfernen Sie Kommentare und Whitespace zwischen Tags in eine kompakte Zeile.",
-  "id": "/loona-dev-tools/de/xml-minifier/",
+  "id": "/de/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

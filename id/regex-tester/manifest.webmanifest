@@ -2,7 +2,7 @@
   "name": "Loona Penguji Regex Online Gratis",
   "short_name": "Penguji Regex Online Gratis",
   "description": "Uji regular expression online gratis dengan penyorotan kecocokan langsung, detail grup tangkapan, dan jumlah kecocokan. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-dev-tools/id/regex-tester/",
+  "id": "/id/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

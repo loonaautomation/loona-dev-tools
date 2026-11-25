@@ -2,7 +2,7 @@
   "name": "Loona محوّل أنظمة الأعداد عبر الإنترنت مجاناً",
   "short_name": "محوّل قواعد الأرقام عبر الإنترنت",
   "description": "حوّل الأرقام بين الثنائي والثماني والعشري والسداسي العشري عبر الإنترنت مجاناً، بدقة BigInt لقيم تتجاوز 2^53 وتحقق لكل رقم. دون تسجيل، يعمل 100% في متصفحك.",
-  "id": "/loona-dev-tools/ar/number-base-converter/",
+  "id": "/ar/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

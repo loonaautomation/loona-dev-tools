@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/json-formatter/",
+  "id": "/en-gb/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

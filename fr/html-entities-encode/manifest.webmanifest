@@ -2,7 +2,7 @@
   "name": "Encodeur d’entités HTML Loona",
   "short_name": "Encodeur d’entités HTML",
   "description": "Encodez les caractères spéciaux en entités HTML : nommées (&copy;), références numériques décimales ou hexadécimales. Échappe le balisage, les guillemets et le texte non ASCII.",
-  "id": "/loona-dev-tools/fr/html-entities-encode/",
+  "id": "/fr/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

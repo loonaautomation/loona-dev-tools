@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Δεκαδικού σε Οκταδικό",
   "short_name": "Μετατροπέας Δεκαδικού σε Οκταδικό",
   "description": "Μετατρέψτε δεκαδικούς αριθμούς σε οκταδικούς διαδικτυακά — αυθαίρετη ακρίβεια (BigInt), υποστηρίζονται αρνητικοί αριθμοί.",
-  "id": "/loona-dev-tools/el/decimal-to-octal-converter/",
+  "id": "/el/decimal-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

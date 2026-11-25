@@ -2,7 +2,7 @@
   "name": "Loona HMAC-SHA256 جنریٹر",
   "short_name": "HMAC-SHA256 جنریٹر",
   "description": "HMAC-SHA256 دستخط آن لائن بنائیں: ایک کنجی اور پیغام درج کریں، ہیکس MAC پائیں۔ WebCrypto، مکمل مقامی۔",
-  "id": "/loona-dev-tools/ur/hmac-sha256-generator/",
+  "id": "/ur/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

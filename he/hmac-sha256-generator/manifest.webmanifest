@@ -2,7 +2,7 @@
   "name": "מחולל Loona HMAC-SHA256",
   "short_name": "מחולל HMAC-SHA256",
   "description": "צרו חתימות HMAC-SHA256 באופן מקוון: הזינו מפתח והודעה, קבלו את ה-MAC בהקס. WebCrypto, מקומי לחלוטין.",
-  "id": "/loona-dev-tools/he/hmac-sha256-generator/",
+  "id": "/he/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

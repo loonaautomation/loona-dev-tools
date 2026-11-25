@@ -2,7 +2,7 @@
   "name": "Loona converter- & generatorbibliotheek",
   "short_name": "Converter- & generatorbibliotheek",
   "description": "Index van alle converters en generatoren van Loona Developer Tools: coderingen, dataformaten, hashes, kleuren, archieven, codegeneratoren en referenties.",
-  "id": "/loona-dev-tools/nl/converter-library/",
+  "id": "/nl/converter-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

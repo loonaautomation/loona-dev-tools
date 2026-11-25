@@ -2,7 +2,7 @@
   "name": "Loona Unzip-filextraherare online gratis",
   "short_name": "Unzip-filextraherare Online",
   "description": "Öppna en ZIP-fil i din webbläsare, se varje fil inuti med dess storlek, och extrahera enstaka filer eller alla. Ingenting laddas upp; extrahering sker på din enhet.",
-  "id": "/loona-dev-tools/sv/unzip-file-extractor/",
+  "id": "/sv/unzip-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

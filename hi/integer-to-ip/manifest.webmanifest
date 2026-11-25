@@ -2,7 +2,7 @@
   "name": "Loona Integer से IP Address कन्वर्टर",
   "short_name": "Integer से IP Address",
   "description": "एक 32-bit integer को वापस dotted IPv4 address में बदलें (3232235521 → 192.168.0.1)।",
-  "id": "/loona-dev-tools/hi/integer-to-ip/",
+  "id": "/hi/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

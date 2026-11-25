@@ -2,7 +2,7 @@
   "name": "Loona Hex till text-konverterare",
   "short_name": "Hex till text-konverterare",
   "description": "Konvertera hexadecimalt tillbaka till text: klistra in hexbytes (med mellanslag eller sammanhängande, med eller utan 0x) och läs UTF-8-texten.",
-  "id": "/loona-dev-tools/sv/hex-to-text/",
+  "id": "/sv/hex-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

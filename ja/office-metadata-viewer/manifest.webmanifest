@@ -2,7 +2,7 @@
   "name": "Loona Officeドキュメントメタデータビューアー オンライン",
   "short_name": "Officeドキュメントメタデータ",
   "description": "Officeドキュメントのメタデータを無料でオンライン表示します。.docx、.xlsx、.pptxファイルのタイトル、著者、会社、作成日と変更日、アプリケーションとバージョンです。表示のみ、アップロードなしです。",
-  "id": "/loona-dev-tools/ja/office-metadata-viewer/",
+  "id": "/ja/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

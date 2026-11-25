@@ -2,7 +2,7 @@
   "name": "Loona Roman Numerals to Number Converter",
   "short_name": "Roman Numerals to Number Converter",
   "description": "Convert Roman numerals to numbers (1–3999), with strict validation of subtractive notation (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/en-us/roman-numerals-converter/",
+  "id": "/en-us/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

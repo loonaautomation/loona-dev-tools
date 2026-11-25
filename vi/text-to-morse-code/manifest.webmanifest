@@ -2,7 +2,7 @@
   "name": "Trình dịch văn bản sang mã Morse của Loona",
   "short_name": "Trình dịch văn bản sang mã Morse",
   "description": "Dịch văn bản sang mã Morse (chữ cái, chữ số và dấu câu phổ biến), các từ phân tách bằng /. Trình dịch Morse miễn phí.",
-  "id": "/loona-dev-tools/vi/text-to-morse-code/",
+  "id": "/vi/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

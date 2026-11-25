@@ -2,7 +2,7 @@
   "name": "Loona generator llms.txt datoteke na mreži besplatno",
   "short_name": "Generator llms.txt na mreži besplatno",
   "description": "Generirajte valjanu datoteku llms.txt na mreži besplatno - naziv stranice, sažeti blockquote, pojedinosti i odabrane poveznice stranica u formatu llms.txt predloženom za robote umjetne inteligencije. Bez registracije.",
-  "id": "/loona-dev-tools/hr/llms-txt-generator/",
+  "id": "/hr/llms-txt-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

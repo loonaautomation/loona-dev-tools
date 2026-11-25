@@ -2,7 +2,7 @@
   "name": "Převodník Loona XML na JSON",
   "short_name": "Převodník XML na JSON",
   "description": "Převádějte XML na JSON online: atributy jako @klíče, opakované prvky jako pole, text jako hodnoty s typovanými čísly.",
-  "id": "/loona-dev-tools/cs/xml-to-json/",
+  "id": "/cs/xml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

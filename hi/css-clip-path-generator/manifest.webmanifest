@@ -2,7 +2,7 @@
   "name": "Loona CSS Clip-Path जनरेटर ऑनलाइन मुफ़्त",
   "short_name": "CSS Clip-Path जनरेटर",
   "description": "CSS clip-path ऑनलाइन मुफ़्त generate करें — polygon presets जैसे star, hexagon और arrow adjustable points के साथ, साथ में circle, ellipse और inset shapes, एक live preview के साथ। कोई साइन-अप नहीं।",
-  "id": "/loona-dev-tools/hi/css-clip-path-generator/",
+  "id": "/hi/css-clip-path-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

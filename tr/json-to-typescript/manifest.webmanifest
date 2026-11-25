@@ -2,7 +2,7 @@
   "name": "Loona JSON - TypeScript Arayüzü Dönüştürücü",
   "short_name": "JSON - TypeScript Arayüzü",
   "description": "JSON değerini çevrimiçi TypeScript arayüzlerine dönüştürün: iç içe nesneler adlandırılmış arayüzler olur, nesne dizileri anahtarlarını isteğe bağlı alanlar işaretli olarak birleştirir.",
-  "id": "/loona-dev-tools/tr/json-to-typescript/",
+  "id": "/tr/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

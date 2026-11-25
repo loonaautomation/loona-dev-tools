@@ -2,7 +2,7 @@
   "name": "Loona MAC 地址格式轉換器",
   "short_name": "MAC 地址格式轉換器",
   "description": "在冒號（AA:BB:CC:DD:EE:FF）、短橫線、Cisco 點分和純文字格式之間轉換 MAC 地址；驗證 48 位地址。",
-  "id": "/loona-dev-tools/zh-hant/mac-address-converter/",
+  "id": "/zh-hant/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

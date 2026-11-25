@@ -2,7 +2,7 @@
   "name": "Prevodník Loona JSON na .env",
   "short_name": "Prevodník JSON na .env",
   "description": "Preveďte konfiguráciu JSON na formát .env: vnorené objekty sploštené cestami s PODČIARKOVNÍKMI, hodnoty uvedené, keď obsahujú medzery alebo #.",
-  "id": "/loona-dev-tools/sk/json-to-env/",
+  "id": "/sk/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

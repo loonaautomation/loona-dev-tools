@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ से TAR कन्वर्टर",
   "short_name": "TAR.GZ से TAR कन्वर्टर",
   "description": "एक .tar.gz / .tgz archive से gzip layer हटाकर सादा TAR पाएँ, ऑनलाइन और locally — extraction tools की ज़रूरत नहीं।",
-  "id": "/loona-dev-tools/hi/tar-gz-to-tar-converter/",
+  "id": "/hi/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

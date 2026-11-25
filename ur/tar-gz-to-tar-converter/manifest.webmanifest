@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ سے TAR کنورٹر",
   "short_name": "TAR.GZ سے TAR کنورٹر",
   "description": "gzip تہہ ایک .tar.gz / .tgz آرکائیو سے اتاریں تاکہ سادہ TAR ملے، آن لائن اور مقامی طور پر — extraction ٹولز نہیں چاہئیں۔",
-  "id": "/loona-dev-tools/ur/tar-gz-to-tar-converter/",
+  "id": "/ur/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

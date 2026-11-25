@@ -2,7 +2,7 @@
   "name": "Loona Kisimbuaji cha Quoted-Printable",
   "short_name": "Kisimbuaji cha Quoted-Printable",
   "description": "Simbua maandishi ya quoted-printable (MIME) kurudi kuwa UTF-8 inayosomeka: utoroshaji wa =XX na mapumziko laini ya mistari vimeshughulikiwa kwa mujibu wa RFC 2045.",
-  "id": "/loona-dev-tools/sw/quoted-printable-decode/",
+  "id": "/sw/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

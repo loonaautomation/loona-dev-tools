@@ -2,7 +2,7 @@
   "name": "Loona JSON سے XML کنورٹر",
   "short_name": "JSON سے XML کنورٹر",
   "description": "JSON کو XML میں آن لائن ایک قابل تخصیص جڑ عنصر کے ساتھ بدلیں: ارے دہرائے گئے عناصر بن جاتی ہیں، @keys خصوصیات بن جاتی ہیں۔",
-  "id": "/loona-dev-tools/ur/json-to-xml/",
+  "id": "/ur/json-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

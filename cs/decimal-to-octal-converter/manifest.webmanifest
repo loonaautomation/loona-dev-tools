@@ -2,7 +2,7 @@
   "name": "Převodník Loona desítkové na osmičkovou",
   "short_name": "Převodník desítkové na osmičkovou",
   "description": "Převádějte desítková čísla na osmičková online — libovolná přesnost (BigInt), záporná čísla podporována.",
-  "id": "/loona-dev-tools/cs/decimal-to-octal-converter/",
+  "id": "/cs/decimal-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

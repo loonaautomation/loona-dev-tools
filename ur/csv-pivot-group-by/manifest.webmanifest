@@ -2,7 +2,7 @@
   "name": "Loona CSV پِوٹ اور گروپ بائی آن لائن مفت",
   "short_name": "CSV پِوٹ اور گروپ بائی آن لائن",
   "description": "CSV ڈیٹا آن لائن مفت پِوٹ کریں - قطاروں کو کسی کالم کے لحاظ سے گروپ کریں اور ایک قدر کالم کا sum, count, average, minimum یا maximum گنیں۔ کوئی سائن اپ نہیں، 100% آپ کے براؤزر میں چلتا ہے۔",
-  "id": "/loona-dev-tools/ur/csv-pivot-group-by/",
+  "id": "/ur/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

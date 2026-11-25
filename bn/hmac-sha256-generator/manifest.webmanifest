@@ -2,7 +2,7 @@
   "name": "Loona HMAC-SHA256 জেনারেটর",
   "short_name": "HMAC-SHA256 জেনারেটর",
   "description": "অনলাইনে HMAC-SHA256 স্বাক্ষর তৈরি করুন: একটি কী ও বার্তা লিখুন, হেক্স MAC পান। WebCrypto, সম্পূর্ণ স্থানীয়।",
-  "id": "/loona-dev-tools/bn/hmac-sha256-generator/",
+  "id": "/bn/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

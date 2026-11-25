@@ -2,7 +2,7 @@
   "name": "Decodor de entități HTML Loona",
   "short_name": "Decodor de entități HTML",
   "description": "Decodifică entități HTML înapoi în caractere simple: referințe numite, zecimale și hex (&copy;, &#169;, &#xA9;) toate acceptate.",
-  "id": "/loona-dev-tools/ro/html-entities-decode/",
+  "id": "/ro/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

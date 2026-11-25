@@ -2,7 +2,7 @@
   "name": "Loona ZIP to TAR Converter",
   "short_name": "ZIP to TAR Converter",
   "description": "Convert ZIP archives to uncompressed TAR online: same files and folders, repacked with a standards-compliant TAR writer. Fully local.",
-  "id": "/loona-dev-tools/zip-to-tar-converter/",
+  "id": "/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

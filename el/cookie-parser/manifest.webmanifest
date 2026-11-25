@@ -2,7 +2,7 @@
   "name": "Loona Αναλυτής Κεφαλίδας Cookie",
   "short_name": "Αναλυτής Κεφαλίδας Cookie",
   "description": "Αναλύστε μια κεφαλίδα Cookie σε μια αναγνώσιμη λίστα: ζεύγη όνομα = τιμή, τιμές αποκωδικοποιημένες ποσοστιαία εμφανίζονται, μέτρηση cookie.",
-  "id": "/loona-dev-tools/el/cookie-parser/",
+  "id": "/el/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona HEX를 HSV로 변환",
   "short_name": "HEX를 HSV로 변환",
   "description": "HEX에서 HSV로 색상을 온라인 변환해요, 실시간 견본과 다른 모든 형식(HEX, RGB, HSL, HSV, CMYK)도 함께 표시돼요.",
-  "id": "/loona-dev-tools/ko/hex-to-hsv-converter/",
+  "id": "/ko/hex-to-hsv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

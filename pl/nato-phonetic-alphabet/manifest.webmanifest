@@ -2,7 +2,7 @@
   "name": "Loona Translator alfabetu fonetycznego NATO (Tekst",
   "short_name": "Alfabet fonetyczny NATO",
   "description": "Literuj tekst alfabetem fonetycznym NATO: A = Alfa, B = Bravo... Zawiera cyfry. Używany przez lotnictwo, wojsko i rozmowy wsparcia.",
-  "id": "/loona-dev-tools/pl/nato-phonetic-alphabet/",
+  "id": "/pl/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

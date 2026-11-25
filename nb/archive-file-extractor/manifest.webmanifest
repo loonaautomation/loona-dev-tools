@@ -2,7 +2,7 @@
   "name": "Loona arkivfilutpakker på nett gratis",
   "short_name": "Arkivfilutpakker på nett",
   "description": "Én universell arkivåpner: slipp hvilken som helst ZIP-, RAR-, 7Z-, TAR-, TAR.GZ-, TAR.BZ2-, TAR.XZ- eller ISO-fil og pakk ut innholdet rett i nettleseren din. Formatet detekteres automatisk; ingenting lastes opp.",
-  "id": "/loona-dev-tools/nb/archive-file-extractor/",
+  "id": "/nb/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "מקודד ישויות HTML של Loona",
   "short_name": "מקודד ישויות HTML",
   "description": "קודדו תווים מיוחדים כישויות HTML: בעלות שם (‎&copy;), עשרוני או הפניות מספריות הקס. מבריח סימון, מרכאות וטקסט לא-ASCII.",
-  "id": "/loona-dev-tools/he/html-entities-encode/",
+  "id": "/he/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

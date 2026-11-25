@@ -2,7 +2,7 @@
   "name": "Loona ตัวสร้างแฮช SHA-1",
   "short_name": "ตัวสร้างแฮช SHA-1",
   "description": "คำนวณแฮช SHA-1 ของข้อความหรือไฟล์ออนไลน์: 160 บิต ตัวอักษรเลขฐานสิบหก 40 ตัว ทำงานภายในเบราว์เซอร์ของคุณด้วย WebCrypto/JS ล้วน — ไฟล์ไม่เคยถูกอัปโหลด",
-  "id": "/loona-dev-tools/th/sha1-hash-generator/",
+  "id": "/th/sha1-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

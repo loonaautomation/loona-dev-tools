@@ -2,7 +2,7 @@
   "name": "Конвертор от JSON към Markdown таблица на Loona",
   "short_name": "JSON към Markdown таблица",
   "description": "Конвертирайте JSON масив от обекти в Markdown таблица: колони от ключовете, вертикалните черти екранирани, готово за поставяне в README файлове.",
-  "id": "/loona-dev-tools/bg/json-to-markdown-table/",
+  "id": "/bg/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

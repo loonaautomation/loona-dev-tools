@@ -2,7 +2,7 @@
   "name": "Loona User Agent-strengparser",
   "short_name": "User Agent-strengparser",
   "description": "Parse en browser-User-Agent-streng til browser, motor, OS og enhedstype med en gennemsigtig regelbaseret parser.",
-  "id": "/loona-dev-tools/da/user-agent-parser/",
+  "id": "/da/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

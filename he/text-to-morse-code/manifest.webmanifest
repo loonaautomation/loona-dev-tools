@@ -2,7 +2,7 @@
   "name": "מתרגם Loona טקסט לקוד מורס",
   "short_name": "מתרגם טקסט לקוד מורס",
   "description": "תרגמו טקסט לקוד מורס (אותיות, ספרות ופיסוק נפוץ), מילים מופרדות ב-/. מתרגם מורס בחינם.",
-  "id": "/loona-dev-tools/he/text-to-morse-code/",
+  "id": "/he/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

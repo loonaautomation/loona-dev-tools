@@ -2,7 +2,7 @@
   "name": "Loona Punycode एनकोडर (IDN Domain कन्वर्टर)",
   "short_name": "Punycode एनकोडर (IDN Domain",
   "description": "Internationalised domain names (IDN) को punycode xn-- रूप में बदलें: bücher.example, xn--bcher-kva.example बन जाता है। प्रति-label encoding।",
-  "id": "/loona-dev-tools/hi/punycode-encode/",
+  "id": "/hi/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

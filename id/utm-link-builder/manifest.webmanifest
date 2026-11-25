@@ -2,7 +2,7 @@
   "name": "Loona Pembuat Tautan UTM Online Gratis",
   "short_name": "Pembuat Tautan UTM Online Gratis",
   "description": "Bangun URL kampanye bertanda UTM online secara gratis - source, medium, campaign, term, dan content ditambahkan dengan encoding yang benar, parameter kueri yang sudah ada dipertahankan, ditambah riwayat tersimpan.",
-  "id": "/loona-dev-tools/id/utm-link-builder/",
+  "id": "/id/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

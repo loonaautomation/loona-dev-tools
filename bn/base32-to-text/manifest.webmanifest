@@ -2,7 +2,7 @@
   "name": "Loona Base32 থেকে টেক্সট ডিকোডার",
   "short_name": "Base32 থেকে টেক্সট ডিকোডার",
   "description": "Base32 (RFC 4648) আবার টেক্সটে ডিকোড করুন — কেস-অসংবেদনশীল, প্যাডিং ঐচ্ছিক। TOTP-ধরনের এনকোড করা স্ট্রিং পুনরুদ্ধার করুন।",
-  "id": "/loona-dev-tools/bn/base32-to-text/",
+  "id": "/bn/base32-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

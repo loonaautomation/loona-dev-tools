@@ -2,7 +2,7 @@
   "name": "Encodeur Loona texte vers Base32",
   "short_name": "Encodeur texte vers Base32",
   "description": "Encodez du texte en Base32 (RFC 4648) en ligne — l’encodage insensible à la casse utilisé dans les secrets TOTP et les identifiants sûrs pour DNS.",
-  "id": "/loona-dev-tools/fr/text-to-base32/",
+  "id": "/fr/text-to-base32/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

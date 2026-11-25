@@ -2,7 +2,7 @@
   "name": "Loona HTML Minifier",
   "short_name": "HTML Minifier",
   "description": "Minify HTML online: remove comments and collapse whitespace while protecting pre, textarea, script and style contents.",
-  "id": "/loona-dev-tools/html-minifier/",
+  "id": "/html-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

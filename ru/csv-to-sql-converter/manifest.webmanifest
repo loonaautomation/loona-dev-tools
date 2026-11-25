@@ -2,7 +2,7 @@
   "name": "Loona Конвертер CSV в SQL онлайн бесплатно",
   "short_name": "Конвертер CSV в SQL онлайн",
   "description": "Преобразуйте CSV в SQL онлайн бесплатно — CREATE TABLE с выведенными типами столбцов плюс один INSERT на строку, для MySQL, PostgreSQL или SQLite. Без регистрации, работает на 100% в вашем браузере.",
-  "id": "/loona-dev-tools/ru/csv-to-sql-converter/",
+  "id": "/ru/csv-to-sql-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

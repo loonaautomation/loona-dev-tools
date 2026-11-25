@@ -2,7 +2,7 @@
   "name": "Porovnávač rozdielov Loona online zadarmo",
   "short_name": "Porovnávač rozdielov online zadarmo",
   "description": "Porovnajte dva texty online zadarmo s riadkovým porovnaním: pridané riadky zelenou, odstránené riadky červenou, plus zhrnutie zmien. Bez registrácie, beží 100% vo vašom prehliadači.",
-  "id": "/loona-dev-tools/sk/diff-checker/",
+  "id": "/sk/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

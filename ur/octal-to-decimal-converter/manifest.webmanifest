@@ -2,7 +2,7 @@
   "name": "Loona آکٹل سے اعشاریہ کنورٹر",
   "short_name": "آکٹل سے اعشاریہ کنورٹر",
   "description": "آکٹل اعداد کو اعشاریہ میں آن لائن بدلیں — arbitrary precision (BigInt)، منفی اعداد سپورٹ۔",
-  "id": "/loona-dev-tools/ur/octal-to-decimal-converter/",
+  "id": "/ur/octal-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

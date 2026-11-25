@@ -2,7 +2,7 @@
   "name": "Kalkulačka kontrolního součtu Loona CRC32",
   "short_name": "Kalkulačka kontrolního součtu CRC32",
   "description": "Počítejte hashe CRC32 textu nebo souborů online: 32bitové, 8 hexadecimálních znaků. Běží lokálně ve vašem prohlížeči s WebCrypto/čistým JS — soubory se nikdy nenahrávají.",
-  "id": "/loona-dev-tools/cs/crc32-calculator/",
+  "id": "/cs/crc32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

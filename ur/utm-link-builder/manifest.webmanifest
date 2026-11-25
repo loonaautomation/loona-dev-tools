@@ -2,7 +2,7 @@
   "name": "Loona UTM لنک بلڈر آن لائن مفت",
   "short_name": "UTM لنک بلڈر آن لائن مفت",
   "description": "UTM-ٹیگ شدہ مہم URLs آن لائن مفت بنائیں - source, medium, campaign, term اور content درست انکوڈنگ کے ساتھ شامل، موجودہ query پیرامیٹرز محفوظ، علاوہ ایک محفوظ شدہ تاریخ۔",
-  "id": "/loona-dev-tools/ur/utm-link-builder/",
+  "id": "/ur/utm-link-builder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

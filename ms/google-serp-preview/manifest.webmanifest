@@ -2,7 +2,7 @@
   "name": "Loona Alat Pratonton SERP Google Dalam Talian Percuma",
   "short_name": "Alat Pratonton SERP Google",
   "description": "Pratonton bagaimana judul halaman dan meta description Anda akan tampak di hasil carian Google dalam talian percuma, dengan paparan desktop dan seluler serta amaran pemotongan lebar piksel. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/ms/google-serp-preview/",
+  "id": "/ms/google-serp-preview/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

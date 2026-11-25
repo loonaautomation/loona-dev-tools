@@ -2,7 +2,7 @@
   "name": "מציג מטא-נתונים של מסמכי Office של Loona מקוון",
   "short_name": "מטא-נתוני מסמך Office",
   "description": "צפו במטא-נתוני מסמך Office מקוון בחינם - כותרת, מחבר, חברה, תאריכי יצירה ושינוי, אפליקציה וגרסה לקבצי ‎.docx, ‏‎.xlsx ו-‎.pptx. לצפייה בלבד, שום דבר לא מועלה.",
-  "id": "/loona-dev-tools/he/office-metadata-viewer/",
+  "id": "/he/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona XML Site Haritası Oluşturucu Çevrimiçi Ücretsiz",
   "short_name": "XML Site Haritası Oluşturucu Çevrimiçi",
   "description": "Bir URL listesinden çevrimiçi ücretsiz geçerli bir XML site haritası oluşturun; varsayılan lastmod, changefreq ve priority ile, doğru URL ve XML kaçışıyla. Kayıt gerekmez, tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/xml-sitemap-generator/",
+  "id": "/tr/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

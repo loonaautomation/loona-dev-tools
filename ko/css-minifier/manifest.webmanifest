@@ -2,7 +2,7 @@
   "name": "Loona CSS 축소기 온라인 무료",
   "short_name": "CSS 축소기 온라인 무료",
   "description": "CSS를 온라인에서 무료로 축소하고 정확히 얼마나 작아지는지 보거나, 축소된 CSS를 다시 읽기 쉬운 코드로 정리하세요. 회원가입 없음, 브라우저에서 100% 실행돼요.",
-  "id": "/loona-dev-tools/ko/css-minifier/",
+  "id": "/ko/css-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

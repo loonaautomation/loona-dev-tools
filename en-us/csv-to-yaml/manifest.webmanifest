@@ -2,7 +2,7 @@
   "name": "Loona CSV to YAML Converter",
   "short_name": "CSV to YAML Converter",
   "description": "Convert CSV tables to YAML: header row becomes keys, each row an item in a YAML list, numbers typed.",
-  "id": "/loona-dev-tools/en-us/csv-to-yaml/",
+  "id": "/en-us/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Trình tạo XML Sitemap của Loona trực tuyến miễn phí",
   "short_name": "Trình tạo XML Sitemap trực tuyến",
   "description": "Tạo một sitemap XML hợp lệ trực tuyến miễn phí từ một danh sách URL, với lastmod, changefreq và priority mặc định, escape URL và XML đúng. Không đăng ký, chạy trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/xml-sitemap-generator/",
+  "id": "/vi/xml-sitemap-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

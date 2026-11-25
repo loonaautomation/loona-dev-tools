@@ -2,7 +2,7 @@
   "name": "Loona JSONミニファイア",
   "short_name": "JSONミニファイア",
   "description": "JSONをオンラインミニファイします。すべての重要でない空白を取り除き、一つのコンパクトな行にします。検証エラーは正確に報告されます。",
-  "id": "/loona-dev-tools/ja/json-minifier/",
+  "id": "/ja/json-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

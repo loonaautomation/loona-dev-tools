@@ -2,7 +2,7 @@
   "name": "Loona 十六進数→二進数変換ツール",
   "short_name": "十六進数から二進数へ",
   "description": "十六進数を二進数にオンライン変換 — 任意精度（BigInt）、負の数に対応。",
-  "id": "/loona-dev-tools/ja/hex-to-binary-converter/",
+  "id": "/ja/hex-to-binary-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona TOML থেকে JSON কনভার্টার",
   "short_name": "TOML থেকে JSON রূপান্তরকারী",
   "description": "অনলাইনে TOML JSON-এ রূপান্তর করুন: টেবিল, অ্যারে টেবিল, স্ট্রিং, সংখ্যা, বুলিয়ান, অ্যারে ও ডেটটাইম (স্ট্রিং হিসেবে)।",
-  "id": "/loona-dev-tools/bn/toml-to-json/",
+  "id": "/bn/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

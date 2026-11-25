@@ -2,7 +2,7 @@
   "name": "Loona URL 解码（百分号解码）",
   "short_name": "URL 解码（百分比解码）",
   "description": "把百分号编码的 URL 和查询字符串解码回可读文本，包括 UTF-8 序列和作为空格的 +。免费的在线解码器。",
-  "id": "/loona-dev-tools/zh/url-decode/",
+  "id": "/zh/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

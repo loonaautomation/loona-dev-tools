@@ -2,7 +2,7 @@
   "name": "Loona Kitoaji cha Faili cha RAR Bure Mtandaoni",
   "short_name": "Kitoaji cha Faili cha RAR Bure Mtandaoni",
   "description": "Fungua faili za RAR (RAR4 na RAR5) moja kwa moja kwenye kivinjari chako - tazama kila faili ndani, pakua faili moja moja au kila kitu kama ZIP. Hakuna kinachopakiwa; utoaji hufanyika kwenye kifaa chako.",
-  "id": "/loona-dev-tools/sw/rar-file-extractor/",
+  "id": "/sw/rar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Calculateur de somme de contrôle Loona Adler-32",
   "short_name": "Calculateur de somme de contrôle Adler-32",
   "description": "Calculez les hachages Adler-32 de textes ou de fichiers en ligne : 32 bits, 8 caractères hexadécimaux. Fonctionne localement dans votre navigateur avec WebCrypto/JS pur — les fichiers ne sont jamais téléversés.",
-  "id": "/loona-dev-tools/fr/adler32-calculator/",
+  "id": "/fr/adler32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

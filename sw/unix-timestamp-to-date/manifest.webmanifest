@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Muhuri wa Muda wa Unix kwenda Tarehe",
   "short_name": "Muhuri wa Muda wa Unix kwenda Tarehe",
   "description": "Badilisha muhuri wa muda wa Unix (sekunde au milisekunde) kuwa tarehe ya kibinadamu: UTC, muda wako wa ndani, ISO 8601 na muda wa jamaa.",
-  "id": "/loona-dev-tools/sw/unix-timestamp-to-date/",
+  "id": "/sw/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona URL 解析器 在线免费",
   "short_name": "URL 解析器 在线免费",
   "description": "在线免费把任何 URL 解析为协议、主机、端口、路径、查询参数和哈希——编辑参数并重建 URL。无需注册，100% 在您的浏览器中运行。",
-  "id": "/loona-dev-tools/zh/url-parser/",
+  "id": "/zh/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

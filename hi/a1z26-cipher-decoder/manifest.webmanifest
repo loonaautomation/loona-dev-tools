@@ -2,7 +2,7 @@
   "name": "Loona A1Z26 Cipher डिकोडर (संख्याओं से अक्षर)",
   "short_name": "A1Z26 Cipher डिकोडर (Numbers",
   "description": "A1Z26 number codes को वापस अक्षरों में decode करें: 1=A, 2=B ... 26=Z। Hyphen, comma या space से अलग।",
-  "id": "/loona-dev-tools/hi/a1z26-cipher-decoder/",
+  "id": "/hi/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

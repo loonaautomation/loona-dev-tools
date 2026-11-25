@@ -2,7 +2,7 @@
   "name": "Loona Punycodeエンコーダー（IDNドメイン変換ツール）",
   "short_name": "Punycodeエンコーダー（IDNドメイン",
   "description": "国際化ドメイン名（IDN）を punycode の xn-- 形式に変換：bücher.example は xn--bcher-kva.example になります。ラベルごとのエンコーディング。",
-  "id": "/loona-dev-tools/ja/punycode-encode/",
+  "id": "/ja/punycode-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

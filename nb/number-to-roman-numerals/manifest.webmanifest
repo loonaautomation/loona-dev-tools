@@ -2,7 +2,7 @@
   "name": "Loona tall til romertall",
   "short_name": "Tall til romertall",
   "description": "Konverter tall (1–3999) til romertall i standard subtraktiv form. Gratis nettbasert konverterer.",
-  "id": "/loona-dev-tools/nb/number-to-roman-numerals/",
+  "id": "/nb/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

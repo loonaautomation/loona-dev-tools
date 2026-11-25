@@ -2,7 +2,7 @@
   "name": "Loona Rem naar pixels (px)-converter",
   "short_name": "Rem naar pixels (px)-converter",
   "description": "Converteer rem naar px met een instelbare basispuntgrootte (standaard 16px) en een tabel met gangbare waarden.",
-  "id": "/loona-dev-tools/nl/rem-to-px-converter/",
+  "id": "/nl/rem-to-px-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona slug generátor (URL slug készítő)",
   "short_name": "Slug generátor (URL slug",
   "description": "Generáljon tiszta URL slugokat címekből: az ékezetek levéve, kisbetűs, a szóközök kötőjelekre (vagy aláhúzásokra). Ingyenes slug készítő.",
-  "id": "/loona-dev-tools/hu/slug-generator/",
+  "id": "/hu/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "CSV Pivot & Group-By trực tuyến miễn phí của Loona",
   "short_name": "CSV Pivot & Nhóm theo trực tuyến",
   "description": "Pivot dữ liệu CSV trực tuyến miễn phí - nhóm các hàng theo bất kỳ cột nào và tính tổng, số lượng, trung bình, tối thiểu hoặc tối đa của một cột giá trị. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/csv-pivot-group-by/",
+  "id": "/vi/csv-pivot-group-by/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona URL Ayrıştırıcı Çevrimiçi Ücretsiz",
   "short_name": "URL Ayrıştırıcı Çevrimiçi Ücretsiz",
   "description": "Herhangi bir URL değerini çevrimiçi ücretsiz olarak protokol, ana makine, bağlantı noktası, yol, sorgu parametreleri ve hash değerine ayrıştırın - parametreleri düzenleyin ve URL değerini yeniden kurun. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/url-parser/",
+  "id": "/tr/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

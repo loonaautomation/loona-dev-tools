@@ -2,7 +2,7 @@
   "name": "Loona ตัวเข้ารหัสรหัส A1Z26 (ตัวอักษรเป็นตัวเลข)",
   "short_name": "ตัวเข้ารหัสรหัส A1Z26 (ตัวอักษร",
   "description": "เข้ารหัสข้อความด้วยรหัส A1Z26: A=1, B=2 ... Z=26 รหัสปริศนาและห้องหลบหนีแบบคลาสสิก",
-  "id": "/loona-dev-tools/th/a1z26-cipher-encoder/",
+  "id": "/th/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona rímske číslice na čísla",
   "short_name": "Rímske číslice na čísla",
   "description": "Preveďte rímske číslice na čísla (1–3999), s prísnym overovaním subtraktívnej notácie (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/sk/roman-numerals-converter/",
+  "id": "/sk/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

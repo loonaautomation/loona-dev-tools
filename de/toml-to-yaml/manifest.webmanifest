@@ -2,7 +2,7 @@
   "name": "Loona TOML-zu-YAML-Konverter",
   "short_name": "TOML-zu-YAML-Konverter",
   "description": "Konvertieren Sie TOML online zu YAML: Tabellen werden zu verschachtelten Mappings, Array-Tabellen werden zu Listen von Objekten.",
-  "id": "/loona-dev-tools/de/toml-to-yaml/",
+  "id": "/de/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

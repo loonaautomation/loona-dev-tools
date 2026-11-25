@@ -2,7 +2,7 @@
   "name": "Loona Sekizlik - Ondalık Dönüştürücü",
   "short_name": "Sekizlik - Ondalık Dönüştürücü",
   "description": "Sekizlik sayıları çevrimiçi ondalığa dönüştürün — keyfi hassasiyet (BigInt), negatif sayılar desteklenir.",
-  "id": "/loona-dev-tools/tr/octal-to-decimal-converter/",
+  "id": "/tr/octal-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

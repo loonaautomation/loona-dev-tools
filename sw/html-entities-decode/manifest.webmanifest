@@ -2,7 +2,7 @@
   "name": "Loona Kisimbuaji cha Huluki za HTML",
   "short_name": "Kisimbuaji cha Huluki za HTML",
   "description": "Simbua huluki za HTML kurudi kuwa herufi wazi: rejea zenye majina, za desimali na za heksi (&copy;, &#169;, &#xA9;) zote zinaungwa mkono.",
-  "id": "/loona-dev-tools/sw/html-entities-decode/",
+  "id": "/sw/html-entities-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

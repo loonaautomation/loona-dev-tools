@@ -2,7 +2,7 @@
   "name": "CSV Diff & Compare trực tuyến miễn phí của Loona",
   "short_name": "So sánh & khác biệt CSV trực tuyến miễn phí",
   "description": "So sánh hai tệp CSV trực tuyến miễn phí - các hàng được khớp theo một cột khóa và được phân loại là đã thêm, đã loại bỏ, đã thay đổi (với các ô chính xác) hoặc không đổi. Không đăng ký, chạy trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/csv-diff/",
+  "id": "/vi/csv-diff/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

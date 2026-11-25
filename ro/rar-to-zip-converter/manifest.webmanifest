@@ -2,7 +2,7 @@
   "name": "Convertizor RAR în ZIP Loona online gratuit",
   "short_name": "Convertizor RAR în ZIP online",
   "description": "Convertește o arhivă RAR (.rar) într-un fișier ZIP standard direct în browserul tău. Structura dosarelor este păstrată, nimic nu este încărcat, iar ZIP-ul se deschide oriunde - Windows, macOS, Android și iPhone deschid ZIP nativ.",
-  "id": "/loona-dev-tools/ro/rar-to-zip-converter/",
+  "id": "/ro/rar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

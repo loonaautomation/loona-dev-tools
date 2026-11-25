@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha CSV kwenda XML Bure Mtandaoni",
   "short_name": "Kibadilishaji cha CSV kwenda XML Mtandaoni",
   "description": "Badilisha CSV kuwa XML mtandaoni bure na majina ya vipengee vya mzizi na safu mlalo yanayoweza kusanidiwa na utoroshaji sahihi wa XML. Bila kujisajili, hufanya kazi 100% kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/csv-to-xml-converter/",
+  "id": "/sw/csv-to-xml-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

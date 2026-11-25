@@ -2,7 +2,7 @@
   "name": "Loona MACアドレス形式変換ツール",
   "short_name": "MACアドレス形式変換ツール",
   "description": "MACアドレスを、コロン（AA:BB:CC:DD:EE:FF）、ダッシュ、Ciscoドット、通常の形式の間で変換します。48ビットのアドレスを検証します。",
-  "id": "/loona-dev-tools/ja/mac-address-converter/",
+  "id": "/ja/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

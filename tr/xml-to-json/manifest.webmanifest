@@ -2,7 +2,7 @@
   "name": "Loona XML - JSON Dönüştürücü",
   "short_name": "XML - JSON Dönüştürücü",
   "description": "XML değerini çevrimiçi JSON biçimine dönüştürün: öznitelikler @keys olarak, yinelenen öğeler diziler olarak, metin sayılar tipli değerler olarak.",
-  "id": "/loona-dev-tools/tr/xml-to-json/",
+  "id": "/tr/xml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

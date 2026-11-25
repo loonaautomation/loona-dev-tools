@@ -2,7 +2,7 @@
   "name": "Loona ISO fájlkibontó online ingyen",
   "short_name": "ISO fájlkibontó online ingyen",
   "description": "Nyisson meg ISO lemezképeket közvetlenül a böngészőjében - böngéssze a virtuális lemezen tárolt fájlrendszert, és töltsön le egyetlen fájlt vagy mindent ZIP-ként. Semmi nem töltődik fel.",
-  "id": "/loona-dev-tools/hu/iso-file-extractor/",
+  "id": "/hu/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Generator de INSERT SQL din JSON Loona",
   "short_name": "Generator de INSERT SQL din JSON",
   "description": "Generează instrucțiuni INSERT SQL dintr-un tablou JSON de obiecte: șiruri escapate, NULL-uri și booleni gestionați, nume de tabel personalizat.",
-  "id": "/loona-dev-tools/ro/json-to-sql-insert/",
+  "id": "/ro/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

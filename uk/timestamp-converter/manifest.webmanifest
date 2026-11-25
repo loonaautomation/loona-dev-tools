@@ -2,7 +2,7 @@
   "name": "Конвертер часових міток Loona Unix онлайн безкоштовно",
   "short_name": "Конвертер міток часу Unix",
   "description": "Конвертуйте часові мітки Unix (секунди або мілісекунди) у людські дати в UTC і вашому місцевому часі, а дати назад у часові мітки. Поточний час наживо. Безкоштовно.",
-  "id": "/loona-dev-tools/uk/timestamp-converter/",
+  "id": "/uk/timestamp-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

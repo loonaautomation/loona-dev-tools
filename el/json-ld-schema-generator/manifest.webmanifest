@@ -2,7 +2,7 @@
   "name": "Loona Γεννήτρια Σχήματος JSON-LD Διαδικτυακά Δωρεάν",
   "short_name": "Γεννήτρια Σχήματος JSON-LD",
   "description": "Δημιουργήστε δομημένα δεδομένα schema.org JSON-LD διαδικτυακά δωρεάν - Article, LocalBusiness, Product, Event, Recipe, Person, Organization και WebSite - ως έτοιμο μπλοκ script. Χωρίς εγγραφή.",
-  "id": "/loona-dev-tools/el/json-ld-schema-generator/",
+  "id": "/el/json-ld-schema-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

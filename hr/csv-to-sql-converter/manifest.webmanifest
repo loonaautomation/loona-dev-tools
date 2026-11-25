@@ -2,7 +2,7 @@
   "name": "Loona pretvarač CSV u SQL na mreži besplatno",
   "short_name": "Pretvarač CSV u SQL na mreži",
   "description": "Pretvorite CSV u SQL na mreži besplatno - CREATE TABLE s izvedenim vrstama stupaca plus jedan INSERT po retku, za MySQL, PostgreSQL ili SQLite. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/csv-to-sql-converter/",
+  "id": "/hr/csv-to-sql-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

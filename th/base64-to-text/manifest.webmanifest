@@ -2,7 +2,7 @@
   "name": "Loona ตัวถอดรหัส Base64 เป็นข้อความ",
   "short_name": "ตัวถอดรหัส Base64 เป็นข้อความ",
   "description": "ถอดรหัส Base64 กลับเป็นข้อความที่อ่านได้ออนไลน์ จัดการชุดตัวอักษรมาตรฐานและแบบปลอดภัยสำหรับ URL ข้อความ UTF-8 ในทุกภาษา ฟรีและเป็นส่วนตัว",
-  "id": "/loona-dev-tools/th/base64-to-text/",
+  "id": "/th/base64-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

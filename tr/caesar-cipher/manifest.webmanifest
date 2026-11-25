@@ -2,7 +2,7 @@
   "name": "Loona Caesar Şifresi Kodlayıcı ve Kod Çözücü",
   "short_name": "Caesar Şifresi Kodlayıcı ve",
   "description": "Herhangi bir kaydırmayla (1–25) Caesar şifresi ve bir kod çözme modu: Julius Caesar değerinin klasik yerine koyma şifresi, çevrimiçi.",
-  "id": "/loona-dev-tools/tr/caesar-cipher/",
+  "id": "/tr/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

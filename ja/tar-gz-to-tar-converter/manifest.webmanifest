@@ -2,7 +2,7 @@
   "name": "Loona TAR.GZ→TAR変換ツール",
   "short_name": "TAR.GZ→TAR変換ツール",
   "description": ".tar.gz / .tgzアーカイブからgzip層を取り除き、通常のTARをオンラインかつローカルで取得します。抽出ツールは不要です。",
-  "id": "/loona-dev-tools/ja/tar-gz-to-tar-converter/",
+  "id": "/ja/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

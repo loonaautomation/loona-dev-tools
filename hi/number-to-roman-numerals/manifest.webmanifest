@@ -2,7 +2,7 @@
   "name": "Loona संख्याओं से Roman Numerals",
   "short_name": "संख्याओं से Roman Numerals",
   "description": "संख्याओं (1–3999) को standard subtractive रूप में Roman numerals में बदलें। मुफ़्त ऑनलाइन converter।",
-  "id": "/loona-dev-tools/hi/number-to-roman-numerals/",
+  "id": "/hi/number-to-roman-numerals/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

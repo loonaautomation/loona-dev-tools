@@ -2,7 +2,7 @@
   "name": "Loona Минификатор XML",
   "short_name": "Минификатор XML",
   "description": "Минифицируйте XML онлайн: убирайте комментарии и пробелы между тегами в одну компактную строку.",
-  "id": "/loona-dev-tools/ru/xml-minifier/",
+  "id": "/ru/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

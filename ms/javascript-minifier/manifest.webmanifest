@@ -2,7 +2,7 @@
   "name": "Loona Minifier JavaScript Dalam Talian Percuma",
   "short_name": "Minifier JavaScript Dalam Talian",
   "description": "Minifikasi JavaScript dalam talian secara percuma dengan tokenizer konservatif yang melindungi string, template literal, dan ungkapan nalar. Tanpa pendaftaran, berjalan 100% di pelayar Anda.",
-  "id": "/loona-dev-tools/ms/javascript-minifier/",
+  "id": "/ms/javascript-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

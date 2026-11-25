@@ -2,7 +2,7 @@
   "name": "Loona SHA-1-hashgenerator",
   "short_name": "SHA-1 Hash-generator",
   "description": "Beräkna SHA-1-hashar av text eller filer online: 160-bitars, 40 hextecken. Körs lokalt i din webbläsare med WebCrypto/ren JS — filer laddas aldrig upp.",
-  "id": "/loona-dev-tools/sv/sha1-hash-generator/",
+  "id": "/sv/sha1-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

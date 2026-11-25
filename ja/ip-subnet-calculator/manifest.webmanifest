@@ -2,7 +2,7 @@
   "name": "Loona IPサブネット計算機 無料オンライン",
   "short_name": "IPサブネット計算機 オンライン",
   "description": "IPv4サブネットを無料でオンライン計算 — あらゆるCIDRアドレスから、ネットワーク、ブロードキャスト、ネットマスク、ワイルドカード、最初と最後のホスト、使用可能なホスト数、IPクラスを算出し、サブネット分割ビューも備えます。",
-  "id": "/loona-dev-tools/ja/ip-subnet-calculator/",
+  "id": "/ja/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

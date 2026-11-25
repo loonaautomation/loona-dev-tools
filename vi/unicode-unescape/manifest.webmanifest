@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi Unicode Unescape của Loona (Giải mã \\uXXXX)",
   "short_name": "Công cụ chuyển đổi bỏ escape Unicode",
   "description": "Giải mã các dãy escape Unicode (\\uXXXX, \\u{...}, \\xXX) trở lại thành các ký tự thực, cộng các escape \\n \\t và \\\\.",
-  "id": "/loona-dev-tools/vi/unicode-unescape/",
+  "id": "/vi/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

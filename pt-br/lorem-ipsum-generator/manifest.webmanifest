@@ -2,7 +2,7 @@
   "name": "Loona Gerador de Lorem Ipsum",
   "short_name": "Gerador de Lorem Ipsum",
   "description": "Gere texto de substituição Lorem Ipsum: escolha parágrafos, frases ou palavras, com a linha de abertura clássica opcional.",
-  "id": "/loona-dev-tools/pt-br/lorem-ipsum-generator/",
+  "id": "/pt-br/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

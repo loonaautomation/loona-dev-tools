@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας TOML σε JSON",
   "short_name": "Μετατροπέας TOML σε JSON",
   "description": "Μετατρέψτε TOML σε JSON διαδικτυακά: πίνακες, πίνακες πινάκων, συμβολοσειρές, αριθμοί, boolean, πίνακες και ημερομηνίες-ώρες (ως συμβολοσειρές).",
-  "id": "/loona-dev-tools/el/toml-to-json/",
+  "id": "/el/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

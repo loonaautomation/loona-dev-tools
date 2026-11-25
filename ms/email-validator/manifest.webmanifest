@@ -2,7 +2,7 @@
   "name": "Loona Pengesah Emel Dalam Talian Percuma",
   "short_name": "Pengesah Emel Dalam Talian Percuma",
   "description": "Pengesahan alamat emel dalam talian percuma, satu atau pukal - penyemakan sintaks penuh terhadap aturan alamat plus deteksi salah taip domain umum seperti gmial.com. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/ms/email-validator/",
+  "id": "/ms/email-validator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

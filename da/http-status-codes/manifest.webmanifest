@@ -2,7 +2,7 @@
   "name": "Loona HTTP-statuskodereference",
   "short_name": "HTTP-statuskodereference",
   "description": "Enhver almindelig HTTP-statuskode med dens betydning: 2xx succes, 3xx omdirigeringer, 4xx klientfejl, 5xx serverfejl — forklaret enkelt.",
-  "id": "/loona-dev-tools/da/http-status-codes/",
+  "id": "/da/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Konwerter pikseli (px) na Rem",
   "short_name": "Konwerter pikseli (px) na Rem",
   "description": "Konwertuj px na rem przy regulowanym bazowym rozmiarze czcionki (domyślnie 16px) i tabeli popularnych wartości.",
-  "id": "/loona-dev-tools/pl/px-to-rem-converter/",
+  "id": "/pl/px-to-rem-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

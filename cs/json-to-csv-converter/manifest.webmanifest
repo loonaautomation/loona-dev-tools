@@ -2,7 +2,7 @@
   "name": "Převodník Loona JSON na CSV online zdarma",
   "short_name": "Převodník JSON na CSV online",
   "description": "Převeďte pole objektů JSON na CSV online zdarma: sjednocení klíčů jako sloupce, správné uvozovky a escapování, vnořené hodnoty zachovány jako JSON. Bez registrace, běží 100% ve vašem prohlížeči.",
-  "id": "/loona-dev-tools/cs/json-to-csv-converter/",
+  "id": "/cs/json-to-csv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

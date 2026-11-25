@@ -2,7 +2,7 @@
   "name": "Loona metacímke-generátor online ingyen",
   "short_name": "Metacímke-generátor online ingyen",
   "description": "Generáljon HTML meta címkéket online ingyen - cím, leírás, kulcsszavak, szerző, robots és kanonikus - élő Google-stílusú SERP előnézettel és karakterszámlálással. Regisztráció nélkül.",
-  "id": "/loona-dev-tools/hu/meta-tag-generator/",
+  "id": "/hu/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

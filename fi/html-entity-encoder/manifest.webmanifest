@@ -2,7 +2,7 @@
   "name": "Loona HTML-entiteettikooderi & -dekooderi verkossa ilmaiseksi",
   "short_name": "HTML-entiteettikooderi & -dekooderi",
   "description": "Koodaa tekstiä HTML-entiteeteiksi (nimettyinä kuten &amp;copy; tai numeroituina kuten &amp;#169;) ja pura entiteetit takaisin tavalliseksi tekstiksi. Ilmainen, ei rekisteröitymistä, selaimessasi.",
-  "id": "/loona-dev-tools/fi/html-entity-encoder/",
+  "id": "/fi/html-entity-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

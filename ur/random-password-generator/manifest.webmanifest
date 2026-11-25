@@ -2,7 +2,7 @@
   "name": "Loona بے ترتیب پاس ورڈ جنریٹر",
   "short_name": "بے ترتیب پاس ورڈ جنریٹر",
   "description": "مضبوط بے ترتیب پاس ورڈز اپنے براؤزر میں WebCrypto API سے بنائیں: لمبائی اور حرف سیٹس قابل ترتیب، اینٹروپی دکھائی گئی۔",
-  "id": "/loona-dev-tools/ur/random-password-generator/",
+  "id": "/ur/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

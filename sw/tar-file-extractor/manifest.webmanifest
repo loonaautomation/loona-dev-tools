@@ -2,7 +2,7 @@
   "name": "Loona Kitoaji cha Faili cha TAR Bure Mtandaoni",
   "short_name": "Kitoaji cha Faili cha TAR Bure Mtandaoni",
   "description": "Fungua hifadhi za TAR moja kwa moja kwenye kivinjari chako - .tar wazi pamoja na .tar.bz2 na .tar.xz - tazama kila faili ndani na upakue faili moja moja au kila kitu kama ZIP. Hakuna kinachopakiwa.",
-  "id": "/loona-dev-tools/sw/tar-file-extractor/",
+  "id": "/sw/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

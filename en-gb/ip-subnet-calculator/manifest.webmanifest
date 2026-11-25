@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/ip-subnet-calculator/",
+  "id": "/en-gb/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

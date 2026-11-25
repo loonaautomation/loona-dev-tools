@@ -2,7 +2,7 @@
   "name": "Loona .env-ből JSON-ba átalakító",
   "short_name": ".env–JSON átalakító",
   "description": "Egy .env fájl elemzése JSON-ba: KEY=value sorok, export előtagok, megjegyzések és idézett értékek kezelve.",
-  "id": "/loona-dev-tools/hu/env-to-json/",
+  "id": "/hu/env-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

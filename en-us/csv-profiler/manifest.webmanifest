@@ -2,7 +2,7 @@
   "name": "Loona CSV Profiler - Understand a File Before You Trust It",
   "short_name": "CSV Profiler - Understand a File Before You Trust It",
   "description": "Profile a CSV file online for free - per-column type guesses, empty-cell counts, unique value counts, numeric min/max and top values, so you understand a file before using it. No sign-up.",
-  "id": "/loona-dev-tools/en-us/csv-profiler/",
+  "id": "/en-us/csv-profiler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "ממיר Loona 7Z ל-TAR",
   "short_name": "ממיר 7Z ל-TAR",
   "description": "המירו ארכיוני 7Z ל-TAR באופן מקוון: libarchive (WebAssembly) קורא את ה-7Z, כותב ustar אורז אותו מחדש. פרטי ומקומי.",
-  "id": "/loona-dev-tools/he/7z-to-tar-converter/",
+  "id": "/he/7z-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

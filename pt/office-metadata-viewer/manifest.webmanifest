@@ -2,7 +2,7 @@
   "name": "Loona Visualizador de Metadados de Documentos do Office Online",
   "short_name": "Metadados de Documentos do Office",
   "description": "Veja metadados de documentos do Office online gratuitamente - título, autor, empresa, datas de criação e modificação, aplicação e versão para ficheiros .docx, .xlsx e .pptx. Apenas visualização, nada carregado.",
-  "id": "/loona-dev-tools/pt/office-metadata-viewer/",
+  "id": "/pt/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

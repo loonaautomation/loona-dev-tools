@@ -2,7 +2,7 @@
   "name": "Loona CSV felosztó és egyesítő online ingyen",
   "short_name": "CSV szétválasztó és egyesítő online ingyen",
   "description": "Egy CSV szétválasztása részekre sorszám szerint, vagy több CSV fájl egyesítése egybe, online ingyen - a fejlécek helyesen kezelve, megfelelő CSV elemzés. Nincs regisztráció, 100%-ban a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/csv-split-merge/",
+  "id": "/hu/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

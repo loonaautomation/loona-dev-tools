@@ -2,7 +2,7 @@
   "name": "Công cụ mã hóa & giải mã URL của Loona trực tuyến miễn phí",
   "short_name": "Công cụ mã hóa & giải mã URL trực tuyến",
   "description": "Mã hóa và giải mã URL và văn bản truy vấn trực tuyến miễn phí, với chế độ thành phần và toàn URL và phân tích theo từng ký tự. Không đăng ký, trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/url-encoder/",
+  "id": "/vi/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

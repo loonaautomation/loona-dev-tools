@@ -2,7 +2,7 @@
   "name": "Loona فاكّ أبجدية NATO الصوتية",
   "short_name": "فاكّ أبجدية NATO الصوتية",
   "description": "فكّ كلمات NATO الصوتية (Alfa، Bravo، Charlie...) عودة إلى أحرف وأرقام عادية.",
-  "id": "/loona-dev-tools/ar/nato-phonetic-decoder/",
+  "id": "/ar/nato-phonetic-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

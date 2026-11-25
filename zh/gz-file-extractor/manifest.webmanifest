@@ -2,7 +2,7 @@
   "name": "Loona GZ 文件解压工具 在线免费",
   "short_name": "GZ 文件解压工具 在线免费",
   "description": "直接在您的浏览器中解压单个 .gz 文件并下载原始文件——日志、数据导出、数据库转储。不上传任何东西；您的浏览器原生完成这项工作。",
-  "id": "/loona-dev-tools/zh/gz-file-extractor/",
+  "id": "/zh/gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

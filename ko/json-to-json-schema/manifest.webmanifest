@@ -2,7 +2,7 @@
   "name": "Loona JSON을 JSON Schema로 생성",
   "short_name": "JSON을 JSON Schema로 생성",
   "description": "JSON 샘플에서 JSON Schema(초안 2020-12)를 생성해요: 타입이 추론되고, 객체 속성과 필수 키가 포함돼요.",
-  "id": "/loona-dev-tools/ko/json-to-json-schema/",
+  "id": "/ko/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Manenosiri ya Nasibu",
   "short_name": "Kizalishaji cha Manenosiri ya Nasibu",
   "description": "Zalisha manenosiri yenye nguvu ya nasibu kwenye kivinjari chako kwa WebCrypto API: urefu na seti za herufi zinazoweza kurekebishwa, entropi huonyeshwa.",
-  "id": "/loona-dev-tools/sw/random-password-generator/",
+  "id": "/sw/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

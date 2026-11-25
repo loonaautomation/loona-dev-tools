@@ -2,7 +2,7 @@
   "name": "Loona Convertidor de escapes Unicode (\\uXXXX)",
   "short_name": "Convertidor de escapes Unicode",
   "description": "Escapa texto a secuencias de escape Unicode (\\uXXXX) para JSON, JavaScript, Java y archivos de propiedades. Maneja los emoji mediante pares sustitutos.",
-  "id": "/loona-dev-tools/es/unicode-escape/",
+  "id": "/es/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Markdown kwenda HTML Bure Mtandaoni",
   "short_name": "Kibadilishaji cha Markdown kwenda HTML",
   "description": "Badilisha Markdown kuwa HTML mtandaoni bure - vichwa, nzito, mlalo, viungo, picha, orodha, blockquote, vizuizi vya msimbo na zaidi, na onyesho la awali lililoonyeshwa moja kwa moja. Bila kujisajili.",
-  "id": "/loona-dev-tools/sw/markdown-to-html-converter/",
+  "id": "/sw/markdown-to-html-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

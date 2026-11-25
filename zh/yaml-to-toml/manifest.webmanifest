@@ -2,7 +2,7 @@
   "name": "Loona YAML 转 TOML 转换器",
   "short_name": "YAML 转 TOML 转换器",
   "description": "在线把 YAML 转换成 TOML（通过共享数据模型）：表、标量和数组映射到 TOML 的布局规则。",
-  "id": "/loona-dev-tools/zh/yaml-to-toml/",
+  "id": "/zh/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

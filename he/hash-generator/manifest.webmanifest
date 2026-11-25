@@ -2,7 +2,7 @@
   "name": "מחולל גיבוב של Loona מקוון בחינם",
   "short_name": "מחולל גיבוב מקוון בחינם",
   "description": "צרו גיבובי SHA-1, SHA-256, SHA-384 ו-SHA-512 של כל טקסט באופן מקוון בחינם, מחושבים מקומית בדפדפן שלכם. בלי הרשמה, שום דבר לא מועלה.",
-  "id": "/loona-dev-tools/he/hash-generator/",
+  "id": "/he/hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

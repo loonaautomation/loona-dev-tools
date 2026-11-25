@@ -2,7 +2,7 @@
   "name": "Loona JSON→JSONスキーマ生成ツール",
   "short_name": "JSON→JSONスキーマ生成ツール",
   "description": "JSONサンプルからJSON Schema（ドラフト 2020-12）を生成します。型は推論され、オブジェクトのプロパティと必須キーが含まれます。",
-  "id": "/loona-dev-tools/ja/json-to-json-schema/",
+  "id": "/ja/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

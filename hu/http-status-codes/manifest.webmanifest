@@ -2,7 +2,7 @@
   "name": "Loona HTTP állapotkód-referencia",
   "short_name": "HTTP állapotkód-referencia",
   "description": "Minden gyakori HTTP állapotkód a jelentésével: 2xx siker, 3xx átirányítások, 4xx klienshibák, 5xx szerverhibák — közérthetően elmagyarázva.",
-  "id": "/loona-dev-tools/hu/http-status-codes/",
+  "id": "/hu/http-status-codes/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

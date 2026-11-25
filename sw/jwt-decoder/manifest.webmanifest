@@ -2,7 +2,7 @@
   "name": "Loona Kisimbuaji cha JWT Bure Mtandaoni",
   "short_name": "Kisimbuaji cha JWT Bure Mtandaoni",
   "description": "Simbua JSON Web Token mtandaoni bure - soma kichwa na mzigo kama JSON nzuri na uone kumalizika kwa maneno wazi. Saini HAIJATHIBITISHWA. Kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/jwt-decoder/",
+  "id": "/sw/jwt-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

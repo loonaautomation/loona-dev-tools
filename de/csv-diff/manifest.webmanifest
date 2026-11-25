@@ -2,7 +2,7 @@
   "name": "Loona CSV Diff & Vergleich online kostenlos",
   "short_name": "CSV Diff & Vergleich online kostenlos",
   "description": "Vergleichen Sie zwei CSV-Dateien kostenlos online – Zeilen, abgeglichen über eine Schlüsselspalte und klassifiziert als hinzugefügt, entfernt, geändert (mit den exakten Zellen) oder unverändert. Keine Registrierung, läuft in Ihrem Browser.",
-  "id": "/loona-dev-tools/de/csv-diff/",
+  "id": "/de/csv-diff/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

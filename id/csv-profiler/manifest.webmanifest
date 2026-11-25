@@ -2,7 +2,7 @@
   "name": "Loona Profiler CSV Online Gratis",
   "short_name": "Profiler CSV Online Gratis",
   "description": "Profil file CSV online gratis - tebakan tipe per kolom, jumlah sel kosong, jumlah nilai unik, min/maks numerik, dan nilai teratas, agar Anda memahami file sebelum menggunakannya. Tanpa pendaftaran.",
-  "id": "/loona-dev-tools/id/csv-profiler/",
+  "id": "/id/csv-profiler/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

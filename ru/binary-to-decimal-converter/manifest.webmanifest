@@ -2,7 +2,7 @@
   "name": "Loona Конвертер двоичной системы в десятичную",
   "short_name": "Конвертер двоичной системы в десятичную",
   "description": "Преобразуйте двоичные числа в десятичные онлайн — произвольная точность (BigInt), поддерживаются отрицательные числа.",
-  "id": "/loona-dev-tools/ru/binary-to-decimal-converter/",
+  "id": "/ru/binary-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

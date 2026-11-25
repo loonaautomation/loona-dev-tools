@@ -2,7 +2,7 @@
   "name": "Loona A1Z26 enkoder šifre (slova u brojeve)",
   "short_name": "A1Z26 enkoder šifre (slova",
   "description": "Kodirajte tekst šifrom A1Z26: A=1, B=2 ... Z=26. Klasični kod zagonetki i soba za bijeg.",
-  "id": "/loona-dev-tools/hr/a1z26-cipher-encoder/",
+  "id": "/hr/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

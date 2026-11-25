@@ -2,7 +2,7 @@
   "name": "Loona Συμπιεστής XML",
   "short_name": "Συμπιεστής XML",
   "description": "Συμπιέστε XML διαδικτυακά: αφαιρέστε σχόλια και κενά μεταξύ ετικετών σε μία συμπαγή γραμμή.",
-  "id": "/loona-dev-tools/el/xml-minifier/",
+  "id": "/el/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

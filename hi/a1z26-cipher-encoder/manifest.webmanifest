@@ -2,7 +2,7 @@
   "name": "Loona A1Z26 Cipher एनकोडर (अक्षरों से संख्याएँ)",
   "short_name": "A1Z26 Cipher एनकोडर (Letters",
   "description": "Text को A1Z26 cipher से encode करें: A=1, B=2 ... Z=26। Classic puzzle और escape-room code।",
-  "id": "/loona-dev-tools/hi/a1z26-cipher-encoder/",
+  "id": "/hi/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

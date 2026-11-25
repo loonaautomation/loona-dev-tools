@@ -2,7 +2,7 @@
   "name": "Loona NATO fonetisk alfabet-oversetter (Tekst",
   "short_name": "NATO fonetisk alfabet",
   "description": "Stav tekst i det NATO fonetiske alfabetet: A = Alfa, B = Bravo... Inkluderer sifre. Brukt av luftfart, militæret og støttesamtaler.",
-  "id": "/loona-dev-tools/nb/nato-phonetic-alphabet/",
+  "id": "/nb/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

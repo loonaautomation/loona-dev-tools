@@ -2,7 +2,7 @@
   "name": "Loona Keyword-Dichte-Prüfer online kostenlos",
   "short_name": "Keyword-Dichte-Prüfer",
   "description": "Prüfen Sie die Keyword-Dichte kostenlos online – Top-Einzelwörter plus 2-Wort- und 3-Wort-Phrasen mit Anzahlen und prozentualer Dichte, Stopwort-Filterung inklusive. Keine Registrierung.",
-  "id": "/loona-dev-tools/de/keyword-density-checker/",
+  "id": "/de/keyword-density-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

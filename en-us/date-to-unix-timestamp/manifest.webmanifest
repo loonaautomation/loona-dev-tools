@@ -2,7 +2,7 @@
   "name": "Loona Date to Unix Timestamp",
   "short_name": "Date to Unix Timestamp",
   "description": "Convert a date and time to its Unix timestamp in seconds and milliseconds, in UTC or your local timezone.",
-  "id": "/loona-dev-tools/en-us/date-to-unix-timestamp/",
+  "id": "/en-us/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

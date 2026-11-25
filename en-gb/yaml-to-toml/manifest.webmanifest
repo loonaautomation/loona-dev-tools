@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/yaml-to-toml/",
+  "id": "/en-gb/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

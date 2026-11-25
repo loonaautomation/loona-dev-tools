@@ -2,7 +2,7 @@
   "name": "Loona Binary से Text कन्वर्टर",
   "short_name": "Binary से Text कन्वर्टर",
   "description": "Binary (8 bits के groups, spaced या continuous) को वापस UTF-8 text में ऑनलाइन decode करें। मुफ़्त binary translator।",
-  "id": "/loona-dev-tools/hi/binary-to-text/",
+  "id": "/hi/binary-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

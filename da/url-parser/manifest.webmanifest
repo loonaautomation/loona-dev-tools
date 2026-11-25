@@ -2,7 +2,7 @@
   "name": "Loona URL-parser online gratis",
   "short_name": "URL-parser online gratis",
   "description": "Parse enhver URL online gratis til protokol, vært, port, sti, forespørgselsparametre og hash - redigér parametrene, og genopbyg URL'en. Ingen tilmelding, kører 100 % i din browser.",
-  "id": "/loona-dev-tools/da/url-parser/",
+  "id": "/da/url-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

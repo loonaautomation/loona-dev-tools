@@ -2,7 +2,7 @@
   "name": "Calculateur de sous-réseaux IP Loona en ligne gratuit",
   "short_name": "Calculateur de sous-réseaux IP en ligne",
   "description": "Calculez les sous-réseaux IPv4 en ligne et gratuitement - réseau, diffusion, masque de réseau, wildcard, premier et dernier hôte, nombre d’hôtes utilisables et classe IP à partir de n’importe quelle adresse CIDR, plus une vue de division de sous-réseaux.",
-  "id": "/loona-dev-tools/fr/ip-subnet-calculator/",
+  "id": "/fr/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

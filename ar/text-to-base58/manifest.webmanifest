@@ -2,7 +2,7 @@
   "name": "Loona مشفّر النص إلى Base58",
   "short_name": "مشفّر النص إلى Base58",
   "description": "رمّز النص إلى Base58 (أبجدية Bitcoin) عبر الإنترنت — بلا 0 أو O أو I أو l، ترميز عناوين Bitcoin وتجزئات IPFS.",
-  "id": "/loona-dev-tools/ar/text-to-base58/",
+  "id": "/ar/text-to-base58/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مشفّر شيفرة A1Z26 (الأحرف إلى الأرقام)",
   "short_name": "مشفّر شيفرة A1Z26 (الأحرف",
   "description": "رمّز النص بشيفرة A1Z26: ‏A=1، B=2 ... Z=26. رمز الألغاز وغرف الهروب الكلاسيكي.",
-  "id": "/loona-dev-tools/ar/a1z26-cipher-encoder/",
+  "id": "/ar/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

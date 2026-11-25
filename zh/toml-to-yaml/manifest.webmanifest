@@ -2,7 +2,7 @@
   "name": "Loona TOML 转 YAML 转换器",
   "short_name": "TOML 转 YAML 转换器",
   "description": "在线把 TOML 转换成 YAML：表成为嵌套映射，数组表成为对象列表。",
-  "id": "/loona-dev-tools/zh/toml-to-yaml/",
+  "id": "/zh/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

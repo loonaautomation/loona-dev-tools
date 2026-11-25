@@ -2,7 +2,7 @@
   "name": "Loona Romeinse cijfers naar getallen",
   "short_name": "Romeinse cijfers naar getallen",
   "description": "Converteer Romeinse cijfers naar getallen (1–3999), met strikte validatie van subtractieve notatie (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/nl/roman-numerals-converter/",
+  "id": "/nl/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

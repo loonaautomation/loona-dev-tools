@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi thập phân sang bát phân của Loona",
   "short_name": "Công cụ chuyển đổi thập phân sang bát phân",
   "description": "Chuyển đổi số thập phân sang bát phân trực tuyến — độ chính xác tùy ý (BigInt), hỗ trợ số âm.",
-  "id": "/loona-dev-tools/vi/decimal-to-octal-converter/",
+  "id": "/vi/decimal-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

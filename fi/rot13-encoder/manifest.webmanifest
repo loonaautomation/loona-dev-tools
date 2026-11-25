@@ -2,7 +2,7 @@
   "name": "Loona ROT13-kooderi ja -purkaja",
   "short_name": "ROT13-kooderi ja -purkaja",
   "description": "ROT13-koodaa mikä tahansa teksti: kierrä kirjaimia 13 paikalla. Koodaus ja purku ovat sama toimenpide. Klassikko spoilereille ja arvoituksille.",
-  "id": "/loona-dev-tools/fi/rot13-encoder/",
+  "id": "/fi/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

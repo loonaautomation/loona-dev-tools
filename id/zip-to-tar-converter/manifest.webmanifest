@@ -2,7 +2,7 @@
   "name": "Loona Konverter ZIP ke TAR",
   "short_name": "Konverter ZIP ke TAR",
   "description": "Konversi arsip ZIP ke TAR tanpa kompresi online: file dan folder yang sama, dikemas ulang dengan penulis TAR yang patuh standar. Sepenuhnya lokal.",
-  "id": "/loona-dev-tools/id/zip-to-tar-converter/",
+  "id": "/id/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

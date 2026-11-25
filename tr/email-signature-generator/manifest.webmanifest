@@ -2,7 +2,7 @@
   "name": "Loona HTML E-posta İmzası Oluşturucu Çevrimiçi Ücretsiz",
   "short_name": "HTML E-posta İmzası",
   "description": "Profesyonel bir HTML e-posta imzasını çevrimiçi ücretsiz oluşturun - ad, unvan, şirket, telefon, e-posta ve web sitesi, Gmail ve Outlook içinde çalışan e-posta için güvenli tablo HTML değerinde. Kayıt gerekmez.",
-  "id": "/loona-dev-tools/tr/email-signature-generator/",
+  "id": "/tr/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

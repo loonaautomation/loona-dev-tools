@@ -2,7 +2,7 @@
   "name": "Loona JSON اسٹرنگ Escape",
   "short_name": "JSON اسٹرنگ Escape",
   "description": "ایک اسٹرنگ کو JSON کے اندر سرایت کرنے کے لیے escape کریں: کوٹس، بیک سلَیشز، نئی لائنیں اور کنٹرول حروف بیک سلَیش ترتیبیں بن جاتے ہیں۔",
-  "id": "/loona-dev-tools/ur/json-escape/",
+  "id": "/ur/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

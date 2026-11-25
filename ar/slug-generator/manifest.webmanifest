@@ -2,7 +2,7 @@
   "name": "Loona منشئ Slug ‏(صانع Slug للروابط)",
   "short_name": "منشئ Slug ‏(Slug للرابط",
   "description": "أنشئ slugs روابط نظيفة من العناوين: علامات مُزالة، أحرف صغيرة، مسافات إلى شرطات (أو شرطات سفلية). صانع slug مجاني.",
-  "id": "/loona-dev-tools/ar/slug-generator/",
+  "id": "/ar/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

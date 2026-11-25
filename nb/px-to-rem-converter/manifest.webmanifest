@@ -2,7 +2,7 @@
   "name": "Loona piksler (px) til rem-konverterer",
   "short_name": "Piksler (px) til Rem-konverterer",
   "description": "Konverter px til rem med en justerbar grunnskriftstørrelse (standard 16px) og en tabell med vanlige verdier.",
-  "id": "/loona-dev-tools/nb/px-to-rem-converter/",
+  "id": "/nb/px-to-rem-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Sayı Tabanı Dönüştürücü Çevrimiçi Ücretsiz",
   "short_name": "Sayı Tabanı Dönüştürücü Çevrimiçi",
   "description": "Sayıları ikili, sekizlik, ondalık ve onaltılık arasında çevrimiçi ücretsiz, 2^53 ötesindeki değerler için BigInt hassasiyeti ve rakam başına doğrulamayla dönüştürün. Kayıt gerekmez, %100 tarayıcınızda çalışır.",
-  "id": "/loona-dev-tools/tr/number-base-converter/",
+  "id": "/tr/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

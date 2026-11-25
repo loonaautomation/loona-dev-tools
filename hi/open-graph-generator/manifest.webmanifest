@@ -2,7 +2,7 @@
   "name": "Loona Open Graph और Twitter Card जनरेटर",
   "short_name": "Open Graph & Twitter Card",
   "description": "Open Graph और Twitter Card meta tags ऑनलाइन मुफ़्त generate करें, एक live social card preview के साथ — title, description, image, URL और site name। कोई साइन-अप नहीं, आपके ब्राउज़र में चलता है।",
-  "id": "/loona-dev-tools/hi/open-graph-generator/",
+  "id": "/hi/open-graph-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona spajanje CSV-a na mreži besplatno",
   "short_name": "Spajanje CSV-a na mreži besplatno",
   "description": "Spojite dvije CSV datoteke na mreži besplatno na zajedničkom ključnom stupcu - unutarnje ili lijevo spajanje, duplicirani ključevi obrađeni na način baza podataka. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/csv-join/",
+  "id": "/hr/csv-join/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

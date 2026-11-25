@@ -2,7 +2,7 @@
   "name": "Loona Dekoder Punycode (xn-- na domenę Unicode)",
   "short_name": "Dekoder Punycode (xn-- na",
   "description": "Dekoduj domeny punycode xn-- z powrotem na ich formę Unicode — sprawdź, co umiędzynarodowiona domena naprawdę mówi.",
-  "id": "/loona-dev-tools/pl/punycode-decode/",
+  "id": "/pl/punycode-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

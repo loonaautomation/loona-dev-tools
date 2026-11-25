@@ -2,7 +2,7 @@
   "name": "Loona RAR→ZIP変換ツール 無料オンライン",
   "short_name": "RAR→ZIP変換ツール オンライン",
   "description": "RARアーカイブ（.rar）を、ブラウザの中でそのまま標準のZIPファイルに変換します。フォルダ構造は保持され、何もアップロードされません。そしてZIPはどこでも開きます — Windows、macOS、Android、iPhoneはすべて、ZIPをネイティブに開きます。",
-  "id": "/loona-dev-tools/ja/rar-to-zip-converter/",
+  "id": "/ja/rar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

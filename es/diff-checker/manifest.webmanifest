@@ -2,7 +2,7 @@
   "name": "Loona Comparador de diferencias en línea gratis",
   "short_name": "Comparador de diferencias en línea gratis",
   "description": "Compara dos textos en línea gratis con una comparación línea por línea: líneas añadidas en verde, eliminadas en rojo, más un resumen de cambios. Sin registro, funciona 100% en tu navegador.",
-  "id": "/loona-dev-tools/es/diff-checker/",
+  "id": "/es/diff-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

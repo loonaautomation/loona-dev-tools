@@ -2,7 +2,7 @@
   "name": "Loona Penjana JSON ke Skema JSON",
   "short_name": "Penjana JSON ke Skema JSON",
   "description": "Buat Skema JSON (draf 2020-12) dari sampel JSON: tipe disimpulkan, properti objek dan kunci wajib disertakan.",
-  "id": "/loona-dev-tools/ms/json-to-json-schema/",
+  "id": "/ms/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

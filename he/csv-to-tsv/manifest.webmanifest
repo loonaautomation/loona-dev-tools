@@ -2,7 +2,7 @@
   "name": "ממיר Loona CSV ל-TSV",
   "short_name": "ממיר CSV ל-TSV",
   "description": "המירו CSV ל-TSV (ערכים מופרדים בטאב): ניתוח מלא של שדות במרכאות, טאבים כמפרידים. ממיר מקוון בחינם.",
-  "id": "/loona-dev-tools/he/csv-to-tsv/",
+  "id": "/he/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

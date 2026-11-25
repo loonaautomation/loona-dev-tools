@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/csv-data-extractor/",
+  "id": "/en-gb/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

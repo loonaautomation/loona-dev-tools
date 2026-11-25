@@ -2,7 +2,7 @@
   "name": "Loona Meta Etiketi Oluşturucu Çevrimiçi Ücretsiz",
   "short_name": "Meta Etiketi Oluşturucu Çevrimiçi Ücretsiz",
   "description": "HTML meta etiketlerini çevrimiçi ücretsiz oluşturun - başlık, açıklama, keywords, yazar, robots ve canonical - canlı bir Google tarzı SERP önizlemesi ve karakter sayılarıyla. Kayıt gerekmez.",
-  "id": "/loona-dev-tools/tr/meta-tag-generator/",
+  "id": "/tr/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

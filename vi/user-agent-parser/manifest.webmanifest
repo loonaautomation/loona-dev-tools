@@ -2,7 +2,7 @@
   "name": "Công cụ phân tích chuỗi User Agent của Loona",
   "short_name": "Công cụ phân tích chuỗi User Agent",
   "description": "Phân tích một chuỗi User-Agent của trình duyệt thành trình duyệt, công cụ, hệ điều hành và loại thiết bị bằng một trình phân tích dựa trên quy tắc minh bạch.",
-  "id": "/loona-dev-tools/vi/user-agent-parser/",
+  "id": "/vi/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

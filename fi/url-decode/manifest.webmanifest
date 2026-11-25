@@ -2,7 +2,7 @@
   "name": "Loona URL-purku (prosenttipurku)",
   "short_name": "URL-purku (prosenttipurku)",
   "description": "Pura prosenttikoodattuja URL:eja ja kyselyjonoja takaisin luettavaksi tekstiksi, mukaan lukien UTF-8-sarjat ja + välilyöntinä. Ilmainen verkko dekooderi.",
-  "id": "/loona-dev-tools/fi/url-decode/",
+  "id": "/fi/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/chmod-calculator/",
+  "id": "/en-gb/chmod-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

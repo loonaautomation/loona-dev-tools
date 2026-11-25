@@ -2,7 +2,7 @@
   "name": "Loona JSON 转 JSON Schema 生成器",
   "short_name": "JSON 转 JSON Schema 生成器",
   "description": "从 JSON 样本生成 JSON Schema（草案 2020-12）：类型被推断，包含对象属性和必填键。",
-  "id": "/loona-dev-tools/zh/json-to-json-schema/",
+  "id": "/zh/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

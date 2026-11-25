@@ -2,7 +2,7 @@
   "name": "מקודד צופן Loona A1Z26 (אותיות למספרים)",
   "short_name": "מקודד צופן A1Z26 (אותיות",
   "description": "קודדו טקסט עם צופן A1Z26: ‏A=1, B=2 ... Z=26. קוד החידות וחדרי הבריחה הקלאסי.",
-  "id": "/loona-dev-tools/he/a1z26-cipher-encoder/",
+  "id": "/he/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

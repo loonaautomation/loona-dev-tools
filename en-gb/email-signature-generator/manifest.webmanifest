@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/email-signature-generator/",
+  "id": "/en-gb/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

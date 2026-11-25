@@ -2,7 +2,7 @@
   "name": "Loona parser niza user-agent",
   "short_name": "Parser niza user-agent",
   "description": "Raščlanite niz user-agent preglednika u preglednik, mehanizam, OS i vrstu uređaja prozirnim parserom temeljenim na pravilima.",
-  "id": "/loona-dev-tools/hr/user-agent-parser/",
+  "id": "/hr/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

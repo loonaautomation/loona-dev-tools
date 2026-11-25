@@ -2,7 +2,7 @@
   "name": "Loona egész számból IP-címmé átalakító",
   "short_name": "Egész szám IP címmé",
   "description": "Alakítson egy 32 bites egészet vissza pontozott IPv4 címmé (3232235521 → 192.168.0.1).",
-  "id": "/loona-dev-tools/hu/integer-to-ip/",
+  "id": "/hu/integer-to-ip/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

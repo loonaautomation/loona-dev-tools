@@ -2,7 +2,7 @@
   "name": "Loona User Agent-strängtolkare",
   "short_name": "User Agent-strängtolkare",
   "description": "Tolka en webbläsares User-Agent-sträng till webbläsare, motor, OS och enhetstyp med en transparent regelbaserad tolkare.",
-  "id": "/loona-dev-tools/sv/user-agent-parser/",
+  "id": "/sv/user-agent-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

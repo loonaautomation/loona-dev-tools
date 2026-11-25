@@ -2,7 +2,7 @@
   "name": "Loona Konverter TAR.GZ ke TAR",
   "short_name": "Konverter TAR.GZ ke TAR",
   "description": "Lepas lapisan gzip dari arsip .tar.gz / .tgz untuk mendapatkan TAR polos, online dan lokal — tidak perlu alat ekstraksi.",
-  "id": "/loona-dev-tools/id/tar-gz-to-tar-converter/",
+  "id": "/id/tar-gz-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

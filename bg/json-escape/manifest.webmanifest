@@ -2,7 +2,7 @@
   "name": "Екраниране на JSON низ на Loona",
   "short_name": "Екраниране на JSON низ",
   "description": "Екранирайте низ за вграждане в JSON: кавичките, обратните наклонени черти, новите редове и контролните символи стават \\ последователности.",
-  "id": "/loona-dev-tools/bg/json-escape/",
+  "id": "/bg/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona pretvarač formata MAC adresa",
   "short_name": "Pretvarač formata MAC adresa",
   "description": "Pretvorite MAC adrese između formata s dvotočkama (AA:BB:CC:DD:EE:FF), crticama, Cisco točkama i običnih formata; provjerava 48-bitnu adresu.",
-  "id": "/loona-dev-tools/hr/mac-address-converter/",
+  "id": "/hr/mac-address-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

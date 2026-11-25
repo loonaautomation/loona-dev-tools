@@ -2,7 +2,7 @@
   "name": "Loona Unicode 转义转换器（\\uXXXX）",
   "short_name": "Unicode 转义转换器",
   "description": "把文本转义为 Unicode 转义序列（\\uXXXX），用于 JSON、JavaScript、Java 和 properties 文件。通过代理对处理 emoji。",
-  "id": "/loona-dev-tools/zh/unicode-escape/",
+  "id": "/zh/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

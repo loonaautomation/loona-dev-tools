@@ -2,7 +2,7 @@
   "name": "Loona TAR-filutpakker på nett gratis",
   "short_name": "TAR-filutpakker på nett gratis",
   "description": "Åpne TAR-arkiver rett i nettleseren din - ren .tar så vel som .tar.bz2 og .tar.xz - se hver fil inne og last ned enkeltfiler eller alt som en ZIP. Ingenting lastes opp.",
-  "id": "/loona-dev-tools/nb/tar-file-extractor/",
+  "id": "/nb/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

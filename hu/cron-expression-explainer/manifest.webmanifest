@@ -2,7 +2,7 @@
   "name": "Loona Cron kifejezés magyarázó",
   "short_name": "Cron kifejezés magyarázó",
   "description": "Magyarázzon el cron kifejezéseket közérthető nyelven: illesszen be egy 5 mezős cron ütemezést, és olvassa el, mikor fut, mezőről mezőre.",
-  "id": "/loona-dev-tools/hu/cron-expression-explainer/",
+  "id": "/hu/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona MIME-Typen-Referenz (Content Types by",
   "short_name": "MIME-Typen-Referenz (Content",
   "description": "Übliche MIME-Typen nach Dateierweiterung: Dokumente, Bilder, Audio, Video, Archive, Schriftarten und Webformate mit ihren Content-Type-Werten.",
-  "id": "/loona-dev-tools/de/mime-types-reference/",
+  "id": "/de/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Επεξηγητής Εκφράσεων Cron",
   "short_name": "Επεξηγητής Εκφράσεων Cron",
   "description": "Επεξηγήστε εκφράσεις cron σε απλά ελληνικά: επικολλήστε ένα πρόγραμμα cron 5 πεδίων και διαβάστε πότε εκτελείται, πεδίο προς πεδίο.",
-  "id": "/loona-dev-tools/el/cron-expression-explainer/",
+  "id": "/el/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

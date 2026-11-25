@@ -2,7 +2,7 @@
   "name": "Loona Algarismos Romanos para Números",
   "short_name": "Algarismos Romanos para Números",
   "description": "Converta algarismos romanos para números (1–3999), com validação rigorosa da notação subtrativa (IV, IX, XL, CM).",
-  "id": "/loona-dev-tools/pt/roman-numerals-converter/",
+  "id": "/pt/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

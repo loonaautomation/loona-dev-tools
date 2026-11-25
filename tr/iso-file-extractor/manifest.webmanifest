@@ -2,7 +2,7 @@
   "name": "Loona ISO Dosya Çıkarıcı Çevrimiçi Ücretsiz",
   "short_name": "ISO Dosya Çıkarıcı Çevrimiçi Ücretsiz",
   "description": "ISO disk görüntülerini tarayıcınızda açın - sanal diskte saklanan dosya sistemine göz atın ve tek dosyaları veya hepsini bir ZIP olarak indirin. Hiçbir şey yüklenmez.",
-  "id": "/loona-dev-tools/tr/iso-file-extractor/",
+  "id": "/tr/iso-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

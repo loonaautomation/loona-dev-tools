@@ -2,7 +2,7 @@
   "name": "Générateur de hachages SHA-512 Loona",
   "short_name": "Générateur de hachages SHA-512",
   "description": "Calculez les hachages SHA-512 de textes ou de fichiers en ligne : 512 bits, 128 caractères hexadécimaux. Fonctionne localement dans votre navigateur avec WebCrypto/JS pur — les fichiers ne sont jamais téléversés.",
-  "id": "/loona-dev-tools/fr/sha512-hash-generator/",
+  "id": "/fr/sha512-hash-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi cơ số trực tuyến miễn phí của Loona",
   "short_name": "Công cụ chuyển đổi cơ số trực tuyến",
   "description": "Chuyển đổi số giữa nhị phân, bát phân, thập phân và thập lục phân trực tuyến miễn phí, với độ chính xác BigInt cho các giá trị vượt quá 2^53 và kiểm tra hợp lệ theo từng chữ số. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/number-base-converter/",
+  "id": "/vi/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

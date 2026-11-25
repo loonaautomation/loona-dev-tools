@@ -2,7 +2,7 @@
   "name": "Loona Генератор SQL INSERT из JSON",
   "short_name": "Генератор SQL INSERT из JSON",
   "description": "Генерируйте операторы SQL INSERT из массива объектов JSON: строки экранированы, NULL и булевы значения обработаны, настраиваемое имя таблицы.",
-  "id": "/loona-dev-tools/ru/json-to-sql-insert/",
+  "id": "/ru/json-to-sql-insert/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

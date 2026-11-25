@@ -2,7 +2,7 @@
   "name": "Loona CSV बाँटें और जोड़ें ऑनलाइन मुफ़्त",
   "short_name": "CSV बाँटें और जोड़ें ऑनलाइन मुफ़्त",
   "description": "एक CSV को row count से parts में विभाजित करें या कई CSV फ़ाइलों को एक में मिलाएँ, ऑनलाइन मुफ़्त — headers ठीक से handled, proper CSV parsing। कोई साइन-अप नहीं, 100% आपके ब्राउज़र में चलता है।",
-  "id": "/loona-dev-tools/hi/csv-split-merge/",
+  "id": "/hi/csv-split-merge/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

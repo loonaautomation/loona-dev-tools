@@ -2,7 +2,7 @@
   "name": "Loona টেক্সট থেকে হেক্স কনভার্টার",
   "short_name": "টেক্সট থেকে হেক্স রূপান্তরকারী",
   "description": "অনলাইনে টেক্সট হেক্সাডেসিমালে (UTF-8 বাইট) রূপান্তর করুন, বাইটের মধ্যে ফাঁকসহ বা ছাড়া। বিনামূল্যে ডেভেলপার কনভার্টার।",
-  "id": "/loona-dev-tools/bn/text-to-hex/",
+  "id": "/bn/text-to-hex/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

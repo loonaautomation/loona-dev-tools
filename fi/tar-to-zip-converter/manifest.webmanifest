@@ -2,7 +2,7 @@
   "name": "Loona TAR-ZIP-muunnin verkossa ilmaiseksi",
   "short_name": "TAR-ZIP-muunnin verkossa",
   "description": "Muunna TAR-arkisto (.tar) ZIP-tiedostoksi suoraan selaimessasi. TAR-tiedostot tulevat Linux- ja Unix-järjestelmistä; muunnettu ZIP aukeaa natiivisti Windowsissa, macOS:ssa ja puhelimissa. Mitään ei lähetetä palvelimelle.",
-  "id": "/loona-dev-tools/fi/tar-to-zip-converter/",
+  "id": "/fi/tar-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

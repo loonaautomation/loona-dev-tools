@@ -2,7 +2,7 @@
   "name": "Prevodník Loona ZIP na TAR",
   "short_name": "Prevodník ZIP na TAR",
   "description": "Preveďte archívy ZIP na nekomprimovaný TAR online: tie isté súbory a priečinky, znova zabalené zapisovačom TAR, ktorý spĺňa štandardy. Úplne lokálne.",
-  "id": "/loona-dev-tools/sk/zip-to-tar-converter/",
+  "id": "/sk/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

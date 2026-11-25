@@ -2,7 +2,7 @@
   "name": "Dekodér Loona Quoted-Printable",
   "short_name": "Dekodér Quoted-Printable",
   "description": "Dekódujte text quoted-printable (MIME) späť na čitateľné UTF-8: úniky =XX a mäkké zalomenia riadkov spracované podľa RFC 2045.",
-  "id": "/loona-dev-tools/sk/quoted-printable-decode/",
+  "id": "/sk/quoted-printable-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

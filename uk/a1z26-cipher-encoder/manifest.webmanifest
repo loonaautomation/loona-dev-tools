@@ -2,7 +2,7 @@
   "name": "Кодувальник шифру Loona A1Z26 (літери в числа)",
   "short_name": "Кодувальник шифру A1Z26 (літери",
   "description": "Кодуйте текст шифром A1Z26: A=1, B=2 ... Z=26. Класичний код головоломок і квест-кімнат.",
-  "id": "/loona-dev-tools/uk/a1z26-cipher-encoder/",
+  "id": "/uk/a1z26-cipher-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

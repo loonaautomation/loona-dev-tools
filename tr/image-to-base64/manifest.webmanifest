@@ -2,7 +2,7 @@
   "name": "Loona Görsel - Base64 Dönüştürücü",
   "short_name": "Görsel - Base64 Dönüştürücü",
   "description": "Bir görseli (PNG, JPG, GIF, WebP, SVG) çevrimiçi bir Base64 data URI değerine dönüştürün — dosya yerel olarak okunur, boyutlar ve boyut istatistikleriyle.",
-  "id": "/loona-dev-tools/tr/image-to-base64/",
+  "id": "/tr/image-to-base64/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

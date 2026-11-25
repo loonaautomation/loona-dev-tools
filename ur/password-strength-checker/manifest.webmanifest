@@ -2,7 +2,7 @@
   "name": "Loona پاس ورڈ مضبوطی چیکر آن لائن مفت",
   "short_name": "پاس ورڈ مضبوطی چیکر",
   "description": "پاس ورڈ مضبوطی آن لائن مفت جانچیں ایک شفاف اینٹروپی تخمینے، مخصوص رائے اور کریک ٹائم تخمینے کے ساتھ۔ پاس ورڈ کبھی آپ کے براؤزر سے نہیں نکلتا - کچھ بھیجا یا محفوظ نہیں ہوتا۔",
-  "id": "/loona-dev-tools/ur/password-strength-checker/",
+  "id": "/ur/password-strength-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

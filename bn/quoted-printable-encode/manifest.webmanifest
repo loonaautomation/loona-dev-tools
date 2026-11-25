@@ -2,7 +2,7 @@
   "name": "Loona উদ্ধৃত-মুদ্রণযোগ্য এনকোডার",
   "short_name": "উদ্ধৃত-মুদ্রণযোগ্য এনকোডার",
   "description": "টেক্সট উদ্ধৃত-মুদ্রণযোগ্য (MIME) হিসেবে অনলাইনে এনকোড করুন: UTF-8 বাইট =XX এস্কেপ হিসেবে, 76 অক্ষরে নরম লাইন বিরতি, RFC 2045 অনুযায়ী।",
-  "id": "/loona-dev-tools/bn/quoted-printable-encode/",
+  "id": "/bn/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

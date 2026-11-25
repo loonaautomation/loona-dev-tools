@@ -2,7 +2,7 @@
   "name": "Loona Diferencias y comparación de CSV en línea gratis",
   "short_name": "Diferencias y comparación de CSV en línea gratis",
   "description": "Compara dos archivos CSV en línea gratis: filas emparejadas por una columna clave y clasificadas como añadidas, eliminadas, cambiadas (con las celdas exactas) o sin cambios. Sin registro, funciona en tu navegador.",
-  "id": "/loona-dev-tools/es/csv-diff/",
+  "id": "/es/csv-diff/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

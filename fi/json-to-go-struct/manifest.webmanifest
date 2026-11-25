@@ -2,7 +2,7 @@
   "name": "Loona JSON-Go-rakennemuunnin",
   "short_name": "JSON-Go-rakennemuunnin",
   "description": "Muunna JSON Go-rakennemääritelmiksi json-tageilla: int64/float64 erotettuna, omitempty avaimille, jotka puuttuvat joistakin taulukon alkioista.",
-  "id": "/loona-dev-tools/fi/json-to-go-struct/",
+  "id": "/fi/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

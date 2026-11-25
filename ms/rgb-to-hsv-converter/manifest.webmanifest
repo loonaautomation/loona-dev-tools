@@ -2,7 +2,7 @@
   "name": "Loona Penukar RGB ke HSV",
   "short_name": "Penukar RGB ke HSV",
   "description": "Penukaran warna dari RGB ke HSV dalam talian, dengan contoh warna langsung dan semua format lain (HEX, RGB, HSL, HSV, CMYK) juga dipaparkan.",
-  "id": "/loona-dev-tools/ms/rgb-to-hsv-converter/",
+  "id": "/ms/rgb-to-hsv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

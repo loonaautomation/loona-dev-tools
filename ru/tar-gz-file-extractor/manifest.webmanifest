@@ -2,7 +2,7 @@
   "name": "Loona Распаковщик файлов TAR.GZ онлайн бесплатно",
   "short_name": "Извлечение файлов TAR.GZ онлайн",
   "description": "Открывайте архивы tar.gz прямо в вашем браузере — как .tar.gz, так и короткое имя .tgz — смотрите каждый файл внутри и скачивайте отдельные файлы или всё как ZIP. Ничего не загружается.",
-  "id": "/loona-dev-tools/ru/tar-gz-file-extractor/",
+  "id": "/ru/tar-gz-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

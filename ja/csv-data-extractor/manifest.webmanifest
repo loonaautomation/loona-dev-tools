@@ -2,7 +2,7 @@
   "name": "Loona CSVデータ抽出ツール 無料オンライン",
   "short_name": "CSVデータ抽出ツール 無料オンライン",
   "description": "乱れたCSVファイルやあらゆるテキストから、メールアドレス、電話番号、URLを無料でオンライン抽出します。クリーニングと重複除去済みのリストをダウンロードできます。登録不要、ブラウザで動作します。",
-  "id": "/loona-dev-tools/ja/csv-data-extractor/",
+  "id": "/ja/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

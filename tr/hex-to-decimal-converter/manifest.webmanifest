@@ -2,7 +2,7 @@
   "name": "Loona Onaltılık - Ondalık Dönüştürücü",
   "short_name": "Onaltılıktan Ondalığa",
   "description": "Onaltılık sayıları çevrimiçi ondalığa dönüştürün — keyfi hassasiyet (BigInt), negatif sayılar desteklenir.",
-  "id": "/loona-dev-tools/tr/hex-to-decimal-converter/",
+  "id": "/tr/hex-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

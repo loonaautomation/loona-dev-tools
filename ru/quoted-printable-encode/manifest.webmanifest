@@ -2,7 +2,7 @@
   "name": "Loona Кодировщик quoted-printable",
   "short_name": "Кодировщик Quoted-Printable",
   "description": "Кодируйте текст как quoted-printable (MIME) онлайн: байты UTF-8 как escape-последовательности =XX, мягкие переносы строк на 76 символах, по RFC 2045.",
-  "id": "/loona-dev-tools/ru/quoted-printable-encode/",
+  "id": "/ru/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

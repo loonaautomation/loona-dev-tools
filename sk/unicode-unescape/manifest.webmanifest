@@ -2,7 +2,7 @@
   "name": "Prevodník Loona Unicode Unescape (Dekódovať \\uXXXX)",
   "short_name": "Prevodník Unicode Unescape",
   "description": "Dekódujte únikové sekvencie Unicode (\\uXXXX, \\u{...}, \\xXX) späť na skutočné znaky, plus úniky \\n \\t a \\\\.",
-  "id": "/loona-dev-tools/sk/unicode-unescape/",
+  "id": "/sk/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

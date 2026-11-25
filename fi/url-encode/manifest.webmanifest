@@ -2,7 +2,7 @@
   "name": "Loona URL-koodaus (prosenttikoodaus)",
   "short_name": "URL-koodaus (prosenttikoodaus)",
   "description": "Prosenttikoodaa tekstiä tai täyttä URL:a verkossa: välilyönneistä tulee %20, varatut merkit pakotetaan RFC 3986:n mukaan. Komponentti- tai täysi URL -tila.",
-  "id": "/loona-dev-tools/fi/url-encode/",
+  "id": "/fi/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

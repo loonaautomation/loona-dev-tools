@@ -2,7 +2,7 @@
   "name": "Loona pretvarač Unix vremenske oznake u datum",
   "short_name": "Unix vremenska oznaka u datum",
   "description": "Pretvorite Unix vremensku oznaku (sekunde ili milisekunde) u ljudski datum: UTC, vaše lokalno vrijeme, ISO 8601 i relativno vrijeme.",
-  "id": "/loona-dev-tools/hr/unix-timestamp-to-date/",
+  "id": "/hr/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

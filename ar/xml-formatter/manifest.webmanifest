@@ -2,7 +2,7 @@
   "name": "Loona منسّق ومدقّق XML عبر الإنترنت مجاناً",
   "short_name": "منسّق ومدقّق XML",
   "description": "نسّق وجمّل وصغّر وتحقّق من XML عبر الإنترنت مجاناً - فحص سلامة تشكّل الوسوم المتوازنة مع رسائل خطأ واضحة، وطباعة جميلة بمسافات بادئة. دون تسجيل.",
-  "id": "/loona-dev-tools/ar/xml-formatter/",
+  "id": "/ar/xml-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

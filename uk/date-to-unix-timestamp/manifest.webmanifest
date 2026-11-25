@@ -2,7 +2,7 @@
   "name": "Конвертер дати Loona в часову мітку Unix",
   "short_name": "Дата в часову мітку Unix",
   "description": "Конвертуйте дату й час у їхню часову мітку Unix у секундах і мілісекундах, в UTC або вашому місцевому часовому поясі.",
-  "id": "/loona-dev-tools/uk/date-to-unix-timestamp/",
+  "id": "/uk/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

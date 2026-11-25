@@ -2,7 +2,7 @@
   "name": "Loona مترجم شيفرة Morse إلى نص",
   "short_name": "مترجم شيفرة Morse إلى نص",
   "description": "فكّ شيفرة Morse عودة إلى نص: الصق النقاط والشرطات (الأحرف مفصولة بمسافات، / بين الكلمات) واقرأ الرسالة.",
-  "id": "/loona-dev-tools/ar/morse-code-to-text/",
+  "id": "/ar/morse-code-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

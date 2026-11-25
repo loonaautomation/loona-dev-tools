@@ -2,7 +2,7 @@
   "name": "Loona محوّل 7Z إلى ZIP عبر الإنترنت مجاناً",
   "short_name": "محوّل 7Z إلى ZIP عبر الإنترنت",
   "description": "حوّل أرشيف 7Z ‏(.7z) إلى ملف ZIP قياسي في متصفحك مباشرة. بنية المجلدات محفوظة، لا يُرفع شيء - وZIP الناتج يُفتح أصلياً على Windows وmacOS وAndroid وiPhone، دون حاجة إلى 7-Zip.",
-  "id": "/loona-dev-tools/ar/7z-to-zip-converter/",
+  "id": "/ar/7z-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

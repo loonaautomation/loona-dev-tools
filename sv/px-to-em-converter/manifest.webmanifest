@@ -2,7 +2,7 @@
   "name": "Loona Pixlar (px) till Em-konverterare",
   "short_name": "Pixlar (px) till Em-konverterare",
   "description": "Konvertera px till em med en justerbar basteckenstorlek (standard 16px) och en tabell med vanliga värden.",
-  "id": "/loona-dev-tools/sv/px-to-em-converter/",
+  "id": "/sv/px-to-em-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

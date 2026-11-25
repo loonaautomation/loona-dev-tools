@@ -2,7 +2,7 @@
   "name": "Loona URL-Encoder & Decoder online kostenlos",
   "short_name": "URL-Encoder & Decoder online",
   "description": "Codieren und decodieren Sie URLs und Query-Text kostenlos online, mit Component- und Full-URL-Modi und einer Aufschlüsselung pro Zeichen. Keine Registrierung, in Ihrem Browser.",
-  "id": "/loona-dev-tools/de/url-encoder/",
+  "id": "/de/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

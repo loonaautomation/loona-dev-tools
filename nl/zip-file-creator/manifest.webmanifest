@@ -2,7 +2,7 @@
   "name": "Loona ZIP-bestandsmaker online gratis",
   "short_name": "ZIP-bestandsmaker online gratis",
   "description": "Maak een ZIP-bestand van meerdere bestanden direct in je browser - voeg bestanden toe, geef het archief een naam en download één .zip. Niets wordt geüpload; alles blijft op je apparaat.",
-  "id": "/loona-dev-tools/nl/zip-file-creator/",
+  "id": "/nl/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

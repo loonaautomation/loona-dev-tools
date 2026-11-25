@@ -2,7 +2,7 @@
   "name": "Loona SEO Okunabilirlik Denetleyicisi Çevrimiçi Ücretsiz",
   "short_name": "SEO Okunabilirlik Denetleyicisi",
   "description": "İçerik okunabilirliğini SEO için çevrimiçi ücretsiz kontrol edin - web metni için Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG ve ARI puanları artı cümle uzunluğu istatistikleri. Kayıt gerekmez.",
-  "id": "/loona-dev-tools/tr/readability-checker/",
+  "id": "/tr/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

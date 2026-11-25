@@ -2,7 +2,7 @@
   "name": "Loona RAR Dosya Çıkarıcı Çevrimiçi Ücretsiz",
   "short_name": "RAR Dosya Çıkarıcı Çevrimiçi Ücretsiz",
   "description": "RAR dosyalarını (RAR4 ve RAR5) tarayıcınızda açın - içindeki her dosyayı görün, tek dosyaları veya hepsini bir ZIP olarak indirin. Hiçbir şey yüklenmez; çıkarma cihazınızda gerçekleşir.",
-  "id": "/loona-dev-tools/tr/rar-file-extractor/",
+  "id": "/tr/rar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

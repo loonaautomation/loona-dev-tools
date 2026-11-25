@@ -2,7 +2,7 @@
   "name": "Loona Konverter XML ke CSV",
   "short_name": "Konverter XML ke CSV",
   "description": "Konversi XML ke CSV: elemen berulang menjadi baris, anak dan atributnya menjadi kolom. Konverter online gratis.",
-  "id": "/loona-dev-tools/id/xml-to-csv/",
+  "id": "/id/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

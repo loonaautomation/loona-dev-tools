@@ -2,7 +2,7 @@
   "name": "Loona Encoder & Decoder URL Online Gratis",
   "short_name": "Encoder & Decoder URL Online",
   "description": "Encode dan dekode URL dan teks kueri online secara gratis, dengan mode komponen dan URL lengkap serta rincian per karakter. Tanpa pendaftaran, di browser Anda.",
-  "id": "/loona-dev-tools/id/url-encoder/",
+  "id": "/id/url-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JSON formázó online ingyen",
   "short_name": "JSON formázó online ingyen",
   "description": "Formázzon, ellenőrizzen és tömörítsen JSON-t online ingyen, bármely hiba pontos sorával és oszlopával. Regisztráció nélkül, 100%-ban a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/json-formatter/",
+  "id": "/hu/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

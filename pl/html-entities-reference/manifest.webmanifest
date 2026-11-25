@@ -2,7 +2,7 @@
   "name": "Loona Tabela referencyjna encji HTML",
   "short_name": "Tabela referencyjna encji HTML",
   "description": "Tabela niezbędnych encji HTML: nazwana encja, znak, kod dziesiętny oraz uwagi o użyciu dla encji, których programiści naprawdę używają.",
-  "id": "/loona-dev-tools/pl/html-entities-reference/",
+  "id": "/pl/html-entities-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

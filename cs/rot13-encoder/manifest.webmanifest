@@ -2,7 +2,7 @@
   "name": "Kodér a dekodér Loona ROT13",
   "short_name": "Kodér a dekodér ROT13",
   "description": "ROT13 pro jakýkoli text: otočte písmena o 13 míst. Kódování a dekódování jsou tatáž operace. Klasika pro spoilery a hádanky.",
-  "id": "/loona-dev-tools/cs/rot13-encoder/",
+  "id": "/cs/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penukar Notasi Ilmiah",
   "short_name": "Penukar Notasi Ilmiah",
   "description": "Penukaran angka ke dan dari notasi ilmiah: 3200000 ⇄ 3.2 × 10^6, notasi E didukung dua arah.",
-  "id": "/loona-dev-tools/ms/scientific-notation-converter/",
+  "id": "/ms/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

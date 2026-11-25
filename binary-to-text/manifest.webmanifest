@@ -2,7 +2,7 @@
   "name": "Loona Binary to Text Converter",
   "short_name": "Binary to Text Converter",
   "description": "Decode binary (groups of 8 bits, spaced or continuous) back to UTF-8 text online. Free binary translator.",
-  "id": "/loona-dev-tools/binary-to-text/",
+  "id": "/binary-to-text/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

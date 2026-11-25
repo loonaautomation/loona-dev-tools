@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha XML kwenda YAML",
   "short_name": "Kibadilishaji cha XML kwenda YAML",
   "description": "Badilisha XML kuwa YAML: sifa kama @funguo, vipengee vinavyorudiwa kama orodha, thamani zimeainishwa. Kichanganua halisi, si regex.",
-  "id": "/loona-dev-tools/sw/xml-to-yaml/",
+  "id": "/sw/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

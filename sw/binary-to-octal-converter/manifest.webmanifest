@@ -2,7 +2,7 @@
   "name": "Loona Kibadilishaji cha Jozi kwenda Oktali",
   "short_name": "Kibadilishaji cha Jozi kwenda Oktali",
   "description": "Badilisha nambari za jozi kuwa oktali mtandaoni — usahihi wa kiholela (BigInt), nambari hasi zinaungwa mkono.",
-  "id": "/loona-dev-tools/sw/binary-to-octal-converter/",
+  "id": "/sw/binary-to-octal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

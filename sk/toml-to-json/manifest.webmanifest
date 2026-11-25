@@ -2,7 +2,7 @@
   "name": "Prevodník Loona TOML na JSON",
   "short_name": "Prevodník TOML na JSON",
   "description": "Preveďte TOML na JSON online: tabuľky, tabuľky polí, reťazce, čísla, booleovské hodnoty, polia a dátumy a časy (ako reťazce).",
-  "id": "/loona-dev-tools/sk/toml-to-json/",
+  "id": "/sk/toml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

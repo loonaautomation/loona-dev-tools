@@ -2,7 +2,7 @@
   "name": "Loona Office دستاویز میٹا ڈیٹا ویور آن لائن",
   "short_name": "Office دستاویز میٹا ڈیٹا",
   "description": "Office دستاویز میٹا ڈیٹا آن لائن مفت دیکھیں - عنوان، مصنف، کمپنی، تخلیق اور ترمیم تاریخیں، ایپلیکیشن اور ورژن .docx, .xlsx اور .pptx فائلوں کے لیے۔ صرف-دیکھنا، کچھ اپ لوڈ نہیں۔",
-  "id": "/loona-dev-tools/ur/office-metadata-viewer/",
+  "id": "/ur/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

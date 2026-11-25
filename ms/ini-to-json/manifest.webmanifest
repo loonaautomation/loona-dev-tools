@@ -2,7 +2,7 @@
   "name": "Loona Penukar INI ke JSON",
   "short_name": "Penukar INI ke JSON",
   "description": "Penukaran fail konfigurasi INI ke JSON: section menjadi objek, nilai bertipe (angka, boolean) jika tidak ambigu.",
-  "id": "/loona-dev-tools/ms/ini-to-json/",
+  "id": "/ms/ini-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

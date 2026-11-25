@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/gzip-compressor/",
+  "id": "/en-gb/gzip-compressor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

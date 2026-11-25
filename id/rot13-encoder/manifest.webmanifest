@@ -2,7 +2,7 @@
   "name": "Loona Encoder & Decoder ROT13",
   "short_name": "Encoder & Decoder ROT13",
   "description": "ROT13 teks apa pun: putar huruf sejauh 13 tempat. Encoding dan dekode adalah operasi yang sama. Klasik untuk spoiler dan teka-teki.",
-  "id": "/loona-dev-tools/id/rot13-encoder/",
+  "id": "/id/rot13-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

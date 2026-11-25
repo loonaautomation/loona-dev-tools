@@ -2,7 +2,7 @@
   "name": "מנתח כותרות Cookie של Loona",
   "short_name": "מנתח כותרות Cookie",
   "description": "נתחו כותרת Cookie לרשימה קריאה: זוגות name = value, ערכים מפוענחי-אחוזים מוצגים, ספירת עוגיות.",
-  "id": "/loona-dev-tools/he/cookie-parser/",
+  "id": "/he/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

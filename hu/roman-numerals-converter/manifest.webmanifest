@@ -2,7 +2,7 @@
   "name": "Loona római számokból számokká átalakító",
   "short_name": "Római számokból számok",
   "description": "Alakítson római számokat számokká (1–3999), a kivonó jelölés (IV, IX, XL, CM) szigorú ellenőrzésével.",
-  "id": "/loona-dev-tools/hu/roman-numerals-converter/",
+  "id": "/hu/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

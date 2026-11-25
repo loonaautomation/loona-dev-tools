@@ -2,7 +2,7 @@
   "name": "Loona Lorem Ipsum-generator",
   "short_name": "Lorem Ipsum-generator",
   "description": "Generera Lorem Ipsum-platshållartext: välj stycken, meningar eller ord, med den klassiska öppningsraden valfri.",
-  "id": "/loona-dev-tools/sv/lorem-ipsum-generator/",
+  "id": "/sv/lorem-ipsum-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

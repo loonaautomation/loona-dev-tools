@@ -2,7 +2,7 @@
   "name": "Công cụ chuyển đổi JSON sang bảng Markdown của Loona",
   "short_name": "JSON sang bảng Markdown",
   "description": "Chuyển đổi một mảng JSON các đối tượng thành bảng Markdown: các cột từ các khóa, dấu sổ dọc được escape, sẵn sàng dán vào README.",
-  "id": "/loona-dev-tools/vi/json-to-markdown-table/",
+  "id": "/vi/json-to-markdown-table/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

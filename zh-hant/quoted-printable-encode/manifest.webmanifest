@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable 編碼器",
   "short_name": "Quoted-Printable 編碼器",
   "description": "線上把文字編碼為 quoted-printable（MIME）：UTF-8 位元組寫為 =XX 轉義，每 76 個字元處軟換行，遵循 RFC 2045。",
-  "id": "/loona-dev-tools/zh-hant/quoted-printable-encode/",
+  "id": "/zh-hant/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona CSV - TSV Dönüştürücü",
   "short_name": "CSV - TSV Dönüştürücü",
   "description": "CSV değerini TSV (sekmeyle ayrılmış değerler) biçimine dönüştürün: tam tırnaklı alan ayrıştırması, ayırıcı olarak sekmeler. Ücretsiz çevrimiçi dönüştürücü.",
-  "id": "/loona-dev-tools/tr/csv-to-tsv/",
+  "id": "/tr/csv-to-tsv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

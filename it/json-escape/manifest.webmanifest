@@ -2,7 +2,7 @@
   "name": "Loona Escape stringa JSON",
   "short_name": "Escape stringa JSON",
   "description": "Sottoponi a escape una stringa per incorporarla dentro JSON: virgolette, barre rovesciate, newline e caratteri di controllo diventano sequenze \\ .",
-  "id": "/loona-dev-tools/it/json-escape/",
+  "id": "/it/json-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

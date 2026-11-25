@@ -2,7 +2,7 @@
   "name": "Loona HTML Entities एनकोडर",
   "short_name": "HTML Entities एनकोडर",
   "description": "Special characters को HTML entities के रूप में encode करें: named (&copy;), decimal या hex numeric references। Markup, quotes और non-ASCII text को escape करता है।",
-  "id": "/loona-dev-tools/hi/html-entities-encode/",
+  "id": "/hi/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona TOML-YAML-muunnin",
   "short_name": "TOML-YAML-muunnin",
   "description": "Muunna TOML YAML:iksi verkossa: taulukot muuttuvat sisäkkäisiksi kuvauksiksi, taulukkotaulukot objektien luetteloiksi.",
-  "id": "/loona-dev-tools/fi/toml-to-yaml/",
+  "id": "/fi/toml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/jwt-encoder/",
+  "id": "/en-gb/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

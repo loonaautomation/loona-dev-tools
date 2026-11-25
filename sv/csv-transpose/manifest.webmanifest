@@ -2,7 +2,7 @@
   "name": "Loona CSV-transponering online gratis",
   "short_name": "CSV-transponering online gratis",
   "description": "Transponera CSV online gratis - byt rader och kolumner med en ordentlig RFC 4180-tolkare som hanterar citerade fält korrekt. Ingen registrering, körs 100% i din webbläsare.",
-  "id": "/loona-dev-tools/sv/csv-transpose/",
+  "id": "/sv/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

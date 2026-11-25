@@ -2,7 +2,7 @@
   "name": "Loona Конвертер временной метки Unix в дату",
   "short_name": "Метка времени Unix в дату",
   "description": "Преобразуйте метку времени Unix (секунды или миллисекунды) в человеческую дату: UTC, ваше местное время, ISO 8601 и относительное время.",
-  "id": "/loona-dev-tools/ru/unix-timestamp-to-date/",
+  "id": "/ru/unix-timestamp-to-date/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

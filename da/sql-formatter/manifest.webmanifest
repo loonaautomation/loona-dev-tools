@@ -2,7 +2,7 @@
   "name": "Loona SQL-formaterer online gratis",
   "short_name": "SQL-formaterer online gratis",
   "description": "Formatér SQL online gratis: nøgleord med store bogstaver, SELECT-, FROM-, WHERE- og JOIN-ledsætninger på deres egne linjer, strenge bevaret. Ingen tilmelding, kører 100% i din browser.",
-  "id": "/loona-dev-tools/da/sql-formatter/",
+  "id": "/da/sql-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

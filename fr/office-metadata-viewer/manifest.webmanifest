@@ -2,7 +2,7 @@
   "name": "Visionneuse de métadonnées de documents Office Loona en ligne",
   "short_name": "Métadonnées de documents Office",
   "description": "Affichez les métadonnées de documents Office en ligne et gratuitement - titre, auteur, entreprise, dates de création et de modification, application et version pour les fichiers .docx, .xlsx et .pptx. En consultation seule, rien n’est téléversé.",
-  "id": "/loona-dev-tools/fr/office-metadata-viewer/",
+  "id": "/fr/office-metadata-viewer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

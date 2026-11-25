@@ -2,7 +2,7 @@
   "name": "Loona JSON to JSON Schema Generator",
   "short_name": "JSON to JSON Schema Generator",
   "description": "Generate a JSON Schema (draft 2020-12) from a JSON sample: types inferred, object properties and required keys included.",
-  "id": "/loona-dev-tools/en-us/json-to-json-schema/",
+  "id": "/en-us/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

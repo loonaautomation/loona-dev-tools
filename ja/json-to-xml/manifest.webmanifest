@@ -2,7 +2,7 @@
   "name": "Loona JSON→XML変換ツール",
   "short_name": "JSON→XML変換ツール",
   "description": "カスタマイズ可能なルート要素で、JSONをXMLにオンライン変換：配列は繰り返し要素になり、@keys は属性になります。",
-  "id": "/loona-dev-tools/ja/json-to-xml/",
+  "id": "/ja/json-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

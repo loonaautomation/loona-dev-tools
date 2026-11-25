@@ -2,7 +2,7 @@
   "name": "Convertisseur d’échappement Unicode Loona (\\uXXXX)",
   "short_name": "Convertisseur d’échappement Unicode",
   "description": "Échappez du texte en séquences d’échappement Unicode (\\uXXXX) pour JSON, JavaScript, Java et les fichiers properties. Gère les emoji via des paires de substitution.",
-  "id": "/loona-dev-tools/fr/unicode-escape/",
+  "id": "/fr/unicode-escape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

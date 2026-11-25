@@ -2,7 +2,7 @@
   "name": "Loona pretvarač YAML u XML",
   "short_name": "Pretvarač YAML u XML",
   "description": "Pretvorite YAML u XML na mreži: jedan ključ najviše razine postaje korijenski element, @ključevi postaju atributi.",
-  "id": "/loona-dev-tools/hr/yaml-to-xml/",
+  "id": "/hr/yaml-to-xml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

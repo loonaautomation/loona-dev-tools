@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Slug (Kitengeneza Slug cha URL)",
   "short_name": "Kizalishaji cha Slug (Slug ya URL",
   "description": "Zalisha slug safi za URL kutoka vichwa: lafudhi zimeondolewa, herufi ndogo, nafasi kuwa vistari (au alama za chini). Kitengeneza slug cha bure.",
-  "id": "/loona-dev-tools/sw/slug-generator/",
+  "id": "/sw/slug-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

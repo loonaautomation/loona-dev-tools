@@ -2,7 +2,7 @@
   "name": "Loona NATO-foneettisen aakkoston kääntäjä (Teksti",
   "short_name": "NATO-foneettinen aakkosto",
   "description": "Tavaa tekstiä NATO-foneettisella aakkostolla: A = Alfa, B = Bravo... Sisältää numerot. Käytössä ilmailussa, armeijassa ja tukipuheluissa.",
-  "id": "/loona-dev-tools/fi/nato-phonetic-alphabet/",
+  "id": "/fi/nato-phonetic-alphabet/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

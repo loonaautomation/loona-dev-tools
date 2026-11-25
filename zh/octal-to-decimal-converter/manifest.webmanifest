@@ -2,7 +2,7 @@
   "name": "Loona 八进制转十进制转换器",
   "short_name": "八进制转十进制转换器",
   "description": "在线把八进制数转换成十进制——任意精度（BigInt），支持负数。",
-  "id": "/loona-dev-tools/zh/octal-to-decimal-converter/",
+  "id": "/zh/octal-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

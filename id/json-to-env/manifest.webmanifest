@@ -2,7 +2,7 @@
   "name": "Loona Konverter JSON ke .env",
   "short_name": "Konverter JSON ke .env",
   "description": "Konversi konfigurasi JSON ke format .env: objek bersarang diratakan dengan jalur UNDERSCORE, nilai dikutip ketika mengandung spasi atau #.",
-  "id": "/loona-dev-tools/id/json-to-env/",
+  "id": "/id/json-to-env/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

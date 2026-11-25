@@ -2,7 +2,7 @@
   "name": "Loona számrendszer-átalakító online ingyen",
   "short_name": "Számrendszer-átalakító online",
   "description": "Alakítson számokat bináris, oktális, decimális és hexadecimális között online ingyen, BigInt pontossággal a 2^53-on túli értékekhez és számjegyenkénti ellenőrzéssel. Regisztráció nélkül, 100%-ban a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/number-base-converter/",
+  "id": "/hu/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

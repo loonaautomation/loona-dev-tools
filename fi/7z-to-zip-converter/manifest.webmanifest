@@ -2,7 +2,7 @@
   "name": "Loona 7Z-ZIP-muunnin verkossa ilmaiseksi",
   "short_name": "7Z-ZIP-muunnin verkossa",
   "description": "Muunna 7Z-arkisto (.7z) tavalliseksi ZIP-tiedostoksi suoraan selaimessasi. Kansiorakenne säilytetty, mitään ei lähetetä palvelimelle — ja tuloksena oleva ZIP aukeaa natiivisti Windowsissa, macOS:ssa, Androidissa ja iPhonessa, 7-Zipiä ei tarvita.",
-  "id": "/loona-dev-tools/fi/7z-to-zip-converter/",
+  "id": "/fi/7z-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

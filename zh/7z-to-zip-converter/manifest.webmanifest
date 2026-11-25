@@ -2,7 +2,7 @@
   "name": "Loona 7Z 转 ZIP 转换器 在线免费",
   "short_name": "7Z 转 ZIP 转换器 在线版",
   "description": "直接在您的浏览器中把 7Z 归档（.7z）转换成标准 ZIP 文件。文件夹结构得以保留，不上传任何东西——生成的 ZIP 能在 Windows、macOS、Android 和 iPhone 上原生打开，不需要 7-Zip。",
-  "id": "/loona-dev-tools/zh/7z-to-zip-converter/",
+  "id": "/zh/7z-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

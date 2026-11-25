@@ -2,7 +2,7 @@
   "name": "Loona Roman Numerals से संख्याएँ",
   "short_name": "Roman Numerals से संख्याएँ",
   "description": "Roman numerals को numbers (1–3999) में बदलें, subtractive notation (IV, IX, XL, CM) की strict validation के साथ।",
-  "id": "/loona-dev-tools/hi/roman-numerals-converter/",
+  "id": "/hi/roman-numerals-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

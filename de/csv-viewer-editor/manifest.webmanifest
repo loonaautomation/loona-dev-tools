@@ -2,7 +2,7 @@
   "name": "Loona CSV-Betrachter & Editor online kostenlos",
   "short_name": "CSV-Betrachter & Editor online",
   "description": "Sehen und bearbeiten Sie CSV-Dateien kostenlos online in einem bearbeitbaren Tabellenraster – Zellen bearbeiten, Spalten sortieren, Zeilen und Spalten hinzufügen oder entfernen, dann die bearbeitete CSV herunterladen. Keine Registrierung, läuft in Ihrem Browser.",
-  "id": "/loona-dev-tools/de/csv-viewer-editor/",
+  "id": "/de/csv-viewer-editor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

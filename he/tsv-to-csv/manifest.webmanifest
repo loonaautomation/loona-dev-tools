@@ -2,7 +2,7 @@
   "name": "ממיר Loona TSV ל-CSV",
   "short_name": "ממיר TSV ל-CSV",
   "description": "המירו TSV (ערכים מופרדים בטאב) ל-CSV: הדביקו נתונים שהועתקו מ-Excel או Sheets וקבלו CSV במרכאות כראוי.",
-  "id": "/loona-dev-tools/he/tsv-to-csv/",
+  "id": "/he/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

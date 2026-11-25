@@ -2,7 +2,7 @@
   "name": "Loona Text से Morse Code अनुवादक",
   "short_name": "Text से Morse Code अनुवादक",
   "description": "Text को Morse code (letters, digits और common punctuation) में translate करें, शब्द / से separated। मुफ़्त Morse translator।",
-  "id": "/loona-dev-tools/hi/text-to-morse-code/",
+  "id": "/hi/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

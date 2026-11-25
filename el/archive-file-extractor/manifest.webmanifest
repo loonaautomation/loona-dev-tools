@@ -2,7 +2,7 @@
   "name": "Loona Εξαγωγέας Αρχείων Αρχειοθήκης Διαδικτυακά Δωρεάν",
   "short_name": "Εξαγωγέας Αρχείων Αρχειοθήκης Διαδικτυακά",
   "description": "Ένας καθολικός ανοιχτήρας αρχειοθηκών: αποθέστε οποιοδήποτε αρχείο ZIP, RAR, 7Z, TAR, TAR.GZ, TAR.BZ2, TAR.XZ ή ISO και εξαγάγετε τα περιεχόμενά του κατευθείαν στο πρόγραμμα περιήγησής σας. Η μορφή εντοπίζεται αυτόματα· τίποτα δεν ανεβαίνει.",
-  "id": "/loona-dev-tools/el/archive-file-extractor/",
+  "id": "/el/archive-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

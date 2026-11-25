@@ -2,7 +2,7 @@
   "name": "Loona Kizalishaji cha Tegi za Meta Bure Mtandaoni",
   "short_name": "Kizalishaji cha Tegi za Meta Bure Mtandaoni",
   "description": "Zalisha tegi za meta za HTML mtandaoni bure - kichwa, maelezo, maneno muhimu, mwandishi, robots na canonical - kwa onyesho la awali la SERP la mtindo wa Google la moja kwa moja na hesabu za herufi. Bila kujisajili.",
-  "id": "/loona-dev-tools/sw/meta-tag-generator/",
+  "id": "/sw/meta-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

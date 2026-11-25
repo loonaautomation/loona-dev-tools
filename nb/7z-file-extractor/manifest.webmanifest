@@ -2,7 +2,7 @@
   "name": "Loona 7Z-filutpakker på nett gratis",
   "short_name": "7Z-filutpakker på nett gratis",
   "description": "Åpne 7z-arkiver rett i nettleseren din - se hver fil inne, last ned enkeltfiler eller alt som en ZIP. Ingenting lastes opp; utpakking skjer på enheten din med en WebAssembly-motor.",
-  "id": "/loona-dev-tools/nb/7z-file-extractor/",
+  "id": "/nb/7z-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Kalkulačka podsietí Loona IP online zadarmo",
   "short_name": "Kalkulačka podsietí IP online",
   "description": "Vypočítajte podsiete IPv4 online zadarmo – sieť, vysielanie, maska siete, zástupná maska, prvý a posledný hostiteľ, počet použiteľných hostiteľov a trieda IP z akejkoľvek adresy CIDR, plus zobrazenie delenia podsietí.",
-  "id": "/loona-dev-tools/sk/ip-subnet-calculator/",
+  "id": "/sk/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

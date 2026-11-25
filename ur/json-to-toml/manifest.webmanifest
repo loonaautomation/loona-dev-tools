@@ -2,7 +2,7 @@
   "name": "Loona JSON سے TOML کنورٹر",
   "short_name": "JSON سے TOML کنورٹر",
   "description": "JSON کو TOML میں آن لائن بدلیں: پہلے scalars، نیسٹڈ آبجیکٹس [tables] کے طور پر، آبجیکٹس کی ارے [[tables]] کے طور پر۔",
-  "id": "/loona-dev-tools/ur/json-to-toml/",
+  "id": "/ur/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

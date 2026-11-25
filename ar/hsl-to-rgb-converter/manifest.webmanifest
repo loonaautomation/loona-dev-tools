@@ -2,7 +2,7 @@
   "name": "Loona محوّل HSL إلى RGB",
   "short_name": "محوّل HSL إلى RGB",
   "description": "حوّل الألوان من HSL إلى RGB عبر الإنترنت، مع عيّنة حية وكل التنسيقات الأخرى (HEX، RGB، HSL، HSV، CMYK) معروضة أيضاً.",
-  "id": "/loona-dev-tools/ar/hsl-to-rgb-converter/",
+  "id": "/ar/hsl-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Lukujärjestelmämuunnin verkossa ilmaiseksi",
   "short_name": "Lukujärjestelmämuunnin verkossa",
   "description": "Muunna lukuja binäärin, oktaalin, desimaalin ja heksadesimaalin välillä verkossa ilmaiseksi, BigInt-tarkkuudella arvoille yli 2^53:n ja numerokohtaisella validoinnilla. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/number-base-converter/",
+  "id": "/fi/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

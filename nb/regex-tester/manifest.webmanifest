@@ -2,7 +2,7 @@
   "name": "Loona regex-tester på nett gratis",
   "short_name": "Regex-tester på nett gratis",
   "description": "Test regulære uttrykk på nett gratis med live treffutheving, fangstgruppedetaljer og en trefftelling. Ingen registrering, kjører 100 % i nettleseren din.",
-  "id": "/loona-dev-tools/nb/regex-tester/",
+  "id": "/nb/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona JSON থেকে Go Struct কনভার্টার",
   "short_name": "JSON থেকে Go Struct কনভার্টার",
   "description": "json ট্যাগসহ JSON Go struct সংজ্ঞায় রূপান্তর করুন: int64/float64 আলাদা করা, কিছু অ্যারে আইটেমে অনুপস্থিত কী-এর জন্য omitempty।",
-  "id": "/loona-dev-tools/bn/json-to-go-struct/",
+  "id": "/bn/json-to-go-struct/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

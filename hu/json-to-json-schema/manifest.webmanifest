@@ -2,7 +2,7 @@
   "name": "Loona JSON-ból JSON séma generátor",
   "short_name": "JSON-ból JSON séma generátor",
   "description": "Generáljon JSON sémát (2020-12-es tervezet) egy JSON mintából: típusok következtetve, objektumtulajdonságok és kötelező kulcsok beleértve.",
-  "id": "/loona-dev-tools/hu/json-to-json-schema/",
+  "id": "/hu/json-to-json-schema/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

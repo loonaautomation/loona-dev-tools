@@ -2,7 +2,7 @@
   "name": "Loona Conversor de ZIP para TAR",
   "short_name": "Conversor de ZIP para TAR",
   "description": "Converta ficheiros ZIP para TAR sem compressão online: mesmos ficheiros e pastas, reempacotados com um escritor TAR conforme às normas. Totalmente local.",
-  "id": "/loona-dev-tools/pt-pt/zip-to-tar-converter/",
+  "id": "/pt-pt/zip-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

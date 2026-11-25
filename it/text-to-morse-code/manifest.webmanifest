@@ -2,7 +2,7 @@
   "name": "Loona Traduttore da testo a codice Morse",
   "short_name": "Traduttore da testo a codice Morse",
   "description": "Traduci testo in codice Morse (lettere, cifre e punteggiatura comune), parole separate da /. Traduttore Morse gratuito.",
-  "id": "/loona-dev-tools/it/text-to-morse-code/",
+  "id": "/it/text-to-morse-code/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

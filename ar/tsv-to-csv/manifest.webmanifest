@@ -2,7 +2,7 @@
   "name": "Loona محوّل TSV إلى CSV",
   "short_name": "محوّل TSV إلى CSV",
   "description": "حوّل TSV (قيم مفصولة بعلامات الجدولة) إلى CSV: الصق بيانات منسوخة من Excel أو Sheets واحصل على CSV مقتبس بشكل صحيح.",
-  "id": "/loona-dev-tools/ar/tsv-to-csv/",
+  "id": "/ar/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

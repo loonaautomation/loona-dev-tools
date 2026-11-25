@@ -2,7 +2,7 @@
   "name": "Loona Kisimbaji na Kisimbuaji cha Base64 Bure Mtandaoni",
   "short_name": "Kisimbaji na Kisimbuaji cha Base64",
   "description": "Simba maandishi au faili kwenda Base64 na simbua Base64 irudi, salama kwa UTF-8 kwa lugha yoyote na emoji, kwa chaguo salama kwa URL. Bure, bila kujisajili, kwenye kivinjari chako.",
-  "id": "/loona-dev-tools/sw/base64-encoder/",
+  "id": "/sw/base64-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

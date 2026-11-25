@@ -2,7 +2,7 @@
   "name": "Loona محوّل JSON إلى TOML",
   "short_name": "محوّل JSON إلى TOML",
   "description": "حوّل JSON إلى TOML عبر الإنترنت: القياسات أولاً، الكائنات المتداخلة كـ [tables]، مصفوفات الكائنات كـ [[tables]].",
-  "id": "/loona-dev-tools/ar/json-to-toml/",
+  "id": "/ar/json-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

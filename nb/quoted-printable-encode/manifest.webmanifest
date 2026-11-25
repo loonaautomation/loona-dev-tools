@@ -2,7 +2,7 @@
   "name": "Loona Quoted-Printable-koder",
   "short_name": "Quoted-Printable-koder",
   "description": "Kod tekst som quoted-printable (MIME) på nett: UTF-8-bytes som =XX-escapes, myke linjeskift ved 76 tegn, per RFC 2045.",
-  "id": "/loona-dev-tools/nb/quoted-printable-encode/",
+  "id": "/nb/quoted-printable-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

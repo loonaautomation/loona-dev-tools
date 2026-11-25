@@ -2,7 +2,7 @@
   "name": "Loona HTML-Entities-Encoder",
   "short_name": "HTML-Entities-Encoder",
   "description": "Codieren Sie Sonderzeichen als HTML-Entities: benannte (&copy;), dezimale oder hexadezimale numerische Referenzen. Escaped Markup, Anführungszeichen und Nicht-ASCII-Text.",
-  "id": "/loona-dev-tools/de/html-entities-encode/",
+  "id": "/de/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

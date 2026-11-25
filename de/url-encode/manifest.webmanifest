@@ -2,7 +2,7 @@
   "name": "Loona URL-Codierung (Prozentcodierung)",
   "short_name": "URL-Codierung (Prozentcodierung)",
   "description": "Codieren Sie Text oder eine vollständige URL online prozentual: Leerzeichen werden zu %20, reservierte Zeichen werden gemäß RFC 3986 escaped. Component- oder Full-URL-Modus.",
-  "id": "/loona-dev-tools/de/url-encode/",
+  "id": "/de/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

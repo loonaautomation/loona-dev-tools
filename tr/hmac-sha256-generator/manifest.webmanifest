@@ -2,7 +2,7 @@
   "name": "Loona HMAC-SHA256 Oluşturucu",
   "short_name": "HMAC-SHA256 Oluşturucu",
   "description": "HMAC-SHA256 imzalarını çevrimiçi oluşturun: bir anahtar ve mesaj girin, hex MAC alın. WebCrypto, tamamen yerel.",
-  "id": "/loona-dev-tools/tr/hmac-sha256-generator/",
+  "id": "/tr/hmac-sha256-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

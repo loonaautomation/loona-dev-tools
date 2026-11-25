@@ -2,7 +2,7 @@
   "name": "Loona XML-ből CSV-be átalakító",
   "short_name": "XML-ből CSV-be átalakító",
   "description": "Alakítson XML-t CSV-vé: az ismételt elemek sorokká válnak, a gyermekeik és attribútumaik oszlopokká. Ingyenes online átalakító.",
-  "id": "/loona-dev-tools/hu/xml-to-csv/",
+  "id": "/hu/xml-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

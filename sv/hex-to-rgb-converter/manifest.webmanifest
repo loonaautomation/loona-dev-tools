@@ -2,7 +2,7 @@
   "name": "Loona HEX till RGB-konverterare",
   "short_name": "HEX till RGB-konverterare",
   "description": "Konvertera färger från HEX till RGB online, med ett livefärgprov och alla andra format (HEX, RGB, HSL, HSV, CMYK) visas också.",
-  "id": "/loona-dev-tools/sv/hex-to-rgb-converter/",
+  "id": "/sv/hex-to-rgb-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

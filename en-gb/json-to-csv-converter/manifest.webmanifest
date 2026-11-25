@@ -2,7 +2,7 @@
   "name": "Loona ",
   "short_name": "",
   "description": "",
-  "id": "/loona-dev-tools/en-gb/json-to-csv-converter/",
+  "id": "/en-gb/json-to-csv-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

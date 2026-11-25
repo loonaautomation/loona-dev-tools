@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας RAR σε TAR",
   "short_name": "Μετατροπέας RAR σε TAR",
   "description": "Μετατρέψτε αρχειοθήκες RAR (RAR4 και RAR5) σε TAR διαδικτυακά με το libarchive στο πρόγραμμα περιήγησής σας. Τα αρχεία παραμένουν στη συσκευή σας.",
-  "id": "/loona-dev-tools/el/rar-to-tar-converter/",
+  "id": "/el/rar-to-tar-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

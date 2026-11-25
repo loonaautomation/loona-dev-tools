@@ -2,7 +2,7 @@
   "name": "Loona Robots.txt tester na mreži besplatno",
   "short_name": "Robots.txt tester na mreži besplatno",
   "description": "Testirajte robots.txt na mreži besplatno - zalijepite datoteku, URL i user-agent i dobijte presudu dopušteno ili blokirano s prikazanim točno podudarajućim pravilom. Bez registracije, radi u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/robots-txt-tester/",
+  "id": "/hr/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Robots.txt tesztelő online ingyen",
   "short_name": "Robots.txt tesztelő online ingyen",
   "description": "Egy robots.txt tesztelése online ingyen - illessze be a fájlt, egy URL-t és egy user-agentet, és kapjon engedélyezett vagy blokkolt ítéletet a pontos illeszkedő szabállyal megjelenítve. Nincs regisztráció, a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/robots-txt-tester/",
+  "id": "/hu/robots-txt-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

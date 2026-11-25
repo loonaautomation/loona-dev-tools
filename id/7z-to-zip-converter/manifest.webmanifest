@@ -2,7 +2,7 @@
   "name": "Loona Konverter 7Z ke ZIP Online Gratis",
   "short_name": "Konverter 7Z ke ZIP Online",
   "description": "Konversi arsip 7Z (.7z) menjadi file ZIP standar langsung di browser Anda. Struktur folder dipertahankan, tidak ada yang diunggah - dan ZIP yang dihasilkan terbuka secara bawaan di Windows, macOS, Android, dan iPhone, tidak perlu 7-Zip.",
-  "id": "/loona-dev-tools/id/7z-to-zip-converter/",
+  "id": "/id/7z-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona קידוד URL (קידוד אחוזים)",
   "short_name": "קידוד כתובת (קידוד-אחוזים)",
   "description": "קודדו טקסט או כתובת מלאה ב-Percent-Encoding מקוון: רווחים הופכים ל-%20, תווים שמורים מבורחים לפי RFC 3986. מצב רכיב או כתובת מלאה.",
-  "id": "/loona-dev-tools/he/url-encode/",
+  "id": "/he/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

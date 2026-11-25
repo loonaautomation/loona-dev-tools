@@ -2,7 +2,7 @@
   "name": "Loona ตัวแปลง XML เป็น YAML",
   "short_name": "ตัวแปลง XML เป็น YAML",
   "description": "แปลง XML เป็น YAML: แอตทริบิวต์เป็น @keys องค์ประกอบที่ซ้ำกันเป็นรายการ ค่ามีประเภทข้อมูล ตัวแยกวิเคราะห์จริง ไม่ใช่ regex",
-  "id": "/loona-dev-tools/th/xml-to-yaml/",
+  "id": "/th/xml-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "ממיר Loona CSV ל-JSON מקוון בחינם",
   "short_name": "ממיר CSV ל-JSON מקוון",
   "description": "המירו CSV למערך JSON של אובייקטים באופן מקוון בחינם, עם מנתח CSV תקין המטפל בשדות במרכאות, פסיקים בתוך מרכאות ומרכאות מבורחות. בלי הרשמה, פועל 100% בדפדפן שלכם.",
-  "id": "/loona-dev-tools/he/csv-to-json-converter/",
+  "id": "/he/csv-to-json-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona sažimanje JavaScripta na mreži besplatno",
   "short_name": "Sažimanje JavaScripta na mreži",
   "description": "Sažmite JavaScript na mreži besplatno konzervativnim tokenizatorom koji štiti nizove, literale predložaka i regularne izraze. Bez registracije, radi 100% u vašem pregledniku.",
-  "id": "/loona-dev-tools/hr/javascript-minifier/",
+  "id": "/hr/javascript-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

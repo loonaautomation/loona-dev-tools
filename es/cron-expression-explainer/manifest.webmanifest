@@ -2,7 +2,7 @@
   "name": "Loona Explicador de expresiones cron",
   "short_name": "Explicador de expresiones cron",
   "description": "Explica expresiones cron en lenguaje sencillo: pega un horario cron de 5 campos y lee cuándo se ejecuta, campo por campo.",
-  "id": "/loona-dev-tools/es/cron-expression-explainer/",
+  "id": "/es/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

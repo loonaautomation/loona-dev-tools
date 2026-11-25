@@ -2,7 +2,7 @@
   "name": "Loona Κωδικοποιητής Οντοτήτων HTML",
   "short_name": "Κωδικοποιητής Οντοτήτων HTML",
   "description": "Κωδικοποιήστε ειδικούς χαρακτήρες ως οντότητες HTML: ονομασμένες (&copy;), δεκαδικές ή δεκαεξαδικές αριθμητικές αναφορές. Διαφεύγει σήμανση, εισαγωγικά και κείμενο μη-ASCII.",
-  "id": "/loona-dev-tools/el/html-entities-encode/",
+  "id": "/el/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

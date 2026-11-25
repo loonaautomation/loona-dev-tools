@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona CMJN vers TSL",
   "short_name": "Convertisseur CMJN vers TSL",
   "description": "Convertissez les couleurs de CMJN vers TSL en ligne, avec un échantillon en direct et tous les autres formats (HEX, RVB, TSL, TSV, CMJN) affichés aussi.",
-  "id": "/loona-dev-tools/fr/cmyk-to-hsl-converter/",
+  "id": "/fr/cmyk-to-hsl-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

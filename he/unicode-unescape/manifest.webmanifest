@@ -2,7 +2,7 @@
   "name": "ממיר ביטול בריחת Unicode של Loona (פענוח \\uXXXX)",
   "short_name": "ממיר ביטול בריחת יוניקוד",
   "description": "פענחו רצפי בריחה של Unicode ‏(\\uXXXX, \\u{...}, \\xXX) בחזרה לתווים אמיתיים, בתוספת בריחות \\n \\t ו-\\\\.",
-  "id": "/loona-dev-tools/he/unicode-unescape/",
+  "id": "/he/unicode-unescape/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

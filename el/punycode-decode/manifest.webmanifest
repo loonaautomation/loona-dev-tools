@@ -2,7 +2,7 @@
   "name": "Αποκωδικοποιητής Punycode Loona (xn-- σε Τομέα Unicode)",
   "short_name": "Αποκωδικοποιητής Punycode (xn-- σε",
   "description": "Αποκωδικοποιήστε τομείς punycode xn-- πίσω στη μορφή Unicode τους — ελέγξτε τι πραγματικά λέει ένας διεθνοποιημένος τομέας.",
-  "id": "/loona-dev-tools/el/punycode-decode/",
+  "id": "/el/punycode-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

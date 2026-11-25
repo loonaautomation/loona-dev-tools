@@ -2,7 +2,7 @@
   "name": "Loona متن سے بائنری کنورٹر",
   "short_name": "متن سے بائنری کنورٹر",
   "description": "متن کو بائنری میں بدلیں: ہر حرف اس کے UTF-8 بائٹس کے 8-bit بائنری گروپس کے طور پر۔ مفت آن لائن کنورٹر۔",
-  "id": "/loona-dev-tools/ur/text-to-binary/",
+  "id": "/ur/text-to-binary/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

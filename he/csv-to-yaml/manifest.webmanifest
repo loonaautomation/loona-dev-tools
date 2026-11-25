@@ -2,7 +2,7 @@
   "name": "ממיר Loona CSV ל-YAML",
   "short_name": "ממיר CSV ל-YAML",
   "description": "המירו טבלאות CSV ל-YAML: שורת הכותרת הופכת למפתחות, כל שורה פריט ברשימת YAML, מספרים מוקלדים.",
-  "id": "/loona-dev-tools/he/csv-to-yaml/",
+  "id": "/he/csv-to-yaml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

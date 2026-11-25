@@ -2,7 +2,7 @@
   "name": "Convertisseur Loona JSON vers dataclasses Python",
   "short_name": "JSON vers dataclass Python",
   "description": "Convertissez le JSON en dataclasses Python avec des indications de types : les objets imbriqués deviennent des dataclasses imbriquées, les types List pour les tableaux.",
-  "id": "/loona-dev-tools/fr/json-to-python-dataclass/",
+  "id": "/fr/json-to-python-dataclass/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

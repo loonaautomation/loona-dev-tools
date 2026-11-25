@@ -2,7 +2,7 @@
   "name": "Convertizor șir de interogare în JSON Loona",
   "short_name": "Convertizor șir de interogare în JSON",
   "description": "Analizează un șir de interogare URL în JSON: notația cu paranteze pătrate devine obiecte imbricate, cheile repetate devin tablouri, valori tipizate.",
-  "id": "/loona-dev-tools/ro/query-string-to-json/",
+  "id": "/ro/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

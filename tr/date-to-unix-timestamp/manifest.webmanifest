@@ -2,7 +2,7 @@
   "name": "Loona Tarih - Unix Zaman Damgası Dönüştürücü",
   "short_name": "Tarih - Unix Zaman Damgası",
   "description": "Bir tarih ve saati, UTC veya yerel saat diliminizde, saniye ve milisaniye olarak Unix zaman damgasına dönüştürün.",
-  "id": "/loona-dev-tools/tr/date-to-unix-timestamp/",
+  "id": "/tr/date-to-unix-timestamp/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

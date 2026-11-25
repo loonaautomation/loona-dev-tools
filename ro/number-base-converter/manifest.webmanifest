@@ -2,7 +2,7 @@
   "name": "Convertizor de baze numerice Loona online gratuit",
   "short_name": "Convertizor de baze numerice online",
   "description": "Convertește numere între binar, octal, zecimal și hexazecimal online gratuit, cu precizie BigInt pentru valori dincolo de 2^53 și validare pe cifră. Fără înregistrare, rulează 100% în browserul tău.",
-  "id": "/loona-dev-tools/ro/number-base-converter/",
+  "id": "/ro/number-base-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

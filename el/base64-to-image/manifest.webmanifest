@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Base64 σε Εικόνα",
   "short_name": "Μετατροπέας Base64 σε Εικόνα",
   "description": "Αποκωδικοποιήστε μια συμβολοσειρά Base64 ή data URI πίσω σε μια εικόνα που μπορεί να προβληθεί και να ληφθεί. Ο τύπος MIME ανιχνεύεται από τα byte.",
-  "id": "/loona-dev-tools/el/base64-to-image/",
+  "id": "/el/base64-to-image/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

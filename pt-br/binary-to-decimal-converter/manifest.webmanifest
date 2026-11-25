@@ -2,7 +2,7 @@
   "name": "Loona Conversor de Binário para Decimal",
   "short_name": "Conversor de Binário para Decimal",
   "description": "Converta números binários para decimal online — precisão arbitrária (BigInt), números negativos suportados.",
-  "id": "/loona-dev-tools/pt-br/binary-to-decimal-converter/",
+  "id": "/pt-br/binary-to-decimal-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

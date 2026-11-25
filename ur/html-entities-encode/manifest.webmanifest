@@ -2,7 +2,7 @@
   "name": "Loona HTML اینٹیٹیز انکوڈر",
   "short_name": "HTML اینٹیٹیز انکوڈر",
   "description": "خصوصی حروف کو HTML اینٹیٹیز کے طور پر انکوڈ کریں: نامزد (&copy;)، اعشاریہ یا ہیکس عددی حوالے۔ مارک اپ، کوٹس اور غیر ASCII متن escapes کرتا ہے۔",
-  "id": "/loona-dev-tools/ur/html-entities-encode/",
+  "id": "/ur/html-entities-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

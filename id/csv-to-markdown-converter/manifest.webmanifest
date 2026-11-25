@@ -2,7 +2,7 @@
   "name": "Loona Konverter CSV ke Tabel Markdown Online",
   "short_name": "CSV ke Tabel Markdown",
   "description": "Konversi CSV ke tabel Markdown online secara gratis - kolom numerik diratakan kanan secara otomatis dan karakter pipe di-escape dengan benar. Tanpa pendaftaran, berjalan 100% di browser Anda.",
-  "id": "/loona-dev-tools/id/csv-to-markdown-converter/",
+  "id": "/id/csv-to-markdown-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

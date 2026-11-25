@@ -2,7 +2,7 @@
   "name": "Loona YAML سے JSON کنورٹر",
   "short_name": "YAML سے JSON کنورٹر",
   "description": "YAML کو JSON میں آن لائن بدلیں: block mappings اور sequences، کوٹ شدہ اور سادہ scalars، flow مجموعے۔ Subset ایمانداری سے دستاویز شدہ۔",
-  "id": "/loona-dev-tools/ur/yaml-to-json/",
+  "id": "/ur/yaml-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

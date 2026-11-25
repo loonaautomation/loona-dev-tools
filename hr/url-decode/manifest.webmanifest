@@ -2,7 +2,7 @@
   "name": "Loona dekodiranje URL-a (percent dekodiranje)",
   "short_name": "Dekodiranje URL-a (percent dekodiranje)",
   "description": "Dekodirajte percent-kodirane URL-ove i upitne nizove natrag u čitljiv tekst, uključujući nizove UTF-8 i + kao razmak. Besplatni mrežni dekoder.",
-  "id": "/loona-dev-tools/hr/url-decode/",
+  "id": "/hr/url-decode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

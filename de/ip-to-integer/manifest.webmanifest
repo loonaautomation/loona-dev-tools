@@ -2,7 +2,7 @@
   "name": "Loona IP-Adresse-zu-Ganzzahl-Konverter",
   "short_name": "IP-Adresse zu Ganzzahl",
   "description": "Konvertieren Sie eine IPv4-Adresse in ihre 32-Bit-Ganzzahlform (192.168.0.1 → 3232235521), verwendet in Datenbanken und Bereichsprüfungen.",
-  "id": "/loona-dev-tools/de/ip-to-integer/",
+  "id": "/de/ip-to-integer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

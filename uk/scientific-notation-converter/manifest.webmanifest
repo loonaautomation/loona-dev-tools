@@ -2,7 +2,7 @@
   "name": "Конвертер наукової нотації Loona",
   "short_name": "Конвертер наукового запису",
   "description": "Конвертуйте числа в наукову нотацію й назад: 3200000 ⇄ 3.2 × 10^6, нотація E підтримується в обох напрямках.",
-  "id": "/loona-dev-tools/uk/scientific-notation-converter/",
+  "id": "/uk/scientific-notation-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

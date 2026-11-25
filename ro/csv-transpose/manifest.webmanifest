@@ -2,7 +2,7 @@
   "name": "Transpunere CSV Loona online gratuit",
   "short_name": "Transpunere CSV online gratuit",
   "description": "Transpune CSV online gratuit - schimbă rândurile și coloanele cu un analizator RFC 4180 adecvat care gestionează corect câmpurile puse între ghilimele. Fără înregistrare, rulează 100% în browserul tău.",
-  "id": "/loona-dev-tools/ro/csv-transpose/",
+  "id": "/ro/csv-transpose/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

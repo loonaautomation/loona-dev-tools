@@ -2,7 +2,7 @@
   "name": "Tham khảo các loại MIME của Loona (các loại nội dung theo",
   "short_name": "Tham khảo các loại MIME (Content",
   "description": "Các loại MIME phổ biến theo phần mở rộng tệp: tài liệu, hình ảnh, âm thanh, video, tệp lưu trữ, phông chữ và định dạng web với các giá trị Content-Type của chúng.",
-  "id": "/loona-dev-tools/vi/mime-types-reference/",
+  "id": "/vi/mime-types-reference/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

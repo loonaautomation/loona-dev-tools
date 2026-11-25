@@ -2,7 +2,7 @@
   "name": "Loona Компаратор семантических версий",
   "short_name": "Сравнение семантических версий",
   "description": "Проверяйте и сравнивайте семантические версии (MAJOR.MINOR.PATCH): какая новее и какой вид изменения их разделяет.",
-  "id": "/loona-dev-tools/ru/semver-comparator/",
+  "id": "/ru/semver-comparator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

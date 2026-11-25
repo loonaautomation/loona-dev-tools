@@ -2,7 +2,7 @@
   "name": "Loona JSON-muotoilija verkossa ilmaiseksi",
   "short_name": "JSON-muotoilija verkossa ilmaiseksi",
   "description": "Muotoile, vahvista ja minimoi JSON verkossa ilmaiseksi, virheen täsmällinen rivi ja sarake mukana. Ei rekisteröitymistä, toimii 100 % selaimessasi.",
-  "id": "/loona-dev-tools/fi/json-formatter/",
+  "id": "/fi/json-formatter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

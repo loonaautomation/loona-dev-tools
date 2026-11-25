@@ -2,7 +2,7 @@
   "name": "Loona Cookie 標頭解析器",
   "short_name": "Cookie 標頭解析器",
   "description": "把 Cookie 標頭解析為可讀列表：顯示 name = value 鍵值對、百分比解碼後的值和 cookie 數量。",
-  "id": "/loona-dev-tools/zh-hant/cookie-parser/",
+  "id": "/zh-hant/cookie-parser/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

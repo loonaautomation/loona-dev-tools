@@ -2,7 +2,7 @@
   "name": "Loona CSV adatkinyerő online ingyen",
   "short_name": "CSV adatkinyerő online ingyen",
   "description": "Nyerjen ki e-mail címeket, telefonszámokat és URL-eket rendezetlen CSV fájlokból vagy bármilyen szövegből online ingyen - tisztított, duplikátummentesített listák, amelyeket letölthet. Regisztráció nélkül, a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/csv-data-extractor/",
+  "id": "/hu/csv-data-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

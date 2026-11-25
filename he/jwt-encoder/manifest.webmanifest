@@ -2,7 +2,7 @@
   "name": "מקודד Loona JWT (חותם HS256)",
   "short_name": "מקודד JWT (חותם HS256)",
   "description": "צרו וחתמו אסימוני JSON Web עם HS256 בדפדפן שלכם: JSON של מטען בתוספת סוד, או alg=none. חתימת WebCrypto.",
-  "id": "/loona-dev-tools/he/jwt-encoder/",
+  "id": "/he/jwt-encoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

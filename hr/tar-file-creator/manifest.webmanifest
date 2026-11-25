@@ -2,7 +2,7 @@
   "name": "Loona izrada TAR datoteka na mreži besplatno",
   "short_name": "Alat za izradu TAR datoteka na mreži besplatno",
   "description": "Izradite TAR arhivu (.tar) od više datoteka izravno u svom pregledniku - program za zapis ustar ispravan prema specifikaciji, opcija mape, prave vremenske oznake. Ništa se ne prenosi; tarball se gradi na vašem uređaju i otvara se svakim tar alatom.",
-  "id": "/loona-dev-tools/hr/tar-file-creator/",
+  "id": "/hr/tar-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Công cụ giải thích biểu thức Cron của Loona",
   "short_name": "Công cụ giải thích biểu thức Cron",
   "description": "Giải thích biểu thức cron bằng tiếng Anh dễ hiểu: dán một lịch cron 5 trường và đọc khi nào nó chạy, theo từng trường.",
-  "id": "/loona-dev-tools/vi/cron-expression-explainer/",
+  "id": "/vi/cron-expression-explainer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

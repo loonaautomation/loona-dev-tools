@@ -2,7 +2,7 @@
   "name": "Loona CSSボックスシャドウ生成ツール 無料オンライン",
   "short_name": "CSSボックスシャドウ生成ツール",
   "description": "CSS box-shadowを無料でオンライン生成できます。複数のシャドウレイヤー、インセットシャドウ、色と不透明度の制御、ライブプレビューと完成CSS付きです。登録不要、ブラウザで動作します。",
-  "id": "/loona-dev-tools/ja/css-box-shadow-generator/",
+  "id": "/ja/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

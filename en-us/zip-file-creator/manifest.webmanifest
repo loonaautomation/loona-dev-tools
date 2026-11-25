@@ -2,7 +2,7 @@
   "name": "Loona ZIP File Creator - Make a ZIP from Multiple Files",
   "short_name": "ZIP File Creator - Make a ZIP from Multiple Files",
   "description": "Create a ZIP file from multiple files right in your browser - add files, name the archive and download one .zip. Nothing is uploaded; everything stays on your device.",
-  "id": "/loona-dev-tools/en-us/zip-file-creator/",
+  "id": "/en-us/zip-file-creator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Penukar YAML ke TOML",
   "short_name": "Penukar YAML ke TOML",
   "description": "Penukaran YAML ke TOML dalam talian (melalui model data bersama): table, skalar, dan array dipetakan ke aturan tata letak TOML.",
-  "id": "/loona-dev-tools/ms/yaml-to-toml/",
+  "id": "/ms/yaml-to-toml/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

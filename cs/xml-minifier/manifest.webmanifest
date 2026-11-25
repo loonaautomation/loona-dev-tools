@@ -2,7 +2,7 @@
   "name": "Minifikátor Loona XML",
   "short_name": "Minifikátor XML",
   "description": "Minifikujte XML online: odstraňte komentáře a bílé znaky mezi značkami do jednoho kompaktního řádku.",
-  "id": "/loona-dev-tools/cs/xml-minifier/",
+  "id": "/cs/xml-minifier/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

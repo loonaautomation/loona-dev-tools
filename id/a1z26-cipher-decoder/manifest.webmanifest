@@ -2,7 +2,7 @@
   "name": "Loona Decoder Sandi A1Z26 (Angka ke Huruf)",
   "short_name": "Decoder Sandi A1Z26 (Angka",
   "description": "Dekode kode angka A1Z26 kembali ke huruf: 1=A, 2=B ... 26=Z. Dipisahkan tanda hubung, koma, atau spasi.",
-  "id": "/loona-dev-tools/id/a1z26-cipher-decoder/",
+  "id": "/id/a1z26-cipher-decoder/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

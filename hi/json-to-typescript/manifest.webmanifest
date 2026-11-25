@@ -2,7 +2,7 @@
   "name": "Loona JSON से TypeScript Interface कन्वर्टर",
   "short_name": "JSON से TypeScript Interface",
   "description": "JSON को TypeScript interfaces में ऑनलाइन बदलें: nested objects named interfaces बन जाते हैं, objects के arrays अपनी keys merge करते हैं और optional fields marked होते हैं।",
-  "id": "/loona-dev-tools/hi/json-to-typescript/",
+  "id": "/hi/json-to-typescript/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

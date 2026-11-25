@@ -2,7 +2,7 @@
   "name": "Převodník Loona cURL na Fetch",
   "short_name": "Převodník cURL na Fetch",
   "description": "Převeďte příkaz cURL na kód fetch() v JavaScriptu: záhlaví, metoda, data, základní ověření a --json zvládnuty.",
-  "id": "/loona-dev-tools/cs/curl-to-fetch/",
+  "id": "/cs/curl-to-fetch/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

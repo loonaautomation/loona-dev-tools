@@ -2,7 +2,7 @@
   "name": "Công cụ kiểm tra Regex của Loona trực tuyến miễn phí",
   "short_name": "Công cụ kiểm tra Regex trực tuyến miễn phí",
   "description": "Kiểm tra biểu thức chính quy trực tuyến miễn phí với tô sáng kết quả khớp trực tiếp, chi tiết nhóm bắt và số lượng kết quả khớp. Không đăng ký, chạy 100% trong trình duyệt của bạn.",
-  "id": "/loona-dev-tools/vi/regex-tester/",
+  "id": "/vi/regex-tester/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

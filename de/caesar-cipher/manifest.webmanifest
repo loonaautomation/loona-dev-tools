@@ -2,7 +2,7 @@
   "name": "Loona Caesar-Chiffre-Encoder & Decoder",
   "short_name": "Caesar-Chiffre-Encoder &",
   "description": "Caesar-Chiffre mit beliebiger Verschiebung (1–25) und einem Decodiermodus: die klassische Substitutionschiffre von Julius Caesar, online.",
-  "id": "/loona-dev-tools/de/caesar-cipher/",
+  "id": "/de/caesar-cipher/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

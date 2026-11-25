@@ -2,7 +2,7 @@
   "name": "Loona Codificación de URL (codificación porcentual)",
   "short_name": "Codificación de URL (codificación porcentual)",
   "description": "Codifica porcentualmente texto o una URL completa en línea: los espacios se convierten en %20, los caracteres reservados se escapan según RFC 3986. Modo componente o URL completa.",
-  "id": "/loona-dev-tools/es/url-encode/",
+  "id": "/es/url-encode/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

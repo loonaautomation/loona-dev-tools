@@ -2,7 +2,7 @@
   "name": "Loona pretvarač Markdown u HTML na mreži besplatno",
   "short_name": "Pretvarač Markdown u HTML",
   "description": "Pretvorite Markdown u HTML na mreži besplatno - naslovi, podebljano, kurziv, poveznice, slike, popisi, blokovski navodnici, blokovi koda i još mnogo toga, uz iscrtani pregled uživo. Bez registracije.",
-  "id": "/loona-dev-tools/hr/markdown-to-html-converter/",
+  "id": "/hr/markdown-to-html-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

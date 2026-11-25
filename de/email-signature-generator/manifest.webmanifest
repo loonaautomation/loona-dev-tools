@@ -2,7 +2,7 @@
   "name": "Loona HTML-E-Mail-Signatur-Generator online kostenlos",
   "short_name": "HTML-E-Mail-Signatur",
   "description": "Erstellen Sie eine professionelle HTML-E-Mail-Signatur kostenlos online – Name, Titel, Firma, Telefon, E-Mail und Website in E-Mail-sicherem Tabellen-HTML, das in Gmail und Outlook funktioniert. Keine Registrierung.",
-  "id": "/loona-dev-tools/de/email-signature-generator/",
+  "id": "/de/email-signature-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

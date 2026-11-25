@@ -2,7 +2,7 @@
   "name": "Loona Adler-32-sjekksumkalkulator",
   "short_name": "Adler-32 sjekksumkalkulator",
   "description": "Beregn Adler-32-hasher av tekst eller filer på nett: 32-bit, 8 hekstegn. Kjører lokalt i nettleseren din med WebCrypto/ren JS — filer lastes aldri opp.",
-  "id": "/loona-dev-tools/nb/adler32-calculator/",
+  "id": "/nb/adler32-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

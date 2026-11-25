@@ -2,7 +2,7 @@
   "name": "Розпакувальник файлів Loona TAR онлайн безкоштовно",
   "short_name": "Розпакувальник файлів TAR онлайн безкоштовно",
   "description": "Відкривайте архіви TAR просто у своєму браузері — звичайний .tar, а також .tar.bz2 і .tar.xz — бачте кожен файл усередині й завантажуйте окремі файли або все як ZIP. Нічого не передається.",
-  "id": "/loona-dev-tools/uk/tar-file-extractor/",
+  "id": "/uk/tar-file-extractor/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ISO til ZIP-konverterer",
   "short_name": "ISO til ZIP-konverterer",
   "description": "Konverter et ISO-plateimage til en ZIP av filene på nett: libarchive leser ISO9660/Rock Ridge-innholdet lokalt.",
-  "id": "/loona-dev-tools/nb/iso-to-zip-converter/",
+  "id": "/nb/iso-to-zip-converter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

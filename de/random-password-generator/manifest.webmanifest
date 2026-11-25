@@ -2,7 +2,7 @@
   "name": "Loona Zufälliger Passwort-Generator",
   "short_name": "Zufälliger Passwort-Generator",
   "description": "Generieren Sie starke zufällige Passwörter in Ihrem Browser mit der WebCrypto-API: Länge und Zeichenklassen einstellbar, Entropie angezeigt.",
-  "id": "/loona-dev-tools/de/random-password-generator/",
+  "id": "/de/random-password-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

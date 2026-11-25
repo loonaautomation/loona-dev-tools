@@ -2,7 +2,7 @@
   "name": "Loona TSV - CSV Dönüştürücü",
   "short_name": "TSV - CSV Dönüştürücü",
   "description": "TSV (sekmeyle ayrılmış değerler) değerini CSV biçimine dönüştürün: Excel veya Sheets içinden kopyalanan veriyi yapıştırın ve düzgün tırnaklı CSV alın.",
-  "id": "/loona-dev-tools/tr/tsv-to-csv/",
+  "id": "/tr/tsv-to-csv/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

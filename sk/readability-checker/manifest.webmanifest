@@ -2,7 +2,7 @@
   "name": "Kontrolór čitateľnosti Loona SEO online zadarmo",
   "short_name": "Kontrolór čitateľnosti SEO",
   "description": "Kontrolujte čitateľnosť obsahu pre SEO online zadarmo – skóre Flesch, Flesch-Kincaid, Gunning Fog, Coleman-Liau, SMOG a ARI plus štatistiky dĺžky viet pre webové texty. Bez registrácie.",
-  "id": "/loona-dev-tools/sk/readability-checker/",
+  "id": "/sk/readability-checker/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

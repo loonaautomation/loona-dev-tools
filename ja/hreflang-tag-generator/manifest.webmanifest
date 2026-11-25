@@ -2,7 +2,7 @@
   "name": "Loona Hreflangタグ生成ツール 無料オンライン",
   "short_name": "Hreflangタグ生成ツール オンライン",
   "description": "hreflangタグを無料でオンライン生成します。言語とURLのペアを貼り付け、x-defaultを追加すると、BCP 47と絶対URLのチェック付きで完全な代替リンクセットが得られます。登録不要です。",
-  "id": "/loona-dev-tools/ja/hreflang-tag-generator/",
+  "id": "/ja/hreflang-tag-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

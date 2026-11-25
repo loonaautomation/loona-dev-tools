@@ -2,7 +2,7 @@
   "name": "Loona Μετατροπέας Διεύθυνσης IP σε Ακέραιο",
   "short_name": "Διεύθυνση IP σε Ακέραιο",
   "description": "Μετατρέψτε μια διεύθυνση IPv4 στη μορφή ακέραιου 32-bit της (192.168.0.1 → 3232235521), που χρησιμοποιείται σε βάσεις δεδομένων και ελέγχους εύρους.",
-  "id": "/loona-dev-tools/el/ip-to-integer/",
+  "id": "/el/ip-to-integer/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

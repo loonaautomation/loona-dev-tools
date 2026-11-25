@@ -2,7 +2,7 @@
   "name": "Loona Query String - JSON Dönüştürücü",
   "short_name": "Query String - JSON Dönüştürücü",
   "description": "Bir URL sorgu dizesini JSON değerine ayrıştırın: ayraç gösterimi, iç içe nesneler olur, yinelenen anahtarlar diziler olur, değerler yazılır.",
-  "id": "/loona-dev-tools/tr/query-string-to-json/",
+  "id": "/tr/query-string-to-json/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

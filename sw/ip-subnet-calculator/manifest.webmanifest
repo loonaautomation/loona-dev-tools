@@ -2,7 +2,7 @@
   "name": "Loona Kikokotoo cha Subnet ya IP Bure Mtandaoni",
   "short_name": "Kikokotoo cha Subnet ya IP Mtandaoni",
   "description": "Kokotoa subnet za IPv4 mtandaoni bure - mtandao, utangazaji, netmask, wildcard, mwenyeji wa kwanza na wa mwisho, idadi ya wenyeji inayoweza kutumika na daraja la IP kutoka anwani yoyote ya CIDR, pamoja na mwonekano wa kugawanya subnet.",
-  "id": "/loona-dev-tools/sw/ip-subnet-calculator/",
+  "id": "/sw/ip-subnet-calculator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

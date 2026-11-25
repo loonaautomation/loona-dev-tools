@@ -2,7 +2,7 @@
   "name": "Loona CSS dobozárnyék-generátor online ingyen",
   "short_name": "CSS dobozárnyék-generátor",
   "description": "Generáljon CSS box-shadow-t online ingyen - több árnyékréteg, inset árnyékok, szín- és átlátszatlanság-szabályozás, élő előnézettel és kész CSS-sel. Regisztráció nélkül, a böngészőjében fut.",
-  "id": "/loona-dev-tools/hu/css-box-shadow-generator/",
+  "id": "/hu/css-box-shadow-generator/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
